@@ -1,5 +1,0 @@
-Actors
-===================================
-
-.. toctree::
-   actors/person
