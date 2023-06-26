@@ -12,6 +12,7 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 .. toctree::
+   :caption: Contents:
    :hidden:
    getting_started
    how_to_contribute

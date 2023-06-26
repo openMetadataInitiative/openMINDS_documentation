@@ -1,6 +1,7 @@
 Chemicals
 ===================================
 
-.. toctree::   
-   :hidden:    
+.. toctree::
+   :caption: Contents:
+   :hidden: 
    chemicals/amount_of_chemical

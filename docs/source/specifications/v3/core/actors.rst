@@ -1,6 +1,7 @@
 Actors
 ===================================
 
-.. toctree::    
-   :hidden:
+.. toctree::
+   :caption: Contents:
+   :hidden: 
    actors/person

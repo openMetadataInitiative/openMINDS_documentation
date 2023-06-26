@@ -3,8 +3,8 @@ Getting started
 
 Lorem ipsum
 
-Contents
---------
-.. toctree::    
+.. toctree::
+   :caption: Contents:
+   :hidden:
    getting_started/python
    getting_started/matlab

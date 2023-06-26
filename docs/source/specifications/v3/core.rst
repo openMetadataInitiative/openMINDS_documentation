@@ -1,6 +1,7 @@
 Core
 ===================================
 
-.. toctree::    
-   :hidden:
+.. toctree::
+   :caption: Contents:
+   :hidden: 
    core/actors
