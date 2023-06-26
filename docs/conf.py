@@ -37,7 +37,7 @@ versions = ['v2.0', 'latest']
 html_context = {
     'display_github': False,
     'display_version': True,
-    'versions': versions
+    'versions': [(version, f"/{version}/") for version in versions]
 }
 
 # -- Options for EPUB output
