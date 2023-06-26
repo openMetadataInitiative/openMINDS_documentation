@@ -34,5 +34,15 @@ html_theme_options = {
     'versions_dropdown': True
 }
 
+versions = ['v2.0', 'latest']
+
+# Add the version dropdown to the navigation bar
+html_context = {
+    'display_github': False,
+    'display_version': True,
+    'version_dropdown': True,
+    'versions': versions,
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
