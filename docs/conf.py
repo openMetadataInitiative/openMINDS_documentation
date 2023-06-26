@@ -37,6 +37,18 @@ epub_show_urls = 'footnote'
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
 
+html_logo = "_static/light_openMINDS-logo.png"
+
+html_show_sphinx = False
+
+html_theme_options = {
+ 'display_version': False,
+  'logo_only': True,
+  'includehidden': True
+
+}
+
+
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = [
