@@ -30,9 +30,6 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_theme_options = {
-    'versions_dropdown': True
-}
 
 versions = ['v2.0', 'latest']
 
