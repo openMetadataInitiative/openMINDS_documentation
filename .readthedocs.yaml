@@ -13,6 +13,7 @@ build:
     post_checkout:
       - rm -rf ../main
       - git clone -b main $(git remote get-url origin) ../main
+      - pwd
       - mkdir -p docs/shared
       - cp -r ../main/docs/shared ./docs/shared
 
