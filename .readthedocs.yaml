@@ -13,6 +13,12 @@ build:
     # nodejs: "19"
     # rust: "1.64"
     # golang: "1.19"
+    
+python:
+  version: 3.11
+  pre:
+    - make clone_main
+    - make copy_shared
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
