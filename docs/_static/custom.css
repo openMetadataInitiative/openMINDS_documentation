@@ -1,7 +1,20 @@
 .rst-versions {
-    bottom: unset;
+    top: 8em;
 }
 
 .wy-side-nav-search{
     background-color: unset;
+}
+
+.logo {
+    height: 7em;
+    margin-bottom: 3em;
+}
+
+.rst-current-version{
+    display: inline-block;
+}
+
+.toctree-wrapper{
+    display: none;
 }
