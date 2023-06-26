@@ -10,4 +10,4 @@ The framework comprises integrated metadata models, libraries of controlled meta
 .. toctree::
    shared/getting_started
    shared/how_to_contribute
-   shared/specifications
+   specifications
