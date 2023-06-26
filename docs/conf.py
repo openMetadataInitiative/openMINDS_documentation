@@ -40,7 +40,6 @@ versions = ['v2.0', 'latest']
 html_context = {
     'display_github': False,
     'display_version': True,
-    'version_dropdown': True,
     'versions': versions
 }
 
