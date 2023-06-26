@@ -13,8 +13,8 @@ build:
     post_checkout:
       - rm -rf ../main
       - git clone -b main $(git remote get-url origin) ../main
-      - mkdir shared
-      - cp -r ../main/shared ./shared
+      - mkdir -p docs/shared
+      - cp -r ../main/docs/shared ./docs/shared
 
 
 # Build documentation in the "docs/" directory with Sphinx
