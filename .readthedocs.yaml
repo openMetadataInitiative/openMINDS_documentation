@@ -11,11 +11,11 @@ build:
     python: "3.11"
   jobs:
     post_checkout:
-      - echo "Hello world"
-    # You can also specify other tool versions:
-    # nodejs: "19"
-    # rust: "1.64"
-    # golang: "1.19"
+      - rm -rf ../main
+      - git clone -b main $(shell git remote get-url origin) ../main
+      - mkdir shared
+      - cp -r ../main/shared ./shared
+
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
