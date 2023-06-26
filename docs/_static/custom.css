@@ -17,6 +17,22 @@
 .rst-versions .rst-current-version{
     display: inline-block;
     background-color: #343131;
+    display: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 0.5em 1em;
+    position: relative;
+    text-align: left;
+
+
+}
+
+.rst-versions .rst-current-version .fa-caret-down{
+    position: absolute;
+    right: 1em;
 }
 
 .toctree-wrapper{
