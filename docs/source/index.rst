@@ -16,5 +16,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   getting_started
+   how_to_contribute
+   specifications
