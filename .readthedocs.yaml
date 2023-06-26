@@ -9,17 +9,14 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.11"
+  jobs:
+    post_checkout:
+      - echo "Hello world"
     # You can also specify other tool versions:
     # nodejs: "19"
     # rust: "1.64"
     # golang: "1.19"
     
-python:
-  version: 3.11
-  pre:
-    - make clone_main
-    - make copy_shared
-
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
    configuration: docs/conf.py
