@@ -31,14 +31,5 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-versions = ['v2.0', 'latest']
-
-# Add the version dropdown to the navigation bar
-html_context = {
-    'display_github': False,
-    'display_version': True,
-    'versions': [(version, f"/{version}/") for version in versions]
-}
-
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
