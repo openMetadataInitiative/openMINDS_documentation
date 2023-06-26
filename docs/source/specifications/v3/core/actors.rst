@@ -1,6 +1,6 @@
-Latest
+Actors
 ===================================
+
 .. toctree::    
    :hidden:
-   v3/chemicals
-   v3/core
+   actors/person

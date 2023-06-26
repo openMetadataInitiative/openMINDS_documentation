@@ -1,6 +1,6 @@
-Latest
+Core
 ===================================
+
 .. toctree::    
    :hidden:
-   v3/chemicals
-   v3/core
+   core/actors
