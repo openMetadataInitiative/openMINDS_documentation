@@ -1,3 +1,7 @@
 .rst-versions {
     bottom: unset;
 }
+
+.wy-side-nav-search{
+    background-color: unset;
+}
