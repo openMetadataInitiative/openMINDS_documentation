@@ -13,7 +13,6 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :caption: Contents:
-   :hidden:
    getting_started
    how_to_contribute
    specifications
