@@ -1,4 +1,4 @@
-Welcome to openMINDS documentation!
+Welcome to the openMINDS documentation!
 ===================================
 
 **openMINDS** is a metadata framework for graph database systems.
