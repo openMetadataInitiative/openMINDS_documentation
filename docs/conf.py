@@ -41,7 +41,7 @@ html_context = {
     'display_github': False,
     'display_version': True,
     'version_dropdown': True,
-    'versions': versions,
+    'versions': versions
 }
 
 # -- Options for EPUB output
