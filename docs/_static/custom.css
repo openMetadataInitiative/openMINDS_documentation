@@ -1,5 +1,8 @@
 .rst-versions {
     top: 8em;
+    bottom: unset;
+    background-color: #343131;
+    text-align:center;
 }
 
 .wy-side-nav-search{
@@ -13,6 +16,7 @@
 
 .rst-versions .rst-current-version{
     display: inline-block;
+    background-color: #343131;
 }
 
 .toctree-wrapper{
