@@ -22,6 +22,7 @@ affiliation
 :Instruction: Enter all current and, if desired, past affiliations of this person.
 :Object types: `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
 :Vocab: ``"https://openminds.ebrains.eu/vocab/affiliation"``
+`UP Person`_
 
 alternateName
 -------------
