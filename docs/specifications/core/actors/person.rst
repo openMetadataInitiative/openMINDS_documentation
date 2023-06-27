@@ -8,7 +8,6 @@ https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
-
 Properties
 ==========
 :Required: `givenName`_
@@ -17,7 +16,7 @@ Properties
 ------------ 
 
 affiliation
-------------
+-----------
 :Description: Declaration of a person being closely associated to an organization.
 :Format: array; item: embedded object
 :Instruction: Enter all current and, if desired, past affiliations of this person.
