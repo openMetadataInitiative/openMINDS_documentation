@@ -18,6 +18,7 @@ Properties
 ------------ 
 
 .. topic:: affiliation
+
   :Description: Declaration of a person being closely associated to an organization.
   :Format: array; item: embedded object
   :Instruction: Enter all current and, if desired, past affiliations of this person.
