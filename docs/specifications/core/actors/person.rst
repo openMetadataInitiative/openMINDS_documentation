@@ -11,11 +11,13 @@ Structured information on a person.
 **Properties**
 ==============
 
-.. note::
-   Properties are displayed with their simple name ("simplePropertyName"). Within an openMINDS metadata instance (JSON-LD) the property name has to be extended to the full openMINDS namespace ("https://openminds.ebrains.eu/vocab/simplePropertyName"). 
+..
+   .. note::
+      Properties are displayed with their simple name ("simplePropertyName"). Within an openMINDS metadata instance (JSON-LD) the property name has to be extended to the full openMINDS namespace          ("https://openminds.ebrains.eu/vocab/simplePropertyName"). 
 
 **affiliation** ``(array, item: embedded object)``
 --------------------------------------------------
+https://openminds.ebrains.eu/vocab/affiliation
 |   - **description:** Declaration of a person being closely associated to an organization.
 |   - **instruction:** Enter all current and, if desired, past affiliations of this person.
 |   - **objectTypes:** `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
