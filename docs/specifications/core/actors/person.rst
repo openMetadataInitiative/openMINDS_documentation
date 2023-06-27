@@ -22,7 +22,8 @@ Declaration of a person being closely associated to an organization.
 
 :Semantic name: ``https://openminds.ebrains.eu/vocab/affiliation``
 
-:Value type: 
+..field:: Value type
+  :multiline:
 
   embedded object array \(1-N\)
   `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
