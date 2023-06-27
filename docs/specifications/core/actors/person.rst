@@ -22,11 +22,8 @@ Declaration of a person being closely associated to an organization.
 
 :Semantic name: ``https://openminds.ebrains.eu/vocab/affiliation``
 
-:Value type:
-  :multiline:
-
-  embedded object array \(1-N\)
-  `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: | embedded object array \(1-N\)
+             | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
 
 :Instruction: Enter all current and, if desired, past affiliations of this person.
 
