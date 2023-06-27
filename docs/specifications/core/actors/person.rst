@@ -1,15 +1,15 @@
 Person
-======
+######
 
 https://openminds.ebrains.eu/core/Person
-----------------------------------------
+****************************************
 
 Structured information on a person.
 
 ------------ 
 
 **Properties**
-**************
+==============
 
 .. note::
    Properties are displayed with their simple name ("simplePropertyName"). Within an openMINDS metadata instance (JSON-LD) the property name has to be extended to the full openMINDS namespace ("https://openminds.ebrains.eu/vocab/simplePropertyName"). 
