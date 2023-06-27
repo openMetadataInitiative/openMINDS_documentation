@@ -18,11 +18,11 @@ Properties
 
 affiliation
 ------------
-  :Description: Declaration of a person being closely associated to an organization.
-  :Format: array; item: embedded object
-  :Instruction: Enter all current and, if desired, past affiliations of this person.
-  :Object types: `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
-  :Vocab: ``"https://openminds.ebrains.eu/vocab/affiliation"``
+:Description: Declaration of a person being closely associated to an organization.
+:Format: array; item: embedded object
+:Instruction: Enter all current and, if desired, past affiliations of this person.
+:Object types: `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
+:Vocab: ``"https://openminds.ebrains.eu/vocab/affiliation"``
 
 alternateName
 -------------
