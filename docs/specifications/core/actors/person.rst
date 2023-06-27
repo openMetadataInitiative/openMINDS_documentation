@@ -8,6 +8,9 @@ https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
+:Required properties: `givenName`_
+:Optional properties: `affiliation`_, `alternateName`_, `associatedAccount`_, `contactInformation`_, `digitalIdentifier`_, `familyName`_
+
 ------------ 
 
 Properties
@@ -15,11 +18,11 @@ Properties
 
 affiliation
 -----------
-:description: Declaration of a person being closely associated to an organization.
-:format: array; item: embedded object
-:instruction: Enter all current and, if desired, past affiliations of this person.
-:objectTypes: `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
-:vocab: ``"https://openminds.ebrains.eu/vocab/affiliation"``
+:Description: Declaration of a person being closely associated to an organization.
+:Format: array; item: embedded object
+:Instruction: Enter all current and, if desired, past affiliations of this person.
+:Object types: `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
+:Vocab: ``"https://openminds.ebrains.eu/vocab/affiliation"``
 
 alternateName
 -------------
