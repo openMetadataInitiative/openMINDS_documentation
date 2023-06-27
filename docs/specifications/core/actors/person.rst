@@ -32,30 +32,30 @@ associatedAccount
 :instruction: Add the information about web service accounts held by this person.
 :objectTypes: `AccountInformation <https://openminds.ebrains.eu/core/AccountInformation>`_
 
-contactInformation ``(array, item: linked object)``
----------------------------------------------------------
+contactInformation
+------------------
 :vocab: ``"https://openminds.ebrains.eu/vocab/contactInformation"``
 :description: Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
 :instruction: Add the contact information of this person.
 :objectTypes: `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
 
-digitalIdentifier** ``(array, item: linked object)``
---------------------------------------------------------
+digitalIdentifier
+-----------------
 :vocab: ``"https://openminds.ebrains.eu/vocab/digitalIdentifier"``
 :format: array: 1-N items; item: linked object
 :description: Digital handle to identify objects or legal persons.
 :instruction: Add all globally unique and persistent digital identifier of this person.
 :objectTypes: `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
 
-familyName** ``(array, item: string)``
-------------------------------------------
+familyName
+----------
 :vocab: ``"https://openminds.ebrains.eu/vocab/familyName"``
 :format: string
 :description: Name borne in common by members of a family.
 :instruction: Enter the family name of this person.
 
-givenName** ``(array, item: string)``
------------------------------------------
+givenName
+---------
 :vocab: ``"https://openminds.ebrains.eu/vocab/givenName"``
 :format: string
 :description: Name given to a person, including all potential middle names, but excluding the family name.
