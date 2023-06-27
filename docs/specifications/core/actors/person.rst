@@ -8,13 +8,13 @@ https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
-:Required properties: `givenName`_
-:Optional properties: `affiliation`_, `alternateName`_, `associatedAccount`_, `contactInformation`_, `digitalIdentifier`_, `familyName`_
-
------------- 
-
 Properties
 ==========
+
+:Required: `givenName`_
+:Optional: `affiliation`_, `alternateName`_, `associatedAccount`_, `contactInformation`_, `digitalIdentifier`_, `familyName`_
+
+------------ 
 
 affiliation
 -----------
