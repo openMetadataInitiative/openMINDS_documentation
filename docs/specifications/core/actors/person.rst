@@ -26,7 +26,7 @@ Declaration of a person being closely associated to an organization.
    :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
    :Value type: | embedded object array of type
                 | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
-   :Instructions: Enter all current and, if desired, past affiliations of this person.
+   :Value instructions: Enter all current and, if desired, past affiliations of this person.
 
 
 ------------
