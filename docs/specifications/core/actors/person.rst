@@ -26,7 +26,7 @@ Declaration of a person being closely associated to an organization.
 :Value type: | embedded object array of type
              | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
 
-.. Instructions::
+.. admonition:: instructions
 
    Enter all current and, if desired, past affiliations of this person.
 
@@ -40,7 +40,7 @@ alternateName
 
 :Value type: string array
 
-.. Instructions::
+.. admonition:: instructions
 
    Enter any other known full name of this person.
 
@@ -55,7 +55,7 @@ associatedAccount
 :Value type: | linked object array of type
              | `AccountInformation <https://openminds.ebrains.eu/core/AccountInformation>`_
 
-.. Instructions::
+.. admonition:: instructions
 
    Add the information about web service accounts held by this person.
 
@@ -72,7 +72,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 :Value type: | linked object of type
              | `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
 
-.. Instructions::
+.. admonition:: instructions
 
    Add the contact information of this person.
 
@@ -89,7 +89,7 @@ Digital handle to identify objects or legal persons.
 :Value type: | linked object array of type
              | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
 
-.. Instructions::
+.. admonition:: instructions
 
    Add all globally unique and persistent digital identifier of this person.
 
@@ -105,7 +105,7 @@ Name borne in common by members of a family.
 
 :Value type: string
 
-.. Instructions::
+.. admonition:: instructions
 
    Enter the family name of this person.
 
@@ -121,7 +121,7 @@ Name given to a person, including all potential middle names, but excluding the 
 
 :Value type: string
 
-.. Instructions::
+.. admonition:: instructions
 
    Enter the given name of this person.
 
