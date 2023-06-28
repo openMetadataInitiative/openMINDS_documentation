@@ -25,7 +25,8 @@ Declaration of a person being closely associated to an organization.
 :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -41,7 +42,8 @@ alternateName
 :Semantic name: https://openminds.ebrains.eu/vocab/alternateName
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -57,7 +59,8 @@ associatedAccount
 :Semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -76,7 +79,8 @@ phone number, email address, etc.).
 :Semantic name: https://openminds.ebrains.eu/vocab/contactInformation
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -94,7 +98,8 @@ Digital handle to identify objects or legal persons.
 :Semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -113,7 +118,8 @@ Name borne in common by members of a family.
 :Semantic name: https://openminds.ebrains.eu/vocab/familyName
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
@@ -132,7 +138,8 @@ excluding the family name.
 :Semantic name: https://openminds.ebrains.eu/vocab/givenName
 
 :Value type: | embedded object array of type
-             | `Affiliation
+             | | `Affiliation
+<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
