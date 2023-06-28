@@ -12,8 +12,7 @@ Properties
 ==========
 
 :Required: `givenName`_
-:Optional: `affiliation`_, `alternateName`_, `associatedAccount`_,
-   `contactInformation`_, `digitalIdentifier`_, `familyName`_
+:Optional: `affiliation`_, `alternateName`_, `associatedAccount`_, `contactInformation`_, `digitalIdentifier`_, `familyName`_
 
 ------------
 
@@ -25,10 +24,10 @@ Declaration of a person being closely associated to an organization.
 :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
 
 :Value type: | embedded object array of type
-             | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+             | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
+
    Enter all current and, if desired, past affiliations of this person.
 
 
@@ -42,6 +41,7 @@ alternateName
 :Value type: string array
 
 .. Instructions::
+
    Enter any other known full name of this person.
 
 
@@ -53,10 +53,10 @@ associatedAccount
 :Semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
 
 :Value type: | linked object array of type
-             | `AccountInformation
-<https://openminds.ebrains.eu/core/AccountInformation>`_
+             | `AccountInformation <https://openminds.ebrains.eu/core/AccountInformation>`_
 
 .. Instructions::
+
    Add the information about web service accounts held by this person.
 
 
@@ -65,16 +65,15 @@ associatedAccount
 contactInformation
 ------------------
 
-Any available way used to contact a person or business (e.g., address,
-phone number, email address, etc.).
+Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
 
 :Semantic name: https://openminds.ebrains.eu/vocab/contactInformation
 
 :Value type: | linked object of type
-             | `ContactInformation
-<https://openminds.ebrains.eu/core/ContactInformation>`_
+             | `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
 
 .. Instructions::
+
    Add the contact information of this person.
 
 
@@ -91,8 +90,8 @@ Digital handle to identify objects or legal persons.
              | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
 
 .. Instructions::
-   Add all globally unique and persistent digital identifier of this
-   person.
+
+   Add all globally unique and persistent digital identifier of this person.
 
 
 ------------
@@ -107,6 +106,7 @@ Name borne in common by members of a family.
 :Value type: string
 
 .. Instructions::
+
    Enter the family name of this person.
 
 
@@ -115,8 +115,7 @@ Name borne in common by members of a family.
 givenName
 ---------
 
-Name given to a person, including all potential middle names, but
-excluding the family name.
+Name given to a person, including all potential middle names, but excluding the family name.
 
 :Semantic name: https://openminds.ebrains.eu/vocab/givenName
 
