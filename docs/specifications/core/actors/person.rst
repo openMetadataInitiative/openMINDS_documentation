@@ -25,12 +25,10 @@ Declaration of a person being closely associated to an organization.
 :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
 
 :Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
+             | `Affiliation
 <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. Instructions::
-
    Enter all current and, if desired, past affiliations of this person.
 
 
@@ -41,13 +39,9 @@ alternateName
 
 :Semantic name: https://openminds.ebrains.eu/vocab/alternateName
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: string array
 
 .. Instructions::
-
    Enter any other known full name of this person.
 
 
@@ -58,13 +52,11 @@ associatedAccount
 
 :Semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: | linked object array of type
+             | `AccountInformation
+<https://openminds.ebrains.eu/core/AccountInformation>`_
 
 .. Instructions::
-
    Add the information about web service accounts held by this person.
 
 
@@ -78,13 +70,11 @@ phone number, email address, etc.).
 
 :Semantic name: https://openminds.ebrains.eu/vocab/contactInformation
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: | linked object of type
+             | `ContactInformation
+<https://openminds.ebrains.eu/core/ContactInformation>`_
 
 .. Instructions::
-
    Add the contact information of this person.
 
 
@@ -97,13 +87,10 @@ Digital handle to identify objects or legal persons.
 
 :Semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: | linked object array of type
+             | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
 
 .. Instructions::
-
    Add all globally unique and persistent digital identifier of this
    person.
 
@@ -117,13 +104,9 @@ Name borne in common by members of a family.
 
 :Semantic name: https://openminds.ebrains.eu/vocab/familyName
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: string
 
 .. Instructions::
-
    Enter the family name of this person.
 
 
@@ -137,10 +120,7 @@ excluding the family name.
 
 :Semantic name: https://openminds.ebrains.eu/vocab/givenName
 
-:Value type: | embedded object array of type
-             | | `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_, or `Affiliation
-<https://openminds.ebrains.eu/core/Affiliation>`_
+:Value type: string
 
 .. Instructions::
 
