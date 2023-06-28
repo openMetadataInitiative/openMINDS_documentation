@@ -26,7 +26,8 @@ Declaration of a person being closely associated to an organization.
              | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
 
 .. admonition:: instructions
-
+   :class: dropdown
+   
    Enter all current and, if desired, past affiliations of this person.
 
 
