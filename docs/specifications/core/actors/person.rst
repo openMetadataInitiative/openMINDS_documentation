@@ -34,12 +34,11 @@ Declaration of a person being closely associated to an organization.
 alternateName
 -------------
 
-:Semantic name: https://openminds.ebrains.eu/vocab/alternateName
-:Value type: string array
+.. admonition:: Another name by which a someone or something may be known. 
 
-.. admonition:: instructions
-
-   Enter any other known full name of this person.
+   :Semantic name: https://openminds.ebrains.eu/vocab/alternateName
+   :Value type: string array
+   :Instructions: Enter any other known full name of this person.
 
 
 ------------
