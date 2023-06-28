@@ -21,14 +21,12 @@ affiliation
 
 Declaration of a person being closely associated to an organization.
 
+.. admonition:: specifications
+
 :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
 :Value type: | embedded object array of type
              | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
-
-.. admonition:: instructions
-   :class: dropdown
-   
-   Enter all current and, if desired, past affiliations of this person.
+:Instructions: Enter all current and, if desired, past affiliations of this person.
 
 
 ------------
