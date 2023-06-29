@@ -12,13 +12,9 @@ Structured information on a person.
 Properties
 **********
 
-:Required: `https://openminds.ebrains.eu/vocab/givenName <https://openminds.ebrains.eu/vocab/givenName_heading_>`_
-:Optional: `https://openminds.ebrains.eu/vocab/affiliation <https://openminds.ebrains.eu/vocab/affiliation_heading_>`_,
-   `https://openminds.ebrains.eu/vocab/alternateName <https://openminds.ebrains.eu/vocab/alternateName_heading_>`_,
-   `https://openminds.ebrains.eu/vocab/associatedAccount <https://openminds.ebrains.eu/vocab/associatedAccount_heading_>`_,
-   `https://openminds.ebrains.eu/vocab/contactInformation <https://openminds.ebrains.eu/vocab/contactInformation_heading_>`_,
-   `https://openminds.ebrains.eu/vocab/digitalIdentifier <https://openminds.ebrains.eu/vocab/digitalIdentifier_heading_>`_,
-   `https://openminds.ebrains.eu/vocab/familyName <https://openminds.ebrains.eu/vocab/familyName_heading_>`_
+:Required: `givenName <givenName_heading_>`_
+:Optional: `affiliation <affiliation_heading_>`_, `alternateName <alternateName_heading_>`_, `associatedAccount <associatedAccount_heading_>`_,
+   `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
 
 ------------
 
