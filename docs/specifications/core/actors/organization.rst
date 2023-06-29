@@ -32,7 +32,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_or `RORID <https://openminds.ebrains.eu/core/RORID>`_
+                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_ or `RORID <https://openminds.ebrains.eu/core/RORID>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this organization.
 
 `BACK TO TOP <Organization_>`_

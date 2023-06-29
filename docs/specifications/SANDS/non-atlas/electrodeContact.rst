@@ -102,7 +102,7 @@ Reference to the written, stored evidence of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedRecording
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add one or several files in which the recordings from this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -120,7 +120,7 @@ Reference to the written, stored function used as a physiological stimulus.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedStimulation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add one or several files in which the stimulations applied via this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_

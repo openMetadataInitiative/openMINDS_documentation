@@ -56,7 +56,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: If necessary, add one or several authors (person or organization) that contributed to the production and publication of this dataset version.
       Note that these authors will overwrite the once provided in the dataset product this version belongs to.
 
@@ -94,7 +94,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -183,7 +183,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `URL
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `URL
                 <https://openminds.ebrains.eu/core/URL>`_
    :instructions: Add the DOI, file or URL that points to a full documentation of this research product version.
 
@@ -276,7 +276,7 @@ Data that is put into a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle
                 <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add the data that was used as input for this dataset version.
 
@@ -404,7 +404,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
    :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of
       this research product version.
 
@@ -476,7 +476,7 @@ studiedSpecimen
    :semantic name: https://openminds.ebrains.eu/vocab/studiedSpecimen
    :value type: | linked object array \(1-N\) of type
                 | `Subject <https://openminds.ebrains.eu/core/Subject>`_, `SubjectGroup <https://openminds.ebrains.eu/core/SubjectGroup>`_, `TissueSample
-                <https://openminds.ebrains.eu/core/TissueSample>`_or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
+                <https://openminds.ebrains.eu/core/TissueSample>`_ or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
    :instructions: Add one or several specimen (subjects and/or tissue samples) or specimen sets (subject groups and/or tissue sample collections) that were
       studied in this dataset.
 

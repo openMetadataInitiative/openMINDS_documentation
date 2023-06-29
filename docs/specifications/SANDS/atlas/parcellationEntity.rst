@@ -133,7 +133,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_or `QuantitativeRelationAssessment
+                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment
                 <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
    :instructions: Add one or several relations of this parcellation entity to parcellation entities of other parcellation terminologies.
 

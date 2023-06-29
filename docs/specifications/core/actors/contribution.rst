@@ -49,7 +49,7 @@ Legal person that gave or supplied something as a part or share.
 
    :semantic name: https://openminds.ebrains.eu/vocab/contributor
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the contributing person or organization.
 
 `BACK TO TOP <Contribution_>`_

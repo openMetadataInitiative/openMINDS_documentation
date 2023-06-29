@@ -31,7 +31,7 @@ Legal person in possession of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/holder
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add one or several persons or organisations that hold the copyright.
 
 `BACK TO TOP <Copyright_>`_

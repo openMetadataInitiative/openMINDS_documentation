@@ -65,7 +65,7 @@ Numerical characterization of how much two things occupy the same space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/quantitativeOverlap
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Add the quantitative overlap between the two anatomical entities preferably expressed in percentage.
 
