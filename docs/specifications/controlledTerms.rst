@@ -4,41 +4,41 @@ Controlledterms
 
 .. toctree::
 
-   controlledTerms/anatomicalAxesOrientation.rst
+   controlledTerms/unitOfMeasurement.rst
    controlledTerms/modelAbstractionLevel.rst
-   controlledTerms/ageCategory.rst
-   controlledTerms/softwareFeatureCategory.rst
-   controlledTerms/behavioralTask.rst
-   controlledTerms/softwareFeature.rst
-   controlledTerms/criteriaQualityType.rst
-   controlledTerms/biologicalSex.rst
-   controlledTerms/technique.rst
-   controlledTerms/cellType.rst
-   controlledTerms/modelScope.rst
-   controlledTerms/modality.rst
-   controlledTerms/laterality.rst
-   controlledTerms/qualitativeOverlap.rst
-   controlledTerms/contributionType.rst
-   controlledTerms/productAccessibility.rst
-   controlledTerms/softwareApplicationCategory.rst
-   controlledTerms/genotype.rst
+   controlledTerms/language.rst
+   controlledTerms/operatingSystem.rst
    controlledTerms/fileBundleGrouping.rst
-   controlledTerms/metaDataModelType.rst
+   controlledTerms/tissueSampleType.rst
+   controlledTerms/strain.rst
+   controlledTerms/genotype.rst
+   controlledTerms/organ.rst
+   controlledTerms/terminology.rst
+   controlledTerms/qualitativeOverlap.rst
    controlledTerms/phenotype.rst
+   controlledTerms/operatingDevice.rst
+   controlledTerms/softwareFeature.rst
+   controlledTerms/technique.rst
+   controlledTerms/softwareFeatureCategory.rst
+   controlledTerms/biologicalSex.rst
+   controlledTerms/cellType.rst
    controlledTerms/ethicsAssessment.rst
    controlledTerms/diseaseModel.rst
-   controlledTerms/operatingSystem.rst
-   controlledTerms/preparationType.rst
-   controlledTerms/unitOfMeasurement.rst
-   controlledTerms/operatingDevice.rst
-   controlledTerms/datasetType.rst
-   controlledTerms/programmingLanguage.rst
-   controlledTerms/tissueSampleType.rst
-   controlledTerms/terminology.rst
-   controlledTerms/termSuggestion.rst
-   controlledTerms/strain.rst
    controlledTerms/fileUsageRole.rst
-   controlledTerms/language.rst
-   controlledTerms/disease.rst
+   controlledTerms/preparationType.rst
+   controlledTerms/modality.rst
+   controlledTerms/modelScope.rst
+   controlledTerms/laterality.rst
+   controlledTerms/contributionType.rst
+   controlledTerms/behavioralTask.rst
+   controlledTerms/metaDataModelType.rst
+   controlledTerms/programmingLanguage.rst
+   controlledTerms/datasetType.rst
+   controlledTerms/softwareApplicationCategory.rst
    controlledTerms/species.rst
-   controlledTerms/organ.rst
+   controlledTerms/anatomicalAxesOrientation.rst
+   controlledTerms/productAccessibility.rst
+   controlledTerms/termSuggestion.rst
+   controlledTerms/disease.rst
+   controlledTerms/ageCategory.rst
+   controlledTerms/criteriaQualityType.rst

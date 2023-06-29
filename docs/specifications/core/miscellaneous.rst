@@ -4,8 +4,8 @@ Miscellaneous
 
 .. toctree::
 
-   miscellaneous/digitalIdentifierSchema.rst
-   miscellaneous/quantitativeValueRange.rst
-   miscellaneous/quantitativeValue.rst
    miscellaneous/funding.rst
+   miscellaneous/quantitativeValueRange.rst
    miscellaneous/digitalIdentifier.rst
+   miscellaneous/digitalIdentifierSchema.rst
+   miscellaneous/quantitativeValue.rst

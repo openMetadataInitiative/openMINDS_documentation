@@ -4,6 +4,6 @@ Actors
 
 .. toctree::
 
-   actors/organization.rst
    actors/contribution.rst
+   actors/organization.rst
    actors/person.rst
