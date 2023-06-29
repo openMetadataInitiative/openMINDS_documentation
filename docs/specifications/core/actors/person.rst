@@ -8,7 +8,9 @@ https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
-============
+------------
+
+------------
 
 **********
 Properties
