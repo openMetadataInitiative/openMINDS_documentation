@@ -42,8 +42,13 @@ class GitPusher(object):
         self._clear_directory()
         shutil.copytree(f"target/{version}", self.upload_dir, dirs_exist_ok=True)
         self._repo.git.add('--all')
-        self._repo.index.commit(f'Updating documentation for version {version}')
-        self._repo.git.push("origin", version)
+        diff_list = self._repo.head.commit.diff()
+        if diff_list:
+            print(f"{len(diff_list)} changes found - pushing to origin")
+            self._repo.index.commit(f'Updating documentation for version {version}')
+            self._repo.git.push("origin", version)
+        else:
+            print("No changes - nothing to commit")
 
     def _clear_directory(self):
         for item in os.listdir(self.upload_dir):
