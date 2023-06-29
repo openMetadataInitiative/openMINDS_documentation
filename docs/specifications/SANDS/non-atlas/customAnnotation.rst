@@ -1,0 +1,218 @@
+################
+CustomAnnotation
+################
+
+***************************************************
+https://openminds.ebrains.eu/sands/CustomAnnotation
+***************************************************
+
+------------
+
+------------
+
+**********
+Properties
+**********
+
+:Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type
+   <type_heading_>`_
+:Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier
+   <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification
+   <specification_heading_>`_
+
+------------
+
+.. _anchorPoint_heading:
+
+anchorPoint
+-----------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
+   :value type: | embedded object array \(2-3\) of type
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+   :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional
+      space as [x, y, z]).
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _coordinateSpace_heading:
+
+coordinateSpace
+---------------
+
+Two or three dimensional geometric setting.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
+   :value type: | linked object of type
+                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_or `CustomCoordinateSpace
+                <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
+   :instructions: Add the coordinate space for this custom annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _criteria_heading:
+
+criteria
+--------
+
+Aspects or standards on which a judgement or decision is based.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/criteria
+   :value type: | linked object of type
+                | `ProtocolExecution <https://openminds.ebrains.eu/core/ProtocolExecution>`_
+   :instructions: Add the protocol execution defining the criteria that were applied to produce this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _criteriaQualityType_heading:
+
+criteriaQualityType
+-------------------
+
+Distinct class that defines how the judgement or decision was made for a particular criteria.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
+   :value type: | linked object of type
+                | `CriteriaQualityType <https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType>`_
+   :instructions: Add the quality type of the stated criteria used to define this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _criteriaType_heading:
+
+criteriaType
+------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/criteriaType
+   :value type: | linked object of type
+                | `AnnotationCriteriaType <https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType>`_
+   :instructions: Add the criteria type for this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _inspiredBy_heading:
+
+inspiredBy
+----------
+
+Reference to an inspiring element.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/inspiredBy
+   :value type: | linked object array \(1-N\) of type
+                | `File <https://openminds.ebrains.eu/core/File>`_
+   :instructions: Add all (source) files that inspired the definition of this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _internalIdentifier_heading:
+
+internalIdentifier
+------------------
+
+Term or code that identifies someone or something within a particular product.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the identifier (or label) of this annotation that is used within the corresponding data files to identify this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _laterality_heading:
+
+laterality
+----------
+
+Differentiation between a pair of lateral homologous parts of the body.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/laterality
+   :value type: | linked object array \(1-2\) of type
+                | `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_
+   :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this annotation is defined in.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _preferredVisualization_heading:
+
+preferredVisualization
+----------------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/preferredVisualization
+   :value type: | embedded object of type
+                | `ViewerSpecification <https://openminds.ebrains.eu/sands/ViewerSpecification>`_
+   :instructions: Add the preferred viewer specification to visualize this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _specification_heading:
+
+specification
+-------------
+
+Detailed and precise presentation of, or proposal for something.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :value type: | linked object of type
+                | `File <https://openminds.ebrains.eu/core/File>`_or `PropertyValueList <https://openminds.ebrains.eu/core/PropertyValueList>`_
+   :instructions: Add the non-parametric or parametric specification of this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+
+.. _type_heading:
+
+type
+----
+
+Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :value type: | linked object of type
+                | `AnnotationType <https://openminds.ebrains.eu/controlledTerms/AnnotationType>`_
+   :instructions: Add the geometry type of this annotation.
+
+`BACK TO TOP <CustomAnnotation_>`_
+
+------------
+

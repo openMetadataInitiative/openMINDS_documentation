@@ -1,0 +1,126 @@
+#####
+Setup
+#####
+
+***************************************
+https://openminds.ebrains.eu/core/Setup
+***************************************
+
+------------
+
+------------
+
+**********
+Properties
+**********
+
+:Required: `description <description_heading_>`_, `hasPart <hasPart_heading_>`_, `name <name_heading_>`_
+:Optional: `location <location_heading_>`_, `manufacturer <manufacturer_heading_>`_, `type <type_heading_>`_
+
+------------
+
+.. _description_heading:
+
+description
+-----------
+
+Longer statement or account giving the characteristics of someone or something.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a short text describing this setup.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+
+.. _hasPart_heading:
+
+hasPart
+-------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/hasPart
+   :value type: | linked object array \(2-N\) of type
+                | `Setup <https://openminds.ebrains.eu/core/Setup>`_, `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_, `Electrode
+                <https://openminds.ebrains.eu/ephys/Electrode>`_, `ElectrodeArray <https://openminds.ebrains.eu/ephys/ElectrodeArray>`_, `Pipette
+                <https://openminds.ebrains.eu/ephys/Pipette>`_or `SlicingDevice <https://openminds.ebrains.eu/specimenPrep/SlicingDevice>`_
+   :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+
+.. _location_heading:
+
+location
+--------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/location
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the geographic location of this setup. This may include room number, building, institution and/or city.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+
+.. _manufacturer_heading:
+
+manufacturer
+------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
+   :value type: | linked object array \(1-N\) of type
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                <https://openminds.ebrains.eu/core/Person>`_
+   :instructions: Add the manufacturer (private or industrial) that constructed this setup.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+
+.. _name_heading:
+
+name
+----
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a descriptive name for this setup.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+
+.. _type_heading:
+
+type
+----
+
+Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :value type: | linked object array \(1-N\) of type
+                | `SetupType <https://openminds.ebrains.eu/controlledTerms/SetupType>`_
+   :instructions: Add all types that describe this setup.
+
+`BACK TO TOP <Setup_>`_
+
+------------
+

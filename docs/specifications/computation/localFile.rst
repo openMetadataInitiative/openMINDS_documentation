@@ -1,0 +1,178 @@
+#########
+LocalFile
+#########
+
+**************************************************
+https://openminds.ebrains.eu/computation/LocalFile
+**************************************************
+
+Structured information about a file that is not accessible via a URL.
+
+------------
+
+------------
+
+**********
+Properties
+**********
+
+:Required: `name <name_heading_>`_, `path <path_heading_>`_
+:Optional: `contentDescription <contentDescription_heading_>`_, `copyOf <copyOf_heading_>`_, `dataType <dataType_heading_>`_, `format <format_heading_>`_, `hash
+   <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
+
+------------
+
+.. _contentDescription_heading:
+
+contentDescription
+------------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/contentDescription
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a short content description for this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _copyOf_heading:
+
+copyOf
+------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/copyOf
+   :value type: | linked object of type
+                | `File <https://openminds.ebrains.eu/core/File>`_
+   :instructions: Add the file of which this is a copy.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _dataType_heading:
+
+dataType
+--------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/dataType
+   :value type: | linked object array \(1-N\) of type
+                | `DataType <https://openminds.ebrains.eu/controlledTerms/DataType>`_
+   :instructions: Add all data types that are specifically represented in this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _format_heading:
+
+format
+------
+
+Method of digitally organizing and structuring data or information.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/format
+   :value type: | linked object of type
+                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+   :instructions: Add the content type of this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _hash_heading:
+
+hash
+----
+
+Term used for the process of converting any data into a single value. Often also directly refers to the resulting single value.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/hash
+   :value type: | embedded object of type
+                | `Hash <https://openminds.ebrains.eu/core/Hash>`_
+   :instructions: Add the hash that was generated for this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _name_heading:
+
+name
+----
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the name of this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _path_heading:
+
+path
+----
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/path
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the file system path (absolute path or relative to the working directory) to this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _specialUsageRole_heading:
+
+specialUsageRole
+----------------
+
+Particular function of something when it is used.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/specialUsageRole
+   :value type: | linked object of type
+                | `FileUsageRole <https://openminds.ebrains.eu/controlledTerms/FileUsageRole>`_
+   :instructions: Add the special usage role of this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+
+.. _storageSize_heading:
+
+storageSize
+-----------
+
+Quantitative value defining how much disk space is used by an object on a computer system.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/storageSize
+   :value type: | embedded object of type
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+   :instructions: Enter the storage size of this local file instance.
+
+`BACK TO TOP <LocalFile_>`_
+
+------------
+

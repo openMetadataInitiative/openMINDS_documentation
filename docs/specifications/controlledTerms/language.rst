@@ -1,0 +1,150 @@
+########
+Language
+########
+
+*****************************************************
+https://openminds.ebrains.eu/controlledTerms/Language
+*****************************************************
+
+Structured information on the available language setting.
+
+------------
+
+------------
+
+**********
+Properties
+**********
+
+:Required: `name <name_heading_>`_
+:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `interlexIdentifier <interlexIdentifier_heading_>`_, `knowledgeSpaceLink
+   <knowledgeSpaceLink_heading_>`_, `preferredOntologyIdentifier <preferredOntologyIdentifier_heading_>`_, `synonym <synonym_heading_>`_
+
+------------
+
+.. _definition_heading:
+
+definition
+----------
+
+Short, but precise statement of the meaning of a word, word group, sign or a symbol.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/definition
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter one sentence for defining this term.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _description_heading:
+
+description
+-----------
+
+Longer statement or account giving the characteristics of someone or something.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a short text describing this term.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _interlexIdentifier_heading:
+
+interlexIdentifier
+------------------
+
+Persistent identifier for a term registered in the InterLex project.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/interlexIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _knowledgeSpaceLink_heading:
+
+knowledgeSpaceLink
+------------------
+
+Persistent link to an encyclopedia entry in the Knowledge Space project.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/knowledgeSpaceLink
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _name_heading:
+
+name
+----
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Controlled term originating from a defined terminology.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _preferredOntologyIdentifier_heading:
+
+preferredOntologyIdentifier
+---------------------------
+
+Persistent identifier of a preferred ontological term.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/preferredOntologyIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term.
+
+`BACK TO TOP <Language_>`_
+
+------------
+
+.. _synonym_heading:
+
+synonym
+-------
+
+Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter one or several synonyms (inlcuding abbreviations) for this controlled term.
+
+`BACK TO TOP <Language_>`_
+
+------------
+

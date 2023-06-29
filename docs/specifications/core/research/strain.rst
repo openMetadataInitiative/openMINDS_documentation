@@ -1,0 +1,267 @@
+######
+Strain
+######
+
+****************************************
+https://openminds.ebrains.eu/core/Strain
+****************************************
+
+------------
+
+------------
+
+**********
+Properties
+**********
+
+:Required: `geneticStrainType <geneticStrainType_heading_>`_, `name <name_heading_>`_, `species <species_heading_>`_
+:Optional: `alternateIdentifier <alternateIdentifier_heading_>`_, `backgroundStrain <backgroundStrain_heading_>`_, `breedingType <breedingType_heading_>`_,
+   `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `diseaseModel <diseaseModel_heading_>`_, `laboratoryCode
+   <laboratoryCode_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `phenotype <phenotype_heading_>`_, `stockNumber <stockNumber_heading_>`_,
+   `synonym <synonym_heading_>`_
+
+------------
+
+.. _alternateIdentifier_heading:
+
+alternateIdentifier
+-------------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/alternateIdentifier
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI)
+      database or Rat Genome Database (RGD)).
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _backgroundStrain_heading:
+
+backgroundStrain
+----------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/backgroundStrain
+   :value type: | linked object array \(1-2\) of type
+                | `Strain <https://openminds.ebrains.eu/core/Strain>`_
+   :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two
+      strains contributed equally, state both.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _breedingType_heading:
+
+breedingType
+------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/breedingType
+   :value type: | linked object of type
+                | `BreedingType <https://openminds.ebrains.eu/controlledTerms/BreedingType>`_
+   :instructions: Add the breeding type for this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _description_heading:
+
+description
+-----------
+
+Longer statement or account giving the characteristics of someone or something.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a short text describing this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _digitalIdentifier_heading:
+
+digitalIdentifier
+-----------------
+
+Digital handle to identify objects or legal persons.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :value type: | linked object of type
+                | `RRID <https://openminds.ebrains.eu/core/RRID>`_
+   :instructions: Add the 'Research Resource Identifier' (RRID) of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _diseaseModel_heading:
+
+diseaseModel
+------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
+   :value type: | linked object array \(1-N\) of type
+                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_or `DiseaseModel
+                <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
+   :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _geneticStrainType_heading:
+
+geneticStrainType
+-----------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/geneticStrainType
+   :value type: | linked object of type
+                | `GeneticStrainType <https://openminds.ebrains.eu/controlledTerms/GeneticStrainType>`_
+   :instructions: Add the genetic background type of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _laboratoryCode_heading:
+
+laboratoryCode
+--------------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/laboratoryCode
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the laboratory code assigned by the Institute of Laboratory Animal Research (ILAR) for the investigator or organization that has created
+      this strain following the defined pattern (e.g., Aaa).
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _name_heading:
+
+name
+----
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the name of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _ontologyIdentifier_heading:
+
+ontologyIdentifier
+------------------
+
+Term or code used to identify something or someone registered within a particular ontology.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/ontologyIdentifier
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifiers (IRIs) to the related ontological terms matching this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _phenotype_heading:
+
+phenotype
+---------
+
+Physical expression of one or more genes of an organism.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/phenotype
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a short description for the phenotype of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _species_heading:
+
+species
+-------
+
+Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that
+consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/species
+   :value type: | linked object of type
+                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_
+   :instructions: Add the species of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _stockNumber_heading:
+
+stockNumber
+-----------
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/stockNumber
+   :value type: | embedded object of type
+                | `StockNumber <https://openminds.ebrains.eu/core/StockNumber>`_
+   :instructions: Add the stock number from the vendor the strain was supplied from/is in stock at.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
+.. _synonym_heading:
+
+synonym
+-------
+
+Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
+
+.. admonition:: specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter any synonyms (inlcuding abbreviations) of this strain.
+
+`BACK TO TOP <Strain_>`_
+
+------------
+
