@@ -68,8 +68,7 @@ Shortened or fully abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/shortName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a short name (or alias) for this license that could be used as a shortened display title (e.g., for web services with too little space
-      to display the full name).
+   :instructions: Enter a short name (or alias) for this license that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
 
 `BACK TO TOP <License_>`_
 

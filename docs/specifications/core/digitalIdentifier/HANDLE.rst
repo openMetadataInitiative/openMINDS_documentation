@@ -32,8 +32,7 @@ Term or code used to identify something or someone.
    :semantic name: https://openminds.ebrains.eu/vocab/identifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifier for a superset of DOIs provided by the Corporation for National Research Initiatives (HANDLE) as an internationalized
-      resource identifier (IRI) following the defined pattern (i.e., 'http://hdl.handle.net/' + HANDLE).
+   :instructions: Enter the identifier for a superset of DOIs provided by the Corporation for National Research Initiatives (HANDLE) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'http://hdl.handle.net/' + HANDLE).
 
 `BACK TO TOP <HANDLE_>`_
 

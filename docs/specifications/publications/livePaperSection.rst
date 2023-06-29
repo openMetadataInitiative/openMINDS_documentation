@@ -81,8 +81,7 @@ order
 
    :semantic name: https://openminds.ebrains.eu/vocab/order
    :value type: integer
-   :instructions: Enter an integer that is used to sort this live paper section in ascending order with other live paper sections of the overarching live paper
-      version.
+   :instructions: Enter an integer that is used to sort this live paper section in ascending order with other live paper sections of the overarching live paper version.
 
 `BACK TO TOP <LivePaperSection_>`_
 

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `molecularEntity <molecularEntity_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `productSource <productSource_heading_>`_, `purity
-   <purity_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `productSource <productSource_heading_>`_, `purity <purity_heading_>`_
 
 ------------
 
@@ -96,8 +95,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the purity of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_

@@ -45,10 +45,8 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `Configuration <https://openminds.ebrains.eu/core/Configuration>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `PropertyValueList
-                <https://openminds.ebrains.eu/core/PropertyValueList>`_
-   :instructions: Add the location of the data that define the custom property set for the given context (e.g., stored as file or other entities such as
-      property-value lists).
+                | `Configuration <https://openminds.ebrains.eu/core/Configuration>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `PropertyValueList <https://openminds.ebrains.eu/core/PropertyValueList>`_
+   :instructions: Add the location of the data that define the custom property set for the given context (e.g., stored as file or other entities such as property-value lists).
 
 `BACK TO TOP <CustomPropertySet_>`_
 
@@ -65,9 +63,7 @@ Reference to what or whom something or someone bears siginificance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `StimulationApproach
-                <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique
-                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
    :instructions: Add the technique for which this custom property set is relevant.
 
 `BACK TO TOP <CustomPropertySet_>`_

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `IRI <IRI_heading_>`_, `hostedBy <hostedBy_heading_>`_, `name <name_heading_>`_
-:Optional: `contentTypePattern <contentTypePattern_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `storageSize <storageSize_heading_>`_,
-   `structurePattern <structurePattern_heading_>`_, `type <type_heading_>`_
+:Optional: `contentTypePattern <contentTypePattern_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `storageSize <storageSize_heading_>`_, `structurePattern <structurePattern_heading_>`_, `type <type_heading_>`_
 
 ------------
 
@@ -26,8 +25,7 @@ Properties
 IRI
 ---
 
-Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted
-characters to include Unicode/ISO 10646.
+Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
 .. admonition:: specifications
 
@@ -68,8 +66,7 @@ Method of digitally organizing and structuring data or information.
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
                 | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
-   :instructions: If the files and file bundles within this repository are organised and formatted according to a formal data structure, add the content type of
-      this formal data structure. Leave blank if no formal data structure has been applied.
+   :instructions: If the files and file bundles within this repository are organised and formatted according to a formal data structure, add the content type of this formal data structure. Leave blank if no formal data structure has been applied.
 
 `BACK TO TOP <FileRepository_>`_
 

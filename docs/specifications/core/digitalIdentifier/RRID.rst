@@ -32,8 +32,7 @@ Term or code used to identify something or someone.
    :semantic name: https://openminds.ebrains.eu/vocab/identifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the resource identifier provided by the Resource Identification Initiative ('Research Resource IDentifier'; RRID) as an
-      internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://scicrunch.org/resolver/' + RRID).
+   :instructions: Enter the resource identifier provided by the Resource Identification Initiative ('Research Resource IDentifier'; RRID) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://scicrunch.org/resolver/' + RRID).
 
 `BACK TO TOP <RRID_>`_
 

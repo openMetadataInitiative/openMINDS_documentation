@@ -61,10 +61,7 @@ stage
 
    :semantic name: https://openminds.ebrains.eu/vocab/stage
    :value type: | linked object array \(1-N\) of type
-                | `DataAnalysis <https://openminds.ebrains.eu/computation/DataAnalysis>`_, `DataCopy <https://openminds.ebrains.eu/computation/DataCopy>`_,
-                `GenericComputation <https://openminds.ebrains.eu/computation/GenericComputation>`_, `ModelValidation
-                <https://openminds.ebrains.eu/computation/ModelValidation>`_, `Optimization <https://openminds.ebrains.eu/computation/Optimization>`_,
-                `Simulation <https://openminds.ebrains.eu/computation/Simulation>`_ or `Visualization <https://openminds.ebrains.eu/computation/Visualization>`_
+                | `DataAnalysis <https://openminds.ebrains.eu/computation/DataAnalysis>`_, `DataCopy <https://openminds.ebrains.eu/computation/DataCopy>`_, `GenericComputation <https://openminds.ebrains.eu/computation/GenericComputation>`_, `ModelValidation <https://openminds.ebrains.eu/computation/ModelValidation>`_, `Optimization <https://openminds.ebrains.eu/computation/Optimization>`_, `Simulation <https://openminds.ebrains.eu/computation/Simulation>`_ or `Visualization <https://openminds.ebrains.eu/computation/Visualization>`_
    :instructions: Add all stages that were performed in this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_

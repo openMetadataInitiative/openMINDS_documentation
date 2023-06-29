@@ -61,9 +61,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object of type
-                | `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_, `TissueSampleCollectionState
-                <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_, `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_ or
-                `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_
+                | `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_, `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_, `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_ or `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_
    :instructions: Add the state of the specimen before it was prepared as culture in this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_

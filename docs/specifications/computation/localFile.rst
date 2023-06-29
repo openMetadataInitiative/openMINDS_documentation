@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_, `path <path_heading_>`_
-:Optional: `contentDescription <contentDescription_heading_>`_, `copyOf <copyOf_heading_>`_, `dataType <dataType_heading_>`_, `format <format_heading_>`_, `hash
-   <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
+:Optional: `contentDescription <contentDescription_heading_>`_, `copyOf <copyOf_heading_>`_, `dataType <dataType_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
 
 ------------
 

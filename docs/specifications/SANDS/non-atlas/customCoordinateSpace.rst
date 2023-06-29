@@ -13,8 +13,7 @@ https://openminds.ebrains.eu/sands/CustomCoordinateSpace
 Properties
 **********
 
-:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `name <name_heading_>`_, `nativeUnit
-   <nativeUnit_heading_>`_
+:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `name <name_heading_>`_, `nativeUnit <nativeUnit_heading_>`_
 :Optional: `defaultImage <defaultImage_heading_>`_
 
 ------------
@@ -49,8 +48,7 @@ Special point in a coordinate system used as a fixed point of reference for the 
    :semantic name: https://openminds.ebrains.eu/vocab/axesOrigin
    :value type: | embedded object array \(2-3\) of type
                 | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
-   :instructions: Enter the origin (central point where all axes intersect) of this custom coordinate space for two-dimensional spaces as [x, y] or for
-      three-dimensional space as [x, y, z].
+   :instructions: Enter the origin (central point where all axes intersect) of this custom coordinate space for two-dimensional spaces as [x, y] or for three-dimensional space as [x, y, z].
 
 `BACK TO TOP <CustomCoordinateSpace_>`_
 

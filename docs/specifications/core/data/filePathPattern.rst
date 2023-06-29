@@ -44,8 +44,7 @@ regex
    :semantic name: https://openminds.ebrains.eu/vocab/regex
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the regular expression that defines this file path pattern. Note that it must have the same number of groups as stated under
-      'groupingType'.
+   :instructions: Enter the regular expression that defines this file path pattern. Note that it must have the same number of groups as stated under 'groupingType'.
 
 `BACK TO TOP <FilePathPattern_>`_
 

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type <type_heading_>`_
-:Optional: `anatomicalLocation <anatomicalLocation_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_,
-   `isPartOf <isPartOf_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_
+:Optional: `anatomicalLocation <anatomicalLocation_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_
 
 ------------
 
@@ -30,12 +29,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_,
-                `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity
-                <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation
-                <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
-                `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all anatomical entities that describe the anatomical location of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_
@@ -141,8 +135,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.ebrains.eu/vocab/origin
    :value type: | linked object of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or
-                `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_
+                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_
    :instructions: Add the biogical origin of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_
@@ -154,8 +147,7 @@ Source at which something begins or rises, or from which something derives.
 species
 -------
 
-Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that
-consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
+Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
 .. admonition:: specifications
 

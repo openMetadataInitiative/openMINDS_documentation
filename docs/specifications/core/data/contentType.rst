@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_
-:Optional: `dataType <dataType_heading_>`_, `description <description_heading_>`_, `displayLabel <displayLabel_heading_>`_, `fileExtension
-   <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
+:Optional: `dataType <dataType_heading_>`_, `description <description_heading_>`_, `displayLabel <displayLabel_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
@@ -49,8 +48,7 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a description of the content type specification. Leave blank if an official and public specification is linked under 'specification' for
-      this content type.
+   :instructions: Enter a description of the content type specification. Leave blank if an official and public specification is linked under 'specification' for this content type.
 
 `BACK TO TOP <ContentType_>`_
 
@@ -120,8 +118,7 @@ Reference to an official two-part identifier for file formats and format content
    :semantic name: https://openminds.ebrains.eu/vocab/relatedMediaType
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to the official registered media type (e.g., provided on IANA.org) matching this content
-      type.
+   :instructions: Enter the internationalized resource identifier (IRI) to the official registered media type (e.g., provided on IANA.org) matching this content type.
 
 `BACK TO TOP <ContentType_>`_
 
@@ -139,8 +136,7 @@ Detailed and precise presentation of, or proposal for something.
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to the offical specification of this content type. If no offical and public
-      specification is available, leave blank and enter the specification under 'description'.
+   :instructions: Enter the internationalized resource identifier (IRI) to the offical specification of this content type. If no offical and public specification is available, leave blank and enter the specification under 'description'.
 
 `BACK TO TOP <ContentType_>`_
 

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_
-:Optional: `describedIn <describedIn_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `stimulation <stimulation_heading_>`_, `stimulusType
-   <stimulusType_heading_>`_
+:Optional: `describedIn <describedIn_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `stimulation <stimulation_heading_>`_, `stimulusType <stimulusType_heading_>`_
 
 ------------
 
@@ -30,8 +29,7 @@ describedIn
 
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
-                <https://openminds.ebrains.eu/core/WebResource>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add all sources in which this behavioral protocol is described in detail.
 
 `BACK TO TOP <BehavioralProtocol_>`_
@@ -68,8 +66,7 @@ Term or code that identifies someone or something within a particular product.
    :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifier (or label) of this behavioral protocol that is used within the corresponding data files to identify this behavioral
-      protocol.
+   :instructions: Enter the identifier (or label) of this behavioral protocol that is used within the corresponding data files to identify this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_
 
@@ -102,8 +99,7 @@ stimulation
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulation
    :value type: | linked object array \(1-N\) of type
-                | `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_ or `StimulationTechnique
-                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_
+                | `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_ or `StimulationTechnique <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_
    :instructions: Add all stimulation approaches and/or techniques used within this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_
@@ -119,13 +115,7 @@ stimulusType
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulusType
    :value type: | linked object array \(1-N\) of type
-                | `AuditoryStimulusType <https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType>`_, `ElectricalStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType>`_, `GustatoryStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `OlfactoryStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OpticalStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `TactileStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_ or `VisualStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
+                | `AuditoryStimulusType <https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType>`_, `ElectricalStimulusType <https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType>`_, `GustatoryStimulusType <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `OlfactoryStimulusType <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OpticalStimulusType <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `TactileStimulusType <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_ or `VisualStimulusType <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all stimulus types used within this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_

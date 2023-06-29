@@ -14,8 +14,7 @@ Properties
 **********
 
 :Required: `anchorPoint <anchorPoint_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `cameraPosition <cameraPosition_heading_>`_, `preferredDisplayColor
-   <preferredDisplayColor_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `cameraPosition <cameraPosition_heading_>`_, `preferredDisplayColor <preferredDisplayColor_heading_>`_
 
 ------------
 
@@ -47,8 +46,7 @@ anchorPoint
    :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
    :value type: | embedded object array \(2-3\) of type
                 | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
-   :instructions: Enter the coordinates of the anchor point that a viewer should use. Either state the anchor point of the annotation again or state another
-      coordinate point.
+   :instructions: Enter the coordinates of the anchor point that a viewer should use. Either state the anchor point of the annotation again or state another coordinate point.
 
 `BACK TO TOP <ViewerSpecification_>`_
 

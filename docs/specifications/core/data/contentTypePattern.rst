@@ -60,8 +60,7 @@ regex
    :semantic name: https://openminds.ebrains.eu/vocab/regex
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the regular expression for common elements within the file names (including their file path and/or extension) of the files formatted
-      using the stated 'contentType'.
+   :instructions: Enter the regular expression for common elements within the file names (including their file path and/or extension) of the files formatted using the stated 'contentType'.
 
 `BACK TO TOP <ContentTypePattern_>`_
 

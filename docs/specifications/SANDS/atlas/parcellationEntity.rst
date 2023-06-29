@@ -14,9 +14,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent
-   <hasParent_heading_>`_, `hasVersion <hasVersion_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_,
-   `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `hasVersion <hasVersion_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
 
 ------------
 
@@ -167,8 +165,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation
-                <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
+                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <ParcellationEntity_>`_

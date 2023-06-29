@@ -47,8 +47,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object of type
-                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_, `TissueSampleCollectionState
-                <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_, `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add the state of the specimen that was sliced during this activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -66,8 +65,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState
-                <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add the state of the tissue sample slice or collection of slices that resulted from this activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -83,8 +81,7 @@ temperature
 
    :semantic name: https://openminds.ebrains.eu/vocab/temperature
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the temperature at which the tissue sample was sliced during the activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_

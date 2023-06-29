@@ -14,9 +14,7 @@ Properties
 **********
 
 :Required: `device <device_heading_>`_, `sliceThickness <sliceThickness_heading_>`_, `slicingPlane <slicingPlane_heading_>`_
-:Optional: `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `oscillationAmplitude <oscillationAmplitude_heading_>`_,
-   `slicingAngle <slicingAngle_heading_>`_, `slicingSpeed <slicingSpeed_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_, `vibrationFrequency
-   <vibrationFrequency_heading_>`_
+:Optional: `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `oscillationAmplitude <oscillationAmplitude_heading_>`_, `slicingAngle <slicingAngle_heading_>`_, `slicingSpeed <slicingSpeed_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_, `vibrationFrequency <vibrationFrequency_heading_>`_
 
 ------------
 
@@ -95,8 +93,7 @@ sliceThickness
 
    :semantic name: https://openminds.ebrains.eu/vocab/sliceThickness
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the defined slice thickness during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -112,8 +109,7 @@ slicingAngle
 
    :semantic name: https://openminds.ebrains.eu/vocab/slicingAngle
    :value type: | embedded object array \(1-2\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `NumericalProperty
-                <https://openminds.ebrains.eu/core/NumericalProperty>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `NumericalProperty <https://openminds.ebrains.eu/core/NumericalProperty>`_
    :instructions: Enter all slicing angles (intentional or unintentional) in relation to the slicing plane used during this activity.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `executable <executable_heading_>`_
-:Optional: `argument <argument_heading_>`_, `description <description_heading_>`_, `environmentVariable <environmentVariable_heading_>`_, `name
-   <name_heading_>`_
+:Optional: `argument <argument_heading_>`_, `description <description_heading_>`_, `environmentVariable <environmentVariable_heading_>`_, `name <name_heading_>`_
 
 ------------
 

@@ -30,8 +30,7 @@ Term or code used to identify something or someone.
    :semantic name: https://openminds.ebrains.eu/vocab/identifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifier for software source code artefacts provided by the Software Heritage archive ('SoftWare Heritage persistent IDentifier';
-      SWHID) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://archive.softwareheritage.org/' + SWHID).
+   :instructions: Enter the identifier for software source code artefacts provided by the Software Heritage archive ('SoftWare Heritage persistent IDentifier'; SWHID) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://archive.softwareheritage.org/' + SWHID).
 
 `BACK TO TOP <SWHID_>`_
 

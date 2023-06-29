@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
-:Optional: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `lookupLabel
-   <lookupLabel_heading_>`_
+:Optional: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `lookupLabel <lookupLabel_heading_>`_
 
 ------------
 
@@ -96,8 +95,7 @@ lookupLabel
 species
 -------
 
-Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that
-consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
+Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
 .. admonition:: specifications
 

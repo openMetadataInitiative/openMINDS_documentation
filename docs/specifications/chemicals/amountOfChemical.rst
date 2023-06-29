@@ -30,8 +30,7 @@ amount
    :semantic name: https://openminds.ebrains.eu/vocab/amount
    :value type: | embedded object of type
                 | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
-   :instructions: When used in a mixture, enter the amount of the substance within the mixture (e.g., as concentration or as ratio). When used in its pure
-      state, enter the used amount of the substance.
+   :instructions: When used in a mixture, enter the amount of the substance within the mixture (e.g., as concentration or as ratio). When used in its pure state, enter the used amount of the substance.
 
 `BACK TO TOP <AmountOfChemical_>`_
 
@@ -46,9 +45,7 @@ chemicalProduct
 
    :semantic name: https://openminds.ebrains.eu/vocab/chemicalProduct
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
-                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the chemical product that was used.
 
 `BACK TO TOP <AmountOfChemical_>`_

@@ -31,8 +31,7 @@ Legal person who organizes the collaborative work of people or groups.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinator
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
-                <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that coordinate this project.
 
 `BACK TO TOP <Project_>`_
@@ -84,18 +83,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `ValidationTest <https://openminds.ebrains.eu/computation/ValidationTest>`_, `ValidationTestVersion
-                <https://openminds.ebrains.eu/computation/ValidationTestVersion>`_, `WorkflowRecipe <https://openminds.ebrains.eu/computation/WorkflowRecipe>`_,
-                `WorkflowRecipeVersion <https://openminds.ebrains.eu/computation/WorkflowRecipeVersion>`_, `Dataset
-                <https://openminds.ebrains.eu/core/Dataset>`_, `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `MetaDataModel
-                <https://openminds.ebrains.eu/core/MetaDataModel>`_, `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_, `Model
-                <https://openminds.ebrains.eu/core/Model>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `Software
-                <https://openminds.ebrains.eu/core/Software>`_, `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_, `WebService
-                <https://openminds.ebrains.eu/core/WebService>`_, `WebServiceVersion <https://openminds.ebrains.eu/core/WebServiceVersion>`_, `LivePaper
-                <https://openminds.ebrains.eu/publications/LivePaper>`_, `LivePaperVersion <https://openminds.ebrains.eu/publications/LivePaperVersion>`_,
-                `BrainAtlas <https://openminds.ebrains.eu/sands/BrainAtlas>`_, `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_,
-                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CommonCoordinateSpaceVersion
-                <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
+                | `ValidationTest <https://openminds.ebrains.eu/computation/ValidationTest>`_, `ValidationTestVersion <https://openminds.ebrains.eu/computation/ValidationTestVersion>`_, `WorkflowRecipe <https://openminds.ebrains.eu/computation/WorkflowRecipe>`_, `WorkflowRecipeVersion <https://openminds.ebrains.eu/computation/WorkflowRecipeVersion>`_, `Dataset <https://openminds.ebrains.eu/core/Dataset>`_, `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `MetaDataModel <https://openminds.ebrains.eu/core/MetaDataModel>`_, `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_, `Model <https://openminds.ebrains.eu/core/Model>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `Software <https://openminds.ebrains.eu/core/Software>`_, `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_, `WebService <https://openminds.ebrains.eu/core/WebService>`_, `WebServiceVersion <https://openminds.ebrains.eu/core/WebServiceVersion>`_, `LivePaper <https://openminds.ebrains.eu/publications/LivePaper>`_, `LivePaperVersion <https://openminds.ebrains.eu/publications/LivePaperVersion>`_, `BrainAtlas <https://openminds.ebrains.eu/sands/BrainAtlas>`_, `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_, `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
    :instructions: Add all research product (versions) that are part of this project.
 
 `BACK TO TOP <Project_>`_
@@ -132,8 +120,7 @@ Shortened or fully abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/shortName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a short name (or alias) for this project that could be used as a shortened display title (e.g., for web services with too little space
-      to display the full name).
+   :instructions: Enter a short name (or alias) for this project that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
 
 `BACK TO TOP <Project_>`_
 

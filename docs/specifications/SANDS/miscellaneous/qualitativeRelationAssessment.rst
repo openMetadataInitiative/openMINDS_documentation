@@ -47,9 +47,7 @@ Reference to a related element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inRelationTo
    :value type: | linked object of type
-                | `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity
-                <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion
-                <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add the anatomical entity to which the relation is described.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_

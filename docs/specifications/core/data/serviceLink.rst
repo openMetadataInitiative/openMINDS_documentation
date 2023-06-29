@@ -27,12 +27,8 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_, `FileArchive <https://openminds.ebrains.eu/core/FileArchive>`_, `FileBundle
-                <https://openminds.ebrains.eu/core/FileBundle>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `LivePaperResourceItem
-                <https://openminds.ebrains.eu/publications/LivePaperResourceItem>`_ or `ParcellationEntityVersion
-                <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
-   :instructions: Add the location of the data that are linked to this specific service (e.g., stored as file (bundles) or registered as other entities such as
-      atlas annotations).
+                | `File <https://openminds.ebrains.eu/core/File>`_, `FileArchive <https://openminds.ebrains.eu/core/FileArchive>`_, `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `LivePaperResourceItem <https://openminds.ebrains.eu/publications/LivePaperResourceItem>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+   :instructions: Add the location of the data that are linked to this specific service (e.g., stored as file (bundles) or registered as other entities such as atlas annotations).
 
 `BACK TO TOP <ServiceLink_>`_
 

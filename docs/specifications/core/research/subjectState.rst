@@ -16,9 +16,7 @@ Properties
 **********
 
 :Required: `ageCategory <ageCategory_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom
-   <descendedFrom_heading_>`_, `handedness <handedness_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_,
-   `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `handedness <handedness_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
 
 ------------
 
@@ -51,8 +49,7 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.ebrains.eu/vocab/age
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the age of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectState_>`_
@@ -139,8 +136,7 @@ Term or code that identifies someone or something within a particular product.
    :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifier (or label) of this specimen (set) state that is used within the corresponding data files to identify this specimen (set)
-      state.
+   :instructions: Enter the identifier (or label) of this specimen (set) state that is used within the corresponding data files to identify this specimen (set) state.
 
 `BACK TO TOP <SubjectState_>`_
 
@@ -173,8 +169,7 @@ Structural and functional deviation from the normal that constitutes a disease o
 
    :semantic name: https://openminds.ebrains.eu/vocab/pathology
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel
-                <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
+                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
    :instructions: Add all (human) diseases and/or conditions that the specimen (set) in this state has and/or is a model for.
 
 `BACK TO TOP <SubjectState_>`_
@@ -190,10 +185,8 @@ relativeTimeIndication
 
    :semantic name: https://openminds.ebrains.eu/vocab/relativeTimeIndication
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
-   :instructions: If there is a temporal relation between the states of a specimen (set), enter the relative time that has passed between this and the preceding
-      specimen (set) state referenced under 'descendedFrom'.
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+   :instructions: If there is a temporal relation between the states of a specimen (set), enter the relative time that has passed between this and the preceding specimen (set) state referenced under 'descendedFrom'.
 
 `BACK TO TOP <SubjectState_>`_
 
@@ -210,8 +203,7 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.ebrains.eu/vocab/weight
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the weight of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectState_>`_

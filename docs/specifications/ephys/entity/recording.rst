@@ -13,10 +13,8 @@ https://openminds.ebrains.eu/ephys/Recording
 Properties
 **********
 
-:Required: `channel <channel_heading_>`_, `dataLocation <dataLocation_heading_>`_, `recordedWith <recordedWith_heading_>`_, `samplingFrequency
-   <samplingFrequency_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `name <name_heading_>`_, `previousRecording
-   <previousRecording_heading_>`_
+:Required: `channel <channel_heading_>`_, `dataLocation <dataLocation_heading_>`_, `recordedWith <recordedWith_heading_>`_, `samplingFrequency <samplingFrequency_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `name <name_heading_>`_, `previousRecording <previousRecording_heading_>`_
 
 ------------
 
@@ -131,9 +129,7 @@ recordedWith
 
    :semantic name: https://openminds.ebrains.eu/vocab/recordedWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage>`_, `ElectrodeUsage
-                <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_ or `SlicingDeviceUsage
-                <https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage>`_
+                | `ElectrodeArrayUsage <https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage>`_, `ElectrodeUsage <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_ or `SlicingDeviceUsage <https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage>`_
    :instructions: Add the device used to generate this recording.
 
 `BACK TO TOP <Recording_>`_

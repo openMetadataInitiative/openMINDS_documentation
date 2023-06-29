@@ -14,10 +14,7 @@ Properties
 **********
 
 :Required: `geneticStrainType <geneticStrainType_heading_>`_, `name <name_heading_>`_, `species <species_heading_>`_
-:Optional: `alternateIdentifier <alternateIdentifier_heading_>`_, `backgroundStrain <backgroundStrain_heading_>`_, `breedingType <breedingType_heading_>`_,
-   `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `diseaseModel <diseaseModel_heading_>`_, `laboratoryCode
-   <laboratoryCode_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `phenotype <phenotype_heading_>`_, `stockNumber <stockNumber_heading_>`_,
-   `synonym <synonym_heading_>`_
+:Optional: `alternateIdentifier <alternateIdentifier_heading_>`_, `backgroundStrain <backgroundStrain_heading_>`_, `breedingType <breedingType_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `diseaseModel <diseaseModel_heading_>`_, `laboratoryCode <laboratoryCode_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `phenotype <phenotype_heading_>`_, `stockNumber <stockNumber_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
@@ -31,8 +28,7 @@ alternateIdentifier
    :semantic name: https://openminds.ebrains.eu/vocab/alternateIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI)
-      database or Rat Genome Database (RGD)).
+   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
 
 `BACK TO TOP <Strain_>`_
 
@@ -48,8 +44,7 @@ backgroundStrain
    :semantic name: https://openminds.ebrains.eu/vocab/backgroundStrain
    :value type: | linked object array \(1-2\) of type
                 | `Strain <https://openminds.ebrains.eu/core/Strain>`_
-   :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two
-      strains contributed equally, state both.
+   :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two strains contributed equally, state both.
 
 `BACK TO TOP <Strain_>`_
 
@@ -116,8 +111,7 @@ diseaseModel
 
    :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel
-                <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
+                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 
 `BACK TO TOP <Strain_>`_
@@ -150,8 +144,7 @@ laboratoryCode
    :semantic name: https://openminds.ebrains.eu/vocab/laboratoryCode
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the laboratory code assigned by the Institute of Laboratory Animal Research (ILAR) for the investigator or organization that has created
-      this strain following the defined pattern (e.g., Aaa).
+   :instructions: Enter the laboratory code assigned by the Institute of Laboratory Animal Research (ILAR) for the investigator or organization that has created this strain following the defined pattern (e.g., Aaa).
 
 `BACK TO TOP <Strain_>`_
 
@@ -216,8 +209,7 @@ Physical expression of one or more genes of an organism.
 species
 -------
 
-Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that
-consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
+Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
 .. admonition:: specifications
 

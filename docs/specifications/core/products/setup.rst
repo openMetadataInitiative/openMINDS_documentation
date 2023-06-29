@@ -45,9 +45,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `Setup <https://openminds.ebrains.eu/core/Setup>`_, `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_, `Electrode
-                <https://openminds.ebrains.eu/ephys/Electrode>`_, `ElectrodeArray <https://openminds.ebrains.eu/ephys/ElectrodeArray>`_, `Pipette
-                <https://openminds.ebrains.eu/ephys/Pipette>`_ or `SlicingDevice <https://openminds.ebrains.eu/specimenPrep/SlicingDevice>`_
+                | `Setup <https://openminds.ebrains.eu/core/Setup>`_, `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_, `Electrode <https://openminds.ebrains.eu/ephys/Electrode>`_, `ElectrodeArray <https://openminds.ebrains.eu/ephys/ElectrodeArray>`_, `Pipette <https://openminds.ebrains.eu/ephys/Pipette>`_ or `SlicingDevice <https://openminds.ebrains.eu/specimenPrep/SlicingDevice>`_
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_
@@ -79,8 +77,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
-                <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this setup.
 
 `BACK TO TOP <Setup_>`_

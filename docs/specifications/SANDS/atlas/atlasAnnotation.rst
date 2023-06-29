@@ -14,9 +14,7 @@ Properties
 **********
 
 :Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
-:Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier
-   <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification
-   <specification_heading_>`_
+:Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
 
 ------------
 
@@ -30,8 +28,7 @@ anchorPoint
    :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
    :value type: | embedded object array \(2-3\) of type
                 | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
-   :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional
-      space as [x, y, z]).
+   :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional space as [x, y, z]).
 
 `BACK TO TOP <AtlasAnnotation_>`_
 

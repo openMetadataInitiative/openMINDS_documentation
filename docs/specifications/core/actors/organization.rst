@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `fullName <fullName_heading_>`_
-:Optional: `affiliation <affiliation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage
-   <homepage_heading_>`_, `shortName <shortName_heading_>`_
+:Optional: `affiliation <affiliation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
 
 ------------
 
@@ -50,8 +49,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_, `RORID <https://openminds.ebrains.eu/core/RORID>`_ or `RRID
-                <https://openminds.ebrains.eu/core/RRID>`_
+                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_, `RORID <https://openminds.ebrains.eu/core/RORID>`_ or `RRID <https://openminds.ebrains.eu/core/RRID>`_
    :instructions: Add all globally unique and persistent digital identifier of this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -124,8 +122,7 @@ Shortened or fully abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/shortName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a short name (or alias) for this organization that could be used as a shortened display title (e.g., for web services with too little
-      space to display the full name).
+   :instructions: Enter a short name (or alias) for this organization that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
 
 `BACK TO TOP <Organization_>`_
 

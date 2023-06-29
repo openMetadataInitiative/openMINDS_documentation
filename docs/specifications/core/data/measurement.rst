@@ -63,9 +63,7 @@ measuredWith
 
    :semantic name: https://openminds.ebrains.eu/vocab/measuredWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage>`_, `ElectrodeUsage
-                <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_ or `SlicingDeviceUsage
-                <https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage>`_
+                | `ElectrodeArrayUsage <https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage>`_, `ElectrodeUsage <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_ or `SlicingDeviceUsage <https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage>`_
    :instructions: Add the device that was used during this measurement.
 
 `BACK TO TOP <Measurement_>`_
@@ -99,8 +97,7 @@ Entry for a property.
 
    :semantic name: https://openminds.ebrains.eu/vocab/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter all values that were measured at the same time and are of the same measured quantity.
 
 `BACK TO TOP <Measurement_>`_

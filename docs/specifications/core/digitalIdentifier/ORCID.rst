@@ -32,8 +32,7 @@ Term or code used to identify something or someone.
    :semantic name: https://openminds.ebrains.eu/vocab/identifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifier for researchers provided by Open Researcher and Contributor ID, Inc. (ORCID, Inc.) as an internationalized resource
-      identifier (IRI) following the defined pattern (i.e., 'https://orcid.org/' + ORCID).
+   :instructions: Enter the identifier for researchers provided by Open Researcher and Contributor ID, Inc. (ORCID, Inc.) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://orcid.org/' + ORCID).
 
 `BACK TO TOP <ORCID_>`_
 

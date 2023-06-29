@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `values <values_heading_>`_
-:Optional: `negativeUncertainties <negativeUncertainties_heading_>`_, `positiveUncertainties <positiveUncertainties_heading_>`_, `typeOfUncertainty
-   <typeOfUncertainty_heading_>`_, `unit <unit_heading_>`_
+:Optional: `negativeUncertainties <negativeUncertainties_heading_>`_, `positiveUncertainties <positiveUncertainties_heading_>`_, `typeOfUncertainty <typeOfUncertainty_heading_>`_, `unit <unit_heading_>`_
 
 ------------
 

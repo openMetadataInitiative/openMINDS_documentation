@@ -13,12 +13,8 @@ https://openminds.ebrains.eu/ephys/ElectrodeArray
 Properties
 **********
 
-:Required: `deviceType <deviceType_heading_>`_, `electrodeIdentifier <electrodeIdentifier_heading_>`_, `name <name_heading_>`_, `numberOfElectrodes
-   <numberOfElectrodes_heading_>`_
-:Optional: `conductorMaterial <conductorMaterial_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_,
-   `insulatorMaterial <insulatorMaterial_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `intrinsicResistance
-   <intrinsicResistance_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `manufacturer <manufacturer_heading_>`_, `owner <owner_heading_>`_, `serialNumber
-   <serialNumber_heading_>`_
+:Required: `deviceType <deviceType_heading_>`_, `electrodeIdentifier <electrodeIdentifier_heading_>`_, `name <name_heading_>`_, `numberOfElectrodes <numberOfElectrodes_heading_>`_
+:Optional: `conductorMaterial <conductorMaterial_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `insulatorMaterial <insulatorMaterial_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `intrinsicResistance <intrinsicResistance_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `manufacturer <manufacturer_heading_>`_, `owner <owner_heading_>`_, `serialNumber <serialNumber_heading_>`_
 
 ------------
 
@@ -31,9 +27,7 @@ conductorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/conductorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
-                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the conductor material of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -102,8 +96,7 @@ electrodeIdentifier
    :semantic name: https://openminds.ebrains.eu/vocab/electrodeIdentifier
    :value type: | string array \(2-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter the identifiers for each electrode of this electrode array. Note that the number of identifiers should match the number of electrodes of
-      the array as stated under 'numberOfElectrodes'.
+   :instructions: Enter the identifiers for each electrode of this electrode array. Note that the number of identifiers should match the number of electrodes of the array as stated under 'numberOfElectrodes'.
 
 `BACK TO TOP <ElectrodeArray_>`_
 
@@ -118,9 +111,7 @@ insulatorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/insulatorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
-                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the insulator material of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -154,8 +145,7 @@ intrinsicResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/intrinsicResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
-                <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the intrinsic resistance of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -187,8 +177,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
-                <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -237,8 +226,7 @@ owner
 
    :semantic name: https://openminds.ebrains.eu/vocab/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
-                <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <ElectrodeArray_>`_
