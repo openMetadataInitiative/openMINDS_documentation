@@ -52,6 +52,7 @@ class GitPusher(object):
                 os.remove(f"{self.upload_dir}/{item}")
 
     def _checkout(self, version):
+        self._repo.git.reset('--hard')
         try:
             self._repo.git.checkout(version)
         except GitCommandError as e:
