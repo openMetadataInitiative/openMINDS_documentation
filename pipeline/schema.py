@@ -130,7 +130,7 @@ class SchemaDocBuilder(object):
             for o in object_list:
                 o_name_list.append(f"`{o.split('/')[-1]} <{o}>`_")
             if len(o_name_list) > 1:
-                target_objects = "or ".join([", ".join(o_name_list[:-1]), o_name_list[-1]])
+                target_objects = " or ".join([", ".join(o_name_list[:-1]), o_name_list[-1]])
             else:
                 target_objects = o_name_list[0]
             return target_objects
