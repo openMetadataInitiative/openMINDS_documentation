@@ -2,13 +2,13 @@
 Data
 ####
 
-- `contentType <data/contentType.html>`_
-- `copyright <data/copyright.html>`_
-- `file <data/file.html>`_
-- `fileBundle <data/fileBundle.html>`_
-- `fileRepository <data/fileRepository.html>`_
-- `hash <data/hash.html>`_
-- `license <data/license.html>`_
+- `ContentType <data/contentType.html>`_
+- `Copyright <data/copyright.html>`_
+- `File <data/file.html>`_
+- `FileBundle <data/fileBundle.html>`_
+- `FileRepository <data/fileRepository.html>`_
+- `Hash <data/hash.html>`_
+- `License <data/license.html>`_
 
 .. toctree::
 

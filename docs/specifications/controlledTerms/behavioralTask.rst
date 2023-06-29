@@ -2,9 +2,8 @@
 BehavioralTask
 ##############
 
-***********************************************************
 https://openminds.ebrains.eu/controlledTerms/BehavioralTask
-***********************************************************
+-----------------------------------------------------------
 
 Structured information on the behavioral task that had to be peformed by a subject.
 

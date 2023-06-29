@@ -2,9 +2,8 @@
 ParameterSet
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/ParameterSet
-**********************************************
+----------------------------------------------
 
 Structured information on a used parameter set.
 

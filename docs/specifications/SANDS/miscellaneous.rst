@@ -2,9 +2,9 @@
 Miscellaneous
 #############
 
-- `coordinatePoint <miscellaneous/coordinatePoint.html>`_
-- `qualitativeRelationAssessment <miscellaneous/qualitativeRelationAssessment.html>`_
-- `quantitativeRelationAssessment <miscellaneous/quantitativeRelationAssessment.html>`_
+- `CoordinatePoint <miscellaneous/coordinatePoint.html>`_
+- `QualitativeRelationAssessment <miscellaneous/qualitativeRelationAssessment.html>`_
+- `QuantitativeRelationAssessment <miscellaneous/quantitativeRelationAssessment.html>`_
 
 .. toctree::
 

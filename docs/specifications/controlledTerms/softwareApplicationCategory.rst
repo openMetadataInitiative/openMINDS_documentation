@@ -2,9 +2,8 @@
 SoftwareApplicationCategory
 ###########################
 
-************************************************************************
 https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
-************************************************************************
+------------------------------------------------------------------------
 
 Structured information on the category of the software application.
 

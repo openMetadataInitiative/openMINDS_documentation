@@ -2,9 +2,8 @@
 BrainAtlasVersion
 #################
 
-****************************************************
 https://openminds.ebrains.eu/sands/BrainAtlasVersion
-****************************************************
+----------------------------------------------------
 
 Structured information on a brain atlas (version level).
 

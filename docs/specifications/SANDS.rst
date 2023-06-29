@@ -2,9 +2,9 @@
 Sands
 #####
 
-- `atlas <SANDS/atlas.html>`_
-- `miscellaneous <SANDS/miscellaneous.html>`_
-- `non-atlas <SANDS/non-atlas.html>`_
+- `Atlas <SANDS/atlas.html>`_
+- `Miscellaneous <SANDS/miscellaneous.html>`_
+- `Non-atlas <SANDS/non-atlas.html>`_
 
 .. toctree::
 

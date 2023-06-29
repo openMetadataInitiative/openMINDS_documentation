@@ -2,9 +2,8 @@
 ISBN
 ####
 
-**************************************
 https://openminds.ebrains.eu/core/ISBN
-**************************************
+--------------------------------------
 
 An International Standard Book Number of the International ISBN Agency.
 

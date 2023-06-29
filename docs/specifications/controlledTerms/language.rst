@@ -2,9 +2,8 @@
 Language
 ########
 
-*****************************************************
 https://openminds.ebrains.eu/controlledTerms/Language
-*****************************************************
+-----------------------------------------------------
 
 Structured information on the available language setting.
 

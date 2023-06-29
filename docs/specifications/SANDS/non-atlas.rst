@@ -2,12 +2,12 @@
 Non-atlas
 #########
 
-- `customAnatomicalEntity <non-atlas/customAnatomicalEntity.html>`_
-- `customAnnotation <non-atlas/customAnnotation.html>`_
-- `customCoordinateSpace <non-atlas/customCoordinateSpace.html>`_
-- `electrode <non-atlas/electrode.html>`_
-- `electrodeArray <non-atlas/electrodeArray.html>`_
-- `electrodeContact <non-atlas/electrodeContact.html>`_
+- `CustomAnatomicalEntity <non-atlas/customAnatomicalEntity.html>`_
+- `CustomAnnotation <non-atlas/customAnnotation.html>`_
+- `CustomCoordinateSpace <non-atlas/customCoordinateSpace.html>`_
+- `Electrode <non-atlas/electrode.html>`_
+- `ElectrodeArray <non-atlas/electrodeArray.html>`_
+- `ElectrodeContact <non-atlas/electrodeContact.html>`_
 
 .. toctree::
 

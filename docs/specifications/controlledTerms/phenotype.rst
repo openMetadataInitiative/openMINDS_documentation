@@ -2,9 +2,8 @@
 Phenotype
 #########
 
-******************************************************
 https://openminds.ebrains.eu/controlledTerms/Phenotype
-******************************************************
+------------------------------------------------------
 
 Structured information on the phenotype of a subject.
 

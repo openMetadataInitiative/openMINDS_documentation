@@ -2,9 +2,8 @@
 DOI
 ###
 
-*************************************
 https://openminds.ebrains.eu/core/DOI
-*************************************
+-------------------------------------
 
 Structured information about a digital object identifier, as standardized by the International Organization for Standardization.
 

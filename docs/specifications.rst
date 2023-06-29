@@ -2,8 +2,8 @@
 Specifications
 ##############
 
-- `controlledTerms <specifications/controlledTerms.html>`_
-- `core <specifications/core.html>`_
+- `ControlledTerms <specifications/controlledTerms.html>`_
+- `Core <specifications/core.html>`_
 - `SANDS <specifications/SANDS.html>`_
 
 .. toctree::

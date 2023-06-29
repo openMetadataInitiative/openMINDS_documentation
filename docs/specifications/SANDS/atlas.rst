@@ -2,12 +2,12 @@
 Atlas
 #####
 
-- `atlasAnnotation <atlas/atlasAnnotation.html>`_
-- `brainAtlas <atlas/brainAtlas.html>`_
-- `brainAtlasVersion <atlas/brainAtlasVersion.html>`_
-- `commonCoordinateSpace <atlas/commonCoordinateSpace.html>`_
-- `parcellationEntity <atlas/parcellationEntity.html>`_
-- `parcellationTerminology <atlas/parcellationTerminology.html>`_
+- `AtlasAnnotation <atlas/atlasAnnotation.html>`_
+- `BrainAtlas <atlas/brainAtlas.html>`_
+- `BrainAtlasVersion <atlas/brainAtlasVersion.html>`_
+- `CommonCoordinateSpace <atlas/commonCoordinateSpace.html>`_
+- `ParcellationEntity <atlas/parcellationEntity.html>`_
+- `ParcellationTerminology <atlas/parcellationTerminology.html>`_
 
 .. toctree::
 

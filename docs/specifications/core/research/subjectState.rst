@@ -2,9 +2,8 @@
 SubjectState
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/SubjectState
-**********************************************
+----------------------------------------------
 
 Structured information on a temporary state of a subject.
 

@@ -2,9 +2,8 @@
 File
 ####
 
-**************************************
 https://openminds.ebrains.eu/core/File
-**************************************
+--------------------------------------
 
 Structured information on a file instance that is accessible via a URL.
 

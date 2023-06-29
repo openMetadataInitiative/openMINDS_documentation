@@ -2,9 +2,8 @@
 TissueSampleType
 ################
 
-*************************************************************
 https://openminds.ebrains.eu/controlledTerms/TissueSampleType
-*************************************************************
+-------------------------------------------------------------
 
 Structured information on the general type of the tissue sample.
 

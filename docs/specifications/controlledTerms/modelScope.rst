@@ -2,9 +2,8 @@
 ModelScope
 ##########
 
-*******************************************************
 https://openminds.ebrains.eu/controlledTerms/ModelScope
-*******************************************************
+-------------------------------------------------------
 
 Structured information on the scope of the computational model.
 

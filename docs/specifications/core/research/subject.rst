@@ -2,9 +2,8 @@
 Subject
 #######
 
-*****************************************
 https://openminds.ebrains.eu/core/Subject
-*****************************************
+-----------------------------------------
 
 Structured information on a subject.
 

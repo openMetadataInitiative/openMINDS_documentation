@@ -2,9 +2,8 @@
 ContactInformation
 ##################
 
-****************************************************
 https://openminds.ebrains.eu/core/ContactInformation
-****************************************************
+----------------------------------------------------
 
 Structured information about how to contact a given person or consortium.
 

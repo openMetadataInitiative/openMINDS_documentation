@@ -2,9 +2,8 @@
 TissueSample
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/TissueSample
-**********************************************
+----------------------------------------------
 
 Structured information on a tissue sample.
 

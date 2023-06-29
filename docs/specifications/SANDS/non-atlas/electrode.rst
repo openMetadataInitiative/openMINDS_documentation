@@ -2,9 +2,8 @@
 Electrode
 #########
 
-********************************************
 https://openminds.ebrains.eu/sands/Electrode
-********************************************
+--------------------------------------------
 
 Structured information on an electrode.
 

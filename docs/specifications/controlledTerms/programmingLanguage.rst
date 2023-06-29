@@ -2,9 +2,8 @@
 ProgrammingLanguage
 ###################
 
-****************************************************************
 https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
-****************************************************************
+----------------------------------------------------------------
 
 Structured information on the programming language.
 

@@ -2,9 +2,8 @@
 ElectrodeContact
 ################
 
-***************************************************
 https://openminds.ebrains.eu/sands/ElectrodeContact
-***************************************************
+---------------------------------------------------
 
 Structured information on an electrode contact.
 
