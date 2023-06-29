@@ -16,7 +16,7 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
         # TODO add some description -> but where does it come from?
         doc.content(f".. toctree::")
         doc.newline()
-        sub_dirs = os.listdir(os.path.join("target", version, "docs", "/".join(relative_path)))
+        sub_dirs = sorted(os.listdir(os.path.join("target", version, "docs", "/".join(relative_path))), key=str.casefold)
         for sub_dir in sub_dirs:
             sub_dir.replace(".rst", "")
             doc.content(f"{relative_path[-1]}/{sub_dir}", indent=3)
