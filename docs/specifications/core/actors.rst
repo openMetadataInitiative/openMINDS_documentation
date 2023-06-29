@@ -2,20 +2,20 @@
 Actors
 ######
 
-- `accountInformation.rst <actors/accountInformation.rst.html>`_
-- `affiliation.rst <actors/affiliation.rst.html>`_
-- `consortium.rst <actors/consortium.rst.html>`_
-- `contactInformation.rst <actors/contactInformation.rst.html>`_
-- `contribution.rst <actors/contribution.rst.html>`_
-- `organization.rst <actors/organization.rst.html>`_
-- `person.rst <actors/person.rst.html>`_
+- `accountInformation <actors/accountInformation.html>`_
+- `affiliation <actors/affiliation.html>`_
+- `consortium <actors/consortium.html>`_
+- `contactInformation <actors/contactInformation.html>`_
+- `contribution <actors/contribution.html>`_
+- `organization <actors/organization.html>`_
+- `person <actors/person.html>`_
 
 .. toctree::
 
-   actors/accountInformation.rst
-   actors/affiliation.rst
-   actors/consortium.rst
-   actors/contactInformation.rst
-   actors/contribution.rst
-   actors/organization.rst
-   actors/person.rst
+   actors/accountInformation
+   actors/affiliation
+   actors/consortium
+   actors/contactInformation
+   actors/contribution
+   actors/organization
+   actors/person

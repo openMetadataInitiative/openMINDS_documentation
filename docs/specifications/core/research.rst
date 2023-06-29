@@ -2,40 +2,40 @@
 Research
 ########
 
-- `behavioralProtocol.rst <research/behavioralProtocol.rst.html>`_
-- `configuration.rst <research/configuration.rst.html>`_
-- `customPropertySet.rst <research/customPropertySet.rst.html>`_
-- `numericalProperty.rst <research/numericalProperty.rst.html>`_
-- `propertyValueList.rst <research/propertyValueList.rst.html>`_
-- `protocol.rst <research/protocol.rst.html>`_
-- `protocolExecution.rst <research/protocolExecution.rst.html>`_
-- `strain.rst <research/strain.rst.html>`_
-- `stringProperty.rst <research/stringProperty.rst.html>`_
-- `subject.rst <research/subject.rst.html>`_
-- `subjectGroup.rst <research/subjectGroup.rst.html>`_
-- `subjectGroupState.rst <research/subjectGroupState.rst.html>`_
-- `subjectState.rst <research/subjectState.rst.html>`_
-- `tissueSample.rst <research/tissueSample.rst.html>`_
-- `tissueSampleCollection.rst <research/tissueSampleCollection.rst.html>`_
-- `tissueSampleCollectionState.rst <research/tissueSampleCollectionState.rst.html>`_
-- `tissueSampleState.rst <research/tissueSampleState.rst.html>`_
+- `behavioralProtocol <research/behavioralProtocol.html>`_
+- `configuration <research/configuration.html>`_
+- `customPropertySet <research/customPropertySet.html>`_
+- `numericalProperty <research/numericalProperty.html>`_
+- `propertyValueList <research/propertyValueList.html>`_
+- `protocol <research/protocol.html>`_
+- `protocolExecution <research/protocolExecution.html>`_
+- `strain <research/strain.html>`_
+- `stringProperty <research/stringProperty.html>`_
+- `subject <research/subject.html>`_
+- `subjectGroup <research/subjectGroup.html>`_
+- `subjectGroupState <research/subjectGroupState.html>`_
+- `subjectState <research/subjectState.html>`_
+- `tissueSample <research/tissueSample.html>`_
+- `tissueSampleCollection <research/tissueSampleCollection.html>`_
+- `tissueSampleCollectionState <research/tissueSampleCollectionState.html>`_
+- `tissueSampleState <research/tissueSampleState.html>`_
 
 .. toctree::
 
-   research/behavioralProtocol.rst
-   research/configuration.rst
-   research/customPropertySet.rst
-   research/numericalProperty.rst
-   research/propertyValueList.rst
-   research/protocol.rst
-   research/protocolExecution.rst
-   research/strain.rst
-   research/stringProperty.rst
-   research/subject.rst
-   research/subjectGroup.rst
-   research/subjectGroupState.rst
-   research/subjectState.rst
-   research/tissueSample.rst
-   research/tissueSampleCollection.rst
-   research/tissueSampleCollectionState.rst
-   research/tissueSampleState.rst
+   research/behavioralProtocol
+   research/configuration
+   research/customPropertySet
+   research/numericalProperty
+   research/propertyValueList
+   research/protocol
+   research/protocolExecution
+   research/strain
+   research/stringProperty
+   research/subject
+   research/subjectGroup
+   research/subjectGroupState
+   research/subjectState
+   research/tissueSample
+   research/tissueSampleCollection
+   research/tissueSampleCollectionState
+   research/tissueSampleState

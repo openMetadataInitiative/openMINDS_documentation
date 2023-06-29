@@ -2,40 +2,40 @@
 Computation
 ###########
 
-- `dataAnalysis.rst <computation/dataAnalysis.rst.html>`_
-- `dataCopy.rst <computation/dataCopy.rst.html>`_
-- `environment.rst <computation/environment.rst.html>`_
-- `genericComputation.rst <computation/genericComputation.rst.html>`_
-- `hardwareSystem.rst <computation/hardwareSystem.rst.html>`_
-- `launchConfiguration.rst <computation/launchConfiguration.rst.html>`_
-- `localFile.rst <computation/localFile.rst.html>`_
-- `modelValidation.rst <computation/modelValidation.rst.html>`_
-- `optimization.rst <computation/optimization.rst.html>`_
-- `simulation.rst <computation/simulation.rst.html>`_
-- `softwareAgent.rst <computation/softwareAgent.rst.html>`_
-- `validationTest.rst <computation/validationTest.rst.html>`_
-- `validationTestVersion.rst <computation/validationTestVersion.rst.html>`_
-- `visualization.rst <computation/visualization.rst.html>`_
-- `workflowExecution.rst <computation/workflowExecution.rst.html>`_
-- `workflowRecipe.rst <computation/workflowRecipe.rst.html>`_
-- `workflowRecipeVersion.rst <computation/workflowRecipeVersion.rst.html>`_
+- `dataAnalysis <computation/dataAnalysis.html>`_
+- `dataCopy <computation/dataCopy.html>`_
+- `environment <computation/environment.html>`_
+- `genericComputation <computation/genericComputation.html>`_
+- `hardwareSystem <computation/hardwareSystem.html>`_
+- `launchConfiguration <computation/launchConfiguration.html>`_
+- `localFile <computation/localFile.html>`_
+- `modelValidation <computation/modelValidation.html>`_
+- `optimization <computation/optimization.html>`_
+- `simulation <computation/simulation.html>`_
+- `softwareAgent <computation/softwareAgent.html>`_
+- `validationTest <computation/validationTest.html>`_
+- `validationTestVersion <computation/validationTestVersion.html>`_
+- `visualization <computation/visualization.html>`_
+- `workflowExecution <computation/workflowExecution.html>`_
+- `workflowRecipe <computation/workflowRecipe.html>`_
+- `workflowRecipeVersion <computation/workflowRecipeVersion.html>`_
 
 .. toctree::
 
-   computation/dataAnalysis.rst
-   computation/dataCopy.rst
-   computation/environment.rst
-   computation/genericComputation.rst
-   computation/hardwareSystem.rst
-   computation/launchConfiguration.rst
-   computation/localFile.rst
-   computation/modelValidation.rst
-   computation/optimization.rst
-   computation/simulation.rst
-   computation/softwareAgent.rst
-   computation/validationTest.rst
-   computation/validationTestVersion.rst
-   computation/visualization.rst
-   computation/workflowExecution.rst
-   computation/workflowRecipe.rst
-   computation/workflowRecipeVersion.rst
+   computation/dataAnalysis
+   computation/dataCopy
+   computation/environment
+   computation/genericComputation
+   computation/hardwareSystem
+   computation/launchConfiguration
+   computation/localFile
+   computation/modelValidation
+   computation/optimization
+   computation/simulation
+   computation/softwareAgent
+   computation/validationTest
+   computation/validationTestVersion
+   computation/visualization
+   computation/workflowExecution
+   computation/workflowRecipe
+   computation/workflowRecipeVersion

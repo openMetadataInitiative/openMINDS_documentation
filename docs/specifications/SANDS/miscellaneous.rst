@@ -2,18 +2,18 @@
 Miscellaneous
 #############
 
-- `anatomicalTargetPosition.rst <miscellaneous/anatomicalTargetPosition.rst.html>`_
-- `coordinatePoint.rst <miscellaneous/coordinatePoint.rst.html>`_
-- `qualitativeRelationAssessment.rst <miscellaneous/qualitativeRelationAssessment.rst.html>`_
-- `quantitativeRelationAssessment.rst <miscellaneous/quantitativeRelationAssessment.rst.html>`_
-- `singleColor.rst <miscellaneous/singleColor.rst.html>`_
-- `viewerSpecification.rst <miscellaneous/viewerSpecification.rst.html>`_
+- `anatomicalTargetPosition <miscellaneous/anatomicalTargetPosition.html>`_
+- `coordinatePoint <miscellaneous/coordinatePoint.html>`_
+- `qualitativeRelationAssessment <miscellaneous/qualitativeRelationAssessment.html>`_
+- `quantitativeRelationAssessment <miscellaneous/quantitativeRelationAssessment.html>`_
+- `singleColor <miscellaneous/singleColor.html>`_
+- `viewerSpecification <miscellaneous/viewerSpecification.html>`_
 
 .. toctree::
 
-   miscellaneous/anatomicalTargetPosition.rst
-   miscellaneous/coordinatePoint.rst
-   miscellaneous/qualitativeRelationAssessment.rst
-   miscellaneous/quantitativeRelationAssessment.rst
-   miscellaneous/singleColor.rst
-   miscellaneous/viewerSpecification.rst
+   miscellaneous/anatomicalTargetPosition
+   miscellaneous/coordinatePoint
+   miscellaneous/qualitativeRelationAssessment
+   miscellaneous/quantitativeRelationAssessment
+   miscellaneous/singleColor
+   miscellaneous/viewerSpecification

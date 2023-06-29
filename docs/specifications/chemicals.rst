@@ -2,14 +2,14 @@
 Chemicals
 #########
 
-- `amountOfChemical.rst <chemicals/amountOfChemical.rst.html>`_
-- `chemicalMixture.rst <chemicals/chemicalMixture.rst.html>`_
-- `chemicalSubstance.rst <chemicals/chemicalSubstance.rst.html>`_
-- `productSource.rst <chemicals/productSource.rst.html>`_
+- `amountOfChemical <chemicals/amountOfChemical.html>`_
+- `chemicalMixture <chemicals/chemicalMixture.html>`_
+- `chemicalSubstance <chemicals/chemicalSubstance.html>`_
+- `productSource <chemicals/productSource.html>`_
 
 .. toctree::
 
-   chemicals/amountOfChemical.rst
-   chemicals/chemicalMixture.rst
-   chemicals/chemicalSubstance.rst
-   chemicals/productSource.rst
+   chemicals/amountOfChemical
+   chemicals/chemicalMixture
+   chemicals/chemicalSubstance
+   chemicals/productSource

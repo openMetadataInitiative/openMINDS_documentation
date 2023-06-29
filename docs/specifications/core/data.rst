@@ -2,32 +2,32 @@
 Data
 ####
 
-- `contentType.rst <data/contentType.rst.html>`_
-- `contentTypePattern.rst <data/contentTypePattern.rst.html>`_
-- `copyright.rst <data/copyright.rst.html>`_
-- `file.rst <data/file.rst.html>`_
-- `fileArchive.rst <data/fileArchive.rst.html>`_
-- `fileBundle.rst <data/fileBundle.rst.html>`_
-- `filePathPattern.rst <data/filePathPattern.rst.html>`_
-- `fileRepository.rst <data/fileRepository.rst.html>`_
-- `fileRepositoryStructure.rst <data/fileRepositoryStructure.rst.html>`_
-- `hash.rst <data/hash.rst.html>`_
-- `license.rst <data/license.rst.html>`_
-- `measurement.rst <data/measurement.rst.html>`_
-- `serviceLink.rst <data/serviceLink.rst.html>`_
+- `contentType <data/contentType.html>`_
+- `contentTypePattern <data/contentTypePattern.html>`_
+- `copyright <data/copyright.html>`_
+- `file <data/file.html>`_
+- `fileArchive <data/fileArchive.html>`_
+- `fileBundle <data/fileBundle.html>`_
+- `filePathPattern <data/filePathPattern.html>`_
+- `fileRepository <data/fileRepository.html>`_
+- `fileRepositoryStructure <data/fileRepositoryStructure.html>`_
+- `hash <data/hash.html>`_
+- `license <data/license.html>`_
+- `measurement <data/measurement.html>`_
+- `serviceLink <data/serviceLink.html>`_
 
 .. toctree::
 
-   data/contentType.rst
-   data/contentTypePattern.rst
-   data/copyright.rst
-   data/file.rst
-   data/fileArchive.rst
-   data/fileBundle.rst
-   data/filePathPattern.rst
-   data/fileRepository.rst
-   data/fileRepositoryStructure.rst
-   data/hash.rst
-   data/license.rst
-   data/measurement.rst
-   data/serviceLink.rst
+   data/contentType
+   data/contentTypePattern
+   data/copyright
+   data/file
+   data/fileArchive
+   data/fileBundle
+   data/filePathPattern
+   data/fileRepository
+   data/fileRepositoryStructure
+   data/hash
+   data/license
+   data/measurement
+   data/serviceLink

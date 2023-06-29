@@ -2,8 +2,8 @@
 Activity
 ########
 
-- `stimulationActivity.rst <activity/stimulationActivity.rst.html>`_
+- `stimulationActivity <activity/stimulationActivity.html>`_
 
 .. toctree::
 
-   activity/stimulationActivity.rst
+   activity/stimulationActivity

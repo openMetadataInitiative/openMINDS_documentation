@@ -2,8 +2,8 @@
 Stimulus
 ########
 
-- `ephysStimulus.rst <stimulus/ephysStimulus.rst.html>`_
+- `ephysStimulus <stimulus/ephysStimulus.html>`_
 
 .. toctree::
 
-   stimulus/ephysStimulus.rst
+   stimulus/ephysStimulus

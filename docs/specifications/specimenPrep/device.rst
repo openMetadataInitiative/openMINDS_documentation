@@ -2,10 +2,10 @@
 Device
 ######
 
-- `slicingDevice.rst <device/slicingDevice.rst.html>`_
-- `slicingDeviceUsage.rst <device/slicingDeviceUsage.rst.html>`_
+- `slicingDevice <device/slicingDevice.html>`_
+- `slicingDeviceUsage <device/slicingDeviceUsage.html>`_
 
 .. toctree::
 
-   device/slicingDevice.rst
-   device/slicingDeviceUsage.rst
+   device/slicingDevice
+   device/slicingDeviceUsage
