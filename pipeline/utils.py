@@ -37,6 +37,7 @@ class GitPusher(object):
         self._repo = Repo(self.upload_dir)
 
     def upload(self, version):
+        print(f"Uploading version {version}")
         self._checkout(version)
         self._clear_directory()
         shutil.copytree(f"target/{version}", self.upload_dir, dirs_exist_ok=True)
