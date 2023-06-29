@@ -1,3 +1,4 @@
+import os.path
 import shutil
 
 from pipeline.schema import SchemaDocBuilder
@@ -11,7 +12,8 @@ print("***************************************")
 # Step 1 - clone central repository in main branch to get the latest sources
 clone_sources()
 schema_loader = SchemaLoader()
-shutil.rmtree("target")
+if os.path.exists("target"):
+    shutil.rmtree("target")
 
 git_pusher = GitPusher()
 
