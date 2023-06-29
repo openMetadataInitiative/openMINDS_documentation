@@ -4,12 +4,12 @@ Products
 
 .. toctree::
 
-   products/modelVersion.rst
-   products/metaDataModel.rst
-   products/software.rst
-   products/project.rst
-   products/model.rst
-   products/softwareVersion.rst
    products/dataset.rst
    products/datasetVersion.rst
+   products/metaDataModel.rst
    products/metaDataModelVersion.rst
+   products/model.rst
+   products/modelVersion.rst
+   products/project.rst
+   products/software.rst
+   products/softwareVersion.rst

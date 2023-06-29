@@ -4,6 +4,6 @@ Specifications
 
 .. toctree::
 
-   specifications/core
    specifications/controlledTerms
+   specifications/core
    specifications/SANDS
