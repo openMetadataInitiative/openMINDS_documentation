@@ -15,8 +15,7 @@ Structured information on data originating from human/animal studies or simulati
 Properties
 **********
 
-:Required: `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `shortName
-   <shortName_heading_>`_
+:Required: `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_
 
 ------------

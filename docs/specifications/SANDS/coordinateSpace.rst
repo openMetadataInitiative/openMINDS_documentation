@@ -15,10 +15,8 @@ Structured information on a coordinate space.
 Properties
 **********
 
-:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `fullName <fullName_heading_>`_, `nativeUnit
-   <nativeUnit_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
-:Optional: `defaultImage <defaultImage_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `ontologyIdentifier
-   <ontologyIdentifier_heading_>`_
+:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `fullName <fullName_heading_>`_, `nativeUnit <nativeUnit_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
+:Optional: `defaultImage <defaultImage_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 

@@ -15,11 +15,8 @@ Structured information on a brain atlas (version level).
 Properties
 **********
 
-:Required: `annotationSet <annotationSet_heading_>`_, `coordinateSpace <coordinateSpace_heading_>`_, `fullName <fullName_heading_>`_, `releaseDate
-   <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `terminology <terminology_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_,
-   `versionInnovation <versionInnovation_heading_>`_
-:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasAlternativeVersion <hasAlternativeVersion_heading_>`_, `homepage <homepage_heading_>`_,
-   `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
+:Required: `annotationSet <annotationSet_heading_>`_, `coordinateSpace <coordinateSpace_heading_>`_, `fullName <fullName_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `terminology <terminology_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasAlternativeVersion <hasAlternativeVersion_heading_>`_, `homepage <homepage_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 

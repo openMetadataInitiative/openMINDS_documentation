@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `coordinatePoint <coordinatePoint_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_
-:Optional: `definedIn <definedIn_heading_>`_, `relatedRecording <relatedRecording_heading_>`_, `relatedStimulation <relatedStimulation_heading_>`_,
-   `visualizedIn <visualizedIn_heading_>`_
+:Optional: `definedIn <definedIn_heading_>`_, `relatedRecording <relatedRecording_heading_>`_, `relatedStimulation <relatedStimulation_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
 
 ------------
 

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `fullName <fullName_heading_>`_
-:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `shortName
-   <shortName_heading_>`_
+:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
 
 ------------
 

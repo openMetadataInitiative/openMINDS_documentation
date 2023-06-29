@@ -15,15 +15,8 @@ Structured information on a computational model (version level).
 Properties
 **********
 
-:Required: `abstractionLevel <abstractionLevel_heading_>`_, `accessibility <accessibility_heading_>`_, `description <description_heading_>`_, `developer
-   <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_,
-   `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `repository
-   <repository_heading_>`_, `scope <scope_heading_>`_, `shortName <shortName_heading_>`_, `studyTarget <studyTarget_heading_>`_, `versionIdentifier
-   <versionIdentifier_heading_>`_
-:Optional: `author <author_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `hasAlternativeVersion
-   <hasAlternativeVersion_heading_>`_, `hasSupplementVersion <hasSupplementVersion_heading_>`_, `homepage <homepage_heading_>`_, `inputData
-   <inputData_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_,
-   `outputData <outputData_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Required: `abstractionLevel <abstractionLevel_heading_>`_, `accessibility <accessibility_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `fullName <fullName_heading_>`_, `funding <funding_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `repository <repository_heading_>`_, `scope <scope_heading_>`_, `shortName <shortName_heading_>`_, `studyTarget <studyTarget_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
+:Optional: `author <author_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `hasAlternativeVersion <hasAlternativeVersion_heading_>`_, `hasSupplementVersion <hasSupplementVersion_heading_>`_, `homepage <homepage_heading_>`_, `inputData <inputData_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputData <outputData_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 
 ------------
 
@@ -86,8 +79,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 copyright
 ---------
 
-Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time
-period.
+Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time period.
 
 .. admonition:: specifications
 
@@ -378,8 +370,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | linked object array \(1-N\) of type
                 | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
-   :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product
-      version.
+   :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -415,8 +406,7 @@ Reference to something that was made available for the general public to see or 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
                 | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
-   :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of
-      this research product version.
+   :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -505,10 +495,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `Disease
-                <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerms/Genotype>`_, `Phenotype
-                <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `TermSuggestion
-                <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerms/Genotype>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <ModelVersion_>`_

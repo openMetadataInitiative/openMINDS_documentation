@@ -25,8 +25,7 @@ Properties
 IRI
 ---
 
-Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted
-characters to include Unicode/ISO 10646.
+Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
 .. admonition:: specifications
 

@@ -85,10 +85,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerm/BiologicalSex>`_, `Disease
-                <https://openminds.ebrains.eu/controlledTerm/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerm/Genotype>`_, `Phenotype
-                <https://openminds.ebrains.eu/controlledTerm/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerm/Species>`_, `TermSuggestion
-                <https://openminds.ebrains.eu/controlledTerm/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerm/BiologicalSex>`_, `Disease <https://openminds.ebrains.eu/controlledTerm/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerm/Genotype>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerm/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerm/Species>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerm/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <Protocol_>`_

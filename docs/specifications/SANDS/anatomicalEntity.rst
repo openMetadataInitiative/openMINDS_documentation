@@ -86,8 +86,7 @@ Reference to a related anatomical structure.
    :semantic name: https://openminds.ebrains.eu/vocab/otherAnatomicalRelation
    :value type: | linked object array \(1-N\) of type
                 | `AnatomicalEntityRelation <https://openminds.ebrains.eu/sands/AnatomicalEntityRelation>`_
-   :instructions: Add one or several relations of this anatomical entity to other anatomical entities that are used elsewhere to describe (roughly) the same
-      anatomical location.
+   :instructions: Add one or several relations of this anatomical entity to other anatomical entities that are used elsewhere to describe (roughly) the same anatomical location.
 
 `BACK TO TOP <AnatomicalEntity_>`_
 

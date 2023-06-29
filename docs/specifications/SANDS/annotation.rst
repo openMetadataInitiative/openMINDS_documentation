@@ -15,10 +15,8 @@ Structured information on an image annotation.
 Properties
 **********
 
-:Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_,
-   `namingTerm <namingTerm_heading_>`_
-:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy
-   <inspiredBy_heading_>`_, `relatedAtlasTerm <relatedAtlasTerm_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
+:Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `namingTerm <namingTerm_heading_>`_
+:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `relatedAtlasTerm <relatedAtlasTerm_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
 
 ------------
 

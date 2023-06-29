@@ -13,10 +13,8 @@ https://openminds.ebrains.eu/core/TissueSampleCollection
 Properties
 **********
 
-:Required: `biologicalSex <biologicalSex_heading_>`_, `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type
-   <type_heading_>`_
-:Optional: `genotype <genotype_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `phenotype
-   <phenotype_heading_>`_, `quantity <quantity_heading_>`_, `strain <strain_heading_>`_
+:Required: `biologicalSex <biologicalSex_heading_>`_, `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type <type_heading_>`_
+:Optional: `genotype <genotype_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `phenotype <phenotype_heading_>`_, `quantity <quantity_heading_>`_, `strain <strain_heading_>`_
 
 ------------
 
@@ -150,8 +148,7 @@ Total amount or number of things or beings.
 species
 -------
 
-Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that
-consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
+Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
 .. admonition:: specifications
 
