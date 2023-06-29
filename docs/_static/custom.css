@@ -26,7 +26,6 @@
     padding: 0.5em 1em;
     position: relative;
     text-align: left;
-    width: 100%;
 
 }
 
@@ -37,4 +36,11 @@
 
 .toctree-wrapper{
     display: none;
+}
+
+
+@media screen and (max-width:768px) {
+    .rst-versions {
+     width:100%;
+    }
 }
