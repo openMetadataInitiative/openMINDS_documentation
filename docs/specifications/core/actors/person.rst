@@ -49,7 +49,7 @@ alternateName
 
    :semantic name: https://openminds.ebrains.eu/vocab/alternateName
    :value type: | string array \(1-N\)
-                | formatting: text/plain
+                | formatting: text/plain; singleline
    :instructions: Enter any other known full name of this person.
 
 `BACK TO TOP <Person_>`_
@@ -119,7 +119,7 @@ Name borne in common by members of a family.
 
    :semantic name: https://openminds.ebrains.eu/vocab/familyName
    :value type: | string
-                | formatting: text/plain
+                | formatting: text/plain; singleline
    :instructions: Enter the family name of this person.
 
 `BACK TO TOP <Person_>`_
@@ -137,7 +137,7 @@ Name given to a person, including all potential middle names, but excluding the 
 
    :semantic name: https://openminds.ebrains.eu/vocab/givenName
    :value type: | string
-                | formatting: text/plain
+                | formatting: text/plain; singleline
    :instructions: Enter the given name of this person.
 
 `BACK TO TOP <Person_>`_
