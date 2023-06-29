@@ -30,6 +30,7 @@ jobs:
 
     - name: Run build
       run: |
+        ls -alh
         pip install -r requirements.txt
         python build.py
 
