@@ -11,9 +11,9 @@ Structured information on a person.
 Properties
 ==========
 
-:Required: `givenName_heading`_
-:Optional: `affiliation_heading`_, `alternateName_heading`_, `associatedAccount_heading`_, `contactInformation_heading`_, `digitalIdentifier_heading`_,
-   `familyName_heading`_
+:Required: `givenName <givenName_heading_>`_
+:Optional: `affiliation <affiliation_heading_>`_, `alternateName <alternateName_heading_>`_, `associatedAccount <associatedAccount_heading_>`_,
+   `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
 
 ------------
 
