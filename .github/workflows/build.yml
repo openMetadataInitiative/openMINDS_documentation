@@ -24,7 +24,6 @@ jobs:
     - name: Checkout documentation branch
       uses: actions/checkout@v3
       with:
-        ref: main
         path: upload
         token: ${{ secrets.GITHUB_TOKEN }}
 
