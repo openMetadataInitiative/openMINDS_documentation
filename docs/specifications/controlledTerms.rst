@@ -2,86 +2,86 @@
 Controlledterms
 ###############
 
-- `ageCategory.rst <controlledTerms/ageCategory.rst.html>`_
-- `anatomicalAxesOrientation.rst <controlledTerms/anatomicalAxesOrientation.rst.html>`_
-- `behavioralTask.rst <controlledTerms/behavioralTask.rst.html>`_
-- `biologicalSex.rst <controlledTerms/biologicalSex.rst.html>`_
-- `cellType.rst <controlledTerms/cellType.rst.html>`_
-- `contributionType.rst <controlledTerms/contributionType.rst.html>`_
-- `criteriaQualityType.rst <controlledTerms/criteriaQualityType.rst.html>`_
-- `disease.rst <controlledTerms/disease.rst.html>`_
-- `diseaseModel.rst <controlledTerms/diseaseModel.rst.html>`_
-- `ethicsAssessment.rst <controlledTerms/ethicsAssessment.rst.html>`_
-- `experimentalApproach.rst <controlledTerms/experimentalApproach.rst.html>`_
-- `fileBundleGrouping.rst <controlledTerms/fileBundleGrouping.rst.html>`_
-- `fileRepositoryType.rst <controlledTerms/fileRepositoryType.rst.html>`_
-- `fileUsageRole.rst <controlledTerms/fileUsageRole.rst.html>`_
-- `handedness.rst <controlledTerms/handedness.rst.html>`_
-- `language.rst <controlledTerms/language.rst.html>`_
-- `laterality.rst <controlledTerms/laterality.rst.html>`_
-- `metaDataModelType.rst <controlledTerms/metaDataModelType.rst.html>`_
-- `modelAbstractionLevel.rst <controlledTerms/modelAbstractionLevel.rst.html>`_
-- `modelScope.rst <controlledTerms/modelScope.rst.html>`_
-- `operatingDevice.rst <controlledTerms/operatingDevice.rst.html>`_
-- `operatingSystem.rst <controlledTerms/operatingSystem.rst.html>`_
-- `organ.rst <controlledTerms/organ.rst.html>`_
-- `phenotype.rst <controlledTerms/phenotype.rst.html>`_
-- `preparationType.rst <controlledTerms/preparationType.rst.html>`_
-- `productAccessibility.rst <controlledTerms/productAccessibility.rst.html>`_
-- `programmingLanguage.rst <controlledTerms/programmingLanguage.rst.html>`_
-- `qualitativeOverlap.rst <controlledTerms/qualitativeOverlap.rst.html>`_
-- `semanticDataType.rst <controlledTerms/semanticDataType.rst.html>`_
-- `softwareApplicationCategory.rst <controlledTerms/softwareApplicationCategory.rst.html>`_
-- `softwareFeature.rst <controlledTerms/softwareFeature.rst.html>`_
-- `species.rst <controlledTerms/species.rst.html>`_
-- `strain.rst <controlledTerms/strain.rst.html>`_
-- `technique.rst <controlledTerms/technique.rst.html>`_
-- `terminology.rst <controlledTerms/terminology.rst.html>`_
-- `termSuggestion.rst <controlledTerms/termSuggestion.rst.html>`_
-- `tissueSampleType.rst <controlledTerms/tissueSampleType.rst.html>`_
-- `typeOfUncertainty.rst <controlledTerms/typeOfUncertainty.rst.html>`_
-- `UBERONParcellation.rst <controlledTerms/UBERONParcellation.rst.html>`_
-- `unitOfMeasurement.rst <controlledTerms/unitOfMeasurement.rst.html>`_
+- `ageCategory <controlledTerms/ageCategory.html>`_
+- `anatomicalAxesOrientation <controlledTerms/anatomicalAxesOrientation.html>`_
+- `behavioralTask <controlledTerms/behavioralTask.html>`_
+- `biologicalSex <controlledTerms/biologicalSex.html>`_
+- `cellType <controlledTerms/cellType.html>`_
+- `contributionType <controlledTerms/contributionType.html>`_
+- `criteriaQualityType <controlledTerms/criteriaQualityType.html>`_
+- `disease <controlledTerms/disease.html>`_
+- `diseaseModel <controlledTerms/diseaseModel.html>`_
+- `ethicsAssessment <controlledTerms/ethicsAssessment.html>`_
+- `experimentalApproach <controlledTerms/experimentalApproach.html>`_
+- `fileBundleGrouping <controlledTerms/fileBundleGrouping.html>`_
+- `fileRepositoryType <controlledTerms/fileRepositoryType.html>`_
+- `fileUsageRole <controlledTerms/fileUsageRole.html>`_
+- `handedness <controlledTerms/handedness.html>`_
+- `language <controlledTerms/language.html>`_
+- `laterality <controlledTerms/laterality.html>`_
+- `metaDataModelType <controlledTerms/metaDataModelType.html>`_
+- `modelAbstractionLevel <controlledTerms/modelAbstractionLevel.html>`_
+- `modelScope <controlledTerms/modelScope.html>`_
+- `operatingDevice <controlledTerms/operatingDevice.html>`_
+- `operatingSystem <controlledTerms/operatingSystem.html>`_
+- `organ <controlledTerms/organ.html>`_
+- `phenotype <controlledTerms/phenotype.html>`_
+- `preparationType <controlledTerms/preparationType.html>`_
+- `productAccessibility <controlledTerms/productAccessibility.html>`_
+- `programmingLanguage <controlledTerms/programmingLanguage.html>`_
+- `qualitativeOverlap <controlledTerms/qualitativeOverlap.html>`_
+- `semanticDataType <controlledTerms/semanticDataType.html>`_
+- `softwareApplicationCategory <controlledTerms/softwareApplicationCategory.html>`_
+- `softwareFeature <controlledTerms/softwareFeature.html>`_
+- `species <controlledTerms/species.html>`_
+- `strain <controlledTerms/strain.html>`_
+- `technique <controlledTerms/technique.html>`_
+- `terminology <controlledTerms/terminology.html>`_
+- `termSuggestion <controlledTerms/termSuggestion.html>`_
+- `tissueSampleType <controlledTerms/tissueSampleType.html>`_
+- `typeOfUncertainty <controlledTerms/typeOfUncertainty.html>`_
+- `UBERONParcellation <controlledTerms/UBERONParcellation.html>`_
+- `unitOfMeasurement <controlledTerms/unitOfMeasurement.html>`_
 
 .. toctree::
 
-   controlledTerms/ageCategory.rst
-   controlledTerms/anatomicalAxesOrientation.rst
-   controlledTerms/behavioralTask.rst
-   controlledTerms/biologicalSex.rst
-   controlledTerms/cellType.rst
-   controlledTerms/contributionType.rst
-   controlledTerms/criteriaQualityType.rst
-   controlledTerms/disease.rst
-   controlledTerms/diseaseModel.rst
-   controlledTerms/ethicsAssessment.rst
-   controlledTerms/experimentalApproach.rst
-   controlledTerms/fileBundleGrouping.rst
-   controlledTerms/fileRepositoryType.rst
-   controlledTerms/fileUsageRole.rst
-   controlledTerms/handedness.rst
-   controlledTerms/language.rst
-   controlledTerms/laterality.rst
-   controlledTerms/metaDataModelType.rst
-   controlledTerms/modelAbstractionLevel.rst
-   controlledTerms/modelScope.rst
-   controlledTerms/operatingDevice.rst
-   controlledTerms/operatingSystem.rst
-   controlledTerms/organ.rst
-   controlledTerms/phenotype.rst
-   controlledTerms/preparationType.rst
-   controlledTerms/productAccessibility.rst
-   controlledTerms/programmingLanguage.rst
-   controlledTerms/qualitativeOverlap.rst
-   controlledTerms/semanticDataType.rst
-   controlledTerms/softwareApplicationCategory.rst
-   controlledTerms/softwareFeature.rst
-   controlledTerms/species.rst
-   controlledTerms/strain.rst
-   controlledTerms/technique.rst
-   controlledTerms/terminology.rst
-   controlledTerms/termSuggestion.rst
-   controlledTerms/tissueSampleType.rst
-   controlledTerms/typeOfUncertainty.rst
-   controlledTerms/UBERONParcellation.rst
-   controlledTerms/unitOfMeasurement.rst
+   controlledTerms/ageCategory
+   controlledTerms/anatomicalAxesOrientation
+   controlledTerms/behavioralTask
+   controlledTerms/biologicalSex
+   controlledTerms/cellType
+   controlledTerms/contributionType
+   controlledTerms/criteriaQualityType
+   controlledTerms/disease
+   controlledTerms/diseaseModel
+   controlledTerms/ethicsAssessment
+   controlledTerms/experimentalApproach
+   controlledTerms/fileBundleGrouping
+   controlledTerms/fileRepositoryType
+   controlledTerms/fileUsageRole
+   controlledTerms/handedness
+   controlledTerms/language
+   controlledTerms/laterality
+   controlledTerms/metaDataModelType
+   controlledTerms/modelAbstractionLevel
+   controlledTerms/modelScope
+   controlledTerms/operatingDevice
+   controlledTerms/operatingSystem
+   controlledTerms/organ
+   controlledTerms/phenotype
+   controlledTerms/preparationType
+   controlledTerms/productAccessibility
+   controlledTerms/programmingLanguage
+   controlledTerms/qualitativeOverlap
+   controlledTerms/semanticDataType
+   controlledTerms/softwareApplicationCategory
+   controlledTerms/softwareFeature
+   controlledTerms/species
+   controlledTerms/strain
+   controlledTerms/technique
+   controlledTerms/terminology
+   controlledTerms/termSuggestion
+   controlledTerms/tissueSampleType
+   controlledTerms/typeOfUncertainty
+   controlledTerms/UBERONParcellation
+   controlledTerms/unitOfMeasurement
