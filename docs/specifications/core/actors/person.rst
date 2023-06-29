@@ -11,10 +11,13 @@ Structured information on a person.
 Properties
 ==========
 
-:Required: `givenName`_
-:Optional: `affiliation`_, `alternateName`_, `associatedAccount`_, `contactInformation`_, `digitalIdentifier`_, `familyName`_
+:Required: `givenName_heading`_
+:Optional: `affiliation_heading`_, `alternateName_heading`_, `associatedAccount_heading`_, `contactInformation_heading`_, `digitalIdentifier_heading`_,
+   `familyName_heading`_
 
 ------------
+
+.. _affiliation_heading:
 
 affiliation
 -----------
@@ -32,6 +35,8 @@ Declaration of a person being closely associated to an organization.
 
 ------------
 
+.. _alternateName_heading:
+
 alternateName
 -------------
 
@@ -44,6 +49,8 @@ alternateName
 `BACK TO TOP <Person_>`_
 
 ------------
+
+.. _associatedAccount_heading:
 
 associatedAccount
 -----------------
@@ -58,6 +65,8 @@ associatedAccount
 `BACK TO TOP <Person_>`_
 
 ------------
+
+.. _contactInformation_heading:
 
 contactInformation
 ------------------
@@ -75,6 +84,8 @@ Any available way used to contact a person or business (e.g., address, phone num
 
 ------------
 
+.. _digitalIdentifier_heading:
+
 digitalIdentifier
 -----------------
 
@@ -91,6 +102,8 @@ Digital handle to identify objects or legal persons.
 
 ------------
 
+.. _familyName_heading:
+
 familyName
 ----------
 
@@ -105,6 +118,8 @@ Name borne in common by members of a family.
 `BACK TO TOP <Person_>`_
 
 ------------
+
+.. _givenName_heading:
 
 givenName
 ---------
