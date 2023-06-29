@@ -4,7 +4,7 @@ Chemicals
 
 .. toctree::
 
-   chemicals/chemicalSubstance.rst
    chemicals/amountOfChemical.rst
-   chemicals/productSource.rst
    chemicals/chemicalMixture.rst
+   chemicals/chemicalSubstance.rst
+   chemicals/productSource.rst

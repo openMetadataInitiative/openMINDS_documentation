@@ -4,12 +4,12 @@ Specifications
 
 .. toctree::
 
-   specifications/ephys
-   specifications/specimenPrep
-   specifications/computation
-   specifications/core
-   specifications/controlledTerms
    specifications/chemicals
+   specifications/computation
+   specifications/controlledTerms
+   specifications/core
+   specifications/ephys
    specifications/publications
    specifications/SANDS
+   specifications/specimenPrep
    specifications/stimulation

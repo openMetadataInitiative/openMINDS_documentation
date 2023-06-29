@@ -4,5 +4,5 @@ Stimulation
 
 .. toctree::
 
-   stimulation/stimulus
    stimulation/activity
+   stimulation/stimulus

@@ -4,9 +4,9 @@ Device
 
 .. toctree::
 
-   device/electrodeUsage.rst
-   device/pipetteUsage.rst
-   device/electrodeArray.rst
-   device/pipette.rst
-   device/electrodeArrayUsage.rst
    device/electrode.rst
+   device/electrodeArray.rst
+   device/electrodeArrayUsage.rst
+   device/electrodeUsage.rst
+   device/pipette.rst
+   device/pipetteUsage.rst

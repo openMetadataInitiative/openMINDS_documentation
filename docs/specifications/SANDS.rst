@@ -4,7 +4,7 @@ Sands
 
 .. toctree::
 
-   SANDS/non-atlas
-   SANDS/mathematicalShapes
    SANDS/atlas
+   SANDS/mathematicalShapes
    SANDS/miscellaneous
+   SANDS/non-atlas

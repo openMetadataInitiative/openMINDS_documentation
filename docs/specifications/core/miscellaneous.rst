@@ -4,10 +4,10 @@ Miscellaneous
 
 .. toctree::
 
-   miscellaneous/quantitativeValueArray.rst
+   miscellaneous/comment.rst
    miscellaneous/funding.rst
-   miscellaneous/webResource.rst
+   miscellaneous/quantitativeValue.rst
+   miscellaneous/quantitativeValueArray.rst
    miscellaneous/quantitativeValueRange.rst
    miscellaneous/researchProductGroup.rst
-   miscellaneous/comment.rst
-   miscellaneous/quantitativeValue.rst
+   miscellaneous/webResource.rst

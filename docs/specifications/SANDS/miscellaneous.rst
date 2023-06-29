@@ -4,9 +4,9 @@ Miscellaneous
 
 .. toctree::
 
-   miscellaneous/coordinatePoint.rst
    miscellaneous/anatomicalTargetPosition.rst
+   miscellaneous/coordinatePoint.rst
+   miscellaneous/qualitativeRelationAssessment.rst
    miscellaneous/quantitativeRelationAssessment.rst
    miscellaneous/singleColor.rst
    miscellaneous/viewerSpecification.rst
-   miscellaneous/qualitativeRelationAssessment.rst

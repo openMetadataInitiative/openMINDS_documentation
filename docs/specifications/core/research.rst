@@ -4,20 +4,20 @@ Research
 
 .. toctree::
 
-   research/tissueSample.rst
+   research/behavioralProtocol.rst
    research/configuration.rst
-   research/tissueSampleState.rst
+   research/customPropertySet.rst
+   research/numericalProperty.rst
+   research/propertyValueList.rst
+   research/protocol.rst
+   research/protocolExecution.rst
+   research/strain.rst
+   research/stringProperty.rst
    research/subject.rst
    research/subjectGroup.rst
-   research/strain.rst
-   research/propertyValueList.rst
-   research/numericalProperty.rst
-   research/tissueSampleCollectionState.rst
    research/subjectGroupState.rst
-   research/protocol.rst
-   research/stringProperty.rst
-   research/customPropertySet.rst
-   research/protocolExecution.rst
    research/subjectState.rst
+   research/tissueSample.rst
    research/tissueSampleCollection.rst
-   research/behavioralProtocol.rst
+   research/tissueSampleCollectionState.rst
+   research/tissueSampleState.rst
