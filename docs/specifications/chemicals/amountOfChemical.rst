@@ -47,7 +47,8 @@ chemicalProduct
    :semantic name: https://openminds.ebrains.eu/vocab/chemicalProduct
    :value type: | linked object of type
                 | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
+                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the chemical product that was used.
 
 `BACK TO TOP <AmountOfChemical_>`_

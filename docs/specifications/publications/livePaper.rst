@@ -31,7 +31,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that contributed to this live paper as authors.
 
@@ -50,7 +50,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for this research product (e.g., a research group leader or principle investigator).
       Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the

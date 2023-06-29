@@ -34,7 +34,7 @@ anatomicalLocation
                 `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity
                 <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all anatomical entities that describe the anatomical location of this tissue sample.
 
@@ -141,7 +141,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.ebrains.eu/vocab/origin
    :value type: | linked object of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_or
+                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or
                 `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_
    :instructions: Add the biogical origin of this tissue sample.
 
@@ -161,7 +161,7 @@ consists of the name of a genus followed by a Latin or latinized uncapitalized n
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_or `Strain <https://openminds.ebrains.eu/core/Strain>`_
+                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_ or `Strain <https://openminds.ebrains.eu/core/Strain>`_
    :instructions: Add the species or strain (a sub-type of a genetic variant of species) of this specimen.
 
 `BACK TO TOP <TissueSample_>`_

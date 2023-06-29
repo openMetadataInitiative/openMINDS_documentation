@@ -63,7 +63,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add the location of the file or file bundle in which the recorded data is stored.
 
 `BACK TO TOP <Recording_>`_
@@ -132,7 +132,7 @@ recordedWith
    :semantic name: https://openminds.ebrains.eu/vocab/recordedWith
    :value type: | linked object of type
                 | `ElectrodeArrayUsage <https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage>`_, `ElectrodeUsage
-                <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_or `SlicingDeviceUsage
+                <https://openminds.ebrains.eu/ephys/ElectrodeUsage>`_, `PipetteUsage <https://openminds.ebrains.eu/ephys/PipetteUsage>`_ or `SlicingDeviceUsage
                 <https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage>`_
    :instructions: Add the device used to generate this recording.
 

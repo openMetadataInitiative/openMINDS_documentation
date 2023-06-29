@@ -32,7 +32,7 @@ anatomicalLocation
                 `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity
                 <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the electrode contact.
 
@@ -49,7 +49,7 @@ contactResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the contact resistance of this electrode during its use.
 
@@ -100,7 +100,7 @@ metadataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -132,7 +132,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <ElectrodeUsage_>`_

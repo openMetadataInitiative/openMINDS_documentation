@@ -39,7 +39,7 @@ about
                 <https://openminds.ebrains.eu/core/WebService>`_, `WebServiceVersion <https://openminds.ebrains.eu/core/WebServiceVersion>`_, `LivePaper
                 <https://openminds.ebrains.eu/publications/LivePaper>`_, `LivePaperVersion <https://openminds.ebrains.eu/publications/LivePaperVersion>`_,
                 `BrainAtlas <https://openminds.ebrains.eu/sands/BrainAtlas>`_, `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_,
-                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_or `CommonCoordinateSpaceVersion
+                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CommonCoordinateSpaceVersion
                 <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
    :instructions: Add the research product (version) that this comment is about.
 

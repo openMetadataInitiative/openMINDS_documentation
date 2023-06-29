@@ -81,7 +81,7 @@ provider
 
    :semantic name: https://openminds.ebrains.eu/vocab/provider
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the party (private, commercial or industrial) that provided this product.
 
@@ -98,7 +98,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the purity of the product as stated by the 'provider'.
 

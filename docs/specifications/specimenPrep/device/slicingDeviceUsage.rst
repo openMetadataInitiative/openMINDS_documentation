@@ -63,7 +63,7 @@ metadataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -95,7 +95,7 @@ sliceThickness
 
    :semantic name: https://openminds.ebrains.eu/vocab/sliceThickness
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the defined slice thickness during the use of this slicing device.
 
@@ -112,7 +112,7 @@ slicingAngle
 
    :semantic name: https://openminds.ebrains.eu/vocab/slicingAngle
    :value type: | embedded object array \(1-2\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `NumericalProperty
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `NumericalProperty
                 <https://openminds.ebrains.eu/core/NumericalProperty>`_
    :instructions: Enter all slicing angles (intentional or unintentional) in relation to the slicing plane used during this activity.
 
@@ -161,7 +161,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_

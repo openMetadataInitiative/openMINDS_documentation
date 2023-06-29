@@ -61,7 +61,7 @@ about
                 <https://openminds.ebrains.eu/core/WebService>`_, `WebServiceVersion <https://openminds.ebrains.eu/core/WebServiceVersion>`_, `LivePaper
                 <https://openminds.ebrains.eu/publications/LivePaper>`_, `LivePaperVersion <https://openminds.ebrains.eu/publications/LivePaperVersion>`_,
                 `BrainAtlas <https://openminds.ebrains.eu/sands/BrainAtlas>`_, `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_,
-                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_or `CommonCoordinateSpaceVersion
+                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CommonCoordinateSpaceVersion
                 <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
    :instructions: Add all research product (versions) this learning resource are about. Note that the learning resource should supplement the usage of the
       research product (versions) with e.g., instructions on their usage or additional information.
@@ -97,7 +97,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that contributed to this creative work as authors.
 
@@ -114,7 +114,7 @@ citedPublication
 
    :semantic name: https://openminds.ebrains.eu/vocab/citedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
    :instructions: Add all references this creative work cites.
 
 `BACK TO TOP <LearningResource_>`_
@@ -167,7 +167,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for this creative work (e.g., a corresponding author). Custodians are typically the main
       contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the
@@ -317,7 +317,7 @@ Significant word or concept that are representative of something or someone.
                 <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty
                 <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement
-                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all relevant keywords to this creative work either by adding controlled terms or by suggesting new terms.
 
@@ -449,7 +449,7 @@ publisher
 
    :semantic name: https://openminds.ebrains.eu/vocab/publisher
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the party (private or commercial) that published this creative work.
 
@@ -466,7 +466,7 @@ requiredTime
 
    :semantic name: https://openminds.ebrains.eu/vocab/requiredTime
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the time that is required to complete this learning resource.
 

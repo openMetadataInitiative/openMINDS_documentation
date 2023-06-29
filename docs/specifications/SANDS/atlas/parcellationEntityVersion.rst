@@ -113,7 +113,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or `ParcellationEntityVersion
+                | `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion
                 <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas
       version.
@@ -183,7 +183,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_or `QuantitativeRelationAssessment
+                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment
                 <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
    :instructions: Add all relations (qualitative or quantitative) of this parcellation entity version to other anatomical entities.
 

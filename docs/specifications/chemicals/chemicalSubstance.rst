@@ -96,7 +96,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the purity of this chemical substance.
 

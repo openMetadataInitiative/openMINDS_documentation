@@ -30,7 +30,7 @@ describedIn
 
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add all sources in which this behavioral protocol is described in detail.
 
@@ -102,7 +102,7 @@ stimulation
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulation
    :value type: | linked object array \(1-N\) of type
-                | `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_or `StimulationTechnique
+                | `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_ or `StimulationTechnique
                 <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_
    :instructions: Add all stimulation approaches and/or techniques used within this behavioral protocol.
 
@@ -124,7 +124,7 @@ stimulusType
                 <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `OlfactoryStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OpticalStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `TactileStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all stimulus types used within this behavioral protocol.
 

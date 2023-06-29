@@ -29,7 +29,7 @@ describedIn
 
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add a publication or file in which this behavioral protocol is (originally) described in detail.
 
@@ -87,7 +87,7 @@ stimulusType
                 <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `OlfactoryStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OpticalStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `TactileStimulusType
-                <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all stimulus types used with this protocol.
 
@@ -108,7 +108,7 @@ Method of accomplishing a desired aim.
    :value type: | linked object array \(1-N\) of type
                 | `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `StimulationApproach
                 <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique
-                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
    :instructions: Add all techniques (including stimulation approaches and/or techniques) that were used in this protocol.
 
 `BACK TO TOP <Protocol_>`_

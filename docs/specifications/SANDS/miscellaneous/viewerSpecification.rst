@@ -79,7 +79,7 @@ preferredDisplayColor
 
    :semantic name: https://openminds.ebrains.eu/vocab/preferredDisplayColor
    :value type: | linked object of type
-                | `Colormap <https://openminds.ebrains.eu/controlledTerms/Colormap>`_or `SingleColor <https://openminds.ebrains.eu/sands/SingleColor>`_
+                | `Colormap <https://openminds.ebrains.eu/controlledTerms/Colormap>`_ or `SingleColor <https://openminds.ebrains.eu/sands/SingleColor>`_
    :instructions: Add the preferred color that a viewer should display.
 
 `BACK TO TOP <ViewerSpecification_>`_

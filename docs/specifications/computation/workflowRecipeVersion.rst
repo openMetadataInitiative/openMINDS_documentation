@@ -74,7 +74,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle
       investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information,
@@ -114,7 +114,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that developed this workflow recipe version. Note that these developers will overwrite the developer list provided for the
       overarching workflow recipe.
@@ -170,7 +170,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
@@ -225,7 +225,7 @@ hasPart
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(1-N\) of type
                 | `WorkflowRecipeVersion <https://openminds.ebrains.eu/computation/WorkflowRecipeVersion>`_, `File <https://openminds.ebrains.eu/core/File>`_,
-                `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_or `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
+                `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_ or `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
    :instructions: Add all entities that are components of this workflow recipe version (e.g., other workflow recipe versions or software used in this workflow).
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -377,7 +377,7 @@ Significant word or concept that are representative of something or someone.
                 <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty
                 <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement
-                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
@@ -434,7 +434,7 @@ Reference to something that was made available for the general public to see or 
    :value type: | linked object array \(1-N\) of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `HANDLE <https://openminds.ebrains.eu/core/HANDLE>`_, `ISBN
                 <https://openminds.ebrains.eu/core/ISBN>`_, `ISSN <https://openminds.ebrains.eu/core/ISSN>`_, `Book
-                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_or `ScholarlyArticle
+                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_ or `ScholarlyArticle
                 <https://openminds.ebrains.eu/publications/ScholarlyArticle>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product
       version (e.g., an original research article that used or produced the data of this research product version).

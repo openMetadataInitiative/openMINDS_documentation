@@ -52,7 +52,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for this research product (e.g., a research group leader or principle investigator).
       Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the
@@ -93,7 +93,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that developed this computational model.
 
@@ -112,7 +112,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to
       reference all attached research product versions.
 
@@ -260,7 +260,7 @@ Structure or function that was targeted within a study.
                 <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all study targets of this computational model.
 

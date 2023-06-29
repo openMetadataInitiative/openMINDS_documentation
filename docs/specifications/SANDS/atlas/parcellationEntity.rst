@@ -167,7 +167,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_or `UBERONParcellation
+                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 

@@ -80,7 +80,7 @@ dimension
 
    :semantic name: https://openminds.ebrains.eu/vocab/dimension
    :value type: | embedded object of type
-                | `Circle <https://openminds.ebrains.eu/sands/Circle>`_, `Ellipse <https://openminds.ebrains.eu/sands/Ellipse>`_or `Rectangle
+                | `Circle <https://openminds.ebrains.eu/sands/Circle>`_, `Ellipse <https://openminds.ebrains.eu/sands/Ellipse>`_ or `Rectangle
                 <https://openminds.ebrains.eu/sands/Rectangle>`_
    :instructions: Enter the dimension of the cranial window by defining its mathematical shape.
 
@@ -184,7 +184,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds.ebrains.eu/computation/SoftwareAgent>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `SoftwareAgent <https://openminds.ebrains.eu/computation/SoftwareAgent>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -287,7 +287,7 @@ Structure or function that was targeted within a study.
                 <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all study targets of this activity.
 

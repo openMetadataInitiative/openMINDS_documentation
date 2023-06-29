@@ -65,7 +65,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_or `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `RRID <https://openminds.ebrains.eu/core/RRID>`_
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <Pipette_>`_
@@ -147,7 +147,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
@@ -165,7 +165,8 @@ material
    :semantic name: https://openminds.ebrains.eu/vocab/material
    :value type: | linked object of type
                 | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
+                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the material that the pipette is made of.
 
 `BACK TO TOP <Pipette_>`_
@@ -199,7 +200,7 @@ owner
 
    :semantic name: https://openminds.ebrains.eu/vocab/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that legally own this device.
 

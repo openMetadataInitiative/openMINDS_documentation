@@ -84,7 +84,7 @@ Something or someone that is put into or participates in a process or machine.
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object array \(1-N\) of type
                 | `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_, `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_,
-                `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_or `TissueSampleState
+                `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState
                 <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add all states of the specimen(s) that are being stimulated during this activity.
 
@@ -138,7 +138,7 @@ Something or someone that comes out of, is delivered or produced by a process or
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
                 | `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_, `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_,
-                `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_or `TissueSampleState
+                `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_ or `TissueSampleState
                 <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add all states of the specimen(s) that were stimulated as a result of this activity.
 
@@ -155,7 +155,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds.ebrains.eu/computation/SoftwareAgent>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `SoftwareAgent <https://openminds.ebrains.eu/computation/SoftwareAgent>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <StimulationActivity_>`_
@@ -274,7 +274,7 @@ Structure or function that was targeted within a study.
                 <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all study targets of this activity.
 

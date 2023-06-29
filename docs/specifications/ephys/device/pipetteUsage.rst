@@ -36,7 +36,7 @@ anatomicalLocation
                 `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity
                 <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the pipette tip.
 
@@ -152,7 +152,8 @@ labelingCompound
    :semantic name: https://openminds.ebrains.eu/vocab/labelingCompound
    :value type: | linked object of type
                 | `ChemicalMixture <https://openminds.ebrains.eu/chemicals/ChemicalMixture>`_, `ChemicalSubstance
-                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_or `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
+                <https://openminds.ebrains.eu/chemicals/ChemicalSubstance>`_ or `MolecularEntity
+                <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_
    :instructions: Add the used compound for labelling e.g., a patched cell during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -200,7 +201,7 @@ metadataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -216,7 +217,7 @@ pipetteResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/pipetteResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Enter the resistance of the pipette during its use.
 
@@ -313,7 +314,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <PipetteUsage_>`_

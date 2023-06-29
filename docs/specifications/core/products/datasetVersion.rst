@@ -57,7 +57,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that contributed to this dataset version as authors. Note that these authors will overwrite the author list provided for the
       overarching dataset.
@@ -112,7 +112,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle
       investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information,
@@ -168,7 +168,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_or `IdentifiersDotOrgID <https://openminds.ebrains.eu/core/IdentifiersDotOrgID>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `IdentifiersDotOrgID <https://openminds.ebrains.eu/core/IdentifiersDotOrgID>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -220,7 +220,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
@@ -316,7 +316,7 @@ Data that is put into a process or machine.
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_, `FileBundle
                 <https://openminds.ebrains.eu/core/FileBundle>`_, `WebResource <https://openminds.ebrains.eu/core/WebResource>`_, `BrainAtlas
                 <https://openminds.ebrains.eu/sands/BrainAtlas>`_, `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_,
-                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_or `CommonCoordinateSpaceVersion
+                `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CommonCoordinateSpaceVersion
                 <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
    :instructions: Add the data that was used as input for this dataset version.
 
@@ -432,7 +432,7 @@ Significant word or concept that are representative of something or someone.
                 <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty
                 <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement
-                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
@@ -451,7 +451,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object of type
-                | `License <https://openminds.ebrains.eu/core/License>`_or `WebResource <https://openminds.ebrains.eu/core/WebResource>`_
+                | `License <https://openminds.ebrains.eu/core/License>`_ or `WebResource <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add the license or an online available data usage agreement for this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -523,7 +523,7 @@ Reference to something that was made available for the general public to see or 
    :value type: | linked object array \(1-N\) of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `HANDLE <https://openminds.ebrains.eu/core/HANDLE>`_, `ISBN
                 <https://openminds.ebrains.eu/core/ISBN>`_, `ISSN <https://openminds.ebrains.eu/core/ISSN>`_, `Book
-                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_or `ScholarlyArticle
+                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_ or `ScholarlyArticle
                 <https://openminds.ebrains.eu/publications/ScholarlyArticle>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product
       version (e.g., an original research article that used or produced the data of this research product version).
@@ -597,7 +597,7 @@ studiedSpecimen
    :semantic name: https://openminds.ebrains.eu/vocab/studiedSpecimen
    :value type: | linked object array \(1-N\) of type
                 | `Subject <https://openminds.ebrains.eu/core/Subject>`_, `SubjectGroup <https://openminds.ebrains.eu/core/SubjectGroup>`_, `TissueSample
-                <https://openminds.ebrains.eu/core/TissueSample>`_or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
+                <https://openminds.ebrains.eu/core/TissueSample>`_ or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
    :instructions: Add all specimens or sets of specimen that were studied in this dataset.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -633,7 +633,7 @@ Structure or function that was targeted within a study.
                 <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all study targets of this dataset version.
 
@@ -672,7 +672,7 @@ Method of accomplishing a desired aim.
    :value type: | linked object array \(1-N\) of type
                 | `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `StimulationApproach
                 <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique
-                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
    :instructions: Add all techniques that were used in this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_

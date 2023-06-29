@@ -98,7 +98,7 @@ Reference to the aspect used to group something.
                 `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_, `CommonCoordinateSpaceVersion
                 <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_, `CustomAnatomicalEntity
                 <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `CustomCoordinateSpace
-                <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_or
+                <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or
                 `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
    :instructions: Add all entities that defined which files were grouped into this file bundle. Note that the schema types of the instances stated here, need to
       match the ones stated under 'groupingType'.
@@ -153,7 +153,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_or `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_ or `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
    :instructions: Add the file bundle or file repository this file bundle is part of.
 
 `BACK TO TOP <FileBundle_>`_

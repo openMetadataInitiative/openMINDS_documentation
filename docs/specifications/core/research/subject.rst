@@ -103,7 +103,7 @@ consists of the name of a genus followed by a Latin or latinized uncapitalized n
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_or `Strain <https://openminds.ebrains.eu/core/Strain>`_
+                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_ or `Strain <https://openminds.ebrains.eu/core/Strain>`_
    :instructions: Add the species or strain (a sub-type of a genetic variant of species) of this specimen.
 
 `BACK TO TOP <Subject_>`_

@@ -33,7 +33,7 @@ about
 
    :semantic name: https://openminds.ebrains.eu/vocab/about
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_or
+                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_ or
                 `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
    :instructions: Add all datasets, models and/or software that are part of or are described by this live paper version.
 
@@ -70,7 +70,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that contributed to this live paper version as authors. Note that these authors will overwrite the author list provided for
       the overarching live paper.
@@ -109,7 +109,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle
       investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information,
@@ -167,7 +167,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
@@ -357,7 +357,7 @@ Significant word or concept that are representative of something or someone.
                 <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty
                 <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement
-                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
@@ -431,7 +431,7 @@ Reference to something that was made available for the general public to see or 
    :value type: | linked object array \(1-N\) of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `HANDLE <https://openminds.ebrains.eu/core/HANDLE>`_, `ISBN
                 <https://openminds.ebrains.eu/core/ISBN>`_, `ISSN <https://openminds.ebrains.eu/core/ISSN>`_, `Book
-                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_or `ScholarlyArticle
+                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_ or `ScholarlyArticle
                 <https://openminds.ebrains.eu/publications/ScholarlyArticle>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product
       version (e.g., an original research article that used or produced the data of this research product version).

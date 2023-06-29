@@ -31,7 +31,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_or `CustomCoordinateSpace
+                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_ or `CustomCoordinateSpace
                 <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
    :instructions: Add the coordinate space in which this coordinate point exists in.
 

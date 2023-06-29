@@ -72,7 +72,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that contributed to this brain atlas version as authors. Note that these authors will overwrite the author list provided for
       the overarching brain atlas.
@@ -129,7 +129,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle
       investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information,
@@ -169,7 +169,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `ISBN <https://openminds.ebrains.eu/core/ISBN>`_or `RRID
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `ISBN <https://openminds.ebrains.eu/core/ISBN>`_ or `RRID
                 <https://openminds.ebrains.eu/core/RRID>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
@@ -188,7 +188,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_or `WebResource
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource
                 <https://openminds.ebrains.eu/core/WebResource>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
@@ -394,7 +394,7 @@ Significant word or concept that are representative of something or someone.
                 <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty
                 <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement
-                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_or `VisualStimulusType
+                <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType
                 <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
@@ -485,7 +485,7 @@ Reference to something that was made available for the general public to see or 
    :value type: | linked object array \(1-N\) of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `HANDLE <https://openminds.ebrains.eu/core/HANDLE>`_, `ISBN
                 <https://openminds.ebrains.eu/core/ISBN>`_, `ISSN <https://openminds.ebrains.eu/core/ISSN>`_, `Book
-                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_or `ScholarlyArticle
+                <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_ or `ScholarlyArticle
                 <https://openminds.ebrains.eu/publications/ScholarlyArticle>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product
       version (e.g., an original research article that used or produced the data of this research product version).
@@ -595,7 +595,7 @@ usedSpecimen
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object array \(1-N\) of type
                 | `Subject <https://openminds.ebrains.eu/core/Subject>`_, `SubjectGroup <https://openminds.ebrains.eu/core/SubjectGroup>`_, `TissueSample
-                <https://openminds.ebrains.eu/core/TissueSample>`_or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
+                <https://openminds.ebrains.eu/core/TissueSample>`_ or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
    :instructions: Add the specimen that was used for the creation of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_

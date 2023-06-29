@@ -49,7 +49,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_or `CustomCoordinateSpace
+                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_ or `CustomCoordinateSpace
                 <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
    :instructions: Add the coordinate space for this custom annotation.
 
@@ -190,7 +190,7 @@ Detailed and precise presentation of, or proposal for something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_or `PropertyValueList <https://openminds.ebrains.eu/core/PropertyValueList>`_
+                | `File <https://openminds.ebrains.eu/core/File>`_ or `PropertyValueList <https://openminds.ebrains.eu/core/PropertyValueList>`_
    :instructions: Add the non-parametric or parametric specification of this annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_

@@ -31,7 +31,7 @@ Legal person that gave or supplied something as a part or share.
 
    :semantic name: https://openminds.ebrains.eu/vocab/contributor
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person
+                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person
                 <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add all types of contribution made by the stated 'contributor'.
 

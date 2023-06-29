@@ -116,7 +116,7 @@ diseaseModel
 
    :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_or `DiseaseModel
+                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel
                 <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 

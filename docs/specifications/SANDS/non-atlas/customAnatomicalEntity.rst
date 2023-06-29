@@ -61,7 +61,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_or `UBERONParcellation
+                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation
                 <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
@@ -78,7 +78,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_or `QuantitativeRelationAssessment
+                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment
                 <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
    :instructions: Add all relations (qualitative or quantitative) of this custom anatomical entity to other anatomical entities.
 
