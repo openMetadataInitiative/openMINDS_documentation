@@ -21,7 +21,7 @@ class SchemaDocBuilder(object):
         target_file = os.path.join("target", f"{self._target_file_without_extension()}.rst")
         os.makedirs(os.path.dirname(target_file), exist_ok=True)
         with open(target_file, "w") as output_file:
-            doc = RstCloth(output_file, line_width=160)
+            doc = RstCloth(output_file, line_width=100000)
             schema_name = self._schema_payload["name"]
             doc.heading(schema_name, char="#", overline=True)
             doc.newline()
