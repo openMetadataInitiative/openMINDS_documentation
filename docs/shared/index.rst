@@ -1,8 +1,10 @@
 Welcome to the openMINDS documentation!
 ===================================
 
-**openMINDS** is a metadata framework for graph database systems.
-The framework comprises integrated metadata models, libraries of controlled metadata instances, and supportive tooling.
+**openMINDS** is a metadata framework for graph database systems. The framework comprises:
+- **schema specifications** for multiple, interlocked metadata models
+- **instances** libraries for serviceable metadata
+- **supportive tooling** 
 
 .. note::
    This project is under active development.
