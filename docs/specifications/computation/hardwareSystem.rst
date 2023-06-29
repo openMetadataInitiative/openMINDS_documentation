@@ -2,9 +2,8 @@
 HardwareSystem
 ##############
 
-*******************************************************
 https://openminds.ebrains.eu/computation/HardwareSystem
-*******************************************************
+-------------------------------------------------------
 
 Structured information about computing hardware.
 

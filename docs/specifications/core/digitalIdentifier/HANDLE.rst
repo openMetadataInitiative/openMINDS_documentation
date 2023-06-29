@@ -2,9 +2,8 @@
 HANDLE
 ######
 
-****************************************
 https://openminds.ebrains.eu/core/HANDLE
-****************************************
+----------------------------------------
 
 A persistent identifier for an information resource provided by the Handle System of the Corporation for National Research Initiatives.
 

@@ -2,10 +2,10 @@
 Chemicals
 #########
 
-- `amountOfChemical <chemicals/amountOfChemical.html>`_
-- `chemicalMixture <chemicals/chemicalMixture.html>`_
-- `chemicalSubstance <chemicals/chemicalSubstance.html>`_
-- `productSource <chemicals/productSource.html>`_
+- `AmountOfChemical <chemicals/amountOfChemical.html>`_
+- `ChemicalMixture <chemicals/chemicalMixture.html>`_
+- `ChemicalSubstance <chemicals/chemicalSubstance.html>`_
+- `ProductSource <chemicals/productSource.html>`_
 
 .. toctree::
 

@@ -2,9 +2,8 @@
 SoftwareAgent
 #############
 
-******************************************************
 https://openminds.ebrains.eu/computation/SoftwareAgent
-******************************************************
+------------------------------------------------------
 
 Structured information about a piece of software or web service that can perform a task autonomously.
 

@@ -2,12 +2,12 @@
 Core
 ####
 
-- `actors <core/actors.html>`_
-- `data <core/data.html>`_
-- `digitalIdentifier <core/digitalIdentifier.html>`_
-- `miscellaneous <core/miscellaneous.html>`_
-- `products <core/products.html>`_
-- `research <core/research.html>`_
+- `Actors <core/actors.html>`_
+- `Data <core/data.html>`_
+- `DigitalIdentifier <core/digitalIdentifier.html>`_
+- `Miscellaneous <core/miscellaneous.html>`_
+- `Products <core/products.html>`_
+- `Research <core/research.html>`_
 
 .. toctree::
 

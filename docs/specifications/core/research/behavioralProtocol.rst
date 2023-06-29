@@ -2,9 +2,8 @@
 BehavioralProtocol
 ##################
 
-****************************************************
 https://openminds.ebrains.eu/core/BehavioralProtocol
-****************************************************
+----------------------------------------------------
 
 Structured information about a protocol used in an experiment studying human or animal behavior.
 

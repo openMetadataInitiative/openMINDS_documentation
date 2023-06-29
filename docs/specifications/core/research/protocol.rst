@@ -2,9 +2,8 @@
 Protocol
 ########
 
-******************************************
 https://openminds.ebrains.eu/core/Protocol
-******************************************
+------------------------------------------
 
 Structured information on a research project.
 

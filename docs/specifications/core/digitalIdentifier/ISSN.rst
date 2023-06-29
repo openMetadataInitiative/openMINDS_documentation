@@ -2,9 +2,8 @@
 ISSN
 ####
 
-**************************************
 https://openminds.ebrains.eu/core/ISSN
-**************************************
+--------------------------------------
 
 An International Standard Serial Number of the ISSN International Centre.
 

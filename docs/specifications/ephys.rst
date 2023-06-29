@@ -2,9 +2,9 @@
 Ephys
 #####
 
-- `activity <ephys/activity.html>`_
-- `device <ephys/device.html>`_
-- `entity <ephys/entity.html>`_
+- `Activity <ephys/activity.html>`_
+- `Device <ephys/device.html>`_
+- `Entity <ephys/entity.html>`_
 
 .. toctree::
 

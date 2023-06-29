@@ -2,9 +2,8 @@
 QuantitativeValue
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/QuantitativeValue
-***************************************************
+---------------------------------------------------
 
 Structured information on a quantitative value.
 

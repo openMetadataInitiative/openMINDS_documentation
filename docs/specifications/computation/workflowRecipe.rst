@@ -2,9 +2,8 @@
 WorkflowRecipe
 ##############
 
-*******************************************************
 https://openminds.ebrains.eu/computation/WorkflowRecipe
-*******************************************************
+-------------------------------------------------------
 
 Structured information about the description of a prospective workflow.
 

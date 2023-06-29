@@ -2,9 +2,8 @@
 UnitOfMeasurement
 #################
 
-**************************************************************
 https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
-**************************************************************
+--------------------------------------------------------------
 
 Structured information on the unit of measurement.
 

@@ -2,9 +2,8 @@
 FileUsageRole
 #############
 
-**********************************************************
 https://openminds.ebrains.eu/controlledTerms/FileUsageRole
-**********************************************************
+----------------------------------------------------------
 
 Structured information on the usage role of a file instance or bundle.
 

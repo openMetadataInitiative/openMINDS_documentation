@@ -2,12 +2,12 @@
 Miscellaneous
 #############
 
-- `anatomicalTargetPosition <miscellaneous/anatomicalTargetPosition.html>`_
-- `coordinatePoint <miscellaneous/coordinatePoint.html>`_
-- `qualitativeRelationAssessment <miscellaneous/qualitativeRelationAssessment.html>`_
-- `quantitativeRelationAssessment <miscellaneous/quantitativeRelationAssessment.html>`_
-- `singleColor <miscellaneous/singleColor.html>`_
-- `viewerSpecification <miscellaneous/viewerSpecification.html>`_
+- `AnatomicalTargetPosition <miscellaneous/anatomicalTargetPosition.html>`_
+- `CoordinatePoint <miscellaneous/coordinatePoint.html>`_
+- `QualitativeRelationAssessment <miscellaneous/qualitativeRelationAssessment.html>`_
+- `QuantitativeRelationAssessment <miscellaneous/quantitativeRelationAssessment.html>`_
+- `SingleColor <miscellaneous/singleColor.html>`_
+- `ViewerSpecification <miscellaneous/viewerSpecification.html>`_
 
 .. toctree::
 

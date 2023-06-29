@@ -2,9 +2,8 @@
 Affiliation
 ###########
 
-*********************************************
 https://openminds.ebrains.eu/core/Affiliation
-*********************************************
+---------------------------------------------
 
 Structured information about a relationship between two entities, such as a person and their employer.
 

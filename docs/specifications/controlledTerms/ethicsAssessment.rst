@@ -2,9 +2,8 @@
 EthicsAssessment
 ################
 
-*************************************************************
 https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
-*************************************************************
+-------------------------------------------------------------
 
 Structured information on the ethics assessment of a dataset.
 

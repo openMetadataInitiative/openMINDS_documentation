@@ -2,9 +2,8 @@
 Organization
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/Organization
-**********************************************
+----------------------------------------------
 
 Structured information on an organization.
 

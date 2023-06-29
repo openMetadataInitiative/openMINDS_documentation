@@ -2,9 +2,9 @@
 Activity
 ########
 
-- `cellPatching <activity/cellPatching.html>`_
-- `electrodePlacement <activity/electrodePlacement.html>`_
-- `recordingActivity <activity/recordingActivity.html>`_
+- `CellPatching <activity/cellPatching.html>`_
+- `ElectrodePlacement <activity/electrodePlacement.html>`_
+- `RecordingActivity <activity/recordingActivity.html>`_
 
 .. toctree::
 

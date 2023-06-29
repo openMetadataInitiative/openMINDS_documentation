@@ -2,9 +2,8 @@
 ChemicalSubstance
 #################
 
-********************************************************
 https://openminds.ebrains.eu/chemicals/ChemicalSubstance
-********************************************************
+--------------------------------------------------------
 
 Structured information about a chemical substance.
 

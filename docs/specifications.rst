@@ -2,15 +2,15 @@
 Specifications
 ##############
 
-- `chemicals <specifications/chemicals.html>`_
-- `computation <specifications/computation.html>`_
-- `controlledTerms <specifications/controlledTerms.html>`_
-- `core <specifications/core.html>`_
-- `ephys <specifications/ephys.html>`_
-- `publications <specifications/publications.html>`_
+- `Chemicals <specifications/chemicals.html>`_
+- `Computation <specifications/computation.html>`_
+- `ControlledTerms <specifications/controlledTerms.html>`_
+- `Core <specifications/core.html>`_
+- `Ephys <specifications/ephys.html>`_
+- `Publications <specifications/publications.html>`_
 - `SANDS <specifications/SANDS.html>`_
-- `specimenPrep <specifications/specimenPrep.html>`_
-- `stimulation <specifications/stimulation.html>`_
+- `SpecimenPrep <specifications/specimenPrep.html>`_
+- `Stimulation <specifications/stimulation.html>`_
 
 .. toctree::
 

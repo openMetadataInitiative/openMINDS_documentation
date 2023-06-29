@@ -2,9 +2,9 @@
 Non-atlas
 #########
 
-- `customAnatomicalEntity <non-atlas/customAnatomicalEntity.html>`_
-- `customAnnotation <non-atlas/customAnnotation.html>`_
-- `customCoordinateSpace <non-atlas/customCoordinateSpace.html>`_
+- `CustomAnatomicalEntity <non-atlas/customAnatomicalEntity.html>`_
+- `CustomAnnotation <non-atlas/customAnnotation.html>`_
+- `CustomCoordinateSpace <non-atlas/customCoordinateSpace.html>`_
 
 .. toctree::
 

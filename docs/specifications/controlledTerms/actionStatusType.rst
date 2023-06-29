@@ -2,9 +2,8 @@
 ActionStatusType
 ################
 
-*************************************************************
 https://openminds.ebrains.eu/controlledTerms/ActionStatusType
-*************************************************************
+-------------------------------------------------------------
 
 Structured information about the status of an action.
 

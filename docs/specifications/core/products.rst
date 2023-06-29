@@ -2,18 +2,18 @@
 Products
 ########
 
-- `dataset <products/dataset.html>`_
-- `datasetVersion <products/datasetVersion.html>`_
-- `metaDataModel <products/metaDataModel.html>`_
-- `metaDataModelVersion <products/metaDataModelVersion.html>`_
-- `model <products/model.html>`_
-- `modelVersion <products/modelVersion.html>`_
-- `project <products/project.html>`_
-- `setup <products/setup.html>`_
-- `software <products/software.html>`_
-- `softwareVersion <products/softwareVersion.html>`_
-- `webService <products/webService.html>`_
-- `webServiceVersion <products/webServiceVersion.html>`_
+- `Dataset <products/dataset.html>`_
+- `DatasetVersion <products/datasetVersion.html>`_
+- `MetaDataModel <products/metaDataModel.html>`_
+- `MetaDataModelVersion <products/metaDataModelVersion.html>`_
+- `Model <products/model.html>`_
+- `ModelVersion <products/modelVersion.html>`_
+- `Project <products/project.html>`_
+- `Setup <products/setup.html>`_
+- `Software <products/software.html>`_
+- `SoftwareVersion <products/softwareVersion.html>`_
+- `WebService <products/webService.html>`_
+- `WebServiceVersion <products/webServiceVersion.html>`_
 
 .. toctree::
 

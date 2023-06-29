@@ -2,9 +2,8 @@
 WorkflowRecipeVersion
 #####################
 
-**************************************************************
 https://openminds.ebrains.eu/computation/WorkflowRecipeVersion
-**************************************************************
+--------------------------------------------------------------
 
 Structured information about a specific implemented version of a workflow recipe.
 

@@ -2,7 +2,7 @@
 Activity
 ########
 
-- `stimulationActivity <activity/stimulationActivity.html>`_
+- `StimulationActivity <activity/stimulationActivity.html>`_
 
 .. toctree::
 

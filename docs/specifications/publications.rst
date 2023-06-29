@@ -2,17 +2,17 @@
 Publications
 ############
 
-- `book <publications/book.html>`_
-- `chapter <publications/chapter.html>`_
-- `learningResource <publications/learningResource.html>`_
-- `livePaper <publications/livePaper.html>`_
-- `livePaperResourceItem <publications/livePaperResourceItem.html>`_
-- `livePaperSection <publications/livePaperSection.html>`_
-- `livePaperVersion <publications/livePaperVersion.html>`_
-- `periodical <publications/periodical.html>`_
-- `publicationIssue <publications/publicationIssue.html>`_
-- `publicationVolume <publications/publicationVolume.html>`_
-- `scholarlyArticle <publications/scholarlyArticle.html>`_
+- `Book <publications/book.html>`_
+- `Chapter <publications/chapter.html>`_
+- `LearningResource <publications/learningResource.html>`_
+- `LivePaper <publications/livePaper.html>`_
+- `LivePaperResourceItem <publications/livePaperResourceItem.html>`_
+- `LivePaperSection <publications/livePaperSection.html>`_
+- `LivePaperVersion <publications/livePaperVersion.html>`_
+- `Periodical <publications/periodical.html>`_
+- `PublicationIssue <publications/publicationIssue.html>`_
+- `PublicationVolume <publications/publicationVolume.html>`_
+- `ScholarlyArticle <publications/scholarlyArticle.html>`_
 
 .. toctree::
 

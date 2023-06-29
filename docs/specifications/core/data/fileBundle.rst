@@ -2,9 +2,8 @@
 FileBundle
 ##########
 
-********************************************
 https://openminds.ebrains.eu/core/FileBundle
-********************************************
+--------------------------------------------
 
 Structured information on a bundle of file instances.
 

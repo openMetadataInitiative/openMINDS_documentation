@@ -2,9 +2,8 @@
 ChemicalMixture
 ###############
 
-******************************************************
 https://openminds.ebrains.eu/chemicals/ChemicalMixture
-******************************************************
+------------------------------------------------------
 
 Structured information about a mixture of chemical substances.
 

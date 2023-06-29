@@ -2,9 +2,8 @@
 Copyright
 #########
 
-*******************************************
 https://openminds.ebrains.eu/core/Copyright
-*******************************************
+-------------------------------------------
 
 Structured information on the copyright.
 

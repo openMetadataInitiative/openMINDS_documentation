@@ -2,8 +2,8 @@
 Specimenprep
 ############
 
-- `activity <specimenPrep/activity.html>`_
-- `device <specimenPrep/device.html>`_
+- `Activity <specimenPrep/activity.html>`_
+- `Device <specimenPrep/device.html>`_
 
 .. toctree::
 

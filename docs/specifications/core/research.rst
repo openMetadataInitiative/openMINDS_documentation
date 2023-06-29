@@ -2,23 +2,23 @@
 Research
 ########
 
-- `behavioralProtocol <research/behavioralProtocol.html>`_
-- `configuration <research/configuration.html>`_
-- `customPropertySet <research/customPropertySet.html>`_
-- `numericalProperty <research/numericalProperty.html>`_
-- `propertyValueList <research/propertyValueList.html>`_
-- `protocol <research/protocol.html>`_
-- `protocolExecution <research/protocolExecution.html>`_
-- `strain <research/strain.html>`_
-- `stringProperty <research/stringProperty.html>`_
-- `subject <research/subject.html>`_
-- `subjectGroup <research/subjectGroup.html>`_
-- `subjectGroupState <research/subjectGroupState.html>`_
-- `subjectState <research/subjectState.html>`_
-- `tissueSample <research/tissueSample.html>`_
-- `tissueSampleCollection <research/tissueSampleCollection.html>`_
-- `tissueSampleCollectionState <research/tissueSampleCollectionState.html>`_
-- `tissueSampleState <research/tissueSampleState.html>`_
+- `BehavioralProtocol <research/behavioralProtocol.html>`_
+- `Configuration <research/configuration.html>`_
+- `CustomPropertySet <research/customPropertySet.html>`_
+- `NumericalProperty <research/numericalProperty.html>`_
+- `PropertyValueList <research/propertyValueList.html>`_
+- `Protocol <research/protocol.html>`_
+- `ProtocolExecution <research/protocolExecution.html>`_
+- `Strain <research/strain.html>`_
+- `StringProperty <research/stringProperty.html>`_
+- `Subject <research/subject.html>`_
+- `SubjectGroup <research/subjectGroup.html>`_
+- `SubjectGroupState <research/subjectGroupState.html>`_
+- `SubjectState <research/subjectState.html>`_
+- `TissueSample <research/tissueSample.html>`_
+- `TissueSampleCollection <research/tissueSampleCollection.html>`_
+- `TissueSampleCollectionState <research/tissueSampleCollectionState.html>`_
+- `TissueSampleState <research/tissueSampleState.html>`_
 
 .. toctree::
 

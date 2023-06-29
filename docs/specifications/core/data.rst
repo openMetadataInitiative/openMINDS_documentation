@@ -2,19 +2,19 @@
 Data
 ####
 
-- `contentType <data/contentType.html>`_
-- `contentTypePattern <data/contentTypePattern.html>`_
-- `copyright <data/copyright.html>`_
-- `file <data/file.html>`_
-- `fileArchive <data/fileArchive.html>`_
-- `fileBundle <data/fileBundle.html>`_
-- `filePathPattern <data/filePathPattern.html>`_
-- `fileRepository <data/fileRepository.html>`_
-- `fileRepositoryStructure <data/fileRepositoryStructure.html>`_
-- `hash <data/hash.html>`_
-- `license <data/license.html>`_
-- `measurement <data/measurement.html>`_
-- `serviceLink <data/serviceLink.html>`_
+- `ContentType <data/contentType.html>`_
+- `ContentTypePattern <data/contentTypePattern.html>`_
+- `Copyright <data/copyright.html>`_
+- `File <data/file.html>`_
+- `FileArchive <data/fileArchive.html>`_
+- `FileBundle <data/fileBundle.html>`_
+- `FilePathPattern <data/filePathPattern.html>`_
+- `FileRepository <data/fileRepository.html>`_
+- `FileRepositoryStructure <data/fileRepositoryStructure.html>`_
+- `Hash <data/hash.html>`_
+- `License <data/license.html>`_
+- `Measurement <data/measurement.html>`_
+- `ServiceLink <data/serviceLink.html>`_
 
 .. toctree::
 

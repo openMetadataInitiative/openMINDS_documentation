@@ -2,9 +2,8 @@
 FileBundleGrouping
 ##################
 
-***************************************************************
 https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
-***************************************************************
+---------------------------------------------------------------
 
 Structured information on the grouping mechanism of a file bundle.
 

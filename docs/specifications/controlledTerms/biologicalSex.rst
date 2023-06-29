@@ -2,9 +2,8 @@
 BiologicalSex
 #############
 
-**********************************************************
 https://openminds.ebrains.eu/controlledTerms/BiologicalSex
-**********************************************************
+----------------------------------------------------------
 
 Structured information on the biological sex of a subject.
 

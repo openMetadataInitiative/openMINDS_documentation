@@ -2,9 +2,8 @@
 DataAnalysis
 ############
 
-*****************************************************
 https://openminds.ebrains.eu/computation/DataAnalysis
-*****************************************************
+-----------------------------------------------------
 
 Structured information on inspecting, cleansing, transforming, and modelling data.
 

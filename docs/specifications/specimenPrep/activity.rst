@@ -2,9 +2,9 @@
 Activity
 ########
 
-- `cranialWindowPreparation <activity/cranialWindowPreparation.html>`_
-- `tissueCulturePreparation <activity/tissueCulturePreparation.html>`_
-- `tissueSampleSlicing <activity/tissueSampleSlicing.html>`_
+- `CranialWindowPreparation <activity/cranialWindowPreparation.html>`_
+- `TissueCulturePreparation <activity/tissueCulturePreparation.html>`_
+- `TissueSampleSlicing <activity/tissueSampleSlicing.html>`_
 
 .. toctree::
 

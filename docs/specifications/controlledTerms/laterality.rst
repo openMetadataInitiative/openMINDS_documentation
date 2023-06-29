@@ -2,9 +2,8 @@
 Laterality
 ##########
 
-*******************************************************
 https://openminds.ebrains.eu/controlledTerms/Laterality
-*******************************************************
+-------------------------------------------------------
 
 Structured information on the lateral direction.
 

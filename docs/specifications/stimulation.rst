@@ -2,8 +2,8 @@
 Stimulation
 ###########
 
-- `activity <stimulation/activity.html>`_
-- `stimulus <stimulation/stimulus.html>`_
+- `Activity <stimulation/activity.html>`_
+- `Stimulus <stimulation/stimulus.html>`_
 
 .. toctree::
 

@@ -2,9 +2,8 @@
 LaunchConfiguration
 ###################
 
-************************************************************
 https://openminds.ebrains.eu/computation/LaunchConfiguration
-************************************************************
+------------------------------------------------------------
 
 Structured information about the launch of a computational process.
 

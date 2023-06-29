@@ -2,12 +2,12 @@
 Device
 ######
 
-- `electrode <device/electrode.html>`_
-- `electrodeArray <device/electrodeArray.html>`_
-- `electrodeArrayUsage <device/electrodeArrayUsage.html>`_
-- `electrodeUsage <device/electrodeUsage.html>`_
-- `pipette <device/pipette.html>`_
-- `pipetteUsage <device/pipetteUsage.html>`_
+- `Electrode <device/electrode.html>`_
+- `ElectrodeArray <device/electrodeArray.html>`_
+- `ElectrodeArrayUsage <device/electrodeArrayUsage.html>`_
+- `ElectrodeUsage <device/electrodeUsage.html>`_
+- `Pipette <device/pipette.html>`_
+- `PipetteUsage <device/pipetteUsage.html>`_
 
 .. toctree::
 

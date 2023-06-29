@@ -2,8 +2,8 @@
 Device
 ######
 
-- `slicingDevice <device/slicingDevice.html>`_
-- `slicingDeviceUsage <device/slicingDeviceUsage.html>`_
+- `SlicingDevice <device/slicingDevice.html>`_
+- `SlicingDeviceUsage <device/slicingDeviceUsage.html>`_
 
 .. toctree::
 

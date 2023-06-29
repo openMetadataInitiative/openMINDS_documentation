@@ -2,9 +2,8 @@
 Optimization
 ############
 
-*****************************************************
 https://openminds.ebrains.eu/computation/Optimization
-*****************************************************
+-----------------------------------------------------
 
 Structured information about a process of optimizing a model or a piece of code.
 

@@ -2,9 +2,8 @@
 Comment
 #######
 
-*****************************************
 https://openminds.ebrains.eu/core/Comment
-*****************************************
+-----------------------------------------
 
 Structured information about a short text expressing an opinion on, or giving information about some entity.
 

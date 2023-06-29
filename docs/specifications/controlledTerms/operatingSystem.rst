@@ -2,9 +2,8 @@
 OperatingSystem
 ###############
 
-************************************************************
 https://openminds.ebrains.eu/controlledTerms/OperatingSystem
-************************************************************
+------------------------------------------------------------
 
 Structured information on the operating system.
 

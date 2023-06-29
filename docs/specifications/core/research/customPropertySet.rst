@@ -2,9 +2,8 @@
 CustomPropertySet
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/CustomPropertySet
-***************************************************
+---------------------------------------------------
 
 Structured information about properties of an entity that are not represented in an openMINDS schema.
 

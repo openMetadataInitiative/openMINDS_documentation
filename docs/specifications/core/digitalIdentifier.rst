@@ -11,7 +11,7 @@ Digitalidentifier
 - `ORCID <digitalIdentifier/ORCID.html>`_
 - `RORID <digitalIdentifier/RORID.html>`_
 - `RRID <digitalIdentifier/RRID.html>`_
-- `stockNumber <digitalIdentifier/stockNumber.html>`_
+- `StockNumber <digitalIdentifier/stockNumber.html>`_
 - `SWHID <digitalIdentifier/SWHID.html>`_
 
 .. toctree::

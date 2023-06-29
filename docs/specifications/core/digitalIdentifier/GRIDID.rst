@@ -2,9 +2,8 @@
 GRIDID
 ######
 
-****************************************
 https://openminds.ebrains.eu/core/GRIDID
-****************************************
+----------------------------------------
 
 A GRID (Global Research Identifier Database) identifier.
 

@@ -2,9 +2,8 @@
 Visualization
 #############
 
-******************************************************
 https://openminds.ebrains.eu/computation/Visualization
-******************************************************
+------------------------------------------------------
 
 Structured information about a process of visualizing a computational model, a computational process, or a dataset.
 

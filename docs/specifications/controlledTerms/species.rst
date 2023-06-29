@@ -2,9 +2,8 @@
 Species
 #######
 
-****************************************************
 https://openminds.ebrains.eu/controlledTerms/Species
-****************************************************
+----------------------------------------------------
 
 Structured information on the species.
 

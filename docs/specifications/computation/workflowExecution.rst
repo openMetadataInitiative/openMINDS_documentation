@@ -2,9 +2,8 @@
 WorkflowExecution
 #################
 
-**********************************************************
 https://openminds.ebrains.eu/computation/WorkflowExecution
-**********************************************************
+----------------------------------------------------------
 
 Structured information about an execution of a computational workflow.
 

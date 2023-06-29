@@ -2,9 +2,8 @@
 PropertyValueList
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/PropertyValueList
-***************************************************
+---------------------------------------------------
 
 An identifiable list of property-value pairs.
 

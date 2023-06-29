@@ -2,23 +2,23 @@
 Computation
 ###########
 
-- `dataAnalysis <computation/dataAnalysis.html>`_
-- `dataCopy <computation/dataCopy.html>`_
-- `environment <computation/environment.html>`_
-- `genericComputation <computation/genericComputation.html>`_
-- `hardwareSystem <computation/hardwareSystem.html>`_
-- `launchConfiguration <computation/launchConfiguration.html>`_
-- `localFile <computation/localFile.html>`_
-- `modelValidation <computation/modelValidation.html>`_
-- `optimization <computation/optimization.html>`_
-- `simulation <computation/simulation.html>`_
-- `softwareAgent <computation/softwareAgent.html>`_
-- `validationTest <computation/validationTest.html>`_
-- `validationTestVersion <computation/validationTestVersion.html>`_
-- `visualization <computation/visualization.html>`_
-- `workflowExecution <computation/workflowExecution.html>`_
-- `workflowRecipe <computation/workflowRecipe.html>`_
-- `workflowRecipeVersion <computation/workflowRecipeVersion.html>`_
+- `DataAnalysis <computation/dataAnalysis.html>`_
+- `DataCopy <computation/dataCopy.html>`_
+- `Environment <computation/environment.html>`_
+- `GenericComputation <computation/genericComputation.html>`_
+- `HardwareSystem <computation/hardwareSystem.html>`_
+- `LaunchConfiguration <computation/launchConfiguration.html>`_
+- `LocalFile <computation/localFile.html>`_
+- `ModelValidation <computation/modelValidation.html>`_
+- `Optimization <computation/optimization.html>`_
+- `Simulation <computation/simulation.html>`_
+- `SoftwareAgent <computation/softwareAgent.html>`_
+- `ValidationTest <computation/validationTest.html>`_
+- `ValidationTestVersion <computation/validationTestVersion.html>`_
+- `Visualization <computation/visualization.html>`_
+- `WorkflowExecution <computation/workflowExecution.html>`_
+- `WorkflowRecipe <computation/workflowRecipe.html>`_
+- `WorkflowRecipeVersion <computation/workflowRecipeVersion.html>`_
 
 .. toctree::
 

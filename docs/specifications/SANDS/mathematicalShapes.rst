@@ -2,9 +2,9 @@
 Mathematicalshapes
 ##################
 
-- `circle <mathematicalShapes/circle.html>`_
-- `ellipse <mathematicalShapes/ellipse.html>`_
-- `rectangle <mathematicalShapes/rectangle.html>`_
+- `Circle <mathematicalShapes/circle.html>`_
+- `Ellipse <mathematicalShapes/ellipse.html>`_
+- `Rectangle <mathematicalShapes/rectangle.html>`_
 
 .. toctree::
 

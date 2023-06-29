@@ -2,9 +2,8 @@
 ORCID
 #####
 
-***************************************
 https://openminds.ebrains.eu/core/ORCID
-***************************************
+---------------------------------------
 
 A persistent identifier for a researcher provided by Open Researcher and Contributor ID, Inc.
 

@@ -2,13 +2,13 @@
 Miscellaneous
 #############
 
-- `comment <miscellaneous/comment.html>`_
-- `funding <miscellaneous/funding.html>`_
-- `quantitativeValue <miscellaneous/quantitativeValue.html>`_
-- `quantitativeValueArray <miscellaneous/quantitativeValueArray.html>`_
-- `quantitativeValueRange <miscellaneous/quantitativeValueRange.html>`_
-- `researchProductGroup <miscellaneous/researchProductGroup.html>`_
-- `webResource <miscellaneous/webResource.html>`_
+- `Comment <miscellaneous/comment.html>`_
+- `Funding <miscellaneous/funding.html>`_
+- `QuantitativeValue <miscellaneous/quantitativeValue.html>`_
+- `QuantitativeValueArray <miscellaneous/quantitativeValueArray.html>`_
+- `QuantitativeValueRange <miscellaneous/quantitativeValueRange.html>`_
+- `ResearchProductGroup <miscellaneous/researchProductGroup.html>`_
+- `WebResource <miscellaneous/webResource.html>`_
 
 .. toctree::
 

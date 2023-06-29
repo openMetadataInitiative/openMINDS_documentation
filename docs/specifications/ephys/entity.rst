@@ -2,8 +2,8 @@
 Entity
 ######
 
-- `channel <entity/channel.html>`_
-- `recording <entity/recording.html>`_
+- `Channel <entity/channel.html>`_
+- `Recording <entity/recording.html>`_
 
 .. toctree::
 

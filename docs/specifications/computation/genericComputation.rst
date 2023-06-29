@@ -2,9 +2,8 @@
 GenericComputation
 ##################
 
-***********************************************************
 https://openminds.ebrains.eu/computation/GenericComputation
-***********************************************************
+-----------------------------------------------------------
 
 Structured information about a computation whose type is unknown or unspecified.
 

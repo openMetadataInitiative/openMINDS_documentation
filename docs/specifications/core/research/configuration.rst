@@ -2,9 +2,8 @@
 Configuration
 #############
 
-***********************************************
 https://openminds.ebrains.eu/core/Configuration
-***********************************************
+-----------------------------------------------
 
 Structured information about the properties or parameters of an entity or process.
 

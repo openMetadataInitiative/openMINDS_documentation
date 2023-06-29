@@ -2,9 +2,8 @@
 AmountOfChemical
 ################
 
-*******************************************************
 https://openminds.ebrains.eu/chemicals/AmountOfChemical
-*******************************************************
+-------------------------------------------------------
 
 Structured information about the amount of a given chemical that was used.
 

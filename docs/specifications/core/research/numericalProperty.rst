@@ -2,9 +2,8 @@
 NumericalProperty
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/NumericalProperty
-***************************************************
+---------------------------------------------------
 
 Structured information about a property of some entity or process whose value is a number.
 

@@ -2,7 +2,7 @@
 Stimulus
 ########
 
-- `ephysStimulus <stimulus/ephysStimulus.html>`_
+- `EphysStimulus <stimulus/ephysStimulus.html>`_
 
 .. toctree::
 

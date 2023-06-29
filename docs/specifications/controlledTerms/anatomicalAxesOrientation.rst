@@ -2,9 +2,8 @@
 AnatomicalAxesOrientation
 #########################
 
-**********************************************************************
 https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
-**********************************************************************
+----------------------------------------------------------------------
 
 Structured information on the anatomical directions of the X, Y, and Z axis.
 

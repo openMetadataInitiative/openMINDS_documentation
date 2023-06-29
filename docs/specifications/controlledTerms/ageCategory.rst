@@ -2,9 +2,8 @@
 AgeCategory
 ###########
 
-********************************************************
 https://openminds.ebrains.eu/controlledTerms/AgeCategory
-********************************************************
+--------------------------------------------------------
 
 Structured information on the life cycle (semantic term) of a specific age group.
 

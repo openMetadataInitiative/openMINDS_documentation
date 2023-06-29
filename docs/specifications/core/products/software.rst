@@ -2,9 +2,8 @@
 Software
 ########
 
-******************************************
 https://openminds.ebrains.eu/core/Software
-******************************************
+------------------------------------------
 
 Structured information on a software tool (concept level).
 
