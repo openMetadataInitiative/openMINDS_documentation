@@ -2,12 +2,12 @@
 Actors
 ######
 
-- `contribution.rst <actors/contribution.rst.html>`_
-- `organization.rst <actors/organization.rst.html>`_
-- `person.rst <actors/person.rst.html>`_
+- `contribution <actors/contribution.html>`_
+- `organization <actors/organization.html>`_
+- `person <actors/person.html>`_
 
 .. toctree::
 
-   actors/contribution.rst
-   actors/organization.rst
-   actors/person.rst
+   actors/contribution
+   actors/organization
+   actors/person

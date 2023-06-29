@@ -2,30 +2,30 @@
 Sands
 #####
 
-- `anatomicalEntity.rst <SANDS/anatomicalEntity.rst.html>`_
-- `anatomicalEntityRelation.rst <SANDS/anatomicalEntityRelation.rst.html>`_
-- `annotation.rst <SANDS/annotation.rst.html>`_
-- `atlasTerminology.rst <SANDS/atlasTerminology.rst.html>`_
-- `brainAtlas.rst <SANDS/brainAtlas.rst.html>`_
-- `brainAtlasVersion.rst <SANDS/brainAtlasVersion.rst.html>`_
-- `coordinatePoint.rst <SANDS/coordinatePoint.rst.html>`_
-- `coordinateSpace.rst <SANDS/coordinateSpace.rst.html>`_
-- `electrode.rst <SANDS/electrode.rst.html>`_
-- `electrodeArray.rst <SANDS/electrodeArray.rst.html>`_
-- `electrodeContact.rst <SANDS/electrodeContact.rst.html>`_
-- `image.rst <SANDS/image.rst.html>`_
+- `anatomicalEntity <SANDS/anatomicalEntity.html>`_
+- `anatomicalEntityRelation <SANDS/anatomicalEntityRelation.html>`_
+- `annotation <SANDS/annotation.html>`_
+- `atlasTerminology <SANDS/atlasTerminology.html>`_
+- `brainAtlas <SANDS/brainAtlas.html>`_
+- `brainAtlasVersion <SANDS/brainAtlasVersion.html>`_
+- `coordinatePoint <SANDS/coordinatePoint.html>`_
+- `coordinateSpace <SANDS/coordinateSpace.html>`_
+- `electrode <SANDS/electrode.html>`_
+- `electrodeArray <SANDS/electrodeArray.html>`_
+- `electrodeContact <SANDS/electrodeContact.html>`_
+- `image <SANDS/image.html>`_
 
 .. toctree::
 
-   SANDS/anatomicalEntity.rst
-   SANDS/anatomicalEntityRelation.rst
-   SANDS/annotation.rst
-   SANDS/atlasTerminology.rst
-   SANDS/brainAtlas.rst
-   SANDS/brainAtlasVersion.rst
-   SANDS/coordinatePoint.rst
-   SANDS/coordinateSpace.rst
-   SANDS/electrode.rst
-   SANDS/electrodeArray.rst
-   SANDS/electrodeContact.rst
-   SANDS/image.rst
+   SANDS/anatomicalEntity
+   SANDS/anatomicalEntityRelation
+   SANDS/annotation
+   SANDS/atlasTerminology
+   SANDS/brainAtlas
+   SANDS/brainAtlasVersion
+   SANDS/coordinatePoint
+   SANDS/coordinateSpace
+   SANDS/electrode
+   SANDS/electrodeArray
+   SANDS/electrodeContact
+   SANDS/image
