@@ -6,6 +6,10 @@
     position: absolute;
 }
 
+.wy-nav-top {    
+    background-color: #343131;
+}
+
 .wy-side-nav-search{
     background-color: unset;
 }
