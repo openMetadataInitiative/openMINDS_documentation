@@ -103,7 +103,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.ebrains.eu/vocab/origin
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_or `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_
+                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_ or `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_
    :instructions: Add the biogical origin (organ or cell type) of all tissue samples in this collection.
 
 `BACK TO TOP <TissueSampleCollection_>`_

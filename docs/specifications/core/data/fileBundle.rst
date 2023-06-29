@@ -104,7 +104,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_or `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_ or `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
    :instructions: Add the file bundle or file repository this file bundle is a part of.
 
 `BACK TO TOP <FileBundle_>`_

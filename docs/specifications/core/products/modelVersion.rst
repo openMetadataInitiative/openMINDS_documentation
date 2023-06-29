@@ -74,7 +74,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add one or several authors (person or organization) that contributed to the production and publication of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -111,7 +111,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -147,7 +147,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
    :instructions: Add one or several developers (person or organization) that contributed to the code implementation of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -508,7 +508,7 @@ Structure or function that was targeted within a study.
                 | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `Disease
                 <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerms/Genotype>`_, `Phenotype
                 <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `TermSuggestion
-                <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <ModelVersion_>`_

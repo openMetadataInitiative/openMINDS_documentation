@@ -49,7 +49,7 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.ebrains.eu/vocab/age
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Add the age of the specimen (set) in this state.
 
@@ -68,7 +68,7 @@ Structural and functional deviation from the normal that constitutes a disease o
 
    :semantic name: https://openminds.ebrains.eu/vocab/pathology
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_or `DiseaseModel
+                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel
                 <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
    :instructions: Add the pathology of the specimen (set) in this state.
 
@@ -87,7 +87,7 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.ebrains.eu/vocab/weight
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_or `QuantitativeValueRange
+                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange
                 <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
    :instructions: Add the weight of the specimen (set) in this state.
 

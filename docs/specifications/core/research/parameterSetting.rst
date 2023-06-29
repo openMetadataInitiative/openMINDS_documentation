@@ -67,7 +67,7 @@ Reference to what or whom something or someone bears siginificance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_or `Technique
+                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_ or `Technique
                 <https://openminds.ebrains.eu/controlledTerms/Technique>`_
    :instructions: Add the technique or behavioral task where this parameter setting is used in.
 
