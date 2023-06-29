@@ -13,11 +13,8 @@ https://openminds.ebrains.eu/sands/AtlasAnnotation
 Properties
 **********
 
-:Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `versionIdentifier
-   <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
-:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy
-   <inspiredBy_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_, `visualizedIn
-   <visualizedIn_heading_>`_
+:Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
 
 ------------
 

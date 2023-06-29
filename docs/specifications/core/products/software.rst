@@ -15,10 +15,8 @@ Structured information on a software tool (concept level).
 Properties
 **********
 
-:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_,
-   `shortName <shortName_heading_>`_
-:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite
-   <howToCite_heading_>`_
+:Required: `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
 
 ------------
 
@@ -34,8 +32,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
                 | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
-   :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be
-      responsible for all attached research product versions.
+   :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <Software_>`_
 
@@ -53,8 +50,7 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references). Note that this description
-      should be fitting for all attached research product versions.
+   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references). Note that this description should be fitting for all attached research product versions.
 
 `BACK TO TOP <Software_>`_
 
@@ -90,8 +86,7 @@ Digital handle to identify objects or legal persons.
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
-   :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to
-      reference all attached research product versions.
+   :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Software_>`_
 
@@ -109,8 +104,7 @@ Whole, non-abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/fullName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a descriptive full name (title) for this research product.  Note that this full name should be fitting for all attached research product
-      versions.
+   :instructions: Enter a descriptive full name (title) for this research product.  Note that this full name should be fitting for all attached research product versions.
 
 `BACK TO TOP <Software_>`_
 
@@ -164,8 +158,7 @@ Preferred format for citing a particular object or legal person.
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital
-      identifier.
+   :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <Software_>`_
 

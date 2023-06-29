@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `IRI <IRI_heading_>`_, `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
-:Optional: `content <content_heading_>`_, `fileRepository <fileRepository_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `specialUsageRole
-   <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
+:Optional: `content <content_heading_>`_, `fileRepository <fileRepository_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
 
 ------------
 
@@ -26,8 +25,7 @@ Properties
 IRI
 ---
 
-Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted
-characters to include Unicode/ISO 10646.
+Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
 .. admonition:: specifications
 

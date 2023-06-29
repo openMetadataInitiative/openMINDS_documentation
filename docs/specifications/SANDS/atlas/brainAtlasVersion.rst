@@ -15,11 +15,8 @@ Structured information on a brain atlas (version level).
 Properties
 **********
 
-:Required: `coordinateSpace <coordinateSpace_heading_>`_, `fullName <fullName_heading_>`_, `hasTerminology <hasTerminology_heading_>`_, `releaseDate
-   <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation
-   <versionInnovation_heading_>`_
-:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `isAlternativeVersionOf
-   <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
+:Required: `coordinateSpace <coordinateSpace_heading_>`_, `fullName <fullName_heading_>`_, `hasTerminology <hasTerminology_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 
@@ -123,8 +120,7 @@ Preferred format for citing a particular object or legal person.
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the preferred citation text for this brain atlas version. Leave blank if citation text can be extracted from the assigned digital
-      identifier.
+   :instructions: Enter the preferred citation text for this brain atlas version. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
 

@@ -13,8 +13,7 @@ https://openminds.ebrains.eu/sands/CustomCoordinateSpace
 Properties
 **********
 
-:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `name <name_heading_>`_, `nativeUnit
-   <nativeUnit_heading_>`_
+:Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `name <name_heading_>`_, `nativeUnit <nativeUnit_heading_>`_
 :Optional: `defaultImage <defaultImage_heading_>`_
 
 ------------

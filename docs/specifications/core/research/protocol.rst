@@ -83,13 +83,7 @@ studyOption
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyOption
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType
-                <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel
-                <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ
-                <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species
-                <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion
-                <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
    :instructions: Add all study options this protocol offers.
 
 `BACK TO TOP <Protocol_>`_

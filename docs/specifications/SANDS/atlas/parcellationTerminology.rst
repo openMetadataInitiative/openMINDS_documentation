@@ -13,10 +13,8 @@ https://openminds.ebrains.eu/sands/ParcellationTerminology
 Properties
 **********
 
-:Required: `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation
-   <versionInnovation_heading_>`_
-:Optional: `definedIn <definedIn_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_,
-   `ontologyIdentifier <ontologyIdentifier_heading_>`_
+:Required: `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `definedIn <definedIn_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 

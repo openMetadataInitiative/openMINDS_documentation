@@ -14,8 +14,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_
-:Optional: `addExistingTerminology <addExistingTerminology_heading_>`_, `definition <definition_heading_>`_, `description <description_heading_>`_,
-   `ontologyIdentifier <ontologyIdentifier_heading_>`_, `suggestNewTerminology <suggestNewTerminology_heading_>`_
+:Optional: `addExistingTerminology <addExistingTerminology_heading_>`_, `definition <definition_heading_>`_, `description <description_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `suggestNewTerminology <suggestNewTerminology_heading_>`_
 
 ------------
 

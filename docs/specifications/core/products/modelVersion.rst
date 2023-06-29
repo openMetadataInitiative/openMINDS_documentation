@@ -15,14 +15,8 @@ Structured information on a computational model (version level).
 Properties
 **********
 
-:Required: `accessibility <accessibility_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `funding
-   <funding_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier
-   <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
-:Optional: `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_,
-   `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_,
-   `inputData <inputData_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword
-   <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputData <outputData_heading_>`_, `relatedPublication
-   <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_
+:Required: `accessibility <accessibility_heading_>`_, `format <format_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `funding <funding_heading_>`_, `license <license_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Optional: `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputData <inputData_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `outputData <outputData_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `supportChannel <supportChannel_heading_>`_
 
 ------------
 
@@ -49,8 +43,7 @@ Level to which something is accessible to someone or something.
 copyright
 ---------
 
-Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time
-period.
+Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time period.
 
 .. admonition:: specifications
 
@@ -93,8 +86,7 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: If necessary, enter a version specific description (abstract) for this research product version (max. 2000 characters, incl. spaces; no
-      references). If left blank, the research product version will inherit the 'description' of it's corresponding research product.
+   :instructions: If necessary, enter a version specific description (abstract) for this research product version (max. 2000 characters, incl. spaces; no references). If left blank, the research product version will inherit the 'description' of it's corresponding research product.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -112,8 +104,7 @@ Legal person that creates or improves products or services (e.g., software, appl
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
                 | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
-   :instructions: If necessary, add one or several developers (person or organization) that contributed to the code implementation of this model version. Note
-      that these developers will overwrite the once provided in the model product this version belongs to.
+   :instructions: If necessary, add one or several developers (person or organization) that contributed to the code implementation of this model version. Note that these developers will overwrite the once provided in the model product this version belongs to.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -166,8 +157,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `URL
-                <https://openminds.ebrains.eu/core/URL>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `URL <https://openminds.ebrains.eu/core/URL>`_
    :instructions: Add the DOI, file or URL that points to a full documentation of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -186,8 +176,7 @@ Whole, non-abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/fullName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: If necessary, enter a version specific descriptive full name (title) for this research product version. If left blank, the research product
-      version will inherit the 'fullName' of it's corresponding research product.
+   :instructions: If necessary, enter a version specific descriptive full name (title) for this research product version. If left blank, the research product version will inherit the 'fullName' of it's corresponding research product.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -241,8 +230,7 @@ Preferred format for citing a particular object or legal person.
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the preferred citation text for this research product version. Leave blank if citation text can be extracted from the assigned digital
-      identifier.
+   :instructions: Enter the preferred citation text for this research product version. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -259,8 +247,7 @@ Data that is put into a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle
-                <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add the data that was used as input for this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -351,8 +338,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | embedded object array \(1-N\) of type
                 | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
-   :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product
-      version.
+   :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -369,8 +355,7 @@ Data that comes out of, is delivered or produced by a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/outputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle
-                <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
    :instructions: Add the data that was generated as output of this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -389,8 +374,7 @@ Reference to something that was made available for the general public to see or 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
-   :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of
-      this research product version.
+   :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
 
@@ -498,9 +482,7 @@ Documentation on what changed in comparison to a previously published form of so
    :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a summary/description of the novelties/peculiarities of this research product version in comparison to other versions of it's research
-      product. If this research product version is the first released version, you can enter the following disclaimer 'This is the first version of this
-      research product.'
+   :instructions: Enter a summary/description of the novelties/peculiarities of this research product version in comparison to other versions of it's research product. If this research product version is the first released version, you can enter the following disclaimer 'This is the first version of this research product.'
 
 `BACK TO TOP <ModelVersion_>`_
 

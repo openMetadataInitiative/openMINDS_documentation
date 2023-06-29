@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `givenName <givenName_heading_>`_
-:Optional: `affiliation <affiliation_heading_>`_, `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_,
-   `familyName <familyName_heading_>`_
+:Optional: `affiliation <affiliation_heading_>`_, `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
 
 ------------
 

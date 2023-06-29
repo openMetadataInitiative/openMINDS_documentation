@@ -15,11 +15,8 @@ Structured information on a computational model (concept level).
 Properties
 **********
 
-:Required: `abstractionLevel <abstractionLevel_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName
-   <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `scope <scope_heading_>`_, `shortName <shortName_heading_>`_, `studyTarget
-   <studyTarget_heading_>`_
-:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite
-   <howToCite_heading_>`_
+:Required: `abstractionLevel <abstractionLevel_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `scope <scope_heading_>`_, `shortName <shortName_heading_>`_, `studyTarget <studyTarget_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
 
 ------------
 
@@ -53,8 +50,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
                 | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
-   :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be
-      responsible for all attached research product versions.
+   :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -72,8 +68,7 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references). Note that this description
-      should be fitting for all attached research product versions.
+   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references). Note that this description should be fitting for all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -109,8 +104,7 @@ Digital handle to identify objects or legal persons.
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
                 | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
-   :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to
-      reference all attached research product versions.
+   :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -128,8 +122,7 @@ Whole, non-abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/fullName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a descriptive full name (title) for this research product.  Note that this full name should be fitting for all attached research product
-      versions.
+   :instructions: Enter a descriptive full name (title) for this research product.  Note that this full name should be fitting for all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -183,8 +176,7 @@ Preferred format for citing a particular object or legal person.
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital
-      identifier.
+   :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <Model_>`_
 
@@ -237,13 +229,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType
-                <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel
-                <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ
-                <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species
-                <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion
-                <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity
-                <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <Model_>`_

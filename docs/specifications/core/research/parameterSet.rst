@@ -47,8 +47,7 @@ Digital or physical property determining a particular function, characteristic o
 
    :semantic name: https://openminds.ebrains.eu/vocab/parameter
    :value type: | embedded object array \(1-N\) of type
-                | `NumericalParameter <https://openminds.ebrains.eu/core/NumericalParameter>`_ or `StringParameter
-                <https://openminds.ebrains.eu/core/StringParameter>`_
+                | `NumericalParameter <https://openminds.ebrains.eu/core/NumericalParameter>`_ or `StringParameter <https://openminds.ebrains.eu/core/StringParameter>`_
    :instructions: Add all numerical and string parameters that belong to this parameter set.
 
 `BACK TO TOP <ParameterSet_>`_
@@ -66,8 +65,7 @@ Reference to what or whom something or someone bears siginificance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_ or `Technique
-                <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
    :instructions: Add the technique or behavioral task where this set of parameters is used in.
 
 `BACK TO TOP <ParameterSet_>`_

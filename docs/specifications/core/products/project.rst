@@ -15,8 +15,7 @@ Structured information on a research project.
 Properties
 **********
 
-:Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasResearchProducts <hasResearchProducts_heading_>`_, `shortName
-   <shortName_heading_>`_
+:Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasResearchProducts <hasResearchProducts_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `coordinator <coordinator_heading_>`_, `homepage <homepage_heading_>`_
 
 ------------
@@ -86,10 +85,7 @@ Reference to subsidiary research products.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasResearchProducts
    :value type: | linked object array \(2-N\) of type
-                | `Dataset <https://openminds.ebrains.eu/core/Dataset>`_, `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `MetaDataModel
-                <https://openminds.ebrains.eu/core/MetaDataModel>`_, `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_, `Model
-                <https://openminds.ebrains.eu/core/Model>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `Software
-                <https://openminds.ebrains.eu/core/Software>`_ or `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
+                | `Dataset <https://openminds.ebrains.eu/core/Dataset>`_, `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `MetaDataModel <https://openminds.ebrains.eu/core/MetaDataModel>`_, `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_, `Model <https://openminds.ebrains.eu/core/Model>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `Software <https://openminds.ebrains.eu/core/Software>`_ or `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
    :instructions: Add all research products or research product versions that are part of this project.
 
 `BACK TO TOP <Project_>`_

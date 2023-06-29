@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
-:Optional: `format <format_heading_>`_, `groupedBy <groupedBy_heading_>`_, `hash <hash_heading_>`_, `patternOfFilenames <patternOfFilenames_heading_>`_,
-   `storageSize <storageSize_heading_>`_
+:Optional: `format <format_heading_>`_, `groupedBy <groupedBy_heading_>`_, `hash <hash_heading_>`_, `patternOfFilenames <patternOfFilenames_heading_>`_, `storageSize <storageSize_heading_>`_
 
 ------------
 
@@ -33,8 +32,7 @@ Method of digitally organizing and structuring data or information.
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
                 | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
-   :instructions: If file instances within this bundle are organized and formatted according to a formal data structure use the appropriate contentType. Leave
-      blank otherwise.
+   :instructions: If file instances within this bundle are organized and formatted according to a formal data structure use the appropriate contentType. Leave blank otherwise.
 
 `BACK TO TOP <FileBundle_>`_
 
@@ -124,8 +122,7 @@ Reliable sample / structure of characters valid for all names in a particular co
    :semantic name: https://openminds.ebrains.eu/vocab/patternOfFilenames
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a regular expression (syntax: ECMA 262) which is valid for all filenames of the file instances that should be grouped into this file
-      bundle.
+   :instructions: Enter a regular expression (syntax: ECMA 262) which is valid for all filenames of the file instances that should be grouped into this file bundle.
 
 `BACK TO TOP <FileBundle_>`_
 

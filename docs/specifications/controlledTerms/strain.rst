@@ -14,8 +14,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_
-:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `identifier <identifier_heading_>`_, `ontologyIdentifier
-   <ontologyIdentifier_heading_>`_
+:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `identifier <identifier_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 
@@ -67,8 +66,7 @@ Term or code used to identify something or someone.
    :semantic name: https://openminds.ebrains.eu/vocab/identifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter other database identifiers for the given strain that are supported by the members of the Alliance of Genome Resources
-      (https://www.alliancegenome.org/).
+   :instructions: Enter other database identifiers for the given strain that are supported by the members of the Alliance of Genome Resources (https://www.alliancegenome.org/).
 
 `BACK TO TOP <Strain_>`_
 

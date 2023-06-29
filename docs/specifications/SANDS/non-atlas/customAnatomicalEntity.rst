@@ -61,8 +61,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment
-                <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
+                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
    :instructions: Add one or several relations of this custom anatomical entity to parcellation entities used in defined parcellation terminologies.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_

@@ -25,8 +25,7 @@ Properties
 IRI
 ---
 
-Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted
-characters to include Unicode/ISO 10646.
+Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
 .. admonition:: specifications
 
@@ -51,8 +50,7 @@ Method of digitally organizing and structuring data or information.
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
                 | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
-   :instructions: If file instances and bundles within the repository are organized and formatted according to a formal data structure use the appropriate
-      contentType. Leave blank otherwise.
+   :instructions: If file instances and bundles within the repository are organized and formatted according to a formal data structure use the appropriate contentType. Leave blank otherwise.
 
 `BACK TO TOP <FileRepository_>`_
 

@@ -16,8 +16,7 @@ Properties
 **********
 
 :Required: `name <name_heading_>`_
-:Optional: `description <description_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification
-   <specification_heading_>`_, `synonym <synonym_heading_>`_
+:Optional: `description <description_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
@@ -105,8 +104,7 @@ Detailed and precise presentation of, or proposal for something.
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the iternationalized resource identifier (IRI) of the official specification of this content type. Leave blank and use 'description' to
-      provide some specification if an official specification is not available.
+   :instructions: Enter the iternationalized resource identifier (IRI) of the official specification of this content type. Leave blank and use 'description' to provide some specification if an official specification is not available.
 
 `BACK TO TOP <ContentType_>`_
 

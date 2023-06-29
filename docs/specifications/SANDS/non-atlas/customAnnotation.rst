@@ -13,10 +13,8 @@ https://openminds.ebrains.eu/sands/CustomAnnotation
 Properties
 **********
 
-:Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier
-   <internalIdentifier_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
-:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy
-   <inspiredBy_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_
+:Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
+:Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_
 
 ------------
 
@@ -49,8 +47,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CustomCoordinateSpace
-                <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
+                | `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CustomCoordinateSpace <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
    :instructions: Add the coordinate space in which this custom annotation exists.
 
 `BACK TO TOP <CustomAnnotation_>`_
