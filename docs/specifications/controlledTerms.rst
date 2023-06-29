@@ -1,0 +1,46 @@
+###############
+Controlledterms
+###############
+
+.. toctree::
+
+   controlledTerms/unitOfMeasurement.rst
+   controlledTerms/modelAbstractionLevel.rst
+   controlledTerms/handedness.rst
+   controlledTerms/language.rst
+   controlledTerms/operatingSystem.rst
+   controlledTerms/UBERONParcellation.rst
+   controlledTerms/fileBundleGrouping.rst
+   controlledTerms/tissueSampleType.rst
+   controlledTerms/strain.rst
+   controlledTerms/typeOfUncertainty.rst
+   controlledTerms/organ.rst
+   controlledTerms/terminology.rst
+   controlledTerms/qualitativeOverlap.rst
+   controlledTerms/phenotype.rst
+   controlledTerms/operatingDevice.rst
+   controlledTerms/softwareFeature.rst
+   controlledTerms/technique.rst
+   controlledTerms/biologicalSex.rst
+   controlledTerms/cellType.rst
+   controlledTerms/ethicsAssessment.rst
+   controlledTerms/diseaseModel.rst
+   controlledTerms/fileUsageRole.rst
+   controlledTerms/preparationType.rst
+   controlledTerms/fileRepositoryType.rst
+   controlledTerms/modelScope.rst
+   controlledTerms/laterality.rst
+   controlledTerms/contributionType.rst
+   controlledTerms/behavioralTask.rst
+   controlledTerms/metaDataModelType.rst
+   controlledTerms/programmingLanguage.rst
+   controlledTerms/softwareApplicationCategory.rst
+   controlledTerms/species.rst
+   controlledTerms/anatomicalAxesOrientation.rst
+   controlledTerms/productAccessibility.rst
+   controlledTerms/termSuggestion.rst
+   controlledTerms/semanticDataType.rst
+   controlledTerms/disease.rst
+   controlledTerms/ageCategory.rst
+   controlledTerms/experimentalApproach.rst
+   controlledTerms/criteriaQualityType.rst

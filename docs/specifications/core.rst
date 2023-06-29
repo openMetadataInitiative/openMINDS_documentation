@@ -1,7 +1,11 @@
+####
 Core
-===================================
-
-Lorem ipsum
+####
 
 .. toctree::
+
+   core/research
+   core/data
+   core/products
    core/actors
+   core/miscellaneous
