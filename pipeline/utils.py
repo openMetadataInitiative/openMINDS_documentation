@@ -33,7 +33,7 @@ class SchemaLoader(object):
 class GitPusher(object):
 
     def __init__(self):
-        self.upload_dir = "../upload"
+        self.upload_dir = "upload"
         self._repo = Repo(self.upload_dir)
 
     def upload(self, version):
@@ -55,9 +55,8 @@ class GitPusher(object):
         self._repo.git.reset('--hard')
         try:
             self._repo.git.checkout(version)
+            self._repo.git.reset('--hard')
         except GitCommandError as e:
             self._repo.git.checkout("-b", version)
-        self._repo.git.reset('--hard')
-        self._repo.git.pull("origin", version)
 
 
