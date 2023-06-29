@@ -11,12 +11,13 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
         doc.heading(relative_path[-1].capitalize(), char="#", overline=True)
         doc.newline()
         # TODO add some description -> but where does it come from?
-        doc.content(f".. toctree::")
-        doc.newline()
+        links = []
+        tree_items = []
         sub_dirs = sorted(os.listdir(os.path.join("target", version, "docs", "/".join(relative_path))), key=str.casefold)
         for sub_dir in sub_dirs:
             sub_dir.replace(".rst", "")
-            doc.content(f"{relative_path[-1]}/{sub_dir}", indent=3)
+            links.append(f"- `{sub_dir} <{relative_path[-1]}/{sub_dir}.html>`_")
+            tree_items.append(f"{relative_path[-1]}/{sub_dir}")
             sub_dir_path = os.path.join("target", version, "docs", "/".join(relative_path), sub_dir)
             if os.path.isdir(sub_dir_path):
                 sub_dirs_of_sub_dir = os.listdir(sub_dir_path)
@@ -25,3 +26,12 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
                     new_relative_path.extend(relative_path)
                     new_relative_path.append(sub_dir)
                     create_toc_tree_page(version, new_relative_path)
+
+        for link in links:
+            doc.content(link)
+
+        doc.newline()
+        doc.content(f".. toctree::")
+        doc.newline()
+        for tree_item in tree_items:
+            doc.content(tree_item, indent=3)
