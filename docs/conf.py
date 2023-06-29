@@ -44,8 +44,8 @@ html_show_sphinx = False
 html_theme_options = {
  'display_version': False,
   'logo_only': True,
-  'includehidden': True
-
+  'includehidden': True,
+  'titles_only': True
 }
 
 
