@@ -2,9 +2,8 @@
 Modality
 ########
 
-*****************************************************
 https://openminds.ebrains.eu/controlledTerms/Modality
-*****************************************************
+-----------------------------------------------------
 
 Structured information on the modality.
 

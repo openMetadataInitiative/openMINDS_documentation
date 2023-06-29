@@ -2,9 +2,8 @@
 ContributionType
 ################
 
-*************************************************************
 https://openminds.ebrains.eu/controlledTerms/ContributionType
-*************************************************************
+-------------------------------------------------------------
 
 Structured information on the type of contribution a person or organization performed.
 

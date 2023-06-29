@@ -2,9 +2,8 @@
 Image
 #####
 
-****************************************
 https://openminds.ebrains.eu/sands/Image
-****************************************
+----------------------------------------
 
 Structured information on an image.
 

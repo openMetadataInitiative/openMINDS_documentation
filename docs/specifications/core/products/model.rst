@@ -2,9 +2,8 @@
 Model
 #####
 
-***************************************
 https://openminds.ebrains.eu/core/Model
-***************************************
+---------------------------------------
 
 Structured information on a computational model (concept level).
 

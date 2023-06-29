@@ -2,9 +2,8 @@
 Annotation
 ##########
 
-*********************************************
 https://openminds.ebrains.eu/sands/Annotation
-*********************************************
+---------------------------------------------
 
 Structured information on an image annotation.
 

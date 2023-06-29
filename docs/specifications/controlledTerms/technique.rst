@@ -2,9 +2,8 @@
 Technique
 #########
 
-******************************************************
 https://openminds.ebrains.eu/controlledTerms/Technique
-******************************************************
+------------------------------------------------------
 
 Structured information on the technique.
 

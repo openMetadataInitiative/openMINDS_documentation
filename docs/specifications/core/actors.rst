@@ -2,9 +2,9 @@
 Actors
 ######
 
-- `contribution <actors/contribution.html>`_
-- `organization <actors/organization.html>`_
-- `person <actors/person.html>`_
+- `Contribution <actors/contribution.html>`_
+- `Organization <actors/organization.html>`_
+- `Person <actors/person.html>`_
 
 .. toctree::
 

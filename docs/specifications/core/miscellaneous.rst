@@ -2,11 +2,11 @@
 Miscellaneous
 #############
 
-- `digitalIdentifier <miscellaneous/digitalIdentifier.html>`_
-- `digitalIdentifierSchema <miscellaneous/digitalIdentifierSchema.html>`_
-- `funding <miscellaneous/funding.html>`_
-- `quantitativeValue <miscellaneous/quantitativeValue.html>`_
-- `quantitativeValueRange <miscellaneous/quantitativeValueRange.html>`_
+- `DigitalIdentifier <miscellaneous/digitalIdentifier.html>`_
+- `DigitalIdentifierSchema <miscellaneous/digitalIdentifierSchema.html>`_
+- `Funding <miscellaneous/funding.html>`_
+- `QuantitativeValue <miscellaneous/quantitativeValue.html>`_
+- `QuantitativeValueRange <miscellaneous/quantitativeValueRange.html>`_
 
 .. toctree::
 

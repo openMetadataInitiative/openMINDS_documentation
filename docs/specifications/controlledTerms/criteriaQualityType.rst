@@ -2,9 +2,8 @@
 CriteriaQualityType
 ###################
 
-****************************************************************
 https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType
-****************************************************************
+----------------------------------------------------------------
 
 Structured information on the quality type of the defined criteria for a measurement.
 

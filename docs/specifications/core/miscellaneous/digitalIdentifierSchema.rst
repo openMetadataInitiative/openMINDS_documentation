@@ -2,9 +2,8 @@
 DigitalIdentifierSchema
 #######################
 
-*********************************************************
 https://openminds.ebrains.eu/core/DigitalIdentifierSchema
-*********************************************************
+---------------------------------------------------------
 
 Structured information on a digital identifier schema.
 

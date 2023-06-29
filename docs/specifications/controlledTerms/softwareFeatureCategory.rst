@@ -2,9 +2,8 @@
 SoftwareFeatureCategory
 #######################
 
-********************************************************************
 https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory
-********************************************************************
+--------------------------------------------------------------------
 
 Structured information on the category of the software feature.
 

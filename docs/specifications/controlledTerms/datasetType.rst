@@ -2,9 +2,8 @@
 DatasetType
 ###########
 
-********************************************************
 https://openminds.ebrains.eu/controlledTerms/DatasetType
-********************************************************
+--------------------------------------------------------
 
 Structured information on the provided data type.
 

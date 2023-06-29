@@ -2,9 +2,8 @@
 Disease
 #######
 
-****************************************************
 https://openminds.ebrains.eu/controlledTerms/Disease
-****************************************************
+----------------------------------------------------
 
 Structured information on a disease.
 

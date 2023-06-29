@@ -2,9 +2,8 @@
 License
 #######
 
-*****************************************
 https://openminds.ebrains.eu/core/License
-*****************************************
+-----------------------------------------
 
 Structured information on a used license.
 

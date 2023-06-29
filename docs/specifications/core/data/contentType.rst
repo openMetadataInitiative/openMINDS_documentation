@@ -2,9 +2,8 @@
 ContentType
 ###########
 
-*********************************************
 https://openminds.ebrains.eu/core/ContentType
-*********************************************
+---------------------------------------------
 
 Structured information on the content type of a file instance, bundle or repository.
 

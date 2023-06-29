@@ -2,9 +2,8 @@
 ModelVersion
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/ModelVersion
-**********************************************
+----------------------------------------------
 
 Structured information on a computational model (version level).
 

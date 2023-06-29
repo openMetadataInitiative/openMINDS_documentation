@@ -2,18 +2,18 @@
 Sands
 #####
 
-- `anatomicalEntity <SANDS/anatomicalEntity.html>`_
-- `anatomicalEntityRelation <SANDS/anatomicalEntityRelation.html>`_
-- `annotation <SANDS/annotation.html>`_
-- `atlasTerminology <SANDS/atlasTerminology.html>`_
-- `brainAtlas <SANDS/brainAtlas.html>`_
-- `brainAtlasVersion <SANDS/brainAtlasVersion.html>`_
-- `coordinatePoint <SANDS/coordinatePoint.html>`_
-- `coordinateSpace <SANDS/coordinateSpace.html>`_
-- `electrode <SANDS/electrode.html>`_
-- `electrodeArray <SANDS/electrodeArray.html>`_
-- `electrodeContact <SANDS/electrodeContact.html>`_
-- `image <SANDS/image.html>`_
+- `AnatomicalEntity <SANDS/anatomicalEntity.html>`_
+- `AnatomicalEntityRelation <SANDS/anatomicalEntityRelation.html>`_
+- `Annotation <SANDS/annotation.html>`_
+- `AtlasTerminology <SANDS/atlasTerminology.html>`_
+- `BrainAtlas <SANDS/brainAtlas.html>`_
+- `BrainAtlasVersion <SANDS/brainAtlasVersion.html>`_
+- `CoordinatePoint <SANDS/coordinatePoint.html>`_
+- `CoordinateSpace <SANDS/coordinateSpace.html>`_
+- `Electrode <SANDS/electrode.html>`_
+- `ElectrodeArray <SANDS/electrodeArray.html>`_
+- `ElectrodeContact <SANDS/electrodeContact.html>`_
+- `Image <SANDS/image.html>`_
 
 .. toctree::
 

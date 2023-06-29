@@ -2,9 +2,8 @@
 ProtocolExecution
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/ProtocolExecution
-***************************************************
+---------------------------------------------------
 
 Structured information on a protocol execution.
 

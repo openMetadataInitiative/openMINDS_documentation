@@ -2,9 +2,8 @@
 OperatingDevice
 ###############
 
-************************************************************
 https://openminds.ebrains.eu/controlledTerms/OperatingDevice
-************************************************************
+------------------------------------------------------------
 
 Structured information on the operating device.
 

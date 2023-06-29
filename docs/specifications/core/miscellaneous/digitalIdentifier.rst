@@ -2,9 +2,8 @@
 DigitalIdentifier
 #################
 
-***************************************************
 https://openminds.ebrains.eu/core/DigitalIdentifier
-***************************************************
+---------------------------------------------------
 
 Structured information on a digital identifier.
 

@@ -2,9 +2,8 @@
 AnatomicalEntity
 ################
 
-***************************************************
 https://openminds.ebrains.eu/sands/AnatomicalEntity
-***************************************************
+---------------------------------------------------
 
 Structured information on an anatomical entity.
 

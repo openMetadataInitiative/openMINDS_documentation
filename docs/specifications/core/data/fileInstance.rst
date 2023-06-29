@@ -2,9 +2,8 @@
 FileInstance
 ############
 
-**********************************************
 https://openminds.ebrains.eu/core/FileInstance
-**********************************************
+----------------------------------------------
 
 Structured information on a file instances.
 

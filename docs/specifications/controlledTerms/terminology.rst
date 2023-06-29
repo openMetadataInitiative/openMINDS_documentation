@@ -2,9 +2,8 @@
 StudyTargetType
 ###############
 
-************************************************************
 https://openminds.ebrains.eu/controlledTerms/StudyTargetType
-************************************************************
+------------------------------------------------------------
 
 Structured information on the general type of the study target.
 

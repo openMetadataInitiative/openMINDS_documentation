@@ -2,9 +2,8 @@
 Dataset
 #######
 
-*****************************************
 https://openminds.ebrains.eu/core/Dataset
-*****************************************
+-----------------------------------------
 
 Structured information on data originating from human/animal studies or simulations (concept level).
 

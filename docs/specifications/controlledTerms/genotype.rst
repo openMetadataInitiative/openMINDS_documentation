@@ -2,9 +2,8 @@
 Genotype
 ########
 
-*****************************************************
 https://openminds.ebrains.eu/controlledTerms/Genotype
-*****************************************************
+-----------------------------------------------------
 
 Structured information on the genotype of a subject.
 
