@@ -33,7 +33,7 @@ class SchemaLoader(object):
 class GitPusher(object):
 
     def __init__(self):
-        self.upload_dir = "/tmp/upload"
+        self.upload_dir = "upload"
         self._repo = Repo(self.upload_dir)
 
     def upload(self, version):
