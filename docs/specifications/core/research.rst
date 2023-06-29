@@ -2,6 +2,24 @@
 Research
 ########
 
+- `behavioralProtocol.rst <research/behavioralProtocol.rst.html>`_
+- `configuration.rst <research/configuration.rst.html>`_
+- `customPropertySet.rst <research/customPropertySet.rst.html>`_
+- `numericalProperty.rst <research/numericalProperty.rst.html>`_
+- `propertyValueList.rst <research/propertyValueList.rst.html>`_
+- `protocol.rst <research/protocol.rst.html>`_
+- `protocolExecution.rst <research/protocolExecution.rst.html>`_
+- `strain.rst <research/strain.rst.html>`_
+- `stringProperty.rst <research/stringProperty.rst.html>`_
+- `subject.rst <research/subject.rst.html>`_
+- `subjectGroup.rst <research/subjectGroup.rst.html>`_
+- `subjectGroupState.rst <research/subjectGroupState.rst.html>`_
+- `subjectState.rst <research/subjectState.rst.html>`_
+- `tissueSample.rst <research/tissueSample.rst.html>`_
+- `tissueSampleCollection.rst <research/tissueSampleCollection.rst.html>`_
+- `tissueSampleCollectionState.rst <research/tissueSampleCollectionState.rst.html>`_
+- `tissueSampleState.rst <research/tissueSampleState.rst.html>`_
+
 .. toctree::
 
    research/behavioralProtocol.rst
