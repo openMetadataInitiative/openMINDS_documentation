@@ -23,37 +23,39 @@ Declaration of a person being closely associated to an organization.
 
 .. admonition:: specifications
 
-   :Semantic name: https://openminds.ebrains.eu/vocab/affiliation
-   :Value type: | embedded object array of type
+   :semantic name: https://openminds.ebrains.eu/vocab/affiliation
+   :value type: | embedded object array \(1-N\) of type
                 | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
-   :Value instructions: Enter all current and, if desired, past affiliations of this person.
+   :instructions: Enter all current and, if desired, past affiliations of this person.
 
+`BACK TO TOP <Person_>`_
 
 ------------
 
 alternateName
 -------------
 
-.. admonition:: Another name by which a someone or something may be known. 
+.. admonition:: specifications
 
-   :Semantic name: https://openminds.ebrains.eu/vocab/alternateName
-   :Value type: string array
-   :Instructions: Enter any other known full name of this person.
+   :semantic name: https://openminds.ebrains.eu/vocab/alternateName
+   :value type: string array \(1-N\)
+   :instructions: Enter any other known full name of this person.
 
+`BACK TO TOP <Person_>`_
 
 ------------
 
 associatedAccount
 -----------------
 
-:Semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
-:Value type: | linked object array of type
-             | `AccountInformation <https://openminds.ebrains.eu/core/AccountInformation>`_
+.. admonition:: specifications
 
-.. admonition:: instructions
+   :semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
+   :value type: | linked object array \(1-N\) of type
+                | `AccountInformation <https://openminds.ebrains.eu/core/AccountInformation>`_
+   :instructions: Add the information about web service accounts held by this person.
 
-   Add the information about web service accounts held by this person.
-
+`BACK TO TOP <Person_>`_
 
 ------------
 
@@ -62,14 +64,14 @@ contactInformation
 
 Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
 
-:Semantic name: https://openminds.ebrains.eu/vocab/contactInformation
-:Value type: | linked object of type
-             | `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
+.. admonition:: specifications
 
-.. admonition:: instructions
+   :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
+   :value type: | linked object of type
+                | `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
+   :instructions: Add the contact information of this person.
 
-   Add the contact information of this person.
-
+`BACK TO TOP <Person_>`_
 
 ------------
 
@@ -78,14 +80,14 @@ digitalIdentifier
 
 Digital handle to identify objects or legal persons.
 
-:Semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
-:Value type: | linked object array of type
-             | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
+.. admonition:: specifications
 
-.. admonition:: instructions
+   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :value type: | linked object array \(1-N\) of type
+                | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
+   :instructions: Add all globally unique and persistent digital identifier of this person.
 
-   Add all globally unique and persistent digital identifier of this person.
-
+`BACK TO TOP <Person_>`_
 
 ------------
 
@@ -94,13 +96,13 @@ familyName
 
 Name borne in common by members of a family.
 
-:Semantic name: https://openminds.ebrains.eu/vocab/familyName
-:Value type: string
+.. admonition:: specifications
 
-.. admonition:: instructions
+   :semantic name: https://openminds.ebrains.eu/vocab/familyName
+   :value type: string
+   :instructions: Enter the family name of this person.
 
-   Enter the family name of this person.
-
+`BACK TO TOP <Person_>`_
 
 ------------
 
@@ -109,12 +111,12 @@ givenName
 
 Name given to a person, including all potential middle names, but excluding the family name.
 
-:Semantic name: https://openminds.ebrains.eu/vocab/givenName
-:Value type: string
+.. admonition:: specifications
 
-.. admonition:: instructions
+   :semantic name: https://openminds.ebrains.eu/vocab/givenName
+   :value type: string
+   :instructions: Enter the given name of this person.
 
-   Enter the given name of this person.
-
+`BACK TO TOP <Person_>`_
 
 ------------
