@@ -25,7 +25,7 @@ class SchemaDocBuilder(object):
             schema_name = self._schema_payload["name"]
             doc.heading(schema_name, char="#", overline=True)
             doc.newline()
-            doc.heading(self._schema_payload["_type"], char="*", overline=True)
+            doc.heading(self._schema_payload["_type"], char="-")
             doc.newline()
             if "description" in self._schema_payload and self._schema_payload["description"]:
                 doc.content(self._schema_payload["description"])
