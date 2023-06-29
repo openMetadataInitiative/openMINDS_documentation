@@ -4,15 +4,15 @@ Sands
 
 .. toctree::
 
-   SANDS/coordinatePoint.rst
-   SANDS/electrodeArray.rst
-   SANDS/brainAtlas.rst
-   SANDS/anatomicalEntityRelation.rst
    SANDS/anatomicalEntity.rst
-   SANDS/electrodeContact.rst
-   SANDS/coordinateSpace.rst
-   SANDS/electrode.rst
-   SANDS/brainAtlasVersion.rst
-   SANDS/image.rst
+   SANDS/anatomicalEntityRelation.rst
    SANDS/annotation.rst
    SANDS/atlasTerminology.rst
+   SANDS/brainAtlas.rst
+   SANDS/brainAtlasVersion.rst
+   SANDS/coordinatePoint.rst
+   SANDS/coordinateSpace.rst
+   SANDS/electrode.rst
+   SANDS/electrodeArray.rst
+   SANDS/electrodeContact.rst
+   SANDS/image.rst

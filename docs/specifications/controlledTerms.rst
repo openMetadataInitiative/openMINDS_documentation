@@ -4,41 +4,41 @@ Controlledterms
 
 .. toctree::
 
-   controlledTerms/unitOfMeasurement.rst
-   controlledTerms/modelAbstractionLevel.rst
-   controlledTerms/language.rst
-   controlledTerms/operatingSystem.rst
-   controlledTerms/fileBundleGrouping.rst
-   controlledTerms/tissueSampleType.rst
-   controlledTerms/strain.rst
-   controlledTerms/genotype.rst
-   controlledTerms/organ.rst
-   controlledTerms/terminology.rst
-   controlledTerms/qualitativeOverlap.rst
-   controlledTerms/phenotype.rst
-   controlledTerms/operatingDevice.rst
-   controlledTerms/softwareFeature.rst
-   controlledTerms/technique.rst
-   controlledTerms/softwareFeatureCategory.rst
+   controlledTerms/ageCategory.rst
+   controlledTerms/anatomicalAxesOrientation.rst
+   controlledTerms/behavioralTask.rst
    controlledTerms/biologicalSex.rst
    controlledTerms/cellType.rst
-   controlledTerms/ethicsAssessment.rst
-   controlledTerms/diseaseModel.rst
-   controlledTerms/fileUsageRole.rst
-   controlledTerms/preparationType.rst
-   controlledTerms/modality.rst
-   controlledTerms/modelScope.rst
-   controlledTerms/laterality.rst
    controlledTerms/contributionType.rst
-   controlledTerms/behavioralTask.rst
-   controlledTerms/metaDataModelType.rst
-   controlledTerms/programmingLanguage.rst
-   controlledTerms/datasetType.rst
-   controlledTerms/softwareApplicationCategory.rst
-   controlledTerms/species.rst
-   controlledTerms/anatomicalAxesOrientation.rst
-   controlledTerms/productAccessibility.rst
-   controlledTerms/termSuggestion.rst
-   controlledTerms/disease.rst
-   controlledTerms/ageCategory.rst
    controlledTerms/criteriaQualityType.rst
+   controlledTerms/datasetType.rst
+   controlledTerms/disease.rst
+   controlledTerms/diseaseModel.rst
+   controlledTerms/ethicsAssessment.rst
+   controlledTerms/fileBundleGrouping.rst
+   controlledTerms/fileUsageRole.rst
+   controlledTerms/genotype.rst
+   controlledTerms/language.rst
+   controlledTerms/laterality.rst
+   controlledTerms/metaDataModelType.rst
+   controlledTerms/modality.rst
+   controlledTerms/modelAbstractionLevel.rst
+   controlledTerms/modelScope.rst
+   controlledTerms/operatingDevice.rst
+   controlledTerms/operatingSystem.rst
+   controlledTerms/organ.rst
+   controlledTerms/phenotype.rst
+   controlledTerms/preparationType.rst
+   controlledTerms/productAccessibility.rst
+   controlledTerms/programmingLanguage.rst
+   controlledTerms/qualitativeOverlap.rst
+   controlledTerms/softwareApplicationCategory.rst
+   controlledTerms/softwareFeature.rst
+   controlledTerms/softwareFeatureCategory.rst
+   controlledTerms/species.rst
+   controlledTerms/strain.rst
+   controlledTerms/technique.rst
+   controlledTerms/terminology.rst
+   controlledTerms/termSuggestion.rst
+   controlledTerms/tissueSampleType.rst
+   controlledTerms/unitOfMeasurement.rst

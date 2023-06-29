@@ -4,14 +4,14 @@ Research
 
 .. toctree::
 
-   research/tissueSample.rst
-   research/tissueSampleState.rst
+   research/parameterSetting.rst
+   research/protocol.rst
+   research/protocolExecution.rst
    research/subject.rst
    research/subjectGroup.rst
-   research/tissueSampleCollectionState.rst
    research/subjectGroupState.rst
-   research/protocol.rst
-   research/parameterSetting.rst
-   research/protocolExecution.rst
    research/subjectState.rst
+   research/tissueSample.rst
    research/tissueSampleCollection.rst
+   research/tissueSampleCollectionState.rst
+   research/tissueSampleState.rst
