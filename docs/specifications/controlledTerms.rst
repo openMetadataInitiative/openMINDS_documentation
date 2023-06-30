@@ -1,5 +1,5 @@
 ###############
-Controlledterms
+ControlledTerms
 ###############
 
 - `AgeCategory <controlledTerms/ageCategory.html>`_

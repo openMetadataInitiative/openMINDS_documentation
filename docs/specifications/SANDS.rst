@@ -1,5 +1,5 @@
 #####
-Sands
+SANDS
 #####
 
 - `AnatomicalEntity <SANDS/anatomicalEntity.html>`_
