@@ -31,7 +31,7 @@ Level to which something is accessible to someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/accessibility
    :value type: | linked object of type
-                | `ProductAccessibility <https://openminds.ebrains.eu/controlledTerms/ProductAccessibility>`_
+                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/productAccessibility.html>`_
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -49,7 +49,7 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyright
    :value type: | embedded object of type
-                | `Copyright <https://openminds.ebrains.eu/core/Copyright>`_
+                | `Copyright <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/copyright.html>`_
    :instructions: Add the copyright information of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -67,7 +67,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -103,7 +103,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: If necessary, add one or several developers (person or organization) that contributed to the code implementation of this model version. Note that these developers will overwrite the once provided in the model product this version belongs to.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -121,7 +121,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_ or `SWHID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/SWHID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -139,7 +139,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/contentType.html>`_
    :instructions: Add the used content type of this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -157,7 +157,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the DOI, file or URL that points to a full documentation of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -193,7 +193,7 @@ Money provided by a legal person for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funding
    :value type: | linked object array \(1-N\) of type
-                | `Funding <https://openminds.ebrains.eu/core/Funding>`_
+                | `Funding <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/funding.html>`_
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -211,7 +211,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -247,7 +247,7 @@ Data that is put into a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add the data that was used as input for this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -265,7 +265,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_
+                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/modelVersion.html>`_
    :instructions: Add all model versions that can be used alternatively to this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -283,7 +283,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_
+                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/modelVersion.html>`_
    :instructions: Add the model version preceding this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -319,7 +319,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object array \(1-N\) of type
-                | `License <https://openminds.ebrains.eu/core/License>`_
+                | `License <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/license.html>`_
    :instructions: Add at least one license for this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -337,7 +337,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | embedded object array \(1-N\) of type
-                | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/contribution.html>`_
    :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -355,7 +355,7 @@ Data that comes out of, is delivered or produced by a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/outputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add the data that was generated as output of this model version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -373,7 +373,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_ or `ISBN <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/ISBN.html>`_
    :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_
@@ -409,7 +409,7 @@ Place, room, or container where something is deposited or stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/repository
    :value type: | linked object of type
-                | `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileRepository.html>`_
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <ModelVersion_>`_

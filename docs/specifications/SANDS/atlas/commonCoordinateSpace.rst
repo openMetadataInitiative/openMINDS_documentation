@@ -29,7 +29,7 @@ Relation between reference planes used in anatomy and mathematics.
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalAxesOrientation
    :value type: | linked object of type
-                | `AnatomicalAxesOrientation <https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation>`_
+                | `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/anatomicalAxesOrientation.html>`_
    :instructions: Add the axes orientation denoted in standard anatomical terms of direction (stated as XYZ) for this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -47,7 +47,7 @@ Special point in a coordinate system used as a fixed point of reference for the 
 
    :semantic name: https://openminds.ebrains.eu/vocab/axesOrigin
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the origin of this common coordinate space (central point where axes intersect; 2D: [x, y] or 3D:[x, y, z]).
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -65,7 +65,7 @@ Two or three dimensional image that particluarly represents a specific coordinat
 
    :semantic name: https://openminds.ebrains.eu/vocab/defaultImage
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add one or several image files used as visual representation of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -83,7 +83,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -119,7 +119,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -155,7 +155,7 @@ Determinate quantity used in the original measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/nativeUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the native unit that is used for this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_

@@ -27,7 +27,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | linked object of type
-                | `CustomAnnotation <https://openminds.ebrains.eu/sands/CustomAnnotation>`_
+                | `CustomAnnotation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/non-atlas/customAnnotation.html>`_
    :instructions: Add the custom annotation which this custom anatomical entity defines.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -61,7 +61,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add one or several relations of this custom anatomical entity to parcellation entities used in defined parcellation terminologies.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_

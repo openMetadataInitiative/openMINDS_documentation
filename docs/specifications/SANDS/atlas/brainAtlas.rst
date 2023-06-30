@@ -49,7 +49,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -85,7 +85,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add one or several brain atlas versions that belong to this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -103,7 +103,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_

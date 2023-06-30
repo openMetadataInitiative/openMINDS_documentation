@@ -29,7 +29,7 @@ Reference to an existing terminology (distinct class to group related terms).
 
    :semantic name: https://openminds.ebrains.eu/vocab/addExistingTerminology
    :value type: | linked object of type
-                | `Terminology <https://openminds.ebrains.eu/controlledTerms/Terminology>`_
+                | `Terminology <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/terminology.html>`_
    :instructions: Add an existing terminology in which the suggested term should be integrated in.
 
 `BACK TO TOP <TermSuggestion_>`_

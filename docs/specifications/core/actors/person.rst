@@ -31,7 +31,7 @@ Declaration of a person being closely associated to an organization.
 
    :semantic name: https://openminds.ebrains.eu/vocab/affiliation
    :value type: | embedded object array \(1-N\) of type
-                | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
+                | `Affiliation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/affiliation.html>`_
    :instructions: Add the current and, if necessary, past affiliations of this person
 
 `BACK TO TOP <Person_>`_
@@ -49,7 +49,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds.ebrains.eu/core/ContactInformation>`_
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this person.
 
 `BACK TO TOP <Person_>`_
@@ -67,7 +67,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `ORCID <https://openminds.ebrains.eu/core/ORCID>`_
+                | `ORCID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/ORCID.html>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this person.
 
 `BACK TO TOP <Person_>`_

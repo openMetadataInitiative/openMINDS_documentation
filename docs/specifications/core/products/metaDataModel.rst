@@ -29,7 +29,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <MetaDataModel_>`_
@@ -65,7 +65,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several developers (person or organization) that contributed to the code implementation of this software.
 
 `BACK TO TOP <MetaDataModel_>`_
@@ -83,7 +83,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_ or `SWHID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/SWHID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <MetaDataModel_>`_
@@ -119,7 +119,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_
+                | `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/metaDataModelVersion.html>`_
    :instructions: Add one or several versions of this (meta)data model.
 
 `BACK TO TOP <MetaDataModel_>`_
@@ -137,7 +137,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this research product.
 
 `BACK TO TOP <MetaDataModel_>`_

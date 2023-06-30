@@ -65,7 +65,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement of this quantitative value range.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

@@ -31,7 +31,7 @@ Pair or triplet of numbers defining the position in a particular two- or three d
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinatePoint
    :value type: | embedded object of type
-                | `CoordinatePoint <https://openminds.ebrains.eu/sands/CoordinatePoint>`_
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Add the central coordinate of this electrode contact.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -49,7 +49,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add one or several files in which the coordinate point and internal identifier of this electrode contact is defined in.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -101,7 +101,7 @@ Reference to the written, stored evidence of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedRecording
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add one or several files in which the recordings from this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -119,7 +119,7 @@ Reference to the written, stored function used as a physiological stimulus.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedStimulation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add one or several files in which the stimulations applied via this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -137,7 +137,7 @@ Reference to an image in which something is visible.
 
    :semantic name: https://openminds.ebrains.eu/vocab/visualizedIn
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add one or several image files in which the electrode contact is visualized in.
 
 `BACK TO TOP <ElectrodeContact_>`_

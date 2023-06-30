@@ -31,7 +31,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_
+                | `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
    :instructions: Add the common coordinate space in which this brain atlas version exists in.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -49,7 +49,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -83,7 +83,7 @@ hasTerminology
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasTerminology
    :value type: | linked object of type
-                | `parcellationTerminology <https://openminds.ebrains.eu/sands/parcellationTerminology>`_
+                | parcellationTerminology \[TYPE_ERROR\]
    :instructions: Add the parcellation terminology for this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -101,7 +101,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -137,7 +137,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add one or several alternative versions to this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -155,7 +155,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add the earlier version of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_

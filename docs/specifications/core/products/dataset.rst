@@ -31,7 +31,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several authors (person or organization) that contributed to the production and publication of this dataset.
 
 `BACK TO TOP <Dataset_>`_
@@ -49,7 +49,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <Dataset_>`_
@@ -85,7 +85,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Dataset_>`_
@@ -121,7 +121,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add one or several versions of this dataset.
 
 `BACK TO TOP <Dataset_>`_
@@ -139,7 +139,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this research product.
 
 `BACK TO TOP <Dataset_>`_

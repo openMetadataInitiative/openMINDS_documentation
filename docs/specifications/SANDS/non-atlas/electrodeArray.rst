@@ -31,7 +31,7 @@ Elements in a semiconductor device that emits or collects electrons or holes or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/electrodes
    :value type: | linked object array \(2-N\) of type
-                | `Electrode <https://openminds.ebrains.eu/sands/Electrode>`_
+                | `Electrode <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/non-atlas/electrode.html>`_
    :instructions: Add two or more electrodes which build this array.
 
 `BACK TO TOP <ElectrodeArray_>`_

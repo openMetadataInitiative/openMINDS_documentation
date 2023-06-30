@@ -31,7 +31,7 @@ Specific set of defined activities (or their absence) that should be performed (
 
    :semantic name: https://openminds.ebrains.eu/vocab/behavioralTask
    :value type: | linked object array \(1-N\) of type
-                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/behavioralTask.html>`_
    :instructions: Add all behavioral tasks that were executed as part of this protocol.
 
 `BACK TO TOP <Protocol_>`_
@@ -83,7 +83,7 @@ studyOption
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyOption
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/biologicalSex.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/diseaseModel.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/handedness.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/organ.html>`_, `Phenotype <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/phenotype.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/species.html>`_, `Strain <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/strain.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/termSuggestion.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_ or `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all study options this protocol offers.
 
 `BACK TO TOP <Protocol_>`_
@@ -101,7 +101,7 @@ Method of accomplishing a desired aim.
 
    :semantic name: https://openminds.ebrains.eu/vocab/technique
    :value type: | linked object array \(1-N\) of type
-                | `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `Technique <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/technique.html>`_
    :instructions: Add all techniques that were used in this protocol.
 
 `BACK TO TOP <Protocol_>`_

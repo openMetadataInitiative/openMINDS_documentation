@@ -31,7 +31,7 @@ Legal person who organizes the collaborative work of people or groups.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinator
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several project coordinators (person or organization).
 
 `BACK TO TOP <Project_>`_
@@ -85,7 +85,7 @@ Reference to subsidiary research products.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasResearchProducts
    :value type: | linked object array \(2-N\) of type
-                | `Dataset <https://openminds.ebrains.eu/core/Dataset>`_, `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_, `MetaDataModel <https://openminds.ebrains.eu/core/MetaDataModel>`_, `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_, `Model <https://openminds.ebrains.eu/core/Model>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `Software <https://openminds.ebrains.eu/core/Software>`_ or `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
+                | `Dataset <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/dataset.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/datasetVersion.html>`_, `MetaDataModel <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/metaDataModel.html>`_, `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/metaDataModelVersion.html>`_, `Model <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/model.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/modelVersion.html>`_, `Software <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/software.html>`_ or `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/softwareVersion.html>`_
    :instructions: Add all research products or research product versions that are part of this project.
 
 `BACK TO TOP <Project_>`_
@@ -103,7 +103,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this project.
 
 `BACK TO TOP <Project_>`_

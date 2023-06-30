@@ -85,7 +85,7 @@ Legal person that provides money for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funder
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add the organization that provided this funding.
 
 `BACK TO TOP <Funding_>`_

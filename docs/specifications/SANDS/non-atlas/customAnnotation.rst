@@ -29,7 +29,7 @@ Coordinate point from which you get the best view of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/bestViewPoint
    :value type: | embedded object of type
-                | `CoordinatePoint <https://openminds.ebrains.eu/sands/CoordinatePoint>`_
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Add the coordinate point identifying the best view of this custom annotation in space.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -47,7 +47,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpace <https://openminds.ebrains.eu/sands/CommonCoordinateSpace>`_ or `CustomCoordinateSpace <https://openminds.ebrains.eu/sands/CustomCoordinateSpace>`_
+                | `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/commonCoordinateSpace.html>`_ or `CustomCoordinateSpace <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/non-atlas/customCoordinateSpace.html>`_
    :instructions: Add the coordinate space in which this custom annotation exists.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -65,7 +65,7 @@ Aspects or standards on which a judgement or decision is based.
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds.ebrains.eu/core/ProtocolExecution>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to produce this custom annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -83,7 +83,7 @@ Distinct class that defines how the judgement or decision was made for a particu
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
    :value type: | linked object of type
-                | `CriteriaQualityType <https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType>`_
+                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/criteriaQualityType.html>`_
    :instructions: Add the quality type of the stated criteria used to define this custom annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -119,7 +119,7 @@ Reference to an inspiring element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inspiredBy
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add one or several (source) files that inspired the definition of this custom annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -155,7 +155,7 @@ Differentiation between a pair of lateral homologous parts of the body.
 
    :semantic name: https://openminds.ebrains.eu/vocab/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this custom annotation is defined in.
 
 `BACK TO TOP <CustomAnnotation_>`_
@@ -207,7 +207,7 @@ Reference to an image in which something is visible.
 
    :semantic name: https://openminds.ebrains.eu/vocab/visualizedIn
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add the (source) image file in which this custom annotation is visualized in.
 
 `BACK TO TOP <CustomAnnotation_>`_

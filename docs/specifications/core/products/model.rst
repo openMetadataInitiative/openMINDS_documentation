@@ -31,7 +31,7 @@ Extent of simplification of physical, spatial, or temporal details or attributes
 
    :semantic name: https://openminds.ebrains.eu/vocab/abstractionLevel
    :value type: | linked object of type
-                | `ModelAbstractionLevel <https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel>`_
+                | `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/modelAbstractionLevel.html>`_
    :instructions: Add the abstraction level of this model version.
 
 `BACK TO TOP <Model_>`_
@@ -49,7 +49,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <Model_>`_
@@ -85,7 +85,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several developers (person or organization) that contributed to the code implementation of this model.
 
 `BACK TO TOP <Model_>`_
@@ -103,7 +103,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `SWHID <https://openminds.ebrains.eu/core/SWHID>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_ or `SWHID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/SWHID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Model_>`_
@@ -139,7 +139,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_
+                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/modelVersion.html>`_
    :instructions: Add one or several versions of this computational model.
 
 `BACK TO TOP <Model_>`_
@@ -157,7 +157,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this research product.
 
 `BACK TO TOP <Model_>`_
@@ -193,7 +193,7 @@ Extent of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/scope
    :value type: | linked object of type
-                | `ModelScope <https://openminds.ebrains.eu/controlledTerms/ModelScope>`_
+                | `ModelScope <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/modelScope.html>`_
    :instructions: Add the scope of this model version.
 
 `BACK TO TOP <Model_>`_
@@ -229,7 +229,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_ or `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/biologicalSex.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/diseaseModel.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/handedness.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/organ.html>`_, `Phenotype <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/phenotype.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/species.html>`_, `Strain <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/strain.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/termSuggestion.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_ or `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <Model_>`_

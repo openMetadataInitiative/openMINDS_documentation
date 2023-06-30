@@ -31,7 +31,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_ or `RORID <https://openminds.ebrains.eu/core/RORID>`_
+                | `GRIDID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/GRIDID.html>`_ or `RORID <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/RORID.html>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -67,7 +67,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_
    :instructions: Add a parent organization to this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -85,7 +85,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this organization.
 
 `BACK TO TOP <Organization_>`_

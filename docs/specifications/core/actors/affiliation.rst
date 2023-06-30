@@ -49,7 +49,7 @@ Legally accountable, administrative and functional structure.
 
    :semantic name: https://openminds.ebrains.eu/vocab/organization
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_
    :instructions: Add organization to which a person is or was affiliated.
 
 `BACK TO TOP <Affiliation_>`_

@@ -29,7 +29,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_
    :instructions: Add one or several files in which this parcellation terminology is stored in.
 
 `BACK TO TOP <ParcellationTerminology_>`_
@@ -65,7 +65,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add one or several alternative versions to this parcellation terminology.
 
 `BACK TO TOP <ParcellationTerminology_>`_
@@ -83,7 +83,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add the earlier version of this parcellation terminology.
 
 `BACK TO TOP <ParcellationTerminology_>`_

@@ -27,7 +27,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | linked object of type
-                | `AtlasAnnotation <https://openminds.ebrains.eu/sands/AtlasAnnotation>`_
+                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/atlasAnnotation.html>`_
    :instructions: Add the atlas annotation which this parcellation entity defines.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -45,7 +45,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object of type
-                | `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add for this parcellation entity the defined anatomical parent structure.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -63,7 +63,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationTerminology <https://openminds.ebrains.eu/sands/ParcellationTerminology>`_
+                | `ParcellationTerminology <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/atlas/parcellationTerminology.html>`_
    :instructions: Add one or several parcellation terminologies to which this parcellation entity belongs.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -115,7 +115,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
+                | `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/UBERONParcellation.html>`_
    :instructions: Add the related UBERON parcellation term.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -131,7 +131,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add one or several relations of this parcellation entity to parcellation entities of other parcellation terminologies.
 
 `BACK TO TOP <ParcellationEntity_>`_

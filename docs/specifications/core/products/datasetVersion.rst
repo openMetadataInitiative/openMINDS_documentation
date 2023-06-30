@@ -31,7 +31,7 @@ Level to which something is accessible to someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/accessibility
    :value type: | linked object of type
-                | `ProductAccessibility <https://openminds.ebrains.eu/controlledTerms/ProductAccessibility>`_
+                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/productAccessibility.html>`_
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -49,7 +49,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: If necessary, add one or several authors (person or organization) that contributed to the production and publication of this dataset version. Note that these authors will overwrite the once provided in the dataset product this version belongs to.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -67,7 +67,7 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyright
    :value type: | embedded object of type
-                | `Copyright <https://openminds.ebrains.eu/core/Copyright>`_
+                | `Copyright <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/copyright.html>`_
    :instructions: Add the copyright information of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -85,7 +85,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -121,7 +121,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -139,7 +139,7 @@ Judgment about the applied principles of conduct governing an individual or a gr
 
    :semantic name: https://openminds.ebrains.eu/vocab/ethicsAssessment
    :value type: | linked object of type
-                | `EthicsAssessment <https://openminds.ebrains.eu/controlledTerms/EthicsAssessment>`_
+                | `EthicsAssessment <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/ethicsAssessment.html>`_
    :instructions: Add the result of the ethics assessment of this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -155,7 +155,7 @@ experimentalApproach
 
    :semantic name: https://openminds.ebrains.eu/vocab/experimentalApproach
    :value type: | linked object array \(1-N\) of type
-                | `ExperimentalApproach <https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach>`_
+                | `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/experimentalApproach.html>`_
    :instructions: Add all experimental approaches which this dataset version has deployed.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -173,7 +173,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the DOI, file or URL that points to a full documentation of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -209,7 +209,7 @@ Money provided by a legal person for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funding
    :value type: | linked object array \(1-N\) of type
-                | `Funding <https://openminds.ebrains.eu/core/Funding>`_
+                | `Funding <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/funding.html>`_
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -227,7 +227,7 @@ Main website of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
    :value type: | linked object of type
-                | `URL <https://openminds.ebrains.eu/core/URL>`_
+                | `URL <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/URL.html>`_
    :instructions: Add the uniform resource locator (URL) to the homepage of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -263,7 +263,7 @@ Data that is put into a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add the data that was used as input for this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -281,7 +281,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add all dataset versions that can be used alternatively to this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -299,7 +299,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add the dataset version preceding this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -335,7 +335,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object of type
-                | `License <https://openminds.ebrains.eu/core/License>`_
+                | `License <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/license.html>`_
    :instructions: Add the license for this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -353,7 +353,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | embedded object array \(1-N\) of type
-                | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/actors/contribution.html>`_
    :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -371,7 +371,7 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
    :semantic name: https://openminds.ebrains.eu/vocab/protocol
    :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds.ebrains.eu/core/Protocol>`_
+                | `Protocol <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/protocol.html>`_
    :instructions: Add one or several protocols that were used in this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -389,7 +389,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `ISBN <https://openminds.ebrains.eu/core/ISBN>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/DOI.html>`_ or `ISBN <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/ISBN.html>`_
    :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -425,7 +425,7 @@ Place, room, or container where something is deposited or stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/repository
    :value type: | linked object of type
-                | `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/data/fileRepository.html>`_
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -459,7 +459,7 @@ studiedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedSpecimen
    :value type: | linked object array \(1-N\) of type
-                | `Subject <https://openminds.ebrains.eu/core/Subject>`_, `SubjectGroup <https://openminds.ebrains.eu/core/SubjectGroup>`_, `TissueSample <https://openminds.ebrains.eu/core/TissueSample>`_ or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
+                | `Subject <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/subject.html>`_, `SubjectGroup <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/subjectGroup.html>`_, `TissueSample <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/tissueSample.html>`_ or `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/research/tissueSampleCollection.html>`_
    :instructions: Add one or several specimen (subjects and/or tissue samples) or specimen sets (subject groups and/or tissue sample collections) that were studied in this dataset.
 
 `BACK TO TOP <DatasetVersion_>`_
@@ -495,7 +495,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `SemanticDataType <https://openminds.ebrains.eu/controlledTerms/SemanticDataType>`_
+                | `SemanticDataType <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/controlledTerms/semanticDataType.html>`_
    :instructions: Add all data types (raw, derived or simulated) provided in this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_

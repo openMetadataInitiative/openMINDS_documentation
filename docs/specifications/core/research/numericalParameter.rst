@@ -47,7 +47,7 @@ Entry for a property.
 
    :semantic name: https://openminds.ebrains.eu/vocab/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v2.0/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Add at least one quantitative value for this parameter.
 
 `BACK TO TOP <NumericalParameter_>`_
