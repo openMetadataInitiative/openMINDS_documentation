@@ -31,7 +31,7 @@ Declaration of a person being closely associated to an organization.
 
    :semantic name: https://openminds.ebrains.eu/vocab/affiliation
    :value type: | embedded object array \(1-N\) of type
-                | `Affiliation <https://openminds.ebrains.eu/core/Affiliation>`_
+                | `Affiliation <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_
    :instructions: Enter all current and, if necessary, past affiliations of this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -49,7 +49,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GRIDID <https://openminds.ebrains.eu/core/GRIDID>`_, `RORID <https://openminds.ebrains.eu/core/RORID>`_ or `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `GRIDID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/GRIDID.html>`_, `RORID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RORID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add all globally unique and persistent digital identifier of this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -85,7 +85,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_
    :instructions: Add all parent organizations of this organization.
 
 `BACK TO TOP <Organization_>`_

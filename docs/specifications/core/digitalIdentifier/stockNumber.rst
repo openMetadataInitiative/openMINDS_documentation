@@ -45,7 +45,7 @@ vendor
 
    :semantic name: https://openminds.ebrains.eu/vocab/vendor
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_
    :instructions: Add the vendor that has the item with this identifier in stock.
 
 `BACK TO TOP <StockNumber_>`_

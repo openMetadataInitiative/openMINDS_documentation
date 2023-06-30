@@ -47,7 +47,7 @@ Level to which something is accessible to someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/accessibility
    :value type: | linked object of type
-                | `ProductAccessibility <https://openminds.ebrains.eu/controlledTerms/ProductAccessibility>`_
+                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -65,7 +65,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add all parties that contributed to this brain atlas version as authors. Note that these authors will overwrite the author list provided for the overarching brain atlas.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -83,7 +83,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion>`_
+                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add the specific common coordinate space in which this brain atlas version exists.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -101,7 +101,7 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyright
    :value type: | embedded object of type
-                | `Copyright <https://openminds.ebrains.eu/core/Copyright>`_
+                | `Copyright <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/copyright.html>`_
    :instructions: Enter the copyright information of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -119,7 +119,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the data, metadata, and/or code of the research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -155,7 +155,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `ISBN <https://openminds.ebrains.eu/core/ISBN>`_ or `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -173,7 +173,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource <https://openminds.ebrains.eu/core/WebResource>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -209,7 +209,7 @@ Money provided by a legal person for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funding
    :value type: | linked object array \(1-N\) of type
-                | `Funding <https://openminds.ebrains.eu/core/Funding>`_
+                | `Funding <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/funding.html>`_
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -225,7 +225,7 @@ hasTerminology
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasTerminology
    :value type: | embedded object of type
-                | `ParcellationTerminologyVersion <https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion>`_
+                | `ParcellationTerminologyVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationTerminologyVersion.html>`_
    :instructions: Enter the specific parcellation terminology of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -279,7 +279,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add all brain atlas versions that can be used alternatively to this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -297,7 +297,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add the brain atlas version preceding this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -315,7 +315,7 @@ Significant word or concept that are representative of something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/keyword
    :value type: | linked object array \(1-N\) of type
-                | `ActionStatusType <https://openminds.ebrains.eu/controlledTerms/ActionStatusType>`_, `AgeCategory <https://openminds.ebrains.eu/controlledTerms/AgeCategory>`_, `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `AnatomicalAxesOrientation <https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation>`_, `AnatomicalIdentificationType <https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType>`_, `AnatomicalPlane <https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane>`_, `AnnotationCriteriaType <https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType>`_, `AnnotationType <https://openminds.ebrains.eu/controlledTerms/AnnotationType>`_, `AtlasType <https://openminds.ebrains.eu/controlledTerms/AtlasType>`_, `AuditoryStimulusType <https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType>`_, `BiologicalOrder <https://openminds.ebrains.eu/controlledTerms/BiologicalOrder>`_, `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_, `BreedingType <https://openminds.ebrains.eu/controlledTerms/BreedingType>`_, `CellCultureType <https://openminds.ebrains.eu/controlledTerms/CellCultureType>`_, `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `ChemicalMixtureType <https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType>`_, `Colormap <https://openminds.ebrains.eu/controlledTerms/Colormap>`_, `ContributionType <https://openminds.ebrains.eu/controlledTerms/ContributionType>`_, `CranialWindowConstructionType <https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType>`_, `CranialWindowReinforcementType <https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType>`_, `CriteriaQualityType <https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType>`_, `DataType <https://openminds.ebrains.eu/controlledTerms/DataType>`_, `DeviceType <https://openminds.ebrains.eu/controlledTerms/DeviceType>`_, `DifferenceMeasure <https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure>`_, `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_, `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_, `EducationalLevel <https://openminds.ebrains.eu/controlledTerms/EducationalLevel>`_, `ElectricalStimulusType <https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType>`_, `EthicsAssessment <https://openminds.ebrains.eu/controlledTerms/EthicsAssessment>`_, `ExperimentalApproach <https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach>`_, `FileBundleGrouping <https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping>`_, `FileRepositoryType <https://openminds.ebrains.eu/controlledTerms/FileRepositoryType>`_, `FileUsageRole <https://openminds.ebrains.eu/controlledTerms/FileUsageRole>`_, `GeneticStrainType <https://openminds.ebrains.eu/controlledTerms/GeneticStrainType>`_, `GustatoryStimulusType <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_, `Language <https://openminds.ebrains.eu/controlledTerms/Language>`_, `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_, `LearningResourceType <https://openminds.ebrains.eu/controlledTerms/LearningResourceType>`_, `MeasuredQuantity <https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity>`_, `MetaDataModelType <https://openminds.ebrains.eu/controlledTerms/MetaDataModelType>`_, `ModelAbstractionLevel <https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel>`_, `ModelScope <https://openminds.ebrains.eu/controlledTerms/ModelScope>`_, `MolecularEntity <https://openminds.ebrains.eu/controlledTerms/MolecularEntity>`_, `OlfactoryStimulusType <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OperatingDevice <https://openminds.ebrains.eu/controlledTerms/OperatingDevice>`_, `OperatingSystem <https://openminds.ebrains.eu/controlledTerms/OperatingSystem>`_, `OpticalStimulusType <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `OrganismSystem <https://openminds.ebrains.eu/controlledTerms/OrganismSystem>`_, `PatchClampVariation <https://openminds.ebrains.eu/controlledTerms/PatchClampVariation>`_, `PreparationType <https://openminds.ebrains.eu/controlledTerms/PreparationType>`_, `ProductAccessibility <https://openminds.ebrains.eu/controlledTerms/ProductAccessibility>`_, `ProgrammingLanguage <https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage>`_, `QualitativeOverlap <https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap>`_, `SemanticDataType <https://openminds.ebrains.eu/controlledTerms/SemanticDataType>`_, `Service <https://openminds.ebrains.eu/controlledTerms/Service>`_, `SetupType <https://openminds.ebrains.eu/controlledTerms/SetupType>`_, `SoftwareApplicationCategory <https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory>`_, `SoftwareFeature <https://openminds.ebrains.eu/controlledTerms/SoftwareFeature>`_, `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_, `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_, `SubcellularEntity <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `SubjectAttribute <https://openminds.ebrains.eu/controlledTerms/SubjectAttribute>`_, `TactileStimulusType <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_, `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerms/TermSuggestion>`_, `Terminology <https://openminds.ebrains.eu/controlledTerms/Terminology>`_, `TissueSampleAttribute <https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute>`_, `TissueSampleType <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_, `TypeOfUncertainty <https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty>`_, `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `UnitOfMeasurement <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_ or `VisualStimulusType <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
+                | `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/actionStatusType.html>`_, `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ageCategory.html>`_, `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/analysisTechnique.html>`_, `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalAxesOrientation.html>`_, `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalIdentificationType.html>`_, `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalPlane.html>`_, `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_, `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationType.html>`_, `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/atlasType.html>`_, `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_, `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_, `Colormap <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/colormap.html>`_, `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/contributionType.html>`_, `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowConstructionType.html>`_, `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowReinforcementType.html>`_, `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/criteriaQualityType.html>`_, `DataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/dataType.html>`_, `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/deviceType.html>`_, `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/differenceMeasure.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_, `EducationalLevel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/educationalLevel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_, `EthicsAssessment <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ethicsAssessment.html>`_, `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/experimentalApproach.html>`_, `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_, `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileRepositoryType.html>`_, `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileUsageRole.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_, `Language <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/language.html>`_, `Laterality <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`_, `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/learningResourceType.html>`_, `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/measuredQuantity.html>`_, `MetaDataModelType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/metaDataModelType.html>`_, `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelAbstractionLevel.html>`_, `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelScope.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_, `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingDevice.html>`_, `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingSystem.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSystem.html>`_, `PatchClampVariation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/patchClampVariation.html>`_, `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/preparationType.html>`_, `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_, `ProgrammingLanguage <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/programmingLanguage.html>`_, `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/qualitativeOverlap.html>`_, `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/semanticDataType.html>`_, `Service <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/service.html>`_, `SetupType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/setupType.html>`_, `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`_, `SoftwareFeature <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareFeature.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationTechnique.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subcellularEntity.html>`_, `SubjectAttribute <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subjectAttribute.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_, `Technique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/technique.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/termSuggestion.html>`_, `Terminology <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/terminology.html>`_, `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleAttribute.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleType.html>`_, `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/typeOfUncertainty.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_, `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/unitOfMeasurement.html>`_ or `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -333,7 +333,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object of type
-                | `License <https://openminds.ebrains.eu/core/License>`_
+                | `License <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/license.html>`_
    :instructions: Add the license of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -385,7 +385,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | embedded object array \(1-N\) of type
-                | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contribution.html>`_
    :instructions: Add any other contributions to this research product version that are not covered under 'author'/'developer' or 'custodian'.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -403,7 +403,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `HANDLE <https://openminds.ebrains.eu/core/HANDLE>`_, `ISBN <https://openminds.ebrains.eu/core/ISBN>`_, `ISSN <https://openminds.ebrains.eu/core/ISSN>`_, `Book <https://openminds.ebrains.eu/publications/Book>`_, `Chapter <https://openminds.ebrains.eu/publications/Chapter>`_ or `ScholarlyArticle <https://openminds.ebrains.eu/publications/ScholarlyArticle>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_, `HANDLE <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/HANDLE.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ISBN.html>`_, `ISSN <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ISSN.html>`_, `Book <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/book.html>`_, `Chapter <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/chapter.html>`_ or `ScholarlyArticle <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/scholarlyArticle.html>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product version (e.g., an original research article that used or produced the data of this research product version).
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -439,7 +439,7 @@ Place, room, or container where something is deposited or stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/repository
    :value type: | linked object of type
-                | `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileRepository.html>`_
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -493,7 +493,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `AtlasType <https://openminds.ebrains.eu/controlledTerms/AtlasType>`_
+                | `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/atlasType.html>`_
    :instructions: Add the type of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -509,7 +509,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object array \(1-N\) of type
-                | `Subject <https://openminds.ebrains.eu/core/Subject>`_, `SubjectGroup <https://openminds.ebrains.eu/core/SubjectGroup>`_, `TissueSample <https://openminds.ebrains.eu/core/TissueSample>`_ or `TissueSampleCollection <https://openminds.ebrains.eu/core/TissueSampleCollection>`_
+                | `Subject <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subject.html>`_, `SubjectGroup <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectGroup.html>`_, `TissueSample <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSample.html>`_ or `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleCollection.html>`_
    :instructions: Add the specimen that was used for the creation of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_

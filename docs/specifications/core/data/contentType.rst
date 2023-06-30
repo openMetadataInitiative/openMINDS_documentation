@@ -29,7 +29,7 @@ dataType
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds.ebrains.eu/controlledTerms/DataType>`_
+                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that may be represented via this content type.
 
 `BACK TO TOP <ContentType_>`_

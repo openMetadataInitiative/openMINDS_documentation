@@ -45,7 +45,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all anatomical entities that describe the anatomical location of this tissue sample collection.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -63,7 +63,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of all specimen in this set.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -99,7 +99,7 @@ Differentiation between a pair of lateral homologous parts of the body.
 
    :semantic name: https://openminds.ebrains.eu/vocab/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this tissue sample collection originates from.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -148,7 +148,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.ebrains.eu/vocab/origin
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_ or `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSubstance.html>`_
    :instructions: Add the biogical origin of all tissue samples in this collection.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -166,7 +166,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object array \(1-N\) of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_ or `Strain <https://openminds.ebrains.eu/core/Strain>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/strain.html>`_
    :instructions: Add the species and/or strain (a sub-type of a genetic variant of species) of all specimen in this set.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -184,7 +184,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleCollectionState <https://openminds.ebrains.eu/core/TissueSampleCollectionState>`_
+                | `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleCollectionState.html>`_
    :instructions: Add all states in which this tissue sample collection was studied.
 
 `BACK TO TOP <TissueSampleCollection_>`_
@@ -202,7 +202,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleType <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_
+                | `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleType.html>`_
    :instructions: Add the type of all tissue samples in this collection.
 
 `BACK TO TOP <TissueSampleCollection_>`_

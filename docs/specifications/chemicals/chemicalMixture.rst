@@ -47,7 +47,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | embedded object array \(2-N\) of type
-                | `AmountOfChemical <https://openminds.ebrains.eu/chemicals/AmountOfChemical>`_
+                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/amountOfChemical.html>`_
    :instructions: Enter all components, including other mixtures, that are part of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -81,7 +81,7 @@ productSource
 
    :semantic name: https://openminds.ebrains.eu/vocab/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds.ebrains.eu/chemicals/ProductSource>`_
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -99,7 +99,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `ChemicalMixtureType <https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType>`_
+                | `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_
    :instructions: Add the type of this mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_

@@ -31,7 +31,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this product.
 
 `BACK TO TOP <ProductSource_>`_
@@ -81,7 +81,7 @@ provider
 
    :semantic name: https://openminds.ebrains.eu/vocab/provider
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add the party (private, commercial or industrial) that provided this product.
 
 `BACK TO TOP <ProductSource_>`_
@@ -97,7 +97,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the purity of the product as stated by the 'provider'.
 
 `BACK TO TOP <ProductSource_>`_

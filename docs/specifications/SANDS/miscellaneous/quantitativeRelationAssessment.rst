@@ -29,7 +29,7 @@ Aspects or standards on which a judgement or decision is based.
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds.ebrains.eu/core/ProtocolExecution>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to determine this relation.
 
 `BACK TO TOP <QuantitativeRelationAssessment_>`_
@@ -47,7 +47,7 @@ Reference to a related element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inRelationTo
    :value type: | linked object of type
-                | `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the parcellation entity version to which the relation is described.
 
 `BACK TO TOP <QuantitativeRelationAssessment_>`_
@@ -65,7 +65,7 @@ Numerical characterization of how much two things occupy the same space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/quantitativeOverlap
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the quantitative overlap between the two anatomical entities, preferably expressed in percentage.
 
 `BACK TO TOP <QuantitativeRelationAssessment_>`_

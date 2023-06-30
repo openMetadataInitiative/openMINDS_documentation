@@ -27,7 +27,7 @@ anchorPoint
 
    :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional space as [x, y, z]).
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -45,7 +45,7 @@ Aspects or standards on which a judgement or decision is based.
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds.ebrains.eu/core/ProtocolExecution>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to produce this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -63,7 +63,7 @@ Distinct class that defines how the judgement or decision was made for a particu
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
    :value type: | linked object of type
-                | `CriteriaQualityType <https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType>`_
+                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/criteriaQualityType.html>`_
    :instructions: Add the quality type of the stated criteria used to define this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -79,7 +79,7 @@ criteriaType
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteriaType
    :value type: | linked object of type
-                | `AnnotationCriteriaType <https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType>`_
+                | `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_
    :instructions: Add the criteria type for this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -97,7 +97,7 @@ Reference to an inspiring element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inspiredBy
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_
    :instructions: Add all (source) files that inspired the definition of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -133,7 +133,7 @@ Differentiation between a pair of lateral homologous parts of the body.
 
    :semantic name: https://openminds.ebrains.eu/vocab/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this annotation is defined in.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -149,7 +149,7 @@ preferredVisualization
 
    :semantic name: https://openminds.ebrains.eu/vocab/preferredVisualization
    :value type: | embedded object of type
-                | `ViewerSpecification <https://openminds.ebrains.eu/sands/ViewerSpecification>`_
+                | `ViewerSpecification <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/viewerSpecification.html>`_
    :instructions: Add the preferred viewer specification to visualize this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -167,7 +167,7 @@ Detailed and precise presentation of, or proposal for something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_
    :instructions: Add the non-parametric specification of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -185,7 +185,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `AnnotationType <https://openminds.ebrains.eu/controlledTerms/AnnotationType>`_
+                | `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationType.html>`_
    :instructions: Add the geometry type of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_

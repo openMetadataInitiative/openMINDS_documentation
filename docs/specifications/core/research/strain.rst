@@ -43,7 +43,7 @@ backgroundStrain
 
    :semantic name: https://openminds.ebrains.eu/vocab/backgroundStrain
    :value type: | linked object array \(1-2\) of type
-                | `Strain <https://openminds.ebrains.eu/core/Strain>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/strain.html>`_
    :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two strains contributed equally, state both.
 
 `BACK TO TOP <Strain_>`_
@@ -59,7 +59,7 @@ breedingType
 
    :semantic name: https://openminds.ebrains.eu/vocab/breedingType
    :value type: | linked object of type
-                | `BreedingType <https://openminds.ebrains.eu/controlledTerms/BreedingType>`_
+                | `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_
    :instructions: Add the breeding type for this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -95,7 +95,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the 'Research Resource Identifier' (RRID) of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -111,7 +111,7 @@ diseaseModel
 
    :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 
 `BACK TO TOP <Strain_>`_
@@ -127,7 +127,7 @@ geneticStrainType
 
    :semantic name: https://openminds.ebrains.eu/vocab/geneticStrainType
    :value type: | linked object of type
-                | `GeneticStrainType <https://openminds.ebrains.eu/controlledTerms/GeneticStrainType>`_
+                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_
    :instructions: Add the genetic background type of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -215,7 +215,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_
    :instructions: Add the species of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -231,7 +231,7 @@ stockNumber
 
    :semantic name: https://openminds.ebrains.eu/vocab/stockNumber
    :value type: | embedded object of type
-                | `StockNumber <https://openminds.ebrains.eu/core/StockNumber>`_
+                | `StockNumber <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/stockNumber.html>`_
    :instructions: Add the stock number from the vendor the strain was supplied from/is in stock at.
 
 `BACK TO TOP <Strain_>`_

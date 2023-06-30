@@ -29,7 +29,7 @@ configuration
 
    :semantic name: https://openminds.ebrains.eu/vocab/configuration
    :value type: | linked object of type
-                | `Configuration <https://openminds.ebrains.eu/core/Configuration>`_ or `File <https://openminds.ebrains.eu/core/File>`_
+                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/configuration.html>`_ or `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_
    :instructions: Add the configuration information for this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_
@@ -45,7 +45,7 @@ recipe
 
    :semantic name: https://openminds.ebrains.eu/vocab/recipe
    :value type: | linked object of type
-                | `WorkflowRecipeVersion <https://openminds.ebrains.eu/computation/WorkflowRecipeVersion>`_
+                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/workflowRecipeVersion.html>`_
    :instructions: Add the workflow recipe version used for this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_
@@ -61,7 +61,7 @@ stage
 
    :semantic name: https://openminds.ebrains.eu/vocab/stage
    :value type: | linked object array \(1-N\) of type
-                | `DataAnalysis <https://openminds.ebrains.eu/computation/DataAnalysis>`_, `DataCopy <https://openminds.ebrains.eu/computation/DataCopy>`_, `GenericComputation <https://openminds.ebrains.eu/computation/GenericComputation>`_, `ModelValidation <https://openminds.ebrains.eu/computation/ModelValidation>`_, `Optimization <https://openminds.ebrains.eu/computation/Optimization>`_, `Simulation <https://openminds.ebrains.eu/computation/Simulation>`_ or `Visualization <https://openminds.ebrains.eu/computation/Visualization>`_
+                | `DataAnalysis <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/dataAnalysis.html>`_, `DataCopy <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/dataCopy.html>`_, `GenericComputation <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/genericComputation.html>`_, `ModelValidation <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/modelValidation.html>`_, `Optimization <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/optimization.html>`_, `Simulation <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/simulation.html>`_ or `Visualization <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/visualization.html>`_
    :instructions: Add all stages that were performed in this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_
@@ -77,7 +77,7 @@ startedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/startedBy
    :value type: | linked object of type
-                | `SoftwareAgent <https://openminds.ebrains.eu/computation/SoftwareAgent>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add the agent that started this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_

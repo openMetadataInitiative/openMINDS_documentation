@@ -27,7 +27,7 @@ radius
 
    :semantic name: https://openminds.ebrains.eu/vocab/radius
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the radius of this circle.
 
 `BACK TO TOP <Circle_>`_

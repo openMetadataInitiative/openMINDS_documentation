@@ -27,7 +27,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
    :value type: | linked object of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_, `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_, `OrganismSubstance <https://openminds.ebrains.eu/controlledTerms/OrganismSubstance>`_, `SubcellularEntity <https://openminds.ebrains.eu/controlledTerms/SubcellularEntity>`_, `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_, `CustomAnatomicalEntity <https://openminds.ebrains.eu/sands/CustomAnatomicalEntity>`_, `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the electrode contact.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -43,7 +43,7 @@ contactResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the contact resistance of this electrode during its use.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -61,7 +61,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `Electrode <https://openminds.ebrains.eu/ephys/Electrode>`_
+                | `Electrode <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrode.html>`_
    :instructions: Add the electrode used.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -93,7 +93,7 @@ metadataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds.ebrains.eu/core/File>`_ or `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileBundle.html>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -109,7 +109,7 @@ spatialLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/spatialLocation
    :value type: | embedded object of type
-                | `CoordinatePoint <https://openminds.ebrains.eu/sands/CoordinatePoint>`_
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Add the coordinate point that best describes the spatial location of the electrode contact during its use.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -125,7 +125,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds.ebrains.eu/core/SubjectState>`_ or `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <ElectrodeUsage_>`_

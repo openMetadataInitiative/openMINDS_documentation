@@ -31,7 +31,7 @@ Legal person that gave or supplied something as a part or share.
 
    :semantic name: https://openminds.ebrains.eu/vocab/contributor
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add all types of contribution made by the stated 'contributor'.
 
 `BACK TO TOP <Contribution_>`_
@@ -49,7 +49,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `ContributionType <https://openminds.ebrains.eu/controlledTerms/ContributionType>`_
+                | `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/contributionType.html>`_
    :instructions: Add the party that performed the contribution.
 
 `BACK TO TOP <Contribution_>`_

@@ -29,7 +29,7 @@ configuration
 
    :semantic name: https://openminds.ebrains.eu/vocab/configuration
    :value type: | linked object of type
-                | `Configuration <https://openminds.ebrains.eu/core/Configuration>`_
+                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/configuration.html>`_
    :instructions: Add the configuration of this computational environment.
 
 `BACK TO TOP <Environment_>`_
@@ -63,7 +63,7 @@ hardware
 
    :semantic name: https://openminds.ebrains.eu/vocab/hardware
    :value type: | linked object of type
-                | `HardwareSystem <https://openminds.ebrains.eu/computation/HardwareSystem>`_
+                | `HardwareSystem <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/hardwareSystem.html>`_
    :instructions: Add the hardware system on which this computational environment runs.
 
 `BACK TO TOP <Environment_>`_
@@ -97,7 +97,7 @@ software
 
    :semantic name: https://openminds.ebrains.eu/vocab/software
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds.ebrains.eu/core/SoftwareVersion>`_
+                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/softwareVersion.html>`_
    :instructions: Add all software versions available in this computational environment.
 
 `BACK TO TOP <Environment_>`_

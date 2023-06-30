@@ -27,7 +27,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | `CustomAnnotation <https://openminds.ebrains.eu/sands/CustomAnnotation>`_
+                | `CustomAnnotation <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/non-atlas/customAnnotation.html>`_
    :instructions: Add all custom annotations which define this custom anatomical entity.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -61,7 +61,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
+                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -77,7 +77,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds.ebrains.eu/sands/QualitativeRelationAssessment>`_ or `QuantitativeRelationAssessment <https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment>`_
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add all relations (qualitative or quantitative) of this custom anatomical entity to other anatomical entities.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_

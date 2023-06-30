@@ -45,7 +45,7 @@ propertyValuePair
 
    :semantic name: https://openminds.ebrains.eu/vocab/propertyValuePair
    :value type: | embedded object array \(1-N\) of type
-                | `NumericalProperty <https://openminds.ebrains.eu/core/NumericalProperty>`_ or `StringProperty <https://openminds.ebrains.eu/core/StringProperty>`_
+                | `NumericalProperty <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/numericalProperty.html>`_ or `StringProperty <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/stringProperty.html>`_
    :instructions: Enter all numerical and string property-value pairs that belong to this property-value list.
 
 `BACK TO TOP <PropertyValueList_>`_

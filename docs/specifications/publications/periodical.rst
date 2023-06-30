@@ -45,7 +45,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `ISSN <https://openminds.ebrains.eu/core/ISSN>`_
+                | `ISSN <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ISSN.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this periodical.
 
 `BACK TO TOP <Periodical_>`_

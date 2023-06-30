@@ -45,7 +45,7 @@ deviceType
 
    :semantic name: https://openminds.ebrains.eu/vocab/deviceType
    :value type: | linked object of type
-                | `DeviceType <https://openminds.ebrains.eu/controlledTerms/DeviceType>`_
+                | `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/deviceType.html>`_
    :instructions: Add the type of this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -63,7 +63,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_ or `RRID <https://openminds.ebrains.eu/core/RRID>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -95,7 +95,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -129,7 +129,7 @@ owner
 
    :semantic name: https://openminds.ebrains.eu/vocab/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_, `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <SlicingDevice_>`_

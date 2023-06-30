@@ -29,7 +29,7 @@ service
 
    :semantic name: https://openminds.ebrains.eu/vocab/service
    :value type: | linked object of type
-                | `WebService <https://openminds.ebrains.eu/core/WebService>`_
+                | `WebService <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/webService.html>`_
    :instructions: Add the web service of this account.
 
 `BACK TO TOP <AccountInformation_>`_

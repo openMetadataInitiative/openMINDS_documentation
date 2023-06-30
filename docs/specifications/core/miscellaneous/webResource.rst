@@ -63,7 +63,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/contentType.html>`_
    :instructions: Add the expected content type of the document at this web resource.
 
 `BACK TO TOP <WebResource_>`_

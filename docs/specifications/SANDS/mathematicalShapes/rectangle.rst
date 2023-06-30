@@ -27,7 +27,7 @@ length
 
    :semantic name: https://openminds.ebrains.eu/vocab/length
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the length of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_
@@ -43,7 +43,7 @@ width
 
    :semantic name: https://openminds.ebrains.eu/vocab/width
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the width of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_

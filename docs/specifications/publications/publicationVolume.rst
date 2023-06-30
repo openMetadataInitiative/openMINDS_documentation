@@ -29,7 +29,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `Periodical <https://openminds.ebrains.eu/publications/Periodical>`_
+                | `Periodical <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/periodical.html>`_
    :instructions: Add the periodical this publication volume is part of.
 
 `BACK TO TOP <PublicationVolume_>`_

@@ -47,7 +47,7 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.ebrains.eu/vocab/age
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the age of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -65,7 +65,7 @@ Distinct life cycle class that is defined by a similar age or age range (develop
 
    :semantic name: https://openminds.ebrains.eu/vocab/ageCategory
    :value type: | linked object array \(1-N\) of type
-                | `AgeCategory <https://openminds.ebrains.eu/controlledTerms/AgeCategory>`_
+                | `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ageCategory.html>`_
    :instructions: Add the age category of the subject in this state.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -81,7 +81,7 @@ attribute
 
    :semantic name: https://openminds.ebrains.eu/vocab/attribute
    :value type: | linked object array \(1-N\) of type
-                | `SubjectAttribute <https://openminds.ebrains.eu/controlledTerms/SubjectAttribute>`_
+                | `SubjectAttribute <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subjectAttribute.html>`_
    :instructions: Add all attributes that can be ascribed to this subject group state.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -97,7 +97,7 @@ descendedFrom
 
    :semantic name: https://openminds.ebrains.eu/vocab/descendedFrom
    :value type: | linked object of type
-                | `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_
+                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectGroupState.html>`_
    :instructions: Add the previous subject group state.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -115,7 +115,7 @@ Degree to which an organism prefers one hand or foot over the other hand or foot
 
    :semantic name: https://openminds.ebrains.eu/vocab/handedness
    :value type: | linked object array \(1-N\) of type
-                | `Handedness <https://openminds.ebrains.eu/controlledTerms/Handedness>`_
+                | `Handedness <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_
    :instructions: Add all preferred types of handedness of the subject group in this state.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -167,7 +167,7 @@ Structural and functional deviation from the normal that constitutes a disease o
 
    :semantic name: https://openminds.ebrains.eu/vocab/pathology
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds.ebrains.eu/controlledTerms/Disease>`_ or `DiseaseModel <https://openminds.ebrains.eu/controlledTerms/DiseaseModel>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that the specimen (set) in this state has and/or is a model for.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -183,7 +183,7 @@ relativeTimeIndication
 
    :semantic name: https://openminds.ebrains.eu/vocab/relativeTimeIndication
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: If there is a temporal relation between the states of a specimen (set), enter the relative time that has passed between this and the preceding specimen (set) state referenced under 'descendedFrom'.
 
 `BACK TO TOP <SubjectGroupState_>`_
@@ -201,7 +201,7 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.ebrains.eu/vocab/weight
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the weight of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectGroupState_>`_

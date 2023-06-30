@@ -27,7 +27,7 @@ groupingType
 
    :semantic name: https://openminds.ebrains.eu/vocab/groupingType
    :value type: | linked object array \(1-N\) of type
-                | `FileBundleGrouping <https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping>`_
+                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_
    :instructions: Add all grouping types that are defined by this file path pattern.
 
 `BACK TO TOP <FilePathPattern_>`_

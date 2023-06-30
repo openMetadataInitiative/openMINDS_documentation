@@ -27,7 +27,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_, `FileArchive <https://openminds.ebrains.eu/core/FileArchive>`_, `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_, `ModelVersion <https://openminds.ebrains.eu/core/ModelVersion>`_, `LivePaperResourceItem <https://openminds.ebrains.eu/publications/LivePaperResourceItem>`_ or `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_, `FileArchive <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileArchive.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileBundle.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/modelVersion.html>`_, `LivePaperResourceItem <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/livePaperResourceItem.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the location of the data that are linked to this specific service (e.g., stored as file (bundles) or registered as other entities such as atlas annotations).
 
 `BACK TO TOP <ServiceLink_>`_
@@ -75,7 +75,7 @@ previewImage
 
    :semantic name: https://openminds.ebrains.eu/vocab/previewImage
    :value type: | linked object of type
-                | `File <https://openminds.ebrains.eu/core/File>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_
    :instructions: Add an image file to this service link that acts as a preview of its content or could function as an icon.
 
 `BACK TO TOP <ServiceLink_>`_
@@ -91,7 +91,7 @@ service
 
    :semantic name: https://openminds.ebrains.eu/vocab/service
    :value type: | linked object of type
-                | `Service <https://openminds.ebrains.eu/controlledTerms/Service>`_
+                | `Service <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/service.html>`_
    :instructions: Add the service in which the specified data can be opened.
 
 `BACK TO TOP <ServiceLink_>`_

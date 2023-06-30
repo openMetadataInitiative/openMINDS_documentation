@@ -47,7 +47,7 @@ memberOf
 
    :semantic name: https://openminds.ebrains.eu/vocab/memberOf
    :value type: | linked object of type
-                | `Consortium <https://openminds.ebrains.eu/core/Consortium>`_ or `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_ or `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_
    :instructions: Add the organization or consortium another party was or still is a member of.
 
 `BACK TO TOP <Affiliation_>`_

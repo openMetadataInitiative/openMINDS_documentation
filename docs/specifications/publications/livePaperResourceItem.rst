@@ -47,7 +47,7 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_
    :instructions: Add the host organization of this live paper resource item.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
@@ -65,7 +65,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `LivePaperSection <https://openminds.ebrains.eu/publications/LivePaperSection>`_
+                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/livePaperSection.html>`_
    :instructions: Add the live paper section this live paper resource item is part of.
 
 `BACK TO TOP <LivePaperResourceItem_>`_

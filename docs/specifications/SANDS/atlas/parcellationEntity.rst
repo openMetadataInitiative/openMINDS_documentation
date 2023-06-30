@@ -79,7 +79,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds.ebrains.eu/sands/ParcellationEntity>`_
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corrsponding brain atlas.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -97,7 +97,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntityVersion <https://openminds.ebrains.eu/sands/ParcellationEntityVersion>`_
+                | `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all versions of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -165,7 +165,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_ or `UBERONParcellation <https://openminds.ebrains.eu/controlledTerms/UBERONParcellation>`_
+                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <ParcellationEntity_>`_

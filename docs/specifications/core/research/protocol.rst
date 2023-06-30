@@ -29,7 +29,7 @@ describedIn
 
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object of type
-                | `DOI <https://openminds.ebrains.eu/core/DOI>`_, `File <https://openminds.ebrains.eu/core/File>`_ or `WebResource <https://openminds.ebrains.eu/core/WebResource>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add a publication or file in which this behavioral protocol is (originally) described in detail.
 
 `BACK TO TOP <Protocol_>`_
@@ -81,7 +81,7 @@ stimulusType
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulusType
    :value type: | linked object array \(1-N\) of type
-                | `AuditoryStimulusType <https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType>`_, `ElectricalStimulusType <https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType>`_, `GustatoryStimulusType <https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType>`_, `OlfactoryStimulusType <https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType>`_, `OpticalStimulusType <https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType>`_, `TactileStimulusType <https://openminds.ebrains.eu/controlledTerms/TactileStimulusType>`_ or `VisualStimulusType <https://openminds.ebrains.eu/controlledTerms/VisualStimulusType>`_
+                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/opticalStimulusType.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_ or `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_
    :instructions: Add all stimulus types used with this protocol.
 
 `BACK TO TOP <Protocol_>`_
@@ -99,7 +99,7 @@ Method of accomplishing a desired aim.
 
    :semantic name: https://openminds.ebrains.eu/vocab/technique
    :value type: | linked object array \(1-N\) of type
-                | `AnalysisTechnique <https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique>`_, `StimulationApproach <https://openminds.ebrains.eu/controlledTerms/StimulationApproach>`_, `StimulationTechnique <https://openminds.ebrains.eu/controlledTerms/StimulationTechnique>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/analysisTechnique.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationTechnique.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/technique.html>`_
    :instructions: Add all techniques (including stimulation approaches and/or techniques) that were used in this protocol.
 
 `BACK TO TOP <Protocol_>`_
