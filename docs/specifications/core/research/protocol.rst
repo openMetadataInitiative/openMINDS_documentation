@@ -31,7 +31,7 @@ Specific set of defined activities (or their absence) that should be performed (
 
    :semantic name: https://openminds.ebrains.eu/vocab/behavioralTask
    :value type: | linked object array \(1-N\) of type
-                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/behavioralTask.html>`_
    :instructions: Add all behavioral tasks that were executed as part of this protocol.
 
 `BACK TO TOP <Protocol_>`_
@@ -85,7 +85,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerm/BiologicalSex>`_, `Disease <https://openminds.ebrains.eu/controlledTerm/Disease>`_, `Genotype <https://openminds.ebrains.eu/controlledTerm/Genotype>`_, `Phenotype <https://openminds.ebrains.eu/controlledTerm/Phenotype>`_, `Species <https://openminds.ebrains.eu/controlledTerm/Species>`_, `TermSuggestion <https://openminds.ebrains.eu/controlledTerm/TermSuggestion>`_ or `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/biologicalSex.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/disease.html>`_, `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/genotype.html>`_, `Phenotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/phenotype.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/species.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/termSuggestion.html>`_ or `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/anatomicalEntity.html>`_
    :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <Protocol_>`_
@@ -103,7 +103,7 @@ Method of accomplishing a desired aim.
 
    :semantic name: https://openminds.ebrains.eu/vocab/technique
    :value type: | linked object array \(1-N\) of type
-                | `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `Technique <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/technique.html>`_
    :instructions: Add all techniques that were used in this protocol.
 
 `BACK TO TOP <Protocol_>`_

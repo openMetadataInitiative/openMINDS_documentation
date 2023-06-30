@@ -31,7 +31,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this person.
 
 `BACK TO TOP <Person_>`_

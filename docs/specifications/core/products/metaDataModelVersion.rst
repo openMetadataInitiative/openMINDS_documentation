@@ -29,7 +29,7 @@ Level to which something is accessible to someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/accessibility
    :value type: | linked object of type
-                | `ProductAccessibility <https://openminds.ebrains.eu/controlledTerms/ProductAccessibility>`_
+                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/productAccessibility.html>`_
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -47,7 +47,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several authors (person or organization) that contributed to the production and publication of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -65,7 +65,7 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyright
    :value type: | embedded object of type
-                | `Copyright <https://openminds.ebrains.eu/core/Copyright>`_
+                | `Copyright <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/copyright.html>`_
    :instructions: Add the copyright information of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -83,7 +83,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several custodians (person or organization) that are responsible for this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -119,7 +119,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_ or `Person <https://openminds.ebrains.eu/core/Person>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/person.html>`_
    :instructions: Add one or several developers (person or organization) that contributed to the code implementation of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -137,7 +137,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -155,7 +155,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add the globally unique and persistent digital identifier of a full documentation of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -191,7 +191,7 @@ Money provided by a legal person for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funding
    :value type: | linked object array \(1-N\) of type
-                | `Funding <https://openminds.ebrains.eu/core/Funding>`_
+                | `Funding <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/funding.html>`_
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -207,7 +207,7 @@ hasAlternativeVersion
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAlternativeVersion
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add all (meta)data model versions that can be used alternatively to this (meta)data model version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -223,7 +223,7 @@ hasSupplementVersion
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasSupplementVersion
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add all (meta)data model versions that supplement this (meta)data model version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -259,7 +259,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `MetaDataModelVersion <https://openminds.ebrains.eu/core/MetaDataModelVersion>`_
+                | `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/products/metaDataModelVersion.html>`_
    :instructions: Add the dataset version preceding this (meta)data model version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -295,7 +295,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object of type
-                | `License <https://openminds.ebrains.eu/core/License>`_
+                | `License <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/license.html>`_
    :instructions: Add the license of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -313,7 +313,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | linked object array \(1-N\) of type
-                | `Contribution <https://openminds.ebrains.eu/core/Contribution>`_
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/contribution.html>`_
    :instructions: Add the contributions for each involved person or organization going beyond being an author, custodian or developer of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -331,7 +331,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add further publications besides the documentation (e.g. an original research article) providing the original context for the production of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -367,7 +367,7 @@ Place, room, or container where something is deposited or stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/repository
    :value type: | linked object of type
-                | `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileRepository.html>`_
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -385,7 +385,7 @@ Form in which a particular data structure or object state is translated to for s
 
    :semantic name: https://openminds.ebrains.eu/vocab/serializationFormat
    :value type: | linked object array \(1-N\) of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/contentType.html>`_
    :instructions: Add all content types in which (meta)data compliant with this (meta)data model version can be stored in.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -421,7 +421,7 @@ Form in which a particular data structure or object state is specified in.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specificationFormat
    :value type: | linked object array \(1-N\) of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/contentType.html>`_
    :instructions: Add all content types in which the schemas of this (meta)data model version are stored in.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -439,7 +439,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `MetaDataModelType <https://openminds.ebrains.eu/controlledTerms/MetaDataModelType>`_
+                | `MetaDataModelType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/metaDataModelType.html>`_
    :instructions: Add the type of this (meta)data model version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_

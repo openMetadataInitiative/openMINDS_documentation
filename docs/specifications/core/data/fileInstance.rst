@@ -67,7 +67,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file instance.
 
 `BACK TO TOP <FileInstance_>`_
@@ -85,7 +85,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | linked object of type
-                | `Hash <https://openminds.ebrains.eu/core/Hash>`_
+                | `Hash <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file instance.
 
 `BACK TO TOP <FileInstance_>`_
@@ -103,7 +103,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_
+                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add one or several file bundles in which this file instance can be grouped in.
 
 `BACK TO TOP <FileInstance_>`_
@@ -139,7 +139,7 @@ Particular function of something when it is used.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specialUsageRole
    :value type: | linked object of type
-                | `fileUsageRole <https://openminds.ebrains.eu/controlledTerms/fileUsageRole>`_
+                | fileUsageRole \[TYPE_ERROR\]
    :instructions: Add a special usage role for this file instance.
 
 `BACK TO TOP <FileInstance_>`_
@@ -157,7 +157,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size this file instance allocates.
 
 `BACK TO TOP <FileInstance_>`_

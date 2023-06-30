@@ -29,7 +29,7 @@ Physical component of a body, organ, or tissue.
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalEntity
    :value type: | linked object array \(1-N\) of type
-                | `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/anatomicalEntity.html>`_
    :instructions: Add all anatomical entities that belong to this atlas terminology.
 
 `BACK TO TOP <AtlasTerminology_>`_
@@ -47,7 +47,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object array \(1-N\) of type
-                | `FileInstance <https://openminds.ebrains.eu/core/FileInstance>`_
+                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileInstance.html>`_
    :instructions: Add one or several files in which this atlas terminology is stored in.
 
 `BACK TO TOP <AtlasTerminology_>`_

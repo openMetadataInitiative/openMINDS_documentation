@@ -31,7 +31,7 @@ Aspects or standards on which a judgement or decision is based.
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds.ebrains.eu/core/ProtocolExecution>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to determine this relation.
 
 `BACK TO TOP <AnatomicalEntityRelation_>`_
@@ -49,7 +49,7 @@ Distinct class that defines how the judgement or decision was made for a particu
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
    :value type: | linked object of type
-                | `CriteriaQualityType <https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType>`_
+                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/criteriaQualityType.html>`_
    :instructions: Add the quality type of the stated criteria used to determine this relation.
 
 `BACK TO TOP <AnatomicalEntityRelation_>`_
@@ -67,7 +67,7 @@ Reference to a related element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inRelationTo
    :value type: | linked object of type
-                | `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/anatomicalEntity.html>`_
    :instructions: Add the anatomical entity to which the relation is described.
 
 `BACK TO TOP <AnatomicalEntityRelation_>`_
@@ -85,7 +85,7 @@ Semantic characterization of how much two things occupy the same space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/qualitativeOverlap
    :value type: | linked object of type
-                | `QualitativeOverlap <https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap>`_
+                | `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/qualitativeOverlap.html>`_
    :instructions: Add the qualitative overlap that best describes the relation between the two anatomical entities.
 
 `BACK TO TOP <AnatomicalEntityRelation_>`_
@@ -103,7 +103,7 @@ Numerical characterization of how much two things occupy the same space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/quantitativeOverlap
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_ or `QuantitativeValueRange <https://openminds.ebrains.eu/core/QuantitativeValueRange>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Add the quantitative overlap between the two anatomical entities preferably expressed in percentage.
 
 `BACK TO TOP <AnatomicalEntityRelation_>`_

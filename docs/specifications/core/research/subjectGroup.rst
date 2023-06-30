@@ -29,7 +29,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -47,7 +47,7 @@ Genetic constitution of an individual or group.
 
    :semantic name: https://openminds.ebrains.eu/vocab/genotype
    :value type: | linked object array \(1-N\) of type
-                | `Genotype <https://openminds.ebrains.eu/controlledTerms/Genotype>`_
+                | `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/genotype.html>`_
    :instructions: Add the genotype of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -83,7 +83,7 @@ Physical expression of one or more genes of an organism.
 
    :semantic name: https://openminds.ebrains.eu/vocab/phenotype
    :value type: | linked object array \(1-N\) of type
-                | `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_
+                | `Phenotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/phenotype.html>`_
    :instructions: Add the phenotype of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -118,7 +118,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object array \(1-N\) of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/species.html>`_
    :instructions: Add the species of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -136,7 +136,7 @@ Group of presumed common ancestry with physiological but usually not morphologic
 
    :semantic name: https://openminds.ebrains.eu/vocab/strain
    :value type: | linked object array \(1-N\) of type
-                | `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/strain.html>`_
    :instructions: Add the strain of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -154,7 +154,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds.ebrains.eu/core/SubjectGroupState>`_
+                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/research/subjectGroupState.html>`_
    :instructions: Add all states in which this subject group was studied.
 
 `BACK TO TOP <SubjectGroup_>`_

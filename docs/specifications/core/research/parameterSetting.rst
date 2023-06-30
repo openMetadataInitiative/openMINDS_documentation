@@ -67,7 +67,7 @@ Reference to what or whom something or someone bears siginificance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `BehavioralTask <https://openminds.ebrains.eu/controlledTerms/BehavioralTask>`_ or `Technique <https://openminds.ebrains.eu/controlledTerms/Technique>`_
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/behavioralTask.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/technique.html>`_
    :instructions: Add the technique or behavioral task where this parameter setting is used in.
 
 `BACK TO TOP <ParameterSetting_>`_
@@ -85,7 +85,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement used for the value of this parameter setting.
 
 `BACK TO TOP <ParameterSetting_>`_

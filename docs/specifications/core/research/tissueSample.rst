@@ -31,7 +31,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
    :value type: | linked object of type
-                | `BiologicalSex <https://openminds.ebrains.eu/controlledTerms/BiologicalSex>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -49,7 +49,7 @@ Genetic constitution of an individual or group.
 
    :semantic name: https://openminds.ebrains.eu/vocab/genotype
    :value type: | linked object of type
-                | `Genotype <https://openminds.ebrains.eu/controlledTerms/Genotype>`_
+                | `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/genotype.html>`_
    :instructions: Add the genotype of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -85,7 +85,7 @@ Differentiation between a pair of lateral homologous parts of the body.
 
    :semantic name: https://openminds.ebrains.eu/vocab/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds.ebrains.eu/controlledTerms/Laterality>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both hemisphere sides from which this tissue sample originates from.
 
 `BACK TO TOP <TissueSample_>`_
@@ -103,7 +103,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.ebrains.eu/vocab/origin
    :value type: | linked object of type
-                | `CellType <https://openminds.ebrains.eu/controlledTerms/CellType>`_ or `Organ <https://openminds.ebrains.eu/controlledTerms/Organ>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/cellType.html>`_ or `Organ <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/organ.html>`_
    :instructions: Add the biogical origin (organ or cell type) of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_
@@ -121,7 +121,7 @@ Physical expression of one or more genes of an organism.
 
    :semantic name: https://openminds.ebrains.eu/vocab/phenotype
    :value type: | linked object of type
-                | `Phenotype <https://openminds.ebrains.eu/controlledTerms/Phenotype>`_
+                | `Phenotype <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/phenotype.html>`_
    :instructions: Add the phenotype of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -139,7 +139,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object of type
-                | `Species <https://openminds.ebrains.eu/controlledTerms/Species>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/species.html>`_
    :instructions: Add the species of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -157,7 +157,7 @@ Group of presumed common ancestry with physiological but usually not morphologic
 
    :semantic name: https://openminds.ebrains.eu/vocab/strain
    :value type: | linked object of type
-                | `Strain <https://openminds.ebrains.eu/controlledTerms/Strain>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/strain.html>`_
    :instructions: Add the strain of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -175,7 +175,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds.ebrains.eu/core/TissueSampleState>`_
+                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/research/tissueSampleState.html>`_
    :instructions: Add all states in which this tissue sample was studied.
 
 `BACK TO TOP <TissueSample_>`_
@@ -193,7 +193,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `TissueSampleType <https://openminds.ebrains.eu/controlledTerms/TissueSampleType>`_
+                | `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/tissueSampleType.html>`_
    :instructions: Add the type of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_

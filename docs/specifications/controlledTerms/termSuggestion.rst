@@ -101,7 +101,7 @@ Nomenclature for a particular field of study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/terminology
    :value type: | linked object of type
-                | `Terminology <https://openminds.ebrains.eu/controlledTerms/Terminology>`_
+                | `Terminology <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/terminology.html>`_
    :instructions: Add the terminology in which the suggested term should be integrated in.
 
 `BACK TO TOP <TermSuggestion_>`_

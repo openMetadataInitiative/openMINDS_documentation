@@ -31,7 +31,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object of type
-                | `AnatomicalEntity <https://openminds.ebrains.eu/sands/AnatomicalEntity>`_
+                | `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/anatomicalEntity.html>`_
    :instructions: Add another anatomical entity representing the anatomical parent structure of this anatomical entity.
 
 `BACK TO TOP <AnatomicalEntity_>`_
@@ -85,7 +85,7 @@ Reference to a related anatomical structure.
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherAnatomicalRelation
    :value type: | linked object array \(1-N\) of type
-                | `AnatomicalEntityRelation <https://openminds.ebrains.eu/sands/AnatomicalEntityRelation>`_
+                | `AnatomicalEntityRelation <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/anatomicalEntityRelation.html>`_
    :instructions: Add one or several relations of this anatomical entity to other anatomical entities that are used elsewhere to describe (roughly) the same anatomical location.
 
 `BACK TO TOP <AnatomicalEntity_>`_

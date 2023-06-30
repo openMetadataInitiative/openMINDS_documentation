@@ -31,7 +31,7 @@ Greatest quantity attained or allowed.
 
    :semantic name: https://openminds.ebrains.eu/vocab/maxValue
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Add the maximum quantitative value of this range.
 
 `BACK TO TOP <QuantitativeValueRange_>`_
@@ -49,7 +49,7 @@ Smallest quantity attained or allowed.
 
    :semantic name: https://openminds.ebrains.eu/vocab/minValue
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Add the minimum quantitative value of this range.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

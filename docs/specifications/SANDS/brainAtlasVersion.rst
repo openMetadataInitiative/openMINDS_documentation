@@ -31,7 +31,7 @@ Collection of notes or markings, each added by way of comment or explanation.
 
    :semantic name: https://openminds.ebrains.eu/vocab/annotationSet
    :value type: | linked object array \(1-N\) of type
-                | `Annotation <https://openminds.ebrains.eu/sands/Annotation>`_
+                | `Annotation <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/annotation.html>`_
    :instructions: Add all annotations that belong to this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -49,7 +49,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CoordinateSpace <https://openminds.ebrains.eu/sands/CoordinateSpace>`_
+                | `CoordinateSpace <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/coordinateSpace.html>`_
    :instructions: Add the coordinate space in which this brain atlas version exists in.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -67,7 +67,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -101,7 +101,7 @@ hasAlternativeVersion
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAlternativeVersion
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/brainAtlasVersion.html>`_
    :instructions: Add one or several alternative versions to this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -137,7 +137,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/brainAtlasVersion.html>`_
    :instructions: Add the earlier version of this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_
@@ -209,7 +209,7 @@ Nomenclature for a particular field of study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/terminology
    :value type: | linked object of type
-                | `AtlasTerminology <https://openminds.ebrains.eu/sands/AtlasTerminology>`_
+                | `AtlasTerminology <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/atlasTerminology.html>`_
    :instructions: Add the terminology used for this brain atlas version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_

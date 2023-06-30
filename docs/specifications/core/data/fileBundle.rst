@@ -49,7 +49,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file bundle.
 
 `BACK TO TOP <FileBundle_>`_
@@ -67,7 +67,7 @@ Reference to the aspect used to group something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/groupedBy
    :value type: | linked object of type
-                | `FileBundleGrouping <https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping>`_
+                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/controlledTerms/fileBundleGrouping.html>`_
    :instructions: Add the concept which was used to group file instances into this file bundle.
 
 `BACK TO TOP <FileBundle_>`_
@@ -85,7 +85,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | linked object of type
-                | `Hash <https://openminds.ebrains.eu/core/Hash>`_
+                | `Hash <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file bundle.
 
 `BACK TO TOP <FileBundle_>`_
@@ -103,7 +103,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `FileBundle <https://openminds.ebrains.eu/core/FileBundle>`_ or `FileRepository <https://openminds.ebrains.eu/core/FileRepository>`_
+                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileBundle.html>`_ or `FileRepository <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileRepository.html>`_
    :instructions: Add the file bundle or file repository this file bundle is a part of.
 
 `BACK TO TOP <FileBundle_>`_
@@ -139,7 +139,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size this file bundle allocates.
 
 `BACK TO TOP <FileBundle_>`_

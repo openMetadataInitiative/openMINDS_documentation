@@ -31,7 +31,7 @@ Not shielded part of a conductor that is used to establish electrical contact wi
 
    :semantic name: https://openminds.ebrains.eu/vocab/electrodeContact
    :value type: | linked object array \(1-N\) of type
-                | `ElectrodeContact <https://openminds.ebrains.eu/sands/ElectrodeContact>`_
+                | `ElectrodeContact <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/electrodeContact.html>`_
    :instructions: Add one or several electrical contacts of this electrode.
 
 `BACK TO TOP <Electrode_>`_

@@ -67,7 +67,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds.ebrains.eu/sands/BrainAtlasVersion>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/brainAtlasVersion.html>`_
    :instructions: Add one or several brain atlas versions that belong to this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_

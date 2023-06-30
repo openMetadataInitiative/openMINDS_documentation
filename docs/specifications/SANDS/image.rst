@@ -31,7 +31,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CoordinateSpace <https://openminds.ebrains.eu/sands/CoordinateSpace>`_
+                | `CoordinateSpace <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/SANDS/coordinateSpace.html>`_
    :instructions: Add the coordinate space this image exists in.
 
 `BACK TO TOP <Image_>`_
@@ -49,7 +49,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object of type
-                | `FileInstance <https://openminds.ebrains.eu/core/FileInstance>`_
+                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/fileInstance.html>`_
    :instructions: Add the file in which this image is stored in.
 
 `BACK TO TOP <Image_>`_
@@ -67,7 +67,7 @@ Extent of the discrete elements comprising a three-dimensional entity.
 
    :semantic name: https://openminds.ebrains.eu/vocab/voxelSize
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Add two or three values with units defined that describe the size of one pixel (2D: [x, y]) or voxel (3D: [x, y, z]) in the physical space.
 
 `BACK TO TOP <Image_>`_

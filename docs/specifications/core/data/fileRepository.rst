@@ -49,7 +49,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds.ebrains.eu/core/ContentType>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -67,7 +67,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | linked object of type
-                | `Hash <https://openminds.ebrains.eu/core/Hash>`_
+                | `Hash <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -85,7 +85,7 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds.ebrains.eu/core/Organization>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/actors/organization.html>`_
    :instructions: Add the host of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -121,7 +121,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds.ebrains.eu/core/QuantitativeValue>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size this file repository allocates.
 
 `BACK TO TOP <FileRepository_>`_

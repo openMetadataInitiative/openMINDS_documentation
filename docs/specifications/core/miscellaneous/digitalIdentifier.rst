@@ -67,7 +67,7 @@ Standard for creating a particular identifier for something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/identifierSchema
    :value type: | linked object of type
-                | `DigitalIdentifierSchema <https://openminds.ebrains.eu/core/DigitalIdentifierSchema>`_
+                | `DigitalIdentifierSchema <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifierSchema.html>`_
    :instructions: Add the used schema of this digital identifier.
 
 `BACK TO TOP <DigitalIdentifier_>`_

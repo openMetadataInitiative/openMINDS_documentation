@@ -49,7 +49,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds.ebrains.eu/core/DigitalIdentifier>`_
+                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/miscellaneous/digitalIdentifier.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product.
 
 `BACK TO TOP <Dataset_>`_
@@ -85,7 +85,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `DatasetVersion <https://openminds.ebrains.eu/core/DatasetVersion>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v1.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add one or several versions of this dataset.
 
 `BACK TO TOP <Dataset_>`_
