@@ -128,7 +128,9 @@ class SchemaDocBuilder(object):
         if object_list:
             o_name_list = []
             for o in object_list:
-                o_name_list.append(f"`{o.split('/')[-1]} <{o}>`_")
+                o_name = o.split('/')[-1]
+                o_html_path = f"https://openminds-documentation.readthedocs.io/en/{self.version}/specifications/{self.relative_path_by_schema[o_name]}.html"
+                o_name_list.append(f"`{o_name} <{o_html_path}>`_")
             if len(o_name_list) > 1:
                 target_objects = " or ".join([", ".join(o_name_list[:-1]), o_name_list[-1]])
             else:
