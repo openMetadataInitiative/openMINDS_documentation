@@ -11,6 +11,7 @@ class SchemaDocBuilder(object):
         _relative_path_without_extension = schema_file_path[len(root_path)+1:].replace(".schema.omi.json", "").split("/")
         self.version = _relative_path_without_extension[0]
         self.relative_path_without_extension = _relative_path_without_extension[1:]
+        self.relative_path_by_schema = relative_path_by_schema
         with open(schema_file_path, "r") as schema_f:
             self._schema_payload = json.load(schema_f)
 
