@@ -8,7 +8,8 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
     os.makedirs(os.path.dirname(target_file), exist_ok=True)
     with open(target_file, "w") as output_file:
         doc = RstCloth(output_file, line_width=160)
-        doc.heading(relative_path[-1].capitalize(), char="#", overline=True)
+        heading = ''.join([relative_path[-1][0].upper(), relative_path[-1][1:]])
+        doc.heading(heading, char="#", overline=True)
         doc.newline()
         # TODO add some description -> but where does it come from?
         links = []
