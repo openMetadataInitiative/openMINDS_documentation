@@ -51,7 +51,7 @@ html.writer-html5 .rst-content dl.citation > dt, html.writer-html5 .rst-content 
 }
 
 .rst-content .line-block {
-    margin-bottom: 0px;
+    margin-bottom: 1px;
 }
 
 .rst-content .admonition-title::before {
