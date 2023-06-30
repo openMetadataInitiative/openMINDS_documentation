@@ -1,7 +1,7 @@
 import glob
 import os
 import shutil
-from typing import List
+from typing import List, Dict
 
 from git import Repo, GitCommandError
 
