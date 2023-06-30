@@ -42,6 +42,9 @@
     background-color: #343131;
 }
 
+html.writer-html5 .rst-content dl.citation, html.writer-html5 .rst-content dl.field-list, html.writer-html5 .rst-content dl.footnote {
+    margin-bottom: 4px;
+}
 
 .rst-content .admonition-title::before {
     display: none;
