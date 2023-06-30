@@ -50,6 +50,10 @@ html.writer-html5 .rst-content dl.citation > dt, html.writer-html5 .rst-content 
     padding-left: 0rem;
 }
 
+.rst-content .line-block {
+    margin-bottom: 0px;
+}
+
 .rst-content .admonition-title::before {
     display: none;
 }
