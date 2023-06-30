@@ -28,6 +28,13 @@ class SchemaLoader(object):
     def find_schemas(self, version:str) -> List[str]:
         return glob.glob(os.path.join(self.schemas_sources, version, f'**/*.schema.omi.json'), recursive=True)
 
+    def get_relative_path_for_schemas(self, schemas:List[str], version:str) -> Dict:
+        relative_path_by_schema = {}
+        for schema in schemas:
+            schema_name = os.path.basename(schema).replace('.schema.omi.json', '')
+            relative_schema_path = os.path.relpath(schema, os.path.join(self.schema_sources, version))
+            relative_path_by_schema[schema_name] = relative_schema_path
+        return relative_path_by_schema
 
 
 class GitPusher(object):
