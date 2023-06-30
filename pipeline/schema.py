@@ -12,6 +12,7 @@ class SchemaDocBuilder(object):
         self.version = _relative_path_without_extension[0]
         self.relative_path_without_extension = _relative_path_without_extension[1:]
         self.relative_path_by_schema = relative_path_by_schema
+        self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
         with open(schema_file_path, "r") as schema_f:
             self._schema_payload = json.load(schema_f)
 
@@ -127,15 +128,18 @@ class SchemaDocBuilder(object):
 
     def _define_target_objects(self, object_list) -> str:
         if object_list:
-            o_name_list = []
-            for o in object_list:
-                o_name = o.split('/')[-1]
-                o_html_path = f"https://openminds-documentation.readthedocs.io/en/{self.version}/specifications/{self.relative_path_by_schema[o_name]}.html"
-                o_name_list.append(f"`{o_name} <{o_html_path}>`_")
-            if len(o_name_list) > 1:
-                target_objects = " or ".join([", ".join(o_name_list[:-1]), o_name_list[-1]])
+            object_name_list = []
+            for object in object_list:
+                object_name = object.split('/')[-1]
+                if object_name in self.relative_path_by_schema:
+                    object_html_path = f"{self.readthedocs_url}{self.version}/specifications/{self.relative_path_by_schema[object_name]}.html"
+                    object_name_list.append(f"`{object_name} <{object_html_path}>`_")
+                else:
+                    object_name_list.append(f"{object_name} \[TYPE_ERROR\]")
+            if len(object_name_list) > 1:
+                target_objects = " or ".join([", ".join(object_name_list[:-1]), object_name_list[-1]])
             else:
-                target_objects = o_name_list[0]
+                target_objects = object_name_list[0]
             return target_objects
         return "undefined"
 
