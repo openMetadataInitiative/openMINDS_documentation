@@ -1,5 +1,5 @@
 #####
-Sands
+SANDS
 #####
 
 - `Atlas <SANDS/atlas.html>`_
