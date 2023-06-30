@@ -7,7 +7,7 @@ from rstcloth import RstCloth
 
 class SchemaDocBuilder(object):
 
-    def __init__(self, schema_file_path:str, root_path:str):
+    def __init__(self, schema_file_path:str, root_path:str, relative_path_by_schema:Dict):
         _relative_path_without_extension = schema_file_path[len(root_path)+1:].replace(".schema.omi.json", "").split("/")
         self.version = _relative_path_without_extension[0]
         self.relative_path_without_extension = _relative_path_without_extension[1:]
