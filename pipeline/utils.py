@@ -32,7 +32,8 @@ class SchemaLoader(object):
         relative_path_by_schema = {}
         for schema in schemas:
             schema_name = os.path.basename(schema).replace('.schema.omi.json', '')
-            relative_schema_path = os.path.relpath(schema, os.path.join(self.schema_sources, version))
+            schema_name = ''.join(s[0].upper() + s[1:] for s in schema_name.split())
+            relative_schema_path = os.path.relpath(schema, start=os.path.join(self.schemas_sources, version)).replace('.schema.omi.json', '')
             relative_path_by_schema[schema_name] = relative_schema_path
         return relative_path_by_schema
 
