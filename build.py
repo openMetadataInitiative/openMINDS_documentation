@@ -24,10 +24,11 @@ for schema_version in schema_loader.get_schema_versions():
 
     # Step 3 - find all involved schemas for the current version
     schemas = schema_loader.find_schemas(schema_version)
+    relative_path_by_schema = schema_loader.get_relative_path_for_schemas(schemas, schema_version)
 
     for schema in schemas:
         # Step 4 - build documentation for version specific schema
-        SchemaDocBuilder(schema, schema_loader.schemas_sources).build()
+        SchemaDocBuilder(schema, schema_loader.schemas_sources, relative_path_by_schema).build()
 
     # Step 5 - building toctrees (please note that the implementation requires the schemas to be built already)
     create_toc_tree_page(schema_version, ["specifications"])
