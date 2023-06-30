@@ -33,13 +33,18 @@
 
 }
 
-.rst-versions .rst-current-version .fa-caret-down{
+.rst-versions .rst-current-version .fa-caret-down {
     position: absolute;
     right: 1em;
 }
 
 .rst-content .admonition-title {
     background-color: #343131;
+}
+
+
+.rst-content .admonition-title::before {
+    display: none;
 }
 
 .rst-content .admonition {
