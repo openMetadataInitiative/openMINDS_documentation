@@ -38,16 +38,12 @@
     right: 1em;
 }
 
-.rst-content .admonition-title, .wy-alert-title {
+.rst-content .admonition-title {
     background-color: #343131;
 }
 
-.rst-content .admonition, .rst-content .admonition-todo, .rst-content .attention, .rst-content .caution, .rst-content .danger, .rst-content .error, .rst-content .hint, .rst-content .important, .rst-content .note, .rst-content .seealso, .rst-content .tip, .rst-content .warning, .wy-alert {
+.rst-content .admonition {
     background-color: #e3e3e3;
-}
-
-html.writer-html5 .rst-content dl.citation, html.writer-html5 .rst-content dl.field-list, html.writer-html5 .rst-content dl.footnote {
-    margin-bottom: 6px;
 }
 
 .toctree-wrapper{
