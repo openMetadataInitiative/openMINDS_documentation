@@ -1,5 +1,5 @@
 ##################
-Mathematicalshapes
+MathematicalShapes
 ##################
 
 - `Circle <mathematicalShapes/circle.html>`_

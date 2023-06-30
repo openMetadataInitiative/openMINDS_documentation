@@ -1,5 +1,5 @@
 #################
-Digitalidentifier
+DigitalIdentifier
 #################
 
 - `DOI <digitalIdentifier/DOI.html>`_

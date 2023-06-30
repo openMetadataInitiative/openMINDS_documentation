@@ -1,5 +1,5 @@
 ###############
-Controlledterms
+ControlledTerms
 ###############
 
 - `ActionStatusType <controlledTerms/actionStatusType.html>`_

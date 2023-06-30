@@ -1,5 +1,5 @@
 ############
-Specimenprep
+SpecimenPrep
 ############
 
 - `Activity <specimenPrep/activity.html>`_
