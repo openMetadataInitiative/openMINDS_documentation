@@ -38,6 +38,11 @@
     right: 1em;
 }
 
+.rst-content .admonition-title, .wy-alert-title {
+    background-color: #343131;
+
+}
+
 .toctree-wrapper{
     display: none;
 }
