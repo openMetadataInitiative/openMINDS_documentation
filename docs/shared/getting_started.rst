@@ -56,6 +56,20 @@ The respectively correct serialization of this schema in JSON-LD would be the fo
      "https://openminds.ebrains.eu/vocab/givenName": "Lyuba"
    }
 
+In a JSON-LD it is also possible to define the namespace separately to facilitate readability of the properties:
+
+.. code-block:: json
+
+   {
+     "@context": {
+       "@vocab": "https://openminds.ebrains.eu/vocab/"
+     },
+     "@id": "https://localhost/person_zehl_lyuba.jsonld",
+     "@type": "https://openminds.ebrains.eu/core/Person",
+     "familyName": "Zehl",
+     "givenName": "Lyuba"
+   }
+
 *****************
 Research products
 *****************
