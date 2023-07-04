@@ -52,7 +52,7 @@ The respectively correct serialization of this schema in JSON-LD would be the fo
    {
      "@id": "https://localhost/person_zehl_lyuba.jsonld",
      "@type": "https://openminds.ebrains.eu/core/Person",
-     "https://openminds.ebrains.eu/vocab/familyName": "Zehl"
+     "https://openminds.ebrains.eu/vocab/familyName": "Zehl",
      "https://openminds.ebrains.eu/vocab/givenName": "Lyuba"
    }
 
