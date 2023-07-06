@@ -1,2 +1,3 @@
 gitpython
 rstcloth
+sphinxcontrib-osexample
