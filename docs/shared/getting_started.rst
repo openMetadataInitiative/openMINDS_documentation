@@ -89,12 +89,7 @@ The openMINDS metadata models are centered around research products:
 .. note::
    Be aware that early openMINDS versions (\≤ v2.0) only support a reduced list of research products.
 
-*****************
-File Repositories
-*****************
-
-All research products can link 
-
+Research products always represented in a version independent specification linking to at least one version-specific specifications (e.g., a Dataset links to at least one DatasetVersion).
 
 .. toctree::
    getting_started/matlab
