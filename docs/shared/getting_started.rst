@@ -12,9 +12,9 @@ Basics
 ******
 
 openMINDS provides schema specifications for metadata models that are tailored for data representations in graph databases.
-Information on data in graph databases is represented in **nodes** that are interlinked via **edges**. 
+Information in graph databases is represented in **nodes** that are linked via **edges**. 
 
-openMINDS currently supports the World Wide Web Consortium (W3C) recommendation for `JSON-LD <https://json-ld.org/>`_ \(JavaScript Object Notation for Linked Data\) to encode it's metadata instances.
+openMINDS currently supports the World Wide Web Consortium (W3C) recommendation for `JSON-LD <https://json-ld.org/>`_ \(JavaScript Object Notation for Linked Data\) to encode linked metadata instances.
 
 Let us assume the following simplified openMINDS schema specification for defining a person in JSON-Schema:
 
