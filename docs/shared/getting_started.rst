@@ -86,7 +86,7 @@ The openMINDS metadata models are centered around research products:
 | - **WorkflowRecipe** (focus: data and code defining the recipe of a computational workflow)
 | - **WebService** (focus: data and code defining a web service)
 
-.. note:: Note
+.. note::
    Be aware that early openMINDS versions (\≤ v2.0) only support a reduced list of research products.
 
 *****************
