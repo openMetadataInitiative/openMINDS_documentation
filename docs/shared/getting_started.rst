@@ -47,6 +47,8 @@ Let us assume the following simplified openMINDS schema specification for defini
 
 The respectively correct serialization of this schema in JSON-LD would be the following:
 
+.. example-code::
+
 .. code-block:: json
 
    {
@@ -55,8 +57,6 @@ The respectively correct serialization of this schema in JSON-LD would be the fo
      "https://openminds.ebrains.eu/vocab/familyName": "Zehl",
      "https://openminds.ebrains.eu/vocab/givenName": "Lyuba"
    }
-
-In a JSON-LD it is also possible to define the namespace separately to facilitate readability of the properties:
 
 .. code-block:: json
 
