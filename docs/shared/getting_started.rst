@@ -87,7 +87,7 @@ The openMINDS metadata models are centered around research products:
 | - **WebService** (focus: data and code defining a web service)
 
 .. note:: Note
-   Please be aware that early openMINDS versions (\≤ v2.0) only support a reduced list of research products.
+   Be aware that early openMINDS versions (\≤ v2.0) only support a reduced list of research products.
 
 *****************
 File Repositories
