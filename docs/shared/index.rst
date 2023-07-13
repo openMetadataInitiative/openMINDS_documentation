@@ -13,5 +13,5 @@ Welcome to the openMINDS documentation!
 .. toctree::
    shared/getting_started
    shared/how_to_contribute
-   specifications
-   instances
+   schema_specifications
+   instances_libraries
