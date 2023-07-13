@@ -17,7 +17,7 @@ class SchemaDocBuilder(object):
             self._schema_payload = json.load(schema_f)
 
     def _target_file_without_extension(self) -> str:
-        return os.path.join(self.version, "docs", "specifications", "/".join(self.relative_path_without_extension))
+        return os.path.join(self.version, "docs", "schema_specifications", "/".join(self.relative_path_without_extension))
 
     def build(self):
         target_file = os.path.join("target", f"{self._target_file_without_extension()}.rst")
@@ -132,7 +132,7 @@ class SchemaDocBuilder(object):
             for object in object_list:
                 object_name = object.split('/')[-1]
                 if object_name in self.relative_path_by_schema:
-                    object_html_path = f"{self.readthedocs_url}{self.version}/specifications/{self.relative_path_by_schema[object_name]}.html"
+                    object_html_path = f"{self.readthedocs_url}{self.version}/schema_specifications/{self.relative_path_by_schema[object_name]}.html"
                     object_name_list.append(f"`{object_name} <{object_html_path}>`_")
                 else:
                     object_name_list.append(f"{object_name} \[TYPE_ERROR\]")

@@ -109,12 +109,12 @@ class InstancesDocBuilder(object):
         self.instances_libraries = instances_libraries
 
     def _target_file_without_extension(self, target_basename:str) -> str:
-        return os.path.join("target", self.version, "docs", "instances", f"{target_basename}_library")
+        return os.path.join("target", self.version, "docs", "instances_libraries", f"{target_basename}")
 
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading(f"{name} library", char="#", overline=True)
+            doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
             for term_name, term_data in sorted(data_to_display.items()):
                 doc.heading(term_data["name"], char="-")
@@ -123,7 +123,7 @@ class InstancesDocBuilder(object):
     def _build_content_types(self, target_file:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading("ContentTypes library", char="#", overline=True)
+            doc.heading("ContentTypes", char="#", overline=True)
             doc.newline()
             for ct_name, ct_data in sorted(data_to_display.items()):
                 doc.heading(ct_data["name"], char="-")
@@ -132,7 +132,7 @@ class InstancesDocBuilder(object):
     def _build_licenses(self, target_file:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading("Licenses library", char="#", overline=True)
+            doc.heading("Licenses", char="#", overline=True)
             doc.newline()
             for license_name, license_data in sorted(data_to_display.items()):
                 doc.heading(license_data["fullName"], char="-")
@@ -141,13 +141,13 @@ class InstancesDocBuilder(object):
     def _build_brain_atlas(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading(f"{name} library", char="#", overline=True)
+            doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
 
     def _build_common_coordinate_space(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading(f"{name} library", char="#", overline=True)
+            doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
 
     def build(self):
