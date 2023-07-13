@@ -11,11 +11,10 @@ However, we hope we can provide you with a good starting point to create an open
 Basics
 ******
 
-openMINDS provides specifications of schemas that build interlinked metadata models which are tailored for data representations in graph databases.
-Each openMINDS schema within in a metadata model constraints for the properties and edges (links) of a node (metadata instance) within a graph databases.
+openMINDS provides specifications of schemas that build interlinked metadata models which are specifically tailored for data representations in graph databases. A graph database consists of nodes (or instances) and edges (links), where the nodes represent concepts and the edges represent relationships between these concepts \(`Wood 2009 <https://doi.org/10.1007/978-0-387-39940-9_183>`_\).
+The schemas of the openMINDS metadata models provide constraints for the properties and relations of these concepts.
 
-Currently, openMINDS assumes that the metadata instances within a graph database are encoded as `JSON-LD <https://json-ld.org/>`_ \(JavaScript Object Notation for Linked Data\), a recommended format for linked data by the World Wide Web Consortium (W3C). The metadata instances of the openMINDS libraries for serviceable, well-defined terms and constructs are also encoded in JSON-LD.
-
+There are various file formats for defining the linked instances of a graph database. The openMINDS schemas currently assume that instances are stored as `JSON-LD <https://json-ld.org/>`_ files. Consequently, the metadata instances of the openMINDS libraries for serviceable, well-defined terms and constructs are also encoded as JSON-LD files.
 
 .. toctree::
    getting_started/matlab
