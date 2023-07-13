@@ -109,7 +109,7 @@ class InstancesDocBuilder(object):
         self.instances_libraries = instances_libraries
 
     def _target_file_without_extension(self, target_basename:str) -> str:
-        return os.path.join("target", self.version, "docs", "instances_libraries", f"{target_basename}")
+        return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:

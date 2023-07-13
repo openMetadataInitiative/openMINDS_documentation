@@ -39,7 +39,7 @@ for schema_version in schema_loader.get_schema_versions():
         SchemaDocBuilder(schema, schema_loader.schemas_sources, relative_path_by_schema).build()
 
     # Step 5 - building toctrees (please note that the implementation requires the schemas to be built already)
-    create_toc_tree_page(schema_version, ["schema_specifications"])
+    create_toc_tree_page(schema_version, ["specifications"])
 
     # Step 6 - checkout version branch in relative "upload" directory (provided by GitHub pipeline), copy files and push
     if schema_version not in versions:
@@ -68,7 +68,7 @@ for instance_version in instance_loader.get_instance_versions():
     InstancesDocBuilder(instance_version, instances_libraries.instances_libraries).build()
 
     # Step 5 - building toctrees (please note that the implementation requires the schemas to be built already)
-    create_toc_tree_page(instance_version, ["instances_libraries"])
+    create_toc_tree_page(instance_version, ["libraries"])
 
     # Step 6 - checkout version branch in relative "upload" directory (provided by GitHub pipeline), copy files and push
     if instance_version not in versions:
