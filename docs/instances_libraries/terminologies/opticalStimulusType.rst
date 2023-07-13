@@ -1,0 +1,7 @@
+###################
+opticalStimulusType
+###################
+
+infrared neural stimulus
+------------------------
+

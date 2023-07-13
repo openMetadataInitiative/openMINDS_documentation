@@ -1,0 +1,7 @@
+####################
+auditoryStimulusType
+####################
+
+real spoken word
+----------------
+

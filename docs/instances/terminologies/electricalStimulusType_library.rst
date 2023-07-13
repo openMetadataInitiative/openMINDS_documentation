@@ -1,7 +1,0 @@
-##############################
-electricalStimulusType library
-##############################
-
-direct current
---------------
-

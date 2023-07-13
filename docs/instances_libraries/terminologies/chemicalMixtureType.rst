@@ -1,0 +1,13 @@
+###################
+chemicalMixtureType
+###################
+
+colloid
+-------
+
+solution
+--------
+
+suspension
+----------
+

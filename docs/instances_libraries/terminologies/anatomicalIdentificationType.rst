@@ -1,0 +1,10 @@
+############################
+anatomicalIdentificationType
+############################
+
+landmark based
+--------------
+
+stereotactic
+------------
+

@@ -1,0 +1,7 @@
+######################
+electricalStimulusType
+######################
+
+direct current
+--------------
+
