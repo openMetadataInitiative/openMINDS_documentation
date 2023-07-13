@@ -11,16 +11,21 @@ def copy_static_structures(version:str):
 
 
 def clone_sources():
-    if os.path.exists("sources"):
-        shutil.rmtree("sources")
-    Repo.clone_from("https://github.com/openMetadataInitiative/openMINDS.git", to_path="sources", depth=1)
+    # cloning central repo (for schemas)
+    if os.path.exists("sources_schemas"):
+        shutil.rmtree("sources_schemas")
+    Repo.clone_from("https://github.com/openMetadataInitiative/openMINDS.git", to_path="sources_schemas", depth=1)
 
+    # cloning instances repo (for instances)
+    if os.path.exists("sources_instances"):
+        shutil.rmtree("sources_instances")
+    Repo.clone_from("https://github.com/openMetadataInitiative/openMINDS_instances.git", to_path="sources_instances", depth=1)
 
 class SchemaLoader(object):
 
     def __init__(self):
         self._root_directory = os.path.realpath(".")
-        self.schemas_sources = os.path.join(self._root_directory, "sources", "schemas")
+        self.schemas_sources = os.path.join(self._root_directory, "sources_schemas", "schemas")
 
     def get_schema_versions(self) -> List[str]:
         return os.listdir(self.schemas_sources)
@@ -37,6 +42,26 @@ class SchemaLoader(object):
             relative_path_by_schema[schema_name] = relative_schema_path
         return relative_path_by_schema
 
+class InstanceLoader(object):
+
+    def __init__(self):
+        self._root_directory = os.path.realpath(".")
+        self.instances_sources = os.path.join(self._root_directory, "sources_instances", "instances")
+
+    def get_instance_versions(self) -> List[str]:
+        return os.listdir(self.instances_sources)
+
+    def find_instances(self, version:str) -> List[str]:
+        return glob.glob(os.path.join(self.instances_sources, version, f'**/*.jsonld'), recursive=True)
+
+    def get_relative_path_for_instances(self, instances:List[str], version:str) -> Dict:
+        relative_path_by_instance = {}
+        for instance in instances:
+            instance_name = os.path.basename(instance).replace('.jsonld', '')
+            instance_name = ''.join(s[0].upper() + s[1:] for s in instance_name.split())
+            relative_instance_path = os.path.relpath(instance, start=os.path.join(self.instances_sources, version)).replace('.jsonld', '')
+            relative_path_by_instance[instance_name] = relative_instance_path
+        return relative_path_by_instance
 
 class GitPusher(object):
 
