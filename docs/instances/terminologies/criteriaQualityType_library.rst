@@ -1,0 +1,10 @@
+###########################
+criteriaQualityType library
+###########################
+
+asserted
+--------
+
+processive
+----------
+
