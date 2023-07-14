@@ -144,7 +144,6 @@ class InstancesDocBuilder(object):
                 doc.field(name="InterLex ID", value=interlexID, indent=field_list_indent)
                 ksEntry = term_data["knowledgeSpaceLink"] if "knowledgeSpaceLink" in term_data and term_data["knowledgeSpaceLink"] else "\-"
                 doc.field(name="KnowledgeSpace entry", value=ksEntry, indent=field_list_indent)
-
                 doc.newline()
                 doc.content(f"`BACK TO TOP <{name}_>`_")
                 doc.newline()

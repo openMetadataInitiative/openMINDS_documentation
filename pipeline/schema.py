@@ -28,22 +28,22 @@ class SchemaDocBuilder(object):
             schema_name_camelCase = "".join([schema_name[0].lower(), schema_name[1:]])
             doc.heading(schema_name, char="#", overline=True)
             doc.newline()
-            doc.field(name="Semantic name:", value=self._schema_payload["_type"])
+            doc.field(name="Semantic name", value=self._schema_payload["_type"])
             doc.newline()
             if "description" in self._schema_payload and self._schema_payload["description"]:
                 doc.content(self._schema_payload["description"])
                 doc.newline()
             semantic_equivalent = self._extract_semantic_equivalents()
             if semantic_equivalent:
-                doc.field(name="Semantic equivalents:", value=semantic_equivalent)
+                doc.field(name="Semantic equivalents", value=semantic_equivalent)
                 doc.newline()
             doc.newline()
-            if "controlledTerms" in self._schema_payload["name"]:
+            if "controlledTerms" in self._schema_payload["_type"]:
                 library_subdir = f"terminologies/{schema_name_camelCase}.html"
                 library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
                 doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
                 doc.newline()
-            if schema_name_camelCase in ["license", "contentType"]:
+            if schema_name in ["License", "ContentType"]:
                 library_subdir = f"{schema_name_camelCase}s.html"
                 library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
                 doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
