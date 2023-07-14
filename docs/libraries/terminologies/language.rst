@@ -1,5 +1,5 @@
 ########
-language
+Language
 ########
 
 ------------
@@ -9,144 +9,144 @@ language
 Dutch
 -----
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/dutch
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/dutch``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 English
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/english
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/english``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 French
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/french
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/french``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 German
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/german
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/german``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 Greek
 -----
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/greek
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/greek``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 Italian
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/italian
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/italian``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 Norwegian
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/norwegian
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/norwegian``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 Spanish
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/spanish
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/spanish``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 
 Swedish
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/language/swedish
+.. admonition:: ``https://openminds.ebrains.eu/instances/language/swedish``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <language_>`_
+`BACK TO TOP <Language_>`_
 
 ------------
 

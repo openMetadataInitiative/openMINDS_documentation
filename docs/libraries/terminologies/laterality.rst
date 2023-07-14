@@ -1,5 +1,5 @@
 ##########
-laterality
+Laterality
 ##########
 
 ------------
@@ -9,32 +9,32 @@ laterality
 left
 ----
 
-.. admonition:: https://openminds.ebrains.eu/instances/laterality/left
+.. admonition:: ``https://openminds.ebrains.eu/instances/laterality/left``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <laterality_>`_
+`BACK TO TOP <Laterality_>`_
 
 ------------
 
 right
 -----
 
-.. admonition:: https://openminds.ebrains.eu/instances/laterality/right
+.. admonition:: ``https://openminds.ebrains.eu/instances/laterality/right``
 
-   :definition: -
-   :synonyms: -
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :definition: \-
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <laterality_>`_
+`BACK TO TOP <Laterality_>`_
 
 ------------
 

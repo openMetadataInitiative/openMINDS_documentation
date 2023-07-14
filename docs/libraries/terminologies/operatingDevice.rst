@@ -1,5 +1,5 @@
 ###############
-operatingDevice
+OperatingDevice
 ###############
 
 ------------
@@ -9,112 +9,112 @@ operatingDevice
 desktop
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/desktop
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/desktop``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q56155
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 embedded system
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q193040
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 high-performance computer
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q121117
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 mobile
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/mobile
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/mobile``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q5082128
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 neuromorphic computer
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer``
 
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q56270917
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 server
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/server
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/server``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q64729893
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
 web
 ---
 
-.. admonition:: https://openminds.ebrains.eu/instances/operatingDevice/web
+.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/web``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q6368
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 

@@ -1,5 +1,5 @@
 ######################
-electricalStimulusType
+ElectricalStimulusType
 ######################
 
 ------------
@@ -9,16 +9,16 @@ electricalStimulusType
 direct current
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
+.. admonition:: ``https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent``
 
-   :definition: -
+   :definition: \-
    :synonyms: DC
-   :preferred ontology ID: -
-   :InterLex ID: -
-   :KnowledgeSpace entry: -
-   :description: -
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
+   :description: \-
 
-`BACK TO TOP <electricalStimulusType_>`_
+`BACK TO TOP <ElectricalStimulusType_>`_
 
 ------------
 

@@ -9,7 +9,7 @@ UBERONParcellation
 CA1 alveus
 ----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus``
 
    :definition: 'CA1 alveus' is a layer of CA1 field. It is part of the hippocampus alveus.
    :synonyms: alveus of the CA1 field
@@ -25,7 +25,7 @@ CA1 alveus
 CA1 field of hippocampus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus``
 
    :definition: 'CA1 field of hippocampus' is a hippocampal field.
    :synonyms: Ammon's horn (Lorente de Ns), CA1, CA1 field, CA1 field of Ammon's horn, CA1 field of cornu ammonis, CA1 field of hippocampus, CA1 field of the Ammon horn, CA1 field of the hippocampus, cornu ammonis 1, field CA1, field CA1 of hippocampus, hippocampus CA1, prosubiculum = distal ca1, regio i cornus ammonis, regio i hippocampi proprii, regio superior, regio superior of the hippocampus, region 1 of Ammon's horn, region CA1, region i of ammon's horn, region i of hippocampus proper
@@ -41,7 +41,7 @@ CA1 field of hippocampus
 CA1 stratum lacunosum moleculare
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare``
 
    :definition: 'CA1 stratum lacunosum moleculare' is a layer of CA1 field. It is part of the hippocampus stratum lacunosum moleculare.
    :synonyms: CA1 part of stratum lacunosum moleculare, CA1 s. lacunosum moleculare, lacunar-molecular layer of CA1 field, stratum lacunosum moleculare of the CA1 field
@@ -57,7 +57,7 @@ CA1 stratum lacunosum moleculare
 CA1 stratum oriens
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumOriens
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumOriens``
 
    :definition: 'CA1 stratum oriens' is a layer of CA1 field. It is part of the hippocampus stratum oriens.
    :synonyms: CA1 part of stratum oriens, CA1 s. oriens, CA1 stratum oriens, oriens layer of CA1 field, stratum oriens of the CA1 field
@@ -73,7 +73,7 @@ CA1 stratum oriens
 CA1 stratum radiatum
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumRadiatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumRadiatum``
 
    :definition: 'CA1 stratum radiatum' is a layer of CA1 field. It is part of the hippocampus stratum radiatum.
    :synonyms: CA1 part of stratum radiatum, CA1 s. radiatum, radiatum layer of CA1 field, stratum radiatum of the CA1 field
@@ -89,13 +89,13 @@ CA1 stratum radiatum
 CA2 field of hippocampus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus``
 
    :definition: Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003882
    :InterLex ID: http://uri.interlex.org/base/ilx_0101527
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'CA2 field of hippocampus' is a hippocampal field.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -105,7 +105,7 @@ CA2 field of hippocampus
 CA2 stratum radiatum
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumRadiatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumRadiatum``
 
    :definition: 'CA2 stratum radiatum' is a layer of CA2 field. It is part of the hippocampus stratum radiatum.
    :synonyms: CA2 part of stratum radiatum, CA2 stratum radiatum, radiate layer of CA2 field, stratum radiatum of CA2, stratum radiatum of the CA2 field
@@ -121,7 +121,7 @@ CA2 stratum radiatum
 CA3 alveus
 ----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus``
 
    :definition: 'CA3 alveus' is a layer of CA3 field. It is part of the hippocampus alveus.
    :synonyms: alveus of the CA3 field
@@ -137,13 +137,13 @@ CA3 alveus
 CA3 field of hippocampus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus``
 
    :definition: Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003883
    :InterLex ID: http://uri.interlex.org/base/ilx_0101534
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'CA3 field of hippocampus' is a hippocampal field.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -153,7 +153,7 @@ CA3 field of hippocampus
 CA3 stratum radiatum
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumRadiatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumRadiatum``
 
    :definition: 'CA3 stratum radiatum' is a layer of CA3 field. It is part of the hippocampus stratum radiatum.
    :synonyms: CA3 part of stratum radiatum, CA3 s. radiatum, CA3 stratum radiatum, radiate layer of CA3 field, stratum radiatum of the CA3 field
@@ -169,10 +169,10 @@ CA3 stratum radiatum
 abducens nucleus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus``
 
    :definition: 'Abducens nucleus' is a cranial nerve nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pons.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002682
    :InterLex ID: http://uri.interlex.org/base/ilx_0100175
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002682#abducens-nucleus-1
@@ -185,7 +185,7 @@ abducens nucleus
 accessory abducens nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryAbducensNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryAbducensNucleus``
 
    :definition: 'Accessory abducens nucleus' is a nucleus of pontine reticular formation.
    :synonyms: ACVI
@@ -201,14 +201,14 @@ accessory abducens nucleus
 accessory basal amygdaloid nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus``
 
    :definition: 'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :synonyms: ABA, accessory basal nucleus, accessory basal nucleus of amygdala, accessory basal nucleus of the amygdala, basal amygdaloid nucleus, basomedial nucleus (accessory basal nucleus), basomedial nucleus (De Olmos), basomedial nucleus (de olmos), basomedial nucleus of amygdala, basomedial nucleus of the amygdala, medial part, medial principal nucleus, nucleus amygdalae basalis accessorius, nucleus amygdaloideus basalis, nucleus amygdaloideus basomedialis, nucleus basalis accessorius amygdalae, pars medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002885
    :InterLex ID: http://uri.interlex.org/base/ilx_0100209
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -217,7 +217,7 @@ accessory basal amygdaloid nucleus
 accessory cuneate nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCuneateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCuneateNucleus``
 
    :definition: 'Accessory cuneate nucleus' is a nucleus of medulla oblongata.
    :synonyms: ACu, external cuneate nucleus, external cuneate nucleus (Monakow, Blumenau 1891), lateral cuneate nucleus, nucleus cuneatis externus, nucleus cuneatus accessorius, nucleus cuneatus lateralis, nucleus funiculi cuneatus externus, nucleus Monakow, nucleus of corpus restiforme
@@ -233,7 +233,7 @@ accessory cuneate nucleus
 accessory medullary lamina of globus pallidus
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus``
 
    :definition: 'Accessory medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the medial globus pallidus.
    :synonyms: accessory medullar lamina of pallidum, accessory medullary lamina, accessory medullary lamina of corpus striatum, accessory medullary lamina of globus pallidus, accessory medullary lamina of pallidum, accessory medullary lamina pallidus, incomplete medullary lamina of globus pallidus, incomplete medullary lamina of the globus pallidus, lamella pallidi incompleta, lamina medullaris accessoria, lamina medullaris accessoria corporis striati, lamina medullaris incompleta pallidi, lamina pallidi incompleta
@@ -249,7 +249,7 @@ accessory medullary lamina of globus pallidus
 accessory nerve fiber bundle
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveFiberBundle``
 
    :definition: 'Accessory nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :synonyms: accessory nerve fiber bundle, accessory nerve fibers, accessory nerve tract, eleventh cranial nerve fibers, fibrae nervi accessorius
@@ -265,10 +265,10 @@ accessory nerve fiber bundle
 accessory nerve root
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot``
 
    :definition: A nerve root that is part of a accessory XI nerve.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014615
    :InterLex ID: http://uri.interlex.org/base/ilx_0723817
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014615#accessory-nerve-root-1
@@ -281,7 +281,7 @@ accessory nerve root
 adenohypophysis
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis``
 
    :definition: 'Adenohypophysis' is part of the pituitary gland.
    :synonyms: AHP, anterior hypophysis, anterior lobe, anterior lobe (hypophysis), anterior lobe of hypophysis, anterior lobe of pituitary, anterior lobe of pituitary gland, anterior lobe of the pituitary, anterior pituitary, anterior pituitary gland, cranial lobe, lobus anterior, lobus anterior (glandula pituitaria), lobus anterior hypophysis, pituitary anterior lobe, pituitary gland, pituitary glandanterior lobe, rostral lobe
@@ -297,7 +297,7 @@ adenohypophysis
 aggregate regional part of brain
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain``
 
    :definition: 'Aggregate regional part of brain' is an anatomical entity. It is part of the brain.
    :synonyms: set of nuclei of neuraxis
@@ -313,10 +313,10 @@ aggregate regional part of brain
 alar central lobule
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule``
 
    :definition: The lobulus centralis is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the alar central lobule. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003013
    :InterLex ID: http://uri.interlex.org/base/ilx_0100438
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003013#alar-central-lobule-1
@@ -329,7 +329,7 @@ alar central lobule
 allocortex
 ----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex``
 
    :definition: 'Allocortex' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: allocortex (Stephan), heterogenetic cortex, heterogenetic formations, intercalated nucleus of the medulla, nucleus intercalatus (staderini), transitional cortex
@@ -345,14 +345,14 @@ allocortex
 amiculum of dentate nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus``
 
    :definition: 'Amiculum of dentate nucleus' is a white matter of metencephalon and amiculum. It is part of the dentate nucleus.
    :synonyms: amdt, amiculum nuclei dentati, amiculum of the dentate nucleus, dentate nuclear amiculum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002568
    :InterLex ID: http://uri.interlex.org/base/ilx_0100532
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002568#amiculum-of-dentate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -361,7 +361,7 @@ amiculum of dentate nucleus
 Ammon's horn
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn``
 
    :definition: 'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.
    :synonyms: ammon gyrus, ammon horn, Ammon horn fields, Ammon's horn, Ammons horn, cornu ammonis, Hip, hippocampus, hippocampus major, hippocampus proper, hippocampus proprius
@@ -377,7 +377,7 @@ Ammon's horn
 amygdala
 --------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala``
 
    :definition: 'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.
    :synonyms: amygdaloid area, amygdaloid body, amygdaloid complex, amygdaloid nuclear complex, amygdaloid nuclear group, amygdaloid nuclear groups, amygdaloid nucleus, archistriatum, Archistriatum, corpus amygdalae, corpus amygdaloideum, nucleus amygdalae
@@ -393,7 +393,7 @@ amygdala
 angular gyrus
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/angularGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/angularGyrus``
 
    :definition: 'Angular gyrus' is a gyrus. It is part of the parietal lobe.
    :synonyms: AG, gyrus angularis, gyrus parietalis inferior, middle part of inferior parietal lobule, prelunate gyrus, preoccipital gyrus
@@ -409,14 +409,14 @@ angular gyrus
 annectant gyrus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/annectantGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/annectantGyrus``
 
    :definition: 'Annectant gyrus' is an occipital gyrus.
    :synonyms: annectant gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0026137
    :InterLex ID: http://uri.interlex.org/base/ilx_0100647
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0026137#annectant-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -425,7 +425,7 @@ annectant gyrus
 ansa lenticularis
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis``
 
    :definition: 'Ansa lenticularis' is a diencephalic white matter. It is part of the ventral thalamus.
    :synonyms: al, ansa lenticularis in thalamo, ansa lenticularis in thalamus, ventral peduncle of lateral forebrain bundle
@@ -441,14 +441,14 @@ ansa lenticularis
 ansiform lobule crus I
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI``
 
-   :definition: -
+   :definition: \-
    :synonyms: crus I of the ansiform lobule (HVII), crus primum lobuli ansiformis cerebelli [h vii a], first crus of ansiform lobule of cerebellum [hVIIa], hemispheric lobule VIIA, lobulus ansiform crus I, lobulus semilunaris superior, lobulus semilunaris superior cerebelli, posterior superior lobule, semilunar lobule-1 (superior), superior semilunar lobule, superior semilunar lobule of cerebellum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005976
    :InterLex ID: http://uri.interlex.org/base/ilx_0104941
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005976#hemispheric-lobule-viia
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -457,14 +457,14 @@ ansiform lobule crus I
 ansiform lobule crus II
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII``
 
-   :definition: -
+   :definition: \-
    :synonyms: crus II of the ansiform lobule (HVII), crus secundum lobuli ansiformis cerebelli [hVII A], hemispheric lobule VIIBi, inferior semilunar lobule, inferior semilunar lobule of cerebellum, lobulus ansiform crus II, lobulus semilunaris inferior, lobulus semilunaris inferior cerebelli, posterior inferior lobule, second crus of ansiform lobule of cerebellum [hVIIa], semilunar lobule-2 (inferior)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005977
    :InterLex ID: http://uri.interlex.org/base/ilx_0104942
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -473,14 +473,14 @@ ansiform lobule crus II
 anterior amygdaloid area
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea``
 
    :definition: 'Anterior amygdaloid area' is a cerebral hemisphere gray matter. It is part of the corticomedial nuclear complex.
    :synonyms: AA, anterior amygaloid area, anterior amygdalar area, anterior cortical nucleus, area amydaliformis anterior, area amygdaloidea anterior, area anterior amygdalae
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002890
    :InterLex ID: http://uri.interlex.org/base/ilx_0100670
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002890#anterior-amygdaloid-area-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -489,10 +489,10 @@ anterior amygdaloid area
 anterior calcarine sulcus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002582
    :InterLex ID: http://uri.interlex.org/base/ilx_0100672
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002582#anterior-calcarine-sulcus-1
@@ -505,7 +505,7 @@ anterior calcarine sulcus
 anterior cingulate cortex
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex``
 
    :definition: 'Anterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
    :synonyms: ACC, anterior cingulate
@@ -521,14 +521,14 @@ anterior cingulate cortex
 anterior cingulate gyrus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus``
 
    :definition: 'Anterior cingulate gyrus' is a gyrus. It is part of the cingulate gyrus and anterior cingulate cortex.
    :synonyms: ACG, anterior cingulate, anterior division, cGa, cingulate gyrus, cortex cingularis anterior, gyrus cinguli anterior, gyrus limbicus anterior
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002756
    :InterLex ID: http://uri.interlex.org/base/ilx_0100690
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002756#anterior-cingulate-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -537,14 +537,14 @@ anterior cingulate gyrus
 anterior column of fornix
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix``
 
    :definition: 'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.
    :synonyms: anterior column of fornix, anterior crus of fornix, anterior pillar of fornix, columna fornicis anterior, crus anterius, fornix
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002940
    :InterLex ID: http://uri.interlex.org/base/ilx_0100691
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -553,10 +553,10 @@ anterior column of fornix
 anterior commissure
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure``
 
    :definition: A bundle of myelinated nerve fibers passing transversely through the lamina terminalis and connecting symmetrical parts of the two cerebral hemispheres; it consists of a smaller anterior part (pars anterior commissurae anterioris) and a larger posterior part (pars posterior commissurae anterioris).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000935
    :InterLex ID: http://uri.interlex.org/base/ilx_0100692
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000935#anterior-commissure-1
@@ -569,7 +569,7 @@ anterior commissure
 anterior commissure anterior part
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissureAnteriorPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissureAnteriorPart``
 
    :definition: 'Anterior commissure anterior part' is a commissure of telencephalon. It is part of the anterior commissure.
    :synonyms: anterior commissure, anterior commissure olfactory limb, anterior commissure pars anterior, anterior part, anterior part of anterior commissure, commissura anterior, commissura rostralis, crus anterius, olfactory limb, olfactory limb of anterior commissure, olfactory part of anterior commissure, pars anterior, pars anterior commissurae anterioris, pars olfactoria, pars olfactoria commissurae anterioris
@@ -585,7 +585,7 @@ anterior commissure anterior part
 anterior horn of lateral ventricle
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle``
 
    :definition: 'Anterior horn of lateral ventricle' is a telencephalic ventricle.
    :synonyms: anterior horn of lateral ventricle, cornu anterius, cornu anterius (ventriculi lateralis), cornu anterius ventriculi lateralis, cornu frontale (ventriculi lateralis), cornu frontale ventriculi lateralis, frontal horn of lateral ventricle, ventriculus lateralis
@@ -601,14 +601,14 @@ anterior horn of lateral ventricle
 anterior hypothalamic region
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion``
 
    :definition: 'Anterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :synonyms: AHR, anterior hypothalamic area, anterior hypothalamus, chiasmal zone, preoptic division
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002550
    :InterLex ID: http://uri.interlex.org/base/ilx_0100710
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002550#anterior-hypothalamic-region-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -617,7 +617,7 @@ anterior hypothalamic region
 anterior limb of internal capsule
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule``
 
    :definition: 'Anterior limb of internal capsule' is a limb of internal capsule of telencephalon.
    :synonyms: anterior internal capsule, anterior limb, capsula interna, crus anterius capsulae internae, pars anterior
@@ -633,13 +633,13 @@ anterior limb of internal capsule
 anterior lobe of cerebellum
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLobeOfCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLobeOfCerebellum``
 
    :definition: The region of the cerebellum that is anterior to the primary fissure.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002131
    :InterLex ID: http://uri.interlex.org/base/ilx_0100713
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Anterior lobe of cerebellum' is a cerebellum lobe.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -649,14 +649,14 @@ anterior lobe of cerebellum
 anterior median eminence
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence``
 
    :definition: 'Anterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
    :synonyms: AME, eminentia mediana anterior
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002648
    :InterLex ID: http://uri.interlex.org/base/ilx_0100714
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002648#anterior-median-eminence-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -665,14 +665,14 @@ anterior median eminence
 anterior median oculomotor nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianOculomotorNucleus``
 
    :definition: 'Anterior median oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: AM3, anterior medial visceral nucleus, anterior median nucleus of oculomotor nerve, anterior median nucleus of oculomotor nuclear complex, nucleus anteromedialis, nucleus nervi oculomotorii medianus anterior, nucleus visceralis anteromedialis, ventral medial nucleus of oculomotor nerve, ventral medial visceral nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002701
    :InterLex ID: http://uri.interlex.org/base/ilx_0100716
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002701#anterior-median-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -681,7 +681,7 @@ anterior median oculomotor nucleus
 anterior nuclear group
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup``
 
    :definition: 'Anterior nuclear group' is a nucleus of dorsal thalamus.
    :synonyms: ANG, anterior group of thalamus, anterior group of the dorsal thalamus, anterior nuclear group, anterior nuclear group of thalamus, anterior nuclear group of the thalamus, anterior nuclei of thalamus, anterior nucleus of thalamus, anterior thalamic group, anterior thalamic nuclear group, anterior thalamic nuclei, anterior thalamic nucleus, anterior thalamus, dorsal thalamus anterior division, nuclei anterior thalami, nuclei anteriores (thalami), nuclei anteriores thalami, nuclei thalamicus anterior, nucleus anterior thalami, nucleus thalamicus anterior, rostral thalamic nucleus
@@ -697,7 +697,7 @@ anterior nuclear group
 anterior nucleus of hypothalamus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamus``
 
    :definition: 'Anterior nucleus of hypothalamus' is a preoptic nucleus.
    :synonyms: AH, anterior hypothalamic area, anterior hypothalamic area anterior part, anterior hypothalamic nucleus, anterior nucleus of the hypothalamus, anterior part, area hypothalamica rostralis, fundamental gray substance, nucleus anterior hypothalami, nucleus hypothalamicus anterior, parvocellular nucleus of hypothalamus
@@ -713,14 +713,14 @@ anterior nucleus of hypothalamus
 anterior nucleus of hypothalamus central part
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart``
 
    :definition: 'Anterior nucleus of hypothalamus central part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :synonyms: AHNc, anterior hypothalamic area, anterior hypothalamic area central part, anterior hypothalamic central part, anterior hypothalamic nucleus, anterior hypothalamic nucleus central part, anterior nucleus of hypothalamus central part, central part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014590
    :InterLex ID: http://uri.interlex.org/base/ilx_0100720
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014590#anterior-nucleus-of-hypothalamus-central-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -729,14 +729,14 @@ anterior nucleus of hypothalamus central part
 anterior nucleus of hypothalamus dorsal part
 --------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart``
 
    :definition: 'Anterior nucleus of hypothalamus dorsal part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :synonyms: AHNd, anterior hypothalamic dorsal part, anterior hypothalamic nucleus, anterior hypothalamic nucleus dorsal part, anterior nucleus of hypothalamus dorsal part, dorsal part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014592
    :InterLex ID: http://uri.interlex.org/base/ilx_0100721
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014592#anterior-nucleus-of-hypothalamus-dorsal-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -745,14 +745,14 @@ anterior nucleus of hypothalamus dorsal part
 anterior nucleus of hypothalamus posterior part
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart``
 
    :definition: 'Anterior nucleus of hypothalamus posterior part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :synonyms: AHNp, anterior hypothalamic nucleus, anterior hypothalamic nucleus posterior part, anterior hypothalamic posterior part, anterior nucleus of hypothalamus posterior part, posterior part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014591
    :InterLex ID: http://uri.interlex.org/base/ilx_0100722
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014591#anterior-nucleus-of-hypothalamus-posterior-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -761,10 +761,10 @@ anterior nucleus of hypothalamus posterior part
 anterior olfactory nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus``
 
    :definition: 'Anterior olfactory nucleus' is a telencephalic nucleus. It is part of the olfactory cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002266
    :InterLex ID: http://uri.interlex.org/base/ilx_0100724
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002266#anterior-olfactory-nucleus-1
@@ -777,14 +777,14 @@ anterior olfactory nucleus
 anterior parieto-occipital sulcus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParietooccipitalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParietooccipitalSulcus``
 
    :definition: 'Anterior parieto-occipital sulcus' is a sulcus of brain. It is part of the parieto-occipital sulcus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025829
    :InterLex ID: http://uri.interlex.org/base/ilx_0100736
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0025829#anterior-parieto-occipital-sulcus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -793,7 +793,7 @@ anterior parieto-occipital sulcus
 anterior perforated substance
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance``
 
    :definition: 'Anterior perforated substance' is a regional part of brain. It is part of the telencephalon.
    :synonyms: anterior perforated area, anterior perforated space, area olfactoria (Mai), eminentia parolfactoria, olfactory area (Carpenter), olfactory area (Mai), olfactory tubercle, olfactory tubercle (Ganser), rostral perforated substance, substantia perforata anterior, tuber olfactorium
@@ -809,14 +809,14 @@ anterior perforated substance
 anterior pretectal nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPretectalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPretectalNucleus``
 
    :definition: 'Anterior pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :synonyms: anterior (ventral /principal) pretectal nucleus, anterior pretectal nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034918
    :InterLex ID: http://uri.interlex.org/base/ilx_0100741
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034918#anterior-pretectal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -825,10 +825,10 @@ anterior pretectal nucleus
 anterior quadrangular lobule
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003015
    :InterLex ID: http://uri.interlex.org/base/ilx_0100743
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1
@@ -841,14 +841,14 @@ anterior quadrangular lobule
 anterior thalamic radiation
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation``
 
    :definition: The 'anterior thalamic radiation' is a white matter fibre bundle. It is part of the thalamic complex.
    :synonyms: anterior radiation of thalamus, athf, radiatio thalami anterior, radiationes thalamicae anteriores
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034746
    :InterLex ID: http://uri.interlex.org/base/ilx_0728673
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034746#anterior-thalamic-radiation
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -857,7 +857,7 @@ anterior thalamic radiation
 anterior transverse temporal gyrus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalGyrus``
 
    :definition: 'Anterior transverse temporal gyrus' is a transverse gyrus of Heschl.
    :synonyms: anterior transverse convolution of Heschl, anterior transverse convolution of heschl, anterior transverse temporal convolution of heschl, Anterior transverse temporal convolution of Heschl, first transverse gyrus of Heschl, First transverse gyrus of Heschl, great transverse gyrus of Heschl, Great transverse gyrus of Heschl, gyrus temporalis transversus anterior, gyrus temporalis transversus primus
@@ -873,14 +873,14 @@ anterior transverse temporal gyrus
 anterodorsal nucleus of medial geniculate body
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody``
 
    :definition: 'Anterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :synonyms: ADMG, anterodorsal nucleus of medial geniculate complex, anterodorsal nucleus of the medial geniculate body, nucleus corporis geniculati medialis, pars anterodorsalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014521
    :InterLex ID: http://uri.interlex.org/base/ilx_0100757
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014521#anterodorsal-nucleus-of-medial-geniculate-body-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -889,14 +889,14 @@ anterodorsal nucleus of medial geniculate body
 anterodorsal nucleus of thalamus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus``
 
    :definition: 'Anterodorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :synonyms: AD, anterior dorsal thalamic nucleus, anterodorsal nucleus, anterodorsal nucleus of thalamus, anterodorsal nucleus of the thalamus, anterodorsal thalamic nucleus, nucleus anterior dorsalis, nucleus anterior dorsalis thalami, nucleus anterior thalami dorsalis, nucleus anterodorsalis, nucleus anterodorsalis (Hassler), nucleus anterodorsalis of thalamus, nucleus anterodorsalis thalami, nucleus anterosuperior, nucleus thalamicus anterodorsalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002679
    :InterLex ID: http://uri.interlex.org/base/ilx_0100755
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002679#anterodorsal-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -905,14 +905,14 @@ anterodorsal nucleus of thalamus
 anteromedial nucleus of thalamus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus``
 
    :definition: 'Anteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :synonyms: AM, anteromedial nucleus, anteromedial nucleus of thalamus, anteromedial nucleus of the thalamus, anteromedial thalamic nucleus, nucleus anterior medialis, nucleus anterior medialis thalami, nucleus anterior thalami medialis, nucleus anteromedialis, nucleus anteromedialis (Hassler), nucleus anteromedialis thalami, nucleus thalamicus anteromedialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002681
    :InterLex ID: http://uri.interlex.org/base/ilx_0100768
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002681#anteromedial-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -921,14 +921,14 @@ anteromedial nucleus of thalamus
 anteroventral cochlear nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralCochlearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralCochlearNucleus``
 
    :definition: 'Anteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
    :synonyms: anterior part, anterior part of anterior cochlear nucleus, anterior part of the ventral cochlear nucleus, anterior ventral cochlear nucleus, anteroventral auditory nucleus, AVCo, nucleus cochlearis anteroventralis, nucleus magnocellularis, ventral cochlear nucleus, ventral coclear nucleus anterior part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002830
    :InterLex ID: http://uri.interlex.org/base/ilx_0100778
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002830#anteroventral-cochlear-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -937,14 +937,14 @@ anteroventral cochlear nucleus
 anteroventral nucleus of thalamus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralNucleusOfThalamus``
 
    :definition: 'Anteroventral nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :synonyms: anterior ventral nucleus of thalamus, anteroprincipal thalamic nucleus, anteroventral nucleus, anteroventral nucleus of thalamus, anteroventral nucleus of the thalamus, anteroventral thalamic nucleus, AV, nucleus anterior principalis (Hassler), nucleus anterior thalami ventralis, nucleus anterior ventralis, nucleus anteroinferior, nucleus anteroventralis, nucleus anteroventralis thalami, nucleus thalamicus anteroprincipalis, nucleus thalamicus anteroventralis, ventral anterior nucleus of the thalamus, ventroanterior nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002685
    :InterLex ID: http://uri.interlex.org/base/ilx_0100779
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002685#anteroventral-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -953,14 +953,14 @@ anteroventral nucleus of thalamus
 anteroventral preoptic nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralPreopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralPreopticNucleus``
 
    :definition: 'Anteroventral preoptic nucleus' is a preoptic nucleus.
    :synonyms: anteroventral preoptic nuclei, AVP
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035974
    :InterLex ID: http://uri.interlex.org/base/ilx_0100783
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035974#anteroventral-preoptic-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -969,7 +969,7 @@ anteroventral preoptic nucleus
 arcopallium
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium``
 
    :definition: 'Arcopallium' is a regional part of brain. It is part of the pallium.
    :synonyms: A, amygdaloid complex, arched pallium, archistriatum, Arcopallium, epistriatum
@@ -985,9 +985,9 @@ arcopallium
 arcuate fasciculus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus``
 
-   :definition: -
+   :definition: \-
    :synonyms: AF, arcuate fascicle, ARF, cerebral arcuate fasciculus, fasciculus arcuatus, fibrae arcuatae cerebri
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035937
    :InterLex ID: http://uri.interlex.org/base/ilx_0731407
@@ -1001,7 +1001,7 @@ arcuate fasciculus
 arcuate nucleus of hypothalamus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus``
 
    :definition: 'Arcuate nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and intermediate hypothalamic region.
    :synonyms: ArcH, arcuate hypothalamic nucleus, arcuate nucleus, arcuate nucleus of the hypothalamus, arcuate nucleus-2, arcuate periventricular nucleus, infundibular hypothalamic nucleus, infundibular nucleus, infundibular periventricular nucleus, nucleus arcuatus, nucleus arcuatus (hypothalamus), nucleus arcuatus hypothalami, nucleus infundibularis, nucleus infundibularis hypothalami, nucleus semilunaris
@@ -1017,14 +1017,14 @@ arcuate nucleus of hypothalamus
 arcuate nucleus of medulla
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfMedulla``
 
    :definition: 'Arcuate nucleus of medulla' is a nucleus of medulla oblongata.
    :synonyms: ArcM, arcuate hypothalamic nucleus medial part, arcuate hypothalamic nucleus of medulla, arcuate nucleus, arcuate nucleus (medulla), arcuate nucleus of hypothalamus of medulla, arcuate nucleus of the medulla, arcuate nucleus-1, arcuate nucleus-2 of medulla, arcuate periventricular nucleus of medulla, infundibular hypothalamic nucleus of medulla, infundibular nucleus of medulla, infundibular periventricular nucleus of medulla, medial arcuate nucleus, medial part, medulla arcuate hypothalamic nucleus, medulla arcuate nucleus, medulla arcuate nucleus of hypothalamus, medulla arcuate nucleus-2, medulla arcuate periventricular nucleus, medulla infundibular hypothalamic nucleus, medulla infundibular nucleus, medulla infundibular periventricular nucleus, nuclei arcuati, nucleus arciformis pyramidalis, nucleus arcuatus myelencephali, nucleus arcuatus pyramidalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002865
    :InterLex ID: http://uri.interlex.org/base/ilx_0100882
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002865#arcuate-nucleus-of-medulla-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1033,10 +1033,10 @@ arcuate nucleus of medulla
 area postrema
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema``
 
    :definition: 'Area postrema' is a sensory circumventricular organ. It is part of the medulla oblongata and fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002162
    :InterLex ID: http://uri.interlex.org/base/ilx_0100888
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002162#area-postrema-1
@@ -1049,10 +1049,10 @@ area postrema
 area X of basal ganglion
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion``
 
    :definition: 'Area X of basal ganglion' is a nucleus of brain. It is part of the basal ganglion.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035807
    :InterLex ID: http://uri.interlex.org/base/ilx_0731535
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035807#area-x-of-basal-ganglion
@@ -1065,14 +1065,14 @@ area X of basal ganglion
 area X of ventral lateral nucleus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus``
 
    :definition: 'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :synonyms: anteromedial part of ventral lateral posterior nucleus (jones), area X, area X of Olszewski, nucleus lateralis intermedius mediodorsalis situs ventralis medialis, nucleus ventralis oralis, nucleus ventro-oralis internus (Hassler), nucleus ventrooralis internus, nucleus ventrooralis internus (Hassler), pars posterior (Dewulf), pars posterior (dewulf), superior part, X
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002687
    :InterLex ID: http://uri.interlex.org/base/ilx_0100891
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002687#area-x
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1081,10 +1081,10 @@ area X of ventral lateral nucleus
 arthropod optic lobe
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe``
 
    :definition: 'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006795
    :InterLex ID: http://uri.interlex.org/base/ilx_0732637
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006795#arthropod-optic-lobe
@@ -1097,10 +1097,10 @@ arthropod optic lobe
 auditory cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex``
 
    :definition: The auditory cortex consists of neocortical areas that are functionally activated predominantly to sound, with the shortest latency.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001393
    :InterLex ID: http://uri.interlex.org/base/ilx_0100996
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex
@@ -1113,7 +1113,7 @@ auditory cortex
 banks of superior temporal sulcus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus``
 
    :definition: 'Banks of superior temporal sulcus' is an anatomical entity. It is part of the superior temporal sulcus.
    :synonyms: banks of superior temporal sulcus
@@ -1129,7 +1129,7 @@ banks of superior temporal sulcus
 barrel cortex
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex``
 
    :definition: 'Barrel cortex' is a functional part of brain. It is part of the primary somatosensory cortex.
    :synonyms: barrel cortex, barrel field, barrel field of the primary somatosensory area, barrel field sensory area, primary somatosensory area, primary somatosensory area barrel field, primary somatosensory cortex, whisker barrels, whisker sensory area
@@ -1145,14 +1145,14 @@ barrel cortex
 basal amygdaloid nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalAmygdaloidNucleus``
 
    :definition: 'Basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :synonyms: basal nucleus of the amygdala, basolateral amygaloid nucleus, basolateral amygdalar nucleus, basolateral amygdaloid nucleus, basolateral nucleus (De Olmos), basolateral nucleus of amygdala, basolateral nucleus of the amygdala, intermediate principal nucleus, nucleus amygdalae basalis, nucleus amygdalae basalis lateralis, nucleus amygdaloideus basalis, nucleus amygdaloideus basolateralis, nucleus basalis amygdalae
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002887
    :InterLex ID: http://uri.interlex.org/base/ilx_0101100
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002887#basal-amygdaloid-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1161,7 +1161,7 @@ basal amygdaloid nucleus
 basal forebrain
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain``
 
    :definition: 'Basal forebrain' is a regional part of brain. It is part of the forebrain.
    :synonyms: basal forebrain area, pars basalis telencephali
@@ -1177,10 +1177,10 @@ basal forebrain
 basal ganglion
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion``
 
    :definition: 'Basal ganglion' is a brain gray matter and nuclear complex of neuraxis. It is part of the collection of basal ganglia.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002420
    :InterLex ID: http://uri.interlex.org/base/ilx_0729164
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002420#basal-ganglion
@@ -1193,7 +1193,7 @@ basal ganglion
 basal nuclear complex
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex``
 
    :definition: 'Basal nuclear complex' is a nuclear complex of neuraxis and gray matter of forebrain. It is part of the basal forebrain.
    :synonyms: basal ganglia, basal ganglia (anatomic), basal nuclei, basal nuclei of the forebrain, corpus striatum (Savel'ev), ganglia basales
@@ -1209,7 +1209,7 @@ basal nuclear complex
 basal nucleus of telencephalon
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon``
 
    :definition: 'Basal nucleus of telencephalon' is a telencephalic nucleus. It is part of the substantia innominata.
    :synonyms: basal forebrain nucleus, basal magnocellular nucleus, basal magnocellular nucleus (substantia innominata), basal nuclei of Meynert, basal nucleus, basal nucleus (Meynert), basal nucleus of Meynert, basal substance of telencephalon, Ch4, ganglion of Meynert, magnocellular basal nucleus, magnocellular nucleus of the pallidum, magnocellular preoptic nucleus, Meynert's nucleus, nucleus basalis, nucleus basalis (Meynert), nucleus basalis Meynert, Nucleus basalis of Meynert, nucleus basalis telencephali, nucleus of the horizontal limb of the diagonal band (Price-Powell), substantia basalis telencephali
@@ -1225,7 +1225,7 @@ basal nucleus of telencephalon
 basal part of pons
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons``
 
    :definition: 'Basal part of pons' is a regional part of brain. It is part of the pons.
    :synonyms: basal part of the pons, basal portion of pons, base of pons, basilar part of pons, basilar pons, basis pontis, pars anterior pontis, pars basilaris pontis, pars ventralis pontis, pons proper, ventral pons, ventral portion of pons
@@ -1241,7 +1241,7 @@ basal part of pons
 basolateral amygdaloid nuclear complex
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex``
 
    :definition: 'Basolateral amygdaloid nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
    :synonyms: amygdalar basolateral nucleus, amygdaloid basolateral complex, basolateral amygdala, basolateral amygdaloid nuclear complex, basolateral complex, basolateral nuclear complex, basolateral nuclear group, basolateral nuclei of amygdala, basolateral subdivision of amygdala, BL, deep nuclei, pars basolateralis (Corpus amygdaloideum), set of basolateral nuclei of amygdala, vicarious cortex
@@ -1257,7 +1257,7 @@ basolateral amygdaloid nuclear complex
 bed nucleus of stria terminalis
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bedNucleusOfStriaTerminalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bedNucleusOfStriaTerminalis``
 
    :definition: 'Bed nucleus of stria terminalis' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :synonyms: bed nuclei of the stria terminalis, bed nucleus of stria terminalis, bed nucleus of the stria terminalis, bed nucleus stria terminalis (Johnson), bed nucleus striae terminalis, BST, intercalate nucleus of stria terminalis, interstitial nucleus of stria terminalis, nuclei of stria terminalis, nucleus interstitialis striae terminalis, nucleus of stria terminalis, nucleus of the stria terminalis, nucleus proprius stria terminalis (bed nucleus), nucleus striae terminalis, stria terminalis nucleus
@@ -1273,10 +1273,10 @@ bed nucleus of stria terminalis
 blood-cerebrospinal fluid barrier
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier``
 
    :definition: 'Blood-cerebrospinal fluid barrier' is part of the choroid plexus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003210
    :InterLex ID: http://uri.interlex.org/base/ilx_0729920
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003210#blood-cerebrospinal-fluid-barrier
@@ -1289,7 +1289,7 @@ blood-cerebrospinal fluid barrier
 body of caudate nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus``
 
    :definition: 'Body of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :synonyms: body of the caudate nucleus, caudate body, caudate nuclear body, corpus (caudatus), corpus nuclei caudati
@@ -1305,14 +1305,14 @@ body of caudate nucleus
 body of corpus callosum
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum``
 
    :definition: The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.
    :synonyms: corpus callosum body, corpus callosum corpus, corpus callosum truncus, trunculus corporis callosi, truncus corporis callosi, truncus corpus callosi, trunk of corpus callosum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0015510
    :InterLex ID: http://uri.interlex.org/base/ilx_0728551
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0015510#body-of-corpus-callosum
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1321,7 +1321,7 @@ body of corpus callosum
 body of fornix
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix``
 
    :definition: 'Body of fornix' is a central nervous system cell part cluster. It is part of the fornix of brain.
    :synonyms: body of fornix, body of fornix of forebrain, column of fornix, columna fornicis, columns of fornix, columns of the fornix, fornix body
@@ -1337,7 +1337,7 @@ body of fornix
 body of lateral ventricle
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfLateralVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfLateralVentricle``
 
    :definition: 'Body of lateral ventricle' is a telencephalic ventricle.
    :synonyms: central part of lateral ventricle, corpus, corpus ventriculi lateralis, lateral ventricular body, pars centralis, pars centralis (ventriculi lateralis), pars centralis ventriculi lateralis, ventriculus lateralis
@@ -1353,7 +1353,7 @@ body of lateral ventricle
 brachium of inferior colliculus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus``
 
    :definition: 'Brachium of inferior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the inferior colliculus and white matter.
    :synonyms: brachium colliculi caudalis, brachium colliculi inferioris, brachium of medial geniculate, brachium of the inferior colliculus, brachium quadrigeminum inferius, inferior brachium, inferior collicular brachium, inferior colliculus brachium, inferior quadrigeminal brachium, nucleus of the brachium of the inferior colliculus, peduncle of inferior colliculus
@@ -1369,7 +1369,7 @@ brachium of inferior colliculus
 brachium of superior colliculus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus``
 
    :definition: 'Brachium of superior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of superior colliculus.
    :synonyms: brachium colliculi cranialis, brachium colliculi rostralis, brachium colliculi superioris, brachium of the superior colliculus, brachium quadrigeminum superius, superior brachium, superior collicular brachium, superior colliculus brachium, superior quadrigeminal brachium
@@ -1385,14 +1385,14 @@ brachium of superior colliculus
 brain blood vessel
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel``
 
    :definition: 'Brain blood vessel' is part of the vasculature of brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003499
    :InterLex ID: http://uri.interlex.org/base/ilx_0726967
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1401,10 +1401,10 @@ brain blood vessel
 brain endothelium
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium``
 
    :definition: 'Brain endothelium' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0013694
    :InterLex ID: http://uri.interlex.org/base/ilx_0733041
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0013694#brain-endothelium
@@ -1417,10 +1417,10 @@ brain endothelium
 brain ependyma
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma``
 
    :definition: 'Brain ependyma' is an ependyma. It is part of the brain ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005357
    :InterLex ID: http://uri.interlex.org/base/ilx_0730349
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005357#brain-ependyma
@@ -1433,14 +1433,14 @@ brain ependyma
 brain gray matter
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter``
 
    :definition: 'Brain gray matter' is a gray matter. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003528
    :InterLex ID: http://uri.interlex.org/base/ilx_0725337
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1449,10 +1449,10 @@ brain gray matter
 brain marginal zone
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone``
 
    :definition: 'Brain marginal zone' is an anatomical entity. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010403
    :InterLex ID: http://uri.interlex.org/base/ilx_0734549
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0010403#brain-marginal-zone
@@ -1465,14 +1465,14 @@ brain marginal zone
 brain meninx
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx``
 
    :definition: 'Brain meninx' is a meninx. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003547
    :InterLex ID: http://uri.interlex.org/base/ilx_0726394
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1481,13 +1481,13 @@ brain meninx
 brain ventricle
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle``
 
    :definition: 'Brain ventricle' is a brain ventricle/choroid plexus and ventricle of nervous system. It is part of the ventricular system of brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004086
    :InterLex ID: http://uri.interlex.org/base/ilx_0730602
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: One of the system of communicating cavities in the brain that are continuous with the central canal of the spinal cord, that like it are derived from the medullary canal of the embryo, that are lined with an epithelial ependyma, and that contain a serous fluid.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -1497,13 +1497,13 @@ brain ventricle
 brain ventricle/choroid plexus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentriclechoroidPlexus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentriclechoroidPlexus``
 
    :definition: 'Brain ventricle/choroid plexus' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003947
    :InterLex ID: http://uri.interlex.org/base/ilx_0730467
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The brain ventricles or their associated choroid plexuses.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -1513,10 +1513,10 @@ brain ventricle/choroid plexus
 brain white matter
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter``
 
    :definition: 'Brain white matter' is a white matter. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003544
    :InterLex ID: http://uri.interlex.org/base/ilx_0736416
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003544#brain-white-matter
@@ -1529,7 +1529,7 @@ brain white matter
 brainstem
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem``
 
    :definition: 'Brainstem' is a regional part of brain.
    :synonyms: accessory medullary lamina of pallidum, brain stem, lamella pallidi incompleta, lamina medullaris accessoria, lamina medullaris incompleta pallidi, lamina pallidi incompleta, truncus encephali, truncus encephalicus
@@ -1545,10 +1545,10 @@ brainstem
 calcarine sulcus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus``
 
    :definition: 'Calcarine sulcus' is a sulcus of brain. It is part of the cerebral cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002586
    :InterLex ID: http://uri.interlex.org/base/ilx_0101552
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002586#calcarine-sulcus-1
@@ -1561,14 +1561,14 @@ calcarine sulcus
 calcified structure of brain
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain``
 
    :definition: 'Calcified structure of brain' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0017631
    :InterLex ID: http://uri.interlex.org/base/ilx_0731107
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0017631#calcified-structure-of-brain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1577,14 +1577,14 @@ calcified structure of brain
 capsule of medial geniculate body
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody``
 
    :definition: 'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.
    :synonyms: capsula corporis geniculati medialis, capsule of the medial geniculate body, medial geniculate body capsule
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002627
    :InterLex ID: http://uri.interlex.org/base/ilx_0101644
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002627#capsule-of-medial-geniculate-body-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1593,14 +1593,14 @@ capsule of medial geniculate body
 capsule of red nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfRedNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfRedNucleus``
 
    :definition: 'Capsule of red nucleus' is a brainstem white matter and white matter of midbrain. It is part of the red nucleus.
    :synonyms: capsula, capsula nuclei rubris tegmenti, capsule of the red nucleus, cr, nucleus ruber, red nuclear capsule
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002941
    :InterLex ID: http://uri.interlex.org/base/ilx_0101645
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002941#capsule-of-red-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1609,7 +1609,7 @@ capsule of red nucleus
 caudal anterior cingulate cortex
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex``
 
    :definition: 'Caudal anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
    :synonyms: caudal anterior cingulate cortex
@@ -1625,14 +1625,14 @@ caudal anterior cingulate cortex
 caudal central oculomotor nucleus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCentralOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCentralOculomotorNucleus``
 
    :definition: 'Caudal central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: caudal central nucleus, caudal central nucleus of oculomotor nerve, CC3, nucleus caudalis centralis oculomotorii, nucleus centralis nervi oculomotorii, oculomotor nerve central caudal nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002957
    :InterLex ID: http://uri.interlex.org/base/ilx_0101711
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002957#caudal-central-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1641,7 +1641,7 @@ caudal central oculomotor nucleus
 caudal middle frontal gyrus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMiddleFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMiddleFrontalGyrus``
 
    :definition: 'Caudal middle frontal gyrus' is a frontal gyrus. It is part of the middle frontal gyrus.
    :synonyms: caudal middle frontal gyrus, caudal part of middle frontal gyrus, posterior part of middle frontal gyrus
@@ -1657,14 +1657,14 @@ caudal middle frontal gyrus
 caudal part of spinal trigeminal nucleus
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus``
 
    :definition: 'Caudal part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :synonyms: caudal nucleus, caudal nucleus (kandell), Caudal nucleus (Kandell), caudal part, caudal part of the spinal trigeminal nucleus, CSp5, nucleus caudalis tractus spinalis nervi trigemini, nucleus spinalis nervi trigemini, pars caudalis, spinal nucleus of the trigeminal, spinal nucleus of the trigeminal caudal part, spinal nucleus of the trigeminal nerve caudal part, spinal trigeminal nucleus, spinal trigeminal nucleus caudal part, subnucleus caudalis, trigeminal caudal nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002866
    :InterLex ID: http://uri.interlex.org/base/ilx_0101721
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002866#caudal-part-of-spinal-trigeminal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1673,14 +1673,14 @@ caudal part of spinal trigeminal nucleus
 caudal part of ventral lateral nucleus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus``
 
    :definition: 'Caudal part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :synonyms: caudal part, caudal part of the ventral lateral nucleus, dorsal part of ventral lateral posterior nucleus (Jones), nucleus dorsooralis (van buren), nucleus lateralis intermedius mediodorsalis situs dorsalis, nucleus ventralis lateralis, pars caudalis, ventral lateral nucleus, ventral lateral thalamic nucleus, VLC
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002608
    :InterLex ID: http://uri.interlex.org/base/ilx_0101722
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002608#caudal-part-of-ventral-lateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1689,14 +1689,14 @@ caudal part of ventral lateral nucleus
 caudal part of ventral posterolateral nucleus of thalamus
 ---------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus``
 
    :definition: 'Caudal part of ventral posterolateral nucleus of thalamus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
    :synonyms: caudal part, caudal part of the ventral posterolateral nucleus, caudal part of ventral posterolateral nucleus, nucleus ventralis caudalis lateralis, nucleus ventralis posterior lateralis, nucleus ventralis posterior pars lateralis (Dewulf), nucleus ventralis posterolateralis (Walker), nucleus ventrocaudalis externus (Van Buren), pars caudalis, posterior part, ventral posterior lateral nucleus (ilinsky), ventral posterolateral nucleus, ventral posterolateral thalamic nucleus, VPLC
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002781
    :InterLex ID: http://uri.interlex.org/base/ilx_0101723
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002781#caudal-part-of-ventral-posterolateral-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1705,7 +1705,7 @@ caudal part of ventral posterolateral nucleus of thalamus
 caudal pontine reticular nucleus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPontineReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPontineReticularNucleus``
 
    :definition: 'Caudal pontine reticular nucleus' is a nucleus of pontine reticular formation.
    :synonyms: caudal part, nucleus reticularis pontis caudalis, PnC, pontine reticular nucleus, pontine reticular nucleus caudal part
@@ -1721,7 +1721,7 @@ caudal pontine reticular nucleus
 caudate nucleus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus``
 
    :definition: 'Caudate nucleus' is a telencephalic nucleus. It is part of the caudate-putamen.
    :synonyms: Ammon horn fields, Caudate, caudatum, caudatus, Cd, nucleus caudatus
@@ -1737,7 +1737,7 @@ caudate nucleus
 caudate-putamen
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen``
 
    :definition: 'Caudate-putamen' is a central nervous system cell part cluster. It is part of the dorsal striatum.
    :synonyms: caudate putamen, caudate putamen (striatum), Caudate-putamen, caudateputamen, caudoputamen, dorsal striatum, neostriatum, striatum
@@ -1753,7 +1753,7 @@ caudate-putamen
 central amygdaloid nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralAmygdaloidNucleus``
 
    :definition: 'Central amygdaloid nucleus' is a telencephalic nucleus. It is part of the amygdala.
    :synonyms: amygdala central nucleus, CeA, central amygdala, central amygdalar nucleus, central nuclear group, central nucleus amygdala, central nucleus of amygda, central nucleus of amygdala, central nucleus of the amygdala, nucleus amygdalae centralis, nucleus amygdaloideus centralis, nucleus centralis amygdalae
@@ -1769,7 +1769,7 @@ central amygdaloid nucleus
 central cervical spinocerebellar tract
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralCervicalSpinocerebellarTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralCervicalSpinocerebellarTract``
 
    :definition: 'Central cervical spinocerebellar tract' is an axon tract. It is part of the spinocerebellar tract.
    :synonyms: central cervical spinocerebellar tract
@@ -1785,14 +1785,14 @@ central cervical spinocerebellar tract
 central dorsal nucleus of thalamus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralDorsalNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralDorsalNucleusOfThalamus``
 
    :definition: 'Central dorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :synonyms: CD, central dorsal nucleus, central dorsal nucleus of thalamus, circular nucleus, nucleus centralis dorsalis thalami, nucleus centralis superior lateralis, nucleus centralis superior lateralis thalami, nucleus circularis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003034
    :InterLex ID: http://uri.interlex.org/base/ilx_0101891
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003034#central-dorsal-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1801,14 +1801,14 @@ central dorsal nucleus of thalamus
 central gray substance of medulla
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMedulla``
 
    :definition: 'Central gray substance of medulla' is a gray matter of hindbrain and central gray substance. It is part of the medulla oblongata.
    :synonyms: central gray matter, central gray of the medulla, central gray substance of the medulla, CGM, griseum periventriculare, medullary central gray substance
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002867
    :InterLex ID: http://uri.interlex.org/base/ilx_0101892
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002867#central-gray-substance-of-medulla-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1817,7 +1817,7 @@ central gray substance of medulla
 central gray substance of midbrain
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMidbrain``
 
    :definition: 'Central gray substance of midbrain' is a gray matter of midbrain and central gray substance. It is part of the midbrain tegmentum.
    :synonyms: anulus aquaeductus, anulus aqueductus cerebri, anulus of cerebral aqueduct, central (periaqueductal) gray, central gray, central gray of the midbrain, central gray substance of the midbrain, Central gray,Central grey substance of midbrain, central grey, central grey substance of midbrain, CGMB, griseum centrale, griseum centrale mesencephali, griseum periventriculare mesencephali, midbrain periaqueductal grey, pAG, periaquectuctal grey, periaqueductal gray, periaqueductal gray matter, periaqueductal gray of tegmentum, periaqueductal grey, periaqueductal grey matter, periaqueductal grey substance, proper, s. grisea centralis, substantia grisea centralis, substantia grisea centralis mesencephali
@@ -1833,14 +1833,14 @@ central gray substance of midbrain
 central gray substance of pons
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfPons``
 
    :definition: 'Central gray substance of pons' is a gray matter of hindbrain and central gray substance. It is part of the pontine reticular formation.
    :synonyms: central gray of pons, central gray of the pons, CGPn, griseum centrale pontis, pontine central gray
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002968
    :InterLex ID: http://uri.interlex.org/base/ilx_0101893
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002968#central-gray-substance-of-pons-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1849,14 +1849,14 @@ central gray substance of pons
 central lateral nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralLateralNucleus``
 
    :definition: 'Central lateral nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :synonyms: central lateral nucleus of thalamus, central lateral nucleus of the thalamus, central lateral thalamic nucleus, centrolateral thalamic nucleus, CL, nucleus centralis lateralis of thalamus, nucleus centralis lateralis thalami
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003036
    :InterLex ID: http://uri.interlex.org/base/ilx_0101894
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003036#central-lateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1865,10 +1865,10 @@ central lateral nucleus
 central lobule
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule``
 
    :definition: 'Central lobule' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003021
    :InterLex ID: http://uri.interlex.org/base/ilx_0101897
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003021#central-lobule-1
@@ -1881,7 +1881,7 @@ central lobule
 central medial nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedialNucleus``
 
    :definition: 'Central medial nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :synonyms: central medial nucleus of thalamus, central medial nucleus of the thalamus, central medial nucleus thalamus (Rioch 1928), central medial thalamic nucleus, centromedial thalamic nucleus, CM, nucleus centralis medialis, nucleus centralis medialis thalami
@@ -1897,14 +1897,14 @@ central medial nucleus
 central nucleus of inferior colliculus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus``
 
    :definition: 'Central nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :synonyms: central cortex of the inferior colliculus, central nucleus, central nucleus of the inferior colliculus, chief nucleus of inferior colliculus, CIC, inferior colliculus, inferior colliculus central nucleus, nucleus centralis (colliculi inferioris), nucleus centralis colliculi inferioris, nucleus of inferior colliculus (Crosby)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002563
    :InterLex ID: http://uri.interlex.org/base/ilx_0101911
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002563#central-nucleus-of-inferior-colliculus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1913,14 +1913,14 @@ central nucleus of inferior colliculus
 central oculomotor nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralOculomotorNucleus``
 
    :definition: 'Central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: C3, Central nucleus of Perlia, Nucleus of Perlia, Spitzka's nucleus, nucleus nervi oculomotorii centralis, perlia nucleus of oculomotor nerve
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002960
    :InterLex ID: http://uri.interlex.org/base/ilx_0101912
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002960#central-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1929,7 +1929,7 @@ central oculomotor nucleus
 central sulcus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus``
 
    :definition: The 'central sulcus' is a fold in the cerebral cortex of brains in vertebrates. [[WP,unvetted](http://en.wikipedia.org/wiki/Central_sulcus)]]
    :synonyms: central cerebral sulcus, central fissure, central sulcus of Rolando, CS, fissure of Rolando, rolandic fissure, sulcus centralis, sulcus centralis (rolandi), sulcus centralis cerebri, sulcus of Rolando
@@ -1945,14 +1945,14 @@ central sulcus
 central tegmental tract of midbrain
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain``
 
    :definition: 'Central tegmental tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and central tegmental tract.
    :synonyms: central tegmental tract of the midbrain, ctgmb, tractus tegmentalis centralis (mesencephali)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002585
    :InterLex ID: http://uri.interlex.org/base/ilx_0101918
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002585#central-tegmental-tract-of-midbrain-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1961,14 +1961,14 @@ central tegmental tract of midbrain
 central tegmental tract of pons
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons``
 
    :definition: 'Central tegmental tract of pons' is a tract of brain. It is part of the pontine tegmentum and central tegmental tract.
    :synonyms: central tegmental tract of the pons, tractus tegmentalis centralis (pontis)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002783
    :InterLex ID: http://uri.interlex.org/base/ilx_0101919
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002783#central-tegmental-tract-of-pons-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -1977,7 +1977,7 @@ central tegmental tract of pons
 centromedian nucleus of thalamus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/centromedianNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/centromedianNucleusOfThalamus``
 
    :definition: 'Centromedian nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
    :synonyms: central magnocellular nucleus of thalamus, central nucleus-1, centre median nucleus, centromedial thalamic nucleus, centromedian nucleus, centromedian nucleus of thalamus, centromedian thalamic nucleus, centrum medianum, centrum medianum thalami, CMn, Noyau centre median of Luys, nucleus centralis centralis, nucleus centralis thalami (Hassler), nucleus centri mediani thalami, nucleus centromedianus, nucleus centromedianus thalami, nucleus centrum medianum
@@ -1993,10 +1993,10 @@ centromedian nucleus of thalamus
 cephalopod optic lobe
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe``
 
    :definition: 'Cephalopod optic lobe' is a visual processing part of nervous system. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006796
    :InterLex ID: http://uri.interlex.org/base/ilx_0725883
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006796#cephalopod-optic-lobe
@@ -2009,7 +2009,7 @@ cephalopod optic lobe
 cerebellar cortex
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex``
 
    :definition: 'Cerebellar cortex' is a gray matter of hindbrain. It is part of the cerebellum.
    :synonyms: cortex cerebellaris, cortex cerebelli, cortex of cerebellar hemisphere, cortex of cerebellum
@@ -2025,13 +2025,13 @@ cerebellar cortex
 cerebellar layer
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer``
 
    :definition: 'Cerebellar layer' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the cerebellar cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004130
    :InterLex ID: http://uri.interlex.org/base/ilx_0732371
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: A cortical cell layer of the cerebellum. Examples:  the granular (inner+outer) layer, molecular layer, Purkinje cell layer, and the ventricular layer of the embryo.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -2041,7 +2041,7 @@ cerebellar layer
 cerebellar nuclear complex
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex``
 
    :definition: 'Cerebellar nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the cerebellum.
    :synonyms: central nuclei, cerebellar nuclei, deep cerebellar nuclear complex, deep cerebellar nuclei, intracerebellar nuclei, intrinsic nuclei of cerebellum, nuclei cerebellares, nuclei cerebellaris, nuclei cerebelli, roof nuclei-2, set of cerebellar nuclei
@@ -2057,10 +2057,10 @@ cerebellar nuclear complex
 cerebellar plate
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate``
 
    :definition: 'Cerebellar plate' is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004008
    :InterLex ID: http://uri.interlex.org/base/ilx_0729245
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004008#cerebellar-plate
@@ -2073,13 +2073,13 @@ cerebellar plate
 cerebellar vermis
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis``
 
    :definition: A subregion of the cerebellar cortex, consisting of the most medial zone of the cerebellar cortex, stradding the midline. May be continuous with the lateral cerebellar hemispheres in some areas of the cerebellum, e.g., dorsally, or separated by deeper fissures in others (e.g., ventrally).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004720
    :InterLex ID: http://uri.interlex.org/base/ilx_0112392
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Cerebellar vermis' is a regional part of cerebellar cortex.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -2089,7 +2089,7 @@ cerebellar vermis
 cerebellum
 ----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum``
 
    :definition: 'Cerebellum' is a regional part of brain. It is part of the metencephalon.
    :synonyms: corpus cerebelli, epencephalon-1, infratentorial region, Parencephalon
@@ -2105,10 +2105,10 @@ cerebellum
 cerebellum fissure
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure``
 
    :definition: 'Cerebellum fissure' is a subarachnoid fissure. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003980
    :InterLex ID: http://uri.interlex.org/base/ilx_0728095
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003980#cerebellum-fissure
@@ -2121,7 +2121,7 @@ cerebellum fissure
 cerebellum globose nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus``
 
    :definition: 'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.
    :synonyms: Glo, globose nucleus, medial interposed nucleus, medial interpositus (globose) nucleus, medial interpositus nucleus, nuclei globosi, nucleus globosus, nucleus globosus cerebelli, nucleus interpositus posterior, nucleus interpositus posterior cerebelli, posterior interposed nucleus, posterior interpositus nucleus
@@ -2137,10 +2137,10 @@ cerebellum globose nucleus
 cerebellum hemispheric lobule X
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleX
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleX``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024009
    :InterLex ID: http://uri.interlex.org/base/ilx_0104945
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x
@@ -2153,7 +2153,7 @@ cerebellum hemispheric lobule X
 cerebellum intermediate zone
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone``
 
    :definition: 'Cerebellum intermediate zone' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and spinocerebellum.
    :synonyms: cerebellar paravermis, cerebellum intermediate hemisphere, intermediate part of spinocerebellum, intermediate zone, paleocerebellum, paravermal zone of the cerebellum, paravermis, spinocerebellum
@@ -2169,7 +2169,7 @@ cerebellum intermediate zone
 cerebellum interpositus nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInterpositusNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInterpositusNucleus``
 
    :definition: 'Cerebellum interpositus nucleus' is a nucleus of cerebellar nuclear complex.
    :synonyms: Int, interposed cerebellar nuclei, interposed nucleus, interposed nucleus of cerebellum, interposed nucleus of the cerebellum, interpositus, interpositus nucleus
@@ -2185,14 +2185,14 @@ cerebellum interpositus nucleus
 cerebellum marginal layer
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumMarginalLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumMarginalLayer``
 
    :definition: 'Cerebellum marginal layer' is a hindbrain marginal layer. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034708
    :InterLex ID: http://uri.interlex.org/base/ilx_0734731
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2201,10 +2201,10 @@ cerebellum marginal layer
 cerebellum vasculature
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature``
 
    :definition: 'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006694
    :InterLex ID: http://uri.interlex.org/base/ilx_0729550
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature
@@ -2217,13 +2217,13 @@ cerebellum vasculature
 cerebellum vermis culmen
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisCulmen
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisCulmen``
 
    :definition: 'Cerebellum vermis culmen' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007763
    :InterLex ID: http://uri.interlex.org/base/ilx_0102659
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The culmen is the portion of the anterior vermis adjacent to the primary fissure of cerebellum. The culmen and the anterior parts of the quadrangular lobules form the lobus culminis[WP].
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -2233,10 +2233,10 @@ cerebellum vermis culmen
 cerebellum vermis lobule
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobule``
 
    :definition: 'Cerebellum vermis lobule' is a cerebellum lobule. It is part of the cerebellar vermis.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004070
    :InterLex ID: http://uri.interlex.org/base/ilx_0109877
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004070#cerebellum-vermis-lobule
@@ -2249,14 +2249,14 @@ cerebellum vermis lobule
 cerebellum vermis lobule I
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleI
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleI``
 
    :definition: 'Cerebellum vermis lobule I' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004074
    :InterLex ID: http://uri.interlex.org/base/ilx_0112394
-   :KnowledgeSpace entry: -
-   :description: -
+   :KnowledgeSpace entry: \-
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2265,10 +2265,10 @@ cerebellum vermis lobule I
 cerebellum vermis lobule IX
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX``
 
    :definition: 'Cerebellum vermis lobule IX' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004078
    :InterLex ID: http://uri.interlex.org/base/ilx_0112398
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004078#cerebellum-vermis-lobule-ix
@@ -2281,14 +2281,14 @@ cerebellum vermis lobule IX
 cerebellum vermis lobule X
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX``
 
    :definition: 'Cerebellum vermis lobule X' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004083
    :InterLex ID: http://uri.interlex.org/base/ilx_0112405
-   :KnowledgeSpace entry: -
-   :description: -
+   :KnowledgeSpace entry: \-
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2297,10 +2297,10 @@ cerebellum vermis lobule X
 cerebral blood vessel
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel``
 
    :definition: 'Cerebral blood vessel' is a brain blood vessel. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0016565
    :InterLex ID: http://uri.interlex.org/base/ilx_0732836
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0016565#cerebral-blood-vessel
@@ -2313,7 +2313,7 @@ cerebral blood vessel
 cerebral cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex``
 
    :definition: 'Cerebral cortex' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the pallium and cerebral hemisphere gray matter.
    :synonyms: brain cortex, cortex, cortex cerebralis, cortex cerebri, cortex of cerebral hemisphere, cortex of cerebrum, cortical plate (areas), cortical plate (CTXpl), Cx, pallium of the brain
@@ -2329,10 +2329,10 @@ cerebral cortex
 cerebral cortex marginal layer
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexMarginalLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexMarginalLayer``
 
    :definition: 'Cerebral cortex marginal layer' is a layer of developing cerebral cortex. It is part of the brain marginal zone.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014935
    :InterLex ID: http://uri.interlex.org/base/ilx_0726687
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014935#cerebral-cortex-marginal-layer
@@ -2345,7 +2345,7 @@ cerebral cortex marginal layer
 cerebral crus
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus``
 
    :definition: 'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.
    :synonyms: basal part, base of cerebral peduncle, basis cerebri (Oertel), basis pedunculi (Oertel), basis pedunculi cerebri (Willis), ccr, cerebral peduncle, cerebral peduncle (clinical definition), crura cerebri, crus cerebri, crus of the cerebral peduncle, pars basalis, pars neo-encephalica pedunculi, pedunculus cerebri, pes pedunculi, pes pedunculi of midbrain
@@ -2361,7 +2361,7 @@ cerebral crus
 cerebral hemisphere
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphere
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphere``
 
    :definition: 'Cerebral hemisphere' is part of the telencephalon.
    :synonyms: cerebrum, hemisphere, hemispheric regions, hemispherium cerebri, medial amygdalar nucleus, nucleus amygdaloideus medialis, nucleus medialis amygdalae
@@ -2377,7 +2377,7 @@ cerebral hemisphere
 cerebral hemisphere white matter
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter``
 
    :definition: 'Cerebral hemisphere white matter' is a white matter of telencephalon. It is part of the cerebral hemisphere.
    :synonyms: cerebral hemisphere white matter, cerebral white matter, hemisphere white matter, region of cerebral white matter, substantia medullaris cerebri, white matter structure of cerebral hemisphere
@@ -2393,7 +2393,7 @@ cerebral hemisphere white matter
 cerebral peduncle
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle``
 
    :definition: 'Cerebral peduncle' is a peduncle of neuraxis and white matter of midbrain.
    :synonyms: cerebal peduncle, cerebral peduncle, cerebral peduncle (archaic), CP, peduncle of midbrain, pedunculi cerebri, pedunculus cerebralis, pedunculus cerebri, tegmentum
@@ -2409,10 +2409,10 @@ cerebral peduncle
 cerebral subcortex
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex``
 
    :definition: 'Cerebral subcortex' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000454
    :InterLex ID: http://uri.interlex.org/base/ilx_0729745
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex
@@ -2425,7 +2425,7 @@ cerebral subcortex
 cerebrospinal fluid
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebrospinalFluid
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cerebrospinalFluid``
 
    :definition: 'cerebrospinal fluid' is a clear, colorless, bodily fluid, that occupies the subarachnoid space and the ventricular system around and inside the brain and spinal cord [WP, modified]. [http://en.wikipedia.org/wiki/Cerebrospinal_fluid]
    :synonyms: CSF, cerebral spinal fluid, liquor cerebrospinalis, spinal fluid
@@ -2441,7 +2441,7 @@ cerebrospinal fluid
 chemoarchitectural part of brain
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain``
 
    :definition: 'Chemoarchitectural part of brain' is a regional part of brain.
    :synonyms: chemoarchitectural part
@@ -2457,14 +2457,14 @@ chemoarchitectural part of brain
 chemoarchitectural part of striatum
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum``
 
    :definition: 'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025736
    :InterLex ID: http://uri.interlex.org/base/ilx_0102073
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0025736#chemoarchitectural-part-of-striatum
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2473,7 +2473,7 @@ chemoarchitectural part of striatum
 choroid plexus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus``
 
    :definition: 'Choroid plexus' is a brain ventricle/choroid plexus and vasculature of central nervous system. It is part of the brain ventricle and tela choroidea.
    :synonyms: chorioid plexus, choroid plexus, choroid plexus of cerebral hemisphere, CP, plexus choroideus, ventricular choroid plexus
@@ -2489,10 +2489,10 @@ choroid plexus
 choroid plexus corpora arenacea
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusCorporaArenacea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusCorporaArenacea``
 
    :definition: 'Choroid plexus corpora arenacea' is a calcified structure of brain. It is part of the choroid plexus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0017633
    :InterLex ID: http://uri.interlex.org/base/ilx_0728330
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0017633#choroid-plexus-corpora-arenacea
@@ -2505,10 +2505,10 @@ choroid plexus corpora arenacea
 choroid plexus epithelium
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium``
 
    :definition: 'Choroid plexus epithelium' is part of the choroid plexus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003911
    :InterLex ID: http://uri.interlex.org/base/ilx_0726675
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003911#choroid-plexus-epithelium
@@ -2521,7 +2521,7 @@ choroid plexus epithelium
 choroid plexus of fourth ventricle
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle``
 
    :definition: 'Choroid plexus of fourth ventricle' is a choroid plexus and cerebellum vasculature. It is part of the fourth ventricle.
    :synonyms: 4th ventricle choroid plexus, chorioid plexus of cerebral hemisphere of fourth ventricle, chorioid plexus of fourth ventricle, choroid plexus fourth ventricle, fourth ventricle chorioid plexus of cerebral hemisphere, fourth ventricle choroid plexus
@@ -2537,7 +2537,7 @@ choroid plexus of fourth ventricle
 choroid plexus of lateral ventricle
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfLateralVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfLateralVentricle``
 
    :definition: 'Choroid plexus of lateral ventricle' is a choroid plexus. It is part of the telencephalic ventricle.
    :synonyms: chorioid plexus of cerebral hemisphere of lateral ventricle, chorioid plexus of lateral ventricle, choroid plexus telencephalic ventricle, lateral ventricle chorioid plexus of cerebral hemisphere, lateral ventricle choroid plexus
@@ -2553,7 +2553,7 @@ choroid plexus of lateral ventricle
 choroid plexus of third ventricle
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfThirdVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfThirdVentricle``
 
    :definition: 'Choroid plexus of third ventricle' is a choroid plexus. It is part of the third ventricle.
    :synonyms: 3rd ventricle choroid plexus, chorioid plexus of cerebral hemisphere of third ventricle, chorioid plexus of third ventricle, choroid plexus third ventricle, diencephalic choroid plexus, third ventricle chorioid plexus of cerebral hemisphere, third ventricle choroid plexus
@@ -2569,10 +2569,10 @@ choroid plexus of third ventricle
 choroid plexus stroma
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma``
 
    :definition: 'Choroid plexus stroma' is part of the choroid plexus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005206
    :InterLex ID: http://uri.interlex.org/base/ilx_0726217
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005206#choroid-plexus-stroma
@@ -2585,7 +2585,7 @@ choroid plexus stroma
 cingulate cortex
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex``
 
    :definition: 'Cingulate cortex' is a regional part of brain. It is part of the limbic cortex.
    :synonyms: cingulate neocortex, gyrus cingulatus, gyrus cinguli
@@ -2601,7 +2601,7 @@ cingulate cortex
 cingulate gyrus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateGyrus``
 
    :definition: 'Cingulate gyrus' is a gyrus. It is part of the limbic system.
    :synonyms: CG, cingular gyrus, cingulate area, cingulate region, falciform lobe, gyri cinguli, upper limbic gyrus
@@ -2617,10 +2617,10 @@ cingulate gyrus
 cingulate sulcus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateSulcus``
 
    :definition: The cingulate sulcus is a sulcus (brain fold) on the medial wall of the cerebral cortex. The frontal and parietal lobes are separated by the cingulate sulcus from the cingulate gyrus. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002710
    :InterLex ID: http://uri.interlex.org/base/ilx_0102181
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002710#cingulate-sulcus-1
@@ -2633,10 +2633,10 @@ cingulate sulcus
 cingulum of brain
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain``
 
    :definition: 'Cingulum of brain' is a tract of brain. It is part of the brain white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003961
    :InterLex ID: http://uri.interlex.org/base/ilx_0736017
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003961#cingulum-of-brain
@@ -2649,14 +2649,14 @@ cingulum of brain
 circular sulcus of insula
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula``
 
    :definition: 'Circular sulcus of insula' is a marginal sulcus. It is part of the insula.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002713
    :InterLex ID: http://uri.interlex.org/base/ilx_0102193
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002713#circular-sulcus-of-insula-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2665,7 +2665,7 @@ circular sulcus of insula
 circumventricular organ
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/circumventricularOrgan
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/circumventricularOrgan``
 
    :definition: 'Circumventricular organ' is a regional part of brain.
    :synonyms: CVO, circumventricular organ, circumventricular organ of neuraxis
@@ -2681,14 +2681,14 @@ circumventricular organ
 claustral amygdaloid area
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea``
 
    :definition: 'Claustral amygdaloid area' is a cerebral hemisphere gray matter. It is part of the amygdala and basal nuclear complex.
    :synonyms: area claustralis amygdalae, claustral amygdalar area, claustrum diffusa, claustrum parvum, ventral claustrum, ventral portion of claustrum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002729
    :InterLex ID: http://uri.interlex.org/base/ilx_0102229
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2697,7 +2697,7 @@ claustral amygdaloid area
 claustrum of brain
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain``
 
    :definition: 'Claustrum of brain' is a basal ganglion and cerebral hemisphere gray matter. It is part of the pallium and basal nuclear complex.
    :synonyms: Cl, claustrum, claustrum (Burdach), dorsal claustrum, dorsal portion of claustrum, insular claustrum
@@ -2713,7 +2713,7 @@ claustrum of brain
 cochlear nuclear complex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearNuclearComplex``
 
    :definition: 'Cochlear nuclear complex' is a gray matter of hindbrain. It is part of the medulla oblongata.
    :synonyms: cochlear nuclei, cochlear nucleus, nuclei cochleares
@@ -2729,10 +2729,10 @@ cochlear nuclear complex
 collateral sulcus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus``
 
    :definition: The collateral fissure (or sulcus) is on the tentorial surface of the hemisphere and extends from near the occipital pole to within a short distance of the temporal pole. Behind, it lies below and lateral to the calcarine fissure, from which it is separated by the lingual gyrus; in front, it is situated between the hippocampal gyrus and the anterior part of the fusiform gyrus. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002716
    :InterLex ID: http://uri.interlex.org/base/ilx_0102361
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002716#collateral-sulcus-1
@@ -2745,13 +2745,13 @@ collateral sulcus
 collection of basal ganglia
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia``
 
    :definition: 'Collection of basal ganglia' is an aggregate regional part of brain. It is part of the cerebral subcortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010011
    :InterLex ID: http://uri.interlex.org/base/ilx_0101102
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: Subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -2761,14 +2761,14 @@ collection of basal ganglia
 commissural nucleus of the solitary tract
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract``
 
    :definition: 'Commissural nucleus of the solitary tract' is a nucleus of solitary tract.
    :synonyms: commissural nucleus of the solitary tract, commissural nucleus tractus solitarius
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023855
    :InterLex ID: http://uri.interlex.org/base/ilx_0102404
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023855#commissural-nucleus-of-the-solitary-tract-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2777,14 +2777,14 @@ commissural nucleus of the solitary tract
 commissural nucleus of vagus nerve
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfVagusNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfVagusNerve``
 
    :definition: 'Commissural nucleus of vagus nerve' is a nucleus of medulla oblongata and vagus nerve nucleus.
    :synonyms: Cm10, commissural nucleus of the vagus nerve, commissural nucleus-1, nucleus commissuralis, nucleus commissuralis nervi vagi, nucleus of inferior commissure, nucleus of inferior commisure
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002868
    :InterLex ID: http://uri.interlex.org/base/ilx_0102405
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002868#commissural-nucleus-of-vagus-nerve-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2793,14 +2793,14 @@ commissural nucleus of vagus nerve
 composite part spanning multiple base regional parts of brain
 -------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain``
 
    :definition: 'Composite part spanning multiple base regional parts of brain' is an anatomical entity. It is part of the brain.
    :synonyms: composite part spanning multiple base regional parts of brain
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022776
    :InterLex ID: http://uri.interlex.org/base/ilx_0102438
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022776#composite-part-spanning-multiple-base-regional-parts-of-brain-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2809,7 +2809,7 @@ composite part spanning multiple base regional parts of brain
 copula pyramidis
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/copulaPyramidis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/copulaPyramidis``
 
    :definition: 'Copula pyramidis' is a cerebellum hemisphere lobule.
    :synonyms: copula of the pyramis
@@ -2825,14 +2825,14 @@ copula pyramidis
 core of nucleus accumbens
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens``
 
    :definition: 'Core of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
    :synonyms: AcbC, accumbens nucleus, accumbens nucleus core, core, core of nucleus accumbens, core region of nucleus accumbens, nucleus accumbens core, nucleusa ccumbens core
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0012170
    :InterLex ID: http://uri.interlex.org/base/ilx_0102559
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0012170#core-of-nucleus-accumbens-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2841,7 +2841,7 @@ core of nucleus accumbens
 corona radiata of neuraxis
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/coronaRadiataOfNeuraxis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/coronaRadiataOfNeuraxis``
 
    :definition: 'Corona radiata of neuraxis' is a cerebral hemisphere white matter.
    :synonyms: corona radiata
@@ -2857,9 +2857,9 @@ corona radiata of neuraxis
 corpus callosum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum``
 
-   :definition: -
+   :definition: \-
    :synonyms: cc
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002336
    :InterLex ID: http://uri.interlex.org/base/ilx_0102562
@@ -2873,10 +2873,10 @@ corpus callosum
 corpus striatum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum``
 
    :definition: 'Corpus striatum' is a regional part of brain. It is part of the basal ganglion.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000369
    :InterLex ID: http://uri.interlex.org/base/ilx_0729722
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000369#corpus-striatum
@@ -2889,7 +2889,7 @@ corpus striatum
 cortical amygdaloid nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus``
 
    :definition: 'Cortical amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
    :synonyms: CoA, cortex periamygdaloideus, cortical amygdala, cortical amygdalar area, cortical amygdalar nucleus, nucleus amygdalae corticalis, nucleus corticalis amygdalae, posterior amygdaloid area, posterior cortical amygdalar nucleus, posterior cortical amygdaloid nucleus, posterior cortical nucleus, posterior cortical nucleus of amygdala, posterior cortical nucleus of the amygdala, ventral cortical amygdaloid nucleus, ventral cortical nucleus
@@ -2905,14 +2905,14 @@ cortical amygdaloid nucleus
 cortical layer I
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI``
 
    :definition: The most superficial layer of the neocortex characterized by a paucity of cell bodies.
    :synonyms: cortical layer 1, lamina 1, lamina I, lamina molecularis isocorticis, layer 1, layer 1 of neocortex, layer I, layer i, layer I of neocortex, molecular layer of cerebral cortex, molecular layer of isocortex, molecular layer of neocortex, neocortex layer 1, neocortex layer I, neocortex molecular layer, neocortex plexiform layer, neocortical layer 1, neocortical layer I, plexiform layer of neocortex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005390
    :InterLex ID: http://uri.interlex.org/base/ilx_0107367
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005390#neocortex-layer-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2921,14 +2921,14 @@ cortical layer I
 cortical layer II
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII``
 
    :definition: Layer of neocortex lying just deep to molecular layer characterized by numerous small cell bodies.
    :synonyms: cortical layer 2, external granular layer of isocortex, external granular layer of neocortex, external granule cell layer of neocortex, lamina 2, lamina granularis externa isocorticis, lamina II, layer 2, layer 2 of neocortex, layer II, layer ii, layer II of neocortex, neocortex layer 2, neocortex layer II, neocortical layer 2, neocortical layer II
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005391
    :InterLex ID: http://uri.interlex.org/base/ilx_0107368
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005391#neocortex-layer-2
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2937,14 +2937,14 @@ cortical layer II
 cortical layer III
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII``
 
    :definition: Layer of neocortex lying deep to the external granule cell layer defined cytoarchitecturally by numerous small pyramidal neurons.
    :synonyms: cortical layer 3, external pyramidal cell layer, external pyramidal layer of isocortex, external pyramidal layer of neocortex, lamina 3, lamina III, lamina pyramidalis externa isocorticis, layer 3, layer 3 of neocortex, layer III, layer iii, layer III of neocortex, neocortex external pyramidal cell layer, neocortex layer 3, neocortex layer III, neocortical layer 3, neocortical layer III
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005392
    :InterLex ID: http://uri.interlex.org/base/ilx_0107369
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005392#neocortex-layer-3
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2953,14 +2953,14 @@ cortical layer III
 cortical layer IV
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIV
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIV``
 
    :definition: Layer of neocortex lying deep to the external pyramidal cell layer defined cytoarchitecturally by the presence of numerous small cells.
    :synonyms: cortical layer 4, internal granular layer of isocortex, internal granular layer of neocortex, internal granule cell layer of neocortex, lamina 4, lamina granularis interna isocorticis, lamina IV, layer 4, layer 4 of neocortex, layer IV, layer iv, layer IV of neocortex, neocortex internal granule cell layer, neocortex layer 4, neocortex layer IV, neocortical layer 4, neocortical layer IV
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005393
    :InterLex ID: http://uri.interlex.org/base/ilx_0107370
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005393#neocortex-layer-4
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2969,14 +2969,14 @@ cortical layer IV
 cortical layer V
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV``
 
    :definition: Layer of neocortex lying deep to the internal granule cell layer (layer 4) defined cytoarchitecturally by the predominance of large pyramidal cell bodies.
    :synonyms: cortical layer 5, internal pyramidal cell layer of neocortex, internal pyramidal layer of isocortex, lamina 5, lamina ganglionaris, lamina pyramidalis interna, lamina pyramidalis interna isocorticis, lamina V, layer 5, layer 5 of neocortex, layer V, layer v, layer V of neocortex, neocortex layer 5, neocortex layer V, neocortical layer 5, neocortical layer V
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005394
    :InterLex ID: http://uri.interlex.org/base/ilx_0107371
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005394#neocortex-layer-5
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -2985,14 +2985,14 @@ cortical layer V
 cortical layer VI
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerVI
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerVI``
 
    :definition: Innermost layer of neocortex lying deep to the internal pyramidal cell layer defined cytoarchitecturally by cells of varying size.
    :synonyms: cortical layer 6, lamina 6, lamina multiformis, lamina multiformis isocorticis, lamina VI, layer 6, layer 6 of neocortex, layer VI, layer vi, layer VI of neocortex, multiform layer of isocortex, multiform layer of neocortex, neocortex layer 6, neocortex layer VI, neocortical layer 6, neocortical layer VI, pleiomorphic layer of neocortex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005395
    :InterLex ID: http://uri.interlex.org/base/ilx_0107374
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005395#neocortex-layer-6
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3001,7 +3001,7 @@ cortical layer VI
 corticomedial nuclear complex
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex``
 
    :definition: 'Corticomedial nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
    :synonyms: amygdalar corticomedial nucleus, CMA, corpus amygdaloideum pars corticomedialis, corpus amygdaloideum pars olfactoria, corticomedial nuclear complex, corticomedial nuclear group, corticomedial nuclei of amygdala, pars corticomedialis (Corpus amygdaloideum), set of corticomedial nuclei of amygdala
@@ -3017,13 +3017,13 @@ corticomedial nuclear complex
 corticospinal tract
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract``
 
-   :definition: -
+   :definition: \-
    :synonyms: corticospinal fibers, fasciculus cerebro-spinalis, fasciculus pyramidalis, fibrae corticospinales, tractus cortico-spinalis, tractus corticospinalis, tractus pyramidalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002707
    :InterLex ID: http://uri.interlex.org/base/ilx_0109556
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The 'corticospinal tract' is a white matter fibre bundle that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -3033,14 +3033,14 @@ corticospinal tract
 corticotectal tract
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract``
 
    :definition: 'Corticotectal tract' is a tract of brain. It is part of the midbrain tectum.
    :synonyms: cortico-tectal tract, corticotectal fibers, corticotectal fibres, fibrae corticotectales, tractus corticotectalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002556
    :InterLex ID: http://uri.interlex.org/base/ilx_0102591
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002556#corticotectal-tract-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3049,14 +3049,14 @@ corticotectal tract
 cranial nerve II
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII``
 
    :definition: The 'cranial nerve II' is comprised of retinal ganglion cell axons running posterior medially towards the optic chiasm, at which some of the axons cross the midline and after which the structure is termed the optic tract.
    :synonyms: 02 optic nerve, cranial II, nervus opticus, nervus opticus [II], optic II, optic II nerve, optic nerve [II], second cranial nerve
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000941
    :InterLex ID: http://uri.interlex.org/base/ilx_0724691
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000941#optic-nerve
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3065,7 +3065,7 @@ cranial nerve II
 cuneate fasciculus of medulla
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfMedulla``
 
    :definition: 'Cuneate fasciculus of medulla' is a cuneate fasciculus, fasciculus of brain and tract of brain. It is part of the medulla oblongata.
    :synonyms: cu, fasciculus cuneatus (myelencephali), nucleus pulvinaris oromedialis (Hassler)
@@ -3081,14 +3081,14 @@ cuneate fasciculus of medulla
 cuneiform nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus``
 
    :definition: 'Cuneiform nucleus' is a nucleus of midbrain reticular formation.
    :synonyms: area parabigeminalis (Mai), CnF, cuneiform nucleus (Castaldi), cunieform nucleus, nucleus cuneiformis, parabigeminal area (mai)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002696
    :InterLex ID: http://uri.interlex.org/base/ilx_0102671
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002696#cuneiform-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3097,7 +3097,7 @@ cuneiform nucleus
 cuneocerebellar tract
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneocerebellarTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cuneocerebellarTract``
 
    :definition: 'Cuneocerebellar tract' is a tract of brain. It is part of the white matter of medulla oblongata.
    :synonyms: CCT, cuneocerebellar fibers, tractus cuneocerebelli
@@ -3113,7 +3113,7 @@ cuneocerebellar tract
 cuneus cortex
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex``
 
    :definition: 'Cuneus cortex' is an occipital gyrus.
    :synonyms: CuG, cuneate lobule, cuneus, cuneus cortex, cuneus gyrus, cuneus of hemisphere, gyrus cuneus
@@ -3129,14 +3129,14 @@ cuneus cortex
 cytoarchitectural part of dentate gyrus
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus``
 
    :definition: 'Cytoarchitectural part of dentate gyrus' is a regional part of brain.
    :synonyms: cytoarchitectural part of dentate gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023564
    :InterLex ID: http://uri.interlex.org/base/ilx_0102762
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023564#cytoarchitectural-part-of-dentate-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3145,10 +3145,10 @@ cytoarchitectural part of dentate gyrus
 decussation of superior cerebellar peduncle
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle``
 
    :definition: 'Decussation of superior cerebellar peduncle' is a neural decussation. It is part of the midbrain tegmentum and superior cerebellar peduncle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002588
    :InterLex ID: http://uri.interlex.org/base/ilx_0102963
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002588#decussation-of-superior-cerebellar-peduncle-1
@@ -3161,10 +3161,10 @@ decussation of superior cerebellar peduncle
 decussation of trochlear nerve
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfTrochlearNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfTrochlearNerve``
 
    :definition: 'Decussation of trochlear nerve' is a neural decussation. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002787
    :InterLex ID: http://uri.interlex.org/base/ilx_0102964
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002787#decussation-of-trochlear-nerve-1
@@ -3177,14 +3177,14 @@ decussation of trochlear nerve
 densocellular part of medial dorsal nucleus
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus``
 
    :definition: 'Densocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :synonyms: densocellular part of the medial dorsal nucleus, MDD, nucleus medialis dorsalis, nucleus medialis dorsalis paralamellaris (Hassler), pars densocellularis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002645
    :InterLex ID: http://uri.interlex.org/base/ilx_0103047
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002645#densocellular-part-of-medial-dorsal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3193,10 +3193,10 @@ densocellular part of medial dorsal nucleus
 dentate gyrus granule cell layer
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer``
 
    :definition: Granule cell layer is also called the DG principal cell layer. This one of the three layers of dentate gyrus that lies deep to the molecular layer and is made of densely packed layer that is four to eight granule cells thick.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005381
    :InterLex ID: http://uri.interlex.org/base/ilx_0103056
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005381#dentate-gyrus-granule-cell-layer-1
@@ -3209,10 +3209,10 @@ dentate gyrus granule cell layer
 dentate gyrus molecular layer
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer``
 
    :definition: The molecular layer of the dentate gyrus that is bounded by the pial surface superficially and the dentate gyrus granule cell layer deep. It is divided into 2 or more sublayers.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004679
    :InterLex ID: http://uri.interlex.org/base/ilx_0103074
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004679#dentate-gyrus-molecular-layer-1
@@ -3225,7 +3225,7 @@ dentate gyrus molecular layer
 dentate gyrus of hippocampal formation
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation``
 
    :definition: 'Dentate gyrus of hippocampal formation' is a regional part of brain. It is part of the hippocampal formation.
    :synonyms: area dentata, dentate area, dentate area (dentate gyrus), dentate gyrus, DG, fascia dentata, gyrus dentatus, hippocampal dentate gyrus
@@ -3241,7 +3241,7 @@ dentate gyrus of hippocampal formation
 dentate nucleus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus``
 
    :definition: 'Dentate nucleus' is a nucleus of cerebellar nuclear complex.
    :synonyms: dentate cerebellar nucleus, dentate nucleus, dentate nucleus (Vicq d'Azyr), dentatothalamocortical fibers, lateral cerebellar nucleus, lateral nucleus of cerebellum, nucleus dentatus, nucleus dentatus cerebelli, nucleus lateralis cerebelli
@@ -3257,7 +3257,7 @@ dentate nucleus
 dentatothalamic tract
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract``
 
    :definition: 'Dentatothalamic tract' is a tract of brain. It is part of the midbrain tegmentum.
    :synonyms: dentatothalamic fibers, DT, tractus dentatothalamicus
@@ -3273,7 +3273,7 @@ dentatothalamic tract
 diagonal band of Broca
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca``
 
    :definition: 'Diagonal band of Broca' is a neuron projection bundle and central nervous system cell part cluster. It is part of the cerebral hemisphere white matter.
    :synonyms: band of Broca, bandaletta diagonalis (Broca), bandeletta diagonalis, Broca's diagonal band, Broca's diagonal gyrus, diagonal band, diagonal band of Broca, diagonal band(Broca), diagonal gyrus, fasciculus diagonalis Brocae, fasciculus olfactorius, fasciculus olfactorius (hippocampi), fasciculus olfactorius cornu Ammonis, fasciculus septo-amygdalicus, gyrus diagonalis, gyrus diagonalis rhinencephli, olfactory fasciculus, Olfactory radiations of Zuckerkandl, stria diagonalis, stria diagonalis (Broca)
@@ -3289,7 +3289,7 @@ diagonal band of Broca
 diencephalon
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon``
 
    :definition: 'Diencephalon' is a regional part of brain. It is part of the forebrain.
    :synonyms: between brain, betweenbrain, DiE, diencephalon, Interbrain, mature diencephalon, thalamencephalon
@@ -3305,14 +3305,14 @@ diencephalon
 diffuse reticular nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/diffuseReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/diffuseReticularNucleus``
 
    :definition: 'Diffuse reticular nucleus' is a parabrachial nucleus.
    :synonyms: DRt, diffuse reticular nucleus, Kolliker-Fuse nucleus, nucleus subparabrachialis, KÃ¶lliker-Fuse nucleus, Koelliker-Fuse nucleus, nucleus of Kolliker-Fuse, subparabrachial nucleus, Kolloker-Fuse nucleus, kvlliker-Fuse subnucleus, kvlliker-Fuse subnucleus of parabrachial nucleus, nucleus reticularis diffusus (Koelliker), Kolliker-Fuse subnucleus, nucleus reticularis diffusus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002869
    :InterLex ID: http://uri.interlex.org/base/ilx_0105881
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002869#diffuse-reticular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3321,7 +3321,7 @@ diffuse reticular nucleus
 dorsal accessory inferior olivary nucleus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus``
 
    :definition: 'Dorsal accessory inferior olivary nucleus' is an inferior olivary nucleus.
    :synonyms: DAO, dorsal accessory olivary nucleus, dorsal accessory olive, dorsal nucleus, inferior olivary complex, inferior olivary complex dorsalaccessory nucleus, inferior olive, inferior olive dorsal nucleus, nucleus olivaris accessorius posterior, posterior accessory olivary nucleus
@@ -3337,7 +3337,7 @@ dorsal accessory inferior olivary nucleus
 dorsal acoustic stria
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAcousticStria
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAcousticStria``
 
    :definition: 'Dorsal acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :synonyms: das, dorsal acoustic stria (Monakow), posterior acoustic stria, stria cochlearis posterior, striae acusticae dorsalis
@@ -3353,14 +3353,14 @@ dorsal acoustic stria
 dorsal cap of Kooy
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCapOfKooy
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCapOfKooy``
 
    :definition: 'Dorsal cap of Kooy' is a regional part of brain. It is part of the inferior olivary complex.
    :synonyms: dorsal cap of kooy
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014286
    :InterLex ID: http://uri.interlex.org/base/ilx_0103421
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014286#dorsal-cap-of-kooy-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3369,7 +3369,7 @@ dorsal cap of Kooy
 dorsal cochlear nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCochlearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCochlearNucleus``
 
    :definition: 'Dorsal cochlear nucleus' is a cochlear nucleus.
    :synonyms: DCo, dorsal cochlear nucleus, dorsal coclear nucleus, dorsal division of cochlear nucleus, nucleus cochlearis dorsalis, nucleus cochlearis posterior, posterior cochlear nucleus, tuberculum acousticum
@@ -3385,7 +3385,7 @@ dorsal cochlear nucleus
 dorsal column nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnNucleus``
 
    :definition: 'Dorsal column nucleus' is a nucleus of medulla oblongata. It is part of the dorsal column-medial lemniscus pathway.
    :synonyms: dorsal column nuclei
@@ -3401,14 +3401,14 @@ dorsal column nucleus
 dorsal external arcuate fiber bundle
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle``
 
    :definition: 'Dorsal external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :synonyms: dorsal external arcuate fiber bundle, dorsal external arcuate fibers, dorsal external arcuate tract, dorsal superficial arcuate fibers, ear, external arcuate fibers, fibrae arcuatae externae dorsales, fibrae arcuatae externae posteriores
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006089
    :InterLex ID: http://uri.interlex.org/base/ilx_0103433
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006089#dorsal-external-arcuate-fiber-bundle-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3417,7 +3417,7 @@ dorsal external arcuate fiber bundle
 dorsal hypothalamic area
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea``
 
    :definition: 'Dorsal hypothalamic area' is a regional part of brain. It is part of the hypothalamus.
    :synonyms: area dorsalis hypothalami, area hypothalamica dorsalis, DH, dorsal hypothalamic region, dorsal hypothalamic zone, nucleus hypothalamicus dorsalis
@@ -3433,7 +3433,7 @@ dorsal hypothalamic area
 dorsal longitudinal fasciculus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculus``
 
    :definition: 'Dorsal longitudinal fasciculus' is a fasciculus of brain.
    :synonyms: accessory cochlear nucleus, bundle of Schutz, dlf, dorsal longitudinal fascicle, fasciculus longitudinalis dorsalis, fasciculus longitudinalis posterior, fasciculus of Schutz, nucleus acustici accessorici, nucleus cochlearis anterior, nucleus cochlearis ventralis, posterior longitudinal fasciculus, ventral cochlear nuclei, ventral division of cochlear nucleus
@@ -3449,7 +3449,7 @@ dorsal longitudinal fasciculus
 dorsal longitudinal fasciculus of hypothalamus
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus``
 
    :definition: 'Dorsal longitudinal fasciculus of hypothalamus' is a fasciculus of brain. It is part of the lateral hypothalamic area and dorsal longitudinal fasciculus.
    :synonyms: dlfh, dorsal longitudinal fasciculus of the hypothalamus, fasciculus longitudinalis dorsalis (hypothalami)
@@ -3465,7 +3465,7 @@ dorsal longitudinal fasciculus of hypothalamus
 dorsal longitudinal fasciculus of medulla
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla``
 
    :definition: 'Dorsal longitudinal fasciculus of medulla' is a fasciculus of brain. It is part of the medulla oblongata.
    :synonyms: bundle of Schutz of medulla, dorsal longitudinal fasciculus of the medulla, fasciculus longitudinalis dorsalis (myelencephali), fasciculus of Schutz of medulla, medulla bundle of Schutz, medulla dorsal longitudinal fasciculus, medulla fasciculus of Schutz, medulla posterior longitudinal fasciculus, posterior longitudinal fasciculus of medulla
@@ -3481,7 +3481,7 @@ dorsal longitudinal fasciculus of medulla
 dorsal longitudinal fasciculus of midbrain
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain``
 
    :definition: 'Dorsal longitudinal fasciculus of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum and dorsal longitudinal fasciculus.
    :synonyms: bundle of Schutz of midbrain, dlfmb, dorsal longitudinal fasciculus of the midbrain, fasciculus longitudinalis dorsalis (mesencephali), fasciculus of Schutz of midbrain, midbrain bundle of Schutz, midbrain dorsal longitudinal fasciculus, midbrain fasciculus of Schutz, midbrain posterior longitudinal fasciculus, posterior longitudinal fasciculus of midbrain
@@ -3497,7 +3497,7 @@ dorsal longitudinal fasciculus of midbrain
 dorsal longitudinal fasciculus of pons
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons``
 
    :definition: 'Dorsal longitudinal fasciculus of pons' is a fasciculus of brain. It is part of the pons and dorsal longitudinal fasciculus.
    :synonyms: dorsal longitudinal fasciculus of the pons, fasciculus longitudinalis dorsalis (pontis)
@@ -3513,7 +3513,7 @@ dorsal longitudinal fasciculus of pons
 dorsal motor nucleus of vagus nerve
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve``
 
    :definition: 'Dorsal motor nucleus of vagus nerve' is a nucleus of medulla oblongata and motor nucleus of vagal nerve.
    :synonyms: 10N, dorsal efferent nucleus of vagus, dorsal motor nucleus, dorsal motor nucleus of the vagus, dorsal motor nucleus of the vagus (vagal nucleus), dorsal motor nucleus of the vagus nerve, dorsal motor nucleus of vagus, dorsal motor nucleus of vagus nerve, dorsal motor nucleus of vagus X nerve, dorsal motor nucleus of X, dorsal motor vagal nucleus, dorsal nucleus of the vagus nerve, dorsal nucleus of vagus nerve, dorsal vagal nucleus, nucleus alaris, nucleus alaris (Oertel), nucleus dorsalis motorius nervi vagi, nucleus dorsalis nervi vagi, nucleus posterior nervi vagi, nucleus vagalis dorsalis, posterior nucleus of vagus nerve, vagus nucleus
@@ -3529,14 +3529,14 @@ dorsal motor nucleus of vagus nerve
 dorsal nucleus of lateral lemniscus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus``
 
    :definition: 'Dorsal nucleus of lateral lemniscus' is a nucleus of lateral lemniscus.
    :synonyms: DLL, dorsal nucleus of the lateral lemniscus, dorsal part, nucleus lemnisci lateralis dorsalis, nucleus lemnisci lateralis pars dorsalis, nucleus of the lateral lemniscus, nucleus of the lateral lemniscus dorsal part, nucleus posterior lemnisci lateralis, posterior nucleus of lateral lemniscus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003006
    :InterLex ID: http://uri.interlex.org/base/ilx_0103457
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003006#dorsal-nucleus-of-lateral-lemniscus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3545,7 +3545,7 @@ dorsal nucleus of lateral lemniscus
 dorsal nucleus of medial geniculate body
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody``
 
    :definition: 'Dorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :synonyms: DMG, dorsal medial geniculate nucleus, dorsal nucleus of medial geniculate body, dorsal nucleus of medial geniculate complex, dorsal nucleus of the medial geniculate body, dorsal part, medial geniculate complex, medial geniculate complex dorsal part, medial geniculate nucleus, medial geniculate nucleus dorsal part, MGD, nucleus corporis geniculati medialis, nucleus dorsalis coporis geniculati medialis, nucleus dorsalis corporis geniculati medialis, nucleus geniculatus medialis fibrosus (Hassler), nucleus geniculatus medialis pars dorsalis, pars dorsalis
@@ -3561,14 +3561,14 @@ dorsal nucleus of medial geniculate body
 dorsal nucleus of trapezoid body
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody``
 
    :definition: 'Dorsal nucleus of trapezoid body' is a nucleus of trapezoid body.
    :synonyms: dorsal nucleus of trapezoid body, nucleus dorsalis corporis trapezoidei
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009053
    :InterLex ID: http://uri.interlex.org/base/ilx_0103459
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009053#dorsal-nucleus-of-trapezoid-body-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3577,14 +3577,14 @@ dorsal nucleus of trapezoid body
 dorsal oculomotor nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalOculomotorNucleus``
 
    :definition: 'Dorsal oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: D3, dorsal nucleus of oculomotor nuclear complex, dorsal oculomotor cell column, nucleus nervi oculomotorii, pars dorsalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002964
    :InterLex ID: http://uri.interlex.org/base/ilx_0103460
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002964#dorsal-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3593,10 +3593,10 @@ dorsal oculomotor nucleus
 dorsal pallidum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum``
 
    :definition: 'Dorsal pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006516
    :InterLex ID: http://uri.interlex.org/base/ilx_0724298
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006516#dorsal-pallidum
@@ -3609,7 +3609,7 @@ dorsal pallidum
 dorsal paramedian reticular nucleus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalParamedianReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalParamedianReticularNucleus``
 
    :definition: 'Dorsal paramedian reticular nucleus' is a nucleus of medulla oblongata. It is part of the paramedian medullary reticular complex.
    :synonyms: dorsal paramedian nuclei of raphe, dorsal paramedian nucleus, dorsal paramedian reticular nucleus, nucleo paramediano dorsale@it, nucleus paramedianus dorsalis, nucleus paramedianus posterior, nucleus reticularis paramedianus myelencephali, nzcleo reticular paramediano dorsal@es, PMD, posterior paramedian nucleus
@@ -3625,7 +3625,7 @@ dorsal paramedian reticular nucleus
 dorsal plus ventral thalamus
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPlusVentralThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPlusVentralThalamus``
 
    :definition: 'Dorsal plus ventral thalamus' is a regional part of brain. It is part of the thalamic complex.
    :synonyms: Parencephalon, Th, thalamencephalon, thalami, thalamus, thalamus opticus, wider thalamus
@@ -3641,10 +3641,10 @@ dorsal plus ventral thalamus
 dorsal raphe nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus``
 
    :definition: 'Dorsal raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002043
    :InterLex ID: http://uri.interlex.org/base/ilx_0103469
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002043#dorsal-raphe-nucleus-1
@@ -3657,14 +3657,14 @@ dorsal raphe nucleus
 dorsal septal nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus``
 
    :definition: 'Dorsal septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :synonyms: nucleus dorsalis septi, nucleus septalis dorsalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002931
    :InterLex ID: http://uri.interlex.org/base/ilx_0103478
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002931#dorsal-septal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3673,7 +3673,7 @@ dorsal septal nucleus
 dorsal striatum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum``
 
    :definition: 'Dorsal striatum' is a gray matter of telencephalon. It is part of the striatum.
    :synonyms: caudoputamen, corpus striatum, dorsal basal ganglia, dorsal basal ganglion, StD, striated body, striatum dorsal region, striatum dorsale
@@ -3689,14 +3689,14 @@ dorsal striatum
 dorsal tegmental decussation
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalDecussation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalDecussation``
 
    :definition: 'Dorsal tegmental decussation' is a neural decussation. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003009
    :InterLex ID: http://uri.interlex.org/base/ilx_0103484
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003009#dorsal-tegmental-decussation-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3705,14 +3705,14 @@ dorsal tegmental decussation
 dorsal tegmental nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleus``
 
    :definition: 'Dorsal tegmental nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: dorsal tegmental nucleus (Gudden), Dorsal tegmental nucleus of Gudden, DTg, DTN, ganglion dorsale tegmenti, gudden nucleus, nucleus compactus suprafascicularis, nucleus dorsalis tegmenti, nucleus dorsalis tegmenti (Gudden), nucleus opticus dorsalis, nucleus tegmentalis dorsalis, nucleus tegmentalis posterior, nucleus tegmenti dorsale, posterior tegmental nucleus, von Gudden's nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002143
    :InterLex ID: http://uri.interlex.org/base/ilx_0103485
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002143#dorsal-tegmental-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3721,7 +3721,7 @@ dorsal tegmental nucleus
 dorsal tegmental nucleus pars dorsalis
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis``
 
    :definition: 'Dorsal tegmental nucleus pars dorsalis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
    :synonyms: Dorsal tegmental nucleus of Gudden pars dorsalis, dorsal tegmental nucleus pars dorsalis, TDD
@@ -3737,7 +3737,7 @@ dorsal tegmental nucleus pars dorsalis
 dorsal tegmental nucleus pars ventralis
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis``
 
    :definition: 'Dorsal tegmental nucleus pars ventralis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
    :synonyms: Dorsal tegmental nucleus of Gudden pars ventralis, dorsal tegmental nucleus pars ventralis, pars ventralis of the dorsal tegmental nucleus, pars ventralis of the dorsal tegmental nucleus of Gudden, TDV
@@ -3753,7 +3753,7 @@ dorsal tegmental nucleus pars ventralis
 dorsal trigeminal tract
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract``
 
    :definition: 'Dorsal trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
    :synonyms: dorsal ascending trigeminal tract, dorsal division of trigeminal lemniscus, Dorsal secondary ascending tract of V, Dorsal secondary tract of V, dorsal trigeminal lemniscus, dorsal trigeminal pathway, dorsal trigemino-thalamic tract, dorsal trigeminothalamic tract, dorsal trigmino-thalamic tract, posterior trigeminothalamic tract, reticulothalamic tract, tractus trigeminalis dorsalis, tractus trigemino-thalamicus dorsalis, tractus trigeminothalamicus posterior, uncrossed dorsal trigeminothalamic tract
@@ -3769,7 +3769,7 @@ dorsal trigeminal tract
 dorsolateral fasciculus of medulla
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla``
 
    :definition: 'Dorsolateral fasciculus of medulla' is a tract of brain. It is part of the medulla oblongata.
    :synonyms: dorsolateral fasciculus, dorsolateral fasciculus of the medulla, dorsolateral tract, fasciculus dorsolateralis, Lissauer marginal zone, lissauer's tract, posterolateral fasciculus, posterolateral tract, tract of Lissauer, tractus posterolateralis, zona Lissauer, zone of Lissauer
@@ -3785,7 +3785,7 @@ dorsolateral fasciculus of medulla
 dorsolateral prefrontal cortex
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex``
 
    :definition: 'Dorsolateral prefrontal cortex' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: DL-PFC, DLPFC
@@ -3801,7 +3801,7 @@ dorsolateral prefrontal cortex
 dorsomedial nucleus of hypothalamus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus``
 
    :definition: 'Dorsomedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
    :synonyms: DMH, dorsomedial hypothalamic nucleus, dorsomedial nucleus, dorsomedial nucleus hypothalamus, dorsomedial nucleus of dorsal hypothalamus, dorsomedial nucleus of intermediate hypothalamus, dorsomedial nucleus of the hypothalamus, nucleus dorsomedialis hypothalami, nucleus dorsomedialis hypothalamicae intermediae, nucleus hypothalamicus dorsomedialis
@@ -3817,7 +3817,7 @@ dorsomedial nucleus of hypothalamus
 emboliform nucleus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus``
 
    :definition: 'Emboliform nucleus' is a cerebellum interpositus nucleus.
    :synonyms: anterior interposed nucleus, anterior interpositus nucleus, cerebellar emboliform nucleus, cerebellum emboliform nucleus, Emb, embolus, lateral interpositus (emboliform) nucleus, lateral interpositus nucleus, nucleus emboliformis, nucleus emboliformis cerebelli, nucleus interpositus anterior, nucleus interpositus anterior cerebelli
@@ -3833,7 +3833,7 @@ emboliform nucleus
 endopiriform nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/endopiriformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/endopiriformNucleus``
 
    :definition: An elongated nucleus consisting largely of multipolar spiny cells lying deep to the piriform cortex.  According to Price (1990;  pp. 979-998 in The Human Nervous System, G. Paxinos, (Ed.), Academic Press, San Diego), it is part of the claustrum.
    :synonyms: endopiriform nucleus, layer 4 of piriform cortex, layer IV of piriform cortex, ventral claustrum
@@ -3849,7 +3849,7 @@ endopiriform nucleus
 entorhinal cortex
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex``
 
    :definition: 'Entorhinal cortex' is part of the parahippocampal gyrus and piriform cortex.
    :synonyms: Area 28 of Brodmann (Crosby), area entorhinalis (28,34), area entorhinalis ventralis et dorsalis, Brodmann's area 28, cortex entorhinalis, Ent, entorhinal area, entorhinal cortex, secondary olfactory cortex, Secondary olfactory cortical area (Carpenter)
@@ -3865,7 +3865,7 @@ entorhinal cortex
 entorhinal cortex layer 2
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2``
 
    :definition: 'Entorhinal cortex layer 2' is the outermost cell layer of the entorhinal cortex.
    :synonyms: EC layer 2, EC layer II, entorhinal cortex layer II, layer 2 of entorhinal cortex, layer II of entorhinal cortex, outermost cell layer of entorhinal cortex
@@ -3881,7 +3881,7 @@ entorhinal cortex layer 2
 entorhinal cortex layer 3
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer3
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer3``
 
    :definition: 'Entorhinal cortex layer 3' is the pyramidal layer of the entorhinal cortex.
    :synonyms: EC layer 3, EC layer III, entorhinal cortex layer III, entorhinal cortex pyramidal layer, layer 3 of entorhinal cortex, layer III of entorhinal cortex, pyramidal layer of entorhinal cortex
@@ -3897,7 +3897,7 @@ entorhinal cortex layer 3
 entorhinal cortex layer 5
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5``
 
    :definition: 'Entorhinal cortex layer 5' is one of the deep layers of the entorhinal cortex.
    :synonyms: entorhinal cortex layer V
@@ -3913,7 +3913,7 @@ entorhinal cortex layer 5
 entorhinal cortex layer 6
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer6
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer6``
 
    :definition: 'Entorhinal cortex layer 6' is the innermost layer of the entorhinal cortex.
    :synonyms: entorhinal cortex layer VI
@@ -3929,7 +3929,7 @@ entorhinal cortex layer 6
 epithalamus
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus``
 
    :definition: 'Epithalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
    :synonyms: ETh, epithalamus
@@ -3945,9 +3945,9 @@ epithalamus
 external capsule of telencephalon
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/externalCapsuleOfTelencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/externalCapsuleOfTelencephalon``
 
-   :definition: -
+   :definition: \-
    :synonyms: brain external capsule, capsula externa, corpus callosum external capsule, external capsule
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004545
    :InterLex ID: http://uri.interlex.org/base/ilx_0724043
@@ -3961,14 +3961,14 @@ external capsule of telencephalon
 external nucleus of inferior colliculus
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/externalNucleusOfInferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/externalNucleusOfInferiorColliculus``
 
    :definition: 'External nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :synonyms: external cortex of the inferior colliculus, external nucleus, external nucleus of the inferior colliculus, inferior colliculus, nucleus externus (colliculi inferioris), nucleus externus colliculi inferioris, nucleus lateralis colliculi inferioris
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002571
    :InterLex ID: http://uri.interlex.org/base/ilx_0104042
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002571#external-nucleus-of-inferior-colliculus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -3977,7 +3977,7 @@ external nucleus of inferior colliculus
 extrastriate cortex
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex``
 
    :definition: 'Extrastriate cortex' is an aggregate regional part of brain. It is part of the visual cortex.
    :synonyms: extrastriate areas, extrastriate cortex, extrastriate cortical area, peristriate cortex
@@ -3993,7 +3993,7 @@ extrastriate cortex
 extreme capsule
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/extremeCapsule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/extremeCapsule``
 
    :definition: 'Extreme capsule' is a cerebral hemisphere white matter.
    :synonyms: band of Baillarger, capsula extrema
@@ -4009,10 +4009,10 @@ extreme capsule
 facial motor nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus``
 
    :definition: Nucleus located in the pontine tegmentum containing motor neurons that innervate the muscles of the face. Some neurons that project to the cerebellum have also been identified in some species.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003011
    :InterLex ID: http://uri.interlex.org/base/ilx_0104077
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003011#facial-motor-nucleus-1
@@ -4025,10 +4025,10 @@ facial motor nucleus
 facial nerve root
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/facialNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/facialNerveRoot``
 
    :definition: 'Facial nerve root' is a root of cranial nerve. It is part of the metencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004674
    :InterLex ID: http://uri.interlex.org/base/ilx_0104076
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004674#facial-nerve-root-1
@@ -4041,10 +4041,10 @@ facial nerve root
 fasciculus of brain
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain``
 
    :definition: 'Fasciculus of brain' is a nerve fasciculus and central nervous system cell part cluster. It is part of the brain and white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005838
    :InterLex ID: http://uri.interlex.org/base/ilx_0727527
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005838#fasciculus-of-brain
@@ -4057,7 +4057,7 @@ fasciculus of brain
 fasciolar gyrus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus``
 
    :definition: 'Fasciolar gyrus' is part of the limbic lobe.
    :synonyms: Arnold), fasciola cinerea, fasciola cinerea (Reil, fasciola cinereum, FC, gyrus fasciolaris, gyrus retrosplenialis hippocampi, retrosplenial gyrus of hippocampus, splenial gyrus
@@ -4073,7 +4073,7 @@ fasciolar gyrus
 fastigial nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus``
 
    :definition: 'Fastigial nucleus' is a nucleus of cerebellar nuclear complex.
    :synonyms: Fas, fasciculosus thalamic nucleus, fastigial cerebellar nucleus, medial (fastigial) nucleus, medial cerebellar nucleus, medial nucleus of cerebellum, nucleus (motorius) tecti cerebelli, nucleus fastigiatus, nucleus fastigii, nucleus fastigii cerebelli, nucleus fastigius cerebelli, roof nucleus-1
@@ -4089,7 +4089,7 @@ fastigial nucleus
 flocculonodular lobe
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe``
 
    :definition: 'Flocculonodular lobe' is a cerebellum lobe. It is part of the vestibulocerebellum.
    :synonyms: Archaeocerebellum, archicerebellum, cerebellum flocculonodular lobe, flocculonodular lobe, flocculonodular lobe of cerebellum, lobus flocculonodularis, posterior lobe-2 of cerebellum, vestibulocerebellum
@@ -4105,14 +4105,14 @@ flocculonodular lobe
 flocculonodular lobe, hemisphere portion
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion``
 
    :definition: 'Flocculonodular lobe, hemisphere portion' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and flocculonodular lobe.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027331
    :InterLex ID: http://uri.interlex.org/base/ilx_0104947
-   :KnowledgeSpace entry: -
-   :description: -
+   :KnowledgeSpace entry: \-
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4121,7 +4121,7 @@ flocculonodular lobe, hemisphere portion
 flocculus
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus``
 
    :definition: 'Flocculus' is a flocculonodular lobe, hemisphere portion.
    :synonyms: Fl, flocculus of cerebellum, H X, hemispheric lobule X, lobule H X of Larsell, lobule X, lobule X of hemisphere of cerebellum, neuraxis flocculus
@@ -4137,7 +4137,7 @@ flocculus
 forebrain
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain``
 
    :definition: 'Forebrain' is a regional part of brain.
    :synonyms: FB, prosencephalon
@@ -4153,10 +4153,10 @@ forebrain
 forebrain-midbrain boundary
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary``
 
    :definition: 'Forebrain-midbrain boundary' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005075
    :InterLex ID: http://uri.interlex.org/base/ilx_0736799
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005075#forebrain-midbrain-boundary
@@ -4169,7 +4169,7 @@ forebrain-midbrain boundary
 fornix of brain
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain``
 
    :definition: 'Fornix of brain' is a tract of brain. It is part of the hippocampal formation.
    :synonyms: brain fornix, cerebral fornix, forebrain fornix, fornix, fornix (column and body of fornix), fornix cerebri, fornix hippocampus, fornix of brain, fornix of neuraxis, hippocampus fornix, neuraxis fornix
@@ -4185,7 +4185,7 @@ fornix of brain
 fourth ventricle
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricle``
 
    :definition: 'Fourth ventricle' is a brain ventricle. It is part of the hindbrain.
    :synonyms: 4th ventricle, fourth ventricle proper, hindbrain ventricle, IVth ventricle, rhombencephalic ventricle, rhombencephalic vesicle, ventricle IV, ventricle of hindbrain, ventricle of rhombencephalon, ventriculus quartus
@@ -4201,10 +4201,10 @@ fourth ventricle
 fourth ventricle aperture
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture``
 
    :definition: 'Fourth ventricle aperture' is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004668
    :InterLex ID: http://uri.interlex.org/base/ilx_0735066
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004668#fourth-ventricle-aperture
@@ -4217,14 +4217,14 @@ fourth ventricle aperture
 fourth ventricle choroid plexus epithelium
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium``
 
    :definition: 'Fourth ventricle choroid plexus epithelium' is a choroid plexus epithelium. It is part of the choroid plexus of fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004276
    :InterLex ID: http://uri.interlex.org/base/ilx_0728876
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4233,10 +4233,10 @@ fourth ventricle choroid plexus epithelium
 fourth ventricle choroid plexus stroma
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma``
 
    :definition: 'Fourth ventricle choroid plexus stroma' is a choroid plexus stroma. It is part of the choroid plexus of fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006340
    :InterLex ID: http://uri.interlex.org/base/ilx_0726195
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006340#fourth-ventricle-choroid-plexus-stroma
@@ -4249,14 +4249,14 @@ fourth ventricle choroid plexus stroma
 fourth ventricle ependyma
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma``
 
    :definition: 'Fourth ventricle ependyma' is a brain ependyma. It is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004644
    :InterLex ID: http://uri.interlex.org/base/ilx_0729148
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4265,7 +4265,7 @@ fourth ventricle ependyma
 frontal cortex
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex``
 
    :definition: 'Frontal cortex' is a cortex of cerebral lobe. It is part of the frontal lobe.
    :synonyms: cortex of frontal lobe, frontal lobe cortex, frontal neocortex, gray matter of frontal lobe, grey matter of frontal lobe
@@ -4281,7 +4281,7 @@ frontal cortex
 frontal lobe
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe``
 
    :definition: 'Frontal lobe' is a lobe of cerebral hemisphere.
    :synonyms: frontal cortex, frontal region, lobi frontales, lobus frontalis, regio frontalis
@@ -4297,7 +4297,7 @@ frontal lobe
 frontal operculum
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum``
 
    :definition: 'Frontal operculum' is a regional part of brain. It is part of the operculum of brain.
    :synonyms: inferior frontal gyrus pars opercularis, nucleus ventralis oralis, operculum frontale, pars medialis (Dewulf)
@@ -4313,7 +4313,7 @@ frontal operculum
 frontal pole
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalPole
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/frontalPole``
 
    :definition: 'Frontal pole' is a pole of cerebral hemisphere. It is part of the frontal lobe.
    :synonyms: polus frontalis
@@ -4329,14 +4329,14 @@ frontal pole
 fronto-orbital gyrus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/frontoorbitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/frontoorbitalGyrus``
 
    :definition: 'Fronto-orbital gyrus' is an orbital gyrus and frontal gyrus. It is part of the orbitofrontal cortex.
    :synonyms: fronto-orbital gyrus, gyrus fronto-orbitalis, orbito-frontal gyrus, orbitofrontal gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009836
    :InterLex ID: http://uri.interlex.org/base/ilx_0104458
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009836#fronto-orbital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4345,7 +4345,7 @@ fronto-orbital gyrus
 functional part of brain
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/functionalPartOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/functionalPartOfBrain``
 
    :definition: 'Functional part of brain' is a regional part of brain.
    :synonyms:
@@ -4361,7 +4361,7 @@ functional part of brain
 fundus striati
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati``
 
    :definition: 'Fundus striati' is a regional part of brain. It is part of the ventral striatum.
    :synonyms: fundus of striatum, fundus of the striatum, fundus striati, striatal fundus
@@ -4377,7 +4377,7 @@ fundus striati
 fusiform gyrus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/fusiformGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/fusiformGyrus``
 
    :definition: The fusiform gyrus is part of the temporal lobe. It is also known as the (discontinuous) occipitotemporal gyrus. Other sources have the fusiform gyrus above the occipitotemporal gyrus and underneath the parahippocampal gyrus. [WP,unvetted].
    :synonyms: gyrus fusiformis, gyrus occipito-temporalis lateralis, gyrus occipitotemporalis lateralis, lateral occipito-temporal gyrus, lateral occipitotemporal gyrus, medial occipitotemporal gyrus-1 (heimer), occipito-temporal gyrus, occipitotemporal gyrus, t4
@@ -4393,10 +4393,10 @@ fusiform gyrus
 future hindbrain meninx
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/futureHindbrainMeninx
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/futureHindbrainMeninx``
 
    :definition: 'Future hindbrain meninx' is a future meninx. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010091
    :InterLex ID: http://uri.interlex.org/base/ilx_0736728
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0010091#future-hindbrain-meninx
@@ -4409,10 +4409,10 @@ future hindbrain meninx
 future metencephalon
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon``
 
    :definition: 'Future metencephalon' is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010092
    :InterLex ID: http://uri.interlex.org/base/ilx_0735157
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0010092#future-metencephalon
@@ -4425,10 +4425,10 @@ future metencephalon
 future myelencephalon
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMyelencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/futureMyelencephalon``
 
    :definition: 'Future myelencephalon' is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010096
    :InterLex ID: http://uri.interlex.org/base/ilx_0727209
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0010096#future-myelencephalon
@@ -4441,7 +4441,7 @@ future myelencephalon
 genu of corpus callosum
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/genuOfCorpusCallosum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/genuOfCorpusCallosum``
 
    :definition: 'Genu of corpus callosum' is a regional part of brain. It is part of the corpus callosum.
    :synonyms: corpus callosum, corpus callosum genu, genu, genu corporis callosi, genu corpus callosi, genu of corpus callosum, genu of the corpus callosum, rostrum of corpus callosum (Mai)
@@ -4457,7 +4457,7 @@ genu of corpus callosum
 globus pallidus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus``
 
    :definition: 'Globus pallidus' is a telencephalic nucleus. It is part of the cerebral hemisphere and pallidum.
    :synonyms: globus pallidus (Burdach), GP, nucleus pallidus, Pale Body, paleostriatum, pallidium, pallidum
@@ -4473,14 +4473,14 @@ globus pallidus
 glossopharyngeal nerve fiber bundle
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveFiberBundle``
 
    :definition: 'Glossopharyngeal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :synonyms: central part of glossopharyngeal nerve, fibrae nervi glossopharyngei, glossopharyngeal nerve fiber bundle, glossopharyngeal nerve fibers, glossopharyngeal nerve tract, ninth cranial nerve fibers
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006090
    :InterLex ID: http://uri.interlex.org/base/ilx_0104666
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006090#glossopharyngeal-nerve-fiber-bundle-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4489,14 +4489,14 @@ glossopharyngeal nerve fiber bundle
 glossopharyngeal nerve root
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot``
 
    :definition: 'Glossopharyngeal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019310
    :InterLex ID: http://uri.interlex.org/base/ilx_0736855
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0019310#glossopharyngeal-nerve-root-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4505,7 +4505,7 @@ glossopharyngeal nerve root
 gracile fasciculus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculus``
 
    :definition: 'Gracile fasciculus' is a nerve fasciculus and central nervous system cell part cluster. It is part of the white matter and dorsal column-medial lemniscus pathway.
    :synonyms: f. gracilis medullae spinalis, fasciculus gracilis, GF, Gl9 gracile fasciculus, gr, gracile column, gracile fascicle, gracile fasciculus (paxspn), gracile tract, gracilis tract, tract of Goll
@@ -4521,7 +4521,7 @@ gracile fasciculus
 gracile fasciculus of medulla
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculusOfMedulla``
 
    :definition: 'Gracile fasciculus of medulla' is a gracile fasciculus and fasciculus of brain. It is part of the medulla oblongata.
    :synonyms: Column of Goll, fasciculus dorsolateralis gracilis (Golli), fasciculus gracilis (myelencephali), Fasciculus of Goll, Goll's tract, gracile fascicle (Gall), gracile fascicle (Goll), gracile fascicle of medulla, gracile fasciculus of the medulla, medulla segment of fasciculus gracilis, medulla segment of gracile fasciculus, Tract of Gall
@@ -4537,14 +4537,14 @@ gracile fasciculus of medulla
 gray matter of hindbrain
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfHindbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfHindbrain``
 
    :definition: 'Gray matter of hindbrain' is a brain gray matter. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019263
    :InterLex ID: http://uri.interlex.org/base/ilx_0724553
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4553,14 +4553,14 @@ gray matter of hindbrain
 gross anatomical parts of the cerebellum
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum``
 
    :definition: 'Gross anatomical parts of the cerebellum' is a regional part of brain. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023836
    :InterLex ID: http://uri.interlex.org/base/ilx_0104796
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023836#gross-anatomical-parts-of-the-cerebellum-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4569,7 +4569,7 @@ gross anatomical parts of the cerebellum
 gyrus rectus
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/gyrusRectus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/gyrusRectus``
 
    :definition: 'Gyrus rectus' is a gyrus. It is part of the frontal lobe.
    :synonyms: gyrus rectus, medial part of gyri orbitales, rectal gyrus, rectus gyrus, RG, straight gyrus, ventromedial gyrus
@@ -4585,7 +4585,7 @@ gyrus rectus
 habenula
 --------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/habenula
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/habenula``
 
    :definition: 'Habenula' is a regional part of brain. It is part of the epithalamus.
    :synonyms: ganglion intercrurale, ganglion interpedunculare, habenula complex, habenulae, habenular complex, habenular nuclei, habenular nucleus, Hb, nuclei habenulares, nucleus habenularis, pineal peduncle
@@ -4601,10 +4601,10 @@ habenula
 habenular commissure
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure``
 
    :definition: 'Habenular commissure' is a ventral commissure, commissure of diencephalon and thalamic fiber tract. It is part of the habenula and diencephalic white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001909
    :InterLex ID: http://uri.interlex.org/base/ilx_0104855
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001909#habenular-commissure-1
@@ -4617,14 +4617,14 @@ habenular commissure
 habenulo-interpeduncular tract of diencephalon
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon``
 
    :definition: 'Habenulo-interpeduncular tract of diencephalon' is a fasciculus of brain. It is part of the habenulo-interpeduncular tract and diencephalic white matter.
    :synonyms: habenulo-interpeduncular tract of diencephalon
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022649
    :InterLex ID: http://uri.interlex.org/base/ilx_0104856
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022649#habenulo-interpeduncular-tract-of-diencephalon-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4633,14 +4633,14 @@ habenulo-interpeduncular tract of diencephalon
 habenulo-interpeduncular tract of midbrain
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain``
 
    :definition: 'Habenulo-interpeduncular tract of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum, habenulo-interpeduncular tract and white matter of midbrain.
    :synonyms: habenulo-interpeduncular tract of midbrain, hipm
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023740
    :InterLex ID: http://uri.interlex.org/base/ilx_0104857
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023740#habenulo-interpeduncular-tract-of-midbrain-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4649,7 +4649,7 @@ habenulo-interpeduncular tract of midbrain
 head of caudate nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/headOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/headOfCaudateNucleus``
 
    :definition: 'Head of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :synonyms: caput (caudatus), caput nuclei caudati, caudate nuclear head, head of the caudate nucleus
@@ -4665,7 +4665,7 @@ head of caudate nucleus
 hilum of dentate nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus``
 
    :definition: 'Hilum of dentate nucleus' is a hilum of neuraxis. It is part of the dentate nucleus.
    :synonyms: dentate nuclear hilum, hdt, hilum nuclei dentati, hilum of the dentate nucleus
@@ -4681,10 +4681,10 @@ hilum of dentate nucleus
 hilus of dentate gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus``
 
    :definition: 'Hilus of dentate gyrus' is a cerebral hemisphere gray matter. It is part of the dentate gyrus of hippocampal formation.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002136
    :InterLex ID: http://uri.interlex.org/base/ilx_0103062
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002136#hilus-of-dentate-gyrus-1
@@ -4697,7 +4697,7 @@ hilus of dentate gyrus
 hindbrain
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain``
 
    :definition: 'Hindbrain' is a regional part of brain.
    :synonyms: rhombencephalon
@@ -4713,10 +4713,10 @@ hindbrain
 hindbrain commissure
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure``
 
    :definition: 'Hindbrain commissure' is a brain commissure. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034763
    :InterLex ID: http://uri.interlex.org/base/ilx_0732568
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034763#hindbrain-commissure
@@ -4729,14 +4729,14 @@ hindbrain commissure
 hindbrain cortical intermediate zone
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone``
 
    :definition: 'Hindbrain cortical intermediate zone' is a cortical intermediate zone. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034994
    :InterLex ID: http://uri.interlex.org/base/ilx_0733012
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034994#hindbrain-cortical-intermediate-zone
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4745,14 +4745,14 @@ hindbrain cortical intermediate zone
 hindbrain marginal layer
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer``
 
    :definition: 'Hindbrain marginal layer' is a central nervous system cell part cluster. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034709
    :InterLex ID: http://uri.interlex.org/base/ilx_0733117
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034709#hindbrain-marginal-layer
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4761,10 +4761,10 @@ hindbrain marginal layer
 hindbrain nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus``
 
    :definition: 'Hindbrain nucleus' is a nucleus of brain. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009662
    :InterLex ID: http://uri.interlex.org/base/ilx_0733158
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009662#hindbrain-nucleus
@@ -4777,14 +4777,14 @@ hindbrain nucleus
 hindbrain subarachnoid space
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace``
 
    :definition: 'Hindbrain subarachnoid space' is a subarachnoid space. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005219
    :InterLex ID: http://uri.interlex.org/base/ilx_0726998
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005219#hindbrain-subarachnoid-space
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4793,10 +4793,10 @@ hindbrain subarachnoid space
 hindbrain venous system
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem``
 
    :definition: 'Hindbrain venous system' is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005720
    :InterLex ID: http://uri.interlex.org/base/ilx_0735731
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system
@@ -4809,13 +4809,13 @@ hindbrain venous system
 hippocampal commissure
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure``
 
    :definition: 'Hippocampal commissure' is a dorsal telencephalic commissure. It is part of the cerebral hemisphere white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000908
    :InterLex ID: http://uri.interlex.org/base/ilx_0102407
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -4825,7 +4825,7 @@ hippocampal commissure
 hippocampal formation
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation``
 
    :definition: 'Hippocampal formation' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: archipallium, formatio hippocampi, hippocampus, hippocampus (Crosby), major hippocampus, primal cortex, seahorse
@@ -4841,7 +4841,7 @@ hippocampal formation
 hippocampus alveus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus``
 
    :definition: 'Hippocampus alveus' is a central nervous system cell part cluster and central nervous system white matter layer. It is part of the hippocampal formation.
    :synonyms: alveus, alveus hippocampi, alveus of fornix, alveus of hippocampus, alveus of the hippocampus, CA2 alveus, neuraxis alveus
@@ -4857,7 +4857,7 @@ hippocampus alveus
 hippocampus fimbria
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria``
 
    :definition: 'Hippocampus fimbria' is a central nervous system cell part cluster. It is part of the fornix of brain, Ammon's horn and white matter of telencephalon.
    :synonyms: fimbria, fimbria (Vieussens), fimbria fornicis, fimbria hippocampi, fimbria hippocampus, fimbria of fornix, fimbria of hippocampus, fimbria of the fornix, fimbria of the hippocampus, fimbria-fornix, hippocampal fimbria, neuraxis fimbria
@@ -4873,14 +4873,14 @@ hippocampus fimbria
 horizontal limb of the diagonal band
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand``
 
    :definition: 'Horizontal limb of the diagonal band' is a subdivision of diagonal band.
    :synonyms: crus horizontale striae diagonalis, diagonal band horizontal limb, hDBB, horizontal limb of diagonal band, horizontal limb of the diagonal band, Horizontal limb of the diagonal band of Broca, nucleus of the horizontal limb of the diagonal band
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006123
    :InterLex ID: http://uri.interlex.org/base/ilx_0105108
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006123#horizontal-limb-of-the-diagonal-band-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4889,7 +4889,7 @@ horizontal limb of the diagonal band
 hypoglossal nerve root
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot``
 
    :definition: 'Hypoglossal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
    :synonyms: central part of hypoglossal nerve, fibrae nervi hypoglossi, hypoglossal nerve fiber bundle, hypoglossal nerve fibers, hypoglossal nerve root, hypoglossal nerve tract, hypoglossal nerve/ root, root of hypoglossal nerve
@@ -4905,7 +4905,7 @@ hypoglossal nerve root
 hypothalamus
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/hypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/hypothalamus``
 
    :definition: 'Hypothalamus' is a regional part of brain. It is part of the limbic system and thalamic complex.
    :synonyms: Hy, Hypencephalon, Preoptico-hypothalamic area, Preoptico-hypothalamic region, hypothalamus
@@ -4921,7 +4921,7 @@ hypothalamus
 induseum griseum
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/induseumGriseum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/induseumGriseum``
 
    :definition: 'Induseum griseum' is a white matter of limbic lobe and stria of telencephalon. It is part of the hippocampal formation and supracallosal gyrus.
    :synonyms: dorsal hippocampal continuation, gray stria of Lancisi, gyrus epicallosus, gyrus indusium griseum, IG, indusium griseum, superior part of intralimbic gyrus, superior segment of intralimbic gyrus, supracallosal gyrus, supracommissural hippocampus
@@ -4937,14 +4937,14 @@ induseum griseum
 inferior central nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus``
 
    :definition: 'Inferior central nucleus' is a nucleus of pontine reticular formation.
    :synonyms: Inferior central nucleus (of Roller), inferior central nucleus of raphe, inferior central tegmental nucleus, nucleus centralis inferior, nucleus tegmentalis centralis inferior
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002993
    :InterLex ID: http://uri.interlex.org/base/ilx_0105434
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -4953,7 +4953,7 @@ inferior central nucleus
 inferior cerebellar peduncle
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle``
 
    :definition: 'Inferior cerebellar peduncle' is a cerebellar peduncle and white matter of medulla oblongata.
    :synonyms: corpus restiforme, crus cerebelli ad medullam oblongatam, crus medullo-cerebellare, icp, inferior cerebellar peduncle (restiform body), inferior cerebellar peduncle (Ridley), inferior peduncle, pedunculus cerebellaris caudalis, pedunculus cerebellaris inferior, restiform body
@@ -4969,7 +4969,7 @@ inferior cerebellar peduncle
 inferior colliculus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorColliculus``
 
    :definition: 'Inferior colliculus' is a regional part of brain. It is part of the corpora quadrigemina.
    :synonyms: caudal colliculus, colliculus caudalis, colliculus inferior, corpus bigeminalis caudalis, corpus bigeminum posterioris, corpus quadrigeminum inferius, IC, inferior colliculi, posterior colliculus, posterior corpus quadrigeminum
@@ -4985,7 +4985,7 @@ inferior colliculus
 inferior frontal gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalGyrus``
 
    :definition: 'Inferior frontal gyrus' is a frontal gyrus.
    :synonyms: gyrus F3, gyrus frontalis inferior, gyrus frontalis tertius, IFG, inferior frontal convolution, regio subfrontalis
@@ -5001,7 +5001,7 @@ inferior frontal gyrus
 inferior horn of the lateral ventricle
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle``
 
    :definition: 'Inferior horn of the lateral ventricle' is part of the telencephalic ventricle.
    :synonyms: cornu inferius, cornu inferius (ventriculi lateralis), cornu inferius ventriculi lateralis, cornu temporale, cornu temporale (ventriculi lateralis), cornu temporale ventriculi lateralis, inferior horn of lateral ventricle, inferior horn of the lateral ventricle, temporal horn of lateral ventricle, ventriculus lateralis
@@ -5017,9 +5017,9 @@ inferior horn of the lateral ventricle
 inferior longitudinal fasciculus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLongitudinalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLongitudinalFasciculus``
 
-   :definition: -
+   :definition: \-
    :synonyms: external sagittal stratum, fasciculus longitudinalis inferior, ilf
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034743
    :InterLex ID: http://uri.interlex.org/base/ilx_0724061
@@ -5033,14 +5033,14 @@ inferior longitudinal fasciculus
 inferior occipital gyrus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalGyrus``
 
    :definition: 'Inferior occipital gyrus' is an occipital gyrus.
    :synonyms: gyrus occipitalis inferior, gyrus occipitalis tertius, inferior occipital gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014608
    :InterLex ID: http://uri.interlex.org/base/ilx_0105446
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014608#inferior-occipital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5049,9 +5049,9 @@ inferior occipital gyrus
 inferior occipitofrontal fasciculus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus``
 
-   :definition: -
+   :definition: \-
    :synonyms: fasciculus occipito-frontalis inferior, fasciculus occipitofrontalis inferior, inferior fronto-occipital fasciculus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034753
    :InterLex ID: http://uri.interlex.org/base/ilx_0731728
@@ -5065,7 +5065,7 @@ inferior occipitofrontal fasciculus
 inferior olivary complex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex``
 
    :definition: 'Inferior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the olivary body.
    :synonyms: caudal olivary nuclei, complexus olivaris inferior, complexus olivaris inferior; nuclei olivares inferiores, inferior olivary complex (Vieussens), inferior olivary nuclear complex, inferior olivary nuclei, inferior olivary nucleus, inferior olive, nuclei olivares caudales, nuclei olivares inferiores, nucleus olivaris caudalis, nucleus olivaris inferior, oliva, regio olivaris inferior
@@ -5081,7 +5081,7 @@ inferior olivary complex
 inferior parietal cortex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex``
 
    :definition: 'Inferior parietal cortex' is part of the parietal lobe.
    :synonyms: inferior parietal cortex, inferior parietal gyrus, inferior parietal lobule, inferior portion of parietal gyrus, lobulus parietalis inferior, subparietal district, subparietal lobule
@@ -5097,14 +5097,14 @@ inferior parietal cortex
 inferior rostral gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralGyrus``
 
    :definition: 'Inferior rostral gyrus' is a regional part of brain. It is part of the rostral gyrus.
    :synonyms:
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019278
    :InterLex ID: http://uri.interlex.org/base/ilx_0105460
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0019278#inferior-rostral-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5113,7 +5113,7 @@ inferior rostral gyrus
 inferior temporal gyrus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalGyrus``
 
    :definition: 'Inferior temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :synonyms: gyrus temporalis inferior, inferotemporal cortex, IT cortex, lateral occipitotemporal gyrus (heimer-83)
@@ -5129,14 +5129,14 @@ inferior temporal gyrus
 inferior transverse frontopolar gyrus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus``
 
    :definition: 'Inferior transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :synonyms: inferior transverse frontopolar gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024183
    :InterLex ID: http://uri.interlex.org/base/ilx_0105465
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024183#inferior-transverse-frontopolar-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5145,7 +5145,7 @@ inferior transverse frontopolar gyrus
 inferior vestibular nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVestibularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVestibularNucleus``
 
    :definition: 'Inferior vestibular nucleus' is a vestibular nucleus.
    :synonyms: descending vestibular nucleus, nucleus vestibularis inferior, spinal vestibular nucleus
@@ -5161,13 +5161,13 @@ inferior vestibular nucleus
 insect protocerebrum
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum``
 
    :definition: 'Insect protocerebrum' is a segmental subdivision of nervous system. It is part of the insect supraesophageal ganglion.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_6003627
    :InterLex ID: http://uri.interlex.org/base/ilx_0726810
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The most anterior of the segmental subdivisions of the insect CNS; thought to represent the first pre-oral segment of the brain. The protocerebrum comprises many discrete neuropil regions including the central body complex and mushroom bodies.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -5177,13 +5177,13 @@ insect protocerebrum
 insect supraesophageal ganglion
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion``
 
    :definition: 'Insect supraesophageal ganglion' is a ganglion of central nervous system. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_6003626
    :InterLex ID: http://uri.interlex.org/base/ilx_0735712
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -5193,7 +5193,7 @@ insect supraesophageal ganglion
 insula
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/insula
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/insula``
 
    :definition: Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.
    :synonyms: central lobe, cortex insularis, cortex of island, iNS, insula cerebri, insula lobule, insula of Reil, insula Reilii, insular cortex, insular gyrus, insular lobe, insular region, insulary cortex, island of Reil, lobus insularis, morphological insula
@@ -5209,7 +5209,7 @@ insula
 interanterodorsal nucleus of the thalamus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus``
 
    :definition: 'Interanterodorsal nucleus of the thalamus' is a regional part of brain. It is part of the anterior nuclear group.
    :synonyms: IAD, interanterodorsal nucleus of thalamus, interanterodorsal nucleus of the thalamus, interanterodorsal nucleus thalamus, interanterodorsal thalamic nucleus, nucleus commissura interanterodorsalis, nucleus interanterodorsalis
@@ -5225,7 +5225,7 @@ interanterodorsal nucleus of the thalamus
 intercalated amygdaloid nuclei
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intercalatedAmygdaloidNuclei
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intercalatedAmygdaloidNuclei``
 
    :definition: 'Intercalated amygdaloid nuclei' is a telencephalic nucleus. It is part of the amygdala.
    :synonyms: intercalated amygdalar nuclei, intercalated amygdalar nucleus, intercalated amygdaloid nuclei, intercalated amygdaloid nucleus, intercalated cell islands, intercalated masses, intercalated masses of nucleus amygdaloideus, intercalated nuclei amygdala, intercalated nuclei of amygdala, intercalated nuclei of the amygdala, intercalated nucleus of the amygdala, massa intercalata, massa intercalata of amygdala, nucleus amygdalae intercalatus, nucleus intercalatus amygdalae
@@ -5241,14 +5241,14 @@ intercalated amygdaloid nuclei
 intergeniculate leaflet of the lateral geniculate complex
 ---------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex``
 
    :definition: 'Intergeniculate leaflet of the lateral geniculate complex' is a regional part of brain. It is part of the lateral geniculate body.
    :synonyms: IGL, intergeniculate leaflet, intergeniculate leaflet of the lateral geniculate complex, lateral geniculate complex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035975
    :InterLex ID: http://uri.interlex.org/base/ilx_0105563
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035975#intergeniculate-leaflet-of-the-lateral-geniculate-complex
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5257,7 +5257,7 @@ intergeniculate leaflet of the lateral geniculate complex
 intermediate acoustic stria
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateAcousticStria
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateAcousticStria``
 
    :definition: 'Intermediate acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :synonyms: commissure of Held, intermediate acoustic stria (Held), Intermediate acoustic stria of Held, striae acusticae intermedius
@@ -5273,7 +5273,7 @@ intermediate acoustic stria
 intermediate hypothalamic region
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion``
 
    :definition: 'Intermediate hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :synonyms: area hypothalamica intermedia, IHR, intermediate hypothalamic area, intermediate hypothalamus, medial hypothalamus, middle hypothalamus, regio hypothalamica intermedia
@@ -5289,14 +5289,14 @@ intermediate hypothalamic region
 intermediate oculomotor nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOculomotorNucleus``
 
    :definition: 'Intermediate oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002970
    :InterLex ID: http://uri.interlex.org/base/ilx_0105573
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002970#intermediate-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5305,14 +5305,14 @@ intermediate oculomotor nucleus
 intermediate orbital gyrus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOrbitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOrbitalGyrus``
 
    :definition: 'Intermediate orbital gyrus' is an orbital gyrus.
    :synonyms:
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002644
    :InterLex ID: http://uri.interlex.org/base/ilx_0105574
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002644#intermediate-orbital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5321,14 +5321,14 @@ intermediate orbital gyrus
 intermediate part of hypophysis
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePartOfHypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePartOfHypophysis``
 
    :definition: 'Intermediate part of hypophysis' is a regional part of brain. It is part of the adenohypophysis.
    :synonyms: IHP, intermediate lobe, intermediate lobe of hypophysis, intermediate part of hypophysis, intermediate region of hypophysis, middle lobe of hypophysis, pituitary gland
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023752
    :InterLex ID: http://uri.interlex.org/base/ilx_0105575
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023752#intermediate-part-of-hypophysis-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5337,14 +5337,14 @@ intermediate part of hypophysis
 intermediate periventricular nucleus
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus``
 
    :definition: 'Intermediate periventricular nucleus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
    :synonyms: hPe, intermediate part, intermediate periventricular hypothalamic nucleus, intermediate periventricular nucleus of hypothalamus, intermediate periventricular nucleus of the hypothalamus, IPe, nucleus periventricularis hypothalami, periventricular hypothalamic nucleus, periventricular nucleus at the tuberal level
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002746
    :InterLex ID: http://uri.interlex.org/base/ilx_0105576
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002746#intermediate-periventricular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5353,7 +5353,7 @@ intermediate periventricular nucleus
 internal arcuate fiber bundle
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/internalArcuateFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/internalArcuateFiberBundle``
 
    :definition: 'Internal arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of medulla oblongata.
    :synonyms: arcuate fibers (medial lemniscus), arcuate fibers medial lemniscus, fibrae arcuatae internae, fibre arciformes olivares, fibre arciformes sensibiles, ia, internal arcuate fibers, internal arcuate fibres, internal arcuate tract
@@ -5369,7 +5369,7 @@ internal arcuate fiber bundle
 internal capsule of telencephalon
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon``
 
    :definition: 'Internal capsule of telencephalon' is a cerebral hemisphere white matter.
    :synonyms: brain internal capsule, capsula interna, ic, internal capsule, internal capsule radiations
@@ -5385,7 +5385,7 @@ internal capsule of telencephalon
 internal medullary lamina of thalamus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus``
 
    :definition: 'Internal medullary lamina of thalamus' is a medullary lamina of thalamus.
    :synonyms: envelope (involucrum medial) (Hassler), iml, internal medullary lamina, internal medullary lamina of thalamus, internal medullary lamina of the thalamus, lamina medullaris interna, lamina medullaris interna thalami, lamina medullaris medialis, lamina medullaris medialis thalami, lamina medullaris thalami interna
@@ -5401,14 +5401,14 @@ internal medullary lamina of thalamus
 interpeduncular nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus``
 
    :definition: 'Interpeduncular nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: interpedunclear nucleus, interpeduncular ganglion, interpeduncular nuclei, interpeduncular nucleus (Gudden), interpeduncular nucleus of midbrain, interpeduncular nucleus tegmentum, IP, nucleus interpeduncularis, nucleus interpeduncularis medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002145
    :InterLex ID: http://uri.interlex.org/base/ilx_0105597
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002145#interpeduncular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5417,14 +5417,14 @@ interpeduncular nucleus
 interpolar part of spinal trigeminal nucleus
 --------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus``
 
    :definition: 'Interpolar part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :synonyms: interpolar part, interpolar part of the spinal trigeminal nucleus, ISp5, nucleus interpolaris tractus spinalis nervi trigemini, nucleus of spinal tract of N. V (subnucleus interpolaris), nucleus spinalis nervi trigemini, pars interpolaris, spinal nucleus of the trigeminal, spinal nucleus of the trigeminal interpolar part, spinal nucleus of the trigeminal nerve interpolar part, spinal trigeminal nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002873
    :InterLex ID: http://uri.interlex.org/base/ilx_0105600
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002873#interpolar-part-of-spinal-trigeminal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5433,7 +5433,7 @@ interpolar part of spinal trigeminal nucleus
 interstitial nucleus of Cajal
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal``
 
    :definition: 'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: ICjl, interstitial nucleus, Interstitial nucleus of Cajal, interstitial nucleus of medial longitudinal fasciculus, Interstitial nucleus of medial longitudinal fasciculus (Crosby), interstitial nucleus of the medial longitudinal fascicle (Boyce 1895), interstitial nucleus of the medial longitudinal fasciculus, NIC, nucleus interstitialis, nucleus interstitialis Cajal, nucleus of the posterior commissure (Kvlliker)
@@ -5449,7 +5449,7 @@ interstitial nucleus of Cajal
 interthalamic adhesion
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion``
 
    :definition: 'Interthalamic adhesion' is a nervous system commissure.
    :synonyms: interthalamic connection, massa intermedia, middle commissure
@@ -5465,7 +5465,7 @@ interthalamic adhesion
 intralaminar nuclear group
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup``
 
    :definition: 'Intralaminar nuclear group' is a nucleus of dorsal thalamus.
    :synonyms: ILG, intralaminar group of the dorsal thalamus, intralaminar nuclear complex, intralaminar nuclear group, intralaminar nuclear group of thalamus, intralaminar nuclei of thalamus, intralaminar nuclei of the dorsal thalamus, intralaminar thalamic nuclear group, intralaminar thalamic nuclei, nonspecific thalamic system, nuclei intralaminares (thalami), nuclei intralaminares thalami
@@ -5481,7 +5481,7 @@ intralaminar nuclear group
 intraparietal sulcus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus``
 
    :definition: The intraparietal sulcus is located on the lateral surface of the parietal lobe, and consists of an oblique and a horizontal portion.
    :synonyms: interparietal fissure, intraparietal sulcus of Turner, ips, itps, sulcus interparietalis, sulcus intraparietalis, Turner sulcus
@@ -5497,7 +5497,7 @@ intraparietal sulcus
 isla magna of Calleja
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja``
 
    :definition: 'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.
    :synonyms: ICm, insula magna, isla magna of calleja, Large island of Calleja, major island of Calleja
@@ -5513,7 +5513,7 @@ isla magna of Calleja
 island of Calleja
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja``
 
    :definition: 'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.
    :synonyms: Calleja island, ICj, insula callejae, insulae olfactoriae, Islands of Calleja, islands of Calleja (olfactory tubercle), Islets of Calleja
@@ -5529,7 +5529,7 @@ island of Calleja
 islands of Calleja of olfactory tubercle
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle``
 
    :definition: 'Islands of Calleja of olfactory tubercle' is a regional part of brain. It is part of the island of Calleja and olfactory tubercle.
    :synonyms: Islets of Calleja, islands of calleja of olfactory tubercle
@@ -5545,7 +5545,7 @@ islands of Calleja of olfactory tubercle
 isthmus of cingulate gyrus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateGyrus``
 
    :definition: 'Isthmus of cingulate gyrus' is part of the cingulate gyrus.
    :synonyms: cingulate gyrus isthmus, isthmus cinguli, isthmus gyri cingulatus, isthmus gyri cinguli, isthmus of cingulate cortex, isthmus of fornicate gyrus, isthmus of gyrus fornicatus, isthmus of limbic lobe, isthmus of the cingulate gyrus, isthmus of the gyrus fornicatus, isthmus-2
@@ -5561,7 +5561,7 @@ isthmus of cingulate gyrus
 juxtarestiform body
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/juxtarestiformBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/juxtarestiformBody``
 
    :definition: 'Juxtarestiform body' is a white matter of medulla oblongata. It is part of the inferior cerebellar peduncle.
    :synonyms: corpus juxtarestiforme
@@ -5577,7 +5577,7 @@ juxtarestiform body
 lamina of septum pellucidum
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/laminaOfSeptumPellucidum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/laminaOfSeptumPellucidum``
 
    :definition: 'Lamina of septum pellucidum' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the septum pellucidum.
    :synonyms: lamina of the septum pellucidum, lamina septi pellucidi, laminae septi pellucidi, septum pellucidum lamina
@@ -5593,7 +5593,7 @@ lamina of septum pellucidum
 lateral amygdaloid nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus``
 
    :definition: 'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :synonyms: LA, lateral amygdala, lateral amygdalar nucleus, lateral nucleus of amygdala, lateral nucleus of the amygdala, lateral principal nucleus of amygdala, medial principal nucleus, nucleus amygdalae lateralis, nucleus amygdaloideus lateralis, nucleus lateralis amygdalae
@@ -5609,14 +5609,14 @@ lateral amygdaloid nucleus
 lateral amygdaloid nucleus, dorsolateral part
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart``
 
    :definition: 'Lateral amygdaloid nucleus, dorsolateral part' is a regional part of brain.
    :synonyms: dorsolateral part, LaDL, lateral amygdaloid nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023415
    :InterLex ID: http://uri.interlex.org/base/ilx_0106044
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023415#lateral-amygdaloid-nucleus-dorsolateral-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5625,14 +5625,14 @@ lateral amygdaloid nucleus, dorsolateral part
 lateral amygdaloid nucleus, ventrolateral part
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart``
 
    :definition: 'Lateral amygdaloid nucleus, ventrolateral part' is a regional part of brain.
    :synonyms: LaVL, lateral amygdaloid nucleus, ventrolateral part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023416
    :InterLex ID: http://uri.interlex.org/base/ilx_0106045
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023416#lateral-amygdaloid-nucleus-ventrolateral-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5641,14 +5641,14 @@ lateral amygdaloid nucleus, ventrolateral part
 lateral amygdaloid nucleus, ventromedial part
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart``
 
    :definition: 'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.
    :synonyms: LaVM, lateral amygdaloid nucleus, ventromedial part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023417
    :InterLex ID: http://uri.interlex.org/base/ilx_0106046
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023417#lateral-amygdaloid-nucleus-ventromedial-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5657,7 +5657,7 @@ lateral amygdaloid nucleus, ventromedial part
 lateral cervical nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus``
 
    :definition: 'Lateral cervical nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
    :synonyms: LatC, lateral cervical nucleus (paxspn)
@@ -5673,14 +5673,14 @@ lateral cervical nucleus
 lateral eminence of fourth ventricle
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle``
 
    :definition: 'Lateral eminence of fourth ventricle' is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034672
    :InterLex ID: http://uri.interlex.org/base/ilx_0734681
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034672#lateral-eminence-of-fourth-ventricle
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5689,14 +5689,14 @@ lateral eminence of fourth ventricle
 lateral eminence of hypophysis
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis``
 
    :definition: 'Lateral eminence of hypophysis' is part of the pituitary gland.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027109
    :InterLex ID: http://uri.interlex.org/base/ilx_0106054
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0027109#lateral-eminence-of-hypophysis-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5705,7 +5705,7 @@ lateral eminence of hypophysis
 lateral geniculate body
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody``
 
    :definition: 'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.
    :synonyms: corpus geniculatum externum, corpus geniculatum laterale, corpus geniculatum laterales, corpus geniculatus lateralis, external geniculate body, lateral geniculate body, lateral geniculate complex, lateral geniculate nucleus, LGB, LGN, nucleus corporis geniculati lateralis, nucleus geniculatus lateralis
@@ -5721,7 +5721,7 @@ lateral geniculate body
 lateral globus pallidus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus``
 
    :definition: 'Lateral globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
    :synonyms: external globus pallidus, external pallidum, external part of globus pallidus, external segment, globus pallidus, globus pallidus (rat), globus pallidus extermal segment, globus pallidus external segment, globus pallidus externus, globus pallidus lateral part, globus pallidus lateral segment, globus pallidus lateralis, Gpe, lateral division of globus pallidus, lateral globus pallidus, lateral pallidal segment, lateral pallidum, lateral part, lateral part of globus pallidus, lateral segment, lateral segment of globus pallidus, lateral segment of the globus pallidus, nucleus lateralis globi pallidi, pallidum dorsal region external segment, pallidum I, pallidus II, pars externa, pars lateralis globi pallidi medialis
@@ -5737,14 +5737,14 @@ lateral globus pallidus
 lateral habenular nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus``
 
    :definition: 'Lateral habenular nucleus' is a habenular nucleus.
    :synonyms: lateral habenula, lateral habenula (Nissl), LHb, nucleus habenulae lateralis, nucleus habenularis lateralis, nucleus habenularis lateralis epithalami
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001941
    :InterLex ID: http://uri.interlex.org/base/ilx_0106068
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001941#lateral-habenular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5753,7 +5753,7 @@ lateral habenular nucleus
 lateral hypothalamic area
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea``
 
    :definition: 'Lateral hypothalamic area' is a regional part of brain. It is part of the lateral zone of hypothalamus.
    :synonyms: area hypothalamica lateralis, area lateralis hypothalami, lateral division of hypothalamus, lateral group of hypothalamic nuclei, lateral hypothalamic area, lateral hypothalamic area (Nissl 1913), lateral hypothalamic area proper, lateral hypothalamic group, lateral hypothalamic nucleus, lateral hypothalamic region, lateral hypothalamic zone (Crosby), lateral hypothalamus, LH
@@ -5769,7 +5769,7 @@ lateral hypothalamic area
 lateral hypothalamic nucleus
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus``
 
    :definition: 'Lateral hypothalamic nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
    :synonyms: areas of Economo, economo's areas, lateral hypothalamic nuclei, LHy, nucleus hypothalamicus lateralis
@@ -5785,7 +5785,7 @@ lateral hypothalamic nucleus
 lateral lemniscus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLemniscus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLemniscus``
 
    :definition: 'Lateral lemniscus' is a nervous system lemniscus.
    :synonyms: central acoustic tract, lateral fillet, lateral lemniscus (Reil), lemniscus acusticus, lemniscus lateralis
@@ -5801,14 +5801,14 @@ lateral lemniscus
 lateral mammillary nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus``
 
    :definition: 'Lateral mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :synonyms: lateral mamillary nucleus, lateral mammillary hypothalamic nucleus, lateral mammillary nucleus (Gudden), lateral nucleus of mammillary body, LM, nucleus corporis mamillaris lateralis, nucleus intercalatus (Olszewski), nucleus lateralis corpus mamillaris, nucleus mammillaris lateralis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001938
    :InterLex ID: http://uri.interlex.org/base/ilx_0106075
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001938#lateral-mammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5817,7 +5817,7 @@ lateral mammillary nucleus
 lateral medullary lamina of globus pallidus
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus``
 
    :definition: 'Lateral medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
    :synonyms: external medulary lamina of globus pallidus, external medulary lamina of lentiform nucleus, external medullary lamina of corpus striatum, external medullary lamina of globus pallidus, external medullary lamina of lentiform nucleus, globus pallidus, lamella pallidi externa, lamina medullaris externa, lamina medullaris externa corporis striati, lamina medullaris externa pallidi, lamina medullaris lateralis, lamina medullaris lateralis corporis striati, lamina pallidi externa, lateral medulary lamina of globus pallidus, lateral medulary stria, lateral medullary lamina, lateral medullary lamina of corpus striatum, lateral medullary lamina of globus pallidus, lateral medullary lamina of pallidum, lateral medullary lamina of the globus pallidus, lateral medullary stria, lml, medulary lamina of pallidum, outer medulary lamina, outer medullary lamina
@@ -5833,7 +5833,7 @@ lateral medullary lamina of globus pallidus
 lateral nuclear group of thalamus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNuclearGroupOfThalamus``
 
    :definition: 'Lateral nuclear group of thalamus' is a nucleus of dorsal thalamus.
    :synonyms: lateral group of nuclei, lateral group of the dorsal thalamus, lateral nuclear group, lateral nuclear group of dorsal thalamus, lateral nuclear group of thalamus, lateral nucleus of thalamus, lateral thalamic group, lateral thalamic nuclear group, lateral thalamic nuclear region, lateral thalamic nuclei, lateral thalamic nucleus, LNG, nuclei laterales thalami, nucleus lateralis thalami
@@ -5849,14 +5849,14 @@ lateral nuclear group of thalamus
 lateral nucleus of stria terminalis
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis``
 
    :definition: 'Lateral nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
    :synonyms: BSTL, lateral bed nucleus of stria terminalis, lateral bed nucleus of the stria terminalis, lateral subdivision of BNST
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034894
    :InterLex ID: http://uri.interlex.org/base/ilx_0106079
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034894#lateral-nucleus-of-stria-terminalis
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5865,7 +5865,7 @@ lateral nucleus of stria terminalis
 lateral occipital cortex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex``
 
    :definition: 'Lateral occipital cortex' is an occipital gyrus. It is part of the neocortex.
    :synonyms: gyrus occipitalis lateralis, gyrus occipitalis medius, gyrus occipitalis medius (mai), gyrus occipitalis secundus, lateral occipital cortex, lateral occipital gyrus, middle occipital gyrus
@@ -5881,10 +5881,10 @@ lateral occipital cortex
 lateral olfactory stria
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria``
 
    :definition: White matter tract that contains projections from the olfactory bulb to the olfactory cortex (Maryann Martone).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001888
    :InterLex ID: http://uri.interlex.org/base/ilx_0106082
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001888#lateral-olfactory-stria-1
@@ -5897,7 +5897,7 @@ lateral olfactory stria
 lateral orbital frontal cortex
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex``
 
    :definition: 'Lateral orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
    :synonyms: lateral orbital frontal cortex
@@ -5913,14 +5913,14 @@ lateral orbital frontal cortex
 lateral orbital gyrus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus``
 
    :definition: 'Lateral orbital gyrus' is an orbital gyrus.
    :synonyms: gyrus orbitalis lateralis, gyrus orbitalis longitudinalis externus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002564
    :InterLex ID: http://uri.interlex.org/base/ilx_0106084
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002564#lateral-orbital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5929,10 +5929,10 @@ lateral orbital gyrus
 lateral parabrachial nucleus
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus``
 
    :definition: 'Lateral parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003007
    :InterLex ID: http://uri.interlex.org/base/ilx_0106086
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003007#lateral-parabrachial-nucleus-1
@@ -5945,7 +5945,7 @@ lateral parabrachial nucleus
 lateral paragigantocellular nucleus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus``
 
    :definition: 'Lateral paragigantocellular nucleus' is a paragigantocellular nucleus.
    :synonyms: lateral paragigantocellular nucleus, lateral paragigantocellular reticular nucleus, lateral part, nucleus paragigantocellularis lateralis, paragigantocellular nucleus, paragigantocellular reticular nucleus, PGL
@@ -5961,14 +5961,14 @@ lateral paragigantocellular nucleus
 lateral part of basal amygdaloid nucleus
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus``
 
    :definition: 'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
    :synonyms: BAL, lateral basal nucleus of amygdala, lateral basal nucleus of the amygdala, lateral division of basal nucleus, lateral division of the basal nucleus, lateral part of the basal amygdalar nucleus, lateral part of the basolateral nucleus, nucleus amygdalae basalis, nucleus amygdaloideus basalis, nucleus basalis lateralis amygdalae, pars lateralis, pars lateralis magnocellularis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002888
    :InterLex ID: http://uri.interlex.org/base/ilx_0106089
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002888#lateral-part-of-basal-amygdaloid-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5977,14 +5977,14 @@ lateral part of basal amygdaloid nucleus
 lateral part of medial mammillary nucleus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus``
 
    :definition: 'Lateral part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
    :synonyms: intercalated mammillary nucleus, intermediate mammillary nucleus, lateral mammillary nucleus (Gagel), lateral part, lateral part of the medial mammillary nucleus, lateral subdivision of medial mammillary nucleus, medial mammillary nucleus, medial mammillary nucleus lateral part, MML, nucleus corporis mamillaris medialis, nucleus intercalatus corporis mammillaris, nucleus intermedius corpus mamillaris, pars lateralis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002664
    :InterLex ID: http://uri.interlex.org/base/ilx_0106090
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002664#lateral-part-of-medial-mammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -5993,14 +5993,14 @@ lateral part of medial mammillary nucleus
 lateral pericuneate nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus``
 
    :definition: 'Lateral pericuneate nucleus' is a nucleus of medulla oblongata.
    :synonyms: LPCu, nucleus pericuneatus lateralis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002874
    :InterLex ID: http://uri.interlex.org/base/ilx_0106093
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002874#lateral-pericuneate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6009,14 +6009,14 @@ lateral pericuneate nucleus
 lateral pes lemniscus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus``
 
    :definition: 'Lateral pes lemniscus' is a nervous system lemniscus. It is part of the midbrain tegmentum.
    :synonyms: deep pes lemniscus, fasciculi laterales pontis, fussschleife, lateral pontine bundle, Laterale Haubenfussschleife, Laterale pontine Buendel, lpl, pes lemnisci profundus, pes lemniscus lateralis, pes lemniscus profond
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003010
    :InterLex ID: http://uri.interlex.org/base/ilx_0106094
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003010#lateral-pes-lemniscus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6025,7 +6025,7 @@ lateral pes lemniscus
 lateral preoptic nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus``
 
    :definition: 'Lateral preoptic nucleus' is a hypothalamic nucleus. It is part of the lateral zone of hypothalamus.
    :synonyms: area praeoptica lateralis, area preoptica lateralis, lateral preoptic area, lateral preoptic hypothalamic nucleus, LPO, nucleus praeopticus lateralis, nucleus preopticus lateralis
@@ -6041,14 +6041,14 @@ lateral preoptic nucleus
 lateral pulvinar nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus``
 
    :definition: 'Lateral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :synonyms: lateral pulvinar nucleus of thalamus, LPul, nucleus pulvinaris lateralis, nucleus pulvinaris lateralis (Hassler), nucleus pulvinaris lateralis thalami, nucleus pulvinaris thalami, pars lateralis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002636
    :InterLex ID: http://uri.interlex.org/base/ilx_0106099
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002636#lateral-pulvinar-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6057,10 +6057,10 @@ lateral pulvinar nucleus
 lateral recess of fourth ventricle
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle``
 
    :definition: 'Lateral recess of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007656
    :InterLex ID: http://uri.interlex.org/base/ilx_0736090
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007656#lateral-recess-of-fourth-ventricle
@@ -6073,7 +6073,7 @@ lateral recess of fourth ventricle
 lateral reticular nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus``
 
    :definition: 'Lateral reticular nucleus' is a nucleus of medulla oblongata. It is part of the lateral medullary reticular complex.
    :synonyms: lateral reticular nuclei, lateral reticular nucleus (medulla), LRt, nucleus reticularis lateralis medullae oblongatae
@@ -6089,10 +6089,10 @@ lateral reticular nucleus
 lateral septal complex
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalComplex``
 
    :definition: 'Lateral septal complex' is a septal nuclear complex. It is part of the striatum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007628
    :InterLex ID: http://uri.interlex.org/base/ilx_0728564
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007628#lateral-septal-complex
@@ -6105,7 +6105,7 @@ lateral septal complex
 lateral septal nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus``
 
    :definition: 'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.
    :synonyms: lateral parolfactory nucleus, lateral septal nucleus (Cajal), lateral septum, lateral septum nucleus, nucleus lateralis septi, nucleus septalis lateralis, nucleus septi lateralis
@@ -6121,14 +6121,14 @@ lateral septal nucleus
 lateral spinal nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus``
 
    :definition: 'Lateral spinal nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
    :synonyms: lateral spinal nucleus (paxspn), LSp
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035024
    :InterLex ID: http://uri.interlex.org/base/ilx_0106113
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035024#lateral-spinal-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6137,10 +6137,10 @@ lateral spinal nucleus
 lateral sulcus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus``
 
    :definition: 'Lateral sulcus' is a subarachnoid sulcus. It is part of the cerebral cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002721
    :InterLex ID: http://uri.interlex.org/base/ilx_0106115
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002721#lateral-sulcus-1
@@ -6153,7 +6153,7 @@ lateral sulcus
 lateral superior olivary nucleus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus``
 
    :definition: 'Lateral superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
    :synonyms: accessory olivary nucleus, accessory superior olivary nucleus, accessory superior olive, inferior olivary complex dorsalaccessory nucleus, lateral part, lateral superior olive, LSO, LSON, nucleus olivaris superior lateralis, superior olivary complex, superior olivary nucleus, superior olive lateral part
@@ -6169,7 +6169,7 @@ lateral superior olivary nucleus
 lateral tuberal nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus``
 
    :definition: 'Lateral tuberal nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
    :synonyms: lateral tuberal hypothalamic nuclei, lateral tuberal nuclear complex, lateral tuberal nuclei, lateral tuberal nucleus, LTu, nuclei tuberales laterales, nucleus tuberis, nucleus tuberis hypothalami, nucleus tuberis lateralis
@@ -6185,7 +6185,7 @@ lateral tuberal nucleus
 lateral vestibular nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus``
 
    :definition: 'Lateral vestibular nucleus' is a vestibular nucleus.
    :synonyms: Deiter&#39;s nucleus, Deiter's nucleus, Deiters nucleus, Deiters' nucleus, Lateral nucleus of Deiters, lateral vestibular nucleus (Deiters), nucleus of Deiters, nucleus vestibularis lateralis
@@ -6201,7 +6201,7 @@ lateral vestibular nucleus
 layer of hippocampus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfHippocampus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfHippocampus``
 
    :definition: 'Layer of hippocampus' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the hippocampal formation.
    :synonyms: cytoarchitectural fields of hippocampal formation, hippocampus layer, hippocampus proper layer, layer of cornu ammonis
@@ -6217,7 +6217,7 @@ layer of hippocampus
 lenticular fasciculus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus``
 
    :definition: 'Lenticular fasciculus' is a ventral thalamic fasciculus.
    :synonyms: dorsal division of ansa lenticularis, fasciculus lenticularis, fasciculus lenticularis [h2], field H2, Field H2 of Forel, Forel's field H2, forel's field h2, lenticular fasciculus, lenticular fasciculus [h2], lenticular fasciculus of diencephalon, lenticular fasciculus of telencephalon, tegmental area h2
@@ -6233,10 +6233,10 @@ lenticular fasciculus
 lentiform nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus``
 
    :definition: 'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002263
    :InterLex ID: http://uri.interlex.org/base/ilx_0725892
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002263#lentiform-nucleus
@@ -6249,10 +6249,10 @@ lentiform nucleus
 limbic lobe
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe``
 
    :definition: Part of cerebral hemisphere located on the medial surface, forming a ring around the brain stem.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002600
    :InterLex ID: http://uri.interlex.org/base/ilx_0106264
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002600#limbic-lobe-1
@@ -6265,7 +6265,7 @@ limbic lobe
 limen of insula
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula``
 
    :definition: 'Limen of insula' is a gyrus. It is part of the insula.
    :synonyms: ambiens gyrus, ambient gyrus, angulus gyri olfactorii lateralis, gyrus ambiens, gyrus ambiens (Noback), insula limen, limen insula, limen insulae, limen of the insula, lmi
@@ -6281,14 +6281,14 @@ limen of insula
 limitans nucleus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus``
 
    :definition: 'Limitans nucleus' is a nucleus of brain.
    :synonyms: Lim, limitans thalamic nucleus, nucleus limitans, nucleus limitans opticus (Hassler), nucleus limitans thalami
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003026
    :InterLex ID: http://uri.interlex.org/base/ilx_0106267
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6297,14 +6297,14 @@ limitans nucleus
 linear nucleus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus``
 
    :definition: 'Linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002557
    :InterLex ID: http://uri.interlex.org/base/ilx_0106275
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002557#linear-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6313,7 +6313,7 @@ linear nucleus
 lingual gyrus
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lingualGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lingualGyrus``
 
    :definition: 'Lingual gyrus' is an occipital gyrus.
    :synonyms: gyrus lingualis, gyrus occipitotemporalis medialis, lingula gyrus, lingula of cerebral hemisphere, medial occipito-temporal gyrus, medial occipitotemporal gyrus, medial occipitotemporal gyrus-2
@@ -6329,7 +6329,7 @@ lingual gyrus
 lobe of cerebral hemisphere
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere``
 
    :definition: 'Lobe of cerebral hemisphere' is part of the cerebral hemisphere.
    :synonyms: cerebral cortical segment, cerebral hemisphere lobe, cerebral lobe, cerebral lobes, lobe of cerebral cortex, lobe parts of cerebral cortex, lobes of the brain, lobi cerebri, regional organ part of cerebral cortex, segment of cerebral cortex
@@ -6345,7 +6345,7 @@ lobe of cerebral hemisphere
 locus ceruleus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus``
 
    :definition: 'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :synonyms: blue nucleus, caerulean nucleus, LC, loci coeruleus, locus caeruleus, locus cinereus, locus coeruleu, locus coeruleus, locus coeruleus (Vicq d'Azyr), nucleus caeruleus, nucleus loci caerulei, nucleus of locus caeruleus, Nucleus Pigmentosus Pontis, substantia ferruginea
@@ -6361,14 +6361,14 @@ locus ceruleus
 longitudinal pontine fibers
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers``
 
    :definition: 'Longitudinal pontine fibers' is a tract of brain. It is part of the basal part of pons.
    :synonyms: corticofugal fibers, fasiculii longitudinales pyramidales, fibrae pontis longitudinales, longitudinal fasciculus of the pons, longitudinal pontine fibers, longitudinal pontine fibres, longitudinal pontine tract
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002732
    :InterLex ID: http://uri.interlex.org/base/ilx_0106355
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002732#longitudinal-pontine-fibers-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6377,10 +6377,10 @@ longitudinal pontine fibers
 lower rhombic lip
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip``
 
    :definition: 'Lower rhombic lip' is a regional part of brain. It is part of the rhombic lip.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009840
    :InterLex ID: http://uri.interlex.org/base/ilx_0729564
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009840#lower-rhombic-lip
@@ -6393,14 +6393,14 @@ lower rhombic lip
 magnocellular nucleus of medial geniculate body
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody``
 
    :definition: 'Magnocellular nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :synonyms: corpus geniculatus mediale, magnocelluar nucleus of medial geniculate complex, magnocellular medial geniculate nucleus, magnocellular nucleus of medial geniculate complex, magnocellular nucleus of the medial geniculate body, medial division of medial geniculate body, medial geniculate complex, medial geniculate complex medial part, medial geniculate nucleus, medial geniculate nucleus medial part, medial magnocellular nucleus of medial geniculate body, medial nucleus of medial geniculate body, medial part, MMG, nucleus corporis geniculati medialis, nucleus geniculatus medialis, nucleus geniculatus medialis magnocelluaris (Hassler), nucleus geniculatus medialis magnocellularis (Hassler), nucleus medialis magnocellularis corporis geniculati medialis, pars magnocelluaris, pars magnocellularis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002759
    :InterLex ID: http://uri.interlex.org/base/ilx_0106472
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002759#magnocellular-nucleus-of-medial-geniculate-body-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6409,14 +6409,14 @@ magnocellular nucleus of medial geniculate body
 magnocellular part of medial dorsal nucleus
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus``
 
    :definition: 'Magnocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :synonyms: dorsomedial thalamic nucleus, magnocellular mediodorsal nucleus, magnocellular nucleus of medial dorsal nucleus of thalamus, magnocellular part, magnocellular part of dorsomedial nucleus, magnocellular part of mediodorsal nucleus, magnocellular part of the medial dorsal nucleus, MDM, nucleus medialis dorsalis, nucleus medialis fibrosus, nucleus medialis fibrosus (Hassler), pars magnocellularis, pars magnocellularis nuclei mediodorsalis thalami
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002647
    :InterLex ID: http://uri.interlex.org/base/ilx_0106473
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002647#magnocellular-part-of-medial-dorsal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6425,7 +6425,7 @@ magnocellular part of medial dorsal nucleus
 magnocellular part of red nucleus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus``
 
    :definition: 'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
    :synonyms: magnocellular part, magnocellular part of the red nucleus, magnocellular red nucleus, nucleus ruber, nucleus ruber magnocellularis, palaeorubrum, paleoruber, pars magnocellularis, pars magnocellularis (ruber), pars magnocellularis nuclei rubri, red nucleus, red nucleus magnocellular part, RMC
@@ -6441,14 +6441,14 @@ magnocellular part of red nucleus
 magnocellular part of ventral anterior nucleus
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus``
 
    :definition: 'Magnocellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
    :synonyms: magnocellular division of ventral anterior nucleus of thalamus, magnocellular part, magnocellular part of the ventral anterior nucleus, magnocellular ventral anterior nucleus, nucleus lateropolaris (magnocellularis), nucleus lateropolaris magnocellularis (Hassler), nucleus rostralis lateralis situs perifascicularis, nucleus thalamicus ventral anterior, nucleus thalamicus ventralis anterior, nucleus ventralis anterior, pars magnocellularis, pars magnocellularis nuclei ventralis anterior thalami, VAMC, ventral anterior nucleus, ventral anterior thalamic nucleus, ventroanterior thalamic nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002935
    :InterLex ID: http://uri.interlex.org/base/ilx_0106475
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002935#magnocellular-part-of-ventral-anterior-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6457,14 +6457,14 @@ magnocellular part of ventral anterior nucleus
 magnocellular preoptic nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus``
 
    :definition: 'Magnocellular preoptic nucleus' is a preoptic nucleus.
    :synonyms:
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_2000248
    :InterLex ID: http://uri.interlex.org/base/ilx_0106476
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:2000248#magnocellular-preoptic-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6473,7 +6473,7 @@ magnocellular preoptic nucleus
 mammillary body
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody``
 
    :definition: 'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.
    :synonyms: corpora mamillaria, corpora mammillaria, corpus mamillare, corpus mamillaris, corpus mammillare, mamillary body, mammillary area, mmb
@@ -6489,7 +6489,7 @@ mammillary body
 mammillary peduncle
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle``
 
    :definition: 'Mammillary peduncle' is a peduncle of diencephalon. It is part of the posterior hypothalamic region.
    :synonyms: mammillary peduncle (Meynert), mpe, peduncle of mammillary body, pedunculus corporis mamillaris, pedunculus corporis mammillaris
@@ -6505,7 +6505,7 @@ mammillary peduncle
 mammillothalamic tract of hypothalamus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus``
 
    :definition: 'Mammillothalamic tract of hypothalamus' is a tract of diencephalon. It is part of the mammillary axonal complex.
    :synonyms: fasciculus mamillothalamicus (hypothalami), mammillothalamic tract of hypothalamus, mammillothalamic tract of the hypothalamus, mthh
@@ -6521,7 +6521,7 @@ mammillothalamic tract of hypothalamus
 matrix compartment
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment``
 
    :definition: 'Matrix compartment' is a chemoarchitectural part of striatum.
    :synonyms: matrix, matrix compartment, striatal matrix
@@ -6537,7 +6537,7 @@ matrix compartment
 matrix compartment of caudate nucleus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus``
 
    :definition: 'Matrix compartment of caudate nucleus' is a matrix compartment. It is part of the caudate nucleus.
    :synonyms: matrix compartment of caudate nucleus
@@ -6553,14 +6553,14 @@ matrix compartment of caudate nucleus
 matrix compartment of putamen
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen``
 
    :definition: 'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0029002
    :InterLex ID: http://uri.interlex.org/base/ilx_0730490
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0029002#matrix-compartment-of-putamen
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6569,7 +6569,7 @@ matrix compartment of putamen
 matrix part of head of caudate nucleus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus``
 
    :definition: 'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.
    :synonyms: matrix compartment of head of caudate nucleus, matrix part of head of caudate nucleus
@@ -6585,7 +6585,7 @@ matrix part of head of caudate nucleus
 matrix part of tail of caudate nucleus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus``
 
    :definition: 'Matrix part of tail of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the tail of caudate nucleus.
    :synonyms: matrix compartment of tail of caudate nucleus, matrix part of tail of caudate nucleus
@@ -6601,7 +6601,7 @@ matrix part of tail of caudate nucleus
 medial accessory olive
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive``
 
    :definition: 'Medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
    :synonyms: MAO, medial accessory olive
@@ -6617,14 +6617,14 @@ medial accessory olive
 medial amygdaloid nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus``
 
    :definition: 'Medial amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002892
    :InterLex ID: http://uri.interlex.org/base/ilx_0736076
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6633,7 +6633,7 @@ medial amygdaloid nucleus
 medial dorsal nucleus of thalamus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus``
 
    :definition: 'Medial dorsal nucleus of thalamus' is a nucleus of dorsal thalamus.
    :synonyms: nucleus medialis dorsalis, nucleus dorsomedialis thalami, medial thalamic nucleus, mediodorsal thalamic nucleus, dorsomedial nucleus, medial thalamic nuclei, medial dorsal thalamic nucleus, mediodorsal nucleus, Mediodorsal thalamus, Dorsomedial nucleus of thalamus, Dorsomedial nuclear group, Dorsal medial nucleus of thalamus, Medial dorsal nucleus of thalamus, Medial nuclear group, Medial dorsal nucleus, mediodorsal nucleus of thalamus, medial nuclear group of thalamus, nucleus medialis dorsalis thalami, dorsal thalamus medial division, mediodorsal nucleus of the thalamus, nucleus mediodorsalis thalami, medial group of the dorsal thalamus, nucleus thalamicus mediodorsalis, nuclei mediales (thalami), medial thalamic nuclear group, nucleus medialis dorsalis (Hassler)
@@ -6649,7 +6649,7 @@ medial dorsal nucleus of thalamus
 medial entorhinal cortex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex``
 
    :definition: 'Medial entorhinal cortex' is the medial subdivision of the entorhinal cortex.
    :synonyms: entorhinal area, medial part, MEC
@@ -6665,7 +6665,7 @@ medial entorhinal cortex
 medial forebrain bundle
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle``
 
    :definition: 'Medial forebrain bundle' is a fasciculus of brain. It is part of the hypothalamus.
    :synonyms: fasciculus longitudinalis telencephali medialis, fasciculus medialis telencephali, fasciculus medialis telencephalicus, fasciculus prosencephalicus medialis, medial forebrain bundles, medial forebrain fasciculus, median forebrain bundle, mfb, telencephalic medial fasciculus
@@ -6681,7 +6681,7 @@ medial forebrain bundle
 medial geniculate body
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody``
 
    :definition: 'Medial geniculate body' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the metathalamus.
    :synonyms: corpus geniculatum mediale, corpus geniculatus medialis, internal geniculate body, medial geniculate complex, medial geniculate complex of dorsal thalamus, medial geniculate nuclei, medial geniculate nucleus, MGB, MGN, nuclei corporis geniculati medialis, nucleus corporis geniculati medialis, nucleus geniculatus medialis
@@ -6697,7 +6697,7 @@ medial geniculate body
 medial globus pallidus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus``
 
    :definition: 'Medial globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
    :synonyms: entopeduncular nucleus, Entopeduncular nucleus (Monakow), globus pallidus, globus pallidus inernal segment, globus pallidus interna, globus pallidus internal segment, globus pallidus internus, globus pallidus medial part, globus pallidus medial segment, globus pallidus medialis, globus pallidus pars medialis, Gpi, internal globus pallidus, internal pallidum, internal part of globus pallidus, internal segment, medial division of globus pallidus, medial globus pallidus (entopeduncular nucleus), medial pallidal segment, medial part, medial part of globus pallidus, medial segment, medial segment of globus pallidus, medial segment of the globus pallidus, mesial pallidum, nucleus medialis globi pallidi, pallidum dorsal region internal segment, pallidum I, pallidum II, Pallidus I, pars interna, pars medialis globi pallidi, principal medial geniculate nucleus
@@ -6713,7 +6713,7 @@ medial globus pallidus
 medial lemniscus of medulla
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla``
 
    :definition: 'Medial lemniscus of medulla' is a nervous system lemniscus. It is part of the medulla oblongata and medial lemniscus.
    :synonyms: lemniscus medialis (myelencephali), medial lemniscus of the medulla, medulla medial lemniscus
@@ -6729,7 +6729,7 @@ medial lemniscus of medulla
 medial lemniscus of midbrain
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain``
 
    :definition: 'Medial lemniscus of midbrain' is a nervous system lemniscus. It is part of the midbrain tegmentum, cerebral peduncle and medial lemniscus.
    :synonyms: lemniscus medialis (mesencephali), medial lemniscus of the midbrain, midbrain medial lemniscus, mlmb
@@ -6745,7 +6745,7 @@ medial lemniscus of midbrain
 medial lemniscus of pons
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons``
 
    :definition: 'Medial lemniscus of pons' is a nervous system lemniscus. It is part of the medial lemniscus and pontine tegmentum.
    :synonyms: lemniscus medial, lemniscus medialis (pontis), medial lemniscus of pons of varolius, medial lemniscus of the pons, pons medial lemniscus, pons of varolius medial lemniscus
@@ -6761,7 +6761,7 @@ medial lemniscus of pons
 medial longitudinal fasciculus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus``
 
    :definition: 'Medial longitudinal fasciculus' is a fasciculus of brain.
    :synonyms: fasciculus longitudinalis medialis, medial longitudinal fascicle, MLF
@@ -6777,7 +6777,7 @@ medial longitudinal fasciculus
 medial longitudinal fasciculus of medulla
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla``
 
    :definition: A medial longitudinal fasciculus that is part of a medulla [Automatically generated definition].
    :synonyms: fasciculus longitudinalis medialis (myelencephali), medial longitudinal fasciculus of medulla oblongata, medial longitudinal fasciculus of the medulla, medulla medial longitudinal fasciculus
@@ -6793,7 +6793,7 @@ medial longitudinal fasciculus of medulla
 medial longitudinal fasciculus of midbrain
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain``
 
    :definition: A medial longitudinal fasciculus that is part of a midbrain [Automatically generated definition].
    :synonyms: fasciculus longitudinalis medialis (mesencephali), medial longitudinal fasciculus of the midbrain, midbrain medial longitudinal fasciculus, mlfmb
@@ -6809,7 +6809,7 @@ medial longitudinal fasciculus of midbrain
 medial longitudinal fasciculus of pons
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons``
 
    :definition: A medial longitudinal fasciculus that is part of a pons [Automatically generated definition].
    :synonyms: fasciculus longitudinalis medialis (pontis), medial longitudinal fasciculus of pons of varolius, medial longitudinal fasciculus of the pons, pons medial longitudinal fasciculus, pons of varolius medial longitudinal fasciculus
@@ -6825,14 +6825,14 @@ medial longitudinal fasciculus of pons
 medial mammillary nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus``
 
    :definition: 'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :synonyms: body, internal mammillary nucleus, medial mamillary nucleus, medial mammillary nucleus, medial nucleus of mammillary body, MM, nucleus mammillaris medialis, preoptic division
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001939
    :InterLex ID: http://uri.interlex.org/base/ilx_0106660
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001939#medial-mammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6841,7 +6841,7 @@ medial mammillary nucleus
 medial medullary lamina of globus pallidus
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus``
 
    :definition: 'Medial medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
    :synonyms: globus pallidus, inner medullary lamina, internal medullary l. of corpus striatum, internal medullary lamina of corpus striatum, internal medullary lamina of globus pallidus, internal medullary lamina of lentiform nucleus, internal medullary lamina of pallidum, l. medullaris interna corporis striati, lamella pallidi interna, lamina medullaris interna, lamina medullaris interna corporis striati, lamina medullaris interna pallidi, lamina medullaris medialis, lamina medullaris medialis corporis striati, lamina pallidi interna, medial medullary lamina, medial medullary lamina of corpus striatum, medial medullary lamina of globus pallidus, medial medullary lamina of pallidum, medial medullary lamina of the globus pallidus, medial medullary stria, medial medullary stria of corpus striatum, mml
@@ -6857,14 +6857,14 @@ medial medullary lamina of globus pallidus
 medial nucleus of stria terminalis
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis``
 
    :definition: 'Medial nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
    :synonyms: BSTM, medial bed nucleus of stria terminalis, medial bed nucleus of the stria terminalis, medial subdivision of BNST
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034895
    :InterLex ID: http://uri.interlex.org/base/ilx_0106667
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034895#medial-nucleus-of-stria-terminalis
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6873,7 +6873,7 @@ medial nucleus of stria terminalis
 medial nucleus of trapezoid body
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody``
 
    :definition: 'Medial nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the primary superior olive.
    :synonyms: MNTB
@@ -6889,14 +6889,14 @@ medial nucleus of trapezoid body
 medial oculomotor nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus``
 
    :definition: 'Medial oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: M3, medial nucleus of oculomotor nuclear complex, medial oculomotor cell column, nucleus nervi oculomotorii, pars medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002975
    :InterLex ID: http://uri.interlex.org/base/ilx_0106670
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002975#medial-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6905,14 +6905,14 @@ medial oculomotor nucleus
 medial olfactory gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus``
 
    :definition: 'Medial olfactory gyrus' is a gyrus.
    :synonyms: gyrus medius olfactorius, gyrus olfactorius medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002599
    :InterLex ID: http://uri.interlex.org/base/ilx_0106671
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002599#medial-olfactory-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6921,7 +6921,7 @@ medial olfactory gyrus
 medial orbital frontal cortex
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex``
 
    :definition: 'Medial orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
    :synonyms: cortex of medial frontal gyrus, frontal medial cortex, medial orbitofrontal cortex
@@ -6937,14 +6937,14 @@ medial orbital frontal cortex
 medial orbital gyrus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalGyrus``
 
    :definition: 'Medial orbital gyrus' is an orbital gyrus.
    :synonyms: gyrus orbitalis longitudinalis internus, gyrus orbitalis medialis, gyrus orbitalis medius
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002570
    :InterLex ID: http://uri.interlex.org/base/ilx_0106673
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002570#medial-orbital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6953,7 +6953,7 @@ medial orbital gyrus
 medial parabrachial nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus``
 
    :definition: 'Medial parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
    :synonyms: medial division, medial part, nucleus parabrachialis medialis, parabrachial nucleus
@@ -6969,14 +6969,14 @@ medial parabrachial nucleus
 medial part of basal amygdaloid nucleus
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus``
 
    :definition: 'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
    :synonyms: anterior part, BAM, basomedial amygdalar nucleus, basomedial amygdaloid nucleus, basomedial amygdaloid nucleus anterior part, basomedial amygdaloid nucleus anterior subdivision, medial basal nucleus of amygdala, medial division of basal nucleus, medial part of the basal amygdalar nucleus, medial part of the basolateral nucleus, nucleus amygdalae basalis, nucleus amygdalae basalis medialis, nucleus amygdaloideus basalis pars lateralis parvocellularis, nucleus basalis medialis amygdalae, pars medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002889
    :InterLex ID: http://uri.interlex.org/base/ilx_0106676
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002889#medial-part-of-basal-amygdaloid-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -6985,14 +6985,14 @@ medial part of basal amygdaloid nucleus
 medial part of medial mammillary nucleus
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus``
 
    :definition: 'Medial part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
    :synonyms: medial mamillary nucleus, medial mammillary nucleus, medial mammillary nucleus (carpenter), medial mammillary nucleus median part, medial part, medial part of the medial mammillary nucleus, medial subdivision of medial mammillary nucleus, median part, MML, nucleus corporis mamillaris medialis, nucleus medialis corpus mamillaris (Shantha), pars medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002632
    :InterLex ID: http://uri.interlex.org/base/ilx_0106677
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002632#medial-part-of-medial-mammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7001,14 +7001,14 @@ medial part of medial mammillary nucleus
 medial part of ventral lateral nucleus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus``
 
    :definition: 'Medial part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :synonyms: medial part, medial part of the ventral lateral nucleus, nucleus ventralis lateralis, nucleus ventralis lateralis thalami, nucleus ventrooralis medialis (Hassler), pars medialis, ventral lateral nucleus, ventral medial nucleus, ventral medial nucleus of thalamus, ventral medial nucleus of the thalamus, ventromedial nucleus of thalamus, ventromedial nucleus of the thalamus, ventromedial thalamic nucleus, VLM, vMp (Macchi)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002614
    :InterLex ID: http://uri.interlex.org/base/ilx_0106680
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002614#medial-part-of-ventral-lateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7017,14 +7017,14 @@ medial part of ventral lateral nucleus
 medial pericuneate nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus``
 
    :definition: 'Medial pericuneate nucleus' is a nucleus of medulla oblongata.
    :synonyms: MPCu, nucleus pericuneatus medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002875
    :InterLex ID: http://uri.interlex.org/base/ilx_0106681
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002875#medial-pericuneate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7033,14 +7033,14 @@ medial pericuneate nucleus
 medial pes lemniscus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus``
 
    :definition: 'Medial pes lemniscus' is a brainstem white matter and white matter of midbrain. It is part of the midbrain tegmentum.
    :synonyms: mpl, pes lemniscus medialis, superficial pes lemniscus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002662
    :InterLex ID: http://uri.interlex.org/base/ilx_0106682
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002662#medial-pes-lemniscus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7049,7 +7049,7 @@ medial pes lemniscus
 medial preoptic nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus``
 
    :definition: 'Medial preoptic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial preoptic region.
    :synonyms: area praeoptica medialis, area preopticus medialis, medial preoptic area, medial preoptic hypothalamic nucleus, MPO, nucleus praeopticus medialis, nucleus preopticus medialis
@@ -7065,14 +7065,14 @@ medial preoptic nucleus
 medial pulvinar nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus``
 
    :definition: 'Medial pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :synonyms: MPul, nucleus pulvinaris medialis, nucleus pulvinaris medialis thalami, nucleus pulvinaris thalami, pars medialis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002638
    :InterLex ID: http://uri.interlex.org/base/ilx_0106695
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7081,7 +7081,7 @@ medial pulvinar nucleus
 medial septal nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus``
 
    :definition: 'Medial septal nucleus' is a telencephalic nucleus. It is part of the medial septal complex.
    :synonyms: medial parolfactory nucleus, medial septal nucleus (Cajal), medial septum, medial septum nucleus, MS, n. septi medialis, nucleus medialis septi, nucleus septalis medialis
@@ -7097,14 +7097,14 @@ medial septal nucleus
 medial subnucleus of solitary tract
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract``
 
    :definition: 'Medial subnucleus of solitary tract' is a nucleus of solitary tract.
    :synonyms: left, medial part, medial subnucleus, medial subnucleus of solitary tract, medial subnucleus of the solitary tract, meidal subnucleus, MSol, nucleus of the solitary tract, solitary nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023390
    :InterLex ID: http://uri.interlex.org/base/ilx_0106701
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023390#medial-subnucleus-of-solitary-tract-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7113,7 +7113,7 @@ medial subnucleus of solitary tract
 medial superior olivary nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus``
 
    :definition: 'Medial superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
    :synonyms: chief nucleus of superior olive, chief superior olivary nucleus, main superior olivary nucleus, medial part, medial superior olive, MSO, nucleus laminaris, nucleus olivaris superior medialis, principal superior olivary nucleus, superior olivary complex, superior olivary nucleus, superior olive medial part, superior paraolivary nucleus, superior parolivary nucleus
@@ -7129,14 +7129,14 @@ medial superior olivary nucleus
 medial transverse frontopolar gyrus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialTransverseFrontopolarGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialTransverseFrontopolarGyrus``
 
    :definition: 'Medial transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :synonyms: medial transverse frontopolar gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024193
    :InterLex ID: http://uri.interlex.org/base/ilx_0106708
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024193#medial-transverse-frontopolar-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7145,14 +7145,14 @@ medial transverse frontopolar gyrus
 medial ventral tegmental area
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea``
 
    :definition: 'Medial ventral tegmental area' is a regional part of brain. It is part of the ventral tegmental area.
    :synonyms: medial ventral tegmental area
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023865
    :InterLex ID: http://uri.interlex.org/base/ilx_0106709
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023865#medial-ventral-tegmental-area-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7161,7 +7161,7 @@ medial ventral tegmental area
 medial vestibular nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus``
 
    :definition: 'Medial vestibular nucleus' is a vestibular nucleus.
    :synonyms: chief vestibular nucleus, dorsal vestibular nucleus, medial nucleus, nucleus of Schwalbe, nucleus triangularis, nucleus vestibularis medialis, principal vestibular nucleus, Schwalbe's nucleus, triangular nucleus
@@ -7177,13 +7177,13 @@ medial vestibular nucleus
 median eminence of neurohypophysis
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis``
 
    :definition: 'Median eminence of neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the neurohypophysis.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002197
    :InterLex ID: http://uri.interlex.org/base/ilx_0106712
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: Elevation on the ventral surface of the brain located at the zone of attachment between the hypothalamic floor and the hypophysis (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg. 446).
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -7193,7 +7193,7 @@ median eminence of neurohypophysis
 median preoptic nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus``
 
    :definition: 'Median preoptic nucleus' is a preoptic nucleus.
    :synonyms: medial preoptic area, median preoptic nucleus (Loo), MnPO, nucleus praeopticus medianus, nucleus preopticus medianus, periventricular nucleus, preventricular portion
@@ -7209,7 +7209,7 @@ median preoptic nucleus
 median raphe nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus``
 
    :definition: A large cell serotonergic raphe nucleus in the upper pons and lower mesencephalon that is part of the reticular formation
    :synonyms: Cell group B8, medial raphe nucleus, median nucleus of the raphe, median raphe nucleus, MRN, nucleus centralis superior, nucleus raphes medianus, superior central nucleus, superior central nucleus raphe, superior central tegmental nucleus
@@ -7225,7 +7225,7 @@ median raphe nucleus
 medulla oblongata
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata``
 
    :definition: 'Medulla oblongata' is part of the brainstem and myelencephalon.
    :synonyms: Afterbrain, Bulb, bulbus, Epencephalon, medulla, medulla oblonzata, Metencephalon, metepencephalon
@@ -7241,14 +7241,14 @@ medulla oblongata
 medullary anterior horn
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn``
 
    :definition: 'Medullary anterior horn' is a gray matter of hindbrain. It is part of the medulla oblongata.
    :synonyms: cornu anterius medullaris, MAH, medullary anterior horn
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023378
    :InterLex ID: http://uri.interlex.org/base/ilx_0106740
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023378#medullary-anterior-horn-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7257,14 +7257,14 @@ medullary anterior horn
 medullary raphe nuclear complex
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex``
 
    :definition: 'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.
    :synonyms: nuclei raphe (myelencephali), raphe medullae oblongatae, raphe nuclei of medulla, raphe nuclei of the medulla, raphe of medulla oblongata
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002692
    :InterLex ID: http://uri.interlex.org/base/ilx_0106743
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7273,7 +7273,7 @@ medullary raphe nuclear complex
 medullary reticular formation
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation``
 
    :definition: 'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.
    :synonyms: bulb reticular formation, bulbar reticular formation, formatio reticularis myelencephali, medulla oblongata reticular formation, medulla oblonmgata reticular formation, medullary reticular nucleus, metepencephalon reticular formation, reticular formation, reticular formation of bulb, reticular formation of medulla, reticular formation of medulla oblongata, reticular formation of medulla oblonmgata, reticular formation of metepencephalon, rhombencephalic reticular formation
@@ -7289,14 +7289,14 @@ medullary reticular formation
 meninx of hindbrain
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain``
 
    :definition: 'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003291
    :InterLex ID: http://uri.interlex.org/base/ilx_0736366
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003291#meninx-of-hindbrain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7305,7 +7305,7 @@ meninx of hindbrain
 mesencephalic nucleus of trigeminal nerve
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve``
 
    :definition: 'Mesencephalic nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: Me5, mesencephalic nuclei of trigeminal nerves, mesencephalic nucleus, mesencephalic nucleus of the trigeminal, mesencephalic nucleus of the trigeminal nerve, mesencephalic trigeminal nucleus, mesencephalic trigeminal V nucleus, midbrain trigeminal nucleus, nucleus mesencephalicus nervi trigeminalis, nucleus mesencephalicus nervi trigemini, Nucleus of mesencephalic root of V, nucleus tractus mesencephalici nervi trigemini, nucleus tractus mesencephalicus nervi trigemini, trigeminal mesencephalic nucleus, trigeminal nerve mesencepahlic nucleus, trigeminal V mesencephalic nucleus
@@ -7321,14 +7321,14 @@ mesencephalic nucleus of trigeminal nerve
 mesencephalic tract of trigeminal nerve
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve``
 
    :definition: 'Mesencephalic tract of trigeminal nerve' is a tract of brain. It is part of the midbrain tegmentum.
    :synonyms: me5, Mesencephalic root of V, mesencephalic tract of the trigeminal nerve, mesencephalic trigeminal tract, midbrain tract of the trigeminal nerve, tractus mesencephalicus nervi trigeminalis, tractus mesencephalicus nervi trigemini, tractus mesencephalicus trigeminalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002666
    :InterLex ID: http://uri.interlex.org/base/ilx_0106813
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002666#mesencephalic-tract-of-trigeminal-nerve-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7337,7 +7337,7 @@ mesencephalic tract of trigeminal nerve
 metathalamus
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus``
 
    :definition: 'Metathalamus' is a nucleus of dorsal thalamus.
    :synonyms: corpora geniculata, geniculate group of dorsal thalamus, geniculate group of the dorsal thalamus, geniculate thalamic group, geniculate thalamic nuclear group (metathalamus), MTh, nuclei metathalami
@@ -7353,7 +7353,7 @@ metathalamus
 metencephalon
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon``
 
    :definition: 'Metencephalon' is a segmental subdivision of hindbrain.
    :synonyms: Epencephalon-2, epencephalon
@@ -7369,10 +7369,10 @@ metencephalon
 metencephalon sulcus limitans
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans``
 
    :definition: 'Metencephalon sulcus limitans' is part of the future metencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009577
    :InterLex ID: http://uri.interlex.org/base/ilx_0729292
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009577#metencephalon-sulcus-limitans
@@ -7385,7 +7385,7 @@ metencephalon sulcus limitans
 midbrain
 --------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain``
 
    :definition: 'Midbrain' is a regional part of brain.
    :synonyms: MB, Mesencephalon
@@ -7401,7 +7401,7 @@ midbrain
 midbrain cerebral aqueduct
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct``
 
    :definition: 'Midbrain cerebral aqueduct' is a brain ventricle. It is part of the midbrain.
    :synonyms: aqueduct, Aqueduct (Sylvius), aqueduct of midbrain, aqueduct of Sylvius, aqueductus mesencephali, cerebral aquaduct, cerebral aqueduct, Cerebral aqueduct of Sylvius, cerebral aqueduct proper, medial tectal ventricle, mesencephalic duct, mesencephalic ventricle, mesencephalic vesicle, midbrain cerebral aqueduct, midbrain ventricle, Sylvian aqueduct, tectal ventricle
@@ -7417,10 +7417,10 @@ midbrain cerebral aqueduct
 midbrain raphe nuclei
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei``
 
    :definition: 'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007412
    :InterLex ID: http://uri.interlex.org/base/ilx_0106941
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007412#midbrain-raphe-nuclei-1
@@ -7433,7 +7433,7 @@ midbrain raphe nuclei
 midbrain reticular formation
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation``
 
    :definition: 'Midbrain reticular formation' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum and reticular formation.
    :synonyms: formatio reticularis mesencephali, formatio reticularis tegmentalis, formatio reticularis tegmenti mesencephali, MBRF, reticular formation of midbrain, substantia reticularis mesencephali, tegmental reticular formation
@@ -7449,7 +7449,7 @@ midbrain reticular formation
 midbrain tectum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum``
 
    :definition: 'Midbrain tectum' is a regional part of brain. It is part of the midbrain.
    :synonyms: Tec, tectum, Neuraxis tectum, mesencephalic tectum, tectum mesencephali, tectum mesencephalicum, tectum of midbrain, t. mesencephali
@@ -7465,7 +7465,7 @@ midbrain tectum
 midbrain tegmentum
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum``
 
    :definition: 'Midbrain tegmentum' is a regional part of brain. It is part of the midbrain and brainstem.
    :synonyms: mesencephalic tegmentum, MTg, tegmentum, tegmentum mesencephali, tegmentum mesencephalicum, tegmentum of midbrain
@@ -7481,10 +7481,10 @@ midbrain tegmentum
 midbrain-hindbrain boundary
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainhindbrainBoundary
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainhindbrainBoundary``
 
    :definition: 'Midbrain-hindbrain boundary' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003052
    :InterLex ID: http://uri.interlex.org/base/ilx_0728815
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary
@@ -7497,7 +7497,7 @@ midbrain-hindbrain boundary
 middle cerebellar peduncle
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle``
 
    :definition: 'Middle cerebellar peduncle' is a cerebellar peduncle and white matter of pons. It is part of the basal part of pons.
    :synonyms: brachium pontis, brachium pontis (stem of middle cerebellar peduncle), crus cerebelli ad pontem, crus ponto-cerebellare, mcp, mid-cerebellar peduncle, pedunculus cerebellaris medialis, pedunculus cerebellaris medius, pedunculus cerebellaris pontinus
@@ -7513,7 +7513,7 @@ middle cerebellar peduncle
 middle frontal gyrus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus``
 
    :definition: 'Middle frontal gyrus' is a frontal gyrus.
    :synonyms: gyrus F2, gyrus frontalis medialis, gyrus frontalis medialis (Winters), gyrus frontalis medius, gyrus frontalis secundus, intermediate frontal gyrus, medial frontal gyrus, medial frontal gyrus (Mai), medial frontal gyrus x, middle (medial) frontal gyrus
@@ -7529,7 +7529,7 @@ middle frontal gyrus
 middle temporal gyrus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalGyrus``
 
    :definition: 'Middle temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :synonyms: gyrus temporalis medius, inferior temporal gyrus (Seltzer), intermediate temporal gyrus, medial temporal gyrus, middle (medial) temporal gyrus
@@ -7545,7 +7545,7 @@ middle temporal gyrus
 midline nuclear group
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup``
 
    :definition: 'Midline nuclear group' is a nucleus of dorsal thalamus.
    :synonyms: median nuclei of thalamus, midline group of the dorsal thalamus, midline nuclear group, midline nuclear group of thalamus, midline nuclei of thalamus, midline thalamic group, midline thalamic nuclear group, midline thalamic nuclei, nuclei mediani (thalami), nuclei mediani thalami, nucleus mediani thalami, periventricular nuclei of thalamus
@@ -7561,10 +7561,10 @@ midline nuclear group
 motor nucleus of trigeminal nerve
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve``
 
    :definition: 'Motor nucleus of trigeminal nerve' is a trigeminal nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002633
    :InterLex ID: http://uri.interlex.org/base/ilx_0107124
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002633#motor-nucleus-of-trigeminal-nerve-1
@@ -7577,14 +7577,14 @@ motor nucleus of trigeminal nerve
 motor root of trigeminal nerve
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve``
 
    :definition: 'Motor root of trigeminal nerve' is a trigeminal nerve root.
    :synonyms: dorsal motor root of v, dorsal motor roots of V, minor root of trigeminal nerve, motor branch of trigeminal nerve, motor root of N. V, motor root of nervus v, motor root of the trigeminal nerve, nervus trigemini radix motoria, nervus trigeminus, portio minor nervi trigemini, portio minor of trigeminal nerve, radix motoria, radix motoria (Nervus trigeminus [V]), radix motoria nervus trigemini, radix motorius
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002796
    :InterLex ID: http://uri.interlex.org/base/ilx_0107128
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002796#motor-root-of-trigeminal-nerve-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7593,10 +7593,10 @@ motor root of trigeminal nerve
 mushroom body
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody``
 
    :definition: 'Mushroom body' is a material entity and anatomical entity. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001058
    :InterLex ID: http://uri.interlex.org/base/ilx_0724282
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001058#mushroom-body
@@ -7609,10 +7609,10 @@ mushroom body
 myelencephalon sulcus limitans
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonSulcusLimitans
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonSulcusLimitans``
 
    :definition: 'Myelencephalon sulcus limitans' is part of the future myelencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009578
    :InterLex ID: http://uri.interlex.org/base/ilx_0734752
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009578#myelencephalon-sulcus-limitans
@@ -7625,7 +7625,7 @@ myelencephalon sulcus limitans
 neocortex
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex``
 
    :definition: 'Neocortex' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: cerebral neocortex, homogenetic cortex, homotypical cortex, iso-cortex, isocortex, isocortex (sensu lato), neocortex (isocortex), neopallial cortex, neopallium, nonolfactory cortex, nucleus hypoglossalis
@@ -7641,14 +7641,14 @@ neocortex
 neodentate part of dentate nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus``
 
    :definition: 'Neodentate part of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
    :synonyms: NDt, neodentate portion of dentate nucleus, neodentate portion of the dentate nucleus, pars neodentata
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002747
    :InterLex ID: http://uri.interlex.org/base/ilx_0107392
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002747#neodentate-part-of-dentate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7657,7 +7657,7 @@ neodentate part of dentate nucleus
 neural lobe of neurohypophysis
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis``
 
    :definition: The posterior pituitary (or neurohypophysis) comprises the posterior lobe of the pituitary gland and is part of the endocrine system. Despite its name, the posterior pituitary gland is not a gland, per se; rather, it is largely a collection of axonal projections from the hypothalamus that terminate behind the anterior pituitary gland. [WP,unvetted].
    :synonyms: caudal lobe, eminentia medialis (Shantha), eminentia mediana, eminentia postinfundibularis, lobe caudalis cerebelli, lobus nervosus (Neurohypophysis), medial eminence, middle lobe, neural component of pituitary, pars nervosa, pars nervosa (hypophysis), pars nervosa (neurohypophysis), pars nervosa neurohypophysis, pars nervosa of hypophysis, pars nervosa of neurohypophysis, pars nervosa of pituitary, pars nervosa of posterior lobe of pituitary gland, pars nervosa pituitary gland, pars posterior, pars posterior of hypophysis, pituitary gland, PNHP, posterior lobe, posterior lobe of neurohypophysis, posterior lobe of pituitary, posterior lobe-3, posterior pituitary
@@ -7673,7 +7673,7 @@ neural lobe of neurohypophysis
 neural nucleus
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus``
 
    :definition: 'Neural nucleus' is a central nervous system cell part cluster.
    :synonyms: nervous system nucleus, neural nucleus, neuraxis nucleus, neuronal nucleus, nucleus, nucleus of CNS, nucleus of neuraxis
@@ -7689,10 +7689,10 @@ neural nucleus
 neurohypophysis
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis``
 
    :definition: 'Neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the pituitary gland.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002198
    :InterLex ID: http://uri.interlex.org/base/ilx_0107477
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1
@@ -7705,10 +7705,10 @@ neurohypophysis
 nucleus accumbens
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens``
 
    :definition: 'Nucleus accumbens' is a telencephalic nucleus. It is part of the limbic system, cerebral hemisphere and ventral striatum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001882
    :InterLex ID: http://uri.interlex.org/base/ilx_0107736
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001882#nucleus-accumbens-1
@@ -7721,7 +7721,7 @@ nucleus accumbens
 nucleus ambiguus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus``
 
    :definition: 'Nucleus ambiguus' is a nucleus of medulla oblongata and vagus nerve nucleus.
    :synonyms: Amb, ambiguous nucleus, ambiguus nucleus, nucleus innominatus
@@ -7737,7 +7737,7 @@ nucleus ambiguus
 nucleus incertus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus``
 
    :definition: 'Nucleus incertus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :synonyms: Central Gray pars 0, Central Gray pars beta (The rat brain in stereotaxic coordinates [electronic resource] / George Paxinos, Central Gray part alpha, CG0, CGalpha, CGbeta, charles Watson. - 5th ed.), Inc, NI, nucleus incertus (Streeter)
@@ -7753,14 +7753,14 @@ nucleus incertus
 nucleus intercalatus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus``
 
    :definition: 'Nucleus intercalatus' is a nucleus of medulla oblongata.
    :synonyms: In, intercalated nucleus, intercalated nucleus of medulla, intercalated nucleus of the medulla, nucleus intercalates, nucleus intercalatus (Staderini), nucleus intercalatus of medulla, nucleus of Staderini, nucleus Staderini
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002876
    :InterLex ID: http://uri.interlex.org/base/ilx_0107749
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002876#nucleus-intercalatus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7769,14 +7769,14 @@ nucleus intercalatus
 nucleus of anterior commissure
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure``
 
    :definition: 'Nucleus of anterior commissure' is a telencephalic nucleus. It is part of the septal nuclear complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002933
    :InterLex ID: http://uri.interlex.org/base/ilx_0107751
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002933#nucleus-of-anterior-commissure-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7785,10 +7785,10 @@ nucleus of anterior commissure
 nucleus of brain
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain``
 
    :definition: 'Nucleus of brain' is a neural nucleus. It is part of the brain gray matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002308
    :InterLex ID: http://uri.interlex.org/base/ilx_0736730
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002308#nucleus-of-brain
@@ -7801,10 +7801,10 @@ nucleus of brain
 nucleus of cerebellar nuclear complex
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex``
 
    :definition: 'Nucleus of cerebellar nuclear complex' is a hindbrain nucleus. It is part of the cerebellar nuclear complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0008995
    :InterLex ID: http://uri.interlex.org/base/ilx_0727858
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0008995#nucleus-of-cerebellar-nuclear-complex
@@ -7817,10 +7817,10 @@ nucleus of cerebellar nuclear complex
 nucleus of diagonal band
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand``
 
    :definition: 'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001879
    :InterLex ID: http://uri.interlex.org/base/ilx_0107755
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1
@@ -7833,14 +7833,14 @@ nucleus of diagonal band
 nucleus of lateral olfactory tract
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract``
 
    :definition: 'Nucleus of lateral olfactory tract' is a telencephalic nucleus. It is part of the olfactory cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002893
    :InterLex ID: http://uri.interlex.org/base/ilx_0107757
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7849,14 +7849,14 @@ nucleus of lateral olfactory tract
 nucleus of medial eminence
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence``
 
    :definition: 'Nucleus of medial eminence' is a nucleus of brain.
    :synonyms: medial eminence nucleus, nucleus eminentiae teretis, nucleus of eminentia teres
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002997
    :InterLex ID: http://uri.interlex.org/base/ilx_0107758
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7865,7 +7865,7 @@ nucleus of medial eminence
 nucleus of optic tract
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract``
 
    :definition: 'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.
    :synonyms: large-celled nucleus of optic tract, lentiform nucleus of pretectal area, nucleus magnocellularis tractus optici, nucleus of the optic tract, nucleus tractus optici, optic tract nucleus
@@ -7881,14 +7881,14 @@ nucleus of optic tract
 nucleus of posterior commissure
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure``
 
    :definition: 'Nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: Darkshevich nucleus, Darkshevich's nucleus, nucleus commissura posterior, nucleus commissuralis posterioris, nucleus interstitialis of posterior commissure, nucleus of Darkschewitsch, nucleus of the posterior commissure, PCom, posterior commissure nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002711
    :InterLex ID: http://uri.interlex.org/base/ilx_0107760
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002711#nucleus-of-posterior-commissure-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7897,7 +7897,7 @@ nucleus of posterior commissure
 nucleus of solitary tract
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract``
 
    :definition: A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [WP,unvetted].
    :synonyms: Geschmackskern@de, nuclei tractus solitarii, nucleus of the solitary tract, nucleus of the tractus solitarius, nucleus of tractus solitarius, nucleus solitarius, nucleus solitary tract, nucleus tracti solitarii, nucleus tractus solitarii, nucleus tractus solitarii medullae oblongatae, nucleus tractus solitarius, solitary nuclear complex, solitary nucleus, solitary tract nucleus
@@ -7913,14 +7913,14 @@ nucleus of solitary tract
 nucleus of the brachium of the inferior colliculus
 --------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus``
 
    :definition: 'Nucleus of the brachium of the inferior colliculus' is a regional part of brain. It is part of the midbrain tectum.
    :synonyms: brachial nucleus of the inferior colliculus, BrC, NB, nucleus brachium inferior colliculus, nucleus of the brachium of the inferior colliculus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0036012
    :InterLex ID: http://uri.interlex.org/base/ilx_0107764
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0036012#nucleus-of-the-brachium-of-the-inferior-colliculus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7929,7 +7929,7 @@ nucleus of the brachium of the inferior colliculus
 nucleus of trapezoid body
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody``
 
    :definition: 'Nucleus of trapezoid body' is a nucleus of superior olivary complex.
    :synonyms: nuclei of trapezoid body, nucleus corporis trapezoidei, nucleus of the trapezoid body, nucleus trapezoidalis, set of nuclei of trapezoid body, trapezoid gray, trapezoid nuclear complex, trapezoid nuclei, Tz
@@ -7945,14 +7945,14 @@ nucleus of trapezoid body
 nucleus prepositus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus``
 
    :definition: 'Nucleus prepositus' is a nucleus of medulla oblongata. It is part of the pons.
    :synonyms: nucleus praepositus, nucleus praepositus hypoglossi, nucleus prepositus hypoglossi, nucleus prepositus hypoglossus, prepositus hypoglossal nucleus, prepositus nucleus, prepositus nucleus (Marburg), PrP
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002160
    :InterLex ID: http://uri.interlex.org/base/ilx_0107787
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002160#nucleus-prepositus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -7961,7 +7961,7 @@ nucleus prepositus
 nucleus raphe pallidus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus``
 
    :definition: 'Nucleus raphe pallidus' is a nucleus of medulla oblongata. It is part of the medullary raphe nuclear complex.
    :synonyms: nucleus raphC) pallidus, nucleus raphes pallidus, pallidal raphe nucleus, raphe pallidus nucleus, RPa
@@ -7977,10 +7977,10 @@ nucleus raphe pallidus
 nucleus subceruleus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002587
    :InterLex ID: http://uri.interlex.org/base/ilx_0107801
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002587#nucleus-subceruleus-1
@@ -7993,7 +7993,7 @@ nucleus subceruleus
 occipital cortex
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex``
 
    :definition: 'Occipital cortex' is a cortex of cerebral lobe. It is part of the occipital lobe.
    :synonyms: cortex of occipital lobe, gray matter of occipital lobe, occipital lobe cortex, occipital neocortex
@@ -8009,7 +8009,7 @@ occipital cortex
 occipital gyrus
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalGyrus``
 
    :definition: A gyrus that is part of a occipital lobe.
    :synonyms: gyrus occipitalis
@@ -8025,7 +8025,7 @@ occipital gyrus
 occipital lobe
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe``
 
    :definition: 'Occipital lobe' is a lobe of cerebral hemisphere.
    :synonyms: lobus occipitalis, regio occipitalis
@@ -8041,10 +8041,10 @@ occipital lobe
 occipitotemporal sulcus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002693
    :InterLex ID: http://uri.interlex.org/base/ilx_0107885
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002693#occipitotemporal-sulcus-1
@@ -8057,7 +8057,7 @@ occipitotemporal sulcus
 oculomotor nerve root
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot``
 
    :definition: 'Oculomotor nerve root' is a root of cranial nerve. It is part of the midbrain tegmentum.
    :synonyms: 3nf, central part of oculomotor nerve, fibrae nervi oculomotorii, oculomotor nerve fibers, oculomotor nerve tract, root of oculomotor nerve
@@ -8073,7 +8073,7 @@ oculomotor nerve root
 oculomotor nuclear complex
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex``
 
    :definition: 'Oculomotor nuclear complex' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum.
    :synonyms: 3N, motor nucleus III, nIII, nucleus nervi oculomotorii, nucleus oculomotorius, nucleus of oculomotor nerve, nucleus of oculomotor nuclear complex, nucleus of third cranial nerve, oculomotor III nuclear complex, oculomotor III nucleus, oculomotor motornucleus, oculomotor nucleus, OM, third cranial nerve nucleus
@@ -8089,7 +8089,7 @@ oculomotor nuclear complex
 olfactory bulb
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb``
 
    :definition: 'Olfactory bulb' is a regional part of brain. It is part of the olfactory lobe.
    :synonyms: bulbus olfactorius, bulbus olfactorius (Morgagni), main olfactory bulb, Olb, olfactory lobe, olfactory lobe (Barr & Kiernan)
@@ -8105,10 +8105,10 @@ olfactory bulb
 olfactory bulb granule cell layer
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer``
 
    :definition: The granule cell layer contains multiple small round neurons that lack axons. Long dendritic processes of the neurons reach the more superficial layers and inhibit mitral cells and tufted cells. Small distal processes make contacts with the exiting mitral cell axons.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005378
    :InterLex ID: http://uri.interlex.org/base/ilx_0726644
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005378#olfactory-bulb-granule-cell-layer
@@ -8121,7 +8121,7 @@ olfactory bulb granule cell layer
 olfactory bulb main glomerular layer
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer``
 
    :definition: 'Olfactory bulb main glomerular layer' is an olfactory bulb glomerular layer. It is part of the main olfactory bulb.
    :synonyms: Gl, olfactory bulb main glomerular layer
@@ -8137,7 +8137,7 @@ olfactory bulb main glomerular layer
 olfactory bulb mitral cell layer
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMitralCellLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMitralCellLayer``
 
    :definition: 'Olfactory bulb mitral cell layer' is an olfactory bulb layer.
    :synonyms: Mi, mitral cell body layer, mitral cell layer, mitral cell layer of the olfactory bulb, OB mitral cell layer, olfactory bulb main mitral cell body layer
@@ -8153,7 +8153,7 @@ olfactory bulb mitral cell layer
 olfactory bulb outer nerve layer
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer``
 
    :definition: 'Olfactory bulb outer nerve layer' is an olfactory bulb layer.
    :synonyms: olfactory bulb main olfactory nerve layer, olfactory bulb olfactory nerve layer
@@ -8169,7 +8169,7 @@ olfactory bulb outer nerve layer
 olfactory cortex
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex``
 
    :definition: 'Olfactory cortex' is a regional part of brain. It is part of the cerebral cortex and olfactory lobe.
    :synonyms: archaeocortex, archeocortex, olfactory areas, olfactory lobe
@@ -8185,7 +8185,7 @@ olfactory cortex
 olfactory entorhinal cortex
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex``
 
    :definition: 'Olfactory entorhinal cortex' is a regional part of brain. It is part of the entorhinal cortex.
    :synonyms: EOl
@@ -8201,10 +8201,10 @@ olfactory entorhinal cortex
 olfactory tract
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract``
 
    :definition: 'Olfactory tract' is a tract of brain. It is part of the white matter of telencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002265
    :InterLex ID: http://uri.interlex.org/base/ilx_0724772
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002265#olfactory-tract-1
@@ -8217,7 +8217,7 @@ olfactory tract
 olfactory trigone
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTrigone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTrigone``
 
    :definition: 'Olfactory trigone' is a regional part of brain. It is part of the olfactory lobe.
    :synonyms: olt, trigonum olfactorium
@@ -8233,7 +8233,7 @@ olfactory trigone
 olfactory tubercle
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTubercle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTubercle``
 
    :definition: 'Olfactory tubercle' is a telencephalic nucleus. It is part of the olfactory cortex.
    :synonyms: anterior perforated space, anterior perforated substance, tuberculum olfactorium
@@ -8249,7 +8249,7 @@ olfactory tubercle
 olivary pretectal nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus``
 
    :definition: 'Olivary pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :synonyms: anterior pretectal nucleus, nucleus olivaris colliculi superioris (Fuse), nucleus olivaris corporis quadrigemini anterioris, nucleus olivaris mesencephali, nucleus olivaris pretectalis of Fuse, nucleus praetectalis anterior, nucleus praetectalis olivaris, nucleus pretectalis anterior, olivary nucleus of superior colliculus, OPT, pretectal olivary nucleus
@@ -8265,7 +8265,7 @@ olivary pretectal nucleus
 opercular part of inferior frontal gyrus
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus``
 
    :definition: 'Opercular part of inferior frontal gyrus' is part of the inferior frontal gyrus.
    :synonyms: gyrus frontalis inferior, inferior frontal gyrus, opercular part, opercular portion of inferior frontal gyrus, pars opercularis, pars opercularis gyri frontalis inferioris, pars posterior of inferior frontal gyrus, posterior part of inferior frontal gyrus
@@ -8281,7 +8281,7 @@ opercular part of inferior frontal gyrus
 optic chiasma
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma``
 
    :definition: 'Optic chiasma' is a decussation of diencephalon.
    :synonyms: chiasma, chiasma nervorum opticorum, chiasma opticum, decussation of optic nerve fibers, optic chiasm, optic chiasm (Rufus of Ephesus), optic chiasma, ox
@@ -8297,7 +8297,7 @@ optic chiasma
 optic recess of third ventricle
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/opticRecessOfThirdVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/opticRecessOfThirdVentricle``
 
    :definition: 'Optic recess of third ventricle' is an anatomical entity. It is part of the third ventricle.
    :synonyms: optic recess, optic recesses, preoptic recess, recessus opticus, recessus praeopticus, recessus supraopticus, supraoptic recess
@@ -8313,10 +8313,10 @@ optic recess of third ventricle
 optic tract
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract``
 
    :definition: 'Optic tract' is a tract of diencephalon. It is part of the diencephalic white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001908
    :InterLex ID: http://uri.interlex.org/base/ilx_0108074
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001908#optic-tract-1
@@ -8329,14 +8329,14 @@ optic tract
 oral part of spinal trigeminal nucleus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus``
 
    :definition: 'Oral part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :synonyms: nucleus oralis tractus spinalis nervi trigemini, nucleus spinalis nervi trigemini, oral part, oral part of the spinal trigeminal nucleus, pars oralis, Sp5O, spinal nucleus of the trigeminal, spinal nucleus of the trigeminal oral part, spinal trigeminal nucleus, spinal trigeminal nucleus oral part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002591
    :InterLex ID: http://uri.interlex.org/base/ilx_0108080
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002591#oral-part-of-spinal-trigeminal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8345,14 +8345,14 @@ oral part of spinal trigeminal nucleus
 oral part of ventral lateral nucleus
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus``
 
    :definition: 'Oral part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :synonyms: anterior part (Van Buren), anterior part (van buren), nucleus lateralis oralis situs principalis, nucleus ventralis lateralis, nucleus ventrooralis externus, oral part, oral part of the ventral lateral nucleus, pars densicellularis, pars oralis, subnucleus rostralis, ventral anterior nucleus, ventral lateral anterior nucleus, ventral lateral nucleus, ventral lateral thalamic nucleus, VLO, VLO,VAL(VO)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002978
    :InterLex ID: http://uri.interlex.org/base/ilx_0108081
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002978#oral-part-of-ventral-lateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8361,14 +8361,14 @@ oral part of ventral lateral nucleus
 oral part of ventral posterolateral nucleus
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus``
 
    :definition: 'Oral part of ventral posterolateral nucleus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
    :synonyms: nucleus lateralis intermedius lateralis, nucleus posteroventralis oralis, nucleus ventralis intermedius (DeWulf), nucleus ventralis intermedius (Walker), nucleus ventralis intermedius thalami, nucleus ventralis posterior lateralis, nucleus ventrointermedius, oral part, oral part of the ventral posterolateral nucleus, pars oralis, ventral part of ventral lateral posterior nucleus (jones), ventral posterolateral nucleus, ventral posterolateral thalamic nucleus, ventrointermedius nucleus, VPLO
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003019
    :InterLex ID: http://uri.interlex.org/base/ilx_0108082
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003019#oral-part-of-ventral-posterolateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8377,7 +8377,7 @@ oral part of ventral posterolateral nucleus
 oral pontine reticular nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus``
 
    :definition: 'Oral pontine reticular nucleus' is a nucleus of pontine reticular formation.
    :synonyms: nucleus reticularis pontis oralis, oral part, PnO, pontine reticular nucleus, pontine reticular nucleus rostral part, rostral part
@@ -8393,14 +8393,14 @@ oral pontine reticular nucleus
 oral pulvinar nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus``
 
    :definition: 'Oral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :synonyms: anterior pulvinar nucleus, nucleus pulvinaris anterior, nucleus pulvinaris oralis, nucleus pulvinaris oralis thalami, OPul, OPul,APul, oral nuclear group of pulvinar, oral part of pulvinar, oral portion of pulvinar
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002641
    :InterLex ID: http://uri.interlex.org/base/ilx_0108084
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002641#oral-pulvinar-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8409,14 +8409,14 @@ oral pulvinar nucleus
 orbital gyri complex
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyriComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyriComplex``
 
    :definition: 'Orbital gyri complex' is a regional part of brain. It is part of the frontal lobe.
    :synonyms: Orgital_gyri, orbital gyri complex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022695
    :InterLex ID: http://uri.interlex.org/base/ilx_0108111
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022695#orbital-gyri-complex-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8425,7 +8425,7 @@ orbital gyri complex
 orbital part of inferior frontal gyrus
 --------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus``
 
    :definition: 'Orbital part of inferior frontal gyrus' is a frontal gyrus. It is part of the inferior frontal gyrus.
    :synonyms: brodmann's area 36, gyrus frontalis inferior, inferior frontal gyrus, orbital part, pars orbitalis, pars orbitalis gyri frontalis inferioris
@@ -8441,7 +8441,7 @@ orbital part of inferior frontal gyrus
 orbitofrontal cortex
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex``
 
    :definition: 'Orbitofrontal cortex' is a frontal gyrus. It is part of the limbic system.
    :synonyms: fronto-orbital cortex, OFC, orbital frontal cortex, orbito-frontal cortex, orbitofrontal cortex, segment of cortex of frontal lobe
@@ -8457,7 +8457,7 @@ orbitofrontal cortex
 oval nucleus of stria terminalis
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis``
 
    :definition: 'Oval nucleus of stria terminalis' is a telencephalic nucleus. It is part of the anterior division of bed nuclei of stria terminalis.
    :synonyms: anterior division, bed nuclei of the stria terminalis, oval nucleus
@@ -8473,7 +8473,7 @@ oval nucleus of stria terminalis
 paleocortex
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex``
 
    :definition: 'Paleocortex' is an allocortex.
    :synonyms: palaeocortex, paleocortex, paleocortex (semicortex), paleocortex (Zilles), paleokortikale Regionen@de
@@ -8489,14 +8489,14 @@ paleocortex
 paleodentate of dentate nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus``
 
    :definition: 'Paleodentate of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
    :synonyms: paleodentate of dentate nucleus, paleodentate part of dentate nucleus, paleodentate part of the dentate nucleus, paleodentate portion of dentate nucleus, pars paleodentata, Pdt
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006743
    :InterLex ID: http://uri.interlex.org/base/ilx_0108372
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006743#paleodentate-of-dentate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8505,14 +8505,14 @@ paleodentate of dentate nucleus
 pallidotegmental fasciculus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus``
 
    :definition: 'Pallidotegmental fasciculus' is a tract of brain. It is part of the midbrain tegmentum.
    :synonyms: fasciculus pallido-tegmentalis, fibrae pallidoolivares, pallidotegmental fascicle, pallidotegmental tract, ptf
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002671
    :InterLex ID: http://uri.interlex.org/base/ilx_0108383
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002671#pallidotegmental-fasciculus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8521,10 +8521,10 @@ pallidotegmental fasciculus
 pallidum
 --------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pallidum``
 
    :definition: 'Pallidum' is a brain gray matter. It is part of the basal ganglion.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006514
    :InterLex ID: http://uri.interlex.org/base/ilx_0381379
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006514#pallidum
@@ -8537,7 +8537,7 @@ pallidum
 pallium
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pallium
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pallium``
 
    :definition: 'Pallium' is a regional part of brain. It is part of the telencephalon.
    :synonyms: area dorsalis telencephali, Cerebral Cortex, dorsal part of telencephalon, dorsal telencephalic area, dorsal telencephalon
@@ -8553,7 +8553,7 @@ pallium
 parabigeminal nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus``
 
    :definition: 'Parabigeminal nucleus' is a nucleus of midbrain tectum.
    :synonyms: corpus parabigeminum, nucleus isthmi, nucleus parabigeminalis, nucleus parabigeminous, parabigeminal nucleus (Bechterew), parageminal nucleus, PBG
@@ -8569,7 +8569,7 @@ parabigeminal nucleus
 parabrachial nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus``
 
    :definition: 'Parabrachial nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons.
    :synonyms: parabrachial nuclei, parabrachial complex, parabrachial area
@@ -8585,7 +8585,7 @@ parabrachial nucleus
 parabrachial pigmental nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus``
 
    :definition: 'Parabrachial pigmental nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the ventral tegmental area.
    :synonyms: PBP, parabrachial pigmented nucleus
@@ -8601,7 +8601,7 @@ parabrachial pigmental nucleus
 paracentral lobule
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule``
 
    :definition: Paracentral lobule is on the medial surface of the hemisphere and is the continuation of the precentral and postcentral gyri. The paracentral lobule controls motor and sensory innervations of the contralateral lower extremity. It is also responsible for control of defecation and urination. It includes portions of the frontal and parietal lobes: The anterior portion of the paracentral lobule is part of the frontal lobe and is often referred to as the supplementary motor area. The posterior portion is considered part of the parietal lobe and deals with somatosensory of the distal limbs.While the boundary between the lobes, the central sulcus, is easy to locate on the lateral surface of the cerebral hemispheres, this boundary is often discerned in a cytoarchetectonic manner in cases where the central sulcus is not visible on the medial surface.
    :synonyms: lobulus paracentralis
@@ -8617,10 +8617,10 @@ paracentral lobule
 paraflocculus
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005351
    :InterLex ID: http://uri.interlex.org/base/ilx_0104937
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005351#paraflocculus
@@ -8633,7 +8633,7 @@ paraflocculus
 parahippocampal gyrus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus``
 
    :definition: 'Parahippocampal gyrus' is a gyrus. It is part of the limbic system, temporal lobe and limbic lobe.
    :synonyms: gyrus hippocampi, gyrus parahippocampalis, gyrus parahippocampi, hippocampal convolution, hippocampal gyrus, PaI
@@ -8649,14 +8649,14 @@ parahippocampal gyrus
 paralaminar part of medial dorsal nucleus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus``
 
    :definition: 'Paralaminar part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :synonyms: dorsomedial thalamic nucleus, MDPL, mediodorsal thalamic nucleus, mediodorsal thalamic nucleus paralaminar part, nucleus medialis dorsalis, nucleus medialis dorsalis caudalis (Hassler), nucleus medialis dorsalis thalami, paralaminar part, paralaminar part of dorsomedial nucleus, paralaminar part of medial dorsal nucleus of thalamus, paralaminar part of the medial dorsal nucleus, pars multiformis, pars paralaminaris, pars paralaminaris nuclei mediodorsalis thalami, pars paralaminaris of medial dorsal nucleus of thalamus, ventral mediodorsal nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002650
    :InterLex ID: http://uri.interlex.org/base/ilx_0108443
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002650#paralaminar-part-of-medial-dorsal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8665,7 +8665,7 @@ paralaminar part of medial dorsal nucleus
 paramedian reticular nucleus
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianReticularNucleus``
 
    :definition: 'Paramedian reticular nucleus' is a nucleus of medulla oblongata.
    :synonyms: nucleus reticularis paramedianus, paramedian nucleus reticularis, paramedian reticular nucleus, ventral paramedian reticular nucleus
@@ -8681,14 +8681,14 @@ paramedian reticular nucleus
 parasolitary nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parasolitaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parasolitaryNucleus``
 
    :definition: 'Parasolitary nucleus' is a nucleus of medulla oblongata.
    :synonyms: nucleus fasciculus solitarius, nucleus juxtasolitarius, PSol
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002877
    :InterLex ID: http://uri.interlex.org/base/ilx_0108472
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002877#parasolitary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8697,7 +8697,7 @@ parasolitary nucleus
 parasubiculum
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum``
 
    :definition: 'Parasubiculum' is a regional part of brain. It is part of the hippocampal formation.
    :synonyms: parasubicular area, parasubicular cortex, parasubicular cortex (parasubiculum), parasubiculum, PaS
@@ -8713,7 +8713,7 @@ parasubiculum
 paratenial nucleus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus``
 
    :definition: 'Paratenial nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :synonyms: nuclei parataeniales thalami, nucleus parataenialis, nucleus parataenialis (Hassler), nucleus parataenialis thalami, nucleus paratenialis thalami, parataenial nucleus, paratenial nucleus of thalamus, paratenial nucleus of the thalamus, paratenial thalamic nucleus, PT
@@ -8729,7 +8729,7 @@ paratenial nucleus
 paraterminal gyrus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus``
 
    :definition: 'Paraterminal gyrus' is a supracallosal gyrus.
    :synonyms: gyrus paraterminalis, gyrus subcallosus, hippocampus praecommissuralis, hippocampus precommissuralis, paraterminal body (Noback), peduncle of the corpus callosum, precommissural hippocampus, subcallosal gyrus
@@ -8745,7 +8745,7 @@ paraterminal gyrus
 paraventricular nucleus of thalamus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfThalamus``
 
    :definition: 'Paraventricular nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :synonyms: nuclei paraventriculares thalami, nucleus paramedianus (Hassler), nucleus paraventricularis thalami, paraventricular gray, paraventricular nuclei, paraventricular nuclei of thalamus, paraventricular nucleus of the thalamus, paraventricular thalamic nucleus, PV
@@ -8761,14 +8761,14 @@ paraventricular nucleus of thalamus
 paraventricular nucleus of the hypothalamus descending division
 ---------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision``
 
    :definition: 'Paraventricular nucleus of the hypothalamus descending division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :synonyms: descending division, paraventricular hypothalamic nucleus, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus descending division, PVHd
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014602
    :InterLex ID: http://uri.interlex.org/base/ilx_0108503
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014602#paraventricular-nucleus-of-the-hypothalamus-descending-division-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8777,14 +8777,14 @@ paraventricular nucleus of the hypothalamus descending division
 paraventricular nucleus of the hypothalamus descending division - forniceal part
 --------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart``
 
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - forniceal part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :synonyms: descending division, forniceal part, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus forniceal part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus descending division - forniceal part, parvicellular division forniceal part, PVHf
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014598
    :InterLex ID: http://uri.interlex.org/base/ilx_0108504
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014598#paraventricular-nucleus-of-the-hypothalamus-descending-division-forniceal-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8793,14 +8793,14 @@ paraventricular nucleus of the hypothalamus descending division - forniceal part
 paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part
 --------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart``
 
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :synonyms: descending division, lateral parvicellular part, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus lateral parvicellular part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part, PVHlp
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014597
    :InterLex ID: http://uri.interlex.org/base/ilx_0108505
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014597#paraventricular-nucleus-of-the-hypothalamus-descending-division-lateral-parvicellular-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8809,14 +8809,14 @@ paraventricular nucleus of the hypothalamus descending division - lateral parvic
 paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone
 ---------------------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone``
 
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :synonyms: descending division, medial parvicellular part, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus medial parvicellular part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, PVHmpv, ventral zone
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014595
    :InterLex ID: http://uri.interlex.org/base/ilx_0108506
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014595#paraventricular-nucleus-of-the-hypothalamus-descending-division-medial-parvicellular-part-ventral-zone-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8825,14 +8825,14 @@ paraventricular nucleus of the hypothalamus descending division - medial parvice
 paraventricular nucleus of the hypothalamus magnocellular division
 ------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :synonyms: magnocellular division, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus magnocellular division, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus magnocellular division, PVHm
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014603
    :InterLex ID: http://uri.interlex.org/base/ilx_0108507
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014603#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8841,14 +8841,14 @@ paraventricular nucleus of the hypothalamus magnocellular division
 paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part
 ------------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :synonyms: anterior magnocellular part, magnocellular division, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus anterior magnocellular part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part, PVHam
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014599
    :InterLex ID: http://uri.interlex.org/base/ilx_0108508
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014599#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-anterior-magnocellular-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8857,14 +8857,14 @@ paraventricular nucleus of the hypothalamus magnocellular division - anterior ma
 paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part
 ----------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :synonyms: magnocellular division, medial magnocellular part, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus medial magnocellular part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part, PVHmm
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014600
    :InterLex ID: http://uri.interlex.org/base/ilx_0108509
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014600#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-medial-magnocellular-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8873,14 +8873,14 @@ paraventricular nucleus of the hypothalamus magnocellular division - medial magn
 paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part
 -------------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :synonyms: magnocellular division, paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus posterior magnocellular part, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part, posterior magnocellular part, PVHpm
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014601
    :InterLex ID: http://uri.interlex.org/base/ilx_0108510
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014601#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8889,14 +8889,14 @@ paraventricular nucleus of the hypothalamus magnocellular division - posterior m
 paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone
 --------------------------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone' is a regional part of brain.
    :synonyms: PVHpml, paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022791
    :InterLex ID: http://uri.interlex.org/base/ilx_0108511
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022791#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-lateral-zone-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8905,14 +8905,14 @@ paraventricular nucleus of the hypothalamus magnocellular division - posterior m
 paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone
 -------------------------------------------------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone``
 
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone' is a regional part of brain.
    :synonyms: PVHpmm, paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022783
    :InterLex ID: http://uri.interlex.org/base/ilx_0108512
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022783#paraventricular-nucleus-of-the-hypothalamus-magnocellular-division-posterior-magnocellular-part-medial-zone-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8921,14 +8921,14 @@ paraventricular nucleus of the hypothalamus magnocellular division - posterior m
 paraventricular nucleus of the hypothalamus parvicellular division
 ------------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision``
 
    :definition: 'Paraventricular nucleus of the hypothalamus parvicellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :synonyms: paraventricular hypothalamic nucleus, paraventricular hypothalamic nucleus parvicellular division, paraventricular nucleus of the hypothalamus, paraventricular nucleus of the hypothalamus parvicellular division, parvicellular division, PVHp
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014604
    :InterLex ID: http://uri.interlex.org/base/ilx_0108513
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014604#paraventricular-nucleus-of-the-hypothalamus-parvicellular-division-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8937,14 +8937,14 @@ paraventricular nucleus of the hypothalamus parvicellular division
 paravermic lobule X
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX``
 
    :definition: 'Paravermic lobule X' is a paravermis lobule area and flocculonodular lobe, hemisphere portion. It is part of the flocculus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0036043
    :InterLex ID: http://uri.interlex.org/base/ilx_0724502
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0036043#paravermic-lobule-x
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8953,14 +8953,14 @@ paravermic lobule X
 paravermis lobule area
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea``
 
    :definition: 'Paravermis lobule area' is a cerebellum hemisphere lobule. It is part of the paravermis parts of the cerebellar cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027285
    :InterLex ID: http://uri.interlex.org/base/ilx_0109876
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0027285#paravermis-lobule-area
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8969,14 +8969,14 @@ paravermis lobule area
 paravermis parts of the cerebellar cortex
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex``
 
    :definition: 'Paravermis parts of the cerebellar cortex' is a regional part of cerebellar cortex. It is part of the cerebellum intermediate zone.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025677
    :InterLex ID: http://uri.interlex.org/base/ilx_0108525
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0025677#paravermis-parts-of-the-cerebellar-cortex
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -8985,7 +8985,7 @@ paravermis parts of the cerebellar cortex
 parietal cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex``
 
    :definition: 'Parietal cortex' is a cortex of cerebral lobe. It is part of the parietal lobe.
    :synonyms: cortex of parietal lobe, gray matter of parietal lobe, parietal lobe cortex, parietal neocortex
@@ -9001,10 +9001,10 @@ parietal cortex
 parietal lobe
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe``
 
    :definition: Upper central part of the cerebral hemisphere. (MSH).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001872
    :InterLex ID: http://uri.interlex.org/base/ilx_0108534
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001872#parietal-lobe-1
@@ -9017,10 +9017,10 @@ parietal lobe
 parieto-occipital sulcus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parietooccipitalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parietooccipitalSulcus``
 
    :definition: Only a small part of the Parietooccipital Fissure (or parieto-occipital sulcus) is seen on the lateral surface of the hemisphere, its chief part being on the medial surface. The lateral part of the parietooccipital fissure (Fig. 726) is situated about 5 cm. in front of the occipital pole of the hemisphere, and measures about 1.25 cm. in length. The medial part of the parietooccipital fissure (Fig. 727) runs downward and forward as a deep cleft on the medial surface of the hemisphere, and joins the calcarine fissure below and behind the posterior end of the corpus callosum. In most cases it contains a submerged gyrus. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002695
    :InterLex ID: http://uri.interlex.org/base/ilx_0108536
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002695#parieto-occipital-sulcus-1
@@ -9033,7 +9033,7 @@ parieto-occipital sulcus
 pars distalis of adenohypophysis
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parsDistalisOfAdenohypophysis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parsDistalisOfAdenohypophysis``
 
    :definition: 'Pars distalis of adenohypophysis' is part of the adenohypophysis.
    :synonyms: anterior lobe, DHP, distal part of hypophysis, distal part of the hypophysis, pars anterior, pars anterior of adenohypophysis, pars distalis, pars distalis (glandula pituitaria), pars distalis (hypophysis), pars distalis adenohypophyseos, pars distalis adenohypophysis, pars distalis lobi anterioris hypophyseos, pars distalis of anterior lobe of pituitary gland, pars glandularis, pars glandularis of adenohypophysis
@@ -9049,10 +9049,10 @@ pars distalis of adenohypophysis
 pars intercerebralis
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis``
 
    :definition: 'Pars intercerebralis' is a central nervous system cell part cluster. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001059
    :InterLex ID: http://uri.interlex.org/base/ilx_0730302
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001059#pars-intercerebralis
@@ -9065,14 +9065,14 @@ pars intercerebralis
 pars postrema of ventral lateral nucleus
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus``
 
    :definition: 'Pars postrema of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :synonyms: nucleus dorsointermedius externus magnocellularis (hassler), nucleus lateralis intermedius mediodorsalis situs postremus, nucleus ventralis lateralis, nucleus ventralis lateralis thalami, pars postrema, pars postrema of the ventral lateral nucleus, posterodorsal part of ventral lateral posterior nucleus (Jones), ventral lateral nucleus (pars postrema), ventrolateral posterior thalamic nucleus, ventrolateral preoptic nucleus, VLP, vLps
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002617
    :InterLex ID: http://uri.interlex.org/base/ilx_0108545
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002617#pars-postrema-of-ventral-lateral-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9081,14 +9081,14 @@ pars postrema of ventral lateral nucleus
 parvicellular part of medial dorsal nucleus
 -------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus``
 
    :definition: 'Parvicellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus and medial dorsal nucleus of thalamus.
    :synonyms: dorsomedial thalamic nucleus, lateral mediodorsal nucleus, lateral nucleus of medial dorsal nucleus of thalamus, MDPC, mediodorsal thalamic nucleus, nucleus medialis dorsalis, nucleus medialis dorsalis fasciculosis (Hassler), nucleus medialis dorsalis nucleus fasciculosis (Hassler), nucleus medialis dorsalis nucleus fasciculosus (Hassler), pars fasciculosa, pars parvicellularis, pars parvocellularis, pars parvocellularis lateralis nuclei mediodorsalis thalami, pars principalis nuclei ventralis anterior thalami, parvicellular part, parvicellular part of dorsomedial nucleus, parvicellular part of medial dorsal nucleus, parvicellular part of the medial dorsal nucleus, parvocellular nucleus of medial dorsal nucleus of thalamus, principal division of ventral anterior nucleus of thalamus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002654
    :InterLex ID: http://uri.interlex.org/base/ilx_0108559
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002654#parvicellular-part-of-medial-dorsal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9097,14 +9097,14 @@ parvicellular part of medial dorsal nucleus
 parvicellular part of ventral anterior nucleus
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus``
 
    :definition: 'Parvicellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
    :synonyms: nucleus ventralis anterior, nucleus ventralis anterior (DeWulf), pars parvicellularis, pars parvocellularis, parvicellular part, parvicellular part of the ventral anterior nucleus, VAPC, ventral anterior nucleus, ventral anterior thalamic nucleus, ventralis anterior (Jones)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002937
    :InterLex ID: http://uri.interlex.org/base/ilx_0108560
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002937#parvicellular-part-of-ventral-anterior-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9113,14 +9113,14 @@ parvicellular part of ventral anterior nucleus
 parvicellular part of ventral posteromedial nucleus
 ---------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus``
 
    :definition: 'Parvicellular part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
    :synonyms: gustatory nucleus (thalamus), gustatory thalamic nucleus, nucleus ventralis posterior medialis, nucleus ventralis posterior medialis thalami, pars parvicellularis, pars parvicellularis nuclei ventralis posteromedialis thalami, pars parvocellularis, parvicellular part, parvicellular part of the ventral posteromedial nucleus, parvicellular part of ventral posteromedial nucleus of thalamus, parvocellular part, thalamic gustatory area, thalamic gustatory relay, thalamic taste relay, ventral posteromedial nucleus, ventral posteromedial nucleus of thalamus, ventral posteromedial nucleus of the thalamus, ventral posteromedial nucleus of the thalamus parvicellular part, ventral posteromedial thalamic nucleus, ventroposterior medial thalamic nucleus, ventroposteromedial nucleus of the thalamus, ventroposteromedial nucleus of the thalamus parvicellular part, VPMPC
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003018
    :InterLex ID: http://uri.interlex.org/base/ilx_0108561
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003018#parvicellular-part-of-ventral-posteromedial-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9129,10 +9129,10 @@ parvicellular part of ventral posteromedial nucleus
 parvocellular oculomotor nucleus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus``
 
    :definition: 'Parvocellular oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002141
    :InterLex ID: http://uri.interlex.org/base/ilx_0108563
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002141#parvocellular-oculomotor-nucleus-1
@@ -9145,7 +9145,7 @@ parvocellular oculomotor nucleus
 parvocellular part of red nucleus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus``
 
    :definition: 'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
    :synonyms: neoruber, neorubrum, nucleus ruber, nucleus ruber parvocellularis, pars parvocellularis, pars parvocellularis (ruber), pars parvocellularis nuclei rubri, parvicellular part, parvocellular part, parvocellular part of the red nucleus, parvocellular red nucleus, red nucleus, red nucleus parvicellular part, RPC
@@ -9161,10 +9161,10 @@ parvocellular part of red nucleus
 pedunculopontine tegmental nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pedunculopontineTegmentalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pedunculopontineTegmentalNucleus``
 
    :definition: The pedunculopontine nucleus (PPN) (or pedunculopontine tegmental nucleus, PPTN) is located in the brainstem, caudal to the substantia nigra and adjacent to the superior cerebellar peduncle. It is composed by a wide variety of neurochemical cell types, including cholinergic, glutamatergic and GABAergic cells. In the classical sense, the PPN is considered to be one of the main components of the reticular activating system. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002142
    :InterLex ID: http://uri.interlex.org/base/ilx_0108643
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002142#pedunculopontine-tegmental-nucleus-1
@@ -9177,14 +9177,14 @@ pedunculopontine tegmental nucleus
 periamygdaloid area
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea``
 
    :definition: 'Periamygdaloid area' is a cerebral hemisphere gray matter. It is part of the parahippocampal gyrus.
    :synonyms: cortical amygdaloid nucleus, gyrus semilunaris, Para-amygdaloid cortex, periamygdalar area, periamygdaloid area, periamygdaloid cortex, periamygdaloid region, posterior amygdalar nucleus, posterior nucleus of the amygdala, regio periamygdalaris, semilunar gyrus, ventral cortical nucleus of amygdala
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002656
    :InterLex ID: http://uri.interlex.org/base/ilx_0108715
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002656#periamygdaloid-area-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9193,7 +9193,7 @@ periamygdaloid area
 periamygdaloid cortex
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex``
 
    :definition: 'Periamygdaloid cortex' is a regional part of brain. It is part of the cerebral cortex and corticomedial nuclear complex.
    :synonyms: periamygdaloid area, periamygdaloid cortex
@@ -9209,7 +9209,7 @@ periamygdaloid cortex
 pericalcarine cortex
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex``
 
    :definition: 'Pericalcarine cortex' is a regional part of brain. It is part of the parietal lobe.
    :synonyms: pericalcarine cortex
@@ -9225,14 +9225,14 @@ pericalcarine cortex
 pericentral nucleus of inferior colliculus
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus``
 
    :definition: 'Pericentral nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :synonyms: cortex of inferior colliculus, dorsal cortex of the inferior colliculus, dorsal nucleus, inferior colliculus, nucleus pericentralis (colliculi inferioris), nucleus pericentralis colliculi inferioris, pericentral nucleus of the inferior colliculus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002577
    :InterLex ID: http://uri.interlex.org/base/ilx_0108720
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002577#pericentral-nucleus-of-inferior-colliculus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9241,7 +9241,7 @@ pericentral nucleus of inferior colliculus
 periolivary nucleus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus``
 
    :definition: 'Periolivary nucleus' is a nucleus of superior olivary complex.
    :synonyms: nuclei periolivares, nucleus periolivaris, peri-olivary nuclei, peri-olivary nucleus, periolivary nuclei, periolivary region, POI, superior olivary complex periolivary region
@@ -9257,10 +9257,10 @@ periolivary nucleus
 peripeduncular nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/peripeduncularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/peripeduncularNucleus``
 
    :definition: 'Peripeduncular nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002144
    :InterLex ID: http://uri.interlex.org/base/ilx_0108731
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002144#peripeduncular-nucleus-1
@@ -9273,7 +9273,7 @@ peripeduncular nucleus
 perirhinal cortex
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex``
 
    :definition: 'Perirhinal cortex' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: area perirhinalis, Brodmann's area 35, perihinal area, perirhinal area, perirhinal cortex
@@ -9289,14 +9289,14 @@ perirhinal cortex
 peritrigeminal nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/peritrigeminalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/peritrigeminalNucleus``
 
    :definition: 'Peritrigeminal nucleus' is a nucleus of medulla oblongata.
    :synonyms: Pe5, nucleus peritrigeminalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002879
    :InterLex ID: http://uri.interlex.org/base/ilx_0108752
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002879#peritrigeminal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9305,10 +9305,10 @@ peritrigeminal nucleus
 pineal body
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody``
 
    :definition: 'Pineal body' is a gland of diencephalon and secretory circumventricular organ. It is part of the pineal complex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001905
    :InterLex ID: http://uri.interlex.org/base/ilx_0108891
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001905#pineal-body-1
@@ -9321,7 +9321,7 @@ pineal body
 piriform cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex``
 
    :definition: Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex.
    :synonyms: (pre-)piriform cortex, area prepiriformis, cortex piriformis, eupalaeocortex, gyrus olfactorius lateralis, lateral olfactory gyrus, olfactory pallium, palaeocortex II, paleopallium, piriform area, piriform cortex, piriform cortex (Price), piriform lobe, piriform olfactory cortex, prepiriform cortex, prepiriform region, prepyriform cortex, primary olfactory areas, primary olfactory cortex, pyriform area, pyriform cortex, pyriform lobe, regio praepiriformis
@@ -9337,7 +9337,7 @@ piriform cortex
 piriform cortex layer 1a
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1a
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1a``
 
    :definition: 'Piriform cortex layer 1a' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the piriform cortex layer 1.
    :synonyms: piriform cortex layer 1a
@@ -9353,7 +9353,7 @@ piriform cortex layer 1a
 piriform cortex layer 1b
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1b
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1b``
 
    :definition: 'Piriform cortex layer 1b' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the piriform cortex layer 1.
    :synonyms: piriform cortex layer 1b
@@ -9369,7 +9369,7 @@ piriform cortex layer 1b
 pituitary gland
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland``
 
    :definition: 'Pituitary gland' is a gland of diencephalon and neuroendocrine gland.
    :synonyms: glandula pituitaria, Hp, hypophysis, hypophysis cerebri, pituitary, pituitary body, pituitary gland
@@ -9385,7 +9385,7 @@ pituitary gland
 pituitary stalk
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk``
 
    :definition: 'Pituitary stalk' is a regional part of brain. It is part of the neurohypophysis and neurohypophysis.
    :synonyms: hypophyseal Infundibulum, hypophyseal stalk, hypophysial stalk, InfS, infundibular stalk, infundibular stem, infundibular stem of neurohypophysis, infundibulum, infundibulum (lobus posterior) (glandula pituitaria), infundibulum hypophysis, infundibulum neurohypophyseos, infundibulum of hypothalamus, infundibulum of neurohypophysis, infundibulum of pituitary gland, infundibulum of posterior lobe of pituitary gland, neurohypophysis infundibulum, pars tuberalis (hypophysis), pituitary infundibular stalk, THP, tuberal part of hypophysis, tuberal part of the hypophysis
@@ -9401,7 +9401,7 @@ pituitary stalk
 planum polare
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/planumPolare
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/planumPolare``
 
    :definition: 'Planum polare' is a regional part of brain. It is part of the superior temporal gyrus.
    :synonyms: planum polare
@@ -9417,7 +9417,7 @@ planum polare
 pons
 ----
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pons``
 
    :definition: 'Pons' is a regional part of brain. It is part of the metencephalon and brainstem.
    :synonyms: Metencephalon, pons cerebri, pons of Varolius, pons Varolii
@@ -9433,7 +9433,7 @@ pons
 pontine nuclear group
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup``
 
    :definition: 'Pontine nuclear group' is a brainstem nucleus and hindbrain nucleus. It is part of the basal part of pons.
    :synonyms: nuclei brachii pontis, nuclei pontis, nucleus pontis, Pn, pontine gray, pontine gray matter, pontine grey matter, pontine nuclear complex, pontine nuclear group, pontine nuclei, pontine nucleus
@@ -9449,7 +9449,7 @@ pontine nuclear group
 pontine raphe nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus``
 
    :definition: 'Pontine raphe nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum and raphe nuclei.
    :synonyms: nucleus raphe pontis, nucleus raphes pontis, PnR, raphe (mediana pontina), raphe of pons, raphe pontis, raphe pontis nucleus
@@ -9465,7 +9465,7 @@ pontine raphe nucleus
 pontine reticular formation
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation``
 
    :definition: 'Pontine reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the reticular formation and pontine tegmentum.
    :synonyms: formatio reticularis pontis, pons of varolius reticular formation, pons reticular formation, pontine reticular nucleus, pontine reticular nucleus rostral part, pontine reticulotegmental nucleus, reticular formation of pons, reticular formation of pons of varolius
@@ -9481,7 +9481,7 @@ pontine reticular formation
 pontine tegmentum
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum``
 
    :definition: 'Pontine tegmentum' is part of the pons.
    :synonyms: dorsal pons, dorsal portion of pons, pars dorsalis pontis, pars posterior pontis, tegmental portion of pons, tegmentum of pons, tegmentum pontis
@@ -9497,14 +9497,14 @@ pontine tegmentum
 pontobulbar nucleus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pontobulbarNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pontobulbarNucleus``
 
    :definition: 'Pontobulbar nucleus' is a nucleus of medulla oblongata.
    :synonyms: corpus pontobulbare, nucleus of circumolivary bundle, nucleus pontobulbaris, PnB, pontobulbar body
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002880
    :InterLex ID: http://uri.interlex.org/base/ilx_0109035
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002880#pontobulbar-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9513,7 +9513,7 @@ pontobulbar nucleus
 postcentral gyrus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus``
 
    :definition: 'Postcentral gyrus' is a gyrus. It is part of the parietal lobe.
    :synonyms: gyrus centralis posterior, gyrus postcentralis, post central gyrus, postcentral convolution, posterior central gyrus, postrolandic gyrus, somatosensory cortex
@@ -9529,13 +9529,13 @@ postcentral gyrus
 postcentral sulcus of parietal lobe
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe``
 
    :definition: The postcentral sulcus of the parietal lobe lies parallel to, and behind, the central sulcus in the human brain. (A sulcus is one of the prominent grooves on the surface of the brain. ) The postcentral sulcus divides the postcentral gyrus from the remainder of the parietal lobe. [WP,unvetted].
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002915
    :InterLex ID: http://uri.interlex.org/base/ilx_0109071
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Postcentral sulcus of parietal lobe' is a sulcus of parietal lobe.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -9545,7 +9545,7 @@ postcentral sulcus of parietal lobe
 postcommissural fornix of brain
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain``
 
    :definition: 'Postcommissural fornix of brain' is a tract of diencephalon. It is part of the fornix of brain and lateral hypothalamic area.
    :synonyms: columna posterior fornicis, fornix (entering Corpus mamillare), fornix postcommissuralis, pofx, postcommissural fornix
@@ -9561,7 +9561,7 @@ postcommissural fornix of brain
 posterior cingulate cortex
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex``
 
    :definition: 'Posterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
    :synonyms: cingulate gyrus, posterior cingular cortex, posterior cingulate, posterior cingulate cortex, posterior division
@@ -9577,7 +9577,7 @@ posterior cingulate cortex
 posterior cingulate gyrus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateGyrus``
 
    :definition: 'Posterior cingulate gyrus' is a gyrus. It is part of the cingulate gyrus.
    :synonyms: cGp, gyrus cinguli posterior, gyrus limbicus posterior, PCgG, posterior cingulate, posterior cingulate gyrus
@@ -9593,7 +9593,7 @@ posterior cingulate gyrus
 posterior column of fornix
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix``
 
    :definition: 'Posterior column of fornix' is a neuron projection bundle and central nervous system cell part cluster. It is part of the fornix of brain.
    :synonyms: crus fornicis, crus of fornix, crus posterius, fornix, posterior column of fornix, posterior column of fornix of forebrain, posterior crus of fornix, posterior pillar of fornix
@@ -9609,10 +9609,10 @@ posterior column of fornix
 posterior commissure
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCommissure``
 
    :definition: 'Posterior commissure' is a commissure of diencephalon. It is part of the diencephalic white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000936
    :InterLex ID: http://uri.interlex.org/base/ilx_0109090
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000936#posterior-commissure-1
@@ -9625,7 +9625,7 @@ posterior commissure
 posterior horn lateral ventricle
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle``
 
    :definition: 'Posterior horn lateral ventricle' is a telencephalic ventricle.
    :synonyms: cornu occipitale, cornu occipitale (ventriculi lateralis), cornu occipitale ventriculi lateralis, cornu posterius, cornu posterius (ventriculi lateralis), cornu posterius ventriculi lateralis, occipital horn, occipital horn of lateral ventricle, posterior horn lateral ventricle, posterior horn of lateral ventricle, posterior horn of the lateral ventricle, ventriculus lateralis
@@ -9641,7 +9641,7 @@ posterior horn lateral ventricle
 posterior hypothalamic region
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion``
 
    :definition: 'Posterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :synonyms: hypothalamus posterior, mammillary level of hypothalamus, mammillary region, PHR, posterior hypothalamus, regio hypothalamica posterior
@@ -9657,7 +9657,7 @@ posterior hypothalamic region
 posterior limb of internal capsule
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLimbOfInternalCapsule
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLimbOfInternalCapsule``
 
    :definition: 'Posterior limb of internal capsule' is a limb of internal capsule of telencephalon.
    :synonyms: capsula interna, crus posterius capsulae internae, pars posterior, posterior internal capsule, posterior limb, posterior limb of the internal capsule
@@ -9673,13 +9673,13 @@ posterior limb of internal capsule
 posterior lobe of cerebellum
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLobeOfCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLobeOfCerebellum``
 
    :definition: The region of the cerebellum that is posterior to the primary fissure and anterior to the posteriolateral fissure.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004002
    :InterLex ID: http://uri.interlex.org/base/ilx_0109103
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Posterior lobe of cerebellum' is a cerebellum lobe.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -9689,14 +9689,14 @@ posterior lobe of cerebellum
 posterior median eminence
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence``
 
    :definition: 'Posterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
    :synonyms: PME, eminentia mediana posterior
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002652
    :InterLex ID: http://uri.interlex.org/base/ilx_0109104
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002652#posterior-median-eminence-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9705,7 +9705,7 @@ posterior median eminence
 posterior nuclear complex of thalamus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus``
 
    :definition: 'Posterior nuclear complex of thalamus' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the dorsal thalamus.
    :synonyms: caudal thalamic nucleus, nuclei posteriores thalami, parieto-occipital, PNC, posterior complex of thalamus, posterior complex of the thalamus, posterior nuclear complex, posterior nuclear complex of thalamus, posterior nuclear group of thalamus, posterior nucleus of dorsal thalamus, posterior thalamic nuclear group, posterior thalamic nucleus
@@ -9721,7 +9721,7 @@ posterior nuclear complex of thalamus
 posterior nucleus of hypothalamus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfHypothalamus``
 
    :definition: 'Posterior nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :synonyms: area hypothalamica posterior, area posterior hypothalami, nucleus hypothalamicus posterior, nucleus posterior hypothalami, PH, posterior hypothalamic area, posterior hypothalamic nucleus, posterior nucleus, posterior nucleus of the hypothalamus
@@ -9737,14 +9737,14 @@ posterior nucleus of hypothalamus
 posterior nucleus of thalamus
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus``
 
    :definition: 'Posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the posterior nuclear complex of thalamus.
    :synonyms: caudal thalamic nucleus, nucleus posterior thalami, nucleus thalami posterior, posterior nucleus of the thalamus, PTh
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003030
    :InterLex ID: http://uri.interlex.org/base/ilx_0109111
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003030#posterior-nucleus-of-thalamus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9753,14 +9753,14 @@ posterior nucleus of thalamus
 posterior orbital gyrus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorOrbitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorOrbitalGyrus``
 
    :definition: 'Posterior orbital gyrus' is an orbital gyrus.
    :synonyms:
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002575
    :InterLex ID: http://uri.interlex.org/base/ilx_0109112
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002575#posterior-orbital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9769,7 +9769,7 @@ posterior orbital gyrus
 posterior parahippocampal gyrus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus``
 
    :definition: 'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.
    :synonyms: gyrus parahippocampalis, parahippocampal gyrus, parahippocampal gyrus (amaral), parahippocampal gyrus (Insausti), pars posterior, pHp, posterior division, posterior parahippocampal gyrus
@@ -9785,7 +9785,7 @@ posterior parahippocampal gyrus
 posterior part of anterior commissure
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure``
 
    :definition: 'Posterior part of anterior commissure' is a commissure of telencephalon. It is part of the anterior commissure.
    :synonyms: anterior commissure, anterior commissure pars posterior, anterior commissure temporal limb, commissura anterior, commissura rostralis, crus posterius, pars posterior, pars posterior commissurae anterioris, posterior part, temporal limb, temporal limb of anterior commissure
@@ -9801,14 +9801,14 @@ posterior part of anterior commissure
 posterior periventricular nucleus
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus``
 
    :definition: 'Posterior periventricular nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :synonyms: griseum periventriculare hypothalami, nucleus periventricularis posterior, periventricular hypothalamic nucleus, periventricular nucleus, posterior paraventricular nucleus, posterior part, posterior periventricular hypothalamic nucleus, posterior periventricular nucleus, posterior periventricular nucleus of hypothalamus, posterior periventricular nucleus of the hypothalamus, posterior subdivision, PPe
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002708
    :InterLex ID: http://uri.interlex.org/base/ilx_0109122
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002708#posterior-periventricular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9817,14 +9817,14 @@ posterior periventricular nucleus
 posterior thalamic radiation
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorThalamicRadiation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorThalamicRadiation``
 
    :definition: The 'posterior thalamic radiation' is a white matter fibre bundle. It is part of the radiation of thalamus.
    :synonyms: pthr, radiatio posterior thalami, radiatio thalamica posterior, radiationes thalamicae posteriores
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034747
    :InterLex ID: http://uri.interlex.org/base/ilx_0735032
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034747#posterior-thalamic-radiation
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9833,14 +9833,14 @@ posterior thalamic radiation
 posterior transverse temporal gyrus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalGyrus``
 
    :definition: 'Posterior transverse temporal gyrus' is a transverse gyrus of Heschl.
    :synonyms: gyrus temporalis transversus posterior, posterior transverse convolution of Heschl, Posterior transverse temporal convolution of Heschl
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002774
    :InterLex ID: http://uri.interlex.org/base/ilx_0109134
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002774#posterior-transverse-temporal-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9849,14 +9849,14 @@ posterior transverse temporal gyrus
 posterodorsal nucleus of medial geniculate body
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody``
 
    :definition: 'Posterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :synonyms: nucleus corporis geniculati medialis, pars posterodorsalis, PDMG, posterodorsal nucleus of medial geniculate body, posterodorsal nucleus of medial geniculate complex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023094
    :InterLex ID: http://uri.interlex.org/base/ilx_0109137
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023094#posterodorsal-nucleus-of-medial-geniculate-body-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9865,14 +9865,14 @@ posterodorsal nucleus of medial geniculate body
 posteroventral cochlear nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/posteroventralCochlearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/posteroventralCochlearNucleus``
 
    :definition: 'Posteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
    :synonyms: nucleus cochlearis posteroventralis, posterior part, posterior part of anterior cochlear nucleus, posterior part of the ventral cochlear nucleus, posterior ventral cochlear nucleus, PVCo, ventral cochlear nucleus, ventral coclear nucleus posterior part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002831
    :InterLex ID: http://uri.interlex.org/base/ilx_0109153
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002831#posteroventral-cochlear-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9881,7 +9881,7 @@ posteroventral cochlear nucleus
 postnatal subventricular zone
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/postnatalSubventricularZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/postnatalSubventricularZone``
 
    :definition: 'Postnatal subventricular zone' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the forebrain.
    :synonyms: adult subventricular zone, brain subventricular zone, postnatal subependymal layer, postnatal subependymal plate, postnatal subependymal zone, postnatal subventricular zone, SEZ, subependymal layer, subependymal plate, subependymal zone, subventricular zone, subventricular zone of brain, SVZ
@@ -9897,7 +9897,7 @@ postnatal subventricular zone
 postsubiculum
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/postsubiculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/postsubiculum``
 
    :definition: 'Postsubiculum' is a regional part of brain. It is part of the retrohippocampal region.
    :synonyms: POST, postsubicular cortex
@@ -9913,7 +9913,7 @@ postsubiculum
 precentral gyrus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/precentralGyrus``
 
    :definition: 'Precentral gyrus' is a frontal gyrus.
    :synonyms: anterior central gyrus, gyrus centralis anterior, gyrus praecentralis, motor cortex (Noback), precentral convolution, prerolandic gyrus
@@ -9929,7 +9929,7 @@ precentral gyrus
 precentral operculum
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralOperculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/precentralOperculum``
 
    :definition: 'Precentral operculum' is a regional part of brain. It is part of the operculum of brain.
    :synonyms: brodmann's area 6, operculum precentrale
@@ -9945,7 +9945,7 @@ precentral operculum
 precommissural fornix of forebrain
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain``
 
    :definition: 'Precommissural fornix of forebrain' is a tract of brain. It is part of the fornix of brain.
    :synonyms: fornix precommissuralis, pcf, precommissural fornix
@@ -9961,7 +9961,7 @@ precommissural fornix of forebrain
 precuneus cortex
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex``
 
    :definition: 'Precuneus cortex' is a gyrus. It is part of the parietal lobe.
    :synonyms: medial area of the superior parietal cortex, praecuneus, precuneate lobule, precuneus, precuneus cortex, quadrate lobule
@@ -9977,14 +9977,14 @@ precuneus cortex
 predorsal bundle
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/predorsalBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/predorsalBundle``
 
    :definition: 'Predorsal bundle' is a fasciculus of brain. It is part of the white matter of medulla oblongata.
    :synonyms: fasciculus praedorsalis (Tschermak), fasciculus predorsalis, pd, Predorsal bundle of Edinger, predorsal fasciculus, tectospinal fibers
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002754
    :InterLex ID: http://uri.interlex.org/base/ilx_0109207
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002754#predorsal-bundle-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -9993,7 +9993,7 @@ predorsal bundle
 prefrontal cortex
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex``
 
    :definition: 'Prefrontal cortex' is a regional part of brain. It is part of the frontal cortex.
    :synonyms: frontal association cortex, prefrontal association complex, prefrontal association cortex
@@ -10009,14 +10009,14 @@ prefrontal cortex
 premammillary nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/premammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/premammillaryNucleus``
 
    :definition: 'Premammillary nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :synonyms: nuclei premamillaris, nucleus premamillaris hypothalami, PMm, premamillary nucleus, premammillary nuclei
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002712
    :InterLex ID: http://uri.interlex.org/base/ilx_0109218
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002712#premammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10025,7 +10025,7 @@ premammillary nucleus
 premotor cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex``
 
    :definition: The 'premotor cortex' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: premotor cortex (area 6)
@@ -10041,7 +10041,7 @@ premotor cortex
 preoccipital notch
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch``
 
    :definition: 'Preoccipital notch' is an anatomical entity. It is part of the occipital lobe.
    :synonyms: incisura parieto-occipitalis, incisura praeoccipitalis, incisura preoccipitalis, occipital notch, PON, preoccipital incisura, preoccipital incisure, preoccipital notch
@@ -10057,14 +10057,14 @@ preoccipital notch
 preolivary nucleus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/preolivaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/preolivaryNucleus``
 
    :definition: 'Preolivary nucleus' is a nucleus of superior olivary complex.
    :synonyms: nucleus preolivaris, preolivary nuclei
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002976
    :InterLex ID: http://uri.interlex.org/base/ilx_0109224
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002976#preolivary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10073,7 +10073,7 @@ preolivary nucleus
 preoptic area
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea``
 
    :definition: 'Preoptic area' is a regional part of brain. It is part of the diencephalon.
    :synonyms: area hypothalamica rostralis, area praeoptica, area preoptica, area proptica, nuclei preoptici, POA, preoptic hypothalamic area, preoptic hypothalamic region, preoptic nuclei, preoptic region, preoptic region of hypothalamus, regio hypothalamica anterior
@@ -10089,7 +10089,7 @@ preoptic area
 preoptic periventricular nucleus
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticPeriventricularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/preopticPeriventricularNucleus``
 
    :definition: 'Preoptic periventricular nucleus' is a preoptic nucleus.
    :synonyms: anterior portion, dorsal periventricular hypothalamic nucleus, nucleus periventricularis hypothalami, nucleus periventricularis praeopticus, nucleus periventricularis preopticus, nucleus preopticus periventricularis, pars dorsalis, periventricular hypothalamic nucleus, periventricular nucleus, periventricular preoptic nucleus, POP, preoptic part, preoptic periventricular hypothalamic nucleus
@@ -10105,7 +10105,7 @@ preoptic periventricular nucleus
 presubiculum
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum``
 
    :definition: 'Presubiculum' is part of the hippocampal formation and parahippocampal gyrus.
    :synonyms: Area 27 of Brodmann, praesubiculum, presubicular cortex (presubiculum), presubiculum (Cajal), PrS
@@ -10121,7 +10121,7 @@ presubiculum
 pretectal nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalNucleus``
 
    :definition: 'Pretectal nucleus' is a nucleus of brain. It is part of the pretectal region.
    :synonyms: nucleus area pretectalis, nucleus of pretectal area, nucleus of the pretectal area, pretectal area nucleus, pretectal nucleus
@@ -10137,7 +10137,7 @@ pretectal nucleus
 pretectal region
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion``
 
    :definition: 'Pretectal region' is a brain gray matter and nuclear complex of neuraxis.
    :synonyms: area praetectalis, area pretectalis, nuclei pretectales, nucleus praetectalis, praetectum, pretectal area, pretectal nuclei, pretectal region, Pretectum, regio pretectalis
@@ -10153,7 +10153,7 @@ pretectal region
 primary motor cortex
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex``
 
    :definition: 'Primary motor cortex' is a regional part of brain. It is part of the frontal cortex.
    :synonyms: excitable area, gyrus precentralis, M1, motor area, motor cortex, prefrontal gyrus, primary motor area, Rolando's area, somatic motor areas, somatomotor areas
@@ -10169,7 +10169,7 @@ primary motor cortex
 primary olfactory cortex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex``
 
    :definition: 'Primary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
    :synonyms: primary olfactory areas
@@ -10185,14 +10185,14 @@ primary olfactory cortex
 primary somatosensory area barrel field layer 1
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1``
 
    :definition: 'Primary somatosensory area barrel field layer 1' is a layer of neocortex. It is part of the barrel cortex.
    :synonyms: SSp-bfd1
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035873
    :InterLex ID: http://uri.interlex.org/base/ilx_0109286
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035873#primary-somatosensory-area-barrel-field-layer-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10201,14 +10201,14 @@ primary somatosensory area barrel field layer 1
 primary somatosensory area barrel field layer 4
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4``
 
    :definition: 'Primary somatosensory area barrel field layer 4' is a layer of neocortex. It is part of the barrel cortex.
    :synonyms: barrel cortex layer 4, SSp-bfd4
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035877
    :InterLex ID: http://uri.interlex.org/base/ilx_0109288
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035877#primary-somatosensory-area-barrel-field-layer-4
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10217,14 +10217,14 @@ primary somatosensory area barrel field layer 4
 primary somatosensory area barrel field layer 5
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5``
 
    :definition: 'Primary somatosensory area barrel field layer 5' is a layer of neocortex. It is part of the barrel cortex.
    :synonyms: barrel cortex layer 5, barrel cortex layer 5,, SSp-bfd5
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035872
    :InterLex ID: http://uri.interlex.org/base/ilx_0109290
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035872#primary-somatosensory-area-barrel-field-layer-5
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10233,14 +10233,14 @@ primary somatosensory area barrel field layer 5
 primary somatosensory area barrel field layer 6a
 ------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a``
 
    :definition: 'Primary somatosensory area barrel field layer 6a' is a layer of neocortex. It is part of the barrel cortex.
    :synonyms: Barrel cortex layer 6A, SSp-bfd6a
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035876
    :InterLex ID: http://uri.interlex.org/base/ilx_0109292
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035876#primary-somatosensory-area-barrel-field-layer-6a
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10249,14 +10249,14 @@ primary somatosensory area barrel field layer 6a
 primary somatosensory area barrel field layer 6b
 ------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b``
 
    :definition: 'Primary somatosensory area barrel field layer 6b' is a layer of neocortex. It is part of the barrel cortex.
    :synonyms: Barrel cortex layer 6B, SSp-bfd6b
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035875
    :InterLex ID: http://uri.interlex.org/base/ilx_0109294
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0035875#primary-somatosensory-area-barrel-field-layer-6b
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10265,7 +10265,7 @@ primary somatosensory area barrel field layer 6b
 primary somatosensory cortex
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex``
 
    :definition: 'Primary somatosensory cortex' is a somatosensory cortex. It is part of the parietal cortex.
    :synonyms: areas 3,1,2), postcentral gyrus, primary somatosensory area, primary somatosensory cortex (area S1, S1, S1C, Sm1, somatosensory area 1
@@ -10281,14 +10281,14 @@ primary somatosensory cortex
 primary somatosensory cortex layer 6
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortexLayer6
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortexLayer6``
 
    :definition: 'Primary somatosensory cortex layer 6' is a layer of neocortex. It is part of the primary somatosensory cortex.
    :synonyms: primary somatosensory cortex lamina VI, primary somatosensory cortex layer 6
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023859
    :InterLex ID: http://uri.interlex.org/base/ilx_0109334
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023859#primary-somatosensory-cortex-lamina-vi
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10297,7 +10297,7 @@ primary somatosensory cortex layer 6
 primary superior olive
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySuperiorOlive
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primarySuperiorOlive``
 
    :definition: 'Primary superior olive' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the superior olivary complex.
    :synonyms: SOl, superior olive
@@ -10313,7 +10313,7 @@ primary superior olive
 primary visual cortex
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex``
 
    :definition: 'Primary visual cortex' is a Brodmann area and functional part of brain. It is part of the visual cortex.
    :synonyms: Area 17 of Brodmann, area 17 of Brodmann-1909, area striata, b09-17, B09-17, BA17, Brodmann (1909) area 17, Brodmann area 17, calcarine cortex, nerve X, occipital visual neocortex, primary visual area, primary visual cortex, striate, striate area, striate cortex, V1, visual area one, visual area V1, visual association area, visual association cortex
@@ -10329,7 +10329,7 @@ primary visual cortex
 principal anterior division of supraoptic nucleus
 -------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus``
 
    :definition: 'Principal anterior division of supraoptic nucleus' is a regional part of brain.
    :synonyms: SONa, principal anterior division of supraoptic nucleus
@@ -10345,14 +10345,14 @@ principal anterior division of supraoptic nucleus
 principal part of ventral posteromedial nucleus
 -----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus``
 
    :definition: 'Principal part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
    :synonyms: nucleus ventralis posteromedialis, pars principalis, pars prinicipalis, principal part, principal part of the ventral posteromedial nucleus, ventral posteromedial nucleus, VPMPr
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003024
    :InterLex ID: http://uri.interlex.org/base/ilx_0109352
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003024#principal-part-of-ventral-posteromedial-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10361,14 +10361,14 @@ principal part of ventral posteromedial nucleus
 principal pretectal nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus``
 
    :definition: 'Principal pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :synonyms: nucleus pretectalis principalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002572
    :InterLex ID: http://uri.interlex.org/base/ilx_0109353
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002572#principal-pretectal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10377,10 +10377,10 @@ principal pretectal nucleus
 principal sensory nucleus of trigeminal nerve
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve``
 
    :definition: 'Principal sensory nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002597
    :InterLex ID: http://uri.interlex.org/base/ilx_0109355
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002597#principal-sensory-nucleus-of-trigeminal-nerve-1
@@ -10393,7 +10393,7 @@ principal sensory nucleus of trigeminal nerve
 putamen
 -------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/putamen
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/putamen``
 
    :definition: 'Putamen' is a telencephalic nucleus. It is part of the cerebral hemisphere and caudate-putamen.
    :synonyms: Pu, nucleus putamen
@@ -10409,7 +10409,7 @@ putamen
 pyramidal layer of CA1
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1``
 
    :definition: 'Pyramidal layer of CA1' is a layer of CA1 field. It is part of the hippocampus pyramidal layer.
    :synonyms: CA1 part of stratum pyramidale, CA1 part of stratum pyramidale hippocampi, CA1 pyramidal cell layer, CA1 stratum pyramidale, CA1 stratum pyramidale hippocampi, stratum pyramidale of CA1, stratum pyramidale of the CA1 field
@@ -10425,7 +10425,7 @@ pyramidal layer of CA1
 pyramidal layer of CA2
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA2
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA2``
 
    :definition: 'Pyramidal layer of CA2' is a layer of CA2 field. It is part of the hippocampus pyramidal layer.
    :synonyms: CA2 part of stratum pyramidale hippocampi, CA2 pyramidal cell layer, CA2 stratum pyramidale hippocampi, field CA2, pyramidal layer, stratum pyramidale of CA2, stratum pyramidale of the CA2 field
@@ -10441,14 +10441,14 @@ pyramidal layer of CA2
 radiation of thalamus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/radiationOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/radiationOfThalamus``
 
    :definition: The 'radiation of thalamus' is a white matter fibre bundle. It is part of of the thalamic complex.
    :synonyms: thalamic radiation, thalamus radiation
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034745
    :InterLex ID: http://uri.interlex.org/base/ilx_0724984
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0034745#radiation-of-thalamus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10457,7 +10457,7 @@ radiation of thalamus
 red nucleus
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus``
 
    :definition: 'Red nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: nucleus rotundus subthalamo-peduncularis, nucleus ruber, nucleus ruber tegmenti, nucleus ruber tegmenti (Stilling), R, R program, red nucleus (Burdach)
@@ -10473,10 +10473,10 @@ red nucleus
 regional part of brain
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain``
 
    :definition: 'Regional part of brain' is a regional part of nervous system. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002616
    :InterLex ID: http://uri.interlex.org/base/ilx_0109835
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002616#regional-part-of-brain-1
@@ -10489,14 +10489,14 @@ regional part of brain
 regional part of cerebellar cortex
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex``
 
    :definition: 'Regional part of cerebellar cortex' is a regional part of brain. It is part of the cerebellar cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002749
    :InterLex ID: http://uri.interlex.org/base/ilx_0109837
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002749#regional-part-of-cerebellar-cortex-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10505,7 +10505,7 @@ regional part of cerebellar cortex
 reticular formation
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation``
 
    :definition: 'Reticular formation' is a regional part of brain. It is part of the brainstem.
    :synonyms: brain stem reticular formation, brainstem reticular formation, reticular formation (classical), reticular formation of the brainstem
@@ -10521,7 +10521,7 @@ reticular formation
 reticulotegmental nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulotegmentalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/reticulotegmentalNucleus``
 
    :definition: 'Reticulotegmental nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons and reticular formation.
    :synonyms: nucleus reticularis tegmenti pontis, pontine gray, reticular tegmental nucleus, reticulotegmental nucleus of pons, reticulotegmental nucleus of the pons, reticulotegmental pontine nucleus, tegmental reticular nucleus
@@ -10537,14 +10537,14 @@ reticulotegmental nucleus
 retrochiasmatic area
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea``
 
    :definition: 'Retrochiasmatic area' is part of the medial zone of hypothalamus and intermediate hypothalamic region.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001933
    :InterLex ID: http://uri.interlex.org/base/ilx_0726953
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10553,10 +10553,10 @@ retrochiasmatic area
 retrorubral area of midbrain reticular nucleus
 ----------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus``
 
    :definition: 'Retrorubral area of midbrain reticular nucleus' is a regional part of brain. It is part of the nucleus of midbrain reticular formation.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0011172
    :InterLex ID: http://uri.interlex.org/base/ilx_0733931
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0011172#retrorubral-area-of-midbrain-reticular-nucleus
@@ -10569,7 +10569,7 @@ retrorubral area of midbrain reticular nucleus
 retrotrapezoid nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/retrotrapezoidNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/retrotrapezoidNucleus``
 
    :definition: 'Retrotrapezoid nucleus' is a nucleus of medulla oblongata.
    :synonyms:
@@ -10585,14 +10585,14 @@ retrotrapezoid nucleus
 reuniens nucleus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus``
 
    :definition: 'Reuniens nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :synonyms: medioventral nucleus, nucleus endymalis (Hassler), nucleus of reunions, nucleus reuniens, nucleus reuniens (Malone), nucleus reuniens thalami, Re, reuniens nucleus of the thalamus, reuniens thalamic nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001921
    :InterLex ID: http://uri.interlex.org/base/ilx_0110085
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10601,10 +10601,10 @@ reuniens nucleus
 rhinal sulcus
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus``
 
    :definition: 'Rhinal sulcus' is a sulcus of brain. It is part of the cerebral cortex.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002683
    :InterLex ID: http://uri.interlex.org/base/ilx_0110119
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002683#rhinal-sulcus-1
@@ -10617,10 +10617,10 @@ rhinal sulcus
 rhombic lip
 -----------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip``
 
    :definition: 'Rhombic lip' is part of the future metencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006215
    :InterLex ID: http://uri.interlex.org/base/ilx_0727583
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006215#rhombic-lip
@@ -10633,14 +10633,14 @@ rhombic lip
 rhomboidal nucleus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rhomboidalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rhomboidalNucleus``
 
    :definition: 'Rhomboidal nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :synonyms: nucleus commissuralis rhomboidalis, nucleus rhomboidalis, nucleus rhomboidalis thalami, Rh, rhomboid nucleus, rhomboid nucleus (Cajal 1904), rhomboid nucleus of the thalamus, rhomboid thalamic nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002955
    :InterLex ID: http://uri.interlex.org/base/ilx_0110128
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002955#rhomboidal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10649,7 +10649,7 @@ rhomboidal nucleus
 root of abducens nerve
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve``
 
    :definition: 'Root of abducens nerve' is a root of cranial nerve. It is part of the medulla oblongata.
    :synonyms: abducens nerve fibers, abducens nerve root, abducens nerve tract, abducens nerve/root, central part of abducens nerve, fibrae nervi abducentis, root of abducens nerve
@@ -10665,13 +10665,13 @@ root of abducens nerve
 root of olfactory nerve
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve``
 
    :definition: The initial segment of an olfactory nerve, leaving the central nervous system.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019311
    :InterLex ID: http://uri.interlex.org/base/ilx_0727253
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Root of olfactory nerve' is a nerve root.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -10681,13 +10681,13 @@ root of olfactory nerve
 root of optic nerve
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve``
 
    :definition: A nerve root that extends_fibers_into a nerve connecting eye with brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009906
    :InterLex ID: http://uri.interlex.org/base/ilx_0728874
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Root of optic nerve' is a root of cranial nerve.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -10697,14 +10697,14 @@ root of optic nerve
 root of trochlear nerve
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve``
 
    :definition: 'Root of trochlear nerve' is a root of cranial nerve. It is part of the brainstem.
    :synonyms: 4nf, central part of trochlear nerve, fibrae nervi trochlearis, trochlear nerve fibers, trochlear nerve or its root, trochlear nerve root, trochlear nerve tract, trochlear nerve/root
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002618
    :InterLex ID: http://uri.interlex.org/base/ilx_0112003
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002618#trochlear-nerve-fibers
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10713,13 +10713,13 @@ root of trochlear nerve
 root of vagus nerve
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve``
 
    :definition: A root of cranial nerve that is part of a vagus nerve.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0011213
    :InterLex ID: http://uri.interlex.org/base/ilx_0731734
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Root of vagus nerve' is a nerve root.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -10729,7 +10729,7 @@ root of vagus nerve
 rostral anterior cingulate cortex
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex``
 
    :definition: 'Rostral anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
    :synonyms: rostral anterior cingulate cortex
@@ -10745,7 +10745,7 @@ rostral anterior cingulate cortex
 rostral interstitial nucleus of medial longitudinal fasciculus
 --------------------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus``
 
    :definition: 'Rostral interstitial nucleus of medial longitudinal fasciculus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: nucleus interstitialis, nucleus interstitialis rostralis, RI, riMLF, Rostral interstitial nucleus of MLF, rostral interstitial nucleus of the medial longitudinal fasciculus
@@ -10761,14 +10761,14 @@ rostral interstitial nucleus of medial longitudinal fasciculus
 rostral intralaminar nuclear group
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup``
 
    :definition: 'Rostral intralaminar nuclear group' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
    :synonyms: anterior group of intralaminar nuclei, nuclei intralaminares rostrales, RIL, rostral group of intralaminar nuclei, rostral intralaminar nuclear group, rostral intralaminar nuclei
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002965
    :InterLex ID: http://uri.interlex.org/base/ilx_0110211
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002965#rostral-intralaminar-nuclei
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10777,7 +10777,7 @@ rostral intralaminar nuclear group
 rostral linear nucleus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralLinearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralLinearNucleus``
 
    :definition: 'Rostral linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the ventral tegmental area.
    :synonyms: anterior linear nucleus, RLi, rostral linear nucleus of the raphe
@@ -10793,7 +10793,7 @@ rostral linear nucleus
 rostral middle frontal gyrus
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMiddleFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMiddleFrontalGyrus``
 
    :definition: 'Rostral middle frontal gyrus' is a regional part of brain and frontal gyrus. It is part of the middle frontal gyrus.
    :synonyms: anterior part of middle frontal gyrus, rostral middle frontal gyrus, rostral part of middle frontal gyrus
@@ -10809,7 +10809,7 @@ rostral middle frontal gyrus
 rostral migratory stream
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream``
 
    :definition: 'Rostral migratory stream' is a regional part of brain. It is part of the telencephalon.
    :synonyms: RMS, rostral migratory pathway
@@ -10825,14 +10825,14 @@ rostral migratory stream
 rostral portion of the medial accessory olive
 ---------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive``
 
    :definition: 'Rostral portion of the medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
    :synonyms: RMAO, rostral portion of the medial accessory olive
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024043
    :InterLex ID: http://uri.interlex.org/base/ilx_0110220
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024043#rostral-portion-of-the-medial-accessory-olive-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10841,7 +10841,7 @@ rostral portion of the medial accessory olive
 rostral spinocerebellar tract
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSpinocerebellarTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSpinocerebellarTract``
 
    :definition: 'Rostral spinocerebellar tract' is an axon tract. It is part of the spinocerebellar tract.
    :synonyms: rostral spinocerebellar tract
@@ -10857,14 +10857,14 @@ rostral spinocerebellar tract
 rostrum of corpus callosum
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum``
 
    :definition: The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.
    :synonyms: corpus callosum rostrum, rostrum, rostrum corporis callosi, rostrum corpus callosi
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0015703
    :InterLex ID: http://uri.interlex.org/base/ilx_0731510
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0015703#rostrum-of-corpus-callosum
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10873,7 +10873,7 @@ rostrum of corpus callosum
 secondary olfactory cortex
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex``
 
    :definition: 'Secondary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
    :synonyms: area 28 of Brodmann (Crosby), entorhinal cortex, secondary olfactory areas, secondary olfactory cortex, secondary olfactory cortical area (Carpenter)
@@ -10889,7 +10889,7 @@ secondary olfactory cortex
 secondary visual cortex
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex``
 
    :definition: 'Secondary visual cortex' is part of Brodmann area 18 and a functional region of the brain. It is part of the visual cortex.
    :synonyms: Area 18 of Brodmann, area 18 of Brodmann-1909, b09-18, B09-18, BA18, Brodmann (1909) area 18, Brodmann area 18, occipital visual neocortex, prestriate area, prestriate cortex, secondary visual area, secondary visual cortex, V2, visual area two, visual area V2, visual association area, visual association cortex
@@ -10905,14 +10905,14 @@ secondary visual cortex
 segmental subdivision of hindbrain
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain``
 
    :definition: 'Segmental subdivision of hindbrain' is a segmental subdivision of nervous system. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004733
    :InterLex ID: http://uri.interlex.org/base/ilx_0729200
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004733#segmental-subdivision-of-hindbrain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10921,7 +10921,7 @@ segmental subdivision of hindbrain
 septal nuclear complex
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex``
 
    :definition: 'Septal nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the septum of telencephalon and basal forebrain.
    :synonyms: nuclei septales, parolfactory nuclei, septal nuclei, septal nuclei and related structures, septal nuclei set, septal nucleus, set of septal nuclei
@@ -10937,14 +10937,14 @@ septal nuclear complex
 septofimbrial nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/septofimbrialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/septofimbrialNucleus``
 
    :definition: 'Septofimbrial nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :synonyms: nucleus septalis fimbrialis, nucleus septofibrialis, nucleus septofimbrialis, scattered nucleus of the septum, SFi
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001878
    :InterLex ID: http://uri.interlex.org/base/ilx_0110511
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001878#septofimbrial-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -10953,7 +10953,7 @@ septofimbrial nucleus
 septohippocampal nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus``
 
    :definition: 'Septohippocampal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :synonyms: SHi
@@ -10969,13 +10969,13 @@ septohippocampal nucleus
 septum of telencephalon
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon``
 
    :definition: Gray matter structure located on the midline of the forebrain consisting of the septum pellucidum (in some species) and the septal nuclei (Heimer, 1996).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000446
    :InterLex ID: http://uri.interlex.org/base/ilx_0110516
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: 'Septum of telencephalon' is a cerebral hemisphere gray matter.
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -10985,7 +10985,7 @@ septum of telencephalon
 septum pellucidum
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/septumPellucidum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/septumPellucidum``
 
    :definition: 'Septum pellucidum' is part of the septum of telencephalon and telencephalic ventricle.
    :synonyms: lateral septum, medial septum, pellucidum, septal pellucidum, septum gliosum, septum lucidum, septum pellucidum of telencephalic ventricle, supracommissural septum
@@ -11001,7 +11001,7 @@ septum pellucidum
 shell of nucleus accumbens
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/shellOfNucleusAccumbens
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/shellOfNucleusAccumbens``
 
    :definition: 'Shell of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
    :synonyms: AcbSH, accumbens nucleus, accumbens nucleus shell, nucleus accumbens shell, shell, shell of nucleus accumbens, shell region of nucleus accumbens
@@ -11017,14 +11017,14 @@ shell of nucleus accumbens
 somatosensory cortex
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex``
 
    :definition: Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus.
    :synonyms: somatic sensory cortex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0008930
    :InterLex ID: http://uri.interlex.org/base/ilx_0110752
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11033,7 +11033,7 @@ somatosensory cortex
 Sommer's sector
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/sommersSector
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/sommersSector``
 
    :definition: 'Sommer's sector' is a regional part of brain. It is part of the hippocampal formation.
    :synonyms: sommer's sector, sommers sector
@@ -11049,7 +11049,7 @@ Sommer's sector
 spinal trigeminal tract of medulla
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla``
 
    :definition: 'Spinal trigeminal tract of medulla' is a spinal trigeminal tract. It is part of the medulla oblongata.
    :synonyms: spinal trigeminal tract of the medulla, tractus spinalis nervi trigemini (myelencephali)
@@ -11065,14 +11065,14 @@ spinal trigeminal tract of medulla
 spinal trigeminal tract of pons
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons``
 
    :definition: 'Spinal trigeminal tract of pons' is a spinal trigeminal tract. It is part of the pontine tegmentum.
    :synonyms: spinal trigeminal tract of the pons, tractus spinalis nervi trigemini (pontis)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002800
    :InterLex ID: http://uri.interlex.org/base/ilx_0110959
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002800#spinal-trigeminal-tract-of-pons-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11081,10 +11081,10 @@ spinal trigeminal tract of pons
 spinocerebellum
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum``
 
    :definition: 'Spinocerebellum' is a regional part of brain. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014643
    :InterLex ID: http://uri.interlex.org/base/ilx_0734938
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014643#spinocerebellum
@@ -11097,9 +11097,9 @@ spinocerebellum
 spinothalamic tract
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract``
 
-   :definition: -
+   :definition: \-
    :synonyms: spth
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007703
    :InterLex ID: http://uri.interlex.org/base/ilx_0110973
@@ -11113,7 +11113,7 @@ spinothalamic tract
 spinothalamic tract of medulla
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla``
 
    :definition: 'Spinothalamic tract of medulla' is a tract of brain. It is part of the medulla oblongata and spinothalamic tract.
    :synonyms: spinothalamic tract, spinothalamic tract of the medulla, tractus spinothalamicus (myelencephali)
@@ -11129,14 +11129,14 @@ spinothalamic tract of medulla
 spinothalamic tract of midbrain
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain``
 
    :definition: 'Spinothalamic tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and spinothalamic tract.
    :synonyms: spinothalamic tract of the midbrain, stmb, tractus spinothalamicus (mesencephali)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002609
    :InterLex ID: http://uri.interlex.org/base/ilx_0110975
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002609#spinothalamic-tract-of-midbrain-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11145,7 +11145,7 @@ spinothalamic tract of midbrain
 spinothalamic tract of pons
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons``
 
    :definition: 'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.
    :synonyms: pons of varolius spinothalamic tract, pons of varolius spinothalamic tract of medulla, pons spinothalamic tract, pons spinothalamic tract of medulla, spinotectal pathway, spinothalamic tract of medulla of pons, spinothalamic tract of medulla of pons of varolius, spinothalamic tract of pons of varolius, spinothalamic tract of the pons, tractus spinothalamicus (pontis)
@@ -11161,9 +11161,9 @@ spinothalamic tract of pons
 splenium of the corpus callosum
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/spleniumOfTheCorpusCallosum``
 
-   :definition: -
+   :definition: \-
    :synonyms: corpus callosum splenium, splenium, splenium corporis callosi, splenium corpus callosi, splenium of corpus callosum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0015708
    :InterLex ID: http://uri.interlex.org/base/ilx_0724356
@@ -11177,7 +11177,7 @@ splenium of the corpus callosum
 stratum zonale of thalamus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus``
 
    :definition: 'Stratum zonale of thalamus' is a diencephalic white matter. It is part of the dorsal plus ventral thalamus.
    :synonyms: neuraxis stratum, stratum zonale of the thalamus, stratum zonale thalami
@@ -11193,7 +11193,7 @@ stratum zonale of thalamus
 stria medullaris
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris``
 
    :definition: 'Stria medullaris' is a diencephalic white matter and stria of neuraxis. It is part of the dorsal plus ventral thalamus.
    :synonyms: sm, stria habenularis, stria medularis, stria medullaris (Wenzel - Wenzel), stria medullaris (Wenzel-Wenzel), stria medullaris of thalamus, stria medullaris of the thalamus, stria medullaris thalami, stria medullaris thalamica
@@ -11209,7 +11209,7 @@ stria medullaris
 stria terminalis
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis``
 
    :definition: 'Stria terminalis' is a cerebral hemisphere white matter and stria of telencephalon.
    :synonyms: fibrae striae terminalis, fovilles fasciculus, semicircular stria, st, stria semicircularis, stria terminalis, stria terminalis (Wenzel-Wenzel), Tarins tenia, tenia semicircularis, terminal stria
@@ -11225,7 +11225,7 @@ stria terminalis
 striatum
 --------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striatum``
 
    :definition: 'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.
    :synonyms: caudate putamen, corpus striatum, corpus striatum (Zilles), dorsal striatum, neostriatum, neuraxis striatum, striate nucleus, striated nucleus, striatum, striatum of neuraxis
@@ -11241,14 +11241,14 @@ striatum
 striosomal part of body of caudate nucleus
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus``
 
    :definition: 'Striosomal part of body of caudate nucleus' is a striosomal part of caudate nucleus. It is part of the body of caudate nucleus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027244
    :InterLex ID: http://uri.interlex.org/base/ilx_0111106
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0027244#striosomal-part-of-body-of-caudate-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11257,14 +11257,14 @@ striosomal part of body of caudate nucleus
 striosomal part of caudate nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfCaudateNucleus``
 
    :definition: 'Striosomal part of caudate nucleus' is a striosome. It is part of the caudate nucleus.
    :synonyms: striosomal compartment of caudate nucleus, striosomal part of caudate nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0029004
    :InterLex ID: http://uri.interlex.org/base/ilx_0111107
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0029004#striosomal-part-of-caudate-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11273,14 +11273,14 @@ striosomal part of caudate nucleus
 striosomal part of putamen
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen``
 
    :definition: 'Striosomal part of putamen' is a striosome. It is part of the putamen.
    :synonyms: striosomal part of putamen
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0029005
    :InterLex ID: http://uri.interlex.org/base/ilx_0111109
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0029005#striosomal-part-of-putamen-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11289,14 +11289,14 @@ striosomal part of putamen
 subarachnoid fissure
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidFissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidFissure``
 
    :definition: 'Subarachnoid fissure' is an anatomical entity. It is part of the subarachnoid space.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014466
    :InterLex ID: http://uri.interlex.org/base/ilx_0735254
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014466#subarachnoid-fissure
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11305,10 +11305,10 @@ subarachnoid fissure
 subarachnoid space
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace``
 
    :definition: 'Subarachnoid space' is an anatomical entity. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000315
    :InterLex ID: http://uri.interlex.org/base/ilx_0736673
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000315#subarachnoid-space
@@ -11321,14 +11321,14 @@ subarachnoid space
 subarachnoid sulcus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus``
 
    :definition: 'Subarachnoid sulcus' is a sulcus of brain. It is part of the subarachnoid space.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0008334
    :InterLex ID: http://uri.interlex.org/base/ilx_0730861
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0008334#subarachnoid-sulcus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11337,7 +11337,7 @@ subarachnoid sulcus
 subbrachial nucleus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus``
 
    :definition: 'Subbrachial nucleus' is a nucleus of midbrain tectum.
    :synonyms: SubB, subbrachial nucleus, tegmental area of tsai
@@ -11353,7 +11353,7 @@ subbrachial nucleus
 subcallosal area
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea``
 
    :definition: 'Subcallosal area' is a gray matter of telencephalon.
    :synonyms: adolfactory area, area paraolfactoria, area parolfactoria, area subcallosa, paraolfactory area, parolfactory area, subcallosal cortex, Zuckerkandl's gyrus
@@ -11369,7 +11369,7 @@ subcallosal area
 subcommissural organ
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan``
 
    :definition: 'Subcommissural organ' is a secretory circumventricular organ. It is part of the midbrain tectum and Reissner's fiber.
    :synonyms: cerebral aqueduct subcommissural organ, corpus subcommissurale, dorsal subcommissural organ, organum subcommissurale, SCO
@@ -11385,10 +11385,10 @@ subcommissural organ
 subcuneiform nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus``
 
-   :definition: -
-   :synonyms: -
+   :definition: \-
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002700
    :InterLex ID: http://uri.interlex.org/base/ilx_0111160
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002700#subcuneiform-nucleus-1
@@ -11401,14 +11401,14 @@ subcuneiform nucleus
 subfascicular nucleus
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subfascicularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subfascicularNucleus``
 
    :definition: 'Subfascicular nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :synonyms: SF, nucleus subfascicularis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002959
    :InterLex ID: http://uri.interlex.org/base/ilx_0111163
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002959#subfascicular-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11417,7 +11417,7 @@ subfascicular nucleus
 subicular complex
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex``
 
    :definition: 'Subicular complex' is a regional part of brain. It is part of the hippocampal formation.
    :synonyms: subicular complex
@@ -11433,7 +11433,7 @@ subicular complex
 subiculum
 ---------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum``
 
    :definition: 'Subiculum' is a regional part of brain. It is part of the hippocampal formation.
    :synonyms: gyrus parahippocampalis, subicular cortex, subiculum cornu ammonis, subiculum hippocampi
@@ -11449,14 +11449,14 @@ subiculum
 sublentiform nucleus
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus``
 
    :definition: 'Sublentiform nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :synonyms: nucleus sublentiformis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002578
    :InterLex ID: http://uri.interlex.org/base/ilx_0111190
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002578#sublentiform-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11465,7 +11465,7 @@ sublentiform nucleus
 submedial nucleus of thalamus
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus``
 
    :definition: 'Submedial nucleus of thalamus' is a posterior nucleus of thalamus.
    :synonyms: gelatinosus thalamic nucleus, nucleus submedialis thalami, nucleus submedius thalami, SM, submedial nucleus, submedial nucleus of thalamus, submedial nucleus of the thalamus, submedial nucleus thalamus, submedial thalamic nucleus, submedius thalamic nucleus
@@ -11481,7 +11481,7 @@ submedial nucleus of thalamus
 substantia gelatinosa
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosa
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosa``
 
    :definition: 'Substantia gelatinosa' is a lamina of gray matter of spinal cord. It is part of the dorsal horn of spinal cord.
    :synonyms: central gelatinous substance of spinal cord, gelatinous substance of dorsal horn of spinal cord, gelatinous substance of posterior horn of spinal cord, gelatinous substance of Rolando, lamina II of gray matter of spinal cord, lamina spinalis II, Rexed lamina II, spinal lamina II, substantia gelatinosa cornu posterioris medullae spinalis, substantia gelatinosa of spinal cord dorsal horn, substantia gelatinosa of spinal cord posterior horn
@@ -11497,7 +11497,7 @@ substantia gelatinosa
 substantia innominata
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata``
 
    :definition: 'Substantia innominata' is a telencephalic nucleus. It is part of the ventral pallidum.
    :synonyms: innominate substance, nucleus of substantia innominata, Reichert), SI, substantia innominata (Reil, substantia innominata of Meynert, substantia innominata of Reichert, substantia innominata of Reil, substriatal gray
@@ -11513,7 +11513,7 @@ substantia innominata
 substantia nigra
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra``
 
    :definition: 'Substantia nigra' is a midbrain nucleus. It is part of the basal ganglion.
    :synonyms: nucleus of basis pedunculi, nucleus pigmentosus subthalamo-peduncularis, SN, Soemmering's substance, substancia nigra, substantia nigra (Soemmerringi)
@@ -11529,7 +11529,7 @@ substantia nigra
 substantia nigra pars compacta
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsCompacta
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsCompacta``
 
    :definition: 'Substantia nigra pars compacta' is part of the substantia nigra.
    :synonyms: compact division, compact part, compact part of substantia nigra, nucleus substantiae nigrae, pars compacta, pars compacta of substantia nigra, pars compacta substantiae nigrae, SNC, SNpc, substantia nigra, substantia nigra compact part, substantia nigra compacta
@@ -11545,7 +11545,7 @@ substantia nigra pars compacta
 substantia nigra pars lateralis
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis``
 
    :definition: 'Substantia nigra pars lateralis' is a regional part of brain. It is part of the substantia nigra.
    :synonyms: internal capsule (Burdach), lateral division, lateral part, lateral part of substantia nigra, pars lateralis, pars lateralis substantiae nigrae, SNL, substantia nigra, substantia nigra lateral part
@@ -11561,7 +11561,7 @@ substantia nigra pars lateralis
 substantia nigra pars reticulata
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata``
 
    :definition: 'Substantia nigra pars reticulata' is part of the substantia nigra.
    :synonyms: nucleus substantiae nigrae, pars compacta, pars compacta of substantia nigra, pars diffusa, pars reticularis, pars reticularis substantiae nigrae, pars reticulata, reticular division, reticular part, reticular part of substantia nigra, SNPR, SNR, substantia nigra, substantia nigra reticular part
@@ -11577,10 +11577,10 @@ substantia nigra pars reticulata
 sulcus limitans of fourth ventricle
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle``
 
    :definition: 'Sulcus limitans of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009573
    :InterLex ID: http://uri.interlex.org/base/ilx_0736901
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009573#sulcus-limitans-of-fourth-ventricle
@@ -11593,10 +11593,10 @@ sulcus limitans of fourth ventricle
 sulcus of brain
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfBrain``
 
    :definition: 'Sulcus of brain' is an anatomical entity. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0013118
    :InterLex ID: http://uri.interlex.org/base/ilx_0725590
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0013118#sulcus-of-brain
@@ -11609,14 +11609,14 @@ sulcus of brain
 superficial feature part of occipital lobe
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe``
 
    :definition: 'Superficial feature part of occipital lobe' is a regional part of brain. It is part of the occipital lobe.
    :synonyms: superficial feature part of occipital lobe
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0023462
    :InterLex ID: http://uri.interlex.org/base/ilx_0111268
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0023462#superficial-feature-part-of-occipital-lobe-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11625,14 +11625,14 @@ superficial feature part of occipital lobe
 superficial feature part of the cerebellum
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum``
 
    :definition: 'Superficial feature part of the cerebellum' is a regional part of brain. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024046
    :InterLex ID: http://uri.interlex.org/base/ilx_0111271
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024046#superficial-feature-part-of-the-cerebellum
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11641,7 +11641,7 @@ superficial feature part of the cerebellum
 superior cerebellar peduncle
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncle``
 
    :definition: 'Superior cerebellar peduncle' is a cerebellar peduncle.
    :synonyms: brachium conjunctivum, crus cerebello-cerebrale, pedunculus cerebellaris cranialis, pedunculus cerebellaris rostralis, pedunculus cerebellaris superior, scp, Stilling), superior cerebelar peduncles, superior cerebellar peduncle (brachium conjuctivum), superior cerebellar peduncle (brachium conjunctivum), superior cerebellar peduncle (Galen, superior peduncle, tractus cerebello-rubralis, tractus cerebello-tegmentalis mesencephali
@@ -11657,7 +11657,7 @@ superior cerebellar peduncle
 superior cerebellar peduncle of midbrain
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain``
 
    :definition: 'Superior cerebellar peduncle of midbrain' is a regional part of brain. It is part of the midbrain tegmentum and superior cerebellar peduncle.
    :synonyms: pedunculus cerebellaris superior (mesencephalon), scpmb, superior cerebellar peduncle of midbrain, superior cerebellar peduncle of the midbrain
@@ -11673,14 +11673,14 @@ superior cerebellar peduncle of midbrain
 superior cerebellar peduncle of pons
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons``
 
    :definition: 'Superior cerebellar peduncle of pons' is a regional part of brain. It is part of the superior cerebellar peduncle and pontine tegmentum.
    :synonyms: pedunculus cerebellaris superior (pontis), scpp, superior cerebellar peduncle of pons, superior cerebellar peduncle of the pons
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007709
    :InterLex ID: http://uri.interlex.org/base/ilx_0111281
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11689,7 +11689,7 @@ superior cerebellar peduncle of pons
 superior colliculus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus``
 
    :definition: 'Superior colliculus' is a regional part of brain and visual processing part of nervous system. It is part of the corpora quadrigemina.
    :synonyms: anterior colliculus, anterior corpus quadrigeminum, colliculus bigeminalis oralis, colliculus cranialis, colliculus rostralis, colliculus superior, corpora bigemina, corpus quadrigeminum superius, cranial colliculus, dorsal midbrain, layers of the superior colliculus, lobus opticus, nates, optic lobe, optic tectum, SC, strata (grisea et alba) colliculi cranialis, strata (grisea et alba) colliculi superioris, tectal lobe, tectum, tectum opticum
@@ -11705,7 +11705,7 @@ superior colliculus
 superior frontal gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus``
 
    :definition: 'Superior frontal gyrus' is a frontal gyrus.
    :synonyms: gyrus F1, gyrus frontalis primus, gyrus frontalis superior, marginal gyrus, superior frontal convolution
@@ -11721,7 +11721,7 @@ superior frontal gyrus
 superior medullary velum
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMedullaryVelum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMedullaryVelum``
 
    :definition: 'Superior medullary velum' is a white matter of metencephalon. It is part of the cerebellum.
    :synonyms: anterior medullary velum, rostral medullary velum, SMV, velum medullare anterius, velum medullare craniale, velum medullare rostralis, velum medullare superior, velum medullare superius
@@ -11737,14 +11737,14 @@ superior medullary velum
 superior occipital gyrus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOccipitalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOccipitalGyrus``
 
    :definition: 'Superior occipital gyrus' is an occipital gyrus.
    :synonyms: gyrus occipitalis primus, gyrus occipitalis superior
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002948
    :InterLex ID: http://uri.interlex.org/base/ilx_0111308
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002948#superior-occipital-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11753,7 +11753,7 @@ superior occipital gyrus
 superior olivary complex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex``
 
    :definition: 'Superior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the pontine tegmentum.
    :synonyms: nucleus olivaris superior, regio olivaris superioris, superior olivary nuclei, superior olivary nucleus, superior olivary nucleus (Barr & Kiernan), superior olive
@@ -11769,7 +11769,7 @@ superior olivary complex
 superior parietal cortex
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex``
 
    :definition: 'Superior parietal cortex' is part of the parietal lobe and neocortex.
    :synonyms: gyrus parietalis superior, lobulus parietalis superior, superior parietal cortex, superior parietal gyrus, superior parietal lobule, superior portion of parietal gyrus
@@ -11785,14 +11785,14 @@ superior parietal cortex
 superior rostral gyrus
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralGyrus``
 
    :definition: 'Superior rostral gyrus' is a regional part of brain. It is part of the rostral gyrus.
    :synonyms: superior rostral gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019279
    :InterLex ID: http://uri.interlex.org/base/ilx_0111324
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0019279#superior-rostral-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11801,10 +11801,10 @@ superior rostral gyrus
 superior salivatory nucleus
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus``
 
    :definition: 'Superior salivatory nucleus' is a cranial nerve nucleus, salivatory nucleus and nucleus of medulla oblongata. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002149
    :InterLex ID: http://uri.interlex.org/base/ilx_0111326
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002149#superior-salivatory-nucleus-1
@@ -11817,7 +11817,7 @@ superior salivatory nucleus
 superior temporal gyrus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalGyrus``
 
    :definition: 'Superior temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :synonyms: STG, gyrus temporalis superior
@@ -11833,7 +11833,7 @@ superior temporal gyrus
 superior temporal sulcus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalSulcus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalSulcus``
 
    :definition: The 'superior temporal sulcus' is the sulcus separating the superior temporal gyrus from the middle temporal gyrus in the temporal lobe of the brain. [from [wikipedia](http://en.wikipedia.org/wiki/Superior_temporal_sulcus)]
    :synonyms: parallel sulcus, STS, sulcus t1, sulcus temporalis superior, superior temporal fissure
@@ -11849,14 +11849,14 @@ superior temporal sulcus
 superior transverse frontopolar gyrus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus``
 
    :definition: 'Superior transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :synonyms: superior transverse frontopolar gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024201
    :InterLex ID: http://uri.interlex.org/base/ilx_0111330
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024201#superior-transverse-frontopolar-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11865,14 +11865,14 @@ superior transverse frontopolar gyrus
 supracallosal gyrus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/supracallosalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/supracallosalGyrus``
 
    :definition: 'Supracallosal gyrus' is a gyrus. It is part of the limbic lobe.
    :synonyms: gyrus supracallosus, hippocampus supracommissuralis, supracommissural hippocampal rudiment, supracommissural hippocampus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002665
    :InterLex ID: http://uri.interlex.org/base/ilx_0111340
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002665#supracallosal-gyrus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11881,7 +11881,7 @@ supracallosal gyrus
 suprachiasmatic nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleus``
 
    :definition: 'Suprachiasmatic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial zone of hypothalamus.
    :synonyms: nucleus suprachiasmaticus, nucleus suprachiasmaticus hypothalami, SCh, SCN, suprachiasmatic nucleus (Spiegel-Zwieg), suprachiasmatic nucleus of hypothalamus
@@ -11897,14 +11897,14 @@ suprachiasmatic nucleus
 suprachiasmatic nucleus dorsomedial part
 ----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart``
 
    :definition: 'Suprachiasmatic nucleus dorsomedial part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
    :synonyms: SCHd, suprachiasmatic nucleus dorsomedial part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027768
    :InterLex ID: http://uri.interlex.org/base/ilx_0111342
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0027768#suprachiasmatic-nucleus-dorsomedial-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11913,14 +11913,14 @@ suprachiasmatic nucleus dorsomedial part
 suprachiasmatic nucleus ventrolateral part
 ------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart``
 
    :definition: 'Suprachiasmatic nucleus ventrolateral part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
    :synonyms: SCHv, suprachiasmatic nucleus ventrolateral part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027771
    :InterLex ID: http://uri.interlex.org/base/ilx_0111345
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0027771#suprachiasmatic-nucleus-ventrolateral-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11929,14 +11929,14 @@ suprachiasmatic nucleus ventrolateral part
 suprageniculate nucleus of thalamus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/suprageniculateNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/suprageniculateNucleusOfThalamus``
 
    :definition: 'Suprageniculate nucleus of thalamus' is a nucleus of brain.
    :synonyms: nucleus suprageniculatus, SG, suprageniculate nucleus, suprageniculate thalamic nucleus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003033
    :InterLex ID: http://uri.interlex.org/base/ilx_0111347
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003033#suprageniculate-nucleus
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11945,14 +11945,14 @@ suprageniculate nucleus of thalamus
 supramammillary nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryNucleus``
 
    :definition: 'Supramammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :synonyms: nuclei premamillaris, nucleus premamillaris hypothalami, premamillary nucleus, premammillary nuclei, SuM
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001940
    :InterLex ID: http://uri.interlex.org/base/ilx_0111351
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001940#supramammillary-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -11961,7 +11961,7 @@ supramammillary nucleus
 supramarginal gyrus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/supramarginalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/supramarginalGyrus``
 
    :definition: 'Supramarginal gyrus' is a gyrus. It is part of the parietal lobe.
    :synonyms: anterior part of inferior parietal lobule, BA40, Brodmann area 40, gyrus supramarginalis, inferior parietal lobule (krieg)
@@ -11977,7 +11977,7 @@ supramarginal gyrus
 supraoptic nucleus
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticNucleus``
 
    :definition: 'Supraoptic nucleus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and anterior hypothalamic region.
    :synonyms: general, nucleus supraopticus, nucleus supraopticus hypothalami, nucleus tangentialis (Riley), proper, SO, Supra-optic nucleus, supraoptic nucleus, supraoptic nucleus of hypothalamus, supraoptic nucleus proper (Lenhossek)
@@ -11993,14 +11993,14 @@ supraoptic nucleus
 supraspinal nucleus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus``
 
    :definition: 'Supraspinal nucleus' is a nucleus of medulla oblongata.
    :synonyms: SSp, nucleus substantiae grisea ventralis, nucleus substantiae griseae ventralis, nucleus supraspinalis
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002882
    :InterLex ID: http://uri.interlex.org/base/ilx_0111360
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002882#supraspinal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12009,7 +12009,7 @@ supraspinal nucleus
 taenia tectum of brain
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/taeniaTectumOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/taeniaTectumOfBrain``
 
    :definition: 'Taenia tectum of brain' is a white matter of limbic lobe and stria of telencephalon. It is part of the olfactory bulb and supracallosal gyrus.
    :synonyms: taenia tecta, taenia tectum, tenia tecta, tenia tectum
@@ -12025,7 +12025,7 @@ taenia tectum of brain
 tail of caudate nucleus
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus``
 
    :definition: 'Tail of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :synonyms: cauda (caudatus), cauda nuclei caudati, caudate nuclear tail, tail of the caudate nucleus
@@ -12041,7 +12041,7 @@ tail of caudate nucleus
 tectobulbar tract
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract``
 
    :definition: 'Tectobulbar tract' is a tract of brain. It is part of the medulla oblongata.
    :synonyms: tecto-bulbar tract, tractus tectobulbaris
@@ -12057,14 +12057,14 @@ tectobulbar tract
 tectopontine tract
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract``
 
    :definition: 'Tectopontine tract' is a tract of brain. It is part of the pontine tegmentum.
    :synonyms: fibrae tectopontinae, tectopontine fibers, tectopontine fibres, tractus tectopontinus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002930
    :InterLex ID: http://uri.interlex.org/base/ilx_0111549
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002930#tectopontine-tract-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12073,10 +12073,10 @@ tectopontine tract
 tela choroidea of fourth ventricle
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfFourthVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfFourthVentricle``
 
    :definition: 'Tela choroidea of fourth ventricle' is a tela choroidea. It is part of the fourth ventricle.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005287
    :InterLex ID: http://uri.interlex.org/base/ilx_0727490
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005287#tela-choroidea-of-fourth-ventricle
@@ -12089,7 +12089,7 @@ tela choroidea of fourth ventricle
 telencephalic ventricle
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicVentricle``
 
    :definition: 'Telencephalic ventricle' is a brain ventricle. It is part of the telencephalon.
    :synonyms: forebrain ventricle, lateral ventricle, lateral ventricle of brain, lateral ventricles, LV, tectal ventricle, telencephalic ventricle, telencephalic ventricles, telencephalic vesicle, telencephalon lateral ventricle
@@ -12105,7 +12105,7 @@ telencephalic ventricle
 telencephalon
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon``
 
    :definition: 'Telencephalon' is a regional part of brain. It is part of the forebrain.
    :synonyms: cerebrum, endbrain, supratentorial region
@@ -12121,7 +12121,7 @@ telencephalon
 temporal cortex
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex``
 
    :definition: 'Temporal cortex' is a cortex of cerebral lobe. It is part of the temporal lobe.
    :synonyms: cortex of temporal lobe, gray matter of temporal lobe, temporal lobe cortex, temporal neocortex
@@ -12137,14 +12137,14 @@ temporal cortex
 temporal cortex cingulum
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum``
 
    :definition: The 'temporal cortex cingulum' is a white matter fibre bundle. It is part of cingulum of brain.
    :synonyms: cb-tx, cingulum (temporal gyrus), cingulum bundle in temporal cortex, cingulum bundle in temporal gyrus
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022429
    :InterLex ID: http://uri.interlex.org/base/ilx_0727013
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022429#temporal-cortex-cingulum
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12153,10 +12153,10 @@ temporal cortex cingulum
 temporal lobe
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe``
 
    :definition: Lower lateral part of the cerebral hemisphere. (MSH).
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001871
    :InterLex ID: http://uri.interlex.org/base/ilx_0111590
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001871#temporal-lobe-1
@@ -12169,7 +12169,7 @@ temporal lobe
 temporal operculum
 ------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalOperculum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporalOperculum``
 
    :definition: 'Temporal operculum' is a regional part of brain. It is part of the operculum of brain.
    :synonyms: facies supratemporalis, operculum temporale
@@ -12185,7 +12185,7 @@ temporal operculum
 temporal pole
 -------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalPole
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporalPole``
 
    :definition: 'Temporal pole' is a pole of cerebral hemisphere. It is part of the temporal lobe.
    :synonyms: cerebral cortex, polus temporalis, temporal pole, temporopolar cortex
@@ -12201,7 +12201,7 @@ temporal pole
 temporoparietal junction
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction``
 
    :definition: 'Temporoparietal junction' is a regional part of brain. It is part of the cerebral cortex.
    :synonyms: TPJ, temporoparietal junction
@@ -12217,10 +12217,10 @@ temporoparietal junction
 thalamic complex
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex``
 
    :definition: 'thalamic complex' is a nuclear complex. It is part of the 'gray matter of diencephalon'.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0010225
    :InterLex ID: http://uri.interlex.org/base/ilx_0734352
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0010225#thalamic-complex
@@ -12233,14 +12233,14 @@ thalamic complex
 thalamic fiber tract
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract``
 
    :definition: 'Thalamic fiber tract' is a tract of diencephalon. It is part of the dorsal plus ventral thalamus.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025261
    :InterLex ID: http://uri.interlex.org/base/ilx_0730765
-   :KnowledgeSpace entry: -
-   :description: -
+   :KnowledgeSpace entry: \-
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12249,7 +12249,7 @@ thalamic fiber tract
 thalamic reticular nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicReticularNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicReticularNucleus``
 
    :definition: The thalamic reticular nucleus is part of the ventral thalamus that forms a capsule around the thalamus laterally. It is separated from the thalamus by the external medullary lamina. Reticular cells are GABAergic, and have discoid dendritic arbors in the plane of the nucleus. Thalamic Reticular Nucleus is variously abbreviated TRN, RTN, NRT, and RT. [WP,unvetted].
    :synonyms: nuclei reticulares (thalami), nucleus reticularis, nucleus reticularis thalami, nucleus reticulatus (thalami), nucleus thalamicus reticularis, reticular nuclear group, reticular nucleus, reticular nucleus of thalamus, reticular nucleus of the thalamus, reticular nucleus thalamus (Arnold), reticular nucleus-2, reticular thalamic nucleus, reticular thalamus nucleus, reticulatum thalami (Hassler), Rt
@@ -12265,7 +12265,7 @@ thalamic reticular nucleus
 third ventricle
 ---------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle``
 
    :definition: 'Third ventricle' is a brain ventricle. It is part of the diencephalon.
    :synonyms: 3rd ventricle, 3V, diencephalic ventricle, diencephalic vesicle, ventriculus diencephali, ventriculus tertius cerebri
@@ -12281,10 +12281,10 @@ third ventricle
 tract of brain
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain``
 
    :definition: 'Tract of brain' is an axon tract. It is part of the brain and white matter.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007702
    :InterLex ID: http://uri.interlex.org/base/ilx_0736079
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain
@@ -12297,14 +12297,14 @@ tract of brain
 transverse frontopolar gyri complex
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseFrontopolarGyriComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/transverseFrontopolarGyriComplex``
 
    :definition: 'Transverse frontopolar gyri complex' is a regional part of brain. It is part of the frontal lobe.
    :synonyms: transverse frontopolar gyri, transverse frontopolar gyri complex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0022730
    :InterLex ID: http://uri.interlex.org/base/ilx_0111902
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0022730#transverse-frontopolar-gyri-complex
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12313,7 +12313,7 @@ transverse frontopolar gyri complex
 transverse gyrus of Heschl
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseGyrusOfHeschl
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/transverseGyrusOfHeschl``
 
    :definition: 'Transverse gyrus of Heschl' is a gyrus. It is part of the auditory cortex.
    :synonyms: gyri temporales transversi, Heschl gyrus, Heschl's gyrus, Heshl's gyrus, transverse temporal cortex, transverse temporal gyri, transverse temporal gyrus
@@ -12329,14 +12329,14 @@ transverse gyrus of Heschl
 transverse pontine fibers
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers``
 
    :definition: 'Transverse pontine fibers' is a tract of brain. It is part of the basal part of pons.
    :synonyms: fibrae pontis superficiales, fibrae pontis transversae, fibrae transversae superficiales pontis, superficial transverse fibers of pons, transverse fibers of pons, transverse fibers of the pons, transverse pontine fibers, transverse pontine fibres, transverse pontine tract
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002735
    :InterLex ID: http://uri.interlex.org/base/ilx_0111909
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002735#transverse-pontine-fibers-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12345,7 +12345,7 @@ transverse pontine fibers
 trapezoid body
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody``
 
    :definition: 'Trapezoid body' is a white matter of pontine tegmentum.
    :synonyms: corpus trapezoides, corpus trapezoideum, trapezoid body (Treviranus), tz
@@ -12361,7 +12361,7 @@ trapezoid body
 triangular part of inferior frontal gyrus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus``
 
    :definition: 'Triangular part of inferior frontal gyrus' is part of the inferior frontal gyrus.
    :synonyms: gyrus frontalis inferior, inferior frontal gyrus, pars triangularis, pars triangularis gyri frontalis inferioris, pars triangularis of frontal operculum (Ono), triangular part
@@ -12377,14 +12377,14 @@ triangular part of inferior frontal gyrus
 triangular septal nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus``
 
    :definition: 'Triangular septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :synonyms: nucleus septalis triangularis, nucleus triangularis septi, triangular nucleus of septum, triangular nucleus of the septum, triangular nucleus septum (Cajal), TS
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002977
    :InterLex ID: http://uri.interlex.org/base/ilx_0111955
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002977#triangular-septal-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12393,7 +12393,7 @@ triangular septal nucleus
 trigeminal nerve fibers
 -----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers``
 
    :definition: A nerve fiber that is part of a trigeminal nerve.
    :synonyms: central part of trigeminal nerve, fibrae nervi trigemini, trigeminal nerve fibers, trigeminal nerve tract
@@ -12409,10 +12409,10 @@ trigeminal nerve fibers
 trigeminal nerve root
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot``
 
    :definition: 'Trigeminal nerve root' is a root of cranial nerve. It is part of the metencephalon.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004673
    :InterLex ID: http://uri.interlex.org/base/ilx_0111966
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004673#trigeminal-nerve-root-1
@@ -12425,10 +12425,10 @@ trigeminal nerve root
 trochlear nucleus
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus``
 
    :definition: 'Trochlear nucleus' is a cranial nerve nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002722
    :InterLex ID: http://uri.interlex.org/base/ilx_0112004
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002722#trochlear-nucleus-1
@@ -12441,7 +12441,7 @@ trochlear nucleus
 tuber cinereum
 --------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum``
 
    :definition: 'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
    :synonyms: hypothalamus, tbcn, tuber cinereum area, tuberal area, tuberal area of hypothalamus, tuberal nucleus, tuberal region, tubercle of Rolando
@@ -12457,7 +12457,7 @@ tuber cinereum
 tuberal supraoptic nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus``
 
    :definition: 'Tuberal supraoptic nucleus' is a hypothalamic nucleus. It is part of the supraoptic nucleus.
    :synonyms: SONt, retrochiasmatic subdivision, tuberal supraoptic nucleus
@@ -12473,7 +12473,7 @@ tuberal supraoptic nucleus
 tuberomammillary nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleus``
 
    :definition: 'Tuberomammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body and lateral hypothalamic area.
    :synonyms: caudal magnocellular nucleus, mammilloinfundibular nucleus, mammiloinfundibular nucleus, nucleus tuberomamillaris, nucleus tuberomamillaris hypothalami, TM, tubero-mamillary area, tuberomamillary nucleus, tuberomammillary hypothalamic nucleus, tuberomammillary nucleus, ventral part, ventral tuberomammillary nucleus
@@ -12489,14 +12489,14 @@ tuberomammillary nucleus
 tuberomammillary nucleus dorsal part
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart``
 
    :definition: 'Tuberomammillary nucleus dorsal part' is a regional part of brain. It is part of the tuberomammillary nucleus.
    :synonyms: dorsal part, TMd, tuberomammillary nucleus, tuberomammillary nucleus dorsal part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014593
    :InterLex ID: http://uri.interlex.org/base/ilx_0112052
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014593#tuberomammillary-nucleus-dorsal-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12505,14 +12505,14 @@ tuberomammillary nucleus dorsal part
 tuberomammillary nucleus ventral part
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart``
 
    :definition: 'Tuberomammillary nucleus ventral part' is a regional part of brain. It is part of the tuberomammillary nucleus.
    :synonyms: TMv, tuberomammillary nucleus ventral part
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014594
    :InterLex ID: http://uri.interlex.org/base/ilx_0112057
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014594#tuberomammillary-nucleus-ventral-part-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12521,7 +12521,7 @@ tuberomammillary nucleus ventral part
 uncinate fasciculus
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus``
 
    :definition: 'Uncinate fasciculus' is a fasciculus of brain. It is part of the pontine tegmentum.
    :synonyms: cerebellospinal tract, cerebral uncinate fasciculus, fasciculus fastigio-vestibularis, fastigiobulbar tract, hook bundle of Russell, russell's fasciculus, tractus cerebello-bulbaris, tractus uncinatus, tractus uncinatus (Lewandowsky), unc, uncinate bundle of Russell, uncinate fascicle (Russell), uncinate fasciculus of cerebellum, uncinate fasciculus of pons, uncinate fasciculus of Russell, uncinate fasciculus of the pons, uncinate fasciculus-2
@@ -12537,7 +12537,7 @@ uncinate fasciculus
 uncinate fasciculus of the forebrain
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain``
 
    :definition: 'Uncinate fasciculus of the forebrain' is a regional part of brain. It is part of the white matter of telencephalon.
    :synonyms: uncinate fasciculus of cerebral hemisphere, uncinate fasiculus
@@ -12553,10 +12553,10 @@ uncinate fasciculus of the forebrain
 upper rhombic lip
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip``
 
    :definition: 'Upper rhombic lip' is a regional part of brain. It is part of the rhombomere 1 and rhombic lip.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0009841
    :InterLex ID: http://uri.interlex.org/base/ilx_0732955
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0009841#upper-rhombic-lip
@@ -12569,14 +12569,14 @@ upper rhombic lip
 vagal nerve fiber bundle
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalNerveFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vagalNerveFiberBundle``
 
    :definition: 'Vagal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :synonyms: central part of vagus nerve, fibrae nervi vagi, tenth cranial nerve fibers, vagal nerve fiber bundle, vagal nerve fibers, vagal nerve tract
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006116
    :InterLex ID: http://uri.interlex.org/base/ilx_0112236
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12585,10 +12585,10 @@ vagal nerve fiber bundle
 valvula cerebelli
 -----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli``
 
    :definition: 'Valvula cerebelli' is a regional part of brain. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_2000603
    :InterLex ID: http://uri.interlex.org/base/ilx_0730935
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:2000603#valvula-cerebelli
@@ -12601,10 +12601,10 @@ valvula cerebelli
 vasculature of brain
 --------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain``
 
    :definition: 'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0008998
    :InterLex ID: http://uri.interlex.org/base/ilx_0735625
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain
@@ -12617,14 +12617,14 @@ vasculature of brain
 venous system of brain
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain``
 
    :definition: 'Venous system of brain' is part of the brain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0013146
    :InterLex ID: http://uri.interlex.org/base/ilx_0733246
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12633,7 +12633,7 @@ venous system of brain
 ventral acoustic stria
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria``
 
    :definition: 'Ventral acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :synonyms: VAS, anterior acoustic stria, stria cochlearis anterior, striae acusticae ventralis
@@ -12649,14 +12649,14 @@ ventral acoustic stria
 ventral amygdalofugal projection
 --------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAmygdalofugalProjection
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAmygdalofugalProjection``
 
    :definition: 'Ventral amygdalofugal projection' is a tract of brain. It is part of the cerebral hemisphere white matter.
    :synonyms: projectiones ventrales amygdalae, tractus amygdalofugalis ventralis, vaf, ventral amygdalofugal pathway
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002745
    :InterLex ID: http://uri.interlex.org/base/ilx_0112283
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002745#ventral-amygdalofugal-projection-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12665,7 +12665,7 @@ ventral amygdalofugal projection
 ventral anterior nucleus of thalamus
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus``
 
    :definition: 'Ventral anterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
    :synonyms: nucleus lateropolaris, nucleus ventralis anterior, nucleus ventralis anterior thalami, nucleus ventralis thalami anterior, VA, ventral anterior nucleus, ventral anterior nucleus of thalamus, ventral anterior nucleus of the thalamus, ventral anterior thalamic nucleus, ventroanterior nucleus of the thalamus, ventroanterior thalamic nucleus
@@ -12681,7 +12681,7 @@ ventral anterior nucleus of thalamus
 ventral cochlear nucleus
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCochlearNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCochlearNucleus``
 
    :definition: 'Ventral cochlear nucleus' is a cochlear nucleus.
    :synonyms: accessory cochlear nucleus, anterior cochlear nucleus, c1281209, nucleus acustici accessorici, nucleus cochlearis anterior, nucleus cochlearis ventralis, VCo, ventral cochlear nuclei, ventral cochlear nucleus, ventral coclear nucleus, ventral division of cochlear nucleus
@@ -12697,14 +12697,14 @@ ventral cochlear nucleus
 ventral external arcuate fiber bundle
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralExternalArcuateFiberBundle
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralExternalArcuateFiberBundle``
 
    :definition: 'Ventral external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :synonyms: fibrae arcuatae externae anteriores, fibrae arcuatae externae ventrales, fibrae circumpyramidales, fibre arcuatae superficiales, ventral external arcuate fiber bundle, ventral external arcuate fibers, ventral external arcuate tract
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006097
    :InterLex ID: http://uri.interlex.org/base/ilx_0112301
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006097#ventral-external-arcuate-fiber-bundle-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12713,14 +12713,14 @@ ventral external arcuate fiber bundle
 ventral lateral geniculate nucleus
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus``
 
    :definition: 'Ventral lateral geniculate nucleus' is a nucleus of dorsal thalamus. It is part of the lateral geniculate body.
    :synonyms: corpus geniculatum externum, corpus geniculatum laterale, DLG, dorsal_nucleus_of_lateral_geniculate_body, griseum praegeniculatum, lateral geniculate complex, lateral geniculate nucleus, lateral geniculate nucleus ventral part, nucleus accessorius, nucleus corporis geniculati lateralis, nucleus geniculatus lateralis pars ventralis, nucleus praegeniculatus, nucleus pregeniculatum, nucleus pregeniculatus, nucleus ventralis corporis geniculati lateralis, pars oralis, pars ventralis, praegeniculatum, pregeniculate nucleus, ventral lateral geniculate nucleus, ventral nucleus of lateral geniculate body, ventral part, ventral part (Kolliker), ventral part (kolliker), ventral part (Kvlliker), ventral part of the lateral geniculate complex
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002480
    :InterLex ID: http://uri.interlex.org/base/ilx_0112321
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002480#ventral-nucleus-of-lateral-geniculate-body
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12729,7 +12729,7 @@ ventral lateral geniculate nucleus
 ventral lateral nucleus of thalamus
 -----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus``
 
    :definition: 'Ventral lateral nucleus of thalamus' is a nucleus of dorsal thalamus and nucleus of ventral thalamus. It is part of the ventral nuclear group.
    :synonyms: lateral ventral nucleus of thalamus, lateral-ventral nuclei of thalamus, nuclei ventrales laterales thalami, nucleus ventralis intermedius, nucleus ventralis lateralis, nucleus ventralis lateralis thalami, nucleus ventralis thalami lateralis, nucleus ventrolateralis thalami, ventral lateral complex of thalamus, ventral lateral nuclei of thalamus, ventral lateral nucleus, ventral lateral nucleus of thalamus, ventral lateral thalamic nuclei, ventral lateral thalamic nucleus, ventrolateral complex, ventrolateral thalamic nucleus, VL
@@ -12745,7 +12745,7 @@ ventral lateral nucleus of thalamus
 ventral nuclear group
 ---------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup``
 
    :definition: 'Ventral nuclear group' is a nucleus of dorsal thalamus.
    :synonyms: dorsal thalamus, nuclei ventrales thalami, ventral dorsal thalamic nuclear group, ventral group, ventral group of dorsal thalamus, ventral group of the dorsal thalamus, ventral nuclear group, ventral nuclear group of thalamus, ventral nuclear mass, ventral nuclei of thalamus, ventral thalamus nucleus, ventral tier thalamic nuclei, VNG
@@ -12761,7 +12761,7 @@ ventral nuclear group
 ventral nucleus of lateral lemniscus
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus``
 
    :definition: 'Ventral nucleus of lateral lemniscus' is a brainstem nucleus, nucleus of lateral lemniscus and hindbrain nucleus. It is part of the pontine tegmentum.
    :synonyms: anterior nucleus of lateral lemniscus, nucleus anterior lemnisci lateralis, nucleus lemnisci lateralis pars ventralis, nucleus lemnisci lateralis ventralis, nucleus of the lateral lemniscus, nucleus of the lateral lemniscus ventral part, ventral nucleus of the lateral lemniscus, ventral part, VLL
@@ -12777,7 +12777,7 @@ ventral nucleus of lateral lemniscus
 ventral nucleus of medial geniculate body
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody``
 
    :definition: 'Ventral nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :synonyms: medial geniculate complex, medial geniculate complex ventral part, medial geniculate nucleus, medial geniculate nucleus ventral part, medial nucleus of medial geniculate complex, MGV, nucleus corporis geniculati medialis, nucleus geniculatus medialis fasciculosis (Hassler), nucleus geniculatus medialis fasciculosus (Hassler), nucleus geniculatus medialis pars ventralis, nucleus ventralis corporis geniculati medialis, pars ventralis, ventral nucleus, ventral nucleus of medial geniculate body, ventral nucleus of medial geniculate complex, ventral nucleus of the medial geniculate body, ventral part, ventral principal nucleus of medial geniculate body, VMG
@@ -12793,14 +12793,14 @@ ventral nucleus of medial geniculate body
 ventral nucleus of posterior commissure
 ---------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure``
 
    :definition: 'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :synonyms: Darkshevich nucleus, Darkshevich's nucleus, Dk, nucleus accessorius, nucleus commissurae posterioris (Riley), nucleus Darkschewitsch, nucleus Darkschewitschi, nucleus fasciculi longitudinalis medialis, Nucleus of Darkschewitsch, nucleus of Darkschewitsch (Cajal), nucleus of Darkshevich, nucleus of the posterior commissure (Darkschewitsch)
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002044
    :InterLex ID: http://uri.interlex.org/base/ilx_0107753
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12809,7 +12809,7 @@ ventral nucleus of posterior commissure
 ventral nucleus of trapezoid body
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody``
 
    :definition: 'Ventral nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the periolivary nucleus.
    :synonyms: anterior nucleus of trapezoid body, nucleus anterior corporis trapezoidei, nucleus ventralis corporis trapezoidei, ventral trapezoid nucleus, VNTB
@@ -12825,14 +12825,14 @@ ventral nucleus of trapezoid body
 ventral oculomotor nucleus
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus``
 
    :definition: 'Ventral oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :synonyms: nucleus nervi oculomotorii, nucleus nervi oculomotorii ventrolateralis, pars ventralis, V3, ventral nucleus of oculomotor nuclear complex, ventral oculomotor cell column
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002934
    :InterLex ID: http://uri.interlex.org/base/ilx_0112325
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002934#ventral-oculomotor-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12841,7 +12841,7 @@ ventral oculomotor nucleus
 ventral pallidum
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum``
 
    :definition: A composite structure primarily of forebrain with arguable extension into the midbrain. It is part of the striatopallidal system, which is defined on the basis of neurochemistry and connectivity. It includes the portions of the globus pallidus and the substantia innominata located ventral to the anterior commissure; it extends into the anterior perforated substance and, in some respects, pars reticulata of the substantia nigra. Its boundary with the dorsal pallidum is indistinct in sections stained for Nissl substance (Heimer-95)
    :synonyms: fibrae nervi vagi, globus pallidus ventral part, pallidum ventral region, ventral globus pallidus, ventral pallidum, VP
@@ -12857,7 +12857,7 @@ ventral pallidum
 ventral posterior nucleus of thalamus
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus``
 
    :definition: 'Ventral posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
    :synonyms: nuclei ventrales posteriores, nucleus ventrales posteriores, nucleus ventralis posterior, ventral posterior, ventral posterior complex of the thalamus, ventral posterior nucleus, ventral posterior thalamic nucleus, ventrobasal complex, ventrobasal nucleus, ventroposterior inferior nucleus, ventroposterior nucleus, ventroposterior nucleus of thalamus, VP, VPN
@@ -12873,14 +12873,14 @@ ventral posterior nucleus of thalamus
 ventral posteroinferior nucleus
 -------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus``
 
    :definition: 'Ventral posteroinferior nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :synonyms: inferior part, nuclei ventrales posteriores thalami, nuclei ventrobasales thalami, nucleus thalamicus posteromedialis, nucleus ventralis posterior inferior thalami, nucleus ventrocaudalis parvocellularis extremus (Hassler), pars inferior, ventral posterior, ventral posterior complex of the thalamus, ventral posterior inferior nucleus, ventral posterior inferior nucleus of dorsal thalamus, ventral posterior inferior nucleus of thalamus, ventral posterior inferior thalamic nucleus, ventral posterior nuclei of thalamus, ventral posterior nucleus of thalamus, ventral posterolateral thalamic nucleus, ventroposterior inferior nucleus, ventroposterior inferior thalamic, ventroposterior inferior thalamic nucleus, ventroposterior nucleus, ventroposterior nucleus of thalamus, VPI, VPN
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002939
    :InterLex ID: http://uri.interlex.org/base/ilx_0112335
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002939#ventral-posteroinferior-nucleus-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12889,7 +12889,7 @@ ventral posteroinferior nucleus
 ventral posterolateral nucleus
 ------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosterolateralNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosterolateralNucleus``
 
    :definition: 'Ventral posterolateral nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :synonyms: general, nucleus ventralis posterior lateralis thalami, nucleus ventralis posterolateralis, nucleus ventralis posterolateralis thalami, nucleus ventralis thalami posterior lateralis, posterolateral ventral nucleus of thalamus, posterolateral ventral nucleus of the thalamus, principal part, ventral posterior lateral nucleus, ventral posterior lateral nucleus of dorsal thalamus, ventral posterolateral nucleus of thalamus, ventral posterolateral nucleus of the thalamus, ventral posterolateral nucleus of the thalamus principal part, ventral posterolateral thalamic nucleus, ventroposterior lateral thalamic nucleus, ventroposterolateral nucleus of the thalamus, VPL
@@ -12905,7 +12905,7 @@ ventral posterolateral nucleus
 ventral posteromedial nucleus of thalamus
 -----------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus``
 
    :definition: 'Ventral posteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :synonyms: arcuate nucleus of thalamus, arcuate nucleus of the thalamus, arcuate nucleus-3, general, nucleus arcuatus thalami, nucleus semilunaris thalami, nucleus ventralis posterior medialis thalami, nucleus ventralis posteromedialis, nucleus ventralis posteromedialis thalami, nucleus ventrocaudalis anterior internus (Hassler), posteromedial ventral nucleus, posteromedial ventral nucleus of thalamus, posteromedial ventral nucleus of the thalamus, principal part, semilunar nucleus, thalamic gustatory nucleus, ventral posterior medial nucleus, ventral posterior medial nucleus of dorsal thalamus, ventral posterior medial nucleus of thalamus, ventral posteromedial nucleus of thalamus, ventral posteromedial nucleus of the thalamus, ventral posteromedial nucleus of the thalamus principal part, ventral posteromedial thalamic nucleus, ventroposterior medial thalamic nucleus, ventroposteromedial nucleus of the thalamus, VPM
@@ -12921,7 +12921,7 @@ ventral posteromedial nucleus of thalamus
 ventral striatum
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum``
 
    :definition: 'Ventral striatum' is a gray matter of telencephalon. It is part of the striatum.
    :synonyms: striatum ventral region, striatum ventrale
@@ -12937,10 +12937,10 @@ ventral striatum
 ventral tegmental area
 ----------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea``
 
    :definition: 'Ventral tegmental area' is a regional part of brain. It is part of the midbrain tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002691
    :InterLex ID: http://uri.interlex.org/base/ilx_0112351
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002691#ventral-tegmental-area-1
@@ -12953,14 +12953,14 @@ ventral tegmental area
 ventral tegmental decussation
 -----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation``
 
    :definition: 'Ventral tegmental decussation' is a neural decussation. It is part of the ventral tegmental area.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002615
    :InterLex ID: http://uri.interlex.org/base/ilx_0112354
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002615#ventral-tegmental-decussation-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -12969,7 +12969,7 @@ ventral tegmental decussation
 ventral tegmental nucleus
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalNucleus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalNucleus``
 
    :definition: A nucleus of brain that is part of a ventral tegmental area.
    :synonyms: anterior tegmental nuclei, anterior tegmental nucleus, Deep tegmental nucleus of Gudden, ganglion profundum tegmenti, ganglion tegmenti ventrale, nucleus of Gudden, nucleus tegmentales anteriores, nucleus tegmentalis anterior, nucleus tegmenti ventralis, nucleus ventralis tegmenti, nucleus ventralis tegmenti (Gudden), rostral tegmental nucleus, ventral raphe tegmental nucleus, ventral tegmental nuclei, Ventral tegmental nucleus (Gudden), Ventral tegmental nucleus of Gudden, VTg
@@ -12985,7 +12985,7 @@ ventral tegmental nucleus
 ventral thalamus
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus``
 
    :definition: 'Ventral thalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
    :synonyms: perithalamus, prethalamus, SbTh, subthalamic region, Subthalamus, thalamus ventralis, ventral thalamus
@@ -13001,7 +13001,7 @@ ventral thalamus
 ventral trigeminal tract
 ------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract``
 
    :definition: 'Ventral trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
    :synonyms: anterior trigeminothalamic tract, tractus trigeminalis ventralis, tractus trigeminothalamicus anterior, trigeminal lemniscus-2, ventral crossed tract, ventral secondary ascending tract of V, ventral trigeminal pathway, ventral trigeminal tract, ventral trigeminothalamic tract
@@ -13017,14 +13017,14 @@ ventral trigeminal tract
 ventricular system of brain
 ---------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain``
 
    :definition: 'Ventricular system of brain' is an anatomical system. It is part of the brain and ventricular system of central nervous system.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0005282
    :InterLex ID: http://uri.interlex.org/base/ilx_0731568
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0005282#ventricular-system-of-brain
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -13033,10 +13033,10 @@ ventricular system of brain
 ventricular zone
 ----------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularZone
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularZone``
 
    :definition: 'Ventricular zone' is an anatomical entity. It is part of the brain and ventricular system of central nervous system.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0003053
    :InterLex ID: http://uri.interlex.org/base/ilx_0729517
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0003053#ventricular-zone
@@ -13049,7 +13049,7 @@ ventricular zone
 ventromedial nucleus of hypothalamus
 ------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus``
 
    :definition: 'Ventromedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
    :synonyms: nucleus hypothalamicus ventromedialis, nucleus ventromedialis hypothalami, tuberal nucleus (Ganser), ventrolateral hypothalamic nucleus, ventrolateral nucleus of hypothalamus, ventromedial hypothalamic nucleus, ventromedial hypothalamus, ventromedial nucleus, ventromedial nucleus hypothalamus, ventromedial nucleus of hypothalamus., ventromedial nucleus of the hypothalamus, VMH
@@ -13065,14 +13065,14 @@ ventromedial nucleus of hypothalamus
 vermis of the flocculonodular lobe of the cerebellum
 ----------------------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum``
 
    :definition: 'Vermis of the flocculonodular lobe of the cerebellum' is a cerebellar vermis.
    :synonyms: flocculonodular vermis, vermis of the flocculonodular lobe of the cerebellum
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0024037
    :InterLex ID: http://uri.interlex.org/base/ilx_0112409
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0024037#vermis-of-the-flocculonodular-lobe-of-the-cerebellum-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -13081,14 +13081,14 @@ vermis of the flocculonodular lobe of the cerebellum
 vertical limb of the diagonal band
 ----------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand``
 
    :definition: 'Vertical limb of the diagonal band' is a subdivision of diagonal band.
    :synonyms: crus verticale striae diagonalis, nucleus of the vertical limb of the diagonal band, vertical limb of diagonal band, vertical limb of the diagonal band, Vertical limb of the diagonal band of Broca
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0006124
    :InterLex ID: http://uri.interlex.org/base/ilx_0112424
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006124#vertical-limb-of-the-diagonal-band-1
-   :description: -
+   :description: \-
 
 `BACK TO TOP <UBERONParcellation_>`_
 
@@ -13097,10 +13097,10 @@ vertical limb of the diagonal band
 vessel
 ------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vessel
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vessel``
 
    :definition: 'vessel' is an anatomical conduit.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000055
    :InterLex ID: http://uri.interlex.org/base/ilx_0731576
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0000055#vessel
@@ -13113,7 +13113,7 @@ vessel
 vestibular nuclear complex
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex``
 
    :definition: 'Vestibular nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata.
    :synonyms: nuclei vestibulares, nuclei vestibulares in medulla oblongata, vestibular nuclei, vestibular nuclei in medulla oblongata, vestibular nucleus
@@ -13129,10 +13129,10 @@ vestibular nuclear complex
 vestibulocerebellar tract
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellarTract
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellarTract``
 
    :definition: 'Vestibulocerebellar tract' is a tract of brain. It is part of the pontine tegmentum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002552
    :InterLex ID: http://uri.interlex.org/base/ilx_0112459
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002552#vestibulocerebellar-tract-1
@@ -13145,10 +13145,10 @@ vestibulocerebellar tract
 vestibulocerebellum
 -------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellum``
 
    :definition: 'Vestibulocerebellum' is a regional part of brain. It is part of the cerebellum.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0014642
    :InterLex ID: http://uri.interlex.org/base/ilx_0725946
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0014642#vestibulocerebellum
@@ -13161,7 +13161,7 @@ vestibulocerebellum
 vestibulocochlear nerve root
 ----------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot``
 
    :definition: 'Vestibulocochlear nerve root' is a root of cranial nerve. It is part of the pontine tegmentum.
    :synonyms: 8cn, central part of vestibulocochlear nerve, fibrae nervi statoacustici, root of vestibulocochlear nerve, statoacoustic nerve fibers, vestibular root of vestibulocochlear nerve, vestibulocochlear nerve fibers, vestibulocochlear nerve roots, vestibulocochlear nerve tract
@@ -13177,7 +13177,7 @@ vestibulocochlear nerve root
 white matter lamina of cerebellum
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum``
 
    :definition: 'White matter lamina of cerebellum' is a white matter lamina of neuraxis. It is part of the cerebellum.
    :synonyms: isthmus cinguli, isthmus gyri cingulatus, isthmus gyri cinguli, isthmus of gyrus fornicatus, isthmus of the cingulate gyrus, isthmus-2, lamina alba of cerebellar cortex, laminae albae of cerebellar cortex, white lamina of cerebellum, white laminae of cerebellum
@@ -13193,13 +13193,13 @@ white matter lamina of cerebellum
 white matter of cerebellum
 --------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum``
 
    :definition: 'white matter of cerebellum' is a regional part of the cerebellum. It is a part of the overall brain white matter.
    :synonyms: cerebellar white matter, cerebellum white matter
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002317
    :InterLex ID: http://uri.interlex.org/base/ilx_0101962
-   :KnowledgeSpace entry: -
+   :KnowledgeSpace entry: \-
    :description: Regional part of cerebellum consisting of the myelinated axons lying deep to the granule cell layer, excluding the deep cerebellar nuclei and the cerebellar peduncles. [BIRNLEX:1562]
 
 `BACK TO TOP <UBERONParcellation_>`_
@@ -13209,10 +13209,10 @@ white matter of cerebellum
 white matter of hindbrain
 -------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain``
 
    :definition: 'White matter of hindbrain' is a brain white matter. It is part of the hindbrain.
-   :synonyms: -
+   :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0019258
    :InterLex ID: http://uri.interlex.org/base/ilx_0733772
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0019258#white-matter-of-hindbrain
@@ -13225,7 +13225,7 @@ white matter of hindbrain
 white matter of medulla oblongata
 ---------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMedullaOblongata
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMedullaOblongata``
 
    :definition: A white matter that is part of a medulla oblongata.
    :synonyms: medullary white matter, substantia alba medullae oblongatae, white matter of medulla, white substance of medulla
@@ -13241,7 +13241,7 @@ white matter of medulla oblongata
 white matter of the cerebellar cortex
 -------------------------------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex``
 
    :definition: 'White matter of the cerebellar cortex' is a white matter of metencephalon. It is part of the cerebellar cortex.
    :synonyms: white matter of the cerebellar cortex
@@ -13257,7 +13257,7 @@ white matter of the cerebellar cortex
 zona incerta
 ------------
 
-.. admonition:: https://openminds.ebrains.eu/instances/UBERONParcellation/zonaIncerta
+.. admonition:: ``https://openminds.ebrains.eu/instances/UBERONParcellation/zonaIncerta``
 
    :definition: 'Zona incerta' is a nucleus of ventral thalamus.
    :synonyms: ZI, nucleus of the zona incerta, zona incerta proper
