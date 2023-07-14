@@ -2,7 +2,7 @@
 QuantitativeValueArray
 ######################
 
-:Semantic name:: https://openminds.ebrains.eu/core/QuantitativeValueArray
+:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueArray
 
 A representation of an array of quantitative values, optionally with uncertainties.
 

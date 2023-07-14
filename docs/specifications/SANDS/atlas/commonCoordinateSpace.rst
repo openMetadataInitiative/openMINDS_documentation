@@ -2,7 +2,7 @@
 CommonCoordinateSpace
 #####################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+:Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
 
 
 ------------

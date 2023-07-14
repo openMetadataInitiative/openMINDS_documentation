@@ -2,7 +2,7 @@
 Measurement
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/Measurement
+:Semantic name: https://openminds.ebrains.eu/core/Measurement
 
 Structured information about a measurement performed during a scientific experiment.
 

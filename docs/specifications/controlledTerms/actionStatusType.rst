@@ -2,10 +2,12 @@
 ActionStatusType
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
 
 Structured information about the status of an action.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/actionStatusType.html>`_.
 
 ------------
 

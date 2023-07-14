@@ -2,7 +2,7 @@
 AnatomicalTargetPosition
 ########################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
+:Semantic name: https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
 
 
 ------------

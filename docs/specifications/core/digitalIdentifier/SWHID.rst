@@ -2,7 +2,7 @@
 SWHID
 #####
 
-:Semantic name:: https://openminds.ebrains.eu/core/SWHID
+:Semantic name: https://openminds.ebrains.eu/core/SWHID
 
 
 ------------

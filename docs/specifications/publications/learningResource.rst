@@ -2,7 +2,7 @@
 LearningResource
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/LearningResource
+:Semantic name: https://openminds.ebrains.eu/publications/LearningResource
 
 
 ------------

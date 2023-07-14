@@ -2,7 +2,7 @@
 ParcellationEntityVersion
 #########################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+:Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
 
 
 ------------

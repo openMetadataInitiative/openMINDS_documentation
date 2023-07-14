@@ -2,7 +2,7 @@
 RecordingActivity
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/RecordingActivity
+:Semantic name: https://openminds.ebrains.eu/ephys/RecordingActivity
 
 
 ------------

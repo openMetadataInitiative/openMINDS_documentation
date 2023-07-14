@@ -2,7 +2,7 @@
 QuantitativeRelationAssessment
 ##############################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment
+:Semantic name: https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment
 
 
 ------------

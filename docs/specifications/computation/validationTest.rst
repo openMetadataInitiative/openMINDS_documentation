@@ -2,7 +2,7 @@
 ValidationTest
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/computation/ValidationTest
+:Semantic name: https://openminds.ebrains.eu/computation/ValidationTest
 
 Structured information about the definition of a process for validating a computational model.
 

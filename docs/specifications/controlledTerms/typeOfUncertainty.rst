@@ -2,8 +2,10 @@
 TypeOfUncertainty
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/typeOfUncertainty.html>`_.
 
 ------------
 

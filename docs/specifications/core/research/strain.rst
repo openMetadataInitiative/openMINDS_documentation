@@ -2,7 +2,7 @@
 Strain
 ######
 
-:Semantic name:: https://openminds.ebrains.eu/core/Strain
+:Semantic name: https://openminds.ebrains.eu/core/Strain
 
 
 ------------

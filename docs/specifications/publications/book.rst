@@ -2,7 +2,7 @@
 Book
 ####
 
-:Semantic name:: https://openminds.ebrains.eu/publications/Book
+:Semantic name: https://openminds.ebrains.eu/publications/Book
 
 
 ------------

@@ -2,7 +2,7 @@
 CranialWindowPreparation
 ########################
 
-:Semantic name:: https://openminds.ebrains.eu/specimenPrep/CranialWindowPreparation
+:Semantic name: https://openminds.ebrains.eu/specimenPrep/CranialWindowPreparation
 
 
 ------------

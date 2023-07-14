@@ -2,7 +2,7 @@
 SingleColor
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/sands/SingleColor
+:Semantic name: https://openminds.ebrains.eu/sands/SingleColor
 
 
 ------------

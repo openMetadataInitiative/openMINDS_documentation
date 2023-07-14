@@ -2,8 +2,10 @@
 OrganismSystem
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/organismSystem.html>`_.
 
 ------------
 

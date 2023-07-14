@@ -2,7 +2,7 @@
 CustomAnnotation
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CustomAnnotation
+:Semantic name: https://openminds.ebrains.eu/sands/CustomAnnotation
 
 
 ------------

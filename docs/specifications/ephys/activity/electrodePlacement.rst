@@ -2,7 +2,7 @@
 ElectrodePlacement
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodePlacement
+:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodePlacement
 
 
 ------------

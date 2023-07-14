@@ -2,7 +2,7 @@
 WorkflowRecipe
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/computation/WorkflowRecipe
+:Semantic name: https://openminds.ebrains.eu/computation/WorkflowRecipe
 
 Structured information about the description of a prospective workflow.
 

@@ -2,7 +2,7 @@
 SoftwareAgent
 #############
 
-:Semantic name:: https://openminds.ebrains.eu/computation/SoftwareAgent
+:Semantic name: https://openminds.ebrains.eu/computation/SoftwareAgent
 
 Structured information about a piece of software or web service that can perform a task autonomously.
 

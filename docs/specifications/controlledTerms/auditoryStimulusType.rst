@@ -2,8 +2,10 @@
 AuditoryStimulusType
 ####################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/auditoryStimulusType.html>`_.
 
 ------------
 

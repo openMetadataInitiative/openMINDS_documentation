@@ -2,7 +2,7 @@
 StimulationActivity
 ###################
 
-:Semantic name:: https://openminds.ebrains.eu/stimulation/StimulationActivity
+:Semantic name: https://openminds.ebrains.eu/stimulation/StimulationActivity
 
 
 ------------

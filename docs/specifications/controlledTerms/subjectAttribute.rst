@@ -2,8 +2,10 @@
 SubjectAttribute
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/subjectAttribute.html>`_.
 
 ------------
 

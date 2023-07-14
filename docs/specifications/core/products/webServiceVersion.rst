@@ -2,7 +2,7 @@
 WebServiceVersion
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/WebServiceVersion
+:Semantic name: https://openminds.ebrains.eu/core/WebServiceVersion
 
 
 ------------

@@ -2,7 +2,7 @@
 Setup
 #####
 
-:Semantic name:: https://openminds.ebrains.eu/core/Setup
+:Semantic name: https://openminds.ebrains.eu/core/Setup
 
 
 ------------

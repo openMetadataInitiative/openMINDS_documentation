@@ -2,7 +2,7 @@
 ScholarlyArticle
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/ScholarlyArticle
+:Semantic name: https://openminds.ebrains.eu/publications/ScholarlyArticle
 
 
 ------------

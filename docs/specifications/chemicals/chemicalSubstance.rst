@@ -2,7 +2,7 @@
 ChemicalSubstance
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
+:Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
 
 Structured information about a chemical substance.
 

@@ -2,7 +2,7 @@
 Chapter
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/publications/Chapter
+:Semantic name: https://openminds.ebrains.eu/publications/Chapter
 
 
 ------------

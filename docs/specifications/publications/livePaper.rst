@@ -2,7 +2,7 @@
 LivePaper
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/publications/LivePaper
+:Semantic name: https://openminds.ebrains.eu/publications/LivePaper
 
 
 ------------

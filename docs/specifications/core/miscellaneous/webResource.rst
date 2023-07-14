@@ -2,7 +2,7 @@
 WebResource
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/WebResource
+:Semantic name: https://openminds.ebrains.eu/core/WebResource
 
 
 ------------

@@ -2,7 +2,7 @@
 ModelValidation
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/computation/ModelValidation
+:Semantic name: https://openminds.ebrains.eu/computation/ModelValidation
 
 Structured information about a process of validating a computational model.
 

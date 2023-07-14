@@ -2,10 +2,12 @@
 FileUsageRole
 #############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
 
 Structured information on the usage role of a file instance or bundle.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/fileUsageRole.html>`_.
 
 ------------
 

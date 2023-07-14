@@ -2,7 +2,7 @@
 CommonCoordinateSpaceVersion
 ############################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+:Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
 
 
 ------------

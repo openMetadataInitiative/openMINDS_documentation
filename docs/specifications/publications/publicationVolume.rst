@@ -2,7 +2,7 @@
 PublicationVolume
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/PublicationVolume
+:Semantic name: https://openminds.ebrains.eu/publications/PublicationVolume
 
 
 ------------

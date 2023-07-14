@@ -2,7 +2,7 @@
 TissueSampleSlicing
 ###################
 
-:Semantic name:: https://openminds.ebrains.eu/specimenPrep/TissueSampleSlicing
+:Semantic name: https://openminds.ebrains.eu/specimenPrep/TissueSampleSlicing
 
 
 ------------

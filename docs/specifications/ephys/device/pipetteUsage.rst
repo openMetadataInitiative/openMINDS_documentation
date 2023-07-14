@@ -2,7 +2,7 @@
 PipetteUsage
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/PipetteUsage
+:Semantic name: https://openminds.ebrains.eu/ephys/PipetteUsage
 
 
 ------------

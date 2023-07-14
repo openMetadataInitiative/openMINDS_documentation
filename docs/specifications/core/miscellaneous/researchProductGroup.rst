@@ -2,7 +2,7 @@
 ResearchProductGroup
 ####################
 
-:Semantic name:: https://openminds.ebrains.eu/core/ResearchProductGroup
+:Semantic name: https://openminds.ebrains.eu/core/ResearchProductGroup
 
 
 ------------

@@ -2,7 +2,7 @@
 FileArchive
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/FileArchive
+:Semantic name: https://openminds.ebrains.eu/core/FileArchive
 
 
 ------------

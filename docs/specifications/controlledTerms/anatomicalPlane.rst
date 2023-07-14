@@ -2,8 +2,10 @@
 AnatomicalPlane
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalPlane.html>`_.
 
 ------------
 

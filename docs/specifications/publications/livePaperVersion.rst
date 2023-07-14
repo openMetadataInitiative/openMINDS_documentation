@@ -2,7 +2,7 @@
 LivePaperVersion
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/LivePaperVersion
+:Semantic name: https://openminds.ebrains.eu/publications/LivePaperVersion
 
 
 ------------

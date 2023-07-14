@@ -2,7 +2,7 @@
 Simulation
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/computation/Simulation
+:Semantic name: https://openminds.ebrains.eu/computation/Simulation
 
 Structured information about a process of running simulations of a computational model.
 

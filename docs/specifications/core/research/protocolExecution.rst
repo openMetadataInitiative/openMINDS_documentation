@@ -2,7 +2,7 @@
 ProtocolExecution
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/ProtocolExecution
+:Semantic name: https://openminds.ebrains.eu/core/ProtocolExecution
 
 Structured information on a protocol execution.
 

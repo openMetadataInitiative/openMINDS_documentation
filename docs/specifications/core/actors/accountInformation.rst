@@ -2,7 +2,7 @@
 AccountInformation
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/core/AccountInformation
+:Semantic name: https://openminds.ebrains.eu/core/AccountInformation
 
 Structured information about a user account for a web service.
 

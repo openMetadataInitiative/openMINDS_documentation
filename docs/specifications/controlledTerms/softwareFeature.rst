@@ -2,8 +2,10 @@
 SoftwareFeature
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/softwareFeature.html>`_.
 
 ------------
 

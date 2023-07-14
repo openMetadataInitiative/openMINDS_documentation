@@ -2,7 +2,7 @@
 FileRepository
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/core/FileRepository
+:Semantic name: https://openminds.ebrains.eu/core/FileRepository
 
 Structured information on a file repository.
 

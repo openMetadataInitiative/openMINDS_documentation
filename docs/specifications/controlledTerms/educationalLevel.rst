@@ -2,8 +2,10 @@
 EducationalLevel
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/educationalLevel.html>`_.
 
 ------------
 

@@ -2,7 +2,7 @@
 Ellipse
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Ellipse
+:Semantic name: https://openminds.ebrains.eu/sands/Ellipse
 
 
 ------------

@@ -2,7 +2,7 @@
 PublicationIssue
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/PublicationIssue
+:Semantic name: https://openminds.ebrains.eu/publications/PublicationIssue
 
 
 ------------

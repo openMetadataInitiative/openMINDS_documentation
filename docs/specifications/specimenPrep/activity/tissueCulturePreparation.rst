@@ -2,7 +2,7 @@
 TissueCulturePreparation
 ########################
 
-:Semantic name:: https://openminds.ebrains.eu/specimenPrep/TissueCulturePreparation
+:Semantic name: https://openminds.ebrains.eu/specimenPrep/TissueCulturePreparation
 
 
 ------------

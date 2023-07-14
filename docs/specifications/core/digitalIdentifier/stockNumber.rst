@@ -2,7 +2,7 @@
 StockNumber
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/StockNumber
+:Semantic name: https://openminds.ebrains.eu/core/StockNumber
 
 
 ------------

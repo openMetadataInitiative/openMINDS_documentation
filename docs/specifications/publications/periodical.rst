@@ -2,7 +2,7 @@
 Periodical
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/publications/Periodical
+:Semantic name: https://openminds.ebrains.eu/publications/Periodical
 
 
 ------------

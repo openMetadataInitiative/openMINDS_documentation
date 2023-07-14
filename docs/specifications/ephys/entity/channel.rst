@@ -2,7 +2,7 @@
 Channel
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/Channel
+:Semantic name: https://openminds.ebrains.eu/ephys/Channel
 
 
 ------------

@@ -2,7 +2,7 @@
 StringProperty
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/core/StringProperty
+:Semantic name: https://openminds.ebrains.eu/core/StringProperty
 
 
 ------------

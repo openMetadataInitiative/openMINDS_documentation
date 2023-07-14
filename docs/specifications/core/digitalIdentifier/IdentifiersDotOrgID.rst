@@ -2,7 +2,7 @@
 IdentifiersDotOrgID
 ###################
 
-:Semantic name:: https://openminds.ebrains.eu/core/IdentifiersDotOrgID
+:Semantic name: https://openminds.ebrains.eu/core/IdentifiersDotOrgID
 
 
 ------------

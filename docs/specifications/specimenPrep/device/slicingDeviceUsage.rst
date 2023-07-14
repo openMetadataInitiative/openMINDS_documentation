@@ -2,7 +2,7 @@
 SlicingDeviceUsage
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
+:Semantic name: https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
 
 
 ------------

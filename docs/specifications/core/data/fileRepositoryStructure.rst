@@ -2,7 +2,7 @@
 FileRepositoryStructure
 #######################
 
-:Semantic name:: https://openminds.ebrains.eu/core/FileRepositoryStructure
+:Semantic name: https://openminds.ebrains.eu/core/FileRepositoryStructure
 
 
 ------------

@@ -2,7 +2,7 @@
 WebService
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/core/WebService
+:Semantic name: https://openminds.ebrains.eu/core/WebService
 
 
 ------------

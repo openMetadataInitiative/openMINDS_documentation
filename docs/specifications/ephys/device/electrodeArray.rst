@@ -2,7 +2,7 @@
 ElectrodeArray
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeArray
+:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeArray
 
 
 ------------

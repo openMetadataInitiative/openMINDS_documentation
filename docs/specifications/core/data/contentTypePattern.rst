@@ -2,7 +2,7 @@
 ContentTypePattern
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/core/ContentTypePattern
+:Semantic name: https://openminds.ebrains.eu/core/ContentTypePattern
 
 
 ------------

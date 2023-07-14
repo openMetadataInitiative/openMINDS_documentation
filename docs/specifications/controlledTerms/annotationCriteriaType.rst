@@ -2,8 +2,10 @@
 AnnotationCriteriaType
 ######################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/annotationCriteriaType.html>`_.
 
 ------------
 

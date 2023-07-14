@@ -2,7 +2,7 @@
 ElectrodeUsage
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeUsage
+:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeUsage
 
 
 ------------

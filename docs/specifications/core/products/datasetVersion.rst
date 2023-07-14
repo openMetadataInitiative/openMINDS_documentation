@@ -2,7 +2,7 @@
 DatasetVersion
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/core/DatasetVersion
+:Semantic name: https://openminds.ebrains.eu/core/DatasetVersion
 
 Structured information on data originating from human/animal studies or simulations (version level).
 

@@ -2,7 +2,7 @@
 CellPatching
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/CellPatching
+:Semantic name: https://openminds.ebrains.eu/ephys/CellPatching
 
 
 ------------

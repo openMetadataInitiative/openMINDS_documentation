@@ -2,7 +2,7 @@
 CustomAnatomicalEntity
 ######################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
+:Semantic name: https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
 
 
 ------------

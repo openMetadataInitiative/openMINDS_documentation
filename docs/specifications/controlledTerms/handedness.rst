@@ -2,8 +2,10 @@
 Handedness
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/Handedness
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/Handedness
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/handedness.html>`_.
 
 ------------
 

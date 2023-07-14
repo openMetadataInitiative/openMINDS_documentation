@@ -2,8 +2,10 @@
 DataType
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/DataType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/DataType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/dataType.html>`_.
 
 ------------
 

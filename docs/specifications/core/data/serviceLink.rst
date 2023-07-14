@@ -2,7 +2,7 @@
 ServiceLink
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/ServiceLink
+:Semantic name: https://openminds.ebrains.eu/core/ServiceLink
 
 
 ------------

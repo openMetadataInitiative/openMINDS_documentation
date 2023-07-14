@@ -2,8 +2,10 @@
 StimulationTechnique
 ####################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/stimulationTechnique.html>`_.
 
 ------------
 

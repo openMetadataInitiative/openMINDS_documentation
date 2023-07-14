@@ -2,7 +2,7 @@
 Electrode
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/Electrode
+:Semantic name: https://openminds.ebrains.eu/ephys/Electrode
 
 
 ------------

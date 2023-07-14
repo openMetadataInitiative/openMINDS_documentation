@@ -2,7 +2,7 @@
 TissueSample
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/core/TissueSample
+:Semantic name: https://openminds.ebrains.eu/core/TissueSample
 
 Structured information on a tissue sample.
 

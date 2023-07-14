@@ -2,7 +2,7 @@
 SoftwareVersion
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/core/SoftwareVersion
+:Semantic name: https://openminds.ebrains.eu/core/SoftwareVersion
 
 
 ------------

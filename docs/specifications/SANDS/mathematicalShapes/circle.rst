@@ -2,7 +2,7 @@
 Circle
 ######
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Circle
+:Semantic name: https://openminds.ebrains.eu/sands/Circle
 
 
 ------------

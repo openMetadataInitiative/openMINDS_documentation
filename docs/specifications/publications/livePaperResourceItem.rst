@@ -2,7 +2,7 @@
 LivePaperResourceItem
 #####################
 
-:Semantic name:: https://openminds.ebrains.eu/publications/LivePaperResourceItem
+:Semantic name: https://openminds.ebrains.eu/publications/LivePaperResourceItem
 
 
 ------------

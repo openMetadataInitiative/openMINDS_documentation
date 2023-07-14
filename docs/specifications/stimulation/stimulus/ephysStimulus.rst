@@ -2,7 +2,7 @@
 EphysStimulus
 #############
 
-:Semantic name:: https://openminds.ebrains.eu/stimulation/EphysStimulus
+:Semantic name: https://openminds.ebrains.eu/stimulation/EphysStimulus
 
 
 ------------

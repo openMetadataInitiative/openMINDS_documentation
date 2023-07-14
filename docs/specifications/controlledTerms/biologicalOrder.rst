@@ -2,8 +2,10 @@
 BiologicalOrder
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/biologicalOrder.html>`_.
 
 ------------
 

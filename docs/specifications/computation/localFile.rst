@@ -2,7 +2,7 @@
 LocalFile
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/computation/LocalFile
+:Semantic name: https://openminds.ebrains.eu/computation/LocalFile
 
 Structured information about a file that is not accessible via a URL.
 

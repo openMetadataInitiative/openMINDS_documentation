@@ -2,7 +2,7 @@
 ParcellationEntity
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationEntity
+:Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntity
 
 
 ------------

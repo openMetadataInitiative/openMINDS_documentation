@@ -2,8 +2,10 @@
 CellCultureType
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/CellCultureType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/CellCultureType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/cellCultureType.html>`_.
 
 ------------
 

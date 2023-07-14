@@ -2,7 +2,7 @@
 ContentType
 ###########
 
-:Semantic name:: https://openminds.ebrains.eu/core/ContentType
+:Semantic name: https://openminds.ebrains.eu/core/ContentType
 
 Structured information on the content type of a file instance, bundle or repository.
 

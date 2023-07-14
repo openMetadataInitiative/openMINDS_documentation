@@ -2,7 +2,7 @@
 License
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/core/License
+:Semantic name: https://openminds.ebrains.eu/core/License
 
 Structured information on a used license.
 

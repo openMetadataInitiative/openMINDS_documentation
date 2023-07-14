@@ -2,7 +2,7 @@
 Rectangle
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Rectangle
+:Semantic name: https://openminds.ebrains.eu/sands/Rectangle
 
 
 ------------

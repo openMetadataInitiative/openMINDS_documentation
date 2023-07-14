@@ -2,7 +2,7 @@
 ElectrodeArrayUsage
 ###################
 
-:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
+:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
 
 
 ------------

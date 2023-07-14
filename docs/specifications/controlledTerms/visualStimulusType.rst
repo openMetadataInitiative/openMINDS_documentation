@@ -2,8 +2,10 @@
 VisualStimulusType
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/visualStimulusType.html>`_.
 
 ------------
 

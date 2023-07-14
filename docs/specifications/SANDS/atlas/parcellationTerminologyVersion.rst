@@ -2,7 +2,7 @@
 ParcellationTerminologyVersion
 ##############################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion
+:Semantic name: https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion
 
 
 ------------

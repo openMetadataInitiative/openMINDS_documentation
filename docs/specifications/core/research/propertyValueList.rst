@@ -2,7 +2,7 @@
 PropertyValueList
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/PropertyValueList
+:Semantic name: https://openminds.ebrains.eu/core/PropertyValueList
 
 An identifiable list of property-value pairs.
 

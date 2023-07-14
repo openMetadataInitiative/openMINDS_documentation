@@ -2,7 +2,7 @@
 ProductSource
 #############
 
-:Semantic name:: https://openminds.ebrains.eu/chemicals/ProductSource
+:Semantic name: https://openminds.ebrains.eu/chemicals/ProductSource
 
 Structured information about the source of a chemical substance or mixture.
 

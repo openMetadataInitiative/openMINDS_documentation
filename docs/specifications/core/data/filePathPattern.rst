@@ -2,7 +2,7 @@
 FilePathPattern
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/core/FilePathPattern
+:Semantic name: https://openminds.ebrains.eu/core/FilePathPattern
 
 
 ------------

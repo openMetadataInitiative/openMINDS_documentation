@@ -2,7 +2,7 @@
 ValidationTestVersion
 #####################
 
-:Semantic name:: https://openminds.ebrains.eu/computation/ValidationTestVersion
+:Semantic name: https://openminds.ebrains.eu/computation/ValidationTestVersion
 
 Structured information about a specific implementation of a validation test.
 

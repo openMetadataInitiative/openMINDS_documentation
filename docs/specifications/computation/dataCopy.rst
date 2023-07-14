@@ -2,7 +2,7 @@
 DataCopy
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/computation/DataCopy
+:Semantic name: https://openminds.ebrains.eu/computation/DataCopy
 
 
 ------------
