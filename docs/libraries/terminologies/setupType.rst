@@ -16,7 +16,9 @@ acquisition system
    :semantic name: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
    :definition: An 'acquisition system' is a setup type with the purpose of collecting data.
    :description: \-
-   | ------------
+   ------------
+   ------------
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +36,9 @@ computing system
    :semantic name: https://openminds.ebrains.eu/instances/setupType/computingSystem
    :definition: A 'computing system' is a setup type with the purpose of performing computations.
    :description: \-
-   | ------------
+   ------------
+   ------------
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +56,9 @@ stimulation system
    :semantic name: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
    :definition: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
    :description: \-
-   | ------------
+   ------------
+   ------------
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

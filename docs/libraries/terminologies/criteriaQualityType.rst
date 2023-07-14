@@ -16,7 +16,9 @@ asserted
    :semantic name: https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
    :definition: If a criteria is 'asserted' it is based on an opinion or claim, usually made by an expert.
    :description: \-
-   | ------------
+   ------------
+   ------------
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +36,9 @@ processive
    :semantic name: https://openminds.ebrains.eu/instances/criteriaQualityType/processive
    :definition: If a criteria is 'processive' it is based on a repeatable and often automated process.
    :description: \-
-   | ------------
+   ------------
+   ------------
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
