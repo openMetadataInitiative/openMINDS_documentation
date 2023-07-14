@@ -11,15 +11,16 @@ All instances listed below can be validated against the `Language <https://openm
 Dutch
 -----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/dutch
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/dutch
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -28,15 +29,16 @@ Dutch
 English
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/english
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/english
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -45,15 +47,16 @@ English
 French
 ------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/french
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/french
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -62,15 +65,16 @@ French
 German
 ------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/german
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/german
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -79,15 +83,16 @@ German
 Greek
 -----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/greek
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/greek
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -96,15 +101,16 @@ Greek
 Italian
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/italian
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/italian
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -113,15 +119,16 @@ Italian
 Norwegian
 ---------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/norwegian
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/norwegian
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -130,15 +137,16 @@ Norwegian
 Spanish
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/spanish
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/spanish
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 
@@ -147,15 +155,16 @@ Spanish
 Swedish
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/language/swedish
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/language/swedish
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <language_>`_
 

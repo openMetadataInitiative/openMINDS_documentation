@@ -11,15 +11,16 @@ All instances listed below can be validated against the `FileBundleGrouping <htt
 behavioral protocol
 -------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -28,15 +29,16 @@ behavioral protocol
 coordinate space
 ----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -45,15 +47,16 @@ coordinate space
 protocol
 --------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -62,15 +65,16 @@ protocol
 study target
 ------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -79,15 +83,16 @@ study target
 subject
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -96,15 +101,16 @@ subject
 subject group
 -------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -113,15 +119,16 @@ subject group
 technique
 ---------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -130,15 +137,16 @@ technique
 tissue sample
 -------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -147,15 +155,16 @@ tissue sample
 tissue sample collection
 ------------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 

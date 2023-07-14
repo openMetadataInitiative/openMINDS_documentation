@@ -11,15 +11,16 @@ All instances listed below can be validated against the `ProgrammingLanguage <ht
 AMPL
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
-   :definition:: \-
-   :synonyms:: A Mathematical Programming Language
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: A Mathematical Programming Language
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -28,15 +29,16 @@ AMPL
 Bash
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q189248
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q189248
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -45,15 +47,16 @@ Bash
 C
 -
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/C
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q15777
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q15777
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -62,15 +65,16 @@ C
 C#
 --
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/C#
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q2370
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C#
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q2370
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -79,15 +83,16 @@ C#
 C++
 ---
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/C++
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q2407
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C++
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q2407
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -96,15 +101,16 @@ C++
 Fortran
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q83303
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q83303
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -113,15 +119,16 @@ Fortran
 GLSL
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q779819
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q779819
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -130,15 +137,16 @@ GLSL
 HTML
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q8811
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q8811
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -147,15 +155,16 @@ HTML
 Java
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Java
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q251
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Java
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q251
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -164,15 +173,16 @@ Java
 JavaScript
 ----------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q2005
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q2005
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -181,15 +191,16 @@ JavaScript
 MATLAB
 ------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q37805571
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q37805571
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -198,15 +209,16 @@ MATLAB
 PHP
 ---
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q59
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q59
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -215,15 +227,16 @@ PHP
 Pascal
 ------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q81571
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q81571
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -232,15 +245,16 @@ Pascal
 Python
 ------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Python
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q28865
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Python
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q28865
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -249,15 +263,16 @@ Python
 R
 -
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/R
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q206904
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/R
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q206904
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -266,15 +281,16 @@ R
 Ruby
 ----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q161053
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q161053
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -283,15 +299,16 @@ Ruby
 Scala
 -----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q460584
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q460584
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -300,15 +317,16 @@ Scala
 T-SQL
 -----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1411245
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q1411245
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -317,15 +335,16 @@ T-SQL
 TypeScript
 ----------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q978185
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q978185
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 
@@ -334,15 +353,16 @@ TypeScript
 Shell
 -----
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/programmingLanguage/shell
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q14663
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/shell
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q14663
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <programmingLanguage_>`_
 

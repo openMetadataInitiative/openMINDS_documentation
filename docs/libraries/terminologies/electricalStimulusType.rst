@@ -11,15 +11,16 @@ All instances listed below can be validated against the `ElectricalStimulusType 
 direct current
 --------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
-   :definition:: \-
-   :synonyms:: DC
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: DC
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <electricalStimulusType_>`_
 

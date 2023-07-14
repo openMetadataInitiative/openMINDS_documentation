@@ -11,15 +11,16 @@ All instances listed below can be validated against the `SetupType <https://open
 acquisition system
 ------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
-   :definition:: An 'acquisition system' is a setup type with the purpose of collecting data.
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
+   :definition: An 'acquisition system' is a setup type with the purpose of collecting data.
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <setupType_>`_
 
@@ -28,15 +29,16 @@ acquisition system
 computing system
 ----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/setupType/computingSystem
-   :definition:: A 'computing system' is a setup type with the purpose of performing computations.
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/setupType/computingSystem
+   :definition: A 'computing system' is a setup type with the purpose of performing computations.
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <setupType_>`_
 
@@ -45,15 +47,16 @@ computing system
 stimulation system
 ------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
-   :definition:: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
+   :definition: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <setupType_>`_
 

@@ -11,15 +11,16 @@ All instances listed below can be validated against the `SoftwareFeature <https:
 3D geometry data types
 ----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q189177
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q189177
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -28,15 +29,16 @@ All instances listed below can be validated against the `SoftwareFeature <https:
 3D scalar data types
 --------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -45,15 +47,16 @@ All instances listed below can be validated against the `SoftwareFeature <https:
 3D vector data types
 --------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -62,15 +65,16 @@ All instances listed below can be validated against the `SoftwareFeature <https:
 augmented reality
 -----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q254183
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q254183
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -79,15 +83,16 @@ augmented reality
 commandline interface
 ---------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q189053
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q189053
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -96,15 +101,16 @@ commandline interface
 control
 -------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/control
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q29017603
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/control
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q29017603
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -113,15 +119,16 @@ control
 data acquisition
 ----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -130,15 +137,16 @@ data acquisition
 data processing
 ---------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q6661985
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q6661985
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -147,15 +155,16 @@ data processing
 desktop environment
 -------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q56155
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q56155
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -164,15 +173,16 @@ desktop environment
 graph data types
 ----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q2479726
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q2479726
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -181,15 +191,16 @@ graph data types
 graphical user interface
 ------------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q782543
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q782543
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -198,15 +209,16 @@ graphical user interface
 heterogeneous architecture
 --------------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q17111997
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q17111997
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -215,15 +227,16 @@ heterogeneous architecture
 interactive analysis
 --------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -232,15 +245,16 @@ interactive analysis
 matrix data types
 -----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q44337
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q44337
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -249,15 +263,16 @@ matrix data types
 metadata data types
 -------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q180160
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q180160
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -266,15 +281,16 @@ metadata data types
 mobile device
 -------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q5082128
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q5082128
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -283,15 +299,16 @@ mobile device
 modelling
 ---------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/modelling
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1116876
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/modelling
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q1116876
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -300,15 +317,16 @@ modelling
 parallel programming
 --------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q232661
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q232661
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -317,15 +335,16 @@ parallel programming
 performance measurement
 -----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1771949
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q1771949
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -334,15 +353,16 @@ performance measurement
 positional data types
 ---------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1477538
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q1477538
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -351,15 +371,16 @@ positional data types
 presentation visualisation
 --------------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q451553
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q451553
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -368,15 +389,16 @@ presentation visualisation
 profiling
 ---------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/profiling
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1138496
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/profiling
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q1138496
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -385,15 +407,16 @@ profiling
 provenance
 ----------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/provenance
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q30105403
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/provenance
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q30105403
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -402,15 +425,16 @@ provenance
 raster image data types
 -----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q182270
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q182270
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -419,15 +443,16 @@ raster image data types
 scripting interface
 -------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -436,15 +461,16 @@ scripting interface
 simulation
 ----------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/simulation
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q925667
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/simulation
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q925667
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -453,15 +479,16 @@ simulation
 statistical data types
 ----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q7604387
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q7604387
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -470,15 +497,16 @@ statistical data types
 tensor data types
 -----------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q188524
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q188524
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -487,15 +515,16 @@ tensor data types
 tiled display wall
 ------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -504,15 +533,16 @@ tiled display wall
 time series data types
 ----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q186588
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q186588
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -521,15 +551,16 @@ time series data types
 vector image data types
 -----------------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q170130
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q170130
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 
@@ -538,15 +569,16 @@ vector image data types
 virtual reality
 ---------------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
-   :definition:: \-
-   :synonyms:: \-
-   :preferred ontology ID:: https://www.wikidata.org/wiki/Q170519
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
+   :definition: \-
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: https://www.wikidata.org/wiki/Q170519
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <softwareFeature_>`_
 

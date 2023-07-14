@@ -11,15 +11,16 @@ All instances listed below can be validated against the `OlfactoryStimulusType <
 floral odor
 -----------
 
-.. admonition:: metadata
+.. admonition:: metadata sheet
 
-   :semantic name:: https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
-   :definition:: Any chemical compound that smells floral.
-   :synonyms:: \-
-   :preferred ontology ID:: \-
-   :InterLex ID:: \-
-   :KnowledgeSpace entry:: \-
-   :description:: \-
+   :semantic name: https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
+   :definition: Any chemical compound that smells floral.
+   :description: \-
+   ------------
+   :synonyms: \-
+   :preferred ontology ID: \-
+   :InterLex ID: \-
+   :KnowledgeSpace entry: \-
 
 `BACK TO TOP <olfactoryStimulusType_>`_
 
