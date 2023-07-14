@@ -114,8 +114,11 @@ class InstancesDocBuilder(object):
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            name = "".join([name[0].capitalize(), name[1:]])
-            doc.heading(f"{name}", char="#", overline=True)
+            name_CamelCase = "".join([name[0].capitalize(), name[1:]])
+            doc.heading(f"{name_CamelCase}", char="#", overline=True)
+            doc.newline()
+            schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", "controlledTerms", f"{name}.html")
+            doc.content(f"All instances listed below can be validated against the `{name_CamelCase} schema specification <{schema_link}>`_.")
             doc.newline()
             doc.content("------------")
             doc.newline()
