@@ -137,7 +137,6 @@ class InstancesDocBuilder(object):
                 doc.field(name="description", value=description, indent=field_list_indent)
                 doc.content("------------", indent=field_list_indent)
                 doc.content("------------", indent=field_list_indent)
-                doc.content("------------", indent=field_list_indent)
                 synonym = ", ".join(term_data["synonym"]) if "synonym" in term_data and term_data["synonym"] else "\-"
                 doc.field(name="synonyms", value=synonym, indent=field_list_indent)
                 ontologyID = term_data["preferredOntologyIdentifier"] if "preferredOntologyIdentifier" in term_data and term_data["preferredOntologyIdentifier"] else "\-"
