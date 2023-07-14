@@ -2,18 +2,17 @@
 CoordinatePoint
 ###############
 
-https://openminds.ebrains.eu/sands/CoordinatePoint
---------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/CoordinatePoint
 
 Structured information on a coordinate point.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `coordinateSpace <coordinateSpace_heading_>`_, `coordinates <coordinates_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _coordinateSpace_heading:
 
+***************
 coordinateSpace
----------------
+***************
 
 Two or three dimensional geometric setting.
 
@@ -40,8 +40,9 @@ Two or three dimensional geometric setting.
 
 .. _coordinates_heading:
 
+***********
 coordinates
------------
+***********
 
 Pair or triplet of numbers defining a location in a given coordinate space.
 

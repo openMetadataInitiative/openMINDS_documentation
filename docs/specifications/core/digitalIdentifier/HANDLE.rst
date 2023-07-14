@@ -2,18 +2,17 @@
 HANDLE
 ######
 
-https://openminds.ebrains.eu/core/HANDLE
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/HANDLE
 
 A persistent identifier for an information resource provided by the Handle System of the Corporation for National Research Initiatives.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

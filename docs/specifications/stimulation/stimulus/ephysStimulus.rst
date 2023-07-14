@@ -2,16 +2,15 @@
 EphysStimulus
 #############
 
-https://openminds.ebrains.eu/stimulation/EphysStimulus
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/stimulation/EphysStimulus
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required:
 :Optional: `type <type_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

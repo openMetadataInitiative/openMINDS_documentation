@@ -2,18 +2,17 @@
 Measurement
 ###########
 
-https://openminds.ebrains.eu/core/Measurement
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Measurement
 
 Structured information about a measurement performed during a scientific experiment.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `measuredQuantity <measuredQuantity_heading_>`_, `value <value_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `measuredWith <measuredWith_heading_>`_, `timestamp <timestamp_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -40,8 +40,9 @@ Mention of what deserves additional attention or notice.
 
 .. _measuredQuantity_heading:
 
+****************
 measuredQuantity
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -56,8 +57,9 @@ measuredQuantity
 
 .. _measuredWith_heading:
 
+************
 measuredWith
-------------
+************
 
 .. admonition:: specifications
 
@@ -72,8 +74,9 @@ measuredWith
 
 .. _timestamp_heading:
 
+*********
 timestamp
----------
+*********
 
 .. admonition:: specifications
 
@@ -88,8 +91,9 @@ timestamp
 
 .. _value_heading:
 
+*****
 value
------
+*****
 
 Entry for a property.
 

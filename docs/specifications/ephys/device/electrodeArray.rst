@@ -2,16 +2,15 @@
 ElectrodeArray
 ##############
 
-https://openminds.ebrains.eu/ephys/ElectrodeArray
--------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeArray
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `deviceType <deviceType_heading_>`_, `electrodeIdentifier <electrodeIdentifier_heading_>`_, `name <name_heading_>`_, `numberOfElectrodes <numberOfElectrodes_heading_>`_
 :Optional: `conductorMaterial <conductorMaterial_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `insulatorMaterial <insulatorMaterial_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `intrinsicResistance <intrinsicResistance_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `manufacturer <manufacturer_heading_>`_, `owner <owner_heading_>`_, `serialNumber <serialNumber_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _conductorMaterial_heading:
 
+*****************
 conductorMaterial
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ conductorMaterial
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -54,8 +55,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _deviceType_heading:
 
+**********
 deviceType
-----------
+**********
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ deviceType
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -88,8 +91,9 @@ Digital handle to identify objects or legal persons.
 
 .. _electrodeIdentifier_heading:
 
+*******************
 electrodeIdentifier
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -104,8 +108,9 @@ electrodeIdentifier
 
 .. _insulatorMaterial_heading:
 
+*****************
 insulatorMaterial
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -120,8 +125,9 @@ insulatorMaterial
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -138,8 +144,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _intrinsicResistance_heading:
 
+*******************
 intrinsicResistance
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -154,8 +161,9 @@ intrinsicResistance
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -170,8 +178,9 @@ lookupLabel
 
 .. _manufacturer_heading:
 
+************
 manufacturer
-------------
+************
 
 .. admonition:: specifications
 
@@ -186,8 +195,9 @@ manufacturer
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -204,8 +214,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _numberOfElectrodes_heading:
 
+******************
 numberOfElectrodes
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -219,8 +230,9 @@ numberOfElectrodes
 
 .. _owner_heading:
 
+*****
 owner
------
+*****
 
 .. admonition:: specifications
 
@@ -235,8 +247,9 @@ owner
 
 .. _serialNumber_heading:
 
+************
 serialNumber
-------------
+************
 
 .. admonition:: specifications
 

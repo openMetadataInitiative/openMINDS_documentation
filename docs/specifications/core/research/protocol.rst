@@ -2,18 +2,17 @@
 Protocol
 ########
 
-https://openminds.ebrains.eu/core/Protocol
-------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Protocol
 
 Structured information on a research project.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_, `technique <technique_heading_>`_
 :Optional: `describedIn <describedIn_heading_>`_, `stimulusType <stimulusType_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _describedIn_heading:
 
+***********
 describedIn
------------
+***********
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ describedIn
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -56,8 +57,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -74,8 +76,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _stimulusType_heading:
 
+************
 stimulusType
-------------
+************
 
 .. admonition:: specifications
 
@@ -90,8 +93,9 @@ stimulusType
 
 .. _technique_heading:
 
+*********
 technique
----------
+*********
 
 Method of accomplishing a desired aim.
 

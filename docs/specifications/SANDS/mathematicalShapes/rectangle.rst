@@ -2,16 +2,15 @@
 Rectangle
 #########
 
-https://openminds.ebrains.eu/sands/Rectangle
---------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Rectangle
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `length <length_heading_>`_, `width <width_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _length_heading:
 
+******
 length
-------
+******
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ length
 
 .. _width_heading:
 
+*****
 width
------
+*****
 
 .. admonition:: specifications
 

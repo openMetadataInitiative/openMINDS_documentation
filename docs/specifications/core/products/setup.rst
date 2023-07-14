@@ -2,16 +2,15 @@
 Setup
 #####
 
-https://openminds.ebrains.eu/core/Setup
----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Setup
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `hasPart <hasPart_heading_>`_, `name <name_heading_>`_
 :Optional: `location <location_heading_>`_, `manufacturer <manufacturer_heading_>`_, `type <type_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -38,8 +38,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _hasPart_heading:
 
+*******
 hasPart
--------
+*******
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ hasPart
 
 .. _location_heading:
 
+********
 location
---------
+********
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ location
 
 .. _manufacturer_heading:
 
+************
 manufacturer
-------------
+************
 
 .. admonition:: specifications
 
@@ -86,8 +89,9 @@ manufacturer
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -104,8 +108,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

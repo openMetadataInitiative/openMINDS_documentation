@@ -2,18 +2,17 @@
 HardwareSystem
 ##############
 
-https://openminds.ebrains.eu/computation/HardwareSystem
--------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/HardwareSystem
 
 Structured information about computing hardware.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `description <description_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -40,8 +40,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -58,8 +59,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 

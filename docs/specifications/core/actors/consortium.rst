@@ -2,18 +2,17 @@
 Consortium
 ##########
 
-https://openminds.ebrains.eu/core/Consortium
---------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Consortium
 
 Structured information about an association of two or more persons or organizations, with the objective of participating in a common activity.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `fullName <fullName_heading_>`_
 :Optional: `contactInformation <contactInformation_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _contactInformation_heading:
 
+******************
 contactInformation
-------------------
+******************
 
 Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
 
@@ -40,8 +40,9 @@ Any available way used to contact a person or business (e.g., address, phone num
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -58,8 +59,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -76,8 +78,9 @@ Main website of something or someone.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

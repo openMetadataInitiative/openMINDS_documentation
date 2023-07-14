@@ -2,18 +2,17 @@
 QuantitativeValueRange
 ######################
 
-https://openminds.ebrains.eu/core/QuantitativeValueRange
---------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/QuantitativeValueRange
 
 A representation of a range of quantitative values.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `maxValue <maxValue_heading_>`_, `minValue <minValue_heading_>`_
 :Optional: `maxValueUnit <maxValueUnit_heading_>`_, `minValueUnit <minValueUnit_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _maxValue_heading:
 
+********
 maxValue
---------
+********
 
 Greatest quantity attained or allowed.
 
@@ -39,8 +39,9 @@ Greatest quantity attained or allowed.
 
 .. _maxValueUnit_heading:
 
+************
 maxValueUnit
-------------
+************
 
 .. admonition:: specifications
 
@@ -55,8 +56,9 @@ maxValueUnit
 
 .. _minValue_heading:
 
+********
 minValue
---------
+********
 
 Smallest quantity attained or allowed.
 
@@ -72,8 +74,9 @@ Smallest quantity attained or allowed.
 
 .. _minValueUnit_heading:
 
+************
 minValueUnit
-------------
+************
 
 .. admonition:: specifications
 

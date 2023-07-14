@@ -2,16 +2,15 @@
 ContentTypePattern
 ##################
 
-https://openminds.ebrains.eu/core/ContentTypePattern
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ContentTypePattern
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `contentType <contentType_heading_>`_, `regex <regex_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _contentType_heading:
 
+***********
 contentType
------------
+***********
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ contentType
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ lookupLabel
 
 .. _regex_heading:
 
+*****
 regex
------
+*****
 
 .. admonition:: specifications
 

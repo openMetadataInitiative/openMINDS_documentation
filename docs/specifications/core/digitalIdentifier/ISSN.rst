@@ -2,18 +2,17 @@
 ISSN
 ####
 
-https://openminds.ebrains.eu/core/ISSN
---------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ISSN
 
 An International Standard Serial Number of the ISSN International Centre.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

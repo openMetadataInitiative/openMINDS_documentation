@@ -2,16 +2,15 @@
 ViewerSpecification
 ###################
 
-https://openminds.ebrains.eu/sands/ViewerSpecification
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ViewerSpecification
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `anchorPoint <anchorPoint_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `cameraPosition <cameraPosition_heading_>`_, `preferredDisplayColor <preferredDisplayColor_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -38,8 +38,9 @@ Mention of what deserves additional attention or notice.
 
 .. _anchorPoint_heading:
 
+***********
 anchorPoint
------------
+***********
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ anchorPoint
 
 .. _cameraPosition_heading:
 
+**************
 cameraPosition
---------------
+**************
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ cameraPosition
 
 .. _preferredDisplayColor_heading:
 
+*********************
 preferredDisplayColor
----------------------
+*********************
 
 .. admonition:: specifications
 

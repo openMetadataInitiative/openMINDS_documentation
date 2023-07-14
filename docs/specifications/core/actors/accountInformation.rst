@@ -2,18 +2,17 @@
 AccountInformation
 ##################
 
-https://openminds.ebrains.eu/core/AccountInformation
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/AccountInformation
 
 Structured information about a user account for a web service.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `service <service_heading_>`_, `userName <userName_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _service_heading:
 
+*******
 service
--------
+*******
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ service
 
 .. _userName_heading:
 
+********
 userName
---------
+********
 
 .. admonition:: specifications
 

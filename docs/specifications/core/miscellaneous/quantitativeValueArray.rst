@@ -2,18 +2,17 @@
 QuantitativeValueArray
 ######################
 
-https://openminds.ebrains.eu/core/QuantitativeValueArray
---------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/QuantitativeValueArray
 
 A representation of an array of quantitative values, optionally with uncertainties.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `values <values_heading_>`_
 :Optional: `negativeUncertainties <negativeUncertainties_heading_>`_, `positiveUncertainties <positiveUncertainties_heading_>`_, `typeOfUncertainty <typeOfUncertainty_heading_>`_, `unit <unit_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _negativeUncertainties_heading:
 
+*********************
 negativeUncertainties
----------------------
+*********************
 
 .. admonition:: specifications
 
@@ -37,8 +37,9 @@ negativeUncertainties
 
 .. _positiveUncertainties_heading:
 
+*********************
 positiveUncertainties
----------------------
+*********************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ positiveUncertainties
 
 .. _typeOfUncertainty_heading:
 
+*****************
 typeOfUncertainty
------------------
+*****************
 
 Distinct technique used to quantify the uncertainty of a measurement.
 
@@ -70,8 +72,9 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
 .. _unit_heading:
 
+****
 unit
-----
+****
 
 Determinate quantity adopted as a standard of measurement.
 
@@ -88,8 +91,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. _values_heading:
 
+******
 values
-------
+******
 
 .. admonition:: specifications
 

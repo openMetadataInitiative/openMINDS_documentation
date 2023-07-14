@@ -2,16 +2,15 @@
 ParcellationTerminologyVersion
 ##############################
 
-https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion
------------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `hasEntity <hasEntity_heading_>`_
 :Optional: `dataLocation <dataLocation_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _dataLocation_heading:
 
+************
 dataLocation
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ dataLocation
 
 .. _hasEntity_heading:
 
+*********
 hasEntity
----------
+*********
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ hasEntity
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 

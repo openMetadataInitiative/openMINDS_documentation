@@ -2,16 +2,15 @@
 PublicationIssue
 ################
 
-https://openminds.ebrains.eu/publications/PublicationIssue
-----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/PublicationIssue
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `isPartOf <isPartOf_heading_>`_, `issueNumber <issueNumber_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -38,8 +38,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _issueNumber_heading:
 
+***********
 issueNumber
------------
+***********
 
 .. admonition:: specifications
 

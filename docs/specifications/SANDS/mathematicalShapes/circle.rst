@@ -2,16 +2,15 @@
 Circle
 ######
 
-https://openminds.ebrains.eu/sands/Circle
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Circle
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `radius <radius_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _radius_heading:
 
+******
 radius
-------
+******
 
 .. admonition:: specifications
 

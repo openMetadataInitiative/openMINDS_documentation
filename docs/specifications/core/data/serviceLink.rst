@@ -2,16 +2,15 @@
 ServiceLink
 ###########
 
-https://openminds.ebrains.eu/core/ServiceLink
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ServiceLink
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `dataLocation <dataLocation_heading_>`_, `openDataIn <openDataIn_heading_>`_, `service <service_heading_>`_
 :Optional: `displayLabel <displayLabel_heading_>`_, `previewImage <previewImage_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _dataLocation_heading:
 
+************
 dataLocation
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ dataLocation
 
 .. _displayLabel_heading:
 
+************
 displayLabel
-------------
+************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ displayLabel
 
 .. _openDataIn_heading:
 
+**********
 openDataIn
-----------
+**********
 
 .. admonition:: specifications
 
@@ -68,8 +70,9 @@ openDataIn
 
 .. _previewImage_heading:
 
+************
 previewImage
-------------
+************
 
 .. admonition:: specifications
 
@@ -84,8 +87,9 @@ previewImage
 
 .. _service_heading:
 
+*******
 service
--------
+*******
 
 .. admonition:: specifications
 

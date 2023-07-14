@@ -2,16 +2,15 @@
 PipetteUsage
 ############
 
-https://openminds.ebrains.eu/ephys/PipetteUsage
------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/PipetteUsage
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_, `pipetteSolution <pipetteSolution_heading_>`_
 :Optional: `anatomicalLocation <anatomicalLocation_heading_>`_, `chlorideReversalPotential <chlorideReversalPotential_heading_>`_, `compensationCurrent <compensationCurrent_heading_>`_, `endMembranePotential <endMembranePotential_heading_>`_, `holdingPotential <holdingPotential_heading_>`_, `inputResistance <inputResistance_heading_>`_, `labelingCompound <labelingCompound_heading_>`_, `liquidJunctionPotential <liquidJunctionPotential_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `pipetteResistance <pipetteResistance_heading_>`_, `sealResistance <sealResistance_heading_>`_, `seriesResistance <seriesResistance_heading_>`_, `spatialLocation <spatialLocation_heading_>`_, `startMembranePotential <startMembranePotential_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anatomicalLocation_heading:
 
+******************
 anatomicalLocation
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ anatomicalLocation
 
 .. _chlorideReversalPotential_heading:
 
+*************************
 chlorideReversalPotential
--------------------------
+*************************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ chlorideReversalPotential
 
 .. _compensationCurrent_heading:
 
+*******************
 compensationCurrent
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -68,8 +70,9 @@ compensationCurrent
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -86,8 +89,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _endMembranePotential_heading:
 
+********************
 endMembranePotential
---------------------
+********************
 
 .. admonition:: specifications
 
@@ -102,8 +106,9 @@ endMembranePotential
 
 .. _holdingPotential_heading:
 
+****************
 holdingPotential
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -118,8 +123,9 @@ holdingPotential
 
 .. _inputResistance_heading:
 
+***************
 inputResistance
----------------
+***************
 
 .. admonition:: specifications
 
@@ -134,8 +140,9 @@ inputResistance
 
 .. _labelingCompound_heading:
 
+****************
 labelingCompound
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -150,8 +157,9 @@ labelingCompound
 
 .. _liquidJunctionPotential_heading:
 
+***********************
 liquidJunctionPotential
------------------------
+***********************
 
 .. admonition:: specifications
 
@@ -166,8 +174,9 @@ liquidJunctionPotential
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -182,8 +191,9 @@ lookupLabel
 
 .. _metadataLocation_heading:
 
+****************
 metadataLocation
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -198,8 +208,9 @@ metadataLocation
 
 .. _pipetteResistance_heading:
 
+*****************
 pipetteResistance
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -214,8 +225,9 @@ pipetteResistance
 
 .. _pipetteSolution_heading:
 
+***************
 pipetteSolution
----------------
+***************
 
 .. admonition:: specifications
 
@@ -230,8 +242,9 @@ pipetteSolution
 
 .. _sealResistance_heading:
 
+**************
 sealResistance
---------------
+**************
 
 .. admonition:: specifications
 
@@ -246,8 +259,9 @@ sealResistance
 
 .. _seriesResistance_heading:
 
+****************
 seriesResistance
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -262,8 +276,9 @@ seriesResistance
 
 .. _spatialLocation_heading:
 
+***************
 spatialLocation
----------------
+***************
 
 .. admonition:: specifications
 
@@ -278,8 +293,9 @@ spatialLocation
 
 .. _startMembranePotential_heading:
 
+**********************
 startMembranePotential
-----------------------
+**********************
 
 .. admonition:: specifications
 
@@ -294,8 +310,9 @@ startMembranePotential
 
 .. _usedSpecimen_heading:
 
+************
 usedSpecimen
-------------
+************
 
 .. admonition:: specifications
 

@@ -2,16 +2,15 @@
 Strain
 ######
 
-https://openminds.ebrains.eu/core/Strain
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Strain
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `geneticStrainType <geneticStrainType_heading_>`_, `name <name_heading_>`_, `species <species_heading_>`_
 :Optional: `alternateIdentifier <alternateIdentifier_heading_>`_, `backgroundStrain <backgroundStrain_heading_>`_, `breedingType <breedingType_heading_>`_, `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `diseaseModel <diseaseModel_heading_>`_, `laboratoryCode <laboratoryCode_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `phenotype <phenotype_heading_>`_, `stockNumber <stockNumber_heading_>`_, `synonym <synonym_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _alternateIdentifier_heading:
 
+*******************
 alternateIdentifier
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ alternateIdentifier
 
 .. _backgroundStrain_heading:
 
+****************
 backgroundStrain
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ backgroundStrain
 
 .. _breedingType_heading:
 
+************
 breedingType
-------------
+************
 
 .. admonition:: specifications
 
@@ -68,8 +70,9 @@ breedingType
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -86,8 +89,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -104,8 +108,9 @@ Digital handle to identify objects or legal persons.
 
 .. _diseaseModel_heading:
 
+************
 diseaseModel
-------------
+************
 
 .. admonition:: specifications
 
@@ -120,8 +125,9 @@ diseaseModel
 
 .. _geneticStrainType_heading:
 
+*****************
 geneticStrainType
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -136,8 +142,9 @@ geneticStrainType
 
 .. _laboratoryCode_heading:
 
+**************
 laboratoryCode
---------------
+**************
 
 .. admonition:: specifications
 
@@ -152,8 +159,9 @@ laboratoryCode
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -170,8 +178,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -188,8 +197,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _phenotype_heading:
 
+*********
 phenotype
----------
+*********
 
 Physical expression of one or more genes of an organism.
 
@@ -206,8 +216,9 @@ Physical expression of one or more genes of an organism.
 
 .. _species_heading:
 
+*******
 species
--------
+*******
 
 Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
@@ -224,8 +235,9 @@ Category of biological classification comprising related organisms or population
 
 .. _stockNumber_heading:
 
+***********
 stockNumber
------------
+***********
 
 .. admonition:: specifications
 
@@ -240,8 +252,9 @@ stockNumber
 
 .. _synonym_heading:
 
+*******
 synonym
--------
+*******
 
 Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
 

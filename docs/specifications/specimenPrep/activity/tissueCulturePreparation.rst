@@ -2,16 +2,15 @@
 TissueCulturePreparation
 ########################
 
-https://openminds.ebrains.eu/specimenPrep/TissueCulturePreparation
-------------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/specimenPrep/TissueCulturePreparation
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `cultureMedium <cultureMedium_heading_>`_, `cultureType <cultureType_heading_>`_
 :Optional: `input <input_heading_>`_, `output <output_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _cultureMedium_heading:
 
+*************
 cultureMedium
--------------
+*************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ cultureMedium
 
 .. _cultureType_heading:
 
+***********
 cultureType
------------
+***********
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ cultureType
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -70,8 +72,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 

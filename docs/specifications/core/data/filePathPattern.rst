@@ -2,16 +2,15 @@
 FilePathPattern
 ###############
 
-https://openminds.ebrains.eu/core/FilePathPattern
--------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/FilePathPattern
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `groupingType <groupingType_heading_>`_, `regex <regex_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _groupingType_heading:
 
+************
 groupingType
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ groupingType
 
 .. _regex_heading:
 
+*****
 regex
------
+*****
 
 .. admonition:: specifications
 

@@ -2,16 +2,15 @@
 ElectrodeArrayUsage
 ###################
 
-https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_
 :Optional: `anatomicalLocationOfArray <anatomicalLocationOfArray_heading_>`_, `anatomicalLocationOfElectrodes <anatomicalLocationOfElectrodes_heading_>`_, `contactResistances <contactResistances_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `spatialLocationOfElectrodes <spatialLocationOfElectrodes_heading_>`_, `usedElectrode <usedElectrode_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anatomicalLocationOfArray_heading:
 
+*************************
 anatomicalLocationOfArray
--------------------------
+*************************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ anatomicalLocationOfArray
 
 .. _anatomicalLocationOfElectrodes_heading:
 
+******************************
 anatomicalLocationOfElectrodes
-------------------------------
+******************************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ anatomicalLocationOfElectrodes
 
 .. _contactResistances_heading:
 
+******************
 contactResistances
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -68,8 +70,9 @@ contactResistances
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -86,8 +89,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -102,8 +106,9 @@ lookupLabel
 
 .. _metadataLocation_heading:
 
+****************
 metadataLocation
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -118,8 +123,9 @@ metadataLocation
 
 .. _spatialLocationOfElectrodes_heading:
 
+***************************
 spatialLocationOfElectrodes
----------------------------
+***************************
 
 .. admonition:: specifications
 
@@ -134,8 +140,9 @@ spatialLocationOfElectrodes
 
 .. _usedElectrode_heading:
 
+*************
 usedElectrode
--------------
+*************
 
 .. admonition:: specifications
 
@@ -150,8 +157,9 @@ usedElectrode
 
 .. _usedSpecimen_heading:
 
+************
 usedSpecimen
-------------
+************
 
 .. admonition:: specifications
 

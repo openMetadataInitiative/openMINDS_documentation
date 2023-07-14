@@ -2,18 +2,17 @@
 LocalFile
 #########
 
-https://openminds.ebrains.eu/computation/LocalFile
---------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/LocalFile
 
 Structured information about a file that is not accessible via a URL.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_, `path <path_heading_>`_
 :Optional: `contentDescription <contentDescription_heading_>`_, `copyOf <copyOf_heading_>`_, `dataType <dataType_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _contentDescription_heading:
 
+******************
 contentDescription
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ contentDescription
 
 .. _copyOf_heading:
 
+******
 copyOf
-------
+******
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ copyOf
 
 .. _dataType_heading:
 
+********
 dataType
---------
+********
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ dataType
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 
@@ -88,8 +91,9 @@ Method of digitally organizing and structuring data or information.
 
 .. _hash_heading:
 
+****
 hash
-----
+****
 
 Term used for the process of converting any data into a single value. Often also directly refers to the resulting single value.
 
@@ -106,8 +110,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -124,8 +129,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _path_heading:
 
+****
 path
-----
+****
 
 .. admonition:: specifications
 
@@ -140,8 +146,9 @@ path
 
 .. _specialUsageRole_heading:
 
+****************
 specialUsageRole
-----------------
+****************
 
 Particular function of something when it is used.
 
@@ -158,8 +165,9 @@ Particular function of something when it is used.
 
 .. _storageSize_heading:
 
+***********
 storageSize
------------
+***********
 
 Quantitative value defining how much disk space is used by an object on a computer system.
 

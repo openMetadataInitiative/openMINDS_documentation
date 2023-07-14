@@ -2,16 +2,15 @@
 CustomAnnotation
 ################
 
-https://openminds.ebrains.eu/sands/CustomAnnotation
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/CustomAnnotation
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
 :Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anchorPoint_heading:
 
+***********
 anchorPoint
------------
+***********
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ anchorPoint
 
 .. _coordinateSpace_heading:
 
+***************
 coordinateSpace
----------------
+***************
 
 Two or three dimensional geometric setting.
 
@@ -54,8 +55,9 @@ Two or three dimensional geometric setting.
 
 .. _criteria_heading:
 
+********
 criteria
---------
+********
 
 Aspects or standards on which a judgement or decision is based.
 
@@ -72,8 +74,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. _criteriaQualityType_heading:
 
+*******************
 criteriaQualityType
--------------------
+*******************
 
 Distinct class that defines how the judgement or decision was made for a particular criteria.
 
@@ -90,8 +93,9 @@ Distinct class that defines how the judgement or decision was made for a particu
 
 .. _criteriaType_heading:
 
+************
 criteriaType
-------------
+************
 
 .. admonition:: specifications
 
@@ -106,8 +110,9 @@ criteriaType
 
 .. _inspiredBy_heading:
 
+**********
 inspiredBy
-----------
+**********
 
 Reference to an inspiring element.
 
@@ -124,8 +129,9 @@ Reference to an inspiring element.
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -142,8 +148,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _laterality_heading:
 
+**********
 laterality
-----------
+**********
 
 Differentiation between a pair of lateral homologous parts of the body.
 
@@ -160,8 +167,9 @@ Differentiation between a pair of lateral homologous parts of the body.
 
 .. _preferredVisualization_heading:
 
+**********************
 preferredVisualization
-----------------------
+**********************
 
 .. admonition:: specifications
 
@@ -176,8 +184,9 @@ preferredVisualization
 
 .. _specification_heading:
 
+*************
 specification
--------------
+*************
 
 Detailed and precise presentation of, or proposal for something.
 
@@ -194,8 +203,9 @@ Detailed and precise presentation of, or proposal for something.
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

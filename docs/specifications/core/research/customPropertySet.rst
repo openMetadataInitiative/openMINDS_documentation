@@ -2,18 +2,17 @@
 CustomPropertySet
 #################
 
-https://openminds.ebrains.eu/core/CustomPropertySet
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/CustomPropertySet
 
 Structured information about properties of an entity that are not represented in an openMINDS schema.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `context <context_heading_>`_, `dataLocation <dataLocation_heading_>`_, `relevantFor <relevantFor_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _context_heading:
 
+*******
 context
--------
+*******
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ context
 
 .. _dataLocation_heading:
 
+************
 dataLocation
-------------
+************
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ dataLocation
 
 .. _relevantFor_heading:
 
+***********
 relevantFor
------------
+***********
 
 Reference to what or whom something or someone bears siginificance.
 

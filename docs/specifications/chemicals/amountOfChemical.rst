@@ -2,18 +2,17 @@
 AmountOfChemical
 ################
 
-https://openminds.ebrains.eu/chemicals/AmountOfChemical
--------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/chemicals/AmountOfChemical
 
 Structured information about the amount of a given chemical that was used.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `chemicalProduct <chemicalProduct_heading_>`_
 :Optional: `amount <amount_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _amount_heading:
 
+******
 amount
-------
+******
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ amount
 
 .. _chemicalProduct_heading:
 
+***************
 chemicalProduct
----------------
+***************
 
 .. admonition:: specifications
 

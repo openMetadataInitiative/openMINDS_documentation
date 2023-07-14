@@ -2,16 +2,15 @@
 Recording
 #########
 
-https://openminds.ebrains.eu/ephys/Recording
---------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/Recording
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `channel <channel_heading_>`_, `dataLocation <dataLocation_heading_>`_, `recordedWith <recordedWith_heading_>`_, `samplingFrequency <samplingFrequency_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `name <name_heading_>`_, `previousRecording <previousRecording_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -38,8 +38,9 @@ Mention of what deserves additional attention or notice.
 
 .. _channel_heading:
 
+*******
 channel
--------
+*******
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ channel
 
 .. _dataLocation_heading:
 
+************
 dataLocation
-------------
+************
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ dataLocation
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -88,8 +91,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -106,8 +110,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _previousRecording_heading:
 
+*****************
 previousRecording
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -122,8 +127,9 @@ previousRecording
 
 .. _recordedWith_heading:
 
+************
 recordedWith
-------------
+************
 
 .. admonition:: specifications
 
@@ -138,8 +144,9 @@ recordedWith
 
 .. _samplingFrequency_heading:
 
+*****************
 samplingFrequency
------------------
+*****************
 
 .. admonition:: specifications
 

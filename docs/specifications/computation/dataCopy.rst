@@ -2,16 +2,15 @@
 DataCopy
 ########
 
-https://openminds.ebrains.eu/computation/DataCopy
--------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/DataCopy
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `environment <environment_heading_>`_, `input <input_heading_>`_, `output <output_heading_>`_, `startTime <startTime_heading_>`_
 :Optional: `customPropertySet <customPropertySet_heading_>`_, `description <description_heading_>`_, `endTime <endTime_heading_>`_, `launchConfiguration <launchConfiguration_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `performedBy <performedBy_heading_>`_, `recipe <recipe_heading_>`_, `resourceUsage <resourceUsage_heading_>`_, `startedBy <startedBy_heading_>`_, `status <status_heading_>`_, `studyTarget <studyTarget_heading_>`_, `tag <tag_heading_>`_, `technique <technique_heading_>`_, `wasInformedBy <wasInformedBy_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _customPropertySet_heading:
 
+*****************
 customPropertySet
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ customPropertySet
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -54,8 +55,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _endTime_heading:
 
+*******
 endTime
--------
+*******
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ endTime
 
 .. _environment_heading:
 
+***********
 environment
------------
+***********
 
 .. admonition:: specifications
 
@@ -86,8 +89,9 @@ environment
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -104,8 +108,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _launchConfiguration_heading:
 
+*******************
 launchConfiguration
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -120,8 +125,9 @@ launchConfiguration
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -136,8 +142,9 @@ lookupLabel
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 
@@ -154,8 +161,9 @@ Something or someone that comes out of, is delivered or produced by a process or
 
 .. _performedBy_heading:
 
+***********
 performedBy
------------
+***********
 
 .. admonition:: specifications
 
@@ -170,8 +178,9 @@ performedBy
 
 .. _recipe_heading:
 
+******
 recipe
-------
+******
 
 .. admonition:: specifications
 
@@ -186,8 +195,9 @@ recipe
 
 .. _resourceUsage_heading:
 
+*************
 resourceUsage
--------------
+*************
 
 .. admonition:: specifications
 
@@ -202,8 +212,9 @@ resourceUsage
 
 .. _startTime_heading:
 
+*********
 startTime
----------
+*********
 
 .. admonition:: specifications
 
@@ -218,8 +229,9 @@ startTime
 
 .. _startedBy_heading:
 
+*********
 startedBy
----------
+*********
 
 .. admonition:: specifications
 
@@ -234,8 +246,9 @@ startedBy
 
 .. _status_heading:
 
+******
 status
-------
+******
 
 .. admonition:: specifications
 
@@ -250,8 +263,9 @@ status
 
 .. _studyTarget_heading:
 
+***********
 studyTarget
------------
+***********
 
 Structure or function that was targeted within a study.
 
@@ -268,8 +282,9 @@ Structure or function that was targeted within a study.
 
 .. _tag_heading:
 
+***
 tag
----
+***
 
 .. admonition:: specifications
 
@@ -284,8 +299,9 @@ tag
 
 .. _technique_heading:
 
+*********
 technique
----------
+*********
 
 Method of accomplishing a desired aim.
 
@@ -302,8 +318,9 @@ Method of accomplishing a desired aim.
 
 .. _wasInformedBy_heading:
 
+*************
 wasInformedBy
--------------
+*************
 
 .. admonition:: specifications
 

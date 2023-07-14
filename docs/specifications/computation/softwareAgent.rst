@@ -2,18 +2,17 @@
 SoftwareAgent
 #############
 
-https://openminds.ebrains.eu/computation/SoftwareAgent
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/SoftwareAgent
 
 Structured information about a piece of software or web service that can perform a task autonomously.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_, `software <software_heading_>`_
 :Optional: `environment <environment_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _environment_heading:
 
+***********
 environment
------------
+***********
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ environment
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -56,8 +57,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _software_heading:
 
+********
 software
---------
+********
 
 .. admonition:: specifications
 

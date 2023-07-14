@@ -2,16 +2,15 @@
 LivePaperSection
 ################
 
-https://openminds.ebrains.eu/publications/LivePaperSection
-----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/LivePaperSection
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_, `order <order_heading_>`_, `type <type_heading_>`_
 :Optional: `description <description_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -38,8 +38,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -56,8 +57,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -74,8 +76,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _order_heading:
 
+*****
 order
------
+*****
 
 .. admonition:: specifications
 
@@ -89,8 +92,9 @@ order
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

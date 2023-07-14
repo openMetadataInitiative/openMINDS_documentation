@@ -2,16 +2,15 @@
 Pipette
 #######
 
-https://openminds.ebrains.eu/ephys/Pipette
-------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/Pipette
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `deviceType <deviceType_heading_>`_, `name <name_heading_>`_
 :Optional: `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `externalDiameter <externalDiameter_heading_>`_, `internalDiameter <internalDiameter_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `manufacturer <manufacturer_heading_>`_, `material <material_heading_>`_, `owner <owner_heading_>`_, `serialNumber <serialNumber_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -38,8 +38,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _deviceType_heading:
 
+**********
 deviceType
-----------
+**********
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ deviceType
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -72,8 +74,9 @@ Digital handle to identify objects or legal persons.
 
 .. _externalDiameter_heading:
 
+****************
 externalDiameter
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -88,8 +91,9 @@ externalDiameter
 
 .. _internalDiameter_heading:
 
+****************
 internalDiameter
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -104,8 +108,9 @@ internalDiameter
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -122,8 +127,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -138,8 +144,9 @@ lookupLabel
 
 .. _manufacturer_heading:
 
+************
 manufacturer
-------------
+************
 
 .. admonition:: specifications
 
@@ -154,8 +161,9 @@ manufacturer
 
 .. _material_heading:
 
+********
 material
---------
+********
 
 .. admonition:: specifications
 
@@ -170,8 +178,9 @@ material
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -188,8 +197,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _owner_heading:
 
+*****
 owner
------
+*****
 
 .. admonition:: specifications
 
@@ -204,8 +214,9 @@ owner
 
 .. _serialNumber_heading:
 
+************
 serialNumber
-------------
+************
 
 .. admonition:: specifications
 

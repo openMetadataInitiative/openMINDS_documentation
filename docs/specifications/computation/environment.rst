@@ -2,18 +2,17 @@
 Environment
 ###########
 
-https://openminds.ebrains.eu/computation/Environment
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/Environment
 
 Structured information on the computer system or set of systems in which a computation is deployed and executed.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `hardware <hardware_heading_>`_, `name <name_heading_>`_
 :Optional: `configuration <configuration_heading_>`_, `description <description_heading_>`_, `software <software_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _configuration_heading:
 
+*************
 configuration
--------------
+*************
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ configuration
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -56,8 +57,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _hardware_heading:
 
+********
 hardware
---------
+********
 
 .. admonition:: specifications
 
@@ -72,8 +74,9 @@ hardware
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -90,8 +93,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _software_heading:
 
+********
 software
---------
+********
 
 .. admonition:: specifications
 

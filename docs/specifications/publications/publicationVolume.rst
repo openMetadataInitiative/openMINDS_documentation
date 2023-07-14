@@ -2,16 +2,15 @@
 PublicationVolume
 #################
 
-https://openminds.ebrains.eu/publications/PublicationVolume
------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/PublicationVolume
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `isPartOf <isPartOf_heading_>`_, `volumeNumber <volumeNumber_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -38,8 +38,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _volumeNumber_heading:
 
+************
 volumeNumber
-------------
+************
 
 .. admonition:: specifications
 

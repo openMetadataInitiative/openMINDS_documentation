@@ -2,16 +2,15 @@
 LearningResource
 ################
 
-https://openminds.ebrains.eu/publications/LearningResource
-----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/LearningResource
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `about <about_heading_>`_, `name <name_heading_>`_, `publicationDate <publicationDate_heading_>`_
 :Optional: `IRI <IRI_heading_>`_, `abstract <abstract_heading_>`_, `author <author_heading_>`_, `citedPublication <citedPublication_heading_>`_, `copyright <copyright_heading_>`_, `creationDate <creationDate_heading_>`_, `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `editor <editor_heading_>`_, `educationalLevel <educationalLevel_heading_>`_, `funding <funding_heading_>`_, `keyword <keyword_heading_>`_, `learningOutcome <learningOutcome_heading_>`_, `license <license_heading_>`_, `modificationDate <modificationDate_heading_>`_, `order <order_heading_>`_, `prerequisite <prerequisite_heading_>`_, `publisher <publisher_heading_>`_, `requiredTime <requiredTime_heading_>`_, `topic <topic_heading_>`_, `type <type_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -38,8 +38,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _about_heading:
 
+*****
 about
------
+*****
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ about
 
 .. _abstract_heading:
 
+********
 abstract
---------
+********
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ abstract
 
 .. _author_heading:
 
+******
 author
-------
+******
 
 Creator of a literary or creative work, as well as a dataset publication.
 
@@ -88,8 +91,9 @@ Creator of a literary or creative work, as well as a dataset publication.
 
 .. _citedPublication_heading:
 
+****************
 citedPublication
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -104,8 +108,9 @@ citedPublication
 
 .. _copyright_heading:
 
+*********
 copyright
----------
+*********
 
 Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time period.
 
@@ -122,8 +127,9 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
 .. _creationDate_heading:
 
+************
 creationDate
-------------
+************
 
 .. admonition:: specifications
 
@@ -138,8 +144,9 @@ creationDate
 
 .. _custodian_heading:
 
+*********
 custodian
----------
+*********
 
 The 'custodian' is a legal person who is responsible for the content and quality of the data, metadata, and/or code of a research product.
 
@@ -156,8 +163,9 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -174,8 +182,9 @@ Digital handle to identify objects or legal persons.
 
 .. _editor_heading:
 
+******
 editor
-------
+******
 
 .. admonition:: specifications
 
@@ -190,8 +199,9 @@ editor
 
 .. _educationalLevel_heading:
 
+****************
 educationalLevel
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -206,8 +216,9 @@ educationalLevel
 
 .. _funding_heading:
 
+*******
 funding
--------
+*******
 
 Money provided by a legal person for a particular purpose.
 
@@ -224,8 +235,9 @@ Money provided by a legal person for a particular purpose.
 
 .. _keyword_heading:
 
+*******
 keyword
--------
+*******
 
 Significant word or concept that are representative of something or someone.
 
@@ -242,8 +254,9 @@ Significant word or concept that are representative of something or someone.
 
 .. _learningOutcome_heading:
 
+***************
 learningOutcome
----------------
+***************
 
 .. admonition:: specifications
 
@@ -258,8 +271,9 @@ learningOutcome
 
 .. _license_heading:
 
+*******
 license
--------
+*******
 
 Grant by a party to another party as an element of an agreement between those parties that permits to do, use, or own something.
 
@@ -276,8 +290,9 @@ Grant by a party to another party as an element of an agreement between those pa
 
 .. _modificationDate_heading:
 
+****************
 modificationDate
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -292,8 +307,9 @@ modificationDate
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -310,8 +326,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _order_heading:
 
+*****
 order
------
+*****
 
 .. admonition:: specifications
 
@@ -325,8 +342,9 @@ order
 
 .. _prerequisite_heading:
 
+************
 prerequisite
-------------
+************
 
 .. admonition:: specifications
 
@@ -341,8 +359,9 @@ prerequisite
 
 .. _publicationDate_heading:
 
+***************
 publicationDate
----------------
+***************
 
 .. admonition:: specifications
 
@@ -357,8 +376,9 @@ publicationDate
 
 .. _publisher_heading:
 
+*********
 publisher
----------
+*********
 
 .. admonition:: specifications
 
@@ -373,8 +393,9 @@ publisher
 
 .. _requiredTime_heading:
 
+************
 requiredTime
-------------
+************
 
 .. admonition:: specifications
 
@@ -389,8 +410,9 @@ requiredTime
 
 .. _topic_heading:
 
+*****
 topic
------
+*****
 
 .. admonition:: specifications
 
@@ -405,8 +427,9 @@ topic
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 
@@ -423,8 +446,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 

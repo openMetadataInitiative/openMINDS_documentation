@@ -2,20 +2,19 @@
 Person
 ######
 
-https://openminds.ebrains.eu/core/Person
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
 :Semantic equivalents:: https://schema.org/Person
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `givenName <givenName_heading_>`_
 :Optional: `affiliation <affiliation_heading_>`_, `alternateName <alternateName_heading_>`_, `associatedAccount <associatedAccount_heading_>`_, `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
@@ -24,8 +23,9 @@ Properties
 
 .. _affiliation_heading:
 
+***********
 affiliation
------------
+***********
 
 Declaration of a person being closely associated to an organization.
 
@@ -42,8 +42,9 @@ Declaration of a person being closely associated to an organization.
 
 .. _alternateName_heading:
 
+*************
 alternateName
--------------
+*************
 
 .. admonition:: specifications
 
@@ -58,8 +59,9 @@ alternateName
 
 .. _associatedAccount_heading:
 
+*****************
 associatedAccount
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -74,8 +76,9 @@ associatedAccount
 
 .. _contactInformation_heading:
 
+******************
 contactInformation
-------------------
+******************
 
 Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
 
@@ -92,8 +95,9 @@ Any available way used to contact a person or business (e.g., address, phone num
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -110,8 +114,9 @@ Digital handle to identify objects or legal persons.
 
 .. _familyName_heading:
 
+**********
 familyName
-----------
+**********
 
 Name borne in common by members of a family.
 
@@ -128,8 +133,9 @@ Name borne in common by members of a family.
 
 .. _givenName_heading:
 
+*********
 givenName
----------
+*********
 
 Name given to a person, including all potential middle names, but excluding the family name.
 

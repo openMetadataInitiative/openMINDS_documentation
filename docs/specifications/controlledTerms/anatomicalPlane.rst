@@ -2,16 +2,15 @@
 AnatomicalPlane
 ###############
 
-https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
-------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `interlexIdentifier <interlexIdentifier_heading_>`_, `knowledgeSpaceLink <knowledgeSpaceLink_heading_>`_, `preferredOntologyIdentifier <preferredOntologyIdentifier_heading_>`_, `synonym <synonym_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _definition_heading:
 
+**********
 definition
-----------
+**********
 
 Short, but precise statement of the meaning of a word, word group, sign or a symbol.
 
@@ -38,8 +38,9 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -56,8 +57,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _interlexIdentifier_heading:
 
+******************
 interlexIdentifier
-------------------
+******************
 
 Persistent identifier for a term registered in the InterLex project.
 
@@ -74,8 +76,9 @@ Persistent identifier for a term registered in the InterLex project.
 
 .. _knowledgeSpaceLink_heading:
 
+******************
 knowledgeSpaceLink
-------------------
+******************
 
 Persistent link to an encyclopedia entry in the Knowledge Space project.
 
@@ -92,8 +95,9 @@ Persistent link to an encyclopedia entry in the Knowledge Space project.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -110,8 +114,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _preferredOntologyIdentifier_heading:
 
+***************************
 preferredOntologyIdentifier
----------------------------
+***************************
 
 Persistent identifier of a preferred ontological term.
 
@@ -128,8 +133,9 @@ Persistent identifier of a preferred ontological term.
 
 .. _synonym_heading:
 
+*******
 synonym
--------
+*******
 
 Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
 

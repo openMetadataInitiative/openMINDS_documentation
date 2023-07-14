@@ -2,16 +2,15 @@
 ParcellationEntity
 ##################
 
-https://openminds.ebrains.eu/sands/ParcellationEntity
------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationEntity
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `abbreviation <abbreviation_heading_>`_, `alternateName <alternateName_heading_>`_, `definition <definition_heading_>`_, `hasParent <hasParent_heading_>`_, `hasVersion <hasVersion_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _abbreviation_heading:
 
+************
 abbreviation
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ abbreviation
 
 .. _alternateName_heading:
 
+*************
 alternateName
--------------
+*************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ alternateName
 
 .. _definition_heading:
 
+**********
 definition
-----------
+**********
 
 Short, but precise statement of the meaning of a word, word group, sign or a symbol.
 
@@ -70,8 +72,9 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. _hasParent_heading:
 
+*********
 hasParent
----------
+*********
 
 Reference to a parent object or legal person.
 
@@ -88,8 +91,9 @@ Reference to a parent object or legal person.
 
 .. _hasVersion_heading:
 
+**********
 hasVersion
-----------
+**********
 
 Reference to variants of an original.
 
@@ -106,8 +110,9 @@ Reference to variants of an original.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -122,8 +127,9 @@ lookupLabel
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -140,8 +146,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -158,8 +165,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _relatedUBERONTerm_heading:
 
+*****************
 relatedUBERONTerm
------------------
+*****************
 
 .. admonition:: specifications
 

@@ -2,18 +2,17 @@
 WorkflowExecution
 #################
 
-https://openminds.ebrains.eu/computation/WorkflowExecution
-----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/WorkflowExecution
 
 Structured information about an execution of a computational workflow.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `stages <stages_heading_>`_
 :Optional: `configuration <configuration_heading_>`_, `recipe <recipe_heading_>`_, `stage <stage_heading_>`_, `startedBy <startedBy_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _configuration_heading:
 
+*************
 configuration
--------------
+*************
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ configuration
 
 .. _recipe_heading:
 
+******
 recipe
-------
+******
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ recipe
 
 .. _stage_heading:
 
+*****
 stage
------
+*****
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ stage
 
 .. _startedBy_heading:
 
+*********
 startedBy
----------
+*********
 
 .. admonition:: specifications
 

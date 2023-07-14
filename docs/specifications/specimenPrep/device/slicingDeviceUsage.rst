@@ -2,16 +2,15 @@
 SlicingDeviceUsage
 ##################
 
-https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
-------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_, `sliceThickness <sliceThickness_heading_>`_, `slicingPlane <slicingPlane_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `oscillationAmplitude <oscillationAmplitude_heading_>`_, `slicingAngle <slicingAngle_heading_>`_, `slicingSpeed <slicingSpeed_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_, `vibrationFrequency <vibrationFrequency_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -38,8 +38,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ lookupLabel
 
 .. _metadataLocation_heading:
 
+****************
 metadataLocation
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ metadataLocation
 
 .. _oscillationAmplitude_heading:
 
+********************
 oscillationAmplitude
---------------------
+********************
 
 .. admonition:: specifications
 
@@ -86,8 +89,9 @@ oscillationAmplitude
 
 .. _sliceThickness_heading:
 
+**************
 sliceThickness
---------------
+**************
 
 .. admonition:: specifications
 
@@ -102,8 +106,9 @@ sliceThickness
 
 .. _slicingAngle_heading:
 
+************
 slicingAngle
-------------
+************
 
 .. admonition:: specifications
 
@@ -118,8 +123,9 @@ slicingAngle
 
 .. _slicingPlane_heading:
 
+************
 slicingPlane
-------------
+************
 
 .. admonition:: specifications
 
@@ -134,8 +140,9 @@ slicingPlane
 
 .. _slicingSpeed_heading:
 
+************
 slicingSpeed
-------------
+************
 
 .. admonition:: specifications
 
@@ -150,8 +157,9 @@ slicingSpeed
 
 .. _usedSpecimen_heading:
 
+************
 usedSpecimen
-------------
+************
 
 .. admonition:: specifications
 
@@ -166,8 +174,9 @@ usedSpecimen
 
 .. _vibrationFrequency_heading:
 
+******************
 vibrationFrequency
-------------------
+******************
 
 .. admonition:: specifications
 

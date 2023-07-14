@@ -2,16 +2,15 @@
 SingleColor
 ###########
 
-https://openminds.ebrains.eu/sands/SingleColor
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/SingleColor
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `value <value_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _value_heading:
 
+*****
 value
------
+*****
 
 Entry for a property.
 

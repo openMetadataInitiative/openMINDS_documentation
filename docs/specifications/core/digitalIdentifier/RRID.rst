@@ -2,18 +2,17 @@
 RRID
 ####
 
-https://openminds.ebrains.eu/core/RRID
---------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/RRID
 
 A persistent identifier for a research resource provided by the Resource Identification Initiative.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

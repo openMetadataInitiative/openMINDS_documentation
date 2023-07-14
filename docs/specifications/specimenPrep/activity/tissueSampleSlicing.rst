@@ -2,16 +2,15 @@
 TissueSampleSlicing
 ###################
 
-https://openminds.ebrains.eu/specimenPrep/TissueSampleSlicing
--------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/specimenPrep/TissueSampleSlicing
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_
 :Optional: `input <input_heading_>`_, `output <output_heading_>`_, `temperature <temperature_heading_>`_, `tissueBathSolution <tissueBathSolution_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -38,8 +38,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -56,8 +57,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 
@@ -74,8 +76,9 @@ Something or someone that comes out of, is delivered or produced by a process or
 
 .. _temperature_heading:
 
+***********
 temperature
------------
+***********
 
 .. admonition:: specifications
 
@@ -90,8 +93,9 @@ temperature
 
 .. _tissueBathSolution_heading:
 
+******************
 tissueBathSolution
-------------------
+******************
 
 .. admonition:: specifications
 

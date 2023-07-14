@@ -2,16 +2,15 @@
 IdentifiersDotOrgID
 ###################
 
-https://openminds.ebrains.eu/core/IdentifiersDotOrgID
------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/IdentifiersDotOrgID
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

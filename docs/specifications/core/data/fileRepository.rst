@@ -2,18 +2,17 @@
 FileRepository
 ##############
 
-https://openminds.ebrains.eu/core/FileRepository
-------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/FileRepository
 
 Structured information on a file repository.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `IRI <IRI_heading_>`_, `hostedBy <hostedBy_heading_>`_, `name <name_heading_>`_
 :Optional: `contentTypePattern <contentTypePattern_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `storageSize <storageSize_heading_>`_, `structurePattern <structurePattern_heading_>`_, `type <type_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -40,8 +40,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _contentTypePattern_heading:
 
+******************
 contentTypePattern
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -56,8 +57,9 @@ contentTypePattern
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 
@@ -74,8 +76,9 @@ Method of digitally organizing and structuring data or information.
 
 .. _hash_heading:
 
+****
 hash
-----
+****
 
 Term used for the process of converting any data into a single value. Often also directly refers to the resulting single value.
 
@@ -92,8 +95,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. _hostedBy_heading:
 
+********
 hostedBy
---------
+********
 
 Reference to an organization that provides facilities and services for something.
 
@@ -110,8 +114,9 @@ Reference to an organization that provides facilities and services for something
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -128,8 +133,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _storageSize_heading:
 
+***********
 storageSize
------------
+***********
 
 Quantitative value defining how much disk space is used by an object on a computer system.
 
@@ -146,8 +152,9 @@ Quantitative value defining how much disk space is used by an object on a comput
 
 .. _structurePattern_heading:
 
+****************
 structurePattern
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -162,8 +169,9 @@ structurePattern
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

@@ -2,18 +2,17 @@
 LaunchConfiguration
 ###################
 
-https://openminds.ebrains.eu/computation/LaunchConfiguration
-------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/computation/LaunchConfiguration
 
 Structured information about the launch of a computational process.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `executable <executable_heading_>`_
 :Optional: `argument <argument_heading_>`_, `description <description_heading_>`_, `environmentVariable <environmentVariable_heading_>`_, `name <name_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _argument_heading:
 
+********
 argument
---------
+********
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ argument
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -56,8 +57,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _environmentVariable_heading:
 
+*******************
 environmentVariable
--------------------
+*******************
 
 .. admonition:: specifications
 
@@ -72,8 +74,9 @@ environmentVariable
 
 .. _executable_heading:
 
+**********
 executable
-----------
+**********
 
 .. admonition:: specifications
 
@@ -88,8 +91,9 @@ executable
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 

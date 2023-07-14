@@ -2,16 +2,15 @@
 StockNumber
 ###########
 
-https://openminds.ebrains.eu/core/StockNumber
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/StockNumber
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_, `vendor <vendor_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 
@@ -38,8 +38,9 @@ Term or code used to identify something or someone.
 
 .. _vendor_heading:
 
+******
 vendor
-------
+******
 
 .. admonition:: specifications
 

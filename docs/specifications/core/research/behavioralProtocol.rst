@@ -2,18 +2,17 @@
 BehavioralProtocol
 ##################
 
-https://openminds.ebrains.eu/core/BehavioralProtocol
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/BehavioralProtocol
 
 Structured information about a protocol used in an experiment studying human or animal behavior.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_
 :Optional: `describedIn <describedIn_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `stimulation <stimulation_heading_>`_, `stimulusType <stimulusType_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _describedIn_heading:
 
+***********
 describedIn
------------
+***********
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ describedIn
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -56,8 +57,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -74,8 +76,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -92,8 +95,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _stimulation_heading:
 
+***********
 stimulation
------------
+***********
 
 .. admonition:: specifications
 
@@ -108,8 +112,9 @@ stimulation
 
 .. _stimulusType_heading:
 
+************
 stimulusType
-------------
+************
 
 .. admonition:: specifications
 

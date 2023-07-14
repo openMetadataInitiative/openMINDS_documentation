@@ -2,16 +2,15 @@
 ElectrodeUsage
 ##############
 
-https://openminds.ebrains.eu/ephys/ElectrodeUsage
--------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodeUsage
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_
 :Optional: `anatomicalLocation <anatomicalLocation_heading_>`_, `contactResistance <contactResistance_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `metadataLocation <metadataLocation_heading_>`_, `spatialLocation <spatialLocation_heading_>`_, `usedSpecimen <usedSpecimen_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anatomicalLocation_heading:
 
+******************
 anatomicalLocation
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ anatomicalLocation
 
 .. _contactResistance_heading:
 
+*****************
 contactResistance
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -52,8 +53,9 @@ contactResistance
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -70,8 +72,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -86,8 +89,9 @@ lookupLabel
 
 .. _metadataLocation_heading:
 
+****************
 metadataLocation
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -102,8 +106,9 @@ metadataLocation
 
 .. _spatialLocation_heading:
 
+***************
 spatialLocation
----------------
+***************
 
 .. admonition:: specifications
 
@@ -118,8 +123,9 @@ spatialLocation
 
 .. _usedSpecimen_heading:
 
+************
 usedSpecimen
-------------
+************
 
 .. admonition:: specifications
 

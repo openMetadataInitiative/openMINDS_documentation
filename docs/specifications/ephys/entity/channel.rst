@@ -2,16 +2,15 @@
 Channel
 #######
 
-https://openminds.ebrains.eu/ephys/Channel
-------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/Channel
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `internalIdentifier <internalIdentifier_heading_>`_, `unit <unit_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -38,8 +38,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _unit_heading:
 
+****
 unit
-----
+****
 
 Determinate quantity adopted as a standard of measurement.
 

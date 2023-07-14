@@ -2,16 +2,15 @@
 CustomCoordinateSpace
 #####################
 
-https://openminds.ebrains.eu/sands/CustomCoordinateSpace
---------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/CustomCoordinateSpace
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `name <name_heading_>`_, `nativeUnit <nativeUnit_heading_>`_
 :Optional: `defaultImage <defaultImage_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anatomicalAxesOrientation_heading:
 
+*************************
 anatomicalAxesOrientation
--------------------------
+*************************
 
 Relation between reference planes used in anatomy and mathematics.
 
@@ -38,8 +38,9 @@ Relation between reference planes used in anatomy and mathematics.
 
 .. _axesOrigin_heading:
 
+**********
 axesOrigin
-----------
+**********
 
 Special point in a coordinate system used as a fixed point of reference for the geometry of the surrounding space.
 
@@ -56,8 +57,9 @@ Special point in a coordinate system used as a fixed point of reference for the 
 
 .. _defaultImage_heading:
 
+************
 defaultImage
-------------
+************
 
 Two or three dimensional image that particluarly represents a specific coordinate space.
 
@@ -74,8 +76,9 @@ Two or three dimensional image that particluarly represents a specific coordinat
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -92,8 +95,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _nativeUnit_heading:
 
+**********
 nativeUnit
-----------
+**********
 
 Determinate quantity used in the original measurement.
 

@@ -2,18 +2,17 @@
 PropertyValueList
 #################
 
-https://openminds.ebrains.eu/core/PropertyValueList
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/PropertyValueList
 
 An identifiable list of property-value pairs.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `propertyValuePair <propertyValuePair_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ lookupLabel
 
 .. _propertyValuePair_heading:
 
+*****************
 propertyValuePair
------------------
+*****************
 
 .. admonition:: specifications
 

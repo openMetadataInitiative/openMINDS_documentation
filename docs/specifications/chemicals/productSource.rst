@@ -2,18 +2,17 @@
 ProductSource
 #############
 
-https://openminds.ebrains.eu/chemicals/ProductSource
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/chemicals/ProductSource
 
 Structured information about the source of a chemical substance or mixture.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `productName <productName_heading_>`_, `provider <provider_heading_>`_
 :Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `identifier <identifier_heading_>`_, `purity <purity_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -40,8 +40,9 @@ Digital handle to identify objects or legal persons.
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 
@@ -58,8 +59,9 @@ Term or code used to identify something or someone.
 
 .. _productName_heading:
 
+***********
 productName
------------
+***********
 
 .. admonition:: specifications
 
@@ -74,8 +76,9 @@ productName
 
 .. _provider_heading:
 
+********
 provider
---------
+********
 
 .. admonition:: specifications
 
@@ -90,8 +93,9 @@ provider
 
 .. _purity_heading:
 
+******
 purity
-------
+******
 
 .. admonition:: specifications
 

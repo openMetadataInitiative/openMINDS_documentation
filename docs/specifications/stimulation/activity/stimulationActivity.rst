@@ -2,16 +2,15 @@
 StimulationActivity
 ###################
 
-https://openminds.ebrains.eu/stimulation/StimulationActivity
-------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/stimulation/StimulationActivity
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `input <input_heading_>`_, `isPartOf <isPartOf_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_, `stimulus <stimulus_heading_>`_
 :Optional: `customPropertySet <customPropertySet_heading_>`_, `description <description_heading_>`_, `endTime <endTime_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `performedBy <performedBy_heading_>`_, `preparationDesign <preparationDesign_heading_>`_, `setup <setup_heading_>`_, `startTime <startTime_heading_>`_, `studyTarget <studyTarget_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _customPropertySet_heading:
 
+*****************
 customPropertySet
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ customPropertySet
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -54,8 +55,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _endTime_heading:
 
+*******
 endTime
--------
+*******
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ endTime
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -88,8 +91,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -106,8 +110,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -122,8 +127,9 @@ lookupLabel
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 
@@ -140,8 +146,9 @@ Something or someone that comes out of, is delivered or produced by a process or
 
 .. _performedBy_heading:
 
+***********
 performedBy
------------
+***********
 
 .. admonition:: specifications
 
@@ -156,8 +163,9 @@ performedBy
 
 .. _preparationDesign_heading:
 
+*****************
 preparationDesign
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -172,8 +180,9 @@ preparationDesign
 
 .. _protocol_heading:
 
+********
 protocol
---------
+********
 
 Plan that describes the process of a scientific or medical experiment, treatment, or procedure.
 
@@ -190,8 +199,9 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
 .. _setup_heading:
 
+*****
 setup
------
+*****
 
 .. admonition:: specifications
 
@@ -206,8 +216,9 @@ setup
 
 .. _startTime_heading:
 
+*********
 startTime
----------
+*********
 
 .. admonition:: specifications
 
@@ -222,8 +233,9 @@ startTime
 
 .. _stimulus_heading:
 
+********
 stimulus
---------
+********
 
 .. admonition:: specifications
 
@@ -238,8 +250,9 @@ stimulus
 
 .. _studyTarget_heading:
 
+***********
 studyTarget
------------
+***********
 
 Structure or function that was targeted within a study.
 

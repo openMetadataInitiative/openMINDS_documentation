@@ -2,16 +2,15 @@
 ElectrodePlacement
 ##################
 
-https://openminds.ebrains.eu/ephys/ElectrodePlacement
------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/ephys/ElectrodePlacement
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `device <device_heading_>`_, `input <input_heading_>`_, `isPartOf <isPartOf_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_
 :Optional: `customPropertySet <customPropertySet_heading_>`_, `description <description_heading_>`_, `endTime <endTime_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `performedBy <performedBy_heading_>`_, `preparationDesign <preparationDesign_heading_>`_, `startTime <startTime_heading_>`_, `studyTarget <studyTarget_heading_>`_, `targetPosition <targetPosition_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _customPropertySet_heading:
 
+*****************
 customPropertySet
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ customPropertySet
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -54,8 +55,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _device_heading:
 
+******
 device
-------
+******
 
 Piece of equipment or mechanism (hardware) designed to serve a special purpose or perform a special function.
 
@@ -72,8 +74,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. _endTime_heading:
 
+*******
 endTime
--------
+*******
 
 .. admonition:: specifications
 
@@ -88,8 +91,9 @@ endTime
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -106,8 +110,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -124,8 +129,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -140,8 +146,9 @@ lookupLabel
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 
@@ -158,8 +165,9 @@ Something or someone that comes out of, is delivered or produced by a process or
 
 .. _performedBy_heading:
 
+***********
 performedBy
------------
+***********
 
 .. admonition:: specifications
 
@@ -174,8 +182,9 @@ performedBy
 
 .. _preparationDesign_heading:
 
+*****************
 preparationDesign
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -190,8 +199,9 @@ preparationDesign
 
 .. _protocol_heading:
 
+********
 protocol
---------
+********
 
 Plan that describes the process of a scientific or medical experiment, treatment, or procedure.
 
@@ -208,8 +218,9 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
 .. _startTime_heading:
 
+*********
 startTime
----------
+*********
 
 .. admonition:: specifications
 
@@ -224,8 +235,9 @@ startTime
 
 .. _studyTarget_heading:
 
+***********
 studyTarget
------------
+***********
 
 Structure or function that was targeted within a study.
 
@@ -242,8 +254,9 @@ Structure or function that was targeted within a study.
 
 .. _targetPosition_heading:
 
+**************
 targetPosition
---------------
+**************
 
 .. admonition:: specifications
 

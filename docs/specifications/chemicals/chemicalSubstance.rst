@@ -2,18 +2,17 @@
 ChemicalSubstance
 #################
 
-https://openminds.ebrains.eu/chemicals/ChemicalSubstance
---------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
 
 Structured information about a chemical substance.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `molecularEntity <molecularEntity_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `productSource <productSource_heading_>`_, `purity <purity_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -40,8 +40,9 @@ Mention of what deserves additional attention or notice.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -56,8 +57,9 @@ lookupLabel
 
 .. _molecularEntity_heading:
 
+***************
 molecularEntity
----------------
+***************
 
 .. admonition:: specifications
 
@@ -72,8 +74,9 @@ molecularEntity
 
 .. _productSource_heading:
 
+*************
 productSource
--------------
+*************
 
 .. admonition:: specifications
 
@@ -88,8 +91,9 @@ productSource
 
 .. _purity_heading:
 
+******
 purity
-------
+******
 
 .. admonition:: specifications
 

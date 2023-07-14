@@ -2,16 +2,15 @@
 Ellipse
 #######
 
-https://openminds.ebrains.eu/sands/Ellipse
-------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Ellipse
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `semiMajorAxis <semiMajorAxis_heading_>`_, `semiMinorAxis <semiMinorAxis_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _semiMajorAxis_heading:
 
+*************
 semiMajorAxis
--------------
+*************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ semiMajorAxis
 
 .. _semiMinorAxis_heading:
 
+*************
 semiMinorAxis
--------------
+*************
 
 .. admonition:: specifications
 

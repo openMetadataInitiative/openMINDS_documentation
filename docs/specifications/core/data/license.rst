@@ -2,18 +2,19 @@
 License
 #######
 
-https://openminds.ebrains.eu/core/License
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/License
 
 Structured information on a used license.
 
-------------
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html>`_.
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `fullName <fullName_heading_>`_, `legalCode <legalCode_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `webpage <webpage_heading_>`_
@@ -22,8 +23,9 @@ Properties
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -40,8 +42,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _legalCode_heading:
 
+*********
 legalCode
----------
+*********
 
 Type of legislation that claims to cover the law system (complete or parts) as it existed at the time the code was enacted.
 
@@ -58,8 +61,9 @@ Type of legislation that claims to cover the law system (complete or parts) as i
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 
@@ -76,8 +80,9 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. _webpage_heading:
 
+*******
 webpage
--------
+*******
 
 Hypertext document (block of information) found on the World Wide Web.
 

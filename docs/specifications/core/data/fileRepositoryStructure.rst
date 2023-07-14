@@ -2,16 +2,15 @@
 FileRepositoryStructure
 #######################
 
-https://openminds.ebrains.eu/core/FileRepositoryStructure
----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/FileRepositoryStructure
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `filePathPattern <filePathPattern_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _filePathPattern_heading:
 
+***************
 filePathPattern
----------------
+***************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ filePathPattern
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 

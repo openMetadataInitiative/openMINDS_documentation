@@ -2,16 +2,15 @@
 AnatomicalTargetPosition
 ########################
 
-https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `anatomicalTarget <anatomicalTarget_heading_>`_, `targetIdentificationType <targetIdentificationType_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `spatialLocation <spatialLocation_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -38,8 +38,9 @@ Mention of what deserves additional attention or notice.
 
 .. _anatomicalTarget_heading:
 
+****************
 anatomicalTarget
-----------------
+****************
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ anatomicalTarget
 
 .. _spatialLocation_heading:
 
+***************
 spatialLocation
----------------
+***************
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ spatialLocation
 
 .. _targetIdentificationType_heading:
 
+************************
 targetIdentificationType
-------------------------
+************************
 
 .. admonition:: specifications
 

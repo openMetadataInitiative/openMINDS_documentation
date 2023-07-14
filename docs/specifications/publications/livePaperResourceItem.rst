@@ -2,16 +2,15 @@
 LivePaperResourceItem
 #####################
 
-https://openminds.ebrains.eu/publications/LivePaperResourceItem
----------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/LivePaperResourceItem
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `IRI <IRI_heading_>`_, `hostedBy <hostedBy_heading_>`_, `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -38,8 +38,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _hostedBy_heading:
 
+********
 hostedBy
---------
+********
 
 Reference to an organization that provides facilities and services for something.
 
@@ -56,8 +57,9 @@ Reference to an organization that provides facilities and services for something
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -74,8 +76,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 

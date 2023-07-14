@@ -2,16 +2,15 @@
 Periodical
 ##########
 
-https://openminds.ebrains.eu/publications/Periodical
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/publications/Periodical
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `shortName <shortName_heading_>`_
 :Optional: `abbreviation <abbreviation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `name <name_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _abbreviation_heading:
 
+************
 abbreviation
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ abbreviation
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -54,8 +55,9 @@ Digital handle to identify objects or legal persons.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 

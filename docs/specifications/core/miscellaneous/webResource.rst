@@ -2,16 +2,15 @@
 WebResource
 ###########
 
-https://openminds.ebrains.eu/core/WebResource
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/WebResource
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `IRI <IRI_heading_>`_
 :Optional: `contentDescription <contentDescription_heading_>`_, `format <format_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -38,8 +38,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _contentDescription_heading:
 
+******************
 contentDescription
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ contentDescription
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 

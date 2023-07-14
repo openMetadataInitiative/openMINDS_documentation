@@ -2,18 +2,17 @@
 Hash
 ####
 
-https://openminds.ebrains.eu/core/Hash
---------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Hash
 
 Structured information on a hash.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `algorithm <algorithm_heading_>`_, `digest <digest_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _algorithm_heading:
 
+*********
 algorithm
----------
+*********
 
 Procedure for solving a mathematical problem in a finite number of steps. Can involve repetition of an operation.
 
@@ -40,8 +40,9 @@ Procedure for solving a mathematical problem in a finite number of steps. Can in
 
 .. _digest_heading:
 
+******
 digest
-------
+******
 
 Summation or condensation of a body of information.
 

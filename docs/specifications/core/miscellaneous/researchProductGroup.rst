@@ -2,16 +2,15 @@
 ResearchProductGroup
 ####################
 
-https://openminds.ebrains.eu/core/ResearchProductGroup
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ResearchProductGroup
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `context <context_heading_>`_, `hasPart <hasPart_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _context_heading:
 
+*******
 context
--------
+*******
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ context
 
 .. _hasPart_heading:
 
+*******
 hasPart
--------
+*******
 
 .. admonition:: specifications
 

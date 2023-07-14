@@ -2,18 +2,17 @@
 ChemicalMixture
 ###############
 
-https://openminds.ebrains.eu/chemicals/ChemicalMixture
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/chemicals/ChemicalMixture
 
 Structured information about a mixture of chemical substances.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `hasPart <hasPart_heading_>`_, `type <type_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `name <name_heading_>`_, `productSource <productSource_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -40,8 +40,9 @@ Mention of what deserves additional attention or notice.
 
 .. _hasPart_heading:
 
+*******
 hasPart
--------
+*******
 
 .. admonition:: specifications
 
@@ -56,8 +57,9 @@ hasPart
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -74,8 +76,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _productSource_heading:
 
+*************
 productSource
--------------
+*************
 
 .. admonition:: specifications
 
@@ -90,8 +93,9 @@ productSource
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

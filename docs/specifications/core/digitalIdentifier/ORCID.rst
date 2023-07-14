@@ -2,18 +2,17 @@
 ORCID
 #####
 
-https://openminds.ebrains.eu/core/ORCID
----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ORCID
 
 A persistent identifier for a researcher provided by Open Researcher and Contributor ID, Inc.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

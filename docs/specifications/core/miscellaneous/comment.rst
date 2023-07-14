@@ -2,18 +2,17 @@
 Comment
 #######
 
-https://openminds.ebrains.eu/core/Comment
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Comment
 
 Structured information about a short text expressing an opinion on, or giving information about some entity.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `about <about_heading_>`_, `comment <comment_heading_>`_, `commenter <commenter_heading_>`_, `timestamp <timestamp_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _about_heading:
 
+*****
 about
------
+*****
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ about
 
 .. _comment_heading:
 
+*******
 comment
--------
+*******
 
 .. admonition:: specifications
 
@@ -54,8 +55,9 @@ comment
 
 .. _commenter_heading:
 
+*********
 commenter
----------
+*********
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ commenter
 
 .. _timestamp_heading:
 
+*********
 timestamp
----------
+*********
 
 .. admonition:: specifications
 

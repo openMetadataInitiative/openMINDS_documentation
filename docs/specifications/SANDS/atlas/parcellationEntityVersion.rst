@@ -2,16 +2,15 @@
 ParcellationEntityVersion
 #########################
 
-https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
 :Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _abbreviation_heading:
 
+************
 abbreviation
-------------
+************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ abbreviation
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -54,8 +55,9 @@ Mention of what deserves additional attention or notice.
 
 .. _alternateName_heading:
 
+*************
 alternateName
--------------
+*************
 
 .. admonition:: specifications
 
@@ -70,8 +72,9 @@ alternateName
 
 .. _correctedName_heading:
 
+*************
 correctedName
--------------
+*************
 
 .. admonition:: specifications
 
@@ -86,8 +89,9 @@ correctedName
 
 .. _hasAnnotation_heading:
 
+*************
 hasAnnotation
--------------
+*************
 
 .. admonition:: specifications
 
@@ -102,8 +106,9 @@ hasAnnotation
 
 .. _hasParent_heading:
 
+*********
 hasParent
----------
+*********
 
 Reference to a parent object or legal person.
 
@@ -120,8 +125,9 @@ Reference to a parent object or legal person.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -136,8 +142,9 @@ lookupLabel
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -154,8 +161,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -172,8 +180,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _relationAssessment_heading:
 
+******************
 relationAssessment
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -188,8 +197,9 @@ relationAssessment
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 
@@ -206,8 +216,9 @@ Term or code used to identify the version of something.
 
 .. _versionInnovation_heading:
 
+*****************
 versionInnovation
------------------
+*****************
 
 Documentation on what changed in comparison to a previously published form of something.
 

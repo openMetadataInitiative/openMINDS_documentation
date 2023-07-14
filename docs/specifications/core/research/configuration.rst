@@ -2,18 +2,17 @@
 Configuration
 #############
 
-https://openminds.ebrains.eu/core/Configuration
------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Configuration
 
 Structured information about the properties or parameters of an entity or process.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `configuration <configuration_heading_>`_, `format <format_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _configuration_heading:
 
+*************
 configuration
--------------
+*************
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ configuration
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 
@@ -56,8 +57,9 @@ Method of digitally organizing and structuring data or information.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
