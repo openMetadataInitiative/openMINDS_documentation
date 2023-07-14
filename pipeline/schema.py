@@ -25,9 +25,10 @@ class SchemaDocBuilder(object):
         with open(target_file, "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
             schema_name = self._schema_payload["name"]
+            schema_name_camelCase = "".join([schema_name[0].lower, schema_name[1:]])
             doc.heading(schema_name, char="#", overline=True)
             doc.newline()
-            doc.heading(self._schema_payload["_type"], char="-")
+            doc.field(name="Semantic name:", value=self._schema_payload["_type"])
             doc.newline()
             if "description" in self._schema_payload and self._schema_payload["description"]:
                 doc.content(self._schema_payload["description"])
@@ -36,11 +37,22 @@ class SchemaDocBuilder(object):
             if semantic_equivalent:
                 doc.field(name="Semantic equivalents:", value=semantic_equivalent)
                 doc.newline()
+            doc.newline()# https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/actionStatusType.html#actionstatustype
+            if "controlledTerms" in self._schema_payload["name"]:
+                library_subdir = f"terminologies/{schema_name_camelCase}.html"
+                library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
+                doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
+                doc.newline()
+            if schema_name_camelCase in ["license", "contentType"]:
+                library_subdir = f"{schema_name_camelCase}s.html"
+                library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
+                doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
+                doc.newline()
             doc.content("------------")
             doc.newline()
             doc.content("------------")
             doc.newline()
-            doc.heading("Properties", char="*", overline=True)
+            doc.heading("Properties", char="#")
             doc.newline()
             doc.field(name="Required", value=self._extract_required_properties())
             doc.field(name="Optional", value=self._extract_optional_properties())
@@ -53,7 +65,7 @@ class SchemaDocBuilder(object):
                     p_name = p_info["name"]
                     doc.content(f".. _{p_name}_heading:")
                     doc.newline()
-                    doc.heading(p_name, char="-")
+                    doc.heading(p_name, char="*", overline=True)
                     doc.newline()
                     # property subsection description
                     if "description" in p_info.keys():
