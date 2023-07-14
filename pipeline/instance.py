@@ -114,6 +114,7 @@ class InstancesDocBuilder(object):
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
+            name = "".join([name[0].capitalize(), name[1:]])
             doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
             doc.content("------------")
@@ -123,20 +124,20 @@ class InstancesDocBuilder(object):
             for term_name, term_data in sorted(data_to_display.items()):
                 doc.heading(term_data["name"], char="-")
                 doc.newline()
-                doc.directive(name="admonition", arg=term_data["@id"])
+                doc.directive(name="admonition", arg=f"``{term_data['@id']}``")
                 doc.newline()
                 field_list_indent = 3
-                definition = term_data["definition"] if "definition" in term_data and term_data["definition"] else "-"
+                definition = term_data["definition"] if "definition" in term_data and term_data["definition"] else "\-"
                 doc.field(name="definition", value=definition, indent=field_list_indent)
-                synonym = ", ".join(term_data["synonym"]) if "synonym" in term_data and term_data["synonym"] else "-"
+                synonym = ", ".join(term_data["synonym"]) if "synonym" in term_data and term_data["synonym"] else "\-"
                 doc.field(name="synonyms", value=synonym, indent=field_list_indent)
-                ontologyID = term_data["preferredOntologyIdentifier"] if "preferredOntologyIdentifier" in term_data and term_data["preferredOntologyIdentifier"] else "-"
+                ontologyID = term_data["preferredOntologyIdentifier"] if "preferredOntologyIdentifier" in term_data and term_data["preferredOntologyIdentifier"] else "\-"
                 doc.field(name="preferred ontology ID", value=ontologyID, indent=field_list_indent)
-                interlexID = term_data["interlexIdentifier"] if "interlexIdentifier" in term_data and term_data["interlexIdentifier"] else "-"
+                interlexID = term_data["interlexIdentifier"] if "interlexIdentifier" in term_data and term_data["interlexIdentifier"] else "\-"
                 doc.field(name="InterLex ID", value=interlexID, indent=field_list_indent)
-                ksEntry = term_data["knowledgeSpaceLink"] if "knowledgeSpaceLink" in term_data and term_data["knowledgeSpaceLink"] else "-"
+                ksEntry = term_data["knowledgeSpaceLink"] if "knowledgeSpaceLink" in term_data and term_data["knowledgeSpaceLink"] else "\-"
                 doc.field(name="KnowledgeSpace entry", value=ksEntry, indent=field_list_indent)
-                description = term_data["description"] if "description" in term_data and term_data["description"] else "-"
+                description = term_data["description"] if "description" in term_data and term_data["description"] else "\-"
                 doc.field(name="description", value=description, indent=field_list_indent)
                 doc.newline()
                 doc.content(f"`BACK TO TOP <{name}_>`_")
