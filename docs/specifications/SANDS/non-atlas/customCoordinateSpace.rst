@@ -2,7 +2,7 @@
 CustomCoordinateSpace
 #####################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CustomCoordinateSpace
+:Semantic name: https://openminds.ebrains.eu/sands/CustomCoordinateSpace
 
 
 ------------

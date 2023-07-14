@@ -2,7 +2,7 @@
 MetaDataModel
 #############
 
-:Semantic name:: https://openminds.ebrains.eu/core/MetaDataModel
+:Semantic name: https://openminds.ebrains.eu/core/MetaDataModel
 
 
 ------------

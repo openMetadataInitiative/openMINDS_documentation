@@ -2,7 +2,7 @@
 SubjectGroup
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/core/SubjectGroup
+:Semantic name: https://openminds.ebrains.eu/core/SubjectGroup
 
 
 ------------

@@ -2,10 +2,12 @@
 OperatingSystem
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
 
 Structured information on the operating system.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/operatingSystem.html>`_.
 
 ------------
 

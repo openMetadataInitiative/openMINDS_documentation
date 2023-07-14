@@ -2,7 +2,7 @@
 NumericalParameter
 ##################
 
-:Semantic name:: https://openminds.ebrains.eu/core/NumericalParameter
+:Semantic name: https://openminds.ebrains.eu/core/NumericalParameter
 
 
 ------------

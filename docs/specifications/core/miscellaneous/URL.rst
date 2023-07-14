@@ -2,7 +2,7 @@
 URL
 ###
 
-:Semantic name:: https://openminds.ebrains.eu/core/URL
+:Semantic name: https://openminds.ebrains.eu/core/URL
 
 
 ------------

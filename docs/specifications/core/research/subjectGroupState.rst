@@ -2,7 +2,7 @@
 SubjectGroupState
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/SubjectGroupState
+:Semantic name: https://openminds.ebrains.eu/core/SubjectGroupState
 
 
 ------------

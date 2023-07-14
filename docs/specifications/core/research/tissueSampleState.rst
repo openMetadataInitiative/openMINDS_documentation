@@ -2,7 +2,7 @@
 TissueSampleState
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/TissueSampleState
+:Semantic name: https://openminds.ebrains.eu/core/TissueSampleState
 
 Structured information on a temporary state of a tissue sample.
 

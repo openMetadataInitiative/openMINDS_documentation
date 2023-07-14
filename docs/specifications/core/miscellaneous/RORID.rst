@@ -2,7 +2,7 @@
 RORID
 #####
 
-:Semantic name:: https://openminds.ebrains.eu/core/RORID
+:Semantic name: https://openminds.ebrains.eu/core/RORID
 
 A persistent identifier for a research organization, provided by the Research Organization Registry.
 

@@ -2,7 +2,7 @@
 Funding
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/core/Funding
+:Semantic name: https://openminds.ebrains.eu/core/Funding
 
 Structured information on used funding.
 

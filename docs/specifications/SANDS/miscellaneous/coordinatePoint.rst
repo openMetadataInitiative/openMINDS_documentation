@@ -2,7 +2,7 @@
 CoordinatePoint
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CoordinatePoint
+:Semantic name: https://openminds.ebrains.eu/sands/CoordinatePoint
 
 Structured information on a coordinate point.
 

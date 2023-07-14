@@ -2,7 +2,7 @@
 Model
 #####
 
-:Semantic name:: https://openminds.ebrains.eu/core/Model
+:Semantic name: https://openminds.ebrains.eu/core/Model
 
 Structured information on a computational model (concept level).
 

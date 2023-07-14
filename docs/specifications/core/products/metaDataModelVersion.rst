@@ -2,7 +2,7 @@
 MetaDataModelVersion
 ####################
 
-:Semantic name:: https://openminds.ebrains.eu/core/MetaDataModelVersion
+:Semantic name: https://openminds.ebrains.eu/core/MetaDataModelVersion
 
 
 ------------

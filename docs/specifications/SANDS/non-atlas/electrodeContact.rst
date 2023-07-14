@@ -2,7 +2,7 @@
 ElectrodeContact
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/ElectrodeContact
+:Semantic name: https://openminds.ebrains.eu/sands/ElectrodeContact
 
 Structured information on an electrode contact.
 

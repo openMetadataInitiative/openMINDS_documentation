@@ -2,10 +2,12 @@
 BehavioralTask
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/BehavioralTask
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/BehavioralTask
 
 Structured information on the behavioral task that had to be peformed by a subject.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/behavioralTask.html>`_.
 
 ------------
 

@@ -2,7 +2,7 @@
 StringParameter
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/core/StringParameter
+:Semantic name: https://openminds.ebrains.eu/core/StringParameter
 
 
 ------------

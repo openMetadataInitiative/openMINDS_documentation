@@ -2,7 +2,7 @@
 BrainAtlas
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/sands/BrainAtlas
+:Semantic name: https://openminds.ebrains.eu/sands/BrainAtlas
 
 Structured information on a brain atlas (concept level).
 

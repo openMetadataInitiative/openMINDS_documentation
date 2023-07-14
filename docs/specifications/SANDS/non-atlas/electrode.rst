@@ -2,7 +2,7 @@
 Electrode
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Electrode
+:Semantic name: https://openminds.ebrains.eu/sands/Electrode
 
 Structured information on an electrode.
 

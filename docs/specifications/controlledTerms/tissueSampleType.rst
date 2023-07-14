@@ -2,10 +2,12 @@
 TissueSampleType
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
 
 Structured information on the general type of the tissue sample.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/tissueSampleType.html>`_.
 
 ------------
 

@@ -2,7 +2,7 @@
 ISBN
 ####
 
-:Semantic name:: https://openminds.ebrains.eu/core/ISBN
+:Semantic name: https://openminds.ebrains.eu/core/ISBN
 
 An International Standard Book Number of the International ISBN Agency.
 

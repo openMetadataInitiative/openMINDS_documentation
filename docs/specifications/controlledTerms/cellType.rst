@@ -2,8 +2,10 @@
 CellType
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/CellType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/CellType
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/cellType.html>`_.
 
 ------------
 
