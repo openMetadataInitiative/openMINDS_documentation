@@ -2,6 +2,8 @@
 ProgrammingLanguage
 ###################
 
+All instances listed below can be validated against the `ProgrammingLanguage schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/programmingLanguage.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Bash
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/C
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/C#
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/C++
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/HTML
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Java
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/PHP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Python
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/R
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/Scala
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/programmingLanguage/shell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProgrammingLanguage_>`_
+`BACK TO TOP <programmingLanguage_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 SubcellularEntity
 #################
 
+All instances listed below can be validated against the `SubcellularEntity schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subcellularEntity.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/asymmetricSynapse
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/axon
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/axonTerminal
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/GO:0043679#axon-terminus
    :description: Also included are varicosities along the course of axons which have similar specializations and also release transmitters. Presynaptic terminals in both the central and peripheral nervous systems are included (MSH).
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/dendrite
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/dendriticSpine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/mitochondrion
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/nerveFiber
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0006134#nerve-fiber
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/neurite
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/neurofilament
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/nucleus
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/symmetricSynapse
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/synapticBouton
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/synapticProtein
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/subcellularEntity/synapticVesicle
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <subcellularEntity_>`_
 
 ------------
 

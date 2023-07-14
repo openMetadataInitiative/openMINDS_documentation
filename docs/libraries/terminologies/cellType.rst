@@ -2,6 +2,8 @@
 CellType
 ########
 
+All instances listed below can be validated against the `CellType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/cellType/D1ReceptorExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/cellType/PurkinjeCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/cellType/aromataseExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/cellType/astrocyte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/cellType/basketCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/cellType/calbindinExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/cellType/calretininExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/cellType/cerebellarInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/cellType/cerebellumBasketCell
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:666951243#cerebellum-basket-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/cellType/cerebellumGolgiCell
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:129#golgi-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/cellType/cerebellumGranuleCell
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:128#cerebellum-granule-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/cellType/cerebellumStellateNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:130#cerebellum-stellate-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressi
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/cellType/cholinergicInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/cellType/cholinergicNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXNEURNT:090802#cholinergic-neuron
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/cellType/corticalBasketCell
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:56#neocortex-basket-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/cellType/corticalInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/cellType/dopaminergicNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/cellType/excitatoryNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/cellType/fastSpikingInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/cellType/glialCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/cellType/granuleNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/cellType/hippocampusCA1PyramidalNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/cellType/inhibitoryNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/cellType/interneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/cellType/macroglialCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/cellType/microglialCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/cellType/motorNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/cellType/neocortexLayer2-3PyramidalNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:49#neocortex-pyramidal-cell-layer-2-3
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/cellType/neocortexLayer5TuftedPyramidalNe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/cellType/neostriatumCholinergicInterneuro
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/cellType/neostriatumDirectPathwaySpinyNeu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/cellType/neostriatumIndirectPathwaySpinyN
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/cellType/neuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/cellType/neuropeptideYExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/cellType/nitricOxideSynthaseExpressingNeu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/cellType/parvalbuminExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/cellType/postmitoticCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/cellType/progenitorCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/cellType/pyramidalNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/cellType/sensoryNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/cellType/somatostatinExpressingNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/cellType/spinalInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/cellType/spinyNeuron
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXCELL:100601#spiny-neuron
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/cellType/stellateNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/cellType/striatalInterneuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/cellType/striatumMediumSpinyNeuron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/cellType/vascularEndothelialCell
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1543450574#vascular-endothelial-cell
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/cellType/vascularSmoothMuscleCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpre
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellType_>`_
+`BACK TO TOP <cellType_>`_
 
 ------------
 

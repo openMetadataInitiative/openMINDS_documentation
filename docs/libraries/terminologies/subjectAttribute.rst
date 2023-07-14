@@ -2,6 +2,8 @@
 SubjectAttribute
 ################
 
+All instances listed below can be validated against the `SubjectAttribute schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subjectAttribute.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/alert
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/alive
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/anaesthetized
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/asleep
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/awake
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/comatose
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/control
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/deceased
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/drugged
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/freelyMoving
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/hasImplantedDevice
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/headRestrained
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/knockin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/knockout
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/postoperative
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/preoperative
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/restrained
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/treated
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/subjectAttribute/untreated
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SubjectAttribute_>`_
+`BACK TO TOP <subjectAttribute_>`_
 
 ------------
 

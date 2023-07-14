@@ -2,6 +2,8 @@
 CranialWindowReinforcementType
 ##############################
 
+All instances listed below can be validated against the `CranialWindowReinforcementType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowReinforcementType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBa
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowReinforcementType_>`_
+`BACK TO TOP <cranialWindowReinforcementType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowReinforcementType_>`_
+`BACK TO TOP <cranialWindowReinforcementType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCover
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowReinforcementType_>`_
+`BACK TO TOP <cranialWindowReinforcementType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowReinforcementType_>`_
+`BACK TO TOP <cranialWindowReinforcementType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBased
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowReinforcementType_>`_
+`BACK TO TOP <cranialWindowReinforcementType_>`_
 
 ------------
 

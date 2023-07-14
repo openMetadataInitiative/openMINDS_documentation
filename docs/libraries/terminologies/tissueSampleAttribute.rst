@@ -2,6 +2,8 @@
 TissueSampleAttribute
 #####################
 
+All instances listed below can be validated against the `TissueSampleAttribute schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleAttribute.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/fixated
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/freeFloating
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/labeled
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/unstained
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleAttribute_>`_
+`BACK TO TOP <tissueSampleAttribute_>`_
 
 ------------
 

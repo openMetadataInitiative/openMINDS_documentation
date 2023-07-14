@@ -2,6 +2,8 @@
 ProductAccessibility
 ####################
 
+All instances listed below can be validated against the `ProductAccessibility schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProductAccessibility_>`_
+`BACK TO TOP <productAccessibility_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProductAccessibility_>`_
+`BACK TO TOP <productAccessibility_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProductAccessibility_>`_
+`BACK TO TOP <productAccessibility_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ProductAccessibility_>`_
+`BACK TO TOP <productAccessibility_>`_
 
 ------------
 

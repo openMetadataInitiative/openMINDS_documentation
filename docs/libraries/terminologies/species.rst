@@ -2,6 +2,8 @@
 Species
 #######
 
+All instances listed below can be validated against the `Species schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/species/berghiaStephanieae
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/species/callithrixJacchus
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/species/danioRerio
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/species/felisCatus
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/species/homoSapiens
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NCBITaxon:9606#human
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/species/macacaFascicularis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/species/macacaFuscata
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/species/macacaMulatta
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/species/monodelphisDomestica
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/species/musMusculus
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NCBITaxon:10090#mouse
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/species/mustelaPutorius
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/species/ovisAries
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/species/rattusNorvegicus
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NCBITaxon:10116#rat
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/species/susScrofaDomesticus
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NCBITaxon:9825#sus-scrofa-domesticus
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <species_>`_
 
 ------------
 

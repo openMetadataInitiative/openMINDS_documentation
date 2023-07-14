@@ -2,6 +2,8 @@
 ExperimentalApproach
 ####################
 
+All instances listed below can be validated against the `ExperimentalApproach schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/experimentalApproach.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/anatomy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/behavior
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/biophysics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/cellMorphology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharac
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationImagin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/computationalModelin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/ecology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/epidemiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/ethology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/expression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacteri
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/genetics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/genomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/histology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/informatics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/microscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/morphology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/multiomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/omics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/physiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/proteomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/radiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomi
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <experimentalApproach_>`_
 
 ------------
 

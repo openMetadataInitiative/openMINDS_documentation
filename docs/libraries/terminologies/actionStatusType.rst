@@ -2,6 +2,8 @@
 ActionStatusType
 ################
 
+All instances listed below can be validated against the `ActionStatusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/actionStatusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/active
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/completed
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/failed
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/inactive
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/paused
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/pending
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/potential
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ActionStatusType_>`_
+`BACK TO TOP <actionStatusType_>`_
 
 ------------
 

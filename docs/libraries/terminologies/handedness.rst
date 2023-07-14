@@ -2,6 +2,8 @@
 Handedness
 ##########
 
+All instances listed below can be validated against the `Handedness schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Handedness_>`_
+`BACK TO TOP <handedness_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Handedness_>`_
+`BACK TO TOP <handedness_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/handedness/leftHandedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Handedness_>`_
+`BACK TO TOP <handedness_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/handedness/mixedHandedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Handedness_>`_
+`BACK TO TOP <handedness_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/handedness/rightHandedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Handedness_>`_
+`BACK TO TOP <handedness_>`_
 
 ------------
 

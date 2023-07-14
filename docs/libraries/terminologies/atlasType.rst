@@ -2,6 +2,8 @@
 AtlasType
 #########
 
+All instances listed below can be validated against the `AtlasType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/atlasType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <atlasType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/atlasType/parcellationScheme
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <atlasType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <atlasType_>`_
 
 ------------
 

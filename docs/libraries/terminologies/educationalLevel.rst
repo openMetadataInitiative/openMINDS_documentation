@@ -2,6 +2,8 @@
 EducationalLevel
 ################
 
+All instances listed below can be validated against the `EducationalLevel schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/educationalLevel.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/educationalLevel/advanced
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <EducationalLevel_>`_
+`BACK TO TOP <educationalLevel_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/educationalLevel/beginner
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <EducationalLevel_>`_
+`BACK TO TOP <educationalLevel_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/educationalLevel/intermediate
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <EducationalLevel_>`_
+`BACK TO TOP <educationalLevel_>`_
 
 ------------
 

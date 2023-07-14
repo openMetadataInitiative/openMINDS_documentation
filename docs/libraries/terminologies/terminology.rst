@@ -2,6 +2,8 @@
 Terminology
 ###########
 
+All instances listed below can be validated against the `Terminology schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/terminology.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/terminology/actionStatusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/terminology/ageCategory
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/terminology/analysisTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/terminology/annotationType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/terminology/atlasType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/terminology/biologicalOrder
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/terminology/biologicalSex
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/terminology/breedingType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/terminology/cellCultureType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/terminology/cellType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/terminology/colormap
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/terminology/contributionType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementTyp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/terminology/dataType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/terminology/deviceType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/terminology/differenceMeasure
    :KnowledgeSpace entry: \-
    :description: This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/terminology/disease
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/terminology/diseaseModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/terminology/educationalLevel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/terminology/experimentalApproach
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/terminology/fileUsageRole
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/terminology/geneticStrainType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/terminology/handedness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/terminology/language
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/terminology/laterality
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/terminology/learningResourceType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/terminology/measuredQuantity
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/terminology/metaDataModelType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/terminology/modelScope
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/terminology/molecularEntity
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/terminology/operatingDevice
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/terminology/operatingSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/terminology/organ
    :KnowledgeSpace entry: \-
    :description: The preferred ontology for 'organ' is UBERON.
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/terminology/organismSubstance
    :KnowledgeSpace entry: \-
    :description: The preferred ontology for 'organism substance' is UBERON.
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/terminology/organismSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -956,7 +958,7 @@ https://openminds.ebrains.eu/instances/terminology/patchClampVariation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -974,7 +976,7 @@ https://openminds.ebrains.eu/instances/terminology/preparationType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -992,7 +994,7 @@ https://openminds.ebrains.eu/instances/terminology/productAccessibility
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1010,7 +1012,7 @@ https://openminds.ebrains.eu/instances/terminology/programmingLanguage
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1028,7 +1030,7 @@ https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1046,7 +1048,7 @@ https://openminds.ebrains.eu/instances/terminology/semanticDataType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1064,7 +1066,7 @@ https://openminds.ebrains.eu/instances/terminology/service
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1082,7 +1084,7 @@ https://openminds.ebrains.eu/instances/terminology/setupType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1100,7 +1102,7 @@ https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1118,7 +1120,7 @@ https://openminds.ebrains.eu/instances/terminology/softwareFeature
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1136,7 +1138,7 @@ https://openminds.ebrains.eu/instances/terminology/species
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1154,7 +1156,7 @@ https://openminds.ebrains.eu/instances/terminology/stimulationApproach
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1172,7 +1174,7 @@ https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1190,7 +1192,7 @@ https://openminds.ebrains.eu/instances/terminology/subcellularEntity
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1208,7 +1210,7 @@ https://openminds.ebrains.eu/instances/terminology/subjectAttribute
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1226,7 +1228,7 @@ https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1244,7 +1246,7 @@ https://openminds.ebrains.eu/instances/terminology/technique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1262,7 +1264,7 @@ https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1280,7 +1282,7 @@ https://openminds.ebrains.eu/instances/terminology/tissueSampleType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1298,7 +1300,7 @@ https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1316,7 +1318,7 @@ https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 
@@ -1334,7 +1336,7 @@ https://openminds.ebrains.eu/instances/terminology/visualStimulusType
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Terminology_>`_
+`BACK TO TOP <terminology_>`_
 
 ------------
 

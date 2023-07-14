@@ -2,6 +2,8 @@
 QualitativeOverlap
 ##################
 
+All instances listed below can be validated against the `QualitativeOverlap schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/qualitativeOverlap.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <QualitativeOverlap_>`_
+`BACK TO TOP <qualitativeOverlap_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <QualitativeOverlap_>`_
+`BACK TO TOP <qualitativeOverlap_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <QualitativeOverlap_>`_
+`BACK TO TOP <qualitativeOverlap_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <QualitativeOverlap_>`_
+`BACK TO TOP <qualitativeOverlap_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <QualitativeOverlap_>`_
+`BACK TO TOP <qualitativeOverlap_>`_
 
 ------------
 

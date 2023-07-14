@@ -2,6 +2,8 @@
 GeneticStrainType
 #################
 
+All instances listed below can be validated against the `GeneticStrainType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutRead
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/knockin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/knockout
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GeneticStrainType_>`_
+`BACK TO TOP <geneticStrainType_>`_
 
 ------------
 

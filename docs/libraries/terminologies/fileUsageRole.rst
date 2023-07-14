@@ -2,6 +2,8 @@
 FileUsageRole
 #############
 
+All instances listed below can be validated against the `FileUsageRole schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileUsageRole.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileUsageRole_>`_
+`BACK TO TOP <fileUsageRole_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/fileUsageRole/logo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileUsageRole_>`_
+`BACK TO TOP <fileUsageRole_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/fileUsageRole/preview
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileUsageRole_>`_
+`BACK TO TOP <fileUsageRole_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileUsageRole_>`_
+`BACK TO TOP <fileUsageRole_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 OrganismSystem
 ##############
 
+All instances listed below can be validated against the `OrganismSystem schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSystem.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0004535#cardiovascular-system
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :description: In vertebrates, the central nervous system (CNS) consists of the brain and the spinal cord. In invertebrates, it includes the central ganglia and the nerve cord.
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0025595#cholinergic-system-1
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0001007#digestive-system
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXANAT:1005024#gabaergic-system
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0002204#musculoskeletal-system
    :description: The musculoskeletal system (sometimes also called locomotor system) is subdivided into two broader systems, the skeletal system and the muscular system. The skeletal system includes bones and joints. The muscular system includes all muscles in the body.
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXANAT:1005027#noradrenergic-system
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0025593#serotonergic-system-1
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/UBERON:0007798#vascular-system
    :description: \-
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <organismSystem_>`_
 
 ------------
 

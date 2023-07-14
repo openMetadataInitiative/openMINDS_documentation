@@ -2,6 +2,8 @@
 UBERONParcellation
 ##################
 
+All instances listed below can be validated against the `UBERONParcellation schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_.
+
 ------------
 
 ------------

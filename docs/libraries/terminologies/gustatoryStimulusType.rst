@@ -2,6 +2,8 @@
 GustatoryStimulusType
 #####################
 
+All instances listed below can be validated against the `GustatoryStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GustatoryStimulusType_>`_
+`BACK TO TOP <gustatoryStimulusType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GustatoryStimulusType_>`_
+`BACK TO TOP <gustatoryStimulusType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GustatoryStimulusType_>`_
+`BACK TO TOP <gustatoryStimulusType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <GustatoryStimulusType_>`_
+`BACK TO TOP <gustatoryStimulusType_>`_
 
 ------------
 

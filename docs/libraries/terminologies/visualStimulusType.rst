@@ -2,6 +2,8 @@
 VisualStimulusType
 ##################
 
+All instances listed below can be validated against the `VisualStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <VisualStimulusType_>`_
+`BACK TO TOP <visualStimulusType_>`_
 
 ------------
 

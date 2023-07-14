@@ -2,6 +2,8 @@
 BiologicalSex
 #############
 
+All instances listed below can be validated against the `BiologicalSex schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/biologicalSex/female
    :KnowledgeSpace entry: \-
    :description: A female organism typically has the capacity to produce relatively large, usually immobile gametes (reproductive cells), called egg cells (or ova). In the process of fertilization, an egg cell (ovum) fuses with a smaller, usually mobile male gametes, called sperm cells (or spermatozoa).
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <biologicalSex_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
    :KnowledgeSpace entry: \-
    :description: A hermaphrodite is an animal or plant that can produce gametes (reproductive cells) of both, male and female sexes. In sexually dimorphic organisms, hermaphroditism may occur because of variations in the genetic code. The term *hermaphrodite* is considered to be misleading, stigmatizing, and scientifically specious in reference to humans. For this reason, in humans the term *intersex* is typically used.
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <biologicalSex_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/biologicalSex/male
    :KnowledgeSpace entry: \-
    :description: A male organism typically has the capacity to produce relatively small, usually mobile gametes (reproductive cells), called sperm cells (or spermatozoa). In the process of fertilization, these sperm cells fuse with a larger, usually immobile female gamete, called egg cell (or ovum).
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <biologicalSex_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <biologicalSex_>`_
 
 ------------
 

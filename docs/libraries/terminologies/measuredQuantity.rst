@@ -2,6 +2,8 @@
 MeasuredQuantity
 ################
 
+All instances listed below can be validated against the `MeasuredQuantity schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/measuredQuantity.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotentia
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MeasuredQuantity_>`_
+`BACK TO TOP <measuredQuantity_>`_
 
 ------------
 

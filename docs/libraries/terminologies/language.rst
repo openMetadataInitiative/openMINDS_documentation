@@ -2,6 +2,8 @@
 Language
 ########
 
+All instances listed below can be validated against the `Language schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/language.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/language/dutch
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/language/english
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/language/french
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/language/german
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/language/greek
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/language/italian
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/language/norwegian
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/language/spanish
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/language/swedish
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Language_>`_
+`BACK TO TOP <language_>`_
 
 ------------
 

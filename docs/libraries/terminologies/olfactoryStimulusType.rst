@@ -2,6 +2,8 @@
 OlfactoryStimulusType
 #####################
 
+All instances listed below can be validated against the `OlfactoryStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OlfactoryStimulusType_>`_
+`BACK TO TOP <olfactoryStimulusType_>`_
 
 ------------
 

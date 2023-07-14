@@ -2,6 +2,8 @@
 FileBundleGrouping
 ##################
 
+All instances listed below can be validated against the `FileBundleGrouping schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileBundleGrouping_>`_
+`BACK TO TOP <fileBundleGrouping_>`_
 
 ------------
 

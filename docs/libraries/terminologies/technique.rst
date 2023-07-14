@@ -2,6 +2,8 @@
 Technique
 #########
 
+All instances listed below can be validated against the `Technique schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/technique.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/technique/3DScanning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/technique/CLARITY_TDE
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/technique/DABStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/technique/DAPiStaining
    :KnowledgeSpace entry: \-
    :description: DAPi, or 4′,6-diamidino-2-phenylindole, is a blue fluorescent dye that bind strongly to adenine-thymine (AT) rich regions in DNA. It is used extensively in fluorescence microscopy and can be used on both fixated and living cells.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/technique/GolgiStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/technique/HEStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/technique/HoechstStaining
    :KnowledgeSpace entry: \-
    :description: Hoechst dyes are part of a family of blue fluorescent dye that bind to DNA. It acts similarly as DAPi and can also be used on both fixated and living cells.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/technique/NisslStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/technique/SWITCHImmunohistochemistry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/technique/T1PulseSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/technique/T2PulseSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/technique/TDEClearing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/technique/TimmsStaining
    :KnowledgeSpace entry: \-
    :description: The principle of this technique is that metals in the tissue can be transformed histochemically to metal sulphide. Subsequently, metal sulphide catalyze the reduction of silver ions by a reducing agent to metallic grains that are visible under a light or electron microscope.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/technique/activityModulationTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/technique/anaesthesiaAdministration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/technique/anaesthesiaTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/technique/anterogradeTracing
    :KnowledgeSpace entry: \-
    :description: Anterograde tracers are taken up by neuronal cell bodies at the injection site and travel to the axon terminals. Anterograde tracing techniques allow for a detailed assessment of neuronal connections between a target population of neurons and their outputs throughout the nervous system.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/technique/autoradiography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/technique/avidinBiotinComplexStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/technique/beta-galactosidaseStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/technique/biocytinStaining
    :KnowledgeSpace entry: \-
    :description: Biocytin staining is a technique commonly used in combination with intracellular electrophysiology for post-hoc recovery of morphological details of the studied neurons. For this, the chemical compound biocytin is included in the electrode in order to fill the studied cell. It allows for the visualisation of the dendritic arborization and the regions targeted by the axons of the studied neurons.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/technique/bloodSampling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/technique/brightfieldMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/technique/calciumImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/technique/callosotomy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp
    :KnowledgeSpace entry: \-
    :description: Cell-attached patch clamp is a patch clamp recording technique used in electrophysiology in which the intracellular integrity of the cell is preserved. Patches are formed using either a ‘loose seal’ (mega ohm resistance) or a ‘tight seal’ (giga ohm resistance) without rupturing the cell membrane. A loose seal is used for recording action potential currents, whereas a tight seal is required for evoking action potentials in the attached cell and for recording resting and synaptic potentials.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/technique/computerTomography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/technique/confocalMicroscopy
    :KnowledgeSpace entry: \-
    :description: Confocal microscopy focuses light onto a defined spot at a specific depth within a fluorescent sample to eliminate out-of-focus glare, and increase resolution and contrast in the micrographs.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/technique/contrastAgentAdministration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/technique/contrastEnhancement
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/technique/cortico-corticalEvokedPotential
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/technique/craniotomy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/technique/cryosectioning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/technique/currentClamp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/technique/diffusionFixationTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/technique/diffusionTensorImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/technique/electrocardiography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/technique/electrocorticography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/technique/electroencephalography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/technique/electromyography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/technique/electronMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/technique/electronTomography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/technique/electrooculography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/technique/electroporation
    :KnowledgeSpace entry: \-
    :description: 'Electroporation' is a process in which a significant increase in the electrical conductivity and permeability of the cell plasma membrane is caused by an externally applied electrical field. It is usually used in molecular biology as a way of introducing some substance into a cell, such as loading it with a molecular probe, a drug that can change the cell's function, or a piece of coding DNA.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/technique/epidermalElectrophysiologyTechn
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -956,7 +958,7 @@ https://openminds.ebrains.eu/instances/technique/epifluorescentMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -974,7 +976,7 @@ https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -992,7 +994,7 @@ https://openminds.ebrains.eu/instances/technique/fixationTechnique
    :KnowledgeSpace entry: \-
    :description: Fixation is a two-step process in which 1) all normal life functions are terminated and 2) the structure of the tissue is stabilized (preserved). The fixation of tissue can be achieved by chemical or physical (e.g. heating, freezing) means.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1010,7 +1012,7 @@ https://openminds.ebrains.eu/instances/technique/fluorescenceMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1028,7 +1030,7 @@ https://openminds.ebrains.eu/instances/technique/focusedIonBeamScanningElectronM
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1046,7 +1048,7 @@ https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImag
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1064,7 +1066,7 @@ https://openminds.ebrains.eu/instances/technique/geneKnockin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1082,7 +1084,7 @@ https://openminds.ebrains.eu/instances/technique/geneKnockout
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1100,7 +1102,7 @@ https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1118,7 +1120,7 @@ https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1136,7 +1138,7 @@ https://openminds.ebrains.eu/instances/technique/high-resolutionScanning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1154,7 +1156,7 @@ https://openminds.ebrains.eu/instances/technique/high-speedVideoRecording
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1172,7 +1174,7 @@ https://openminds.ebrains.eu/instances/technique/highDensityElectroencephalograp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1190,7 +1192,7 @@ https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticReso
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1208,7 +1210,7 @@ https://openminds.ebrains.eu/instances/technique/highFieldMagneticResonanceImagi
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1226,7 +1228,7 @@ https://openminds.ebrains.eu/instances/technique/highThroughputScanning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1244,7 +1246,7 @@ https://openminds.ebrains.eu/instances/technique/histochemistry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1262,7 +1264,7 @@ https://openminds.ebrains.eu/instances/technique/immunohistochemistry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1280,7 +1282,7 @@ https://openminds.ebrains.eu/instances/technique/immunoprecipitation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1298,7 +1300,7 @@ https://openminds.ebrains.eu/instances/technique/implantSurgery
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1316,7 +1318,7 @@ https://openminds.ebrains.eu/instances/technique/inSituHybridisation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1334,7 +1336,7 @@ https://openminds.ebrains.eu/instances/technique/infraredDifferentialInterferenc
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1352,7 +1354,7 @@ https://openminds.ebrains.eu/instances/technique/injection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1370,7 +1372,7 @@ https://openminds.ebrains.eu/instances/technique/intracellularElectrophysiology
    :KnowledgeSpace entry: \-
    :description: 'Intracellular electrophysiology' describes a group of techniques used to measure with precision the voltage across, or electrical currents passing through, neuronal or other cellular membranes by inserting an electrode inside the neuron.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1388,7 +1390,7 @@ https://openminds.ebrains.eu/instances/technique/intracellularInjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1406,7 +1408,7 @@ https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalogra
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1424,7 +1426,7 @@ https://openminds.ebrains.eu/instances/technique/intraperitonealInjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1442,7 +1444,7 @@ https://openminds.ebrains.eu/instances/technique/intravenousInjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1460,7 +1462,7 @@ https://openminds.ebrains.eu/instances/technique/iontophoresis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1478,7 +1480,7 @@ https://openminds.ebrains.eu/instances/technique/iontophoreticMicroinjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1496,7 +1498,7 @@ https://openminds.ebrains.eu/instances/technique/lightMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1514,7 +1516,7 @@ https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscop
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1532,7 +1534,7 @@ https://openminds.ebrains.eu/instances/technique/magneticResonanceImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1550,7 +1552,7 @@ https://openminds.ebrains.eu/instances/technique/magneticResonanceSpectroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1568,7 +1570,7 @@ https://openminds.ebrains.eu/instances/technique/magnetoencephalography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1586,7 +1588,7 @@ https://openminds.ebrains.eu/instances/technique/massSpectrometry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1604,7 +1606,7 @@ https://openminds.ebrains.eu/instances/technique/microtomeSectioning
    :KnowledgeSpace entry: \-
    :description: The microtome cutting thickness can range between 50 nanometer and 100 micrometer.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1622,7 +1624,7 @@ https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElec
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1640,7 +1642,7 @@ https://openminds.ebrains.eu/instances/technique/multipleWholeCellPatchClamp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1658,7 +1660,7 @@ https://openminds.ebrains.eu/instances/technique/myelinStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1676,7 +1678,7 @@ https://openminds.ebrains.eu/instances/technique/nucleicAcidExtraction
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1694,7 +1696,7 @@ https://openminds.ebrains.eu/instances/technique/optogeneticInhibition
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1712,7 +1714,7 @@ https://openminds.ebrains.eu/instances/technique/oralAdministration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1730,7 +1732,7 @@ https://openminds.ebrains.eu/instances/technique/organExtraction
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1748,7 +1750,7 @@ https://openminds.ebrains.eu/instances/technique/patchClamp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1766,7 +1768,7 @@ https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1784,7 +1786,7 @@ https://openminds.ebrains.eu/instances/technique/perfusionTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1802,7 +1804,7 @@ https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomogr
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1820,7 +1822,7 @@ https://openminds.ebrains.eu/instances/technique/phaseContrastXRayImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1838,7 +1840,7 @@ https://openminds.ebrains.eu/instances/technique/photoactivation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1856,7 +1858,7 @@ https://openminds.ebrains.eu/instances/technique/photoinactivation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1874,7 +1876,7 @@ https://openminds.ebrains.eu/instances/technique/photoplethysmography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1892,7 +1894,7 @@ https://openminds.ebrains.eu/instances/technique/polarizedLightMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1910,7 +1912,7 @@ https://openminds.ebrains.eu/instances/technique/populationReceptiveFieldMapping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1928,7 +1930,7 @@ https://openminds.ebrains.eu/instances/technique/positronEmissionTomography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1946,7 +1948,7 @@ https://openminds.ebrains.eu/instances/technique/pressureInjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1964,7 +1966,7 @@ https://openminds.ebrains.eu/instances/technique/primaryAntibodyStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -1982,7 +1984,7 @@ https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLab
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2000,7 +2002,7 @@ https://openminds.ebrains.eu/instances/technique/psychologicalTesting
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2018,7 +2020,7 @@ https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceIm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2036,7 +2038,7 @@ https://openminds.ebrains.eu/instances/technique/receptiveFieldMapping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2054,7 +2056,7 @@ https://openminds.ebrains.eu/instances/technique/retinotopicMapping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2072,7 +2074,7 @@ https://openminds.ebrains.eu/instances/technique/retrogradeTracing
    :KnowledgeSpace entry: \-
    :description: In 'retrograde tracing' a tracer substance is taken up by synaptic terminals (and sometimes by axons) of neurons in the region where it is injected. Retrograde tracing techniques allow for a detailed assessment of neuronal connections between a target population of neurons and their inputs throughout the nervous system.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2090,7 +2092,7 @@ https://openminds.ebrains.eu/instances/technique/scanningElectronMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2108,7 +2110,7 @@ https://openminds.ebrains.eu/instances/technique/scatteredLightImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2126,7 +2128,7 @@ https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2144,7 +2146,7 @@ https://openminds.ebrains.eu/instances/technique/serialBlockFaceScanningElectron
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2162,7 +2164,7 @@ https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectr
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2180,7 +2182,7 @@ https://openminds.ebrains.eu/instances/technique/sharpElectrodeIntracellularElec
    :KnowledgeSpace entry: \-
    :description: This technique uses a fine-tipped micropipette/microelectrode that is inserted into the neuron, allowing direct recording of electrical events generated by the neuron (membrane potential, resistance, time constant, synaptic potentials and action potentials).
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2198,7 +2200,7 @@ https://openminds.ebrains.eu/instances/technique/silverStaining
    :KnowledgeSpace entry: \-
    :description: Silver can be used to stain subcellular targets such as proteins, peptide, carbohydrates, RNA or DNA. This techniques is typically used on histological sections prior to light microscopy, for the detection of proteins and peptides in polyacrylamide gels or gel electrophoresis.
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2216,7 +2218,7 @@ https://openminds.ebrains.eu/instances/technique/singleElectrodeExtracellularEle
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2234,7 +2236,7 @@ https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularEle
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2252,7 +2254,7 @@ https://openminds.ebrains.eu/instances/technique/sodiumMRI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2270,7 +2272,7 @@ https://openminds.ebrains.eu/instances/technique/sonography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2288,7 +2290,7 @@ https://openminds.ebrains.eu/instances/technique/spinEchoPulseSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2306,7 +2308,7 @@ https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2324,7 +2326,7 @@ https://openminds.ebrains.eu/instances/technique/stereology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2342,7 +2344,7 @@ https://openminds.ebrains.eu/instances/technique/stereotacticSurgery
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2360,7 +2362,7 @@ https://openminds.ebrains.eu/instances/technique/structuralNeuroimaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2378,7 +2380,7 @@ https://openminds.ebrains.eu/instances/technique/subcutaneousInjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2396,7 +2398,7 @@ https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2414,7 +2416,7 @@ https://openminds.ebrains.eu/instances/technique/tetrodeExtracellularElectrophys
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2432,7 +2434,7 @@ https://openminds.ebrains.eu/instances/technique/time-of-flightMagneticResonance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2450,7 +2452,7 @@ https://openminds.ebrains.eu/instances/technique/tissueClearing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2468,7 +2470,7 @@ https://openminds.ebrains.eu/instances/technique/transcardialPerfusionFixationTe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2486,7 +2488,7 @@ https://openminds.ebrains.eu/instances/technique/transcardialPerfusionTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2504,7 +2506,7 @@ https://openminds.ebrains.eu/instances/technique/transmissionElectronMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2522,7 +2524,7 @@ https://openminds.ebrains.eu/instances/technique/twoPhotonFluorescenceMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2540,7 +2542,7 @@ https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneti
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2558,7 +2560,7 @@ https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2576,7 +2578,7 @@ https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2594,7 +2596,7 @@ https://openminds.ebrains.eu/instances/technique/vibratomeSectioning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2612,7 +2614,7 @@ https://openminds.ebrains.eu/instances/technique/videoTracking
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2630,7 +2632,7 @@ https://openminds.ebrains.eu/instances/technique/virus-mediatedTransfection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2648,7 +2650,7 @@ https://openminds.ebrains.eu/instances/technique/voltageClamp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2666,7 +2668,7 @@ https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2684,7 +2686,7 @@ https://openminds.ebrains.eu/instances/technique/weightedCorrelationNetworkAnaly
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2702,7 +2704,7 @@ https://openminds.ebrains.eu/instances/technique/wholeCellPatchClamp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 
@@ -2720,7 +2722,7 @@ https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Technique_>`_
+`BACK TO TOP <technique_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 AnnotationCriteriaType
 ######################
 
+All instances listed below can be validated against the `AnnotationCriteriaType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnot
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationCriteriaType_>`_
+`BACK TO TOP <annotationCriteriaType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnot
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationCriteriaType_>`_
+`BACK TO TOP <annotationCriteriaType_>`_
 
 ------------
 

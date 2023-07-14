@@ -2,6 +2,8 @@
 AgeCategory
 ###########
 
+All instances listed below can be validated against the `AgeCategory schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ageCategory.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/ageCategory/adolescent
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/ageCategory/adult
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/ageCategory/embryo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/ageCategory/infant
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/ageCategory/juvenile
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/ageCategory/lateAdult
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/ageCategory/neonate
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/ageCategory/perinatal
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/ageCategory/primeAdult
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/ageCategory/youngAdult
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <ageCategory_>`_
 
 ------------
 

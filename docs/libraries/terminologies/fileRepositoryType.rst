@@ -2,6 +2,8 @@
 FileRepositoryType
 ##################
 
+All instances listed below can be validated against the `FileRepositoryType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileRepositoryType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/ftp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/git
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/s3
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/seafile
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/fileRepositoryType/swift
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <FileRepositoryType_>`_
+`BACK TO TOP <fileRepositoryType_>`_
 
 ------------
 

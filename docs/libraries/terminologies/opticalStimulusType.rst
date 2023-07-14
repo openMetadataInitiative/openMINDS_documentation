@@ -2,6 +2,8 @@
 OpticalStimulusType
 ###################
 
+All instances listed below can be validated against the `OpticalStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/opticalStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/opticalStimulusType/infraredNeuralStimulu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OpticalStimulusType_>`_
+`BACK TO TOP <opticalStimulusType_>`_
 
 ------------
 

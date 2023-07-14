@@ -2,6 +2,8 @@
 OperatingSystem
 ###############
 
+All instances listed below can be validated against the `OperatingSystem schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingSystem.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/Android
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/MacOS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/Unix
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/iOS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingSystem_>`_
+`BACK TO TOP <operatingSystem_>`_
 
 ------------
 

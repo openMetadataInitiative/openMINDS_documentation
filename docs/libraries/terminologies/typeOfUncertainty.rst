@@ -2,6 +2,8 @@
 TypeOfUncertainty
 #################
 
+All instances listed below can be validated against the `TypeOfUncertainty schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/typeOfUncertainty.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TypeOfUncertainty_>`_
+`BACK TO TOP <typeOfUncertainty_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TypeOfUncertainty_>`_
+`BACK TO TOP <typeOfUncertainty_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 SetupType
 #########
 
+All instances listed below can be validated against the `SetupType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/setupType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SetupType_>`_
+`BACK TO TOP <setupType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/setupType/computingSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SetupType_>`_
+`BACK TO TOP <setupType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/setupType/stimulationSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SetupType_>`_
+`BACK TO TOP <setupType_>`_
 
 ------------
 

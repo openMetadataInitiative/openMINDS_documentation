@@ -2,6 +2,8 @@
 AnnotationType
 ##############
 
+All instances listed below can be validated against the `AnnotationType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/annotationType/annotationContourLine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationType_>`_
+`BACK TO TOP <annotationType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/annotationType/annotationMask
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationType_>`_
+`BACK TO TOP <annotationType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/annotationType/annotationPoint
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationType_>`_
+`BACK TO TOP <annotationType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/annotationType/annotationSurface
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnnotationType_>`_
+`BACK TO TOP <annotationType_>`_
 
 ------------
 

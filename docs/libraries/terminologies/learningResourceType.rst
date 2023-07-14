@@ -2,6 +2,8 @@
 LearningResourceType
 ####################
 
+All instances listed below can be validated against the `LearningResourceType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/learningResourceType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentati
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <LearningResourceType_>`_
+`BACK TO TOP <learningResourceType_>`_
 
 ------------
 

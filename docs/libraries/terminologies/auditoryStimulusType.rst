@@ -2,6 +2,8 @@
 AuditoryStimulusType
 ####################
 
+All instances listed below can be validated against the `AuditoryStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/auditoryStimulusType/realSpokenWord
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AuditoryStimulusType_>`_
+`BACK TO TOP <auditoryStimulusType_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 SemanticDataType
 ################
 
+All instances listed below can be validated against the `SemanticDataType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/semanticDataType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/semanticDataType/derivedData
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SemanticDataType_>`_
+`BACK TO TOP <semanticDataType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SemanticDataType_>`_
+`BACK TO TOP <semanticDataType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/semanticDataType/rawData
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SemanticDataType_>`_
+`BACK TO TOP <semanticDataType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SemanticDataType_>`_
+`BACK TO TOP <semanticDataType_>`_
 
 ------------
 

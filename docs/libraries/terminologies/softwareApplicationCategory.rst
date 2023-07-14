@@ -2,6 +2,8 @@
 SoftwareApplicationCategory
 ###########################
 
+All instances listed below can be validated against the `SoftwareApplicationCategory schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <SoftwareApplicationCategory_>`_
+`BACK TO TOP <softwareApplicationCategory_>`_
 
 ------------
 

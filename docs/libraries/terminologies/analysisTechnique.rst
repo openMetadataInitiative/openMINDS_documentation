@@ -2,6 +2,8 @@
 AnalysisTechnique
 #################
 
+All instances listed below can be validated against the `AnalysisTechnique schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/analysisTechnique.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/technique/3DComputerGraphicModeling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/technique/4PointsCongruentSetsAlignment
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/technique/DNAMethylationAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/technique/DNASequencing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/technique/GrubbsTest
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/technique/HPCSimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/technique/ICABasedDenoisingTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/technique/MannWhitneyUTest
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/technique/RNASequencing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/technique/ShapiroWilkTest
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/technique/SpearmansRankOrderCorrelation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/technique/WardClustering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/technique/activationLikelihoodEstimation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/technique/affineImageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/technique/affineTransformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/technique/averageLinkageClustering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/technique/biasFieldCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/technique/bootstrapping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/technique/boundaryBasedRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/technique/clusterAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/technique/combinedVolumeSurfaceRegistrati
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/technique/communicationProfiling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/technique/conjunctionAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/technique/connected-componentAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/technique/connectivityBasedParcellationTe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/technique/convolution
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/technique/correlationAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/technique/covarianceAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/technique/currentSourceDensityAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/technique/deepLearning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/technique/densityMeasurement
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/technique/dictionaryLearning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/technique/diffeomorphicRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay
    :KnowledgeSpace entry: \-
    :description: This immunoassay utilizes an antibody labeled with an enzyme marker such as horseradish peroxidase. While either the enzyme or the antibody is bound to an immunosorbent substrate, they both retain their biologic activity; the change in enzyme activity as a result of the enzyme-antibody-antigen reaction is proportional to the concentration of the antigen and can be measured spectrophotometrically or with the naked eye. Many variations of the method have been developed.
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/technique/eyeMovementTracking
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/technique/geneExpressionMeasurement
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/technique/generalLinearModeling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/technique/geneticCorrelationAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/technique/geneticRiskScore
    :KnowledgeSpace entry: \-
    :description: [described in: Igo, R. P., Jr, Kinzy, T. G., & Cooke Bailey, J. N. (2019). Genetic Risk Scores. Current protocols in human genetics, 104(1), e95. https://doi.org/10.1002/cphg.95]
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/technique/globalSignalRegression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/technique/hierarchicalAgglomerativeCluste
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/technique/hierarchicalClustering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/technique/hierarchicalDivisiveClustering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/technique/imageDistortionCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/technique/imageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/technique/independentComponentAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/technique/interSubjectAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/technique/interpolation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/technique/intraSubjectAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -956,7 +958,7 @@ https://openminds.ebrains.eu/instances/technique/k-meansClustering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -974,7 +976,7 @@ https://openminds.ebrains.eu/instances/technique/linearImageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -992,7 +994,7 @@ https://openminds.ebrains.eu/instances/technique/linearRegression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1010,7 +1012,7 @@ https://openminds.ebrains.eu/instances/technique/linearTransformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1028,7 +1030,7 @@ https://openminds.ebrains.eu/instances/technique/literatureMining
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1046,7 +1048,7 @@ https://openminds.ebrains.eu/instances/technique/manifoldLearning
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1064,7 +1066,7 @@ https://openminds.ebrains.eu/instances/technique/massUnivariateAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1082,7 +1084,7 @@ https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1100,7 +1102,7 @@ https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1118,7 +1120,7 @@ https://openminds.ebrains.eu/instances/technique/metaAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1136,7 +1138,7 @@ https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModelin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1154,7 +1156,7 @@ https://openminds.ebrains.eu/instances/technique/metadataParsing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1172,7 +1174,7 @@ https://openminds.ebrains.eu/instances/technique/modelBasedStimulationArtifactCo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1190,7 +1192,7 @@ https://openminds.ebrains.eu/instances/technique/morphometricAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1208,7 +1210,7 @@ https://openminds.ebrains.eu/instances/technique/morphometry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1226,7 +1228,7 @@ https://openminds.ebrains.eu/instances/technique/motionCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1244,7 +1246,7 @@ https://openminds.ebrains.eu/instances/technique/movementTracking
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1262,7 +1264,7 @@ https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1280,7 +1282,7 @@ https://openminds.ebrains.eu/instances/technique/multi-scaleIndividualComponentC
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1298,7 +1300,7 @@ https://openminds.ebrains.eu/instances/technique/multiVoxelPatternAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1316,7 +1318,7 @@ https://openminds.ebrains.eu/instances/technique/multipleLinearRegression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1334,7 +1336,7 @@ https://openminds.ebrains.eu/instances/technique/neuromorphicSimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1352,7 +1354,7 @@ https://openminds.ebrains.eu/instances/technique/nonlinearImageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1370,7 +1372,7 @@ https://openminds.ebrains.eu/instances/technique/nonlinearTransformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1388,7 +1390,7 @@ https://openminds.ebrains.eu/instances/technique/nonrigidImageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1406,7 +1408,7 @@ https://openminds.ebrains.eu/instances/technique/nonrigidMotionCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1424,7 +1426,7 @@ https://openminds.ebrains.eu/instances/technique/nonrigidTransformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1442,7 +1444,7 @@ https://openminds.ebrains.eu/instances/technique/nuisanceRegression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1460,7 +1462,7 @@ https://openminds.ebrains.eu/instances/technique/pathwayAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1478,7 +1480,7 @@ https://openminds.ebrains.eu/instances/technique/performanceProfiling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1496,7 +1498,7 @@ https://openminds.ebrains.eu/instances/technique/perturbationalComplexityIndexMe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1514,7 +1516,7 @@ https://openminds.ebrains.eu/instances/technique/phaseSynchronizationAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1532,7 +1534,7 @@ https://openminds.ebrains.eu/instances/technique/principalComponentAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1550,7 +1552,7 @@ https://openminds.ebrains.eu/instances/technique/probabilisticAnatomicalParcella
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1568,7 +1570,7 @@ https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractogra
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1586,7 +1588,7 @@ https://openminds.ebrains.eu/instances/technique/pupillometry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1604,7 +1606,7 @@ https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1622,7 +1624,7 @@ https://openminds.ebrains.eu/instances/technique/quantification
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1640,7 +1642,7 @@ https://openminds.ebrains.eu/instances/technique/quantitativeAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1658,7 +1660,7 @@ https://openminds.ebrains.eu/instances/technique/reconstructionTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1676,7 +1678,7 @@ https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1694,7 +1696,7 @@ https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionM
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1712,7 +1714,7 @@ https://openminds.ebrains.eu/instances/technique/rigidImageRegistration
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1730,7 +1732,7 @@ https://openminds.ebrains.eu/instances/technique/rigidMotionCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1748,7 +1750,7 @@ https://openminds.ebrains.eu/instances/technique/rigidTransformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1766,7 +1768,7 @@ https://openminds.ebrains.eu/instances/technique/rule-basedModeling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1784,7 +1786,7 @@ https://openminds.ebrains.eu/instances/technique/seed-basedCorrelationAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1802,7 +1804,7 @@ https://openminds.ebrains.eu/instances/technique/semanticAnchoring
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1820,7 +1822,7 @@ https://openminds.ebrains.eu/instances/technique/semiquantitativeAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1838,7 +1840,7 @@ https://openminds.ebrains.eu/instances/technique/signalFilteringTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1856,7 +1858,7 @@ https://openminds.ebrains.eu/instances/technique/signalProcessingTechnique
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1874,7 +1876,7 @@ https://openminds.ebrains.eu/instances/technique/simulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1892,7 +1894,7 @@ https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1910,7 +1912,7 @@ https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1928,7 +1930,7 @@ https://openminds.ebrains.eu/instances/technique/singleNucleotidePolymorphismDet
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1946,7 +1948,7 @@ https://openminds.ebrains.eu/instances/technique/sliceTimingCorrection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1964,7 +1966,7 @@ https://openminds.ebrains.eu/instances/technique/spectralPowerAutoSegmentationTe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -1982,7 +1984,7 @@ https://openminds.ebrains.eu/instances/technique/spikeSorting
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2000,7 +2002,7 @@ https://openminds.ebrains.eu/instances/technique/stochasticOnlineMatrixFactoriza
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2018,7 +2020,7 @@ https://openminds.ebrains.eu/instances/technique/structuralCovarianceAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2036,7 +2038,7 @@ https://openminds.ebrains.eu/instances/technique/supportVectorMachineClassifier
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2054,7 +2056,7 @@ https://openminds.ebrains.eu/instances/technique/supportVectorMachineRegression
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2072,7 +2074,7 @@ https://openminds.ebrains.eu/instances/technique/surfaceProjection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2090,7 +2092,7 @@ https://openminds.ebrains.eu/instances/technique/temporalFiltering
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2108,7 +2110,7 @@ https://openminds.ebrains.eu/instances/technique/tractTracing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2126,7 +2128,7 @@ https://openminds.ebrains.eu/instances/technique/tractography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2144,7 +2146,7 @@ https://openminds.ebrains.eu/instances/technique/transformation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2162,7 +2164,7 @@ https://openminds.ebrains.eu/instances/technique/video-oculography
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2180,7 +2182,7 @@ https://openminds.ebrains.eu/instances/technique/videoAnnotation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2198,7 +2200,7 @@ https://openminds.ebrains.eu/instances/technique/voxel-basedMorphometry
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2216,7 +2218,7 @@ https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 
@@ -2234,7 +2236,7 @@ https://openminds.ebrains.eu/instances/technique/zScoreAnalysis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnalysisTechnique_>`_
+`BACK TO TOP <analysisTechnique_>`_
 
 ------------
 

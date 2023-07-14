@@ -2,6 +2,8 @@
 DeviceType
 ##########
 
+All instances listed below can be validated against the `DeviceType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/deviceType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/deviceType/CTscanner
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/deviceType/MRIscanner
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/deviceType/electronicAmplifier
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/deviceType/microscope
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/deviceType/microtome
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <deviceType_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 UnitOfMeasurement
 #################
 
+All instances listed below can be validated against the `UnitOfMeasurement schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/unitOfMeasurement.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/ampere
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/bit
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/byte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/centimeter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/coreHour
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/day
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeFahrenheit
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeRankine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/gigaohm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/gram
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/hour
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/kilobyte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/kilogram
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/liter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/megabyte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/megaohm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/meter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/microgramPerMilliliter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/micromolar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerKilogramBod
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerMilliliter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/millimolar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/millisecond
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/millivolt
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/minute
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/molar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/month
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/nanoampere
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/nanomolar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/ohm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/picoampere
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/radian
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/second
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/terabyte
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/volt
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/volumePerVolumePercenta
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/waferHour
    :KnowledgeSpace entry: \-
    :description: An example of such a wafer-scale system would be BrainScaleS-1
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/week
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercenta
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerWeightPercenta
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/unitOfMeasurement/year
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <UnitOfMeasurement_>`_
+`BACK TO TOP <unitOfMeasurement_>`_
 
 ------------
 

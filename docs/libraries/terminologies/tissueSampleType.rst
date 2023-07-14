@@ -2,6 +2,8 @@
 TissueSampleType
 ################
 
+All instances listed below can be validated against the `TissueSampleType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/biopsySample
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/fluidSpecimen
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/hemisphere
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/heterogeneousCellPopulat
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulatio
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/nerve
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/singleCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/tissueBlock
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TissueSampleType_>`_
+`BACK TO TOP <tissueSampleType_>`_
 
 ------------
 

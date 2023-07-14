@@ -2,6 +2,8 @@
 Disease
 #######
 
+All instances listed below can be validated against the `Disease schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/disease/acquiredBlindness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/disease/alzheimersDisease
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/disease/cerebralAtrophy
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/HP:0012444#brain-atrophy
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/disease/congenitalBlindness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/disease/disorderOfConsciousness
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/disease/epilepsy
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/disease/focalCerebralIschemia
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/disease/fragileXsyndrome
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/disease/glioma
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/disease/malignantNeoplasm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/disease/meningioma
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/disease/mentalDisorder
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/disease/minimallyConsciousState
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/disease/multipleSclerosis
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/disease/parkinsonsDisease
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/disease/stroke
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/disease/unresponsiveWakefulnessSyndrome
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Disease_>`_
+`BACK TO TOP <disease_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 ElectricalStimulusType
 ######################
 
+All instances listed below can be validated against the `ElectricalStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ElectricalStimulusType_>`_
+`BACK TO TOP <electricalStimulusType_>`_
 
 ------------
 

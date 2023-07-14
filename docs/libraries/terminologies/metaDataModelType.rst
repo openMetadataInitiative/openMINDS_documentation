@@ -2,6 +2,8 @@
 MetaDataModelType
 #################
 
+All instances listed below can be validated against the `MetaDataModelType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/metaDataModelType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/metaDataModelType/commonDataElements
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MetaDataModelType_>`_
+`BACK TO TOP <metaDataModelType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MetaDataModelType_>`_
+`BACK TO TOP <metaDataModelType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/metaDataModelType/graphMetadataModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MetaDataModelType_>`_
+`BACK TO TOP <metaDataModelType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MetaDataModelType_>`_
+`BACK TO TOP <metaDataModelType_>`_
 
 ------------
 

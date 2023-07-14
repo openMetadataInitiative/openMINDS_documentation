@@ -2,6 +2,8 @@
 AnatomicalPlane
 ###############
 
+All instances listed below can be validated against the `AnatomicalPlane schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalPlane.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/anatomicalPlane/axialPlane
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalPlane_>`_
+`BACK TO TOP <anatomicalPlane_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/anatomicalPlane/frontalPlane
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalPlane_>`_
+`BACK TO TOP <anatomicalPlane_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/anatomicalPlane/longitudinalPlane
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalPlane_>`_
+`BACK TO TOP <anatomicalPlane_>`_
 
 ------------
 

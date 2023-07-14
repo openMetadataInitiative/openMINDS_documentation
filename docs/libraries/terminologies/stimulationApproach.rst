@@ -2,6 +2,8 @@
 StimulationApproach
 ###################
 
+All instances listed below can be validated against the `StimulationApproach schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationApproach.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of hearing. It usually arises from an audible stimulation of the auditory (hearing) system, such as from a sound.
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of taste or flavor. It usually but not always arises through stimulation of the gustatory system (e.g., tastebuds, nasal receptors).
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulat
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of interoception, or internal sensations.
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of smelling. It usually but not always arises from the stimulation of the olfactory system by chemicals.
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of touch or contact via the skin. It usually but not always arises from a tactile stimulation via contact of the skin to other external objects.
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation
    :KnowledgeSpace entry: \-
    :description: The sensory modality that pertains to the sense of sight. It usually but not always arises from the stimulation of the visual system with a light source of sufficient brightness to be visible.
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <stimulationApproach_>`_
 
 ------------
 

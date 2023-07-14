@@ -2,6 +2,8 @@
 Colormap
 ########
 
+All instances listed below can be validated against the `Colormap schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/colormap.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Acc
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Blu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BrB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuG
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.CMR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Dar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.GnB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Gre
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Gre
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.OrR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Ora
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PRG
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pai
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pas
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PiY
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuO
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pur
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdB
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdG
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdY
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdY
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Red
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Spe
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Wis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlG
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlG
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlO
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlO
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.afm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.aut
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bon
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.brg
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bwr
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.civ
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.coo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.coo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cop
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cub
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.fla
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -956,7 +958,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -974,7 +976,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -992,7 +994,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1010,7 +1012,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1028,7 +1030,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1046,7 +1048,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1064,7 +1066,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gra
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1082,7 +1084,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hot
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1100,7 +1102,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hsv
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1118,7 +1120,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.inf
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1136,7 +1138,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.jet
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1154,7 +1156,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.mag
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1172,7 +1174,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.nip
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1190,7 +1192,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.oce
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1208,7 +1210,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1226,7 +1228,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pla
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1244,7 +1246,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pri
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1262,7 +1264,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.rai
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1280,7 +1282,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.sei
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1298,7 +1300,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.spr
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1316,7 +1318,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.sum
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1334,7 +1336,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1352,7 +1354,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1370,7 +1372,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1388,7 +1390,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1406,7 +1408,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.ter
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1424,7 +1426,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tur
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1442,7 +1444,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twi
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1460,7 +1462,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twi
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1478,7 +1480,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.vir
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 
@@ -1496,7 +1498,7 @@ https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.win
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Colormap_>`_
+`BACK TO TOP <colormap_>`_
 
 ------------
 

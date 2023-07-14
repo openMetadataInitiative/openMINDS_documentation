@@ -2,6 +2,8 @@
 CellCultureType
 ###############
 
+All instances listed below can be validated against the `CellCultureType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellCultureType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/cellCultureType/primary
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellCultureType_>`_
+`BACK TO TOP <cellCultureType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/cellCultureType/secondary
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CellCultureType_>`_
+`BACK TO TOP <cellCultureType_>`_
 
 ------------
 

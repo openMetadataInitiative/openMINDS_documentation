@@ -2,6 +2,8 @@
 MolecularEntity
 ###############
 
+All instances listed below can be validated against the `MolecularEntity schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5891#5-ht1a-receptor-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:6386#5-ht1b-receptor-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:6742#5-ht2a-receptor-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:6151#5-ht4-receptor-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000015189#sodium-dependent-serotonin-transporter
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:7728#a2a-receptor
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5251#ampa-type-glutamate-gated-cationic-channel
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:51248#alexa-fluor-594
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:20090708#beta-amyloid-40
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5845#d1-receptor-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5833#d2-receptor-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/DAB
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:90994#3-3-diaminobenzidine
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1012018#fluorogold
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLX:65982#fluoro-ruby
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/GO:1902711#gaba-a-receptor-complex
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/GO:1902710#gaba-receptor-complex
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProte
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000010161#c-jun-amino-terminal-kinase-interacting-protein-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:7352#m1-receptor-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:7953#m2-receptor-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:6135#m3-receptor
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5250#nmda-type-glutamate-gated-cationic-channel
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1012002#anterograde-tracer
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/biomarker
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicF
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:20090401#bdnf
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/c-FOS
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000007597#proto-oncogene-c-fos
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/calbindin
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1006006#calbindin-28k
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinK
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000003197#calcium-calmodulin-dependent-protein-kinase-ii-chain
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinK
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000003199#calcium-calmodulin-dependent-protein-kinase-type-ii-alpha-chain
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/calretinin
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5#calretinin
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosph
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:17489#3-5-cyclic-amp
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/dopamine
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:18243#dopamine
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:20090512#dopamine-transporter
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/dynorphin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/enkephalin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/epibatidine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -884,7 +886,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014974#excitatory-amino-acid-transporter-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -902,7 +904,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014973#excitatory-amino-acid-transporter-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -920,7 +922,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014972#excitatory-amino-acid-transporter-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -938,7 +940,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014977#excitatory-amino-acid-transporter-4
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -956,7 +958,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransp
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014978#excitatory-amino-acid-transporter-5
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -974,7 +976,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/flumazenil
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -992,7 +994,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1010,7 +1012,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/gabazine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1028,7 +1030,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/galanin
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5074#galanin
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1046,7 +1048,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/glutamate
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1744435799#glutamate
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1064,7 +1066,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1399894198#glutamate-transporter
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1082,7 +1084,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000015190#sodium-and-chloride-dependent-glycine-transporter-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1100,7 +1102,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/growthFactor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1118,7 +1120,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/histamine
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5016#histamine
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1136,7 +1138,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000009182#insulin-like-growth-factor-i
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1154,7 +1156,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/intrabody
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1172,7 +1174,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateRecept
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:20090501#ionotropic-glutamate-receptor
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1190,7 +1192,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/iperoxo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1208,7 +1210,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/isoflurane
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:6015#isoflurane
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1226,7 +1228,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:5252#kainate-glutamate-gated-cationic-channel
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1244,7 +1246,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptida
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000009614#kallikrein-1-related-peptidase-b8
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1262,7 +1264,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/ketamine
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFSTD:DB01221#ketamine
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1280,7 +1282,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1298,7 +1300,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/medetomidine
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:48552#medetomidine
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1316,7 +1318,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateRece
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:20090503#metabotropic-glutamate-receptor
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1334,7 +1336,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateRece
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1352,7 +1354,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateRece
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000008264#metabotropic-glutamate-receptor-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1370,7 +1372,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateRece
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000008265#metabotropic-glutamate-receptor-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1388,7 +1390,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateRece
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1406,7 +1408,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/muscimol
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1424,7 +1426,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1012015#neurobiotin
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1442,7 +1444,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000011256#neuroligin-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1460,7 +1462,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1478,7 +1480,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1496,7 +1498,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:6#parvalbumin
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1514,7 +1516,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTranspo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1532,7 +1534,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTranspo
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1006007#vesicular-glutamate-transporter-1
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1550,7 +1552,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTranspo
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXMOL:1006009#vesicular-glutamate-transporter-2
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 
@@ -1568,7 +1570,7 @@ https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTranspo
    :KnowledgeSpace entry: https://knowledge-space.org/wiki/PR:000014964#vesicular-glutamate-transporter-3
    :description: \-
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <molecularEntity_>`_
 
 ------------
 

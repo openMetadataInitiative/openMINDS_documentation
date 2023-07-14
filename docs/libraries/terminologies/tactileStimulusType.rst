@@ -2,6 +2,8 @@
 TactileStimulusType
 ###################
 
+All instances listed below can be validated against the `TactileStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TactileStimulusType_>`_
+`BACK TO TOP <tactileStimulusType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TactileStimulusType_>`_
+`BACK TO TOP <tactileStimulusType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <TactileStimulusType_>`_
+`BACK TO TOP <tactileStimulusType_>`_
 
 ------------
 

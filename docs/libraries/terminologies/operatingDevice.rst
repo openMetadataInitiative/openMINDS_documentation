@@ -2,6 +2,8 @@
 OperatingDevice
 ###############
 
+All instances listed below can be validated against the `OperatingDevice schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingDevice.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/desktop
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/mobile
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/server
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/operatingDevice/web
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <operatingDevice_>`_
 
 ------------
 

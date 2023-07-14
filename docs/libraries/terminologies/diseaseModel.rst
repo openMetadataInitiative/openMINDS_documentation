@@ -2,6 +2,8 @@
 DiseaseModel
 ############
 
+All instances listed below can be validated against the `DiseaseModel schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel
    :KnowledgeSpace entry: \-
    :description: An animal or cell type model for Alzheimer's disease display all or some pathological processes that are observed in the actual disease in humans or animals, such as the formation of neurofibrillary tangles or amyloid-beta plaques.
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel
    :KnowledgeSpace entry: \-
    :description: Epilepsy describes a group of central nervous system disorders characterized by recurrent unprovoked seizures. A model of epilepsy displays all or some of the pathological processes that are observed for epilespy in humans or animals.
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel
    :KnowledgeSpace entry: \-
    :description: An animal or cell type model for fragile X syndrome display all or some pathological processes that are observed in the actual disease in humans or animals, such as the general loss of FMR1 gene function.
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/strokeModel
    :KnowledgeSpace entry: \-
    :description: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event. A model of stroke displays some or all of the pathological processes that are observed during stroke in humans or animals.
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DiseaseModel_>`_
+`BACK TO TOP <diseaseModel_>`_
 
 ------------
 

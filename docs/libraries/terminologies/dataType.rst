@@ -2,6 +2,8 @@
 DataType
 ########
 
+All instances listed below can be validated against the `DataType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/dataType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/dataType/associativeArray
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/dataType/eventSequence
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/dataType/list
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/dataType/matrix
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/dataType/rasterGraphic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/dataType/scalar
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/dataType/table
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/dataType/timeSeries
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/dataType/vectorGraphic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/dataType/voxelData
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <dataType_>`_
 
 ------------
 

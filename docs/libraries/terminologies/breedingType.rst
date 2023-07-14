@@ -2,6 +2,8 @@
 BreedingType
 ############
 
+All instances listed below can be validated against the `BreedingType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/breedingType/coisogenic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/breedingType/congenic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/breedingType/hybrid
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/breedingType/inbred
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/breedingType/outbred
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/breedingType/selectiveInbred
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BreedingType_>`_
+`BACK TO TOP <breedingType_>`_
 
 ------------
 

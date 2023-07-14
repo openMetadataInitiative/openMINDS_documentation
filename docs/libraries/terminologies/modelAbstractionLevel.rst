@@ -2,6 +2,8 @@
 ModelAbstractionLevel
 #####################
 
+All instances listed below can be validated against the `ModelAbstractionLevel schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelAbstractionLevel.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biop
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-poin
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-cont
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-disc
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-flux
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelAbstractionLevel_>`_
+`BACK TO TOP <modelAbstractionLevel_>`_
 
 ------------
 

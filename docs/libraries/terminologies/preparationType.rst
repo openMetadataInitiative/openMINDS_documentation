@@ -2,6 +2,8 @@
 PreparationType
 ###############
 
+All instances listed below can be validated against the `PreparationType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/preparationType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/preparationType/exVivo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/preparationType/inSilico
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/preparationType/inSitu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/preparationType/inUtero
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/preparationType/inVitro
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/preparationType/inVivo
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <PreparationType_>`_
+`BACK TO TOP <preparationType_>`_
 
 ------------
 

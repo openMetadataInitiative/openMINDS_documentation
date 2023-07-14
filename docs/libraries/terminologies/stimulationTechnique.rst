@@ -2,6 +2,8 @@
 StimulationTechnique
 ####################
 
+All instances listed below can be validated against the `StimulationTechnique schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/stimulationTechnique.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimula
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/abstractImageVisualS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/checkerboardVisualSt
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulati
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/driftingGratingVisua
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulatio
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/figure-groundVisualS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/microstimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/naturalImageVisualSt
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditory
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/optogeneticStimulati
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/photonStimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/randomDotMotionStimu
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectrica
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/staticGratingVisualS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/technique/subliminalStimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/technique/subliminalVisualSimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/transcranialMagnetic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/stimulationTechnique/whiskerStimulation
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <StimulationTechnique_>`_
+`BACK TO TOP <stimulationTechnique_>`_
 
 ------------
 

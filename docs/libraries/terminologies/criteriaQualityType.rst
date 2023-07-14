@@ -2,6 +2,8 @@
 CriteriaQualityType
 ###################
 
+All instances listed below can be validated against the `CriteriaQualityType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/criteriaQualityType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CriteriaQualityType_>`_
+`BACK TO TOP <criteriaQualityType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/criteriaQualityType/processive
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CriteriaQualityType_>`_
+`BACK TO TOP <criteriaQualityType_>`_
 
 ------------
 

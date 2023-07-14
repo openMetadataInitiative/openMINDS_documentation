@@ -2,6 +2,8 @@
 ChemicalMixtureType
 ###################
 
+All instances listed below can be validated against the `ChemicalMixtureType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
    :KnowledgeSpace entry: \-
    :description: A colloid is a mixture where very small particles of one substance are evenly distributed throughout another substance. They appear very similar to solutions, but the particles are suspended in the solvent rather than fully dissolved. The difference between a colloid and a suspension is that the particles will not settle to the bottom over a period of time, they will stay suspended or float.
 
-`BACK TO TOP <ChemicalMixtureType_>`_
+`BACK TO TOP <chemicalMixtureType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
    :KnowledgeSpace entry: \-
    :description: A solution is a homogeneous mixture of two or more substances. The particles of solute in a solution cannot be seen by the naked eye. A solution does not cause beams of light to scatter. A solution is stable; solutes will not precipitate unless added in excess of the mixture's solubility, at which point the excess would remain in its solid phase, referred to as hypersaturation. The solute from a solution cannot be separated by filtration (or mechanically). It is composed of only one phase. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
 
-`BACK TO TOP <ChemicalMixtureType_>`_
+`BACK TO TOP <chemicalMixtureType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
    :KnowledgeSpace entry: \-
    :description: A suspension is a heterogeneous mixture in which the solute particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating around freely in the medium. Solute particles are usually larger than one micrometer, and will eventually settle, although the mixture is only classified as a suspension when and while the particles have not settled out. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
 
-`BACK TO TOP <ChemicalMixtureType_>`_
+`BACK TO TOP <chemicalMixtureType_>`_
 
 ------------
 

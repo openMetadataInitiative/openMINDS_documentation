@@ -2,6 +2,8 @@
 BiologicalOrder
 ###############
 
+All instances listed below can be validated against the `BiologicalOrder schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalOrder.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/primates
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <biologicalOrder_>`_
 
 ------------
 

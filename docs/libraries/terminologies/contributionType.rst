@@ -2,6 +2,8 @@
 ContributionType
 ################
 
+All instances listed below can be validated against the `ContributionType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/contributionType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/contributionType/coordination
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/contributionType/dataManagment
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/contributionType/informationTechnologySup
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/contributionType/marketing
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <contributionType_>`_
 
 ------------
 

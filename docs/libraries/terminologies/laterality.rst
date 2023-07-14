@@ -2,6 +2,8 @@
 Laterality
 ##########
 
+All instances listed below can be validated against the `Laterality schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/laterality/left
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Laterality_>`_
+`BACK TO TOP <laterality_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/laterality/right
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <Laterality_>`_
+`BACK TO TOP <laterality_>`_
 
 ------------
 

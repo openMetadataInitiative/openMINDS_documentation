@@ -2,6 +2,8 @@
 CranialWindowConstructionType
 #############################
 
+All instances listed below can be validated against the `CranialWindowConstructionType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowConstructionType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkul
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowConstructionType_>`_
+`BACK TO TOP <cranialWindowConstructionType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkul
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowConstructionType_>`_
+`BACK TO TOP <cranialWindowConstructionType_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcrania
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <CranialWindowConstructionType_>`_
+`BACK TO TOP <cranialWindowConstructionType_>`_
 
 ------------
 

@@ -2,6 +2,8 @@
 DifferenceMeasure
 #################
 
+All instances listed below can be validated against the `DifferenceMeasure schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/differenceMeasure.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatis
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergen
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <differenceMeasure_>`_
 
 ------------
 

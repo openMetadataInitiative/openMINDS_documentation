@@ -2,6 +2,8 @@
 AnatomicalAxesOrientation
 #########################
 
+All instances listed below can be validated against the `AnatomicalAxesOrientation schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalAxesOrientation.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -200,7 +202,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -218,7 +220,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -236,7 +238,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -254,7 +256,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -272,7 +274,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -290,7 +292,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -308,7 +310,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -326,7 +328,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -344,7 +346,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -362,7 +364,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -380,7 +382,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -398,7 +400,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -416,7 +418,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -434,7 +436,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -452,7 +454,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -470,7 +472,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -488,7 +490,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -506,7 +508,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -524,7 +526,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -542,7 +544,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -560,7 +562,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -578,7 +580,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -596,7 +598,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -614,7 +616,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -632,7 +634,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -650,7 +652,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -668,7 +670,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPI
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -686,7 +688,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPS
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -704,7 +706,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -722,7 +724,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -740,7 +742,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -758,7 +760,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -776,7 +778,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -794,7 +796,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -812,7 +814,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPL
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -830,7 +832,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPR
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -848,7 +850,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRA
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 
@@ -866,7 +868,7 @@ https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRP
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalAxesOrientation_>`_
+`BACK TO TOP <anatomicalAxesOrientation_>`_
 
 ------------
 

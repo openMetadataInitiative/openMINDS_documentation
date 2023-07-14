@@ -2,6 +2,8 @@
 AnatomicalIdentificationType
 ############################
 
+All instances listed below can be validated against the `AnatomicalIdentificationType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalIdentificationType.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBase
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalIdentificationType_>`_
+`BACK TO TOP <anatomicalIdentificationType_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <AnatomicalIdentificationType_>`_
+`BACK TO TOP <anatomicalIdentificationType_>`_
 
 ------------
 

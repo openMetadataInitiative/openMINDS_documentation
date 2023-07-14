@@ -2,6 +2,8 @@
 ModelScope
 ##########
 
+All instances listed below can be validated against the `ModelScope schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelScope.html>`_.
+
 ------------
 
 ------------
@@ -20,7 +22,7 @@ https://openminds.ebrains.eu/instances/modelScope/network
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -38,7 +40,7 @@ https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -56,7 +58,7 @@ https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -74,7 +76,7 @@ https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -92,7 +94,7 @@ https://openminds.ebrains.eu/instances/modelScope/singleCell
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -110,7 +112,7 @@ https://openminds.ebrains.eu/instances/modelScope/subcellular
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -128,7 +130,7 @@ https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -146,7 +148,7 @@ https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -164,7 +166,7 @@ https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
@@ -182,7 +184,7 @@ https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
    :KnowledgeSpace entry: \-
    :description: \-
 
-`BACK TO TOP <ModelScope_>`_
+`BACK TO TOP <modelScope_>`_
 
 ------------
 
