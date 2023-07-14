@@ -16,8 +16,7 @@ chi-squared statistic
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
    :definition: Test statistic resulting from a chi-squared test.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: χ2-statistic
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -35,8 +34,7 @@ Kolmogorov-Smirnov statistic
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: KS-statistic
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -54,8 +52,7 @@ Kullback-Leibler divergence
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
    :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: KL divergence
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -73,8 +70,7 @@ mean squared error
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :definition: The mean squared difference between two series of values.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -92,8 +88,7 @@ t-statistic
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
    :definition: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -111,8 +106,7 @@ z-score
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :definition: The number of standard deviations by which an observed value is above or below the mean value.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

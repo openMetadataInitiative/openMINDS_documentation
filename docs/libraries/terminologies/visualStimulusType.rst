@@ -16,8 +16,7 @@ moving checkerboard
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -35,8 +34,7 @@ moving grating
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -54,8 +52,7 @@ moving symbol
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -73,8 +70,7 @@ natural movie
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -92,8 +88,7 @@ natural scene
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -111,8 +106,7 @@ static checkerboard
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -130,8 +124,7 @@ static grating
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -149,8 +142,7 @@ static symbol
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :definition: \-
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

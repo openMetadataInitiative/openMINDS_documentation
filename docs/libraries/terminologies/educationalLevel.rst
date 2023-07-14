@@ -16,8 +16,7 @@ advanced
    :semantic name: https://openminds.ebrains.eu/instances/educationalLevel/advanced
    :definition: The learner has extensive knowledge of the given topic.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -35,8 +34,7 @@ beginner
    :semantic name: https://openminds.ebrains.eu/instances/educationalLevel/beginner
    :definition: The learner has no or minimal knowledge or experience of the given topic.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -54,8 +52,7 @@ intermediate
    :semantic name: https://openminds.ebrains.eu/instances/educationalLevel/intermediate
    :definition: The learner has knowledge of the given topic, but is not an expert.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

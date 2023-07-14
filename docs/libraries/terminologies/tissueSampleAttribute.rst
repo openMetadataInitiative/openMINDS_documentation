@@ -16,8 +16,7 @@ fixated
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/fixated
    :definition: A specimen that was treated with a fixative (e.g., paraformaldehyde) to preserve its existing form and structure.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -35,8 +34,7 @@ free floating
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/freeFloating
    :definition: A specimen that has been suspended in solution for further handling or experimental steps (e.g., immunohistochemical staining), or temporary storage before further use.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -54,8 +52,7 @@ labeled
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/labeled
    :definition: A specimen that has been modified using chemical or biochemical substances for selective tagging of e.g., molecules or subcellular components, which does not necessarily leads to a visual observable colorization.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -73,8 +70,7 @@ mounted
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted
    :definition: A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -92,8 +88,7 @@ stained
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained
    :definition: A specimen that has been dyed using chemical or biochemical substances for general colorization of e.g., molecules or subcellular components, that can be visualized under the right light exposure.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -111,8 +106,7 @@ unstained
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/unstained
    :definition: A specimen that was not artificially modified in colorization using chemical or biochemical substances.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -130,8 +124,7 @@ untreated
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated
    :definition: A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.
    :description: \-
-   ------------
-   ------------
+   |
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
