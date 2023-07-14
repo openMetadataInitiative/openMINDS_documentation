@@ -9,7 +9,9 @@ SemanticDataType
 derived data
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/semanticDataType/derivedData``
+https://openminds.ebrains.eu/instances/semanticDataType/derivedData
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ derived data
 experimental data
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/semanticDataType/experimentalData``
+https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ experimental data
 raw data
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/semanticDataType/rawData``
+https://openminds.ebrains.eu/instances/semanticDataType/rawData
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ raw data
 simulated data
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/semanticDataType/simulatedData``
+https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

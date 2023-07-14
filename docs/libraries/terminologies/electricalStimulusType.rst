@@ -9,7 +9,9 @@ ElectricalStimulusType
 direct current
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent``
+https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: DC

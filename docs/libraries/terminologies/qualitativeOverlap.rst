@@ -9,7 +9,9 @@ QualitativeOverlap
 partially overlaps with
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith``
+https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
+
+.. admonition:: metadata
 
    :definition: Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).
    :synonyms: \-
@@ -25,7 +27,9 @@ partially overlaps with
 is homologous to
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo``
+https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
+
+.. admonition:: metadata
 
    :definition: A set/object (A) has the same relative position, function, or structure as a set/object (B).
    :synonyms: \-
@@ -41,7 +45,9 @@ is homologous to
 is identical to
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo``
+https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
+
+.. admonition:: metadata
 
    :definition: A set/object (A) is identical to another set/object (B) if they look exactly the same.
    :synonyms: \-
@@ -57,7 +63,9 @@ is identical to
 is subset of
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf``
+https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
+
+.. admonition:: metadata
 
    :definition: A set/object (A) is a subset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (A) are also elements/incidents of (B).
    :synonyms: \-
@@ -73,7 +81,9 @@ is subset of
 is superset of
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf``
+https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
+
+.. admonition:: metadata
 
    :definition: A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).
    :synonyms: \-

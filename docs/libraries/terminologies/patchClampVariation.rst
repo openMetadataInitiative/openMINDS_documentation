@@ -9,7 +9,9 @@ PatchClampVariation
 cell-attached patch
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/cellAttachedPatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/cellAttachedPatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique in which the cell membrane remains intact.
    :synonyms: \-
@@ -25,7 +27,9 @@ cell-attached patch
 inside-out patch
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/insideOutPatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/insideOutPatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique in which a patch of membrane is excised and the cytosolic surface exposed.
    :synonyms: \-
@@ -41,7 +45,9 @@ inside-out patch
 loose patch
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/loosePatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/loosePatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique involving a seal with low electrical resistance.
    :synonyms: \-
@@ -57,7 +63,9 @@ loose patch
 outside-out patch
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/outsideOutPatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/outsideOutPatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique in which a patch of membrane is excised and the external surface exposed.
    :synonyms: \-
@@ -73,7 +81,9 @@ outside-out patch
 perforated patch
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/perforatedPatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/perforatedPatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique in which the cell membrane is perforated.
    :synonyms: \-
@@ -89,7 +99,9 @@ perforated patch
 whole-cell patch
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/patchClampVariation/wholeCellPatch``
+https://openminds.ebrains.eu/instances/patchClampVariation/wholeCellPatch
+
+.. admonition:: metadata
 
    :definition: A variation of the patch-clamp technique in which the patch is ruptured, giving access to the intracellular space.
    :synonyms: whole-cell recording

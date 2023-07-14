@@ -9,7 +9,9 @@ ChemicalMixtureType
 colloid
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid``
+https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
+
+.. admonition:: metadata
 
    :definition: A 'colloid' is a heterogeneous mixture in which one substance consisting of microscopically dispersed insoluble particles is suspended throughout another substance. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Colloid)]
    :synonyms: \-
@@ -25,7 +27,9 @@ colloid
 solution
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/chemicalMixtureType/solution``
+https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
+
+.. admonition:: metadata
 
    :definition: A 'solution' is a special type of homogeneous mixture where at least one substance, called solute, is fully dissolved in another substance, known as a solvent. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
    :synonyms: \-
@@ -41,7 +45,9 @@ solution
 suspension
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension``
+https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
+
+.. admonition:: metadata
 
    :definition: A 'suspension' is a heterogeneous mixture of a fluid that contains solid particles sufficiently large for sedimentation and may even be visible to the naked eye. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
    :synonyms: \-

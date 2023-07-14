@@ -9,7 +9,9 @@ SoftwareFeature
 3D geometry data types
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ SoftwareFeature
 3D scalar data types
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ SoftwareFeature
 3D vector data types
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ SoftwareFeature
 augmented reality
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality``
+https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ augmented reality
 commandline interface
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface``
+https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ commandline interface
 control
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/control``
+https://openminds.ebrains.eu/instances/softwareFeature/control
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ control
 data acquisition
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition``
+https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ data acquisition
 data processing
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing``
+https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ data processing
 desktop environment
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment``
+https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -153,7 +171,9 @@ desktop environment
 graph data types
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -169,7 +189,9 @@ graph data types
 graphical user interface
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface``
+https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -185,7 +207,9 @@ graphical user interface
 heterogeneous architecture
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture``
+https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -201,7 +225,9 @@ heterogeneous architecture
 interactive analysis
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis``
+https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -217,7 +243,9 @@ interactive analysis
 matrix data types
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -233,7 +261,9 @@ matrix data types
 metadata data types
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -249,7 +279,9 @@ metadata data types
 mobile device
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice``
+https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -265,7 +297,9 @@ mobile device
 modelling
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/modelling``
+https://openminds.ebrains.eu/instances/softwareFeature/modelling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -281,7 +315,9 @@ modelling
 parallel programming
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming``
+https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -297,7 +333,9 @@ parallel programming
 performance measurement
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement``
+https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -313,7 +351,9 @@ performance measurement
 positional data types
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -329,7 +369,9 @@ positional data types
 presentation visualisation
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation``
+https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -345,7 +387,9 @@ presentation visualisation
 profiling
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/profiling``
+https://openminds.ebrains.eu/instances/softwareFeature/profiling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -361,7 +405,9 @@ profiling
 provenance
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/provenance``
+https://openminds.ebrains.eu/instances/softwareFeature/provenance
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -377,7 +423,9 @@ provenance
 raster image data types
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -393,7 +441,9 @@ raster image data types
 scripting interface
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface``
+https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -409,7 +459,9 @@ scripting interface
 simulation
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/simulation``
+https://openminds.ebrains.eu/instances/softwareFeature/simulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -425,7 +477,9 @@ simulation
 statistical data types
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -441,7 +495,9 @@ statistical data types
 tensor data types
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -457,7 +513,9 @@ tensor data types
 tiled display wall
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall``
+https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -473,7 +531,9 @@ tiled display wall
 time series data types
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -489,7 +549,9 @@ time series data types
 vector image data types
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes``
+https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -505,7 +567,9 @@ vector image data types
 virtual reality
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareFeature/virtualReality``
+https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

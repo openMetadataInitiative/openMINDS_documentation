@@ -9,7 +9,9 @@ Species
 Berghia stephanieae
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/berghiaStephanieae``
+https://openminds.ebrains.eu/instances/species/berghiaStephanieae
+
+.. admonition:: metadata
 
    :definition: The species *Berghia stephanieae* belongs to the family of *aeolidiidae* (family of sea slugs, shell-less marine gastropod molluscs).
    :synonyms: aeolidiella stephanieae
@@ -25,7 +27,9 @@ Berghia stephanieae
 Callithrix jacchus
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/callithrixJacchus``
+https://openminds.ebrains.eu/instances/species/callithrixJacchus
+
+.. admonition:: metadata
 
    :definition: The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).
    :synonyms: callithrix jacchus jacchus, common marmoset, white ear-tufted marmoset, white-tufted-ear marmoset
@@ -41,7 +45,9 @@ Callithrix jacchus
 Chlorocebus aethiops sabaeus
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus``
+https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus
+
+.. admonition:: metadata
 
    :definition: The species *Chlorocebus aethiops sabaeus* (green monkey) belongs to the family of *cercopithecidae* (old world monkeys).
    :synonyms: cercopithecus aethiops sabaeus, cercopithecus sabaeus, cercopithecus sabeus, chlorocebus aethiops sabeus, chlorocebus sabaeus, chlorocebus sabeus, green monkey
@@ -57,7 +63,9 @@ Chlorocebus aethiops sabaeus
 Chlorocebus pygerythrus
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus``
+https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus
+
+.. admonition:: metadata
 
    :definition: The species *Chlorocebus pygerythrus* (vervet marmoset) belongs to the family of *cercopithecidae* (old world monkeys).
    :synonyms: cercopithecus aethiops pygerythrus, cercopithecus pygerythrus, chlorocebus aethiops pygerythrus, vervet, vervet marmoset, vervet monkey
@@ -73,7 +81,9 @@ Chlorocebus pygerythrus
 Danio rerio
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/danioRerio``
+https://openminds.ebrains.eu/instances/species/danioRerio
+
+.. admonition:: metadata
 
    :definition: The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).
    :synonyms: Brachydanio rerio, Brachydanio rerio frankei, Cyprinus rerio, Danio frankei, Danio rerio frankei, leopard danio, zebra danio, zebra fish, zebrafish
@@ -89,7 +99,9 @@ Danio rerio
 Felis catus
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/felisCatus``
+https://openminds.ebrains.eu/instances/species/felisCatus
+
+.. admonition:: metadata
 
    :definition: The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.
    :synonyms: cat, house cat, domestic cat, Felis silvestris catus, Felis domesticus
@@ -105,7 +117,9 @@ Felis catus
 Homo sapiens
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/homoSapiens``
+https://openminds.ebrains.eu/instances/species/homoSapiens
+
+.. admonition:: metadata
 
    :definition: The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).
    :synonyms: homo sapien, human, man
@@ -121,7 +135,9 @@ Homo sapiens
 Macaca fascicularis
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/macacaFascicularis``
+https://openminds.ebrains.eu/instances/species/macacaFascicularis
+
+.. admonition:: metadata
 
    :definition: The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :synonyms: crab eating macaque, crab-eating macaque, cynomolgus macaque, cynomolgus monkey, long-tailed macaque, macaca cynomolgus, macaca irus
@@ -137,7 +153,9 @@ Macaca fascicularis
 Macaca fuscata
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/macacaFuscata``
+https://openminds.ebrains.eu/instances/species/macacaFuscata
+
+.. admonition:: metadata
 
    :definition: The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :synonyms: japanese macaque, japanese monkey
@@ -153,7 +171,9 @@ Macaca fuscata
 Macaca mulatta
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/macacaMulatta``
+https://openminds.ebrains.eu/instances/species/macacaMulatta
+
+.. admonition:: metadata
 
    :definition: The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :synonyms: rhesus macaque, rhesus monkey
@@ -169,7 +189,9 @@ Macaca mulatta
 Monodelphis domestica
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/monodelphisDomestica``
+https://openminds.ebrains.eu/instances/species/monodelphisDomestica
+
+.. admonition:: metadata
 
    :definition: The species *Monodelphis domestica* (gray short-tailed opossum) belongs to the family of *didelphidae* (American possums).
    :synonyms: gray short-tailed opossum
@@ -185,7 +207,9 @@ Monodelphis domestica
 Mus musculus
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/musMusculus``
+https://openminds.ebrains.eu/instances/species/musMusculus
+
+.. admonition:: metadata
 
    :definition: The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).
    :synonyms: house mouse, mouse
@@ -201,7 +225,9 @@ Mus musculus
 Mustela putorius
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/mustelaPutorius``
+https://openminds.ebrains.eu/instances/species/mustelaPutorius
+
+.. admonition:: metadata
 
    :definition: The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).
    :synonyms: european polecat, putorius putorius
@@ -217,7 +243,9 @@ Mustela putorius
 Mustela putorius furo
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro``
+https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro
+
+.. admonition:: metadata
 
    :definition: The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).
    :synonyms: black ferret, domestic ferret, ferret, mustela furo
@@ -233,7 +261,9 @@ Mustela putorius furo
 Ovis aries
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/ovisAries``
+https://openminds.ebrains.eu/instances/species/ovisAries
+
+.. admonition:: metadata
 
    :definition: The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).
    :synonyms: domestic sheep, sheep
@@ -249,7 +279,9 @@ Ovis aries
 Rattus norvegicus
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/rattusNorvegicus``
+https://openminds.ebrains.eu/instances/species/rattusNorvegicus
+
+.. admonition:: metadata
 
    :definition: The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).
    :synonyms: brown rat, norway rat, rat
@@ -265,7 +297,9 @@ Rattus norvegicus
 Sus scrofa domesticus
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/susScrofaDomesticus``
+https://openminds.ebrains.eu/instances/species/susScrofaDomesticus
+
+.. admonition:: metadata
 
    :definition: The species *Sus scrofa domesticus* (domestic pig) belongs to the family of suidae (suids).
    :synonyms: domestic pig, sus domestica, sus domesticus, sus scrofa domestica
@@ -281,7 +315,9 @@ Sus scrofa domesticus
 Trachemys scripta elegans
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans``
+https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans
+
+.. admonition:: metadata
 
    :definition: The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae ([Wikipedia](https://en.wikipedia.org/wiki/Red-eared_slider)).
    :synonyms: Pseudemys scripta elegans, Chrysemys scripta elegans, Emys elegans, red-eared slider, red-eared terrapin, pond slider

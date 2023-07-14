@@ -9,7 +9,9 @@ FileBundleGrouping
 behavioral protocol
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ behavioral protocol
 coordinate space
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ coordinate space
 protocol
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ protocol
 study target
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ study target
 subject
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/subject``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ subject
 subject group
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ subject group
 technique
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/technique``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ technique
 tissue sample
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ tissue sample
 tissue sample collection
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection``
+https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

@@ -9,7 +9,9 @@ ProductAccessibility
 controlled access
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess``
+https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
+
+.. admonition:: metadata
 
    :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
    :synonyms: \-
@@ -25,7 +27,9 @@ controlled access
 free access
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/productAccessibility/freeAccess``
+https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
+
+.. admonition:: metadata
 
    :definition: With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.
    :synonyms: \-
@@ -41,7 +45,9 @@ free access
 restricted access
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess``
+https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
+
+.. admonition:: metadata
 
    :definition: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
    :synonyms: \-
@@ -57,7 +63,9 @@ restricted access
 under embargo
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo``
+https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
+
+.. admonition:: metadata
 
    :definition: With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.
    :synonyms: \-

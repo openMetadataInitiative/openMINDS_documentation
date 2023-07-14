@@ -9,7 +9,9 @@ VisualStimulusType
 moving checkerboard
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard``
+https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ moving checkerboard
 moving grating
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating``
+https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ moving grating
 moving symbol
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol``
+https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ moving symbol
 natural movie
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie``
+https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ natural movie
 natural scene
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene``
+https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ natural scene
 static checkerboard
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard``
+https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ static checkerboard
 static grating
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating``
+https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ static grating
 static symbol
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol``
+https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

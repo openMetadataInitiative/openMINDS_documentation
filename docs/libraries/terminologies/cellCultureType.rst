@@ -9,7 +9,9 @@ CellCultureType
 primary cell culture
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cellCultureType/primary``
+https://openminds.ebrains.eu/instances/cellCultureType/primary
+
+.. admonition:: metadata
 
    :definition: A cell culture comprised of primary cultured cells and the media in which they are being actively propaged or quiescently stored.
    :synonyms: \-
@@ -25,7 +27,9 @@ primary cell culture
 secondary cell culture
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cellCultureType/secondary``
+https://openminds.ebrains.eu/instances/cellCultureType/secondary
+
+.. admonition:: metadata
 
    :definition: A cultured cell population that is derived through one or more passages in culture.
    :synonyms: \-

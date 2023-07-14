@@ -9,7 +9,9 @@ PreparationType
 ex vivo
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/exVivo``
+https://openminds.ebrains.eu/instances/preparationType/exVivo
+
+.. admonition:: metadata
 
    :definition: Something happening or existing outside a living body.
    :synonyms: ex vivo technique
@@ -25,7 +27,9 @@ ex vivo
 in silico
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/inSilico``
+https://openminds.ebrains.eu/instances/preparationType/inSilico
+
+.. admonition:: metadata
 
    :definition: Conducted or produced by means of computer modelling or simulation.
    :synonyms: \-
@@ -41,7 +45,9 @@ in silico
 in situ
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/inSitu``
+https://openminds.ebrains.eu/instances/preparationType/inSitu
+
+.. admonition:: metadata
 
    :definition: Something happening or being examined in the original place instead of being moved to another place
    :synonyms: in situ technique
@@ -57,7 +63,9 @@ in situ
 in utero
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/inUtero``
+https://openminds.ebrains.eu/instances/preparationType/inUtero
+
+.. admonition:: metadata
 
    :definition: Something happening in, within, or while inside the uterus.
    :synonyms: in utero technique
@@ -73,7 +81,9 @@ in utero
 in vitro
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/inVitro``
+https://openminds.ebrains.eu/instances/preparationType/inVitro
+
+.. admonition:: metadata
 
    :definition: Something happening outside the body in artificial conditions (e.g., in a test tube or culture dish).
    :synonyms: in vitro technique
@@ -89,7 +99,9 @@ in vitro
 in vivo
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/preparationType/inVivo``
+https://openminds.ebrains.eu/instances/preparationType/inVivo
+
+.. admonition:: metadata
 
    :definition: Something happening or existing inside a living body.
    :synonyms: in vivo technique

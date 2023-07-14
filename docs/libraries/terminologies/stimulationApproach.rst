@@ -9,7 +9,9 @@ StimulationApproach
 auditory stimulation
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation of the auditory (hearing) system.
    :synonyms: auditory modality, auditory stimulus
@@ -25,7 +27,9 @@ auditory stimulation
 gustatory stimulation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation of the gustatory (taste and flavor perception) system.
    :synonyms: gustatory modality, gustatory stimulus
@@ -41,7 +45,9 @@ gustatory stimulation
 interoceptive stimulation
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation that arises from inside an organism.
    :synonyms: interoceptive modality, interoceptive stimulus
@@ -57,7 +63,9 @@ interoceptive stimulation
 olfactory stimulation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation of the olfactory (smelling) system.
    :synonyms: olfactory modality, olfactory stimulus
@@ -73,7 +81,9 @@ olfactory stimulation
 tactile stimulation
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation of the tactile (touch) system.
    :synonyms: tactile modality, tactile stimulus
@@ -89,7 +99,9 @@ tactile stimulation
 visual stimulation
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation``
+https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation
+
+.. admonition:: metadata
 
    :definition: A stimulation of the visual (sight) system.
    :synonyms: visual modality, visual stimulus

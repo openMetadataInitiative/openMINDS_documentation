@@ -9,7 +9,9 @@ GustatoryStimulusType
 bitter substance
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance``
+https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
+
+.. admonition:: metadata
 
    :definition: Any chemical compound that tastes bitter.
    :synonyms: \-
@@ -25,7 +27,9 @@ bitter substance
 salty substance
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance``
+https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
+
+.. admonition:: metadata
 
    :definition: Any chemical compound that tastes salty.
    :synonyms: \-
@@ -41,7 +45,9 @@ salty substance
 sour substance
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance``
+https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
+
+.. admonition:: metadata
 
    :definition: Any chemical compound that tastes sour.
    :synonyms: \-
@@ -57,7 +63,9 @@ sour substance
 sweet substance
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance``
+https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
+
+.. admonition:: metadata
 
    :definition: Any chemical compound that tastes sweet.
    :synonyms: \-

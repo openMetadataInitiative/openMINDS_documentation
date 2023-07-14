@@ -9,7 +9,9 @@ DeviceType
 CT scanner
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/CTscanner``
+https://openminds.ebrains.eu/instances/deviceType/CTscanner
+
+.. admonition:: metadata
 
    :definition: A 'CT scanner' is an x-ray machine that creates and combines serial two-dimensional x-ray images (sections) with the aid of a computer to generate cross-sectional views and/or three-dimensional images of internal body structures (e.g., bones, blood vessels or soft tissues).
    :synonyms: CAT scanner, computed axial tomography scanner, computed tomography scanner
@@ -25,7 +27,9 @@ CT scanner
 MRI scanner
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/MRIscanner``
+https://openminds.ebrains.eu/instances/deviceType/MRIscanner
+
+.. admonition:: metadata
 
    :definition: An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.
    :synonyms: magnetic resonance imaging scanner
@@ -41,7 +45,9 @@ MRI scanner
 electronic amplifier
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/electronicAmplifier``
+https://openminds.ebrains.eu/instances/deviceType/electronicAmplifier
+
+.. admonition:: metadata
 
    :definition: An 'electronic amplifier' is a device that increases the power (voltage or current) of a time-varying signal.
    :synonyms: amp, amplifier
@@ -57,7 +63,9 @@ electronic amplifier
 microscope
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/microscope``
+https://openminds.ebrains.eu/instances/deviceType/microscope
+
+.. admonition:: metadata
 
    :definition: A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.
    :synonyms: \-
@@ -73,7 +81,9 @@ microscope
 microtome
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/microtome``
+https://openminds.ebrains.eu/instances/deviceType/microtome
+
+.. admonition:: metadata
 
    :definition: A 'microtome' is a mechanical instrument with a steel, glass or diamond blade used to cut (typically) biological specimens into very thin segments for further treatment and ultimately microscopic or histologic examination.
    :synonyms: \-
@@ -89,7 +99,9 @@ microtome
 vibrating microtome
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome``
+https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome
+
+.. admonition:: metadata
 
    :definition: A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments for further treatment and ultimately microscopic or histologic examination.
    :synonyms: vibratome

@@ -9,7 +9,9 @@ Language
 Dutch
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/dutch``
+https://openminds.ebrains.eu/instances/language/dutch
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ Dutch
 English
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/english``
+https://openminds.ebrains.eu/instances/language/english
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ English
 French
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/french``
+https://openminds.ebrains.eu/instances/language/french
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ French
 German
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/german``
+https://openminds.ebrains.eu/instances/language/german
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ German
 Greek
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/greek``
+https://openminds.ebrains.eu/instances/language/greek
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ Greek
 Italian
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/italian``
+https://openminds.ebrains.eu/instances/language/italian
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ Italian
 Norwegian
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/norwegian``
+https://openminds.ebrains.eu/instances/language/norwegian
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ Norwegian
 Spanish
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/spanish``
+https://openminds.ebrains.eu/instances/language/spanish
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ Spanish
 Swedish
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/language/swedish``
+https://openminds.ebrains.eu/instances/language/swedish
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

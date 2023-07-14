@@ -9,7 +9,9 @@ DiseaseModel
 Alzheimer's disease model
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel``
+https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.
    :synonyms: \-
@@ -25,7 +27,9 @@ Alzheimer's disease model
 autism spectrum disorder model
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel``
+https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal autism sprectrum disorder.
    :synonyms: \-
@@ -41,7 +45,9 @@ autism spectrum disorder model
 epilepsy model
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel``
+https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed for epilepsy in humans or animals.
    :synonyms: \-
@@ -57,7 +63,9 @@ epilepsy model
 fragile X syndrome model
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel``
+https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal fragile X syndrome.
    :synonyms: \-
@@ -73,7 +81,9 @@ fragile X syndrome model
 Huntington's disease model
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel``
+https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Huntington's disease.
    :synonyms: \-
@@ -89,7 +99,9 @@ Huntington's disease model
 Parkinson's disease model
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel``
+https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Parkinson's disease.
    :synonyms: \-
@@ -105,7 +117,9 @@ Parkinson's disease model
 stroke model
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/strokeModel``
+https://openminds.ebrains.eu/instances/diseaseModel/strokeModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed during stroke in humans or animals.
    :synonyms: cerebral infaction model, cerebrovascular accident model, cerebrovascular disease model, CVA model, stroke disorder model
@@ -121,7 +135,9 @@ stroke model
 Williams-Beuren syndrome model
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel``
+https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel
+
+.. admonition:: metadata
 
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.
    :synonyms: \-

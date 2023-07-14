@@ -9,7 +9,9 @@ ModelScope
 network
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/network``
+https://openminds.ebrains.eu/instances/modelScope/network
+
+.. admonition:: metadata
 
    :definition: A model of a neuronal network
    :synonyms: \-
@@ -25,7 +27,9 @@ network
 network: brain region
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/network-brainRegion``
+https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
+
+.. admonition:: metadata
 
    :definition: A model of one or more brain regions
    :synonyms: \-
@@ -41,7 +45,9 @@ network: brain region
 network: microcircuit
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/network-microcircuit``
+https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
+
+.. admonition:: metadata
 
    :definition: A model of a neuronal microcircuit
    :synonyms: \-
@@ -57,7 +63,9 @@ network: microcircuit
 network: whole brain
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain``
+https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
+
+.. admonition:: metadata
 
    :definition: A model of an entire brain
    :synonyms: \-
@@ -73,7 +81,9 @@ network: whole brain
 single cell
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/singleCell``
+https://openminds.ebrains.eu/instances/modelScope/singleCell
+
+.. admonition:: metadata
 
    :definition: A model of a single cell
    :synonyms: \-
@@ -89,7 +99,9 @@ single cell
 subcellular
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/subcellular``
+https://openminds.ebrains.eu/instances/modelScope/subcellular
+
+.. admonition:: metadata
 
    :definition: A model of an entity or process contained within a cell
    :synonyms: \-
@@ -105,7 +117,9 @@ subcellular
 subcellular: ion channel
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel``
+https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
+
+.. admonition:: metadata
 
    :definition: A model of an ion channel
    :synonyms: \-
@@ -121,7 +135,9 @@ subcellular: ion channel
 subcellular: molecular
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular``
+https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
+
+.. admonition:: metadata
 
    :definition: A model of the structure or behaviour of molecules
    :synonyms: \-
@@ -137,7 +153,9 @@ subcellular: molecular
 subcellular: signalling
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling``
+https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
+
+.. admonition:: metadata
 
    :definition: A model of sub-cellular signalling pathways
    :synonyms: \-
@@ -153,7 +171,9 @@ subcellular: signalling
 subcellular: spine
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelScope/subcellular-spine``
+https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
+
+.. admonition:: metadata
 
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
    :synonyms: \-

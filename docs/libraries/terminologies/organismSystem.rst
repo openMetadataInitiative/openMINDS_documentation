@@ -9,7 +9,9 @@ OrganismSystem
 cardiovascular system
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem``
+https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
+
+.. admonition:: metadata
 
    :definition: 'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.
    :synonyms: \-
@@ -25,7 +27,9 @@ cardiovascular system
 central nervous system
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem``
+https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
+
+.. admonition:: metadata
 
    :definition: The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.
    :synonyms: systema nervosum centrale, CNS
@@ -41,7 +45,9 @@ central nervous system
 cholinergic system
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem``
+https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
+
+.. admonition:: metadata
 
    :definition: The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.
    :synonyms: acetylcholine system, ach system, ACh system
@@ -57,7 +63,9 @@ cholinergic system
 digestive system
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem``
+https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
+
+.. admonition:: metadata
 
    :definition: The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.
    :synonyms: \-
@@ -73,7 +81,9 @@ digestive system
 gabaergic system
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem``
+https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
+
+.. admonition:: metadata
 
    :definition: The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.
    :synonyms: GABAergic system
@@ -89,7 +99,9 @@ gabaergic system
 glutamatergic system
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem``
+https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
+
+.. admonition:: metadata
 
    :definition: The glutamatergic system is composed of any molecule, protein, cell, tissue or organ that is related to glutamate (when in the role of a neurotransmitter).
    :synonyms: \-
@@ -105,7 +117,9 @@ glutamatergic system
 musculoskeletal system
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem``
+https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
+
+.. admonition:: metadata
 
    :definition: The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.
    :synonyms: musculo-skeletal system
@@ -121,7 +135,9 @@ musculoskeletal system
 noradrenergic system
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem``
+https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
+
+.. admonition:: metadata
 
    :definition: The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).
    :synonyms: \-
@@ -137,7 +153,9 @@ noradrenergic system
 serotonergic system
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem``
+https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
+
+.. admonition:: metadata
 
    :definition: The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.
    :synonyms: serotonin system, 5HT system, 5-HT system, 5-ht system, 5ht system
@@ -153,7 +171,9 @@ serotonergic system
 vascular system
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSystem/vascularSystem``
+https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
+
+.. admonition:: metadata
 
    :definition: The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.
    :synonyms: \-

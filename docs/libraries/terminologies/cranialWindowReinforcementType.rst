@@ -9,7 +9,9 @@ CranialWindowReinforcementType
 GRIN lens-based cranial window
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window reinforced by an implanted GRIN lens.
    :synonyms: \-
@@ -25,7 +27,9 @@ GRIN lens-based cranial window
 crystalline-based cranial window
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window reinforced by an implantation of a crystalline material.
    :synonyms: \-
@@ -41,7 +45,9 @@ crystalline-based cranial window
 glass coverslip cranial window
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window reinforced by an implantation of a glass coverslip.
    :synonyms: \-
@@ -57,7 +63,9 @@ glass coverslip cranial window
 polymer-based cranial window
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window reinforced by an implantation of a polymer material.
    :synonyms: \-
@@ -73,7 +81,9 @@ polymer-based cranial window
 prism-based cranial window
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window reinforced by an implanted prism.
    :synonyms: \-

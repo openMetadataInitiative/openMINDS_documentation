@@ -9,7 +9,9 @@ EducationalLevel
 advanced
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/educationalLevel/advanced``
+https://openminds.ebrains.eu/instances/educationalLevel/advanced
+
+.. admonition:: metadata
 
    :definition: The learner has extensive knowledge of the given topic.
    :synonyms: \-
@@ -25,7 +27,9 @@ advanced
 beginner
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/educationalLevel/beginner``
+https://openminds.ebrains.eu/instances/educationalLevel/beginner
+
+.. admonition:: metadata
 
    :definition: The learner has no or minimal knowledge or experience of the given topic.
    :synonyms: \-
@@ -41,7 +45,9 @@ beginner
 intermediate
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/educationalLevel/intermediate``
+https://openminds.ebrains.eu/instances/educationalLevel/intermediate
+
+.. admonition:: metadata
 
    :definition: The learner has knowledge of the given topic, but is not an expert.
    :synonyms: \-

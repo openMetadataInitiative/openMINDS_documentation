@@ -9,7 +9,9 @@ OlfactoryStimulusType
 floral odor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor``
+https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
+
+.. admonition:: metadata
 
    :definition: Any chemical compound that smells floral.
    :synonyms: \-

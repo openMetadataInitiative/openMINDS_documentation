@@ -9,7 +9,9 @@ Organ
 brain
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organ/brain``
+https://openminds.ebrains.eu/instances/organ/brain
+
+.. admonition:: metadata
 
    :definition: 'Brain' is part of the central nervous system.
    :synonyms: \-
@@ -25,7 +27,9 @@ brain
 heart
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organ/heart``
+https://openminds.ebrains.eu/instances/organ/heart
+
+.. admonition:: metadata
 
    :definition: 'Heart' is part of the cardiovascular system
    :synonyms: chambered heart, vertebrate heart
@@ -41,7 +45,9 @@ heart
 liver
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organ/liver``
+https://openminds.ebrains.eu/instances/organ/liver
+
+.. admonition:: metadata
 
    :definition: 'Liver' is an organ that is part of the digestive system of vertebrate animals.
    :synonyms: \-
@@ -57,7 +63,9 @@ liver
 muscle
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organ/muscle``
+https://openminds.ebrains.eu/instances/organ/muscle
+
+.. admonition:: metadata
 
    :definition: 'Muscle' is part of the musculoskeletal system.
    :synonyms: \-
@@ -73,7 +81,9 @@ muscle
 skin
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organ/skin``
+https://openminds.ebrains.eu/instances/organ/skin
+
+.. admonition:: metadata
 
    :definition: 'Skin' is the organ covering the body that consists of the dermis and epidermis.
    :synonyms: entire skin, skin organ

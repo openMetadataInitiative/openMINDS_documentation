@@ -9,7 +9,9 @@ LearningResourceType
 developer documentation
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation``
+https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation
+
+.. admonition:: metadata
 
    :definition: Documentation for the developers of a resource.
    :synonyms: \-
@@ -25,7 +27,9 @@ developer documentation
 interactive tutorial
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial``
+https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
+
+.. admonition:: metadata
 
    :definition: A tutorial presented in an interactive format, for example a Jupyter notebook.
    :synonyms: \-
@@ -41,7 +45,9 @@ interactive tutorial
 slide deck
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/slideDeck``
+https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
+
+.. admonition:: metadata
 
    :definition: A set of slides for a visual presentation.
    :synonyms: slides, presentation slides
@@ -57,7 +63,9 @@ slide deck
 user documentation
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation``
+https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
+
+.. admonition:: metadata
 
    :definition: Documentation for the users of a resource.
    :synonyms: \-
@@ -73,7 +81,9 @@ user documentation
 video presentation
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation``
+https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
+
+.. admonition:: metadata
 
    :definition: A video recorded presentation.
    :synonyms: \-
@@ -89,7 +99,9 @@ video presentation
 video tutorial
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial``
+https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
+
+.. admonition:: metadata
 
    :definition: A tutorial presented as a video.
    :synonyms: \-

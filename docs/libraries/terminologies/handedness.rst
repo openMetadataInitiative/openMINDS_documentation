@@ -9,7 +9,9 @@ Handedness
 ambidextrous handedness
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness``
+https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
+
+.. admonition:: metadata
 
    :definition: Handedness where the organism exhibits no overall dominance in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
    :synonyms: \-
@@ -25,7 +27,9 @@ ambidextrous handedness
 ambilevous handedness
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness``
+https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
+
+.. admonition:: metadata
 
    :definition: Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
    :synonyms: \-
@@ -41,7 +45,9 @@ ambilevous handedness
 left handedness
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/handedness/leftHandedness``
+https://openminds.ebrains.eu/instances/handedness/leftHandedness
+
+.. admonition:: metadata
 
    :definition: Handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot.
    :synonyms: \-
@@ -57,7 +63,9 @@ left handedness
 mixed handedness
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/handedness/mixedHandedness``
+https://openminds.ebrains.eu/instances/handedness/mixedHandedness
+
+.. admonition:: metadata
 
    :definition: Handedness where the organism exhibits dominance in the use of right or left hand or foot differently in the performance of different tasks that require one (dominant) hand or foot.
    :synonyms: \-
@@ -73,7 +81,9 @@ mixed handedness
 right handedness
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/handedness/rightHandedness``
+https://openminds.ebrains.eu/instances/handedness/rightHandedness
+
+.. admonition:: metadata
 
    :definition: Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.
    :synonyms: \-

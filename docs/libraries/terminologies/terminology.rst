@@ -9,7 +9,9 @@ Terminology
 UBERON parcellation
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/UBERONParcellation``
+https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ UBERON parcellation
 action status type
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/actionStatusType``
+https://openminds.ebrains.eu/instances/terminology/actionStatusType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ action status type
 age category
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/ageCategory``
+https://openminds.ebrains.eu/instances/terminology/ageCategory
+
+.. admonition:: metadata
 
    :definition: The age category describes a specific spatiotemporal part of the life cycle of an organism.
    :synonyms: \-
@@ -57,7 +63,9 @@ age category
 analysis technique
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/analysisTechnique``
+https://openminds.ebrains.eu/instances/terminology/analysisTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ analysis technique
 anatomical axes orientation
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation``
+https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ anatomical axes orientation
 anatomical identification type
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType``
+https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
+
+.. admonition:: metadata
 
    :definition: The type of identiciation that was used to determine an anatomical location.
    :synonyms: \-
@@ -105,7 +117,9 @@ anatomical identification type
 anatomical plane
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/anatomicalPlane``
+https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
+
+.. admonition:: metadata
 
    :definition: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
    :synonyms: fiat anatomical surface
@@ -121,7 +135,9 @@ anatomical plane
 annotation criteria type
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType``
+https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
+
+.. admonition:: metadata
 
    :definition: General classification of how data were annotated.
    :synonyms: \-
@@ -137,7 +153,9 @@ annotation criteria type
 annotation type
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/annotationType``
+https://openminds.ebrains.eu/instances/terminology/annotationType
+
+.. admonition:: metadata
 
    :definition: Geometrical classification of annotations into types.
    :synonyms: \-
@@ -153,7 +171,9 @@ annotation type
 atlas type
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/atlasType``
+https://openminds.ebrains.eu/instances/terminology/atlasType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -169,7 +189,9 @@ atlas type
 auditory stimulus type
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType``
+https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
+
+.. admonition:: metadata
 
    :definition: An 'auditory stimulus type' groups similar auditory stimuli used across auditory stimulation techniques.
    :synonyms: \-
@@ -185,7 +207,9 @@ auditory stimulus type
 biological order
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/biologicalOrder``
+https://openminds.ebrains.eu/instances/terminology/biologicalOrder
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -201,7 +225,9 @@ biological order
 biological sex
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/biologicalSex``
+https://openminds.ebrains.eu/instances/terminology/biologicalSex
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -217,7 +243,9 @@ biological sex
 breeding type
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/breedingType``
+https://openminds.ebrains.eu/instances/terminology/breedingType
+
+.. admonition:: metadata
 
    :definition: The breeding type describes how plants or animals have been sexually propagated.
    :synonyms: \-
@@ -233,7 +261,9 @@ breeding type
 cell culture type
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/cellCultureType``
+https://openminds.ebrains.eu/instances/terminology/cellCultureType
+
+.. admonition:: metadata
 
    :definition: The type of a cell culture (e.g. primary, secondary)
    :synonyms: \-
@@ -249,7 +279,9 @@ cell culture type
 cell type
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/cellType``
+https://openminds.ebrains.eu/instances/terminology/cellType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -265,7 +297,9 @@ cell type
 chemicalMixtureType
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType``
+https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
+
+.. admonition:: metadata
 
    :definition: A 'chemical mixture type' groups all mixtures with the same chemical and physical characteristics under a general term.
    :synonyms: \-
@@ -281,7 +315,9 @@ chemicalMixtureType
 colormap
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/colormap``
+https://openminds.ebrains.eu/instances/terminology/colormap
+
+.. admonition:: metadata
 
    :definition: A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].
    :synonyms: \-
@@ -297,7 +333,9 @@ colormap
 contribution type
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/contributionType``
+https://openminds.ebrains.eu/instances/terminology/contributionType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -313,7 +351,9 @@ contribution type
 cranial window construction type
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType``
+https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
+
+.. admonition:: metadata
 
    :definition: The construction type of a cranial window.
    :synonyms: \-
@@ -329,7 +369,9 @@ cranial window construction type
 cranial window reinforcement type
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType``
+https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
+
+.. admonition:: metadata
 
    :definition: The reinforcement type of a cranial window.
    :synonyms: \-
@@ -345,7 +387,9 @@ cranial window reinforcement type
 criteria quality type
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/criteriaQualityType``
+https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -361,7 +405,9 @@ criteria quality type
 data type
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/dataType``
+https://openminds.ebrains.eu/instances/terminology/dataType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -377,7 +423,9 @@ data type
 device type
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/deviceType``
+https://openminds.ebrains.eu/instances/terminology/deviceType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -393,7 +441,9 @@ device type
 difference measure
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/differenceMeasure``
+https://openminds.ebrains.eu/instances/terminology/differenceMeasure
+
+.. admonition:: metadata
 
    :definition: A measure of the difference between two things
    :synonyms: \-
@@ -409,7 +459,9 @@ difference measure
 disease
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/disease``
+https://openminds.ebrains.eu/instances/terminology/disease
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -425,7 +477,9 @@ disease
 disease model
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/diseaseModel``
+https://openminds.ebrains.eu/instances/terminology/diseaseModel
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -441,7 +495,9 @@ disease model
 educational level
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/educationalLevel``
+https://openminds.ebrains.eu/instances/terminology/educationalLevel
+
+.. admonition:: metadata
 
    :definition: An 'educational level' defines the developmental stage of a student and how learning environments are structured.
    :synonyms: \-
@@ -457,7 +513,9 @@ educational level
 electrical stimulus type
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/electricalStimulusType``
+https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
+
+.. admonition:: metadata
 
    :definition: An 'electrical stimulus type' groups similar electrical stimuli used across electrical stimulation techniques.
    :synonyms: \-
@@ -473,7 +531,9 @@ electrical stimulus type
 ethics assessment
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/ethicsAssessment``
+https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -489,7 +549,9 @@ ethics assessment
 experimental approach
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/experimentalApproach``
+https://openminds.ebrains.eu/instances/terminology/experimentalApproach
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -505,7 +567,9 @@ experimental approach
 file bundle grouping
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping``
+https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -521,7 +585,9 @@ file bundle grouping
 file repository type
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/fileRepositoryType``
+https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -537,7 +603,9 @@ file repository type
 file usage role
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/fileUsageRole``
+https://openminds.ebrains.eu/instances/terminology/fileUsageRole
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -553,7 +621,9 @@ file usage role
 genetic strain type
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/geneticStrainType``
+https://openminds.ebrains.eu/instances/terminology/geneticStrainType
+
+.. admonition:: metadata
 
    :definition: The genetic strain type describes the genetic background type of a strain.
    :synonyms: \-
@@ -569,7 +639,9 @@ genetic strain type
 gustatory stimulus type
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType``
+https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
+
+.. admonition:: metadata
 
    :definition: A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.
    :synonyms: \-
@@ -585,7 +657,9 @@ gustatory stimulus type
 handedness
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/handedness``
+https://openminds.ebrains.eu/instances/terminology/handedness
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -601,7 +675,9 @@ handedness
 language
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/language``
+https://openminds.ebrains.eu/instances/terminology/language
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -617,7 +693,9 @@ language
 laterality
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/laterality``
+https://openminds.ebrains.eu/instances/terminology/laterality
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -633,7 +711,9 @@ laterality
 learning resource type
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/learningResourceType``
+https://openminds.ebrains.eu/instances/terminology/learningResourceType
+
+.. admonition:: metadata
 
    :definition: A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).
    :synonyms: \-
@@ -649,7 +729,9 @@ learning resource type
 measured quantity
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/measuredQuantity``
+https://openminds.ebrains.eu/instances/terminology/measuredQuantity
+
+.. admonition:: metadata
 
    :definition: A qualified physical quantity that was measured/recorded
    :synonyms: \-
@@ -665,7 +747,9 @@ measured quantity
 (meta)data model type
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/metaDataModelType``
+https://openminds.ebrains.eu/instances/terminology/metaDataModelType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -681,7 +765,9 @@ measured quantity
 model abstraction level
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel``
+https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -697,7 +783,9 @@ model abstraction level
 model scope
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/modelScope``
+https://openminds.ebrains.eu/instances/terminology/modelScope
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -713,7 +801,9 @@ model scope
 molecular entity
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/molecularEntity``
+https://openminds.ebrains.eu/instances/terminology/molecularEntity
+
+.. admonition:: metadata
 
    :definition: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
    :synonyms: \-
@@ -729,7 +819,9 @@ molecular entity
 olfactory stimulus type
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType``
+https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
+
+.. admonition:: metadata
 
    :definition: An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.
    :synonyms: \-
@@ -745,7 +837,9 @@ olfactory stimulus type
 operating device
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/operatingDevice``
+https://openminds.ebrains.eu/instances/terminology/operatingDevice
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -761,7 +855,9 @@ operating device
 operating system
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/operatingSystem``
+https://openminds.ebrains.eu/instances/terminology/operatingSystem
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -777,7 +873,9 @@ operating system
 optical stimulus type
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/opticalStimulusType``
+https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
+
+.. admonition:: metadata
 
    :definition: An 'optical stimulus type' groups similar optical stimuli used across optical stimulation techniques.
    :synonyms: \-
@@ -793,7 +891,9 @@ optical stimulus type
 organ
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/organ``
+https://openminds.ebrains.eu/instances/terminology/organ
+
+.. admonition:: metadata
 
    :definition: Anatomical structure that performs a specific function or group of functions.
    :synonyms: \-
@@ -809,7 +909,9 @@ organ
 organism substance
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/organismSubstance``
+https://openminds.ebrains.eu/instances/terminology/organismSubstance
+
+.. admonition:: metadata
 
    :definition: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
    :synonyms: \-
@@ -825,7 +927,9 @@ organism substance
 organism system
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/organismSystem``
+https://openminds.ebrains.eu/instances/terminology/organismSystem
+
+.. admonition:: metadata
 
    :definition: Any anatomical or functional system in an organism, regardless of scale.
    :synonyms: \-
@@ -841,7 +945,9 @@ organism system
 patch clamp variation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/patchClampVariation``
+https://openminds.ebrains.eu/instances/terminology/patchClampVariation
+
+.. admonition:: metadata
 
    :definition: A variation of the patch clamp technique
    :synonyms: \-
@@ -857,7 +963,9 @@ patch clamp variation
 preparation type
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/preparationType``
+https://openminds.ebrains.eu/instances/terminology/preparationType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -873,7 +981,9 @@ preparation type
 product accessibility
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/productAccessibility``
+https://openminds.ebrains.eu/instances/terminology/productAccessibility
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -889,7 +999,9 @@ product accessibility
 programming language
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/programmingLanguage``
+https://openminds.ebrains.eu/instances/terminology/programmingLanguage
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -905,7 +1017,9 @@ programming language
 qualitative overlap
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap``
+https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -921,7 +1035,9 @@ qualitative overlap
 semantic data type
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/semanticDataType``
+https://openminds.ebrains.eu/instances/terminology/semanticDataType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -937,7 +1053,9 @@ semantic data type
 service
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/service``
+https://openminds.ebrains.eu/instances/terminology/service
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -953,7 +1071,9 @@ service
 setup type
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/setupType``
+https://openminds.ebrains.eu/instances/terminology/setupType
+
+.. admonition:: metadata
 
    :definition: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
    :synonyms: \-
@@ -969,7 +1089,9 @@ setup type
 software application category
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory``
+https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -985,7 +1107,9 @@ software application category
 software feature
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/softwareFeature``
+https://openminds.ebrains.eu/instances/terminology/softwareFeature
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1001,7 +1125,9 @@ software feature
 species
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/species``
+https://openminds.ebrains.eu/instances/terminology/species
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1017,7 +1143,9 @@ species
 stimulation approach
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/stimulationApproach``
+https://openminds.ebrains.eu/instances/terminology/stimulationApproach
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1033,7 +1161,9 @@ stimulation approach
 stimulation technique
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/stimulationTechnique``
+https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1049,7 +1179,9 @@ stimulation technique
 subcellular entity
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/subcellularEntity``
+https://openminds.ebrains.eu/instances/terminology/subcellularEntity
+
+.. admonition:: metadata
 
    :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
    :synonyms: cellular component
@@ -1065,7 +1197,9 @@ subcellular entity
 subject attribute
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/subjectAttribute``
+https://openminds.ebrains.eu/instances/terminology/subjectAttribute
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1081,7 +1215,9 @@ subject attribute
 tactile stimulus type
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/tactileStimulusType``
+https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
+
+.. admonition:: metadata
 
    :definition: A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.
    :synonyms: \-
@@ -1097,7 +1233,9 @@ tactile stimulus type
 technique
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/technique``
+https://openminds.ebrains.eu/instances/terminology/technique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1113,7 +1251,9 @@ technique
 tissue sample attribute
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute``
+https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1129,7 +1269,9 @@ tissue sample attribute
 tissue sample type
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/tissueSampleType``
+https://openminds.ebrains.eu/instances/terminology/tissueSampleType
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1145,7 +1287,9 @@ tissue sample type
 type of uncertainty
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty``
+https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1161,7 +1305,9 @@ type of uncertainty
 unit of measurement
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement``
+https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1177,7 +1323,9 @@ unit of measurement
 visual stimulus type
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/terminology/visualStimulusType``
+https://openminds.ebrains.eu/instances/terminology/visualStimulusType
+
+.. admonition:: metadata
 
    :definition: A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.
    :synonyms: \-

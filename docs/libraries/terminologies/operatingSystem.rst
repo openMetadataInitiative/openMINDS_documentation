@@ -9,7 +9,9 @@ OperatingSystem
 Android
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/Android``
+https://openminds.ebrains.eu/instances/operatingSystem/Android
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ Android
 Linux
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/Linux``
+https://openminds.ebrains.eu/instances/operatingSystem/Linux
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ Linux
 MacOS
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/MacOS``
+https://openminds.ebrains.eu/instances/operatingSystem/MacOS
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ MacOS
 Solaris
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/Solaris``
+https://openminds.ebrains.eu/instances/operatingSystem/Solaris
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ Solaris
 Unix
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/Unix``
+https://openminds.ebrains.eu/instances/operatingSystem/Unix
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ Unix
 Windows
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/Windows``
+https://openminds.ebrains.eu/instances/operatingSystem/Windows
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ Windows
 Windows Phone
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone``
+https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ Windows Phone
 iOS
 ---
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/iOS``
+https://openminds.ebrains.eu/instances/operatingSystem/iOS
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ iOS
 platform independent
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent``
+https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

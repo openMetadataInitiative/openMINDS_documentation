@@ -9,7 +9,9 @@ DataType
 3D computer graphic
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic``
+https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic
+
+.. admonition:: metadata
 
    :definition: A '3D computer graphic' is an associative array, defining points, lines, and/or curves in a three dimensional space, which can be rendered to raster graphic.
    :synonyms: \-
@@ -25,7 +27,9 @@ DataType
 associative array
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/associativeArray``
+https://openminds.ebrains.eu/instances/dataType/associativeArray
+
+.. admonition:: metadata
 
    :definition: A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).
    :synonyms: dictionary
@@ -41,7 +45,9 @@ associative array
 event sequence
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/eventSequence``
+https://openminds.ebrains.eu/instances/dataType/eventSequence
+
+.. admonition:: metadata
 
    :definition: An 'event sequence' is a list or matrix, where elements are ordered in not equally spaced points in time.
    :synonyms: \-
@@ -57,7 +63,9 @@ event sequence
 list
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/list``
+https://openminds.ebrains.eu/instances/dataType/list
+
+.. admonition:: metadata
 
    :definition: A 'list' is a series of ordered scalars and/or lists.
    :synonyms: \-
@@ -73,7 +81,9 @@ list
 matrix
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/matrix``
+https://openminds.ebrains.eu/instances/dataType/matrix
+
+.. admonition:: metadata
 
    :definition: A 'matrix' is a list of lists.
    :synonyms: \-
@@ -89,7 +99,9 @@ matrix
 raster graphic
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/rasterGraphic``
+https://openminds.ebrains.eu/instances/dataType/rasterGraphic
+
+.. admonition:: metadata
 
    :definition: A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.
    :synonyms: pixel data, raster image
@@ -105,7 +117,9 @@ raster graphic
 scalar
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/scalar``
+https://openminds.ebrains.eu/instances/dataType/scalar
+
+.. admonition:: metadata
 
    :definition: A 'scalar' represent a single value (e.g., integer, float, string, etc.).
    :synonyms: \-
@@ -121,7 +135,9 @@ scalar
 table
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/table``
+https://openminds.ebrains.eu/instances/dataType/table
+
+.. admonition:: metadata
 
    :definition: A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.
    :synonyms: tabular data
@@ -137,7 +153,9 @@ table
 time series
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/timeSeries``
+https://openminds.ebrains.eu/instances/dataType/timeSeries
+
+.. admonition:: metadata
 
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
    :synonyms: time-series
@@ -153,7 +171,9 @@ time series
 vector graphic
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/vectorGraphic``
+https://openminds.ebrains.eu/instances/dataType/vectorGraphic
+
+.. admonition:: metadata
 
    :definition: A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.
    :synonyms: vector image
@@ -169,7 +189,9 @@ vector graphic
 voxel data
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/dataType/voxelData``
+https://openminds.ebrains.eu/instances/dataType/voxelData
+
+.. admonition:: metadata
 
    :definition: 'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.
    :synonyms: \-

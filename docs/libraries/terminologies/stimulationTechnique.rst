@@ -9,7 +9,9 @@ StimulationTechnique
 Gestalt visual stimulation
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ Gestalt visual stimulation
 abstract image visual stimulation
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/abstractImageVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/abstractImageVisualStimulation
+
+.. admonition:: metadata
 
    :definition: In an 'abstract image visual stimulation' a subject is visually stimulated with a static image that does not show a natural scene but reduced information or forms (e.g., colored symbols or outlines of faces).
    :synonyms: \-
@@ -41,7 +45,9 @@ abstract image visual stimulation
 checkerboard visual stimulation
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/checkerboardVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/checkerboardVisualStimulation
+
+.. admonition:: metadata
 
    :definition: Stimulation technique that uses a checkerboard as visual stimulus.
    :synonyms: checker board stimulation, checker board visual stimulation, checker-board stimulation, checker-board visual stimulation
@@ -57,7 +63,9 @@ checkerboard visual stimulation
 current step stimulation
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulation
+
+.. admonition:: metadata
 
    :definition: Current step stimulation is a technique in which an amount of current is applied in predefined steps, whilst measuring changes in neural/muscular activity.
    :synonyms: \-
@@ -73,7 +81,9 @@ current step stimulation
 drifting grating visual stimulation
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/driftingGratingVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/driftingGratingVisualStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ drifting grating visual stimulation
 electrical stimulation
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulation
+
+.. admonition:: metadata
 
    :definition: A technique used to elicit a reaction by an electrical stimulus.
    :synonyms: \-
@@ -105,7 +117,9 @@ electrical stimulation
 figure-ground visual stimulation
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/figure-groundVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/figure-groundVisualStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ figure-ground visual stimulation
 microstimulation
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/microstimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/microstimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ microstimulation
 natural image visual stimulation
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/naturalImageVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/naturalImageVisualStimulation
+
+.. admonition:: metadata
 
    :definition: In a 'natural image visual stimulation' a subject is visually stimulated with a static image that shows a natural scene (e.g., landscape or a person).
    :synonyms: \-
@@ -153,7 +171,9 @@ natural image visual stimulation
 natural sound auditory stimulation
 ----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditoryStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditoryStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -169,7 +189,9 @@ natural sound auditory stimulation
 optogenetic stimulation
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/optogeneticStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/optogeneticStimulation
+
+.. admonition:: metadata
 
    :definition: Using light of a particular wavelength, 'optogenetic stimulation' increases or inhibits the activity of neuron populations that express (typically due to genetic manipulation) light-sensitive ion channels, pumps or enzymes.
    :synonyms: \-
@@ -185,7 +207,9 @@ optogenetic stimulation
 photon stimulation
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/photonStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/photonStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -201,7 +225,9 @@ photon stimulation
 random dot motion stimulation
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/randomDotMotionStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/randomDotMotionStimulation
+
+.. admonition:: metadata
 
    :definition: In a 'random dot motion stimulation' a subject is visually stimulated with a video where simulated randomly distributed dot(s) are re-positioned at a new random location with each video frame [[Newsome & Paré, 1988](https://doi.org/10.1523/jneurosci.08-06-02201.1988).
    :synonyms: random dot visual stimulation, random dot visual stimulation technique
@@ -217,7 +243,9 @@ random dot motion stimulation
 single pulse electrical stimulation
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectricalStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectricalStimulation
+
+.. admonition:: metadata
 
    :definition: A 'single pulse electrical stimulation' is a cortical stimulation technique typically used in the field of epilepsy surgery.
    :synonyms: SPES
@@ -233,7 +261,9 @@ single pulse electrical stimulation
 static grating visual stimulation
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/staticGratingVisualStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/staticGratingVisualStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -249,7 +279,9 @@ static grating visual stimulation
 subliminal stimulation
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/subliminalStimulation``
+https://openminds.ebrains.eu/instances/technique/subliminalStimulation
+
+.. admonition:: metadata
 
    :definition: 'Subliminal stimulation' is a technique providing any sensory stimuli below an individual's threshold for conscious perception (adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli))
    :synonyms: \-
@@ -265,7 +297,9 @@ subliminal stimulation
 subliminal visual simulation
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/subliminalVisualSimulation``
+https://openminds.ebrains.eu/instances/technique/subliminalVisualSimulation
+
+.. admonition:: metadata
 
    :definition: 'Subliminal visual simulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
    :synonyms: \-
@@ -281,7 +315,9 @@ subliminal visual simulation
 transcranial magnetic stimulation
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/transcranialMagneticStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/transcranialMagneticStimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -297,7 +333,9 @@ transcranial magnetic stimulation
 whisker stimulation
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/stimulationTechnique/whiskerStimulation``
+https://openminds.ebrains.eu/instances/stimulationTechnique/whiskerStimulation
+
+.. admonition:: metadata
 
    :definition: 'Whisker stimulation' comprises all stimulation techniques in which a single whisker or a group of whiskers is deflected in repeatable manner.
    :synonyms: \-

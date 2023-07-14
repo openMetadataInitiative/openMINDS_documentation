@@ -9,7 +9,9 @@ DifferenceMeasure
 chi-squared statistic
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic``
+https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
+
+.. admonition:: metadata
 
    :definition: Test statistic resulting from a chi-squared test.
    :synonyms: χ2-statistic
@@ -25,7 +27,9 @@ chi-squared statistic
 Kolmogorov-Smirnov statistic
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic``
+https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
+
+.. admonition:: metadata
 
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
    :synonyms: KS-statistic
@@ -41,7 +45,9 @@ Kolmogorov-Smirnov statistic
 Kullback-Leibler divergence
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence``
+https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
+
+.. admonition:: metadata
 
    :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
    :synonyms: KL divergence
@@ -57,7 +63,9 @@ Kullback-Leibler divergence
 mean squared error
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError``
+https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
+
+.. admonition:: metadata
 
    :definition: The mean squared difference between two series of values.
    :synonyms: \-
@@ -73,7 +81,9 @@ mean squared error
 t-statistic
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic``
+https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
+
+.. admonition:: metadata
 
    :definition: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
    :synonyms: \-
@@ -89,7 +99,9 @@ t-statistic
 z-score
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/differenceMeasure/z_score``
+https://openminds.ebrains.eu/instances/differenceMeasure/z_score
+
+.. admonition:: metadata
 
    :definition: The number of standard deviations by which an observed value is above or below the mean value.
    :synonyms: \-

@@ -9,7 +9,9 @@ AnalysisTechnique
 3D computer graphic modeling
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/3DComputerGraphicModeling``
+https://openminds.ebrains.eu/instances/technique/3DComputerGraphicModeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ AnalysisTechnique
 4-points congruent sets alignment
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/4PointsCongruentSetsAlignment``
+https://openminds.ebrains.eu/instances/technique/4PointsCongruentSetsAlignment
+
+.. admonition:: metadata
 
    :definition: 4-points congruent sets alignment is a fast and robust alignment technique for 3D point sets without pre-filtering or denoising the data, even if the data are noisy and/or contaminated with outliers ([Aiger et al., 2008](https://doi.org/10.1145/1360612.1360684)).
    :synonyms: 4-points congruent sets, 4-points congruent sets registration, 4PCS, 4PCS alignment, 4PCS registration
@@ -41,7 +45,9 @@ AnalysisTechnique
 DNA methylation analysis
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/DNAMethylationAnalysis``
+https://openminds.ebrains.eu/instances/technique/DNAMethylationAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'DNA methylation analysis' studies chromosomal patterns of DNA or histone modification by methyl groups ([modified from Nature.com](https://www.nature.com/subjects/methylation-analysis)).
    :synonyms: methylation analysis
@@ -57,7 +63,9 @@ DNA methylation analysis
 DNA sequencing
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/DNASequencing``
+https://openminds.ebrains.eu/instances/technique/DNASequencing
+
+.. admonition:: metadata
 
    :definition: 'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]
    :synonyms: deoxyribonucleic acid sequencing, deoxyribonucleic acid sequencing assay, DNA sequencing assay, DNA-Seq
@@ -73,7 +81,9 @@ DNA sequencing
 Grubbs' test
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/GrubbsTest``
+https://openminds.ebrains.eu/instances/technique/GrubbsTest
+
+.. admonition:: metadata
 
    :definition: The 'Grubbs test' is a statistical test, first published by [Grubbs (1950)](https://doi.org/10.1214/aoms/1177729885), used to detect outliers in univariate data that are assumed to come from a normally distributed population. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Grubbs%27s_test)]
    :synonyms: extreme studentized deviate test, Grubbs test, maximum normalized residual test
@@ -89,7 +99,9 @@ Grubbs' test
 HPC simulation
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/HPCSimulation``
+https://openminds.ebrains.eu/instances/technique/HPCSimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: High Performance Computing simulation
@@ -105,7 +117,9 @@ HPC simulation
 ICA based denoising technique
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/ICABasedDenoisingTechnique``
+https://openminds.ebrains.eu/instances/technique/ICABasedDenoisingTechnique
+
+.. admonition:: metadata
 
    :definition: An 'ICA based denoising technique' removes independent components from input data to reduce noise while preserving the features of interest in the data.
    :synonyms: ICA based denoising, ICA based denoising method, ICA-based denoising, ICA-based denoising method, ICA-based denoising technique, independent component analysis based denoising technique
@@ -121,7 +135,9 @@ ICA based denoising technique
 Mann–Whitney U test
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/MannWhitneyUTest``
+https://openminds.ebrains.eu/instances/technique/MannWhitneyUTest
+
+.. admonition:: metadata
 
    :definition: The 'Mann–Whitney U test' is a nonparametric test of the null hypothesis that, for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)]
    :synonyms: Mann–Whitney–Wilcoxon test, MWU test, MWW test, Wilcoxon rank-sum test, Wilcoxon–Mann–Whitney test, WMW test
@@ -137,7 +153,9 @@ Mann–Whitney U test
 RNA sequencing
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/RNASequencing``
+https://openminds.ebrains.eu/instances/technique/RNASequencing
+
+.. admonition:: metadata
 
    :definition: 'RNA sequencing' refers to a group of techniques that are used to (directly or indirectly) determine the order of nucleotides (nucleic acid sequence) in RNA.
    :synonyms: ribonucleic acid sequencing, ribonucleic acid sequencing assay, RNA sequencing assay, RNA-Seq
@@ -153,7 +171,9 @@ RNA sequencing
 Shapiro-Wilk test
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/ShapiroWilkTest``
+https://openminds.ebrains.eu/instances/technique/ShapiroWilkTest
+
+.. admonition:: metadata
 
    :definition: The 'Shapiro–Wilk test' is a statistical test of normality of a complete sample, first described by [Shapiro and Wilk (1965)](https://doi.org/10.1093/biomet/52.3-4.591). [adapted from [wikipedia](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test)]
    :synonyms: Shapiro-Wilk normality test
@@ -169,7 +189,9 @@ Shapiro-Wilk test
 Spearman's rank-order correlation
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/SpearmansRankOrderCorrelation``
+https://openminds.ebrains.eu/instances/technique/SpearmansRankOrderCorrelation
+
+.. admonition:: metadata
 
    :definition: The 'Spearman's rank-order correlation' is the nonparametric version of the Pearson product-moment correlation measuring the strength and direction of association between a set of two ranked variables. [adapted from [Laerd.com](https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php)]
    :synonyms: Spearman’s correlation, Spearman’s correlation test, Spearman’s rank correlation
@@ -185,7 +207,9 @@ Spearman's rank-order correlation
 Ward clustering
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/WardClustering``
+https://openminds.ebrains.eu/instances/technique/WardClustering
+
+.. admonition:: metadata
 
    :definition: 'Ward clustering' is a general agglomerative hierarchical clustering procedure, where the criterion for choosing the pair of clusters to merge at each step is based on the optimal value of an objective function (typically aiming to minimize the total within-cluster variance). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Ward%27s_method)]
    :synonyms: \-
@@ -201,7 +225,9 @@ Ward clustering
 activation likelihood estimation
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/activationLikelihoodEstimation``
+https://openminds.ebrains.eu/instances/technique/activationLikelihoodEstimation
+
+.. admonition:: metadata
 
    :definition: An 'activation likelihood estimation' is a coordinate-based meta-analysis of neuroimaging data that determines the above-chance convergence of activation probabilities between experiments (i.e., not between foci). [adapted from [Eickhoff et al., 2011](https://dx.doi.org/10.1016%2Fj.neuroimage.2011.09.017)]
    :synonyms: activation likelihood estimation analysis, activation likelihood estimation meta-analysis, ALE, ALE analysis, ALE meta-analysis
@@ -217,7 +243,9 @@ activation likelihood estimation
 affine image registration
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/affineImageRegistration``
+https://openminds.ebrains.eu/instances/technique/affineImageRegistration
+
+.. admonition:: metadata
 
    :definition: A 'affine image registration' is a process of bringing a set of images into the same coordinate system using affine transformation.
    :synonyms: \-
@@ -233,7 +261,9 @@ affine image registration
 affine transformation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/affineTransformation``
+https://openminds.ebrains.eu/instances/technique/affineTransformation
+
+.. admonition:: metadata
 
    :definition: An 'affine transformation' is a specific linear transformation using combinations of rotations, translations, reflections, scaling and shearing to map coordinates between two coordinate spaces.
    :synonyms: \-
@@ -249,7 +279,9 @@ affine transformation
 anatomical delineation technique
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique``
+https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -265,7 +297,9 @@ anatomical delineation technique
 average linkage clustering
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/averageLinkageClustering``
+https://openminds.ebrains.eu/instances/technique/averageLinkageClustering
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -281,7 +315,9 @@ average linkage clustering
 bias field correction
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/biasFieldCorrection``
+https://openminds.ebrains.eu/instances/technique/biasFieldCorrection
+
+.. admonition:: metadata
 
    :definition: A 'bias field correction' is a mathematical technique to remove a corrupting, low frequency signal from magnetic resonance images. This bias field signal is typically caused by inhomogeneities in the magnetic ﬁelds of the magnetic resonance imaging machine.
    :synonyms: BFC
@@ -297,7 +333,9 @@ bias field correction
 bootstrapping
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/bootstrapping``
+https://openminds.ebrains.eu/instances/technique/bootstrapping
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -313,7 +351,9 @@ bootstrapping
 boundary-based registration
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/boundaryBasedRegistration``
+https://openminds.ebrains.eu/instances/technique/boundaryBasedRegistration
+
+.. admonition:: metadata
 
    :definition: The term 'boundary-based registration' refers to feature based image registration methods which utilize a boundary which can be identified in the source and target image.
    :synonyms: BBR
@@ -329,7 +369,9 @@ boundary-based registration
 cluster analysis
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/clusterAnalysis``
+https://openminds.ebrains.eu/instances/technique/clusterAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -345,7 +387,9 @@ cluster analysis
 combined volume–surface registration
 ------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/combinedVolumeSurfaceRegistration``
+https://openminds.ebrains.eu/instances/technique/combinedVolumeSurfaceRegistration
+
+.. admonition:: metadata
 
    :definition: The term 'combined volume-surface registration' refers to an image registration framework which utilizes information from the brain surface and the brain volume to perform the registration (cf. [Postelnicu et al. (2009)](https://doi.org/10.1109/TMI.2008.2004426)).
    :synonyms: CVS registration
@@ -361,7 +405,9 @@ combined volume–surface registration
 communication profiling
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/communicationProfiling``
+https://openminds.ebrains.eu/instances/technique/communicationProfiling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -377,7 +423,9 @@ communication profiling
 conjunction analysis
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/conjunctionAnalysis``
+https://openminds.ebrains.eu/instances/technique/conjunctionAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -393,7 +441,9 @@ conjunction analysis
 connected-component analysis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/connected-componentAnalysis``
+https://openminds.ebrains.eu/instances/technique/connected-componentAnalysis
+
+.. admonition:: metadata
 
    :definition: 'connected-component analysis' is an algorithmic application of graph theory, where subsets of connected components are uniquely labeled based on a given heuristic. [adapted from: [wikipedia](https://en.wikipedia.org/wiki/Connected-component_labeling)]
    :synonyms: CCA, CCL, connected-component labeling
@@ -409,7 +459,9 @@ connected-component analysis
 connectivity based parcellation technique
 -----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/connectivityBasedParcellationTechnique``
+https://openminds.ebrains.eu/instances/technique/connectivityBasedParcellationTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -425,7 +477,9 @@ connectivity based parcellation technique
 convolution
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/convolution``
+https://openminds.ebrains.eu/instances/technique/convolution
+
+.. admonition:: metadata
 
    :definition: In functional analysis, 'convolution' is a mathematical operation on two functions (f and g) producing a third function (f * g) that expresses how the shape of one is modified by the other. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Convolution)]
    :synonyms: convolution technique
@@ -441,7 +495,9 @@ convolution
 correlation analysis
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/correlationAnalysis``
+https://openminds.ebrains.eu/instances/technique/correlationAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -457,7 +513,9 @@ correlation analysis
 covariance analysis
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/covarianceAnalysis``
+https://openminds.ebrains.eu/instances/technique/covarianceAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -473,7 +531,9 @@ covariance analysis
 current source density analysis
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/currentSourceDensityAnalysis``
+https://openminds.ebrains.eu/instances/technique/currentSourceDensityAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -489,7 +549,9 @@ current source density analysis
 cytoarchitectonic mapping
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping``
+https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping
+
+.. admonition:: metadata
 
    :definition: 'Cytoarchitectonic mapping' is a delineation technique that defines regional borders based on histological analysis of the cellular composition of the studied tissue.
    :synonyms: \-
@@ -505,7 +567,9 @@ cytoarchitectonic mapping
 deep learning
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/deepLearning``
+https://openminds.ebrains.eu/instances/technique/deepLearning
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -521,7 +585,9 @@ deep learning
 density measurement
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/densityMeasurement``
+https://openminds.ebrains.eu/instances/technique/densityMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -537,7 +603,9 @@ density measurement
 dictionary learning
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/dictionaryLearning``
+https://openminds.ebrains.eu/instances/technique/dictionaryLearning
+
+.. admonition:: metadata
 
    :definition: 'Dictionary learning' is a branch of signal processing and machine learning that aims at finding a frame (called dictionary) in which some training data admits a sparse representation.
    :synonyms: sparse dictionary learning
@@ -553,7 +621,9 @@ dictionary learning
 diffeomorphic registration
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/diffeomorphicRegistration``
+https://openminds.ebrains.eu/instances/technique/diffeomorphicRegistration
+
+.. admonition:: metadata
 
    :definition: 'Diffeomorphic registration' refers to a suite of algorithms that register or build correspondences between dense coordinate systems in medical imaging by ensuring the solutions are diffeomorphic.
    :synonyms: diffeomorphic mapping, large deformation diffeomorphic metric mapping
@@ -569,7 +639,9 @@ diffeomorphic registration
 enzyme-linked immunosorbent assay
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay``
+https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay
+
+.. admonition:: metadata
 
    :definition: The 'enzyme-linked immunosorbent assay' is a commonly used analytical biochemistry assay for the quantitative determination of antibodies, first described by [Engvall and Perlmann (1972)](https://www.jimmunol.org/content/109/1/129.abstract). [adapted from [wikipedia](https://en.wikipedia.org/wiki/ELISA)]
    :synonyms: ELISA
@@ -585,7 +657,9 @@ enzyme-linked immunosorbent assay
 eye movement tracking
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/eyeMovementTracking``
+https://openminds.ebrains.eu/instances/technique/eyeMovementTracking
+
+.. admonition:: metadata
 
    :definition: 'Eye movement tracking' refers to a group of techniques used to measure the eye movement and/or position of a living specimen over a given period of time.
    :synonyms: eye motion tracking, eye tracking
@@ -601,7 +675,9 @@ eye movement tracking
 gene expression measurement
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/geneExpressionMeasurement``
+https://openminds.ebrains.eu/instances/technique/geneExpressionMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -617,7 +693,9 @@ gene expression measurement
 general linear modeling
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/generalLinearModeling``
+https://openminds.ebrains.eu/instances/technique/generalLinearModeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -633,7 +711,9 @@ general linear modeling
 genetic correlation analysis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/geneticCorrelationAnalysis``
+https://openminds.ebrains.eu/instances/technique/geneticCorrelationAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -649,7 +729,9 @@ genetic correlation analysis
 genetic risk score
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/geneticRiskScore``
+https://openminds.ebrains.eu/instances/technique/geneticRiskScore
+
+.. admonition:: metadata
 
    :definition: A genetic risk score is an estimate of the cumulative contribution of genetic factors to a specific outcome of interest in an individual (Igo et al, 2019).
    :synonyms: GRS
@@ -665,7 +747,9 @@ genetic risk score
 genome-wide association study
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy``
+https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy
+
+.. admonition:: metadata
 
    :definition: A 'genome-wide association study' is an analysis technique comparing the allele frequencies of all available (or a whole genome representative set of) polymorphic markers in unrelated individuals with a specific symptom or disease condition, and those of healthy controls to identify markers associated with a specific disease or condition.
    :synonyms: genetic association study, genome association studies, GWAS, GWAS analysis, GWA study, whole genome association study, WGA study, WGAS
@@ -681,7 +765,9 @@ genome-wide association study
 global signal regression
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/globalSignalRegression``
+https://openminds.ebrains.eu/instances/technique/globalSignalRegression
+
+.. admonition:: metadata
 
    :definition: A 'global signal regression' is a denoising technique where the global signal is removed from the time series of each voxel through linear regression. [adapted from: [Murphy & Fox, 2017](https://dx.doi.org/10.1016%2Fj.neuroimage.2016.11.052)]
    :synonyms: GSR
@@ -697,7 +783,9 @@ global signal regression
 hierarchical agglomerative clustering
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/hierarchicalAgglomerativeClustering``
+https://openminds.ebrains.eu/instances/technique/hierarchicalAgglomerativeClustering
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -713,7 +801,9 @@ hierarchical agglomerative clustering
 hierarchical clustering
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/hierarchicalClustering``
+https://openminds.ebrains.eu/instances/technique/hierarchicalClustering
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -729,7 +819,9 @@ hierarchical clustering
 hierarchical divisive clustering
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/hierarchicalDivisiveClustering``
+https://openminds.ebrains.eu/instances/technique/hierarchicalDivisiveClustering
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -745,7 +837,9 @@ hierarchical divisive clustering
 image distortion correction
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/imageDistortionCorrection``
+https://openminds.ebrains.eu/instances/technique/imageDistortionCorrection
+
+.. admonition:: metadata
 
    :definition: 'Image distortion correction' is the general term for any image processing technique correcting optical or perspective aberrations of an image.
    :synonyms: \-
@@ -761,7 +855,9 @@ image distortion correction
 image registration
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/imageRegistration``
+https://openminds.ebrains.eu/instances/technique/imageRegistration
+
+.. admonition:: metadata
 
    :definition: An 'image registration' is a process of bringing a set of images into the same coordinate system.
    :synonyms: spatial registration
@@ -777,7 +873,9 @@ image registration
 independent component analysis
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/independentComponentAnalysis``
+https://openminds.ebrains.eu/instances/technique/independentComponentAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -793,7 +891,9 @@ independent component analysis
 inter-subject analysis
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/interSubjectAnalysis``
+https://openminds.ebrains.eu/instances/technique/interSubjectAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -809,7 +909,9 @@ inter-subject analysis
 interpolation
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/interpolation``
+https://openminds.ebrains.eu/instances/technique/interpolation
+
+.. admonition:: metadata
 
    :definition: An 'interpolation' is an analysis technique that delivers estimates for new data points based on a range of a discrete set of known data points.
    :synonyms: \-
@@ -825,7 +927,9 @@ interpolation
 intra-subject analysis
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intraSubjectAnalysis``
+https://openminds.ebrains.eu/instances/technique/intraSubjectAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -841,7 +945,9 @@ intra-subject analysis
 k-means clustering
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/k-meansClustering``
+https://openminds.ebrains.eu/instances/technique/k-meansClustering
+
+.. admonition:: metadata
 
    :definition: 'k-means clustering' is a centroid-based cluster analysis technique that aims to partition n observations into a pre-defined number of k clusters by assigning each observation to the cluster with the nearest mean (centroid).
    :synonyms: k-means, k-means cluster analysis
@@ -857,7 +963,9 @@ k-means clustering
 linear image registration
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/linearImageRegistration``
+https://openminds.ebrains.eu/instances/technique/linearImageRegistration
+
+.. admonition:: metadata
 
    :definition: A 'linear image registration' is a process of bringing a set of images into the same coordinate system using linear transformation.
    :synonyms: \-
@@ -873,7 +981,9 @@ linear image registration
 linear regression
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/linearRegression``
+https://openminds.ebrains.eu/instances/technique/linearRegression
+
+.. admonition:: metadata
 
    :definition: A 'linear regression' is an analysis approach for modelling the linear relationship between a scalar response and one or more explanatory variables.
    :synonyms: \-
@@ -889,7 +999,9 @@ linear regression
 linear transformation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/linearTransformation``
+https://openminds.ebrains.eu/instances/technique/linearTransformation
+
+.. admonition:: metadata
 
    :definition: A 'linear transformation' is a linear mathematical function to map coordinates between two different coordinate systems while perserving straight lines.
    :synonyms: \-
@@ -905,7 +1017,9 @@ linear transformation
 literature mining
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/literatureMining``
+https://openminds.ebrains.eu/instances/technique/literatureMining
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -921,7 +1035,9 @@ literature mining
 manifold learning
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/manifoldLearning``
+https://openminds.ebrains.eu/instances/technique/manifoldLearning
+
+.. admonition:: metadata
 
    :definition: 'manifold learning' refers to a group of machine learning algorithms for non-linear dimensionality reduction of high-dimensionalty data.
    :synonyms: \-
@@ -937,7 +1053,9 @@ manifold learning
 mass univariate analysis
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/massUnivariateAnalysis``
+https://openminds.ebrains.eu/instances/technique/massUnivariateAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'mass univariate analysis' is the statistical analysis of a massive number of simultaneously measured dependent variables via the performance of univariate hypothesis tests.
    :synonyms: \-
@@ -953,7 +1071,9 @@ mass univariate analysis
 maximum likelihood estimation technique
 ---------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimation``
+https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimation
+
+.. admonition:: metadata
 
    :definition: 'Maximum likelihood estimation' is a statistical analysis technique that estimates the parameters of an assumed probability distribution for some observed data by maximizing a likelihood function so that, under the assumed statistical model, the observed data is most probable. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)]
    :synonyms: MLE, maximum likelihood estimation technique
@@ -969,7 +1089,9 @@ maximum likelihood estimation technique
 maximum probability projection
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection``
+https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -985,7 +1107,9 @@ maximum probability projection
 meta-analysis
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/metaAnalysis``
+https://openminds.ebrains.eu/instances/technique/metaAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1001,7 +1125,9 @@ meta-analysis
 meta-analytic connectivity modeling
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModeling``
+https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1017,7 +1143,9 @@ meta-analytic connectivity modeling
 metadata parsing
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/metadataParsing``
+https://openminds.ebrains.eu/instances/technique/metadataParsing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1033,7 +1161,9 @@ metadata parsing
 model-based stimulation artifact correction
 -------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/modelBasedStimulationArtifactCorrection``
+https://openminds.ebrains.eu/instances/technique/modelBasedStimulationArtifactCorrection
+
+.. admonition:: metadata
 
    :definition: The 'model-based stimulation artifact correction' is a model-based analysis technique for removing stimulation artifacts from intracranial electroencephalography signals to uncover the cortico-cortical evoked potentials caused by the stimulation (cf. [Trebaul et al. (2016)](https://doi.org/10.1016/j.jneumeth.2016.03.002)).
    :synonyms: model-based artifact correction
@@ -1049,7 +1179,9 @@ model-based stimulation artifact correction
 morphometric analysis
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/morphometricAnalysis``
+https://openminds.ebrains.eu/instances/technique/morphometricAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1065,7 +1197,9 @@ morphometric analysis
 morphometry
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/morphometry``
+https://openminds.ebrains.eu/instances/technique/morphometry
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1081,7 +1215,9 @@ morphometry
 motion correction
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/motionCorrection``
+https://openminds.ebrains.eu/instances/technique/motionCorrection
+
+.. admonition:: metadata
 
    :definition: 'Motion correction' is the general term for any preprocessing analysis technique used to correct for motion artifacts in imaging time-series.
    :synonyms: \-
@@ -1097,7 +1233,9 @@ motion correction
 movement tracking
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/movementTracking``
+https://openminds.ebrains.eu/instances/technique/movementTracking
+
+.. admonition:: metadata
 
    :definition: 'Movement tracking' refers to a group of techniques used to measure the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.
    :synonyms: motion tracking
@@ -1113,7 +1251,9 @@ movement tracking
 multi-compartment modeling
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling``
+https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1129,7 +1269,9 @@ multi-compartment modeling
 multi-scale individual component clustering
 -------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multi-scaleIndividualComponentClustering``
+https://openminds.ebrains.eu/instances/technique/multi-scaleIndividualComponentClustering
+
+.. admonition:: metadata
 
    :definition: 'multi-scale individual component clustering' is a multi-scale, unsupervised cluster analysis technique to group individual, independent components of a single-object/single-subject independent component analysis (ICA) from an object-pool/subject-pool (cf. [Naveau et al, 2012](https://doi.org/10.1007/s12021-012-9145-2)).
    :synonyms: MICCA, multi-scale individual component cluster algorithm
@@ -1145,7 +1287,9 @@ multi-scale individual component clustering
 multi-voxel pattern analysis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multiVoxelPatternAnalysis``
+https://openminds.ebrains.eu/instances/technique/multiVoxelPatternAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'multi-voxel pattern analysis' is considered as a supervised classification problem where a classifier attempts to capture the relationships between spatial patterns of functional magnetic resonance imaging activity and experimental conditions ([Mahmoudi et al., 2012](https://doi.org/10.1155/2012/961257), [Davatzikos et al., 2005](https://doi.org/10.1016/j.neuroimage.2005.08.009)).
    :synonyms: MVPA
@@ -1161,7 +1305,9 @@ multi-voxel pattern analysis
 multiple linear regression
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multipleLinearRegression``
+https://openminds.ebrains.eu/instances/technique/multipleLinearRegression
+
+.. admonition:: metadata
 
    :definition: A 'multiple linear regression' is a linear approach for modelling the relationship between a scalar response and multiple explanatory variables. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Linear_regression)]
    :synonyms: MLR, multi-linear regression, multilinear regression, multiple regression
@@ -1177,7 +1323,9 @@ multiple linear regression
 neuromorphic simulation
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/neuromorphicSimulation``
+https://openminds.ebrains.eu/instances/technique/neuromorphicSimulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1193,7 +1341,9 @@ neuromorphic simulation
 nonlinear image registration
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nonlinearImageRegistration``
+https://openminds.ebrains.eu/instances/technique/nonlinearImageRegistration
+
+.. admonition:: metadata
 
    :definition: A 'nonlinear image registration' is a process of bringing a set of images into the same coordinate system using nonlinear transformation.
    :synonyms: non-linear image registration
@@ -1209,7 +1359,9 @@ nonlinear image registration
 nonlinear transformation
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nonlinearTransformation``
+https://openminds.ebrains.eu/instances/technique/nonlinearTransformation
+
+.. admonition:: metadata
 
    :definition: A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not perserving straight lines.
    :synonyms: non-linear transformation
@@ -1225,7 +1377,9 @@ nonlinear transformation
 nonrigid image registration
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nonrigidImageRegistration``
+https://openminds.ebrains.eu/instances/technique/nonrigidImageRegistration
+
+.. admonition:: metadata
 
    :definition: A 'nonrigid image registration' is a process of bringing a set of images into the same coordinate system using nonrigid transformation.
    :synonyms: non-rigid image registration
@@ -1241,7 +1395,9 @@ nonrigid image registration
 nonrigid motion correction
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nonrigidMotionCorrection``
+https://openminds.ebrains.eu/instances/technique/nonrigidMotionCorrection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: non-rigid motion correction
@@ -1257,7 +1413,9 @@ nonrigid motion correction
 nonrigid transformation
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nonrigidTransformation``
+https://openminds.ebrains.eu/instances/technique/nonrigidTransformation
+
+.. admonition:: metadata
 
    :definition: A 'nonrigid transformation' is a specific linear transformation using combinations of rotations, translations, reflections, scaling, shearing, and perspective projections to map coordinates between two coordinate spaces.
    :synonyms: non-rigid transformation
@@ -1273,7 +1431,9 @@ nonrigid transformation
 nuisance regression
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nuisanceRegression``
+https://openminds.ebrains.eu/instances/technique/nuisanceRegression
+
+.. admonition:: metadata
 
    :definition: 'Nuisance regression' is an image processing technique which seeks to attenuate non-neural BOLD fluctuations from measurable noise sources such as scanner drift and head motion, as well as periodic physiological signals. [adapted from [Hallquist et al. 2013](https://doi.org/10.1016%2Fj.neuroimage.2013.05.116)]
    :synonyms: NR
@@ -1289,7 +1449,9 @@ nuisance regression
 pathway analysis
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/pathwayAnalysis``
+https://openminds.ebrains.eu/instances/technique/pathwayAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'pathway analysis' refers to a group of techniques that aim to discover what biological themes, and which biomolecules, are crucial to understand biological pathways of (typically) high-throughput biological data (adapted from [García-Campos et al., 2015](https://doi.org/10.3389/fphys.2015.00383)).
    :synonyms: biological pathway modelling, biological pathway prediction, functional enrichment analysis, functional pathway analysis, PA, pathway comparison, pathway modelling, pathway prediction, pathway simulation
@@ -1305,7 +1467,9 @@ pathway analysis
 performance profiling
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/performanceProfiling``
+https://openminds.ebrains.eu/instances/technique/performanceProfiling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1321,7 +1485,9 @@ performance profiling
 perturbational complexity index measurement
 -------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/perturbationalComplexityIndexMeasurement``
+https://openminds.ebrains.eu/instances/technique/perturbationalComplexityIndexMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1337,7 +1503,9 @@ perturbational complexity index measurement
 phase synchronization analysis
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/phaseSynchronizationAnalysis``
+https://openminds.ebrains.eu/instances/technique/phaseSynchronizationAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'phase synchronization analysis' detects and quantifies synchronization between two time series.
    :synonyms: PS analysis, PSA
@@ -1353,7 +1521,9 @@ phase synchronization analysis
 principal component analysis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/principalComponentAnalysis``
+https://openminds.ebrains.eu/instances/technique/principalComponentAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'principal component analysis' is a statistical technique for reducing the dimensionality of a dataset by linearly transforming the data into a new coordinate system where (most of) the variation in the data can be described with fewer dimensions than the initial data. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)]
    :synonyms: PCA
@@ -1369,7 +1539,9 @@ principal component analysis
 probabilistic anatomical parcellation technique
 -----------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/probabilisticAnatomicalParcellationTechnique``
+https://openminds.ebrains.eu/instances/technique/probabilisticAnatomicalParcellationTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1385,7 +1557,9 @@ probabilistic anatomical parcellation technique
 probabilistic diffusion tractography
 ------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractography``
+https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1401,7 +1575,9 @@ probabilistic diffusion tractography
 pupillometry
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/pupillometry``
+https://openminds.ebrains.eu/instances/technique/pupillometry
+
+.. admonition:: metadata
 
    :definition: Pupillometry is the measurement of minute fluctuations in pupil diameter in response to a stimulus.
    :synonyms: \-
@@ -1417,7 +1593,9 @@ pupillometry
 qualitative analysis
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis``
+https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis
+
+.. admonition:: metadata
 
    :definition: 'Qualitative analysis' uses subjective judgment to analyze data based on non-quantifiable information. The resulting data are typically nonnumerical.
    :synonyms: \-
@@ -1433,7 +1611,9 @@ qualitative analysis
 quantification
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/quantification``
+https://openminds.ebrains.eu/instances/technique/quantification
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1449,7 +1629,9 @@ quantification
 quantitative analysis
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/quantitativeAnalysis``
+https://openminds.ebrains.eu/instances/technique/quantitativeAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1465,7 +1647,9 @@ quantitative analysis
 reconstruction technique
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/reconstructionTechnique``
+https://openminds.ebrains.eu/instances/technique/reconstructionTechnique
+
+.. admonition:: metadata
 
    :definition: A 'reconstruction technique' is able to re-build, re-assemble, re-create, or re-imagine something by applying (often mathematical) principles to physical evidence.
    :synonyms: \-
@@ -1481,7 +1665,9 @@ reconstruction technique
 reporter gene based expression measurement
 ------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement``
+https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1497,7 +1683,9 @@ reporter gene based expression measurement
 reporter protein based expression measurement
 ---------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionMeasurement``
+https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionMeasurement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1513,7 +1701,9 @@ reporter protein based expression measurement
 rigid image registration
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/rigidImageRegistration``
+https://openminds.ebrains.eu/instances/technique/rigidImageRegistration
+
+.. admonition:: metadata
 
    :definition: A 'rigid image registration' is a process of bringing a set of images into the same coordinate system using rigid transformation.
    :synonyms: \-
@@ -1529,7 +1719,9 @@ rigid image registration
 rigid motion correction
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/rigidMotionCorrection``
+https://openminds.ebrains.eu/instances/technique/rigidMotionCorrection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1545,7 +1737,9 @@ rigid motion correction
 rigid transformation
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/rigidTransformation``
+https://openminds.ebrains.eu/instances/technique/rigidTransformation
+
+.. admonition:: metadata
 
    :definition: A 'rigid transformation' is a specific linear transformation using combinations of rotations, translations, and reflections to map coordinates between two coordinate spaces, leaving the oject congruent.
    :synonyms: \-
@@ -1561,7 +1755,9 @@ rigid transformation
 rule-based modeling
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/rule-basedModeling``
+https://openminds.ebrains.eu/instances/technique/rule-basedModeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1577,7 +1773,9 @@ rule-based modeling
 seed-based correlation analysis
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/seed-basedCorrelationAnalysis``
+https://openminds.ebrains.eu/instances/technique/seed-basedCorrelationAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1593,7 +1791,9 @@ seed-based correlation analysis
 semantic anchoring
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/semanticAnchoring``
+https://openminds.ebrains.eu/instances/technique/semanticAnchoring
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1609,7 +1809,9 @@ semantic anchoring
 semiquantitative analysis
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/semiquantitativeAnalysis``
+https://openminds.ebrains.eu/instances/technique/semiquantitativeAnalysis
+
+.. admonition:: metadata
 
    :definition: An analysis technique which constitutes or involves less than quantitative precision.
    :synonyms: \-
@@ -1625,7 +1827,9 @@ semiquantitative analysis
 signal filtering technique
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/signalFilteringTechnique``
+https://openminds.ebrains.eu/instances/technique/signalFilteringTechnique
+
+.. admonition:: metadata
 
    :definition: 'Signal filtering' is a signal processing technique used to remove or suppress unwanted components or features (e.g., certain frequencies) from a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Filter_(signal_processing))]
    :synonyms: filtering, signal filtering
@@ -1641,7 +1845,9 @@ signal filtering technique
 signal processing technique
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/signalProcessingTechnique``
+https://openminds.ebrains.eu/instances/technique/signalProcessingTechnique
+
+.. admonition:: metadata
 
    :definition: 'Signal processing' refers to a class of analysis techniques used to improve transmission, storage efficiency and subjective quality as well as to emphasize or detect components of interest in a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Signal_processing)]
    :synonyms: signal processing
@@ -1657,7 +1863,9 @@ signal processing technique
 simulation
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/simulation``
+https://openminds.ebrains.eu/instances/technique/simulation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1673,7 +1881,9 @@ simulation
 single cell RNA sequencing
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing``
+https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1689,7 +1899,9 @@ single cell RNA sequencing
 single gene analysis
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis``
+https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis
+
+.. admonition:: metadata
 
    :definition: A 'single gene analysis' is a genetic test (sequencing technique) to check for any genetic changes in a specific gene.
    :synonyms: single gene sequencing, single gene test
@@ -1705,7 +1917,9 @@ single gene analysis
 single nucleotide polymorphism detection
 ----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/singleNucleotidePolymorphismDetection``
+https://openminds.ebrains.eu/instances/technique/singleNucleotidePolymorphismDetection
+
+.. admonition:: metadata
 
    :definition: 'Single nucleotide polymorphism detection' refers to a group of techniques that are used to scan for new polymorphisms and to determine the allele(s) of a known polymorphism in target sequences (adapted from [Kwok and Chen, 2003](https://doi.org/10.21775/cimb.005.043)).
    :synonyms: SNP calling, SNP detection, SNP discovery
@@ -1721,7 +1935,9 @@ single nucleotide polymorphism detection
 slice timing correction
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/sliceTimingCorrection``
+https://openminds.ebrains.eu/instances/technique/sliceTimingCorrection
+
+.. admonition:: metadata
 
    :definition: 'Slice timing correction' is a preprocessing technique applied to functional magnetic resonance image data in order to correct for temporal offsets between 2D image slices during the data acquisition. [adapted from [Parker and Razlighi, 2019](https://doi.org/10.3389/fnins.2019.00821)]
    :synonyms: STC
@@ -1737,7 +1953,9 @@ slice timing correction
 spectral power auto-segmentation technique
 ------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/spectralPowerAutoSegmentationTechnique``
+https://openminds.ebrains.eu/instances/technique/spectralPowerAutoSegmentationTechnique
+
+.. admonition:: metadata
 
    :definition: A 'spectral power auto-segmentation technique' makes use of the power spectrum along the time axis of individual pixels or voxels in an image to automatically generate a segmentation.
    :synonyms: spectral power image auto-segmentation technique
@@ -1753,7 +1971,9 @@ spectral power auto-segmentation technique
 spike sorting
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/spikeSorting``
+https://openminds.ebrains.eu/instances/technique/spikeSorting
+
+.. admonition:: metadata
 
    :definition: 'Spike sorting' is a class of techniques used in the analysis of extracellular electrophysiological data to extract the activity of one or more neurons from the background electrical noise by making use of the typical waveforms action potentials (spikes) create in the recorded neuronal signal.
    :synonyms: spike sorting technique
@@ -1769,7 +1989,9 @@ spike sorting
 stochastic online matrix factorization
 --------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/stochasticOnlineMatrixFactorization``
+https://openminds.ebrains.eu/instances/technique/stochasticOnlineMatrixFactorization
+
+.. admonition:: metadata
 
    :definition: 'Stochastic online matrix factorization' is a matrix-factorization algorithm that scales to input matrices with both huge number of rows and columns [(Mensch et al., 2018)](https://doi.org/10.1109/TSP.2017.2752697).
    :synonyms: SOMF
@@ -1785,7 +2007,9 @@ stochastic online matrix factorization
 structural covariance analysis
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/structuralCovarianceAnalysis``
+https://openminds.ebrains.eu/instances/technique/structuralCovarianceAnalysis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1801,7 +2025,9 @@ structural covariance analysis
 support-vector machine classifier
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/supportVectorMachineClassifier``
+https://openminds.ebrains.eu/instances/technique/supportVectorMachineClassifier
+
+.. admonition:: metadata
 
    :definition: A 'support-vector machine classifier' is a supervised machine learning technique that analyzes data for classification.
    :synonyms: support-vector machine, support-vector machine learning, SVC, SVM, SVM classifier, SVM learning
@@ -1817,7 +2043,9 @@ support-vector machine classifier
 support-vector regression algorithm
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/supportVectorMachineRegression``
+https://openminds.ebrains.eu/instances/technique/supportVectorMachineRegression
+
+.. admonition:: metadata
 
    :definition: A 'Support-Vector Regression Algorithm' is a supervised machine learning technique used to estimate the relationship between a dependent and a number of independent variables.
    :synonyms: support vector regression, support vector regression algorithm, support-vector regression, SVR, SVR algorithm
@@ -1833,7 +2061,9 @@ support-vector regression algorithm
 surface projection
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/surfaceProjection``
+https://openminds.ebrains.eu/instances/technique/surfaceProjection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: surface texture projection
@@ -1849,7 +2079,9 @@ surface projection
 temporal filtering
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/temporalFiltering``
+https://openminds.ebrains.eu/instances/technique/temporalFiltering
+
+.. admonition:: metadata
 
    :definition: 'Temporal filtering' is a functional image signal processing technique that aims to remove or attenuate frequencies that vary along the time axis of the raw signal. [adapted from [Wikibooks](https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing/Processing/Steps/Temporal_Filtering)]
    :synonyms: temporal filtering technique, temporal image filtering, temporal image filtering technique
@@ -1865,7 +2097,9 @@ temporal filtering
 tract tracing
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/tractTracing``
+https://openminds.ebrains.eu/instances/technique/tractTracing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1881,7 +2115,9 @@ tract tracing
 tractography
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/tractography``
+https://openminds.ebrains.eu/instances/technique/tractography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1897,7 +2133,9 @@ tractography
 transformation
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/transformation``
+https://openminds.ebrains.eu/instances/technique/transformation
+
+.. admonition:: metadata
 
    :definition: A 'transformation' is a mathematical function to map coordinates between two different coordinate systems.
    :synonyms: \-
@@ -1913,7 +2151,9 @@ transformation
 video-oculography
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/video-oculography``
+https://openminds.ebrains.eu/instances/technique/video-oculography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1929,7 +2169,9 @@ video-oculography
 video annotation
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/videoAnnotation``
+https://openminds.ebrains.eu/instances/technique/videoAnnotation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1945,7 +2187,9 @@ video annotation
 voxel-based morphometry
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/voxel-basedMorphometry``
+https://openminds.ebrains.eu/instances/technique/voxel-basedMorphometry
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1961,7 +2205,9 @@ voxel-based morphometry
 whole genome sequencing
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing``
+https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing
+
+.. admonition:: metadata
 
    :definition: 'Whole genome sequencing' is a genetic test (sequencing technique) to determine the entire, or nearly the entire, DNA sequence of an organism's genome at a single time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing)]
    :synonyms: complete genome sequencing, entire genome sequencing, full genome sequencing, WGS
@@ -1977,7 +2223,9 @@ whole genome sequencing
 z-score analysis
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/zScoreAnalysis``
+https://openminds.ebrains.eu/instances/technique/zScoreAnalysis
+
+.. admonition:: metadata
 
    :definition: The 'z-score analysis' is a statistical normalization technique where the z-score is calculated by subtracting the population mean from an individual raw score (observed data point) and dividing the difference by the population standard deviation. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Standard_score)]
    :synonyms: standard score analysis

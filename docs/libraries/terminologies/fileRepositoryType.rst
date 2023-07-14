@@ -9,7 +9,9 @@ FileRepositoryType
 FTP repository
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/ftp``
+https://openminds.ebrains.eu/instances/fileRepositoryType/ftp
+
+.. admonition:: metadata
 
    :definition: A 'FTP repository' is located on a server that uses the file transfer protocol (FTP), a standard internet communication protocol which allows the transfer of files between clients and a server.
    :synonyms: file transfer protocol repository
@@ -25,7 +27,9 @@ FTP repository
 Git repository
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/git``
+https://openminds.ebrains.eu/instances/fileRepositoryType/git
+
+.. admonition:: metadata
 
    :definition: A Git repository offers version control and source code management functionalities.
    :synonyms: Git repository, Git remote repository, remote Git repository, GitHub repository, GitLab repository
@@ -41,7 +45,9 @@ Git repository
 git-annex repository
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex``
+https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex
+
+.. admonition:: metadata
 
    :definition: git-annex allows managing large files with git, without storing the file contents in git.
    :synonyms: \-
@@ -57,7 +63,9 @@ git-annex repository
 GPFS repository
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs``
+https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
+
+.. admonition:: metadata
 
    :definition: GPFS, short for General Parallel File System is a high-performance clustered file system developed by IBM
    :synonyms: \-
@@ -73,7 +81,9 @@ GPFS repository
 Amazon S3 repository
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/s3``
+https://openminds.ebrains.eu/instances/fileRepositoryType/s3
+
+.. admonition:: metadata
 
    :definition: An S3 repository uses the cloud storage of the Amazon S3 service.
    :synonyms: S3 repository, Amazon Simple Storage Service repository
@@ -89,7 +99,9 @@ Amazon S3 repository
 Seafile repository
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/seafile``
+https://openminds.ebrains.eu/instances/fileRepositoryType/seafile
+
+.. admonition:: metadata
 
    :definition: Seafile is an open source file sync&share solution designed for high reliability, performance and productivity.
    :synonyms: \-
@@ -105,7 +117,9 @@ Seafile repository
 Swift repository
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/fileRepositoryType/swift``
+https://openminds.ebrains.eu/instances/fileRepositoryType/swift
+
+.. admonition:: metadata
 
    :definition: A Swift repository uses the long-term cloud storage of the OpenStack Object Store project which is particularly designed for retrieving and updating large amounts of static data without the need of a central point of control.
    :synonyms: \-

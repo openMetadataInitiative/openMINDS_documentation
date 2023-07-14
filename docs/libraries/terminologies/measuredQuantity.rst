@@ -9,7 +9,9 @@ MeasuredQuantity
 chloride reversal potential
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential``
+https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential
+
+.. admonition:: metadata
 
    :definition: The reversal potential for chloride ions.
    :synonyms: \-
@@ -25,7 +27,9 @@ chloride reversal potential
 compensation current
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent``
+https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
+
+.. admonition:: metadata
 
    :definition: Current injected into a cell to maintain the membrane potential at a target value.
    :synonyms: \-
@@ -41,7 +45,9 @@ compensation current
 holding potential
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential``
+https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
+
+.. admonition:: metadata
 
    :definition: Measured membrane potential during a voltage-clamp protocol.
    :synonyms: measured holding potential
@@ -57,7 +63,9 @@ holding potential
 input resistance
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance``
+https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
+
+.. admonition:: metadata
 
    :definition: Total resistance observed by the amplifier during an electrophysiological recording.
    :synonyms: access resistance
@@ -73,7 +81,9 @@ input resistance
 liquid junction potential
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential``
+https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
+
+.. admonition:: metadata
 
    :definition: A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.
    :synonyms: \-
@@ -89,7 +99,9 @@ liquid junction potential
 membrane potential
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential``
+https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
+
+.. admonition:: metadata
 
    :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
    :synonyms: \-
@@ -105,7 +117,9 @@ membrane potential
 seal resistance
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance``
+https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
+
+.. admonition:: metadata
 
    :definition: Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.
    :synonyms: \-
@@ -121,7 +135,9 @@ seal resistance
 series resistance
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance``
+https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
+
+.. admonition:: metadata
 
    :definition: Resistance of the electrode during an electrophysiological recording.
    :synonyms: access resistance, electrode resistance

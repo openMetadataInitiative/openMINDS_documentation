@@ -9,7 +9,9 @@ MolecularEntity
 5-HT1A receptor
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor
+
+.. admonition:: metadata
 
    :definition: The 5-HT1A receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
    :synonyms: 1A receptor, 5-HT1A, 5-HT1A serotonin receptor, serotonin 1A receptor
@@ -25,7 +27,9 @@ MolecularEntity
 5-HT1B receptor
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor
+
+.. admonition:: metadata
 
    :definition: The 5-HT1B receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
    :synonyms: 1B receptor, 5-HT1B, 5-HT1B serotonin receptor, serotonin 1B receptor
@@ -41,7 +45,9 @@ MolecularEntity
 5-HT2A receptor
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor
+
+.. admonition:: metadata
 
    :definition: The 5-HT2A receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
    :synonyms: 2A receptor, 5-HT2A, 5-HT2A serotonin receptor, serotonin 2A receptor
@@ -57,7 +63,9 @@ MolecularEntity
 5-HT2 receptor
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor
+
+.. admonition:: metadata
 
    :definition: The 5-HT2 receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
    :synonyms: 5-HT2, 5-HT2 serotonin receptor
@@ -73,7 +81,9 @@ MolecularEntity
 5-HT4 receptor
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor
+
+.. admonition:: metadata
 
    :definition: The 5-HT4 receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
    :synonyms: 5-HT4, 5-HT4 serotonin receptor, 5-hydroxytryptamine 4 receptor, serotonin receptor 4
@@ -89,7 +99,9 @@ MolecularEntity
 5-HT transporter
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter``
+https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter
+
+.. admonition:: metadata
 
    :definition: The 5-HT transporter is a type of monoamine transporter protein that transports the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT) from the synaptic cleft back to the presynaptic neuron.
    :synonyms: 5-HTT, SERT, sodium-dependent serotonin transporter
@@ -105,7 +117,9 @@ MolecularEntity
 A1 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor
+
+.. admonition:: metadata
 
    :definition: The adenosine A1 receptor is a subtype of the adenosine receptor group that bind adenosine as endogenous ligand.
    :synonyms: A1, adenosine A1 receptor
@@ -121,7 +135,9 @@ A1 receptor
 A2A receptor
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor
+
+.. admonition:: metadata
 
    :definition: The adenosine A2A receptor is a subtype of the adenosine receptor group that bind adenosine as endogenous ligand.
    :synonyms: A2A, adenosine A2A receptor, adenosine A2a receptor
@@ -137,7 +153,9 @@ A2A receptor
 AMPA receptor
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor
+
+.. admonition:: metadata
 
    :definition: The AMPA receptors belong to the class of ionotropic glutamate receptors and mediate fast synaptic transmission in the central nervous system (CNS).
    :synonyms: AMPA-type glutamate-gated cationic channel, AMPAR, ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor, ionotropic AMPA receptor, ionotropic glutamate AMPA receptor, quisqualate receptor
@@ -153,7 +171,9 @@ AMPA receptor
 Alexa Fluor 594
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594``
+https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594
+
+.. admonition:: metadata
 
    :definition: Alexa Fluor 594' is a fluorochrome/fluorescent dye used to stain biological specimens.
    :synonyms: Alexa 594
@@ -169,7 +189,9 @@ Alexa Fluor 594
 Beta-Amyloid 40
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40``
+https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40
+
+.. admonition:: metadata
 
    :definition: Amyloid beta peptide with carboxyterminal variant ending at residual Val40.
    :synonyms: Abeta40, AbetaX-40, Amyloid-Beta 40
@@ -185,7 +207,9 @@ Beta-Amyloid 40
 D1 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor
+
+.. admonition:: metadata
 
    :definition: The D1 receptor is a subtype of the dopamine receptor group that primarily binds the neurotransmitter dopamine as endogenous ligand. The D1 receptor is the most abundant kind of dopamine receptor in the central nervous system.
    :synonyms: D(1A) dopamine receptor, D1, D1 dopamine receptor, D1R, dopamine receptor D1, DRD1
@@ -201,7 +225,9 @@ D1 receptor
 D2 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor
+
+.. admonition:: metadata
 
    :definition: The D2 receptor is a subtype of the dopamine receptor group that primarily binds the neurotransmitter dopamine as endogenous ligand.
    :synonyms: D(2) dopamine receptor, D2, D2 dopamine receptor, D2R, dopamine receptor D2, DRD2
@@ -217,7 +243,9 @@ D2 receptor
 DAB
 ---
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/DAB``
+https://openminds.ebrains.eu/instances/molecularEntity/DAB
+
+.. admonition:: metadata
 
    :definition: DAB is a chemically and thermodynamically stable derivative of benzidine.
    :synonyms: 3,3'-diaminobenzidine
@@ -233,7 +261,9 @@ DAB
 Fluoro-Emerald
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald``
+https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald
+
+.. admonition:: metadata
 
    :definition: Fluoro-Emerald is a fluorescent dextran derivative (dextran, fluorescein, 10,000 MW) used for tracing studies in the nervous system.
    :synonyms: Fluoro Emerald, FluoroEmerald
@@ -249,7 +279,9 @@ Fluoro-Emerald
 Fluoro-Gold
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold``
+https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold
+
+.. admonition:: metadata
 
    :definition: Fluoro-Gold is a fluorescent dye that is used as a retrograde tracer in tract tracing studies.
    :synonyms: Fluoro Gold, FluoroGold
@@ -265,7 +297,9 @@ Fluoro-Gold
 Fluoro-Ruby
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby``
+https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby
+
+.. admonition:: metadata
 
    :definition: Fluoro-Ruby is a fluorescent dextran derivative (dextran, tetramethylrhodamine, 10,000 MW) used for retrograde tracing studies in the nervous system.
    :synonyms: Fluoro Ruby, FluoroRuby
@@ -281,7 +315,9 @@ Fluoro-Ruby
 GABA-A receptor
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor
+
+.. admonition:: metadata
 
    :definition: The GABA-A receptor is an ionotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
    :synonyms: GABA A receptor, GABA_A, GABAA
@@ -297,7 +333,9 @@ GABA-A receptor
 GABA-A/BZ
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ``
+https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
+
+.. admonition:: metadata
 
    :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
    :synonyms: GABA-A/benzodiazepine site, GABAA/benzodiazepine site, GABA A receptor/benzodiazepine site, GABA_A/benzodiazepine site, GABAA/BZ , GABA A receptor/BZ , GABA_A/BZ
@@ -313,7 +351,9 @@ GABA-A/BZ
 GABA-B receptor
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor
+
+.. admonition:: metadata
 
    :definition: The GABA-B receptor is a metabotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
    :synonyms: GABA B receptor, GABA_B, GABAB
@@ -329,7 +369,9 @@ GABA-B receptor
 GABA receptor
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor
+
+.. admonition:: metadata
 
    :definition: The GABA receptors are a group of receptors that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
    :synonyms: GABAR, gamma-aminobutyric acid receptor
@@ -345,7 +387,9 @@ GABA receptor
 JNK MAP kinase scaffold protein 2
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProtein2``
+https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProtein2
+
+.. admonition:: metadata
 
    :definition: The JNK MAP kinase scaffold protein 2 is a protein that is a translation product of the human MAPK8IP2 gene or a 1:1 ortholog thereof.
    :synonyms: C-Jun-amino-terminal kinase-interacting protein 2, IB-2 , JIP-2, JNK-interacting protein 2, islet-brain-2, mitogen-activated protein kinase 8-interacting protein 2
@@ -361,7 +405,9 @@ JNK MAP kinase scaffold protein 2
 M1 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor
+
+.. admonition:: metadata
 
    :definition: The M1 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It mediates slow excitatory postsynaptic potential in the postganglionic nerve and is also expressed in exocrine glands and in the central nervous system.
    :synonyms: cholinergic receptor, muscarinic 1, M1, M1 acetylcholine receptor, M1 AChR, muscarinic acetylcholine receptor 1, muscarinic acetylcholine receptor M1, muscarinic acetylcholine receptor type 1
@@ -377,7 +423,9 @@ M1 receptor
 M2 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor
+
+.. admonition:: metadata
 
    :definition: The M2 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is expressed in cardiac tissues and acts to slow the heart rate to normal after sympathetic nervous system stimulation.
    :synonyms: M2, M2 acetylcholine receptor, M2 AChR, muscarinic acetylcholine receptor 2, muscarinic acetylcholine receptor M2, muscarinic acetylcholine receptor type 2
@@ -393,7 +441,9 @@ M2 receptor
 M3 receptor
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor
+
+.. admonition:: metadata
 
    :definition: The M3 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is expressed in many glands, in lungs, and in the smooth muscles of blood vessels.
    :synonyms: M3, M3 acetylcholine receptor, M3 AChR, muscarinic acetylcholine receptor 3, muscarinic acetylcholine receptor M3, muscarinic acetylcholine receptor type 3
@@ -409,7 +459,9 @@ M3 receptor
 NMDA receptor
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor
+
+.. admonition:: metadata
 
    :definition: The NMDA receptors belong to the class of ionotropic glutamate receptors which can be activated with glutamate and glycine with a voltage-dependent current flow. The blockage of the activated channel through extracellular magnesium (Mg2+) and zinc (Zn2+) ions can only be removed when the neuron is sufficiently depolarized.
    :synonyms: ionotropic glutamate N-methyl-D-aspartate receptor, ionotropic glutamate NMDA receptor, ionotropic NMDA receptor, NMDA-type glutamate-gated cationic channel, NMDAR
@@ -425,7 +477,9 @@ NMDA receptor
 acetylcholine
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine``
+https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine
+
+.. admonition:: metadata
 
    :definition: Acetylcholine in vertebrates is the major neurotransmitter at neuromuscular junctions, autonomic ganglia, parasympathetic effector junctions, a subset of sympathetic effector junctions, and at many sites in the central nervous system.
    :synonyms: ACh
@@ -441,7 +495,9 @@ acetylcholine
 alpha-1 receptor
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor
+
+.. admonition:: metadata
 
    :definition: The alpha-1 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :synonyms: alpha1, alpha-1 adrenergic receptor, alpha 1, α1 receptor, α1 adrenergic receptor
@@ -457,7 +513,9 @@ alpha-1 receptor
 alpha-2 receptor
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor
+
+.. admonition:: metadata
 
    :definition: The alpha-2 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :synonyms: alpha2, alpha-2 adrenergic receptor, alpha 2, α2 receptor, α2 adrenergic receptor
@@ -473,7 +531,9 @@ alpha-2 receptor
 alpha-4 beta-2 receptor
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor``
+https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor
+
+.. admonition:: metadata
 
    :definition: The alpha-4 beta-2 receptor belongs to the family of nicotinic acetylcholine receptors that respond to the neurotransmitter acetylcholine as endogenous ligand. This subtype is located in the brain, where activation yields post- and presynaptic excitation.
    :synonyms: nicotinic acetylcholine alpha4beta2 receptor, alpha-4 beta-2 nicotinic receptor, alpha-4 beta-2 receptor, nicotinic receptor alpha4beta2, α4β2 receptor
@@ -489,7 +549,9 @@ alpha-4 beta-2 receptor
 anterograde tracer
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer``
+https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer
+
+.. admonition:: metadata
 
    :definition: An anterograde tracer is a molecule that is taken up by neurons (e.g., by viral transfection mechanisms, by other cell internalization mechanisms or passive diffusion) and transported towards the axon terminals. It is used for anterograde tract tracing studies in the nervous system.
    :synonyms: \-
@@ -505,7 +567,9 @@ anterograde tracer
 biomarker
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/biomarker``
+https://openminds.ebrains.eu/instances/molecularEntity/biomarker
+
+.. admonition:: metadata
 
    :definition: A substance used as an indicator of a biological state, most commonly disease.
    :synonyms: \-
@@ -521,7 +585,9 @@ biomarker
 biotinylated dextran amine
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine``
+https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine
+
+.. admonition:: metadata
 
    :definition: A 'biotinylated dextran amine' is an organic compound which is used as an anterograde and retrograde neuroanatomical tracer.
    :synonyms: B-DA, BDA, biotin dextran amine, biotinylated dextranamine
@@ -537,7 +603,9 @@ biotinylated dextran amine
 brain-derived neurotrophic factor
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicFactor``
+https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicFactor
+
+.. admonition:: metadata
 
    :definition: The 'brain-derived neurotrophic factor' is a protein that, in humans, is encoded by the BDNF gene. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)]
    :synonyms: BDNF, abrineurin
@@ -553,7 +621,9 @@ brain-derived neurotrophic factor
 c-FOS
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/c-FOS``
+https://openminds.ebrains.eu/instances/molecularEntity/c-FOS
+
+.. admonition:: metadata
 
    :definition: c-FOS is a proto-oncogene that is the human homolog of the retroviral oncogene v-fos.
    :synonyms: c-f, c-fos, cF, cFos, D12Rfj, D12Rfj1, FBJ osteosarcoma oncogene, Fos
@@ -569,7 +639,9 @@ c-FOS
 calbindin
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/calbindin``
+https://openminds.ebrains.eu/instances/molecularEntity/calbindin
+
+.. admonition:: metadata
 
    :definition: Calbindin is a calcium-binding protein.
    :synonyms: 28kDa, CALB1, calbindin 1, calbindin D28K, calbindin-D(28k)
@@ -585,7 +657,9 @@ calbindin
 calcium calmodulin protein kinase II
 ------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII``
+https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII
+
+.. admonition:: metadata
 
    :definition: The 'calcium calmodulin protein kinase II' is a protein with a core domain architecture consisting of a Protein kinase domain and a C-terminal Calcium/calmodulin dependent protein kinase II Association domain.
    :synonyms: Ca2+/calmodulin-dependent protein kinase II, calcium/calmodulin-dependent protein kinase type II, CaMKII
@@ -601,7 +675,9 @@ calcium calmodulin protein kinase II
 calcium calmodulin protein kinase II alpha chain
 ------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain``
+https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain
+
+.. admonition:: metadata
 
    :definition: The 'calcium calmodulin protein kinase II alpha chain' is a calcium/calmodulin-dependent protein kinase type II chain that is a translation product of the human CAMK2A gene or a 1:1 ortholog thereof.
    :synonyms: Ca2+/calmodulin-dependent protein kinase 2 alpha chain, Ca2+/calmodulin-dependent protein kinase II alpha chain, calcium/calmodulin-dependent protein kinase type 2 alpha chain, calcium/calmodulin-dependent protein kinase type II alpha chain, CaM kinase 2 subunit alpha, CaM kinase II subunit alpha, CaMK2 subunit alpha, CaMK2a, CaMKII subunit alpha, CaMKIIa
@@ -617,7 +693,9 @@ calcium calmodulin protein kinase II alpha chain
 calretinin
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/calretinin``
+https://openminds.ebrains.eu/instances/molecularEntity/calretinin
+
+.. admonition:: metadata
 
    :definition: Calretinin is an intracellular calcium-binding protein belonging to the troponin C superfamily. Members of this protein family have six EF-hand domains which bind calcium.
    :synonyms: 29kDa calbindin, CAB29, CALB2, calbindin 2, CR
@@ -633,7 +711,9 @@ calretinin
 cholecystokinin
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin``
+https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin
+
+.. admonition:: metadata
 
    :definition: Cholecystokinin is a peptide hormone of the gastrointestinal system responsible for stimulating the digestion of fat and protein.
    :synonyms: CCK
@@ -649,7 +729,9 @@ cholecystokinin
 choline acetyltransferase
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase``
+https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase
+
+.. admonition:: metadata
 
    :definition: Choline acetyltransferase is a synthetic enzyme that catalyzes the formation of acetylcholine from acetyl-CoA and choline
    :synonyms: ChAT, choline acetylase
@@ -665,7 +747,9 @@ choline acetyltransferase
 cyclic adenosine monophosphate
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosphate``
+https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosphate
+
+.. admonition:: metadata
 
    :definition: Cyclic adenosine monophosphate is a second messenger important in many biological processes.
    :synonyms: 3',5'-cyclic AMP, 3',5'-cylic adenosine monophosphate, adenosine 3',5'-cyclic monophosphate, cAMP, cyclic AMP
@@ -681,7 +765,9 @@ cyclic adenosine monophosphate
 dopamine
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/dopamine``
+https://openminds.ebrains.eu/instances/molecularEntity/dopamine
+
+.. admonition:: metadata
 
    :definition: Dopamine is one of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine.
    :synonyms: DA, deoxyepinephrine, dopamin, dopamine HCl, hydroxyltyramine
@@ -697,7 +783,9 @@ dopamine
 dopamine transporter
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter``
+https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter
+
+.. admonition:: metadata
 
    :definition: A 'dopamine transporter' is a membrane-spanning protein that pumps the neurotransmitter dopamine out of the synaptic cleft back into cytosol.
    :synonyms: DAT, dopamine active transporter
@@ -713,7 +801,9 @@ dopamine transporter
 dynorphin
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/dynorphin``
+https://openminds.ebrains.eu/instances/molecularEntity/dynorphin
+
+.. admonition:: metadata
 
    :definition: Dynorphin belongs to a class of opioid peptides that arise from the precursor protein prodynorphin. Dynorphins bind to the kappa opioid receptor.
    :synonyms: Dyn
@@ -729,7 +819,9 @@ dynorphin
 enkephalin
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/enkephalin``
+https://openminds.ebrains.eu/instances/molecularEntity/enkephalin
+
+.. admonition:: metadata
 
    :definition: Enkephalin is a pentapeptide involved in regulating nociception in the body.
    :synonyms: Enk
@@ -745,7 +837,9 @@ enkephalin
 epibatidine
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/epibatidine``
+https://openminds.ebrains.eu/instances/molecularEntity/epibatidine
+
+.. admonition:: metadata
 
    :definition: Epibatidine is a chlorinated alkaloid that binds to nicotinic and muscarinic acetylcholine receptors with high affinity.
    :synonyms: \-
@@ -761,7 +855,9 @@ epibatidine
 excitatory amino acid transporter
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporters are a subclass of glutamate transporters that remove glutamate from the synaptic cleft and extrasynaptic sites via glutamate reuptake into glial cells and neurons.
    :synonyms: EAAT
@@ -777,7 +873,9 @@ excitatory amino acid transporter
 excitatory amino acid transporter 1
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporter 1 belongs to the EAAT familiy. It is predominantly expressed in the plasma membrane removing glutamate from the extracellular space, but was also localized in the inner mitochondrial membrane as part of the malate-aspartate shuttle.
    :synonyms: EAAT1, GLAST-1, glutamate aspartate transporter 1
@@ -793,7 +891,9 @@ excitatory amino acid transporter 1
 excitatory amino acid transporter 2
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporter 2 belongs to the EAAT familiy. It clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system and is responsible for over 90% of glutamate reuptake within the brain.
    :synonyms: EAAT2, GLT-1, glutamate transporter 1, SLC1A2, solute carrier family 1 member 2
@@ -809,7 +909,9 @@ excitatory amino acid transporter 2
 excitatory amino acid transporter 3
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporter 3 belongs to the EAAT familiy transporting glutamate across plasma membranes in neurons. It can also transport aspartate and plays a role in the neuronal cysteine uptake.
    :synonyms: EAAT3
@@ -825,7 +927,9 @@ excitatory amino acid transporter 3
 excitatory amino acid transporter 4
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporter 4 belongs to the EAAT familiy. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.
    :synonyms: EAAT4
@@ -841,7 +945,9 @@ excitatory amino acid transporter 4
 excitatory amino acid transporter 5
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5``
+https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5
+
+.. admonition:: metadata
 
    :definition: The excitatory amino acid transporter 5 belongs to the EAAT familiy. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.
    :synonyms: EAAT5
@@ -857,7 +963,9 @@ excitatory amino acid transporter 5
 flumazenil
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/flumazenil``
+https://openminds.ebrains.eu/instances/molecularEntity/flumazenil
+
+.. admonition:: metadata
 
    :definition: Flumazenil is a selective GABAA receptor antagonist that binds to the benzodiazepine recognition site on the GABAA/benzodiazepine receptor complex.
    :synonyms: \-
@@ -873,7 +981,9 @@ flumazenil
 fluorescent microspheres
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres``
+https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres
+
+.. admonition:: metadata
 
    :definition: Fluorescent microspheres are non-toxic, non-biologically reactive small polymers embedded with fluorescent dye which are used in medical imaging, as markers for fluorescent microscopy and as standards for flow cytometry fluorescent cell sorting.
    :synonyms: \-
@@ -889,7 +999,9 @@ fluorescent microspheres
 gabazine
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/gabazine``
+https://openminds.ebrains.eu/instances/molecularEntity/gabazine
+
+.. admonition:: metadata
 
    :definition: Gabazine is a competitive and selective GABAA antagonist.
    :synonyms: SR-95531
@@ -905,7 +1017,9 @@ gabazine
 galanin
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/galanin``
+https://openminds.ebrains.eu/instances/molecularEntity/galanin
+
+.. admonition:: metadata
 
    :definition: Galanin is a biologically active neuropeptide, encoded by the GAL gene, that is widely distributed in the central and peripheral nervous systems and the endocrine system.
    :synonyms: GAL
@@ -921,7 +1035,9 @@ galanin
 glutamate
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/glutamate``
+https://openminds.ebrains.eu/instances/molecularEntity/glutamate
+
+.. admonition:: metadata
 
    :definition: Glutamate is the carboxylate anion of glutamic acid; and the major excitatory neurotransmitter in the central nervous system of vertebrates, the peripheral nervous system of invertebrates.
    :synonyms: GLU, Glu, Glut, GLUT
@@ -937,7 +1053,9 @@ glutamate
 glutamate transporter
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter``
+https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter
+
+.. admonition:: metadata
 
    :definition: The glutamate transporters are a class of transporter proteins that can move the neurotransmitter glutamate across membranes.
    :synonyms: GLT
@@ -953,7 +1071,9 @@ glutamate transporter
 glycine transporter 2
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2``
+https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2
+
+.. admonition:: metadata
 
    :definition: The glycine transporter 2 is a member of the Na+ and Cl−-coupled transporter family SLC6 that recaptures the inhibitory transmitter glycine in the spinal cord and brainstem.
    :synonyms: glycine transporter type 2, GlyT2, sodium- and chloride-dependent glycine transporter 2
@@ -969,7 +1089,9 @@ glycine transporter 2
 growth factor
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/growthFactor``
+https://openminds.ebrains.eu/instances/molecularEntity/growthFactor
+
+.. admonition:: metadata
 
    :definition: The 'growth factor' comprises signal molecules that are involved in the control of cell growth and differentiation.
    :synonyms: GF
@@ -985,7 +1107,9 @@ growth factor
 histamine
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/histamine``
+https://openminds.ebrains.eu/instances/molecularEntity/histamine
+
+.. admonition:: metadata
 
    :definition: Histamine is produced by basophils and mast cells (in connective tissues). It is involved in local immune responses and regulating physiological function in the gut and acts as a neurotransmitter (adapted from Wikipedia).
    :synonyms: \-
@@ -1001,7 +1125,9 @@ histamine
 insulin-like growth factor 1
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1``
+https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
+
+.. admonition:: metadata
 
    :definition: The term 'insulin-like growth factor' names a set of proteins with high sequence similarity to insulin that are part of a complex system that cells use to communicate with their physiologic environment. [adpated from [wikipedia](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)]
    :synonyms: IGF-1, Igf-1, IGF-I, Igf-I, IGF1, Igf1, insulin-like growth factor I
@@ -1017,7 +1143,9 @@ insulin-like growth factor 1
 intrabody
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/intrabody``
+https://openminds.ebrains.eu/instances/molecularEntity/intrabody
+
+.. admonition:: metadata
 
    :definition: An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.
    :synonyms: \-
@@ -1033,7 +1161,9 @@ intrabody
 ionotropic glutamate receptor
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateReceptor
+
+.. admonition:: metadata
 
    :definition: Ionotropic glutamate receptors are a class of ligand-gated ion channels that are activated by the neurotransmitter glutamate as endogenous ligand.
    :synonyms: iGluR
@@ -1049,7 +1179,9 @@ ionotropic glutamate receptor
 iperoxo
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/iperoxo``
+https://openminds.ebrains.eu/instances/molecularEntity/iperoxo
+
+.. admonition:: metadata
 
    :definition: Iperoxo is an organic chemical molecule that is used as a muscarinic M2 receptor agonist.
    :synonyms: 4-[(4,5-Dihydro-3-isoxazolyl)oxy]-N,N,N-trimethyl-2-butyn-1-aminium iodide
@@ -1065,7 +1197,9 @@ iperoxo
 isoflurane
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/isoflurane``
+https://openminds.ebrains.eu/instances/molecularEntity/isoflurane
+
+.. admonition:: metadata
 
    :definition: Isoflurane is a stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
    :synonyms: Aerrane, Ethane, Forane, Forene
@@ -1081,7 +1215,9 @@ isoflurane
 kainate receptor
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor
+
+.. admonition:: metadata
 
    :definition: The kainate receptors belong to the class of ionotropic glutamate receptors that can be involved in excitatory neurotransmission (postsynaptic) as well as inhibitory neurotransmission (presynaptic).
    :synonyms: ionotropic glutamate kainate receptor, ionotropic kainate receptor, kainate glutamate-gated cationic channel, kainic acid receptor, KAR
@@ -1097,7 +1233,9 @@ kainate receptor
 kallikrein-related peptidase 8
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptidase8``
+https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptidase8
+
+.. admonition:: metadata
 
    :definition: The kallikrein-related peptidase 8 is a protein that is a translation product of the mouse Klk1b8 gene or a 1:1 ortholog thereof.
    :synonyms: KLK8, neuropsin, Nop
@@ -1113,7 +1251,9 @@ kallikrein-related peptidase 8
 ketamine
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/ketamine``
+https://openminds.ebrains.eu/instances/molecularEntity/ketamine
+
+.. admonition:: metadata
 
    :definition: Ketamine is a cyclohexanone derivative used for induction of anesthesia.
    :synonyms: (-)-ketamine, (S)-(-)-ketamine, (S)-ketamine, Cl 581 base, esketamine, I-ketamine, ketaject, ketalar, ketalor, ketanest
@@ -1129,7 +1269,9 @@ ketamine
 lucifer yellow
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow``
+https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow
+
+.. admonition:: metadata
 
    :definition: Lucifer yellow is a fluorescent dye used that it can be readily visualized in both living and fixed cells using a fluorescence microscope.
    :synonyms: LY
@@ -1145,7 +1287,9 @@ lucifer yellow
 medetomidine
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/medetomidine``
+https://openminds.ebrains.eu/instances/molecularEntity/medetomidine
+
+.. admonition:: metadata
 
    :definition: Medetomidine is a synthetic drug used as both a surgical anesthetic and analgesic.
    :synonyms: \-
@@ -1161,7 +1305,9 @@ medetomidine
 metabotropic glutamate receptor
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor``
+https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor
+
+.. admonition:: metadata
 
    :definition: Metabotropic glutamate receptors are active through an indirect metabotropic process and respond to glutamate as endogenous ligand.
    :synonyms: glutamate metabotropic, GRM, mGluR, mGluRs
@@ -1177,7 +1323,9 @@ metabotropic glutamate receptor
 metabotropic glutamate receptor 1
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1``
+https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1
+
+.. admonition:: metadata
 
    :definition: The metabotropic glutamate receptor 1 belongs to group I of the MGluR family.
    :synonyms: glutamate metabotropic 1, glutamate metabotropic receptor 1, GRM1, MGluR1
@@ -1193,7 +1341,9 @@ metabotropic glutamate receptor 1
 metabotropic glutamate receptor 2
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor2``
+https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor2
+
+.. admonition:: metadata
 
    :definition: The metabotropic glutamate receptor 2 belongs to group II of the MGluR family. When activated by its endogenous ligand glutamate, it inhibits the emptying of vesicular contents at the presynaptic terminal of glutamatergic neurons.
    :synonyms: glutamate metabotropic 2, glutamate metabotropic receptor 2, GRM2, MGluR2
@@ -1209,7 +1359,9 @@ metabotropic glutamate receptor 2
 metabotropic glutamate receptor 3
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor3``
+https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor3
+
+.. admonition:: metadata
 
    :definition: The metabotropic glutamate receptor 3 belongs to group II of the MGluR family. When activated by its endogenous ligand glutamate, it inhibits the emptying of vesicular contents at the presynaptic terminal of glutamatergic neurons.
    :synonyms: glutamate metabotropic 3, glutamate metabotropic receptor 3, GRM3, MGluR3
@@ -1225,7 +1377,9 @@ metabotropic glutamate receptor 3
 metabotropic glutamate receptor 5
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor5``
+https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor5
+
+.. admonition:: metadata
 
    :definition: The metabotropic glutamate receptor 5 belongs to group I of the MGluR family.
    :synonyms: glutamate metabotropic 5, glutamate metabotropic receptor 5, GRM5, MGluR5
@@ -1241,7 +1395,9 @@ metabotropic glutamate receptor 5
 muscimol
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/muscimol``
+https://openminds.ebrains.eu/instances/molecularEntity/muscimol
+
+.. admonition:: metadata
 
    :definition: Muscimol is a potent and selective orthosteric agonist for the GABAA receptors and displays sedative-hypnotic, depressant and hallucinogenic psychoactivity
    :synonyms: agarin, pantherine
@@ -1257,7 +1413,9 @@ muscimol
 neurobiotin
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin``
+https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin
+
+.. admonition:: metadata
 
    :definition: Neurobiotin is a biotin derivative with moleular weight 286 kDa that can be used as an anterograde and retrograde tracer in the nervous system.
    :synonyms: \-
@@ -1273,7 +1431,9 @@ neurobiotin
 neuroligin-3
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3``
+https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3
+
+.. admonition:: metadata
 
    :definition: Neuroligin-3 is a protein that is a translation product of the NLGN3 gene or a 1:1 ortholog thereof.
    :synonyms: gliotactin homolog, KIAA1480, NL3, NLGN3
@@ -1289,7 +1449,9 @@ neuroligin-3
 neuronal nuclear antigen
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen``
+https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen
+
+.. admonition:: metadata
 
    :definition: Neuronal nuclear antigen is a 46/48KD DNA-binding, neuron-specific protein found in nuclei which is present in most vertebrate CNS and PNS neuronal cell types.
    :synonyms: NeuN
@@ -1305,7 +1467,9 @@ neuronal nuclear antigen
 neurotrophic factor
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor``
+https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor
+
+.. admonition:: metadata
 
    :definition: The 'neurotrophic factor' is a family of biomolecules that support growth, survival, and differentiation of both developing and mature neurons.
    :synonyms: NTF
@@ -1321,7 +1485,9 @@ neurotrophic factor
 parvalbumin
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin``
+https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin
+
+.. admonition:: metadata
 
    :definition: Parvalbumin is a calcium-binding albumin protein with low molecular weight (typically 9-11 kDa).
    :synonyms: PV, Pvalb
@@ -1337,7 +1503,9 @@ parvalbumin
 vesicular glutamate transporter
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter``
+https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter
+
+.. admonition:: metadata
 
    :definition: The vesicular glutamate transporters are a subclass of glutamate transporters that move glutamate from the cell cytoplasm into synaptic vesicles.
    :synonyms: VGLUT
@@ -1353,7 +1521,9 @@ vesicular glutamate transporter
 vesicular glutamate transporter 1
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter1``
+https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter1
+
+.. admonition:: metadata
 
    :definition: The vesicular glutamate transporter 1 belongs to the VGLUT family. It is preferentially associated with the membranes of synaptic vesicles and functions in glutamate transport.
    :synonyms: VGLUT1
@@ -1369,7 +1539,9 @@ vesicular glutamate transporter 1
 vesicular glutamate transporter 2
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter2``
+https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter2
+
+.. admonition:: metadata
 
    :definition: The vesicular glutamate transporter 2 belongs to the VGLUT family. It mediates the uptake of glutamate into synaptic vesicles at presynaptic nerve terminals of excitatory neural cells.
    :synonyms: VGLUT2
@@ -1385,7 +1557,9 @@ vesicular glutamate transporter 2
 vesicular glutamate transporter 3
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter3``
+https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter3
+
+.. admonition:: metadata
 
    :definition: The vesicular glutamate transporter 3 belongs to the VGLUT family. It transports the neurotransmitter glutamate into synaptic vesicles before it is released into the synaptic cleft.
    :synonyms: SLC17A8, solute carrier family 17 member 8, VGLUT3

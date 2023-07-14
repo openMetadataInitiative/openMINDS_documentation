@@ -9,7 +9,9 @@ GeneticStrainType
 conditional knockin ready
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady``
+https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ conditional knockin ready
 conditional knockout ready
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady``
+https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ conditional knockout ready
 conditional ready
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady``
+https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ conditional ready
 knockin
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/knockin``
+https://openminds.ebrains.eu/instances/geneticStrainType/knockin
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ knockin
 knockout
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/knockout``
+https://openminds.ebrains.eu/instances/geneticStrainType/knockout
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ knockout
 transgenic
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/transgenic``
+https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ transgenic
 wildtype
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/geneticStrainType/wildtype``
+https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

@@ -9,7 +9,9 @@ AnatomicalIdentificationType
 landmark based
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased``
+https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased
+
+.. admonition:: metadata
 
    :definition: 'Landmark based' identification makes use of distinct anatomical structures as a point of orientation in locating other structures in the body.
    :synonyms: \-
@@ -25,7 +27,9 @@ landmark based
 stereotactic
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic``
+https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
+
+.. admonition:: metadata
 
    :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to loacte specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
    :synonyms: \-

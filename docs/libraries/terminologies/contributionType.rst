@@ -9,7 +9,9 @@ ContributionType
 coordination
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/coordination``
+https://openminds.ebrains.eu/instances/contributionType/coordination
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ coordination
 data collection
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/dataCollection``
+https://openminds.ebrains.eu/instances/contributionType/dataCollection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ data collection
 data management
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/dataManagment``
+https://openminds.ebrains.eu/instances/contributionType/dataManagment
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ data management
 data processing
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/dataProcessing``
+https://openminds.ebrains.eu/instances/contributionType/dataProcessing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ data processing
 information technology support
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport``
+https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ information technology support
 laboratory assistance
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance``
+https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ laboratory assistance
 marketing
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/marketing``
+https://openminds.ebrains.eu/instances/contributionType/marketing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ marketing
 metadata managment
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/contributionType/metadataManagment``
+https://openminds.ebrains.eu/instances/contributionType/metadataManagment
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

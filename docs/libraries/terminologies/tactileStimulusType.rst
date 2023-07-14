@@ -9,7 +9,9 @@ TactileStimulusType
 textured surface
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface``
+https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ textured surface
 vibrating object
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject``
+https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ vibrating object
 vibrating surface
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface``
+https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

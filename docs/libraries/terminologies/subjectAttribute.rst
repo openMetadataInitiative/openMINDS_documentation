@@ -9,7 +9,9 @@ SubjectAttribute
 alert
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/alert``
+https://openminds.ebrains.eu/instances/subjectAttribute/alert
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism in which it can quickly perceive and act.
    :synonyms: \-
@@ -25,7 +27,9 @@ alert
 alive
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/alive``
+https://openminds.ebrains.eu/instances/subjectAttribute/alive
+
+.. admonition:: metadata
 
    :definition: An organism that is not dead.
    :synonyms: \-
@@ -41,7 +45,9 @@ alive
 anaesthetized
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/anaesthetized``
+https://openminds.ebrains.eu/instances/subjectAttribute/anaesthetized
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism induced by anaestetic substances that cause the reduction or loss of pain sensation with or without loss of consciousness.
    :synonyms: \-
@@ -57,7 +63,9 @@ anaesthetized
 asleep
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/asleep``
+https://openminds.ebrains.eu/instances/subjectAttribute/asleep
+
+.. admonition:: metadata
 
    :definition: A periodic, readily reversible state of an organism with reduced awareness and typically lower metabolic activity.
    :synonyms: \-
@@ -73,7 +81,9 @@ asleep
 awake
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/awake``
+https://openminds.ebrains.eu/instances/subjectAttribute/awake
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism in which it is fully alert and aware.
    :synonyms: \-
@@ -89,7 +99,9 @@ awake
 comatose
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/comatose``
+https://openminds.ebrains.eu/instances/subjectAttribute/comatose
+
+.. admonition:: metadata
 
    :definition: A deep state of prolonged unconsciousness in which the organism cannot be awakened (temporarily or terminally), is unresponsive and typically displays depressed cerebral activity.
    :synonyms: \-
@@ -105,7 +117,9 @@ comatose
 control
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/control``
+https://openminds.ebrains.eu/instances/subjectAttribute/control
+
+.. admonition:: metadata
 
    :definition: An organism that is part of a study and does not receive the treatment being tested.
    :synonyms: \-
@@ -121,7 +135,9 @@ control
 deceased
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/deceased``
+https://openminds.ebrains.eu/instances/subjectAttribute/deceased
+
+.. admonition:: metadata
 
    :definition: An organism that is no longer living.
    :synonyms: dead
@@ -137,7 +153,9 @@ deceased
 drugged
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/drugged``
+https://openminds.ebrains.eu/instances/subjectAttribute/drugged
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism in which it is under the influence of a sedative, narcotic or any other typye of drug.
    :synonyms: dosed, drug treated
@@ -153,7 +171,9 @@ drugged
 freely moving
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/freelyMoving``
+https://openminds.ebrains.eu/instances/subjectAttribute/freelyMoving
+
+.. admonition:: metadata
 
    :definition: An organism that can move easily, without any obstacles or resistance.
    :synonyms: \-
@@ -169,7 +189,9 @@ freely moving
 has implanted device
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/hasImplantedDevice``
+https://openminds.ebrains.eu/instances/subjectAttribute/hasImplantedDevice
+
+.. admonition:: metadata
 
    :definition: A typically chronic state of an organism after surgical implantation of a device (e.g., an electrode, a pacemaker) to measure or stimulate bodily functions.
    :synonyms: \-
@@ -185,7 +207,9 @@ has implanted device
 has inserted device
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice``
+https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice
+
+.. admonition:: metadata
 
    :definition: A typically temporary state of an organism during which a device (e.g., an electrode) is inserted to measure or stimulate bodily functions.
    :synonyms: \-
@@ -201,7 +225,9 @@ has inserted device
 head restrained
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/headRestrained``
+https://openminds.ebrains.eu/instances/subjectAttribute/headRestrained
+
+.. admonition:: metadata
 
    :definition: An organism that has been restrained on the head causing e.g., decreased motion range and/or increased resistance in movement.
    :synonyms: \-
@@ -217,7 +243,9 @@ head restrained
 knockin
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/knockin``
+https://openminds.ebrains.eu/instances/subjectAttribute/knockin
+
+.. admonition:: metadata
 
    :definition: An organism that underwent a targeted insertation of foreign genetic material in the existing genetic material (i.e. a gene).
    :synonyms: \-
@@ -233,7 +261,9 @@ knockin
 knockout
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/knockout``
+https://openminds.ebrains.eu/instances/subjectAttribute/knockout
+
+.. admonition:: metadata
 
    :definition: An organism that underwent a targeted excision or silencing/inactivation of existing genetic material (i.e. a gene).
    :synonyms: \-
@@ -249,7 +279,9 @@ knockout
 postoperative
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/postoperative``
+https://openminds.ebrains.eu/instances/subjectAttribute/postoperative
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism in the time period that immediately follows a surgical procedure.
    :synonyms: \-
@@ -265,7 +297,9 @@ postoperative
 preoperative
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/preoperative``
+https://openminds.ebrains.eu/instances/subjectAttribute/preoperative
+
+.. admonition:: metadata
 
    :definition: A temporary state of an organism in the time period between the decision to have surgery and the beginning of the surgical procedure.
    :synonyms: \-
@@ -281,7 +315,9 @@ preoperative
 restrained
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/restrained``
+https://openminds.ebrains.eu/instances/subjectAttribute/restrained
+
+.. admonition:: metadata
 
    :definition: An organism that has been restrained in any way causing e.g., decreased motion range and/or increased resistance in movement.
    :synonyms: \-
@@ -297,7 +333,9 @@ restrained
 treated
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/treated``
+https://openminds.ebrains.eu/instances/subjectAttribute/treated
+
+.. admonition:: metadata
 
    :definition: A subject that is in a permanently or temporarily altered state compared to its natural state following some kind of treatment.
    :synonyms: \-
@@ -313,7 +351,9 @@ treated
 untreated
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/subjectAttribute/untreated``
+https://openminds.ebrains.eu/instances/subjectAttribute/untreated
+
+.. admonition:: metadata
 
    :definition: A subject in its natural state which has not been exposed to any kind of state-altering treatment.
    :synonyms: \-

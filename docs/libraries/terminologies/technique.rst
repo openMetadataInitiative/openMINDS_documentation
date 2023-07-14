@@ -9,7 +9,9 @@ Technique
 3D polarized light imaging
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImaging``
+https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImaging
+
+.. admonition:: metadata
 
    :definition: '3D polarized light imaging' (synonym: 3D-PLI) is a 3D reconstruction process of high-resoluted image data originating from polorized light microscopy.
    :synonyms: \-
@@ -25,7 +27,9 @@ Technique
 3D scanning
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/3DScanning``
+https://openminds.ebrains.eu/instances/technique/3DScanning
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ Technique
 CLARITY/TDE
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/CLARITY_TDE``
+https://openminds.ebrains.eu/instances/technique/CLARITY_TDE
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ CLARITY/TDE
 DAB staining
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/DABStaining``
+https://openminds.ebrains.eu/instances/technique/DABStaining
+
+.. admonition:: metadata
 
    :definition: In a 'DAB staining', the organic compound DAB (3, 3'-diaminobenzidine) is oxidized in presence of peroxidase and hydrogen peroxide resulting in deposition of a brown, alcohol-insoluble precipitate which can be used in immunohistochemical and blotting applications.
    :synonyms: 3,3′-Diaminobenzidine staining
@@ -73,7 +81,9 @@ DAB staining
 DAPi staining
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/DAPiStaining``
+https://openminds.ebrains.eu/instances/technique/DAPiStaining
+
+.. admonition:: metadata
 
    :definition: A nuclear-specific staining technique where DAPi (4′,6-diamidino-2-phenylindole) is used as a dye.
    :synonyms: 4′,6-diamidino-2-phenylindole staining, DAPi stain
@@ -89,7 +99,9 @@ DAPi staining
 Golgi staining
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/GolgiStaining``
+https://openminds.ebrains.eu/instances/technique/GolgiStaining
+
+.. admonition:: metadata
 
    :definition: 'Golgi staining' includes several silver staining techniques in which fixed tissue is impregnated with silver nitrate and potassium dichromate resulting in the complete staining of some nerve cells while other cells are not stained at all. [adapted from InterLex](http://uri.interlex.org/ilx_0104713)
    :synonyms: Golgi method, black reaction
@@ -105,7 +117,9 @@ Golgi staining
 H&E staining
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/HEStaining``
+https://openminds.ebrains.eu/instances/technique/HEStaining
+
+.. admonition:: metadata
 
    :definition: An 'H&E staining' combines the two histological stains hematoxylin and eosin which highlight a large portion of microscopic anatomy in a tissue. It is therefore the most widely used stain in medical and histopathological diagnosis.
    :synonyms: HE staining, hematoxylin and eosin staining, hematoxylin-eosin staining
@@ -121,7 +135,9 @@ H&E staining
 Hoechst staining
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/HoechstStaining``
+https://openminds.ebrains.eu/instances/technique/HoechstStaining
+
+.. admonition:: metadata
 
    :definition: A nuclear-specific staining technique where a Hoechst dye is used.
    :synonyms: Hoechst stain
@@ -137,7 +153,9 @@ Hoechst staining
 Nissl staining
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/NisslStaining``
+https://openminds.ebrains.eu/instances/technique/NisslStaining
+
+.. admonition:: metadata
 
    :definition: The term 'Nissl staining' refers to various basic dyes (e.g., aniline, thionine, cresyl violet) that selectively label negatively charged molecules (e.g., DNA, RNA) and are therefore typically used to highlight important structural features of cell bodies.
    :synonyms: Nissl, Nissl method
@@ -153,7 +171,9 @@ Nissl staining
 SDS-digested freeze-fracture replica labeling
 ---------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplicaLabeling``
+https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplicaLabeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -169,7 +189,9 @@ SDS-digested freeze-fracture replica labeling
 SWITCH immunohistochemistry
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/SWITCHImmunohistochemistry``
+https://openminds.ebrains.eu/instances/technique/SWITCHImmunohistochemistry
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -185,7 +207,9 @@ SWITCH immunohistochemistry
 T1 pulse sequence
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/T1PulseSequence``
+https://openminds.ebrains.eu/instances/technique/T1PulseSequence
+
+.. admonition:: metadata
 
    :definition: In magnetic resonance imaging, a 'T1 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to recover (spin-lattice relaxation) before measuring the magnetic resonance signal by changing the repetition time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
    :synonyms: T1 weighted imaging, T1 weighted magnetic resonance imaging, T1 weighted MRI, T1w imaging, T1w magnetic resonance imaging, T1w MRI
@@ -201,7 +225,9 @@ T1 pulse sequence
 T2 pulse sequence
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/T2PulseSequence``
+https://openminds.ebrains.eu/instances/technique/T2PulseSequence
+
+.. admonition:: metadata
 
    :definition: In magnetic resonance imaging, a 'T2 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to decay (spin-spin relaxation) before measuring the magnetic resonance signal by changing the echo time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
    :synonyms: T2 weighted imaging, T2 weighted magnetic resonance imaging, T2 weighted MRI, T2w imaging, T2w magnetic resonance imaging, T2w MRI
@@ -217,7 +243,9 @@ T2 pulse sequence
 TDE clearing
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/TDEClearing``
+https://openminds.ebrains.eu/instances/technique/TDEClearing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -233,7 +261,9 @@ TDE clearing
 Timm's staining
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/TimmsStaining``
+https://openminds.ebrains.eu/instances/technique/TimmsStaining
+
+.. admonition:: metadata
 
    :definition: A technique used to selectively visualize a variety of metals (e.g. zinc, copper, iron) in biological tissue based on sulphide-precipitation of metals in the tissue.
    :synonyms: Timm's stain, Timm's sulfide silver staining
@@ -249,7 +279,9 @@ Timm's staining
 activity modulation technique
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/activityModulationTechnique``
+https://openminds.ebrains.eu/instances/technique/activityModulationTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -265,7 +297,9 @@ activity modulation technique
 anaesthesia administration
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/anaesthesiaAdministration``
+https://openminds.ebrains.eu/instances/technique/anaesthesiaAdministration
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -281,7 +315,9 @@ anaesthesia administration
 anaesthesia monitoring
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring``
+https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -297,7 +333,9 @@ anaesthesia monitoring
 anaesthesia technique
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/anaesthesiaTechnique``
+https://openminds.ebrains.eu/instances/technique/anaesthesiaTechnique
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -313,7 +351,9 @@ anaesthesia technique
 anterograde tracing
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/anterogradeTracing``
+https://openminds.ebrains.eu/instances/technique/anterogradeTracing
+
+.. admonition:: metadata
 
    :definition: Anterograde tracing is a technique used to trace axonal projections from their source (the cell body or soma) to their point of termination (the synapse).
    :synonyms: \-
@@ -329,7 +369,9 @@ anterograde tracing
 autoradiography
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/autoradiography``
+https://openminds.ebrains.eu/instances/technique/autoradiography
+
+.. admonition:: metadata
 
    :definition: 'Autoradiography' is a photography technique that creates images of a radioactive source (e.g., molecules or fragments of molecules that have been radioactively labeled) by the direct exposure to an imaging media (e.g., X-ray film or nuclear emulsion)
    :synonyms: \-
@@ -345,7 +387,9 @@ autoradiography
 avidin-biotin complex staining
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/avidinBiotinComplexStaining``
+https://openminds.ebrains.eu/instances/technique/avidinBiotinComplexStaining
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: ABC staining
@@ -361,7 +405,9 @@ avidin-biotin complex staining
 beta-galactosidase staining
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/beta-galactosidaseStaining``
+https://openminds.ebrains.eu/instances/technique/beta-galactosidaseStaining
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -377,7 +423,9 @@ beta-galactosidase staining
 biocytin staining
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/biocytinStaining``
+https://openminds.ebrains.eu/instances/technique/biocytinStaining
+
+.. admonition:: metadata
 
    :definition: In 'biocytin staining' the chemical compound biocytin is used to highlight morphological details of nerve cells.
    :synonyms: biocytin filling, biocytin labeling
@@ -393,7 +441,9 @@ biocytin staining
 blood sampling
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/bloodSampling``
+https://openminds.ebrains.eu/instances/technique/bloodSampling
+
+.. admonition:: metadata
 
    :definition: 'Blood sampling' is the process of obtaining blood from a body for purpose of medical diagnosis and/or evaluation of an indication for treatment, further medical tests or other procedures.
    :synonyms: blood collection, blood harvesting
@@ -409,7 +459,9 @@ blood sampling
 brightfield microscopy
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/brightfieldMicroscopy``
+https://openminds.ebrains.eu/instances/technique/brightfieldMicroscopy
+
+.. admonition:: metadata
 
    :definition: Brightfield microscopy is an optical microscopy techniques, in which illumination light is transmitted through the sample and the contrast is generated by the absorption of light in dense areas of the specimen.
    :synonyms: \-
@@ -425,7 +477,9 @@ brightfield microscopy
 calcium imaging
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/calciumImaging``
+https://openminds.ebrains.eu/instances/technique/calciumImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -441,7 +495,9 @@ calcium imaging
 callosotomy
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/callosotomy``
+https://openminds.ebrains.eu/instances/technique/callosotomy
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -457,7 +513,9 @@ callosotomy
 cell attached patch clamp
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp``
+https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp
+
+.. admonition:: metadata
 
    :definition: 'Cell-attached patch clamp' is an intracellular electrophysiology technique that fully preserves the intracellular integrity by forming a megaohm or gigaohm seal, leaving the cell membrane intact.
    :synonyms: \-
@@ -473,7 +531,9 @@ cell attached patch clamp
 computer tomography
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/computerTomography``
+https://openminds.ebrains.eu/instances/technique/computerTomography
+
+.. admonition:: metadata
 
    :definition: 'Computer tomogoraphy' is a noninvasive medical imaging technique where a computer generates multiple X-ray scans to obtain detailed internal 3D image of the body.
    :synonyms: CAT, computed axial tomography, computed tomography, computertomography, CT
@@ -489,7 +549,9 @@ computer tomography
 confocal microscopy
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/confocalMicroscopy``
+https://openminds.ebrains.eu/instances/technique/confocalMicroscopy
+
+.. admonition:: metadata
 
    :definition: Confocal microscopy is a specialized fluorescence microscopy technique that uses pinholes to reject out-of-focus light.
    :synonyms: confocal microscopy technique
@@ -505,7 +567,9 @@ confocal microscopy
 contrast agent administration
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/contrastAgentAdministration``
+https://openminds.ebrains.eu/instances/technique/contrastAgentAdministration
+
+.. admonition:: metadata
 
    :definition: A 'contrast agent administration' is a (typically) oral or intraveneous administration of a chemical compound to improve the visibility of internal body structures of a subject in a subsequent imaging technique.
    :synonyms: \-
@@ -521,7 +585,9 @@ contrast agent administration
 contrast enhancement
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/contrastEnhancement``
+https://openminds.ebrains.eu/instances/technique/contrastEnhancement
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -537,7 +603,9 @@ contrast enhancement
 cortico-cortical evoked potential mapping
 -----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/cortico-corticalEvokedPotentialMapping``
+https://openminds.ebrains.eu/instances/technique/cortico-corticalEvokedPotentialMapping
+
+.. admonition:: metadata
 
    :definition: Cortico-cortical evoked potential (CCEP) mapping is used to identify the effective connectivity between distinct neuronal populations based on multiple CCEP measurements across (parts of) the brain in response to direct electrical stimulation (typically at various locations).
    :synonyms: CCEP mapping
@@ -553,7 +621,9 @@ cortico-cortical evoked potential mapping
 craniotomy
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/craniotomy``
+https://openminds.ebrains.eu/instances/technique/craniotomy
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -569,7 +639,9 @@ craniotomy
 cryosectioning
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/cryosectioning``
+https://openminds.ebrains.eu/instances/technique/cryosectioning
+
+.. admonition:: metadata
 
    :definition: Cutting of specimen in cryo/freezing conditions typcially resulting in micromillimeter thin slices.
    :synonyms: cryosection procedure, frozen section procedure
@@ -585,7 +657,9 @@ cryosectioning
 current clamp
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/currentClamp``
+https://openminds.ebrains.eu/instances/technique/currentClamp
+
+.. admonition:: metadata
 
    :definition: Current clamp is a technique in which the amount of current injected into the cell is controlled, which allows for the detection of changes in the transmembrane voltage resulting from ion channel activity.
    :synonyms: \-
@@ -601,7 +675,9 @@ current clamp
 diffusion fixation technique
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/diffusionFixationTechnique``
+https://openminds.ebrains.eu/instances/technique/diffusionFixationTechnique
+
+.. admonition:: metadata
 
    :definition: Diffusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by submerging specimen in a fixative.
    :synonyms: drop fixation
@@ -617,7 +693,9 @@ diffusion fixation technique
 diffusion tensor imaging
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/diffusionTensorImaging``
+https://openminds.ebrains.eu/instances/technique/diffusionTensorImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -633,7 +711,9 @@ diffusion tensor imaging
 diffusion-weighted imaging
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging``
+https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -649,7 +729,9 @@ diffusion-weighted imaging
 dual-view inverted selective plane illumination microscopy
 ----------------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy``
+https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy
+
+.. admonition:: metadata
 
    :definition: Dual-view inverted selective plane illumination microscopy is a specialized light sheet microscopy technique that allows for dual views of the samples while mounted on an inverted microscope.
    :synonyms: diSPIM, dual-view inverted light sheet fluorescence microscopy, dual-view inverted light sheet microscopy
@@ -665,7 +747,9 @@ dual-view inverted selective plane illumination microscopy
 echo planar pulse sequence
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence``
+https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence
+
+.. admonition:: metadata
 
    :definition: In magnetic resonance imaging, a 'echo-planar pulse sequence' is a contrasting technique where each radio frequency field (RF) excitation is followed by a train of gradient echoes with different spatial encoding allowing for very rapid scanning. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Physics_of_magnetic_resonance_imaging#Echo-planar_imaging)]
    :synonyms: echo-planar imaging
@@ -681,7 +765,9 @@ echo planar pulse sequence
 electrocardiography
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electrocardiography``
+https://openminds.ebrains.eu/instances/technique/electrocardiography
+
+.. admonition:: metadata
 
    :definition: Electrocardiography is a non-invasive technique used to record the electrical activity of a heart using electrodes placed on the skin. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Electrocardiography)]
    :synonyms: ECG
@@ -697,7 +783,9 @@ electrocardiography
 electrocorticography
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electrocorticography``
+https://openminds.ebrains.eu/instances/technique/electrocorticography
+
+.. admonition:: metadata
 
    :definition: 'Electrocorticography', short ECoG, is an intracranial electroencephalography technique in which electrodes are placed (subdural or epidural) on the exposed surface of the brain to record electrical activity from the cerebral cortex.
    :synonyms: ECoG
@@ -713,7 +801,9 @@ electrocorticography
 electroencephalography
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electroencephalography``
+https://openminds.ebrains.eu/instances/technique/electroencephalography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -729,7 +819,9 @@ electroencephalography
 electromyography
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electromyography``
+https://openminds.ebrains.eu/instances/technique/electromyography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -745,7 +837,9 @@ electromyography
 electron microscopy
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/electronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Electron microscopy describes any microscopy technique that uses electrons to generate contrast.
    :synonyms: EM
@@ -761,7 +855,9 @@ electron microscopy
 electron tomography
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electronTomography``
+https://openminds.ebrains.eu/instances/technique/electronTomography
+
+.. admonition:: metadata
 
    :definition: Electron tomography is a microscopy technique that takes a series of images of a thick sample at different angles (tilts) so that tomography can be applied to increase the resolution of the ticker sample.
    :synonyms: electron microscope tomography
@@ -777,7 +873,9 @@ electron tomography
 electrooculography
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electrooculography``
+https://openminds.ebrains.eu/instances/technique/electrooculography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -793,7 +891,9 @@ electrooculography
 electroporation
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/electroporation``
+https://openminds.ebrains.eu/instances/technique/electroporation
+
+.. admonition:: metadata
 
    :definition: A microbiology technique in which an electrical field is applied to cells in order to increase the permeability of the cell membrane.
    :synonyms: electropermeabilization
@@ -809,7 +909,9 @@ electroporation
 epidermal electrophysiology technique
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/epidermalElectrophysiologyTechnique``
+https://openminds.ebrains.eu/instances/technique/epidermalElectrophysiologyTechnique
+
+.. admonition:: metadata
 
    :definition: The term 'epidermal electrophysiology technique' describes a subclass of non-invasive electrophysiology techniques where one or several electrodes are placed on the outermost cell layer of an organism (epidermis) to measure electrical properties.
    :synonyms: epidermal electrophysiology
@@ -825,7 +927,9 @@ epidermal electrophysiology technique
 epidural electrocorticography
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography``
+https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -841,7 +945,9 @@ epidural electrocorticography
 epifluorescent microscopy
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/epifluorescentMicroscopy``
+https://openminds.ebrains.eu/instances/technique/epifluorescentMicroscopy
+
+.. admonition:: metadata
 
    :definition: Epifluorescent microscopy comprises all widefield microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
    :synonyms: epifluorescence microscopy, WFM, widefield epifluorescence microscopy, widefield fluorescence microscopy
@@ -857,7 +963,9 @@ epifluorescent microscopy
 extracellular electrophysiology
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: In 'extracellular electrophysiology' electrodes are inserted into living tissue, but remain outside the cells in the extracellular environment to measure or stimulate electrical activity coming from adjacent cells, usually neurons.
    :synonyms: \-
@@ -873,7 +981,9 @@ extracellular electrophysiology
 fixation technique
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/fixationTechnique``
+https://openminds.ebrains.eu/instances/technique/fixationTechnique
+
+.. admonition:: metadata
 
    :definition: Fixation is a technique to preserve specimen permanently as faithfully as possible compared to the living state.
    :synonyms: \-
@@ -889,7 +999,9 @@ fixation technique
 fluorescence microscopy
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/fluorescenceMicroscopy``
+https://openminds.ebrains.eu/instances/technique/fluorescenceMicroscopy
+
+.. admonition:: metadata
 
    :definition: Fluorescence microscopy comprises any type of microscopy where the specimen can be made to fluoresce (emit energy as visible light), typically by illuminating it with light of specific wavelengths.
    :synonyms: \-
@@ -905,7 +1017,9 @@ fluorescence microscopy
 focused ion beam scanning electron microscopy
 ---------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/focusedIonBeamScanningElectronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/focusedIonBeamScanningElectronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Focused ion beam scanning electron microscopy is a serial section scanning electron microscopy technique where a focused ion beam is used to ablate the surface of a specimen.
    :synonyms: FIB-SEM, FIB/SEM, FIBSEM, focused ion beam scanning electron microscoscopy technique
@@ -921,7 +1035,9 @@ focused ion beam scanning electron microscopy
 functional magnetic resonance imaging
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -937,7 +1053,9 @@ functional magnetic resonance imaging
 gene knockin
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/geneKnockin``
+https://openminds.ebrains.eu/instances/technique/geneKnockin
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -953,7 +1071,9 @@ gene knockin
 gene knockout
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/geneKnockout``
+https://openminds.ebrains.eu/instances/technique/geneKnockout
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -969,7 +1089,9 @@ gene knockout
 gradient-echo pulse sequence
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence``
+https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence
+
+.. admonition:: metadata
 
    :definition: In magnetic resonance imaging, a 'gradient-echo pulse sequence' is a contrast generation technique that rapidly induces bulk changes in the spin magnetization of a sample by applying a series of carefully constructed pulses so that the change in the gradient of the magnetic field is maximized, trading contrast for speed (cf. [Hargreaves (2012)](https://doi.org/10.1002/jmri.23742)).
    :synonyms: GRE pulse sequence
@@ -985,7 +1107,9 @@ gradient-echo pulse sequence
 heavy metal negative staining
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining``
+https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining
+
+.. admonition:: metadata
 
    :definition: In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) is applied on a sample to reveal its structural details for electron microscopy.
    :synonyms: heavy metal salt staining, heavy metal staining, negative staining
@@ -1001,7 +1125,9 @@ heavy metal negative staining
 high-resolution scanning
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/high-resolutionScanning``
+https://openminds.ebrains.eu/instances/technique/high-resolutionScanning
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1017,7 +1143,9 @@ high-resolution scanning
 high-speed video recording
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/high-speedVideoRecording``
+https://openminds.ebrains.eu/instances/technique/high-speedVideoRecording
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1033,7 +1161,9 @@ high-speed video recording
 high-density electroencephalography
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/highDensityElectroencephalography``
+https://openminds.ebrains.eu/instances/technique/highDensityElectroencephalography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1049,7 +1179,9 @@ high-density electroencephalography
 high-field functional magnetic resonance imaging
 ------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1065,7 +1197,9 @@ high-field functional magnetic resonance imaging
 high-field magnetic resonance imaging
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/highFieldMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/highFieldMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1081,7 +1215,9 @@ high-field magnetic resonance imaging
 high-throughput scanning
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/highThroughputScanning``
+https://openminds.ebrains.eu/instances/technique/highThroughputScanning
+
+.. admonition:: metadata
 
    :definition: 'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.
    :synonyms: high throughput scanning
@@ -1097,7 +1233,9 @@ high-throughput scanning
 histochemistry
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/histochemistry``
+https://openminds.ebrains.eu/instances/technique/histochemistry
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1113,7 +1251,9 @@ histochemistry
 immunohistochemistry
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/immunohistochemistry``
+https://openminds.ebrains.eu/instances/technique/immunohistochemistry
+
+.. admonition:: metadata
 
    :definition: In 'immunohistochemistry' antigens or haptens are detected and visualized in cells of a tissue sections by exploiting the principle of antibodies binding specifically to antigens in biological tissues.
    :synonyms: IHC
@@ -1129,7 +1269,9 @@ immunohistochemistry
 immunoprecipitation
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/immunoprecipitation``
+https://openminds.ebrains.eu/instances/technique/immunoprecipitation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1145,7 +1287,9 @@ immunoprecipitation
 implant surgery
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/implantSurgery``
+https://openminds.ebrains.eu/instances/technique/implantSurgery
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1161,7 +1305,9 @@ implant surgery
 in situ hybridisation
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/inSituHybridisation``
+https://openminds.ebrains.eu/instances/technique/inSituHybridisation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1177,7 +1323,9 @@ in situ hybridisation
 infrared differential interference contrast video microscopy
 ------------------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy``
+https://openminds.ebrains.eu/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: IR DIC video microscopy, IR-DIC
@@ -1193,7 +1341,9 @@ infrared differential interference contrast video microscopy
 injection
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/injection``
+https://openminds.ebrains.eu/instances/technique/injection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1209,7 +1359,9 @@ injection
 intracellular electrophysiology
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/intracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: A technique used to measure electrical properties of a single cell, e.g. a neuron.
    :synonyms: intracellular recording
@@ -1225,7 +1377,9 @@ intracellular electrophysiology
 intracellular injection
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intracellularInjection``
+https://openminds.ebrains.eu/instances/technique/intracellularInjection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1241,7 +1395,9 @@ intracellular injection
 intracranial electroencephalography
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalography``
+https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1257,7 +1413,9 @@ intracranial electroencephalography
 intraperitoneal injection
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intraperitonealInjection``
+https://openminds.ebrains.eu/instances/technique/intraperitonealInjection
+
+.. admonition:: metadata
 
    :definition: An 'intraperitoneal injection' is the administration of a substance into the peritoneum (abdominal cavity) via a needle or tube.
    :synonyms: i.p., i.p. injection, IP, IP injection
@@ -1273,7 +1431,9 @@ intraperitoneal injection
 intravenous injection
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/intravenousInjection``
+https://openminds.ebrains.eu/instances/technique/intravenousInjection
+
+.. admonition:: metadata
 
    :definition: An 'intravenous injection' is the administration of a substance into a vein or veins via a needle or tube.
    :synonyms: i.v., i.v. injection, IV, IV injection
@@ -1289,7 +1449,9 @@ intravenous injection
 iontophoresis
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/iontophoresis``
+https://openminds.ebrains.eu/instances/technique/iontophoresis
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1305,7 +1467,9 @@ iontophoresis
 iontophoretic microinjection
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/iontophoreticMicroinjection``
+https://openminds.ebrains.eu/instances/technique/iontophoreticMicroinjection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1321,7 +1485,9 @@ iontophoretic microinjection
 light microscopy
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/lightMicroscopy``
+https://openminds.ebrains.eu/instances/technique/lightMicroscopy
+
+.. admonition:: metadata
 
    :definition: Light microscopy, also referred to as optical microscopy, comprises any type of microscopy technique that uses visible light to generate magnified images of small objects.
    :synonyms: LM, optical microscopy
@@ -1337,7 +1503,9 @@ light microscopy
 light sheet fluorescence microscopy
 -----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscopy``
+https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscopy
+
+.. admonition:: metadata
 
    :definition: Lightsheet fluorescence microscopy is a fluorescence microscopy technique that uses a thin sheet of light to excite only fluorophores within the plane of illumination.
    :synonyms: light sheet microscopy, LSFM, selective plane illumination microscopy, SPIM
@@ -1353,7 +1521,9 @@ light sheet fluorescence microscopy
 magnetic resonance imaging
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/magneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/magneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: 'Magnetic resonance imaging' is a medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of the anatomy and the physiological processes of the body.
    :synonyms: \-
@@ -1369,7 +1539,9 @@ magnetic resonance imaging
 magnetic resonance spectroscopy
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/magneticResonanceSpectroscopy``
+https://openminds.ebrains.eu/instances/technique/magneticResonanceSpectroscopy
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1385,7 +1557,9 @@ magnetic resonance spectroscopy
 magnetoencephalography
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/magnetoencephalography``
+https://openminds.ebrains.eu/instances/technique/magnetoencephalography
+
+.. admonition:: metadata
 
    :definition: 'Magnetoencephalography' is a noninvasive neuroimaging technique for studying brain activity by recording magnetic fields produced by electrical currents occurring naturally in the brain, using very sensitive magnetometers. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Magnetoencephalography)]
    :synonyms: MEG
@@ -1401,7 +1575,9 @@ magnetoencephalography
 mass spectrometry
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/massSpectrometry``
+https://openminds.ebrains.eu/instances/technique/massSpectrometry
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1417,7 +1593,9 @@ mass spectrometry
 microtome sectioning
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/microtomeSectioning``
+https://openminds.ebrains.eu/instances/technique/microtomeSectioning
+
+.. admonition:: metadata
 
    :definition: A technique used to cut specimen in thin slices using a microtome.
    :synonyms: microtomy
@@ -1433,7 +1611,9 @@ microtome sectioning
 multi-electrode extracellular electrophysiology
 -----------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1449,7 +1629,9 @@ multi-electrode extracellular electrophysiology
 multiple whole cell patch clamp
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/multipleWholeCellPatchClamp``
+https://openminds.ebrains.eu/instances/technique/multipleWholeCellPatchClamp
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1465,7 +1647,9 @@ multiple whole cell patch clamp
 myelin staining
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/myelinStaining``
+https://openminds.ebrains.eu/instances/technique/myelinStaining
+
+.. admonition:: metadata
 
    :definition: A technique used to selectively alter the appearance of myelin (sheaths) that surround the nerve cell axons.
    :synonyms: \-
@@ -1481,7 +1665,9 @@ myelin staining
 nucleic acid extraction
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/nucleicAcidExtraction``
+https://openminds.ebrains.eu/instances/technique/nucleicAcidExtraction
+
+.. admonition:: metadata
 
    :definition: 'Nucleic acid extraction' refers to a group of techniques that all separate nucleic acids from proteins and lipids using three major processes: isolation, purification, and concentration.
    :synonyms: \-
@@ -1497,7 +1683,9 @@ nucleic acid extraction
 optogenetic inhibition
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/optogeneticInhibition``
+https://openminds.ebrains.eu/instances/technique/optogeneticInhibition
+
+.. admonition:: metadata
 
    :definition: Optogenetic inhibition is a genetic technique in which the activity of specific neuron populations is decreased using light of a particular wavelength. This can be achieved by expressing light-sensitive ion channels, pumps or enzymes specifically in the target neurons.
    :synonyms: \-
@@ -1513,7 +1701,9 @@ optogenetic inhibition
 oral administration
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/oralAdministration``
+https://openminds.ebrains.eu/instances/technique/oralAdministration
+
+.. admonition:: metadata
 
    :definition: In an 'oral administration' a substance is taken through the mouth.
    :synonyms: p.o., per os, PO
@@ -1529,7 +1719,9 @@ oral administration
 organ extraction
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/organExtraction``
+https://openminds.ebrains.eu/instances/technique/organExtraction
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1545,7 +1737,9 @@ organ extraction
 patch clamp
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/patchClamp``
+https://openminds.ebrains.eu/instances/technique/patchClamp
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1561,7 +1755,9 @@ patch clamp
 perfusion fixation technique
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique``
+https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique
+
+.. admonition:: metadata
 
    :definition: Perfusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by using the vascular system to distribute fixatives throughout the tissue.
    :synonyms: \-
@@ -1577,7 +1773,9 @@ perfusion fixation technique
 perfusion technique
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/perfusionTechnique``
+https://openminds.ebrains.eu/instances/technique/perfusionTechnique
+
+.. admonition:: metadata
 
    :definition: Perfusion is a technique to distribute fluid through the circulatory system or lymphatic system to an organ or a tissue.
    :synonyms: \-
@@ -1593,7 +1791,9 @@ perfusion technique
 phase‐contrast x‐ray computed tomography
 ----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomography``
+https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomography
+
+.. admonition:: metadata
 
    :definition: 'Phase-contrast x-ray computed tomography' is a non-invasive x-ray imaging technique for three-dimensional observation of organic matter without application of a contrast medium ([Momose, Takeda, and Itai (1995)](https://doi.org/10.1063/1.1145931)).
    :synonyms: PCT, PCX‐CT, phase‐contrast computed tomography, phase‐contrast CT, x-ray phase-contrast computed tomography
@@ -1609,7 +1809,9 @@ phase‐contrast x‐ray computed tomography
 phase-contrast x-ray imaging
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/phaseContrastXRayImaging``
+https://openminds.ebrains.eu/instances/technique/phaseContrastXRayImaging
+
+.. admonition:: metadata
 
    :definition: 'Phase-contrast x-ray imaging' is a general term for different x-ray techniques that use changes in the phase of an x-ray beam passing through an object leading to images with improved soft tissue contrast without the application of a contrast medium. (adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_X-ray_imaging))
    :synonyms: phase-sensitive x-ray imaging
@@ -1625,7 +1827,9 @@ phase-contrast x-ray imaging
 photoactivation
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/photoactivation``
+https://openminds.ebrains.eu/instances/technique/photoactivation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1641,7 +1845,9 @@ photoactivation
 photoinactivation
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/photoinactivation``
+https://openminds.ebrains.eu/instances/technique/photoinactivation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1657,7 +1863,9 @@ photoinactivation
 photoplethysmography
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/photoplethysmography``
+https://openminds.ebrains.eu/instances/technique/photoplethysmography
+
+.. admonition:: metadata
 
    :definition: Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.
    :synonyms: PPG
@@ -1673,7 +1881,9 @@ photoplethysmography
 polarized light microscopy
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/polarizedLightMicroscopy``
+https://openminds.ebrains.eu/instances/technique/polarizedLightMicroscopy
+
+.. admonition:: metadata
 
    :definition: Polarized light microscopy comprises all optical microscopy techniques involving polarized light.
    :synonyms: \-
@@ -1689,7 +1899,9 @@ polarized light microscopy
 population receptive field mapping
 ----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/populationReceptiveFieldMapping``
+https://openminds.ebrains.eu/instances/technique/populationReceptiveFieldMapping
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1705,7 +1917,9 @@ population receptive field mapping
 positron emission tomography
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/positronEmissionTomography``
+https://openminds.ebrains.eu/instances/technique/positronEmissionTomography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1721,7 +1935,9 @@ positron emission tomography
 pressure injection
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/pressureInjection``
+https://openminds.ebrains.eu/instances/technique/pressureInjection
+
+.. admonition:: metadata
 
    :definition: Pressure injection uses either air compression or mechanical pressure to eject a substance from a micropipette (from Veith et al., 2016; J.Vis.Exp. (109):53724; doi: 10.3791/53724).
    :synonyms: \-
@@ -1737,7 +1953,9 @@ pressure injection
 primary antibody staining
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/primaryAntibodyStaining``
+https://openminds.ebrains.eu/instances/technique/primaryAntibodyStaining
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1753,7 +1971,9 @@ primary antibody staining
 pseudo-continuous arterial spin labeling
 ----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLabeling``
+https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLabeling
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1769,7 +1989,9 @@ pseudo-continuous arterial spin labeling
 psychological testing
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/psychologicalTesting``
+https://openminds.ebrains.eu/instances/technique/psychologicalTesting
+
+.. admonition:: metadata
 
    :definition: 'Psychological testing' is a psychometric measurement to evaluate a person's response to a psychological test according to carefully prescribed guidelines. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Psychological_testing)]
    :synonyms: \-
@@ -1785,7 +2007,9 @@ psychological testing
 quantitative magnetic resonance imaging
 ---------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1801,7 +2025,9 @@ quantitative magnetic resonance imaging
 receptive field mapping
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/receptiveFieldMapping``
+https://openminds.ebrains.eu/instances/technique/receptiveFieldMapping
+
+.. admonition:: metadata
 
    :definition: In 'receptive field mapping' a distinct set of physiological stimuli is used to evoke a sensory neuronal response in specific organisms to define its respective sensory space (receptive field).
    :synonyms: RF mapping
@@ -1817,7 +2043,9 @@ receptive field mapping
 retinotopic mapping
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/retinotopicMapping``
+https://openminds.ebrains.eu/instances/technique/retinotopicMapping
+
+.. admonition:: metadata
 
    :definition: In 'retinotopic mapping' the retina is repeatedly stimulated in such a way that the response of neurons, particularly within the visual stream, can be mapped to the location of the stimulus on the retina.
    :synonyms: retinal mapping
@@ -1833,7 +2061,9 @@ retinotopic mapping
 retrograde tracing
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/retrogradeTracing``
+https://openminds.ebrains.eu/instances/technique/retrogradeTracing
+
+.. admonition:: metadata
 
    :definition: Retrograde tracing is a technique used to trace neural connections from their point of termination (the synapse) to their source (the cell body).
    :synonyms: \-
@@ -1849,7 +2079,9 @@ retrograde tracing
 scanning electron microscopy
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/scanningElectronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/scanningElectronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Scanning electron microscopy is a microscopy technique to produce images of a specimen by scanning the surface with focused beam of electrons.
    :synonyms: SEM, scanning electron microscopy technique
@@ -1865,7 +2097,9 @@ scanning electron microscopy
 scattered light imaging
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/scatteredLightImaging``
+https://openminds.ebrains.eu/instances/technique/scatteredLightImaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1881,7 +2115,9 @@ scattered light imaging
 secondary antibody staining
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining``
+https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1897,7 +2133,9 @@ secondary antibody staining
 serial block face scanning electron microscopy
 ----------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/serialBlockFaceScanningElectronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/serialBlockFaceScanningElectronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Serial block face scanning electron microscopy is a serial section scanning electron microscopy technique where an ultramicrotome is used to remove the surface layer of a specimen.
    :synonyms: SB-SEM, SBEM, serial blockface SEM
@@ -1913,7 +2151,9 @@ serial block face scanning electron microscopy
 serial section transmission electron microscopy
 -----------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Serial section transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through multiple successive slices of a volumetric sample to produce images of the slices (e.g. for later 3D reconstruction).
    :synonyms: \-
@@ -1929,7 +2169,9 @@ serial section transmission electron microscopy
 sharp electrode intracellular electrophysiology
 -----------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/sharpElectrodeIntracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/sharpElectrodeIntracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: An intracellular electrophysiology technique where a microelectrode/micropipette is used to measure electrical properties of a single cell, e.g. a neuron.
    :synonyms: sharp electrode technique, sharp intracellular electrode technique, sharp electrode recording, sharp intracellular electrode recording
@@ -1945,7 +2187,9 @@ sharp electrode intracellular electrophysiology
 silver staining
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/silverStaining``
+https://openminds.ebrains.eu/instances/technique/silverStaining
+
+.. admonition:: metadata
 
    :definition: A technique where the appearance of biological subcellular targets (e.g. proteins, RNA or DNA) is selectively alter by use of silver.
    :synonyms: silver stain
@@ -1961,7 +2205,9 @@ silver staining
 single electrode extracellular electrophysiology
 ------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/singleElectrodeExtracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/singleElectrodeExtracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1977,7 +2223,9 @@ single electrode extracellular electrophysiology
 single electrode juxtacellular electrophysiology
 ------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -1993,7 +2241,9 @@ single electrode juxtacellular electrophysiology
 sodium MRI
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/sodiumMRI``
+https://openminds.ebrains.eu/instances/technique/sodiumMRI
+
+.. admonition:: metadata
 
    :definition: 'Sodium MRI' is a specialised magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of the distribution of sodium in the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Sodium_MRI)]
    :synonyms: Na MRI, Na-MRI, Sodium-MRI
@@ -2009,7 +2259,9 @@ sodium MRI
 sonography
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/sonography``
+https://openminds.ebrains.eu/instances/technique/sonography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2025,7 +2277,9 @@ sonography
 spin echo pulse sequence
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/spinEchoPulseSequence``
+https://openminds.ebrains.eu/instances/technique/spinEchoPulseSequence
+
+.. admonition:: metadata
 
    :definition: In magnetic resonance imaging, a 'spin echo pulse sequence' is a contrast generation technique that induces bulk changes in the spin magnetization of a sample by applying sequential pulses of resonant electromagnetic waves at different angles (cf. [Fonseca (2013)](https://doi.org/10.5772/53693)).
    :synonyms: SE pulse sequence
@@ -2041,7 +2295,9 @@ spin echo pulse sequence
 stereoelectroencephalography
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography``
+https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography
+
+.. admonition:: metadata
 
    :definition: In 'stereoelectroencephalography' depth electrodes (typically linear electrode arrays) are stereotactically implanted in the brain of a subject in order to record or stimulate electrographic activity of otherwise inaccessible brain regions. [cf. [wikipedia](https://en.wikipedia.org/wiki/Stereoelectroencephalography), or [Gholipour et al. 2020](https://doi.org/10.1016/j.clineuro.2019.105640)]
    :synonyms: sEEG, SEEG, stereo-EEG, stereotactic-EEG, stereo electroencephalogaphy, stereotactic electroencephalogaphy
@@ -2057,7 +2313,9 @@ stereoelectroencephalography
 stereology
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/stereology``
+https://openminds.ebrains.eu/instances/technique/stereology
+
+.. admonition:: metadata
 
    :definition: An imaging assay that is used for the three-dimensional interpretation of planar sections of materials or tissues.
    :synonyms: \-
@@ -2073,7 +2331,9 @@ stereology
 stereotactic surgery
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/stereotacticSurgery``
+https://openminds.ebrains.eu/instances/technique/stereotacticSurgery
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2089,7 +2349,9 @@ stereotactic surgery
 structural neuroimaging
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/structuralNeuroimaging``
+https://openminds.ebrains.eu/instances/technique/structuralNeuroimaging
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2105,7 +2367,9 @@ structural neuroimaging
 subcutaneous injection
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/subcutaneousInjection``
+https://openminds.ebrains.eu/instances/technique/subcutaneousInjection
+
+.. admonition:: metadata
 
    :definition: An 'subcutenous injection' is the administration of a substance under all the layers of the skin via a needle or tube.
    :synonyms: s.c., s.c. injection, SC, SC injection
@@ -2121,7 +2385,9 @@ subcutaneous injection
 subdural electrocorticography
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography``
+https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2137,7 +2403,9 @@ subdural electrocorticography
 tetrode extracellular electrophysiology
 ---------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/tetrodeExtracellularElectrophysiology``
+https://openminds.ebrains.eu/instances/technique/tetrodeExtracellularElectrophysiology
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2153,7 +2421,9 @@ tetrode extracellular electrophysiology
 time-of-flight magnetic resonance angiography
 ---------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/time-of-flightMagneticResonanceAngiography``
+https://openminds.ebrains.eu/instances/technique/time-of-flightMagneticResonanceAngiography
+
+.. admonition:: metadata
 
    :definition: 'Time-of-flight magnetic resonance angiography' is a non-invasive, non-contrast-enhanced technique used to visualize both arterial and venous vessels with high spatial resolution. Note: it provides no information regarding directionality nor flow velocity quantification. [adapted from:  [Ferreira and Ramalho, 2013](https://doi.org/10.1002/9781118434550.ch7)]
    :synonyms: time-of-flight, time-of-flight angiography, time-of-flight MR angiography, time-of-flight MRA, TOF, TOF angiography, TOF magnetic resonance angiography, TOF MRA
@@ -2169,7 +2439,9 @@ time-of-flight magnetic resonance angiography
 tissue clearing
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/tissueClearing``
+https://openminds.ebrains.eu/instances/technique/tissueClearing
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2185,7 +2457,9 @@ tissue clearing
 transcardial perfusion fixation technique
 -----------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/transcardialPerfusionFixationTechnique``
+https://openminds.ebrains.eu/instances/technique/transcardialPerfusionFixationTechnique
+
+.. admonition:: metadata
 
    :definition: Transcardial perfusion fixation is a technique to distribute fixatives throughout tissue via the heart.
    :synonyms: intracardiac perfusion fixation technique, intracardial perfusion fixation technique
@@ -2201,7 +2475,9 @@ transcardial perfusion fixation technique
 transcardial perfusion technique
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/transcardialPerfusionTechnique``
+https://openminds.ebrains.eu/instances/technique/transcardialPerfusionTechnique
+
+.. admonition:: metadata
 
    :definition: Transcardial perfusion is a technique to distribute fluid throughout tissue via the heart.
    :synonyms: intracardiac perfusion technique, intracardial perfusion technique
@@ -2217,7 +2493,9 @@ transcardial perfusion technique
 transmission electron microscopy
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/transmissionElectronMicroscopy``
+https://openminds.ebrains.eu/instances/technique/transmissionElectronMicroscopy
+
+.. admonition:: metadata
 
    :definition: Transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through a specimen to produce an image.
    :synonyms: TEM
@@ -2233,7 +2511,9 @@ transmission electron microscopy
 two-photon fluorescence microscopy
 ----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/twoPhotonFluorescenceMicroscopy``
+https://openminds.ebrains.eu/instances/technique/twoPhotonFluorescenceMicroscopy
+
+.. admonition:: metadata
 
    :definition: Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.
    :synonyms: 2-photon excitation microscopy, 2-photon fluorescence microscopy, 2-photon miscroscopy, 2PEF, TPEF, TPM, two-photon excitation fluorescence microscopy, two-photon excitation microscopy, two-photon miscroscopy
@@ -2249,7 +2529,9 @@ two-photon fluorescence microscopy
 ultra high-field functional magnetic resonance imaging
 ------------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: 'Ultra high-field functional magnetic resonance imaging' comprises all functional MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
    :synonyms: \-
@@ -2265,7 +2547,9 @@ ultra high-field functional magnetic resonance imaging
 ultra high-field magnetic resonance imaging
 -------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging``
+https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging
+
+.. admonition:: metadata
 
    :definition: 'Ultra high-field magnetic resonance imaging' comprises all structural MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
    :synonyms: \-
@@ -2281,7 +2565,9 @@ ultra high-field magnetic resonance imaging
 ultra high-field magnetic resonance spectroscopy
 ------------------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceSpectroscopy``
+https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceSpectroscopy
+
+.. admonition:: metadata
 
    :definition: 'Ultra high-field magnetic resonance spectroscopy' comprises all MRS techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
    :synonyms: \-
@@ -2297,7 +2583,9 @@ ultra high-field magnetic resonance spectroscopy
 vibratome sectioning
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/vibratomeSectioning``
+https://openminds.ebrains.eu/instances/technique/vibratomeSectioning
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2313,7 +2601,9 @@ vibratome sectioning
 video tracking
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/videoTracking``
+https://openminds.ebrains.eu/instances/technique/videoTracking
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2329,7 +2619,9 @@ video tracking
 virus-mediated transfection
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/virus-mediatedTransfection``
+https://openminds.ebrains.eu/instances/technique/virus-mediatedTransfection
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -2345,7 +2637,9 @@ virus-mediated transfection
 voltage clamp
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/voltageClamp``
+https://openminds.ebrains.eu/instances/technique/voltageClamp
+
+.. admonition:: metadata
 
    :definition: 'Voltage clamp' comprises all experimental techniques in which the membrane potential (voltage) is constantly changed to a desired value by adding the necessary current to the cell.
    :synonyms: \-
@@ -2361,7 +2655,9 @@ voltage clamp
 voltage sensitive dye imaging
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging``
+https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging
+
+.. admonition:: metadata
 
    :definition: 'Voltage sensitive dye imaging' is an experimental technique to measure neuronal population activity from in vivo brains or live brain slices by transducing changes in the cell membrane potential into changes of fluorescence emmission by an employed exogenous chemical agent.
    :synonyms: \-
@@ -2377,7 +2673,9 @@ voltage sensitive dye imaging
 weighted correlation network analysis
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/weightedCorrelationNetworkAnalysis``
+https://openminds.ebrains.eu/instances/technique/weightedCorrelationNetworkAnalysis
+
+.. admonition:: metadata
 
    :definition: Weighted correlation network analysis is a widely used data mining method for studying networks based on pairwise correlations between variables. While it can be applied to most high-dimensional data sets, it has been most widely used in genomic applications. [adopted from: [wikipedia](https://en.wikipedia.org/wiki/Weighted_correlation_network_analysis)]
    :synonyms: weighted gene co-expression network analysis, WGCNA
@@ -2393,7 +2691,9 @@ weighted correlation network analysis
 whole cell patch clamp
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/wholeCellPatchClamp``
+https://openminds.ebrains.eu/instances/technique/wholeCellPatchClamp
+
+.. admonition:: metadata
 
    :definition: 'Whole cell patch clamp' is a patch clamp technique where the pipette is sealed onto a cell membrane applying enough suction to rupture the membrane patch in order to provide access from the interior of the pipette to the intracellular space of the cell.
    :synonyms: \-
@@ -2409,7 +2709,9 @@ whole cell patch clamp
 widefield fluorescence microscopy
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy``
+https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy
+
+.. admonition:: metadata
 
    :definition: 'Widefield fluorescence microscopy' comprises all microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
    :synonyms: \-

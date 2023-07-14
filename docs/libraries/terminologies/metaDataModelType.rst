@@ -9,7 +9,9 @@ MetaDataModelType
 common data elements
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/metaDataModelType/commonDataElements``
+https://openminds.ebrains.eu/instances/metaDataModelType/commonDataElements
+
+.. admonition:: metadata
 
    :definition: Common Data Elements (CDEs) define standardized key terms or concepts for diseases in form of a data dictionary that can be used in both relational and graph metadata models.
    :synonyms: \-
@@ -25,7 +27,9 @@ common data elements
 data repository model
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel``
+https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel
+
+.. admonition:: metadata
 
    :definition: A data repository model defines the file and folder naming and structure as well as partially the file content (metadata definitions) and preferred format.
    :synonyms: \-
@@ -41,7 +45,9 @@ data repository model
 graph metadata model
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/metaDataModelType/graphMetadataModel``
+https://openminds.ebrains.eu/instances/metaDataModelType/graphMetadataModel
+
+.. admonition:: metadata
 
    :definition: A graph metadata model defines a set of modular metadata schemas (including their relations) as architectural base of a graph database for describing the products represented in that database.
    :synonyms: \-
@@ -57,7 +63,9 @@ graph metadata model
 relational metadata model
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel``
+https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel
+
+.. admonition:: metadata
 
    :definition: A relational metadata model defines a set of tabular metadata schemas (including their relations) as architectural base of a relational database for describing the products represented in that database.
    :synonyms: \-

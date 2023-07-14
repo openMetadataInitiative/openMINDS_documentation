@@ -9,7 +9,9 @@ CranialWindowConstructionType
 cleared skull cranial window
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window that is constructed by clearing a small region of the skull.
    :synonyms: \-
@@ -25,7 +27,9 @@ cleared skull cranial window
 thinned skull cranial window
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window that is constructed by thinning a small region of the skull.
    :synonyms: \-
@@ -41,7 +45,9 @@ thinned skull cranial window
 transcranial window
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow``
+https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow
+
+.. admonition:: metadata
 
    :definition: A cranial window that is constructed by removal of a small region of the skull.
    :synonyms: \-

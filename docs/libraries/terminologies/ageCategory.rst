@@ -9,7 +9,9 @@ AgeCategory
 adolescent
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/adolescent``
+https://openminds.ebrains.eu/instances/ageCategory/adolescent
+
+.. admonition:: metadata
 
    :definition: 'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.
    :synonyms: puberty
@@ -25,7 +27,9 @@ adolescent
 adult
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/adult``
+https://openminds.ebrains.eu/instances/ageCategory/adult
+
+.. admonition:: metadata
 
    :definition: 'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.
    :synonyms: adult stage, post-juvenile adult, post-juvenile adult stage
@@ -41,7 +45,9 @@ adult
 embryo
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/embryo``
+https://openminds.ebrains.eu/instances/ageCategory/embryo
+
+.. admonition:: metadata
 
    :definition: 'Embryo' categorizes the life cycle stage of an animal or human that starts with fertilitzation and ends with the fully formed embryo.
    :synonyms: embryo stage, embryonic stage
@@ -57,7 +63,9 @@ embryo
 infant
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/infant``
+https://openminds.ebrains.eu/instances/ageCategory/infant
+
+.. admonition:: metadata
 
    :definition: 'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.
    :synonyms: infant stage
@@ -73,7 +81,9 @@ infant
 juvenile
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/juvenile``
+https://openminds.ebrains.eu/instances/ageCategory/juvenile
+
+.. admonition:: metadata
 
    :definition: 'Juvenile' categorizes the life cycle stage of an animal or human that starts with the independence of the nest and/or caregivers and ends with sexual maturity.
    :synonyms: juvenile stage
@@ -89,7 +99,9 @@ juvenile
 late adult
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/lateAdult``
+https://openminds.ebrains.eu/instances/ageCategory/lateAdult
+
+.. admonition:: metadata
 
    :definition: 'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.
    :synonyms: elderly, elderly stage, geriatric, geriatric stage, late adult stage
@@ -105,7 +117,9 @@ late adult
 neonate
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/neonate``
+https://openminds.ebrains.eu/instances/ageCategory/neonate
+
+.. admonition:: metadata
 
    :definition: 'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.
    :synonyms: neonatal stage, neonate stage
@@ -121,7 +135,9 @@ neonate
 perinatal
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/perinatal``
+https://openminds.ebrains.eu/instances/ageCategory/perinatal
+
+.. admonition:: metadata
 
    :definition: 'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.
    :synonyms: perinatal stage
@@ -137,7 +153,9 @@ perinatal
 prime adult
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/primeAdult``
+https://openminds.ebrains.eu/instances/ageCategory/primeAdult
+
+.. admonition:: metadata
 
    :definition: 'Prime adult' categorizes the life cycle stage of an animal or human that starts at the onset of sexual maturity or the cessation of growth, whichever comes last, and ends before senescence.
    :synonyms: adulthood stage, prime adult stage
@@ -153,7 +171,9 @@ prime adult
 young adult
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ageCategory/youngAdult``
+https://openminds.ebrains.eu/instances/ageCategory/youngAdult
+
+.. admonition:: metadata
 
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
    :synonyms: early adult, early adult stage, young adult stage

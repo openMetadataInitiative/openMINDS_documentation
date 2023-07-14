@@ -9,7 +9,9 @@ SoftwareApplicationCategory
 application
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/application``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ application
 library
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/library``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ library
 middleware
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ middleware
 module
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/module``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ module
 notebook
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ notebook
 plugin
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin``
+https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

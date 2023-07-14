@@ -9,7 +9,9 @@ OrganismSubstance
 arterial blood
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSubstance/arterialBlood``
+https://openminds.ebrains.eu/instances/organismSubstance/arterialBlood
+
+.. admonition:: metadata
 
    :definition: 'Arterial blood' is the oxygenated portion of blood which occupies the pulmonary vein, the left chambers of the heart, and the arteries of the circulatory system.
    :synonyms: arterial blood, blood in artery, portion of arterial blood
@@ -25,7 +27,9 @@ arterial blood
 blood
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSubstance/blood``
+https://openminds.ebrains.eu/instances/organismSubstance/blood
+
+.. admonition:: metadata
 
    :definition: ''Blood' is a body fluid in the circulatory system of vertebrates that transports substances to and from cells (e.g. nutrients, oxygen or metabolic waste products). [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Blood)]
    :synonyms: portion of blood, vertebrate blood
@@ -41,7 +45,9 @@ blood
 venous blood
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/organismSubstance/venousBlood``
+https://openminds.ebrains.eu/instances/organismSubstance/venousBlood
+
+.. admonition:: metadata
 
    :definition: 'Venous blood' is deoxygenated blood which travels from the peripheral vessels, through the venous system into the right atrium of the heart.
    :synonyms: blood in vein, portion of venous blood, venous blood

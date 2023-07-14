@@ -9,7 +9,9 @@ Laterality
 left
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/laterality/left``
+https://openminds.ebrains.eu/instances/laterality/left
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ left
 right
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/laterality/right``
+https://openminds.ebrains.eu/instances/laterality/right
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

@@ -9,7 +9,9 @@ Colormap
 matplotlib.colormaps.Accent
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Accent``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Accent
+
+.. admonition:: metadata
 
    :definition: The colormap 'Accent' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Accent
@@ -25,7 +27,9 @@ matplotlib.colormaps.Accent
 matplotlib.colormaps.Blues
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Blues``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Blues
+
+.. admonition:: metadata
 
    :definition: The colormap 'Blues' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Blues
@@ -41,7 +45,9 @@ matplotlib.colormaps.Blues
 matplotlib.colormaps.BrBG
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BrBG``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BrBG
+
+.. admonition:: metadata
 
    :definition: The colormap 'BrBG' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: BrBG
@@ -57,7 +63,9 @@ matplotlib.colormaps.BrBG
 matplotlib.colormaps.BuGn
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuGn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuGn
+
+.. admonition:: metadata
 
    :definition: The colormap 'BuGn' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: BuGn
@@ -73,7 +81,9 @@ matplotlib.colormaps.BuGn
 matplotlib.colormaps.BuPu
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuPu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuPu
+
+.. admonition:: metadata
 
    :definition: The colormap 'BuPu' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: BuPu
@@ -89,7 +99,9 @@ matplotlib.colormaps.BuPu
 matplotlib.colormaps.CMRmap
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.CMRmap``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.CMRmap
+
+.. admonition:: metadata
 
    :definition: The colormap 'CMRmap' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: CMRmap
@@ -105,7 +117,9 @@ matplotlib.colormaps.CMRmap
 matplotlib.colormaps.Dark2
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Dark2``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Dark2
+
+.. admonition:: metadata
 
    :definition: The colormap 'Dark2' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Dark2
@@ -121,7 +135,9 @@ matplotlib.colormaps.Dark2
 matplotlib.colormaps.GnBu
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.GnBu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.GnBu
+
+.. admonition:: metadata
 
    :definition: The colormap 'GnBu' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: GnBu
@@ -137,7 +153,9 @@ matplotlib.colormaps.GnBu
 matplotlib.colormaps.Greens
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greens``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greens
+
+.. admonition:: metadata
 
    :definition: The colormap 'Greens' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Greens
@@ -153,7 +171,9 @@ matplotlib.colormaps.Greens
 matplotlib.colormaps.Greys
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greys``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greys
+
+.. admonition:: metadata
 
    :definition: The colormap 'Greys' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Greys
@@ -169,7 +189,9 @@ matplotlib.colormaps.Greys
 matplotlib.colormaps.OrRd
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.OrRd``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.OrRd
+
+.. admonition:: metadata
 
    :definition: The colormap 'OrRd' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: OrRd
@@ -185,7 +207,9 @@ matplotlib.colormaps.OrRd
 matplotlib.colormaps.Oranges
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Oranges``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Oranges
+
+.. admonition:: metadata
 
    :definition: The colormap 'Oranges' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Oranges
@@ -201,7 +225,9 @@ matplotlib.colormaps.Oranges
 matplotlib.colormaps.PRGn
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PRGn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PRGn
+
+.. admonition:: metadata
 
    :definition: The colormap 'PRGn' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: PRGn
@@ -217,7 +243,9 @@ matplotlib.colormaps.PRGn
 matplotlib.colormaps.Paired
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Paired``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Paired
+
+.. admonition:: metadata
 
    :definition: The colormap 'Paired' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Paired
@@ -233,7 +261,9 @@ matplotlib.colormaps.Paired
 matplotlib.colormaps.Pastel1
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel1``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel1
+
+.. admonition:: metadata
 
    :definition: The colormap 'Pastel1' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Pastel1
@@ -249,7 +279,9 @@ matplotlib.colormaps.Pastel1
 matplotlib.colormaps.Pastel2
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel2``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel2
+
+.. admonition:: metadata
 
    :definition: The colormap 'Pastel2' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Pastel2
@@ -265,7 +297,9 @@ matplotlib.colormaps.Pastel2
 matplotlib.colormaps.PiYG
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PiYG``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PiYG
+
+.. admonition:: metadata
 
    :definition: The colormap 'PiYG' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: PiYG
@@ -281,7 +315,9 @@ matplotlib.colormaps.PiYG
 matplotlib.colormaps.PuBu
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBu
+
+.. admonition:: metadata
 
    :definition: The colormap 'PuBu' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: PuBu
@@ -297,7 +333,9 @@ matplotlib.colormaps.PuBu
 matplotlib.colormaps.PuBuGn
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBuGn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBuGn
+
+.. admonition:: metadata
 
    :definition: The colormap 'PuBuGn' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: PuBuGn
@@ -313,7 +351,9 @@ matplotlib.colormaps.PuBuGn
 matplotlib.colormaps.PuOr
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuOr``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuOr
+
+.. admonition:: metadata
 
    :definition: The colormap 'PuOr' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: PuOr
@@ -329,7 +369,9 @@ matplotlib.colormaps.PuOr
 matplotlib.colormaps.PuRd
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuRd``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuRd
+
+.. admonition:: metadata
 
    :definition: The colormap 'PuRd' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: PuRd
@@ -345,7 +387,9 @@ matplotlib.colormaps.PuRd
 matplotlib.colormaps.Purples
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Purples``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Purples
+
+.. admonition:: metadata
 
    :definition: The colormap 'Purples' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Purples
@@ -361,7 +405,9 @@ matplotlib.colormaps.Purples
 matplotlib.colormaps.RdBu
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdBu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdBu
+
+.. admonition:: metadata
 
    :definition: The colormap 'RdBu' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: RdBu
@@ -377,7 +423,9 @@ matplotlib.colormaps.RdBu
 matplotlib.colormaps.RdGy
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdGy``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdGy
+
+.. admonition:: metadata
 
    :definition: The colormap 'RdGy' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: RdGy
@@ -393,7 +441,9 @@ matplotlib.colormaps.RdGy
 matplotlib.colormaps.RdPu
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdPu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdPu
+
+.. admonition:: metadata
 
    :definition: The colormap 'RdPu' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: RdPu
@@ -409,7 +459,9 @@ matplotlib.colormaps.RdPu
 matplotlib.colormaps.RdYlBu
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlBu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlBu
+
+.. admonition:: metadata
 
    :definition: The colormap 'RdYlBu' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: RdYlBu
@@ -425,7 +477,9 @@ matplotlib.colormaps.RdYlBu
 matplotlib.colormaps.RdYlGn
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlGn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlGn
+
+.. admonition:: metadata
 
    :definition: The colormap 'RdYlGn' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: RdYlGn
@@ -441,7 +495,9 @@ matplotlib.colormaps.RdYlGn
 matplotlib.colormaps.Reds
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Reds``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Reds
+
+.. admonition:: metadata
 
    :definition: The colormap 'Reds' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: Reds
@@ -457,7 +513,9 @@ matplotlib.colormaps.Reds
 matplotlib.colormaps.Set1
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set1``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set1
+
+.. admonition:: metadata
 
    :definition: The colormap 'Set1' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Set1
@@ -473,7 +531,9 @@ matplotlib.colormaps.Set1
 matplotlib.colormaps.Set2
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set2``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set2
+
+.. admonition:: metadata
 
    :definition: The colormap 'Set2' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Set2
@@ -489,7 +549,9 @@ matplotlib.colormaps.Set2
 matplotlib.colormaps.Set3
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set3``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set3
+
+.. admonition:: metadata
 
    :definition: The colormap 'Set3' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: Set3
@@ -505,7 +567,9 @@ matplotlib.colormaps.Set3
 matplotlib.colormaps.Spectral
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Spectral``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Spectral
+
+.. admonition:: metadata
 
    :definition: The colormap 'Spectral' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: Spectral
@@ -521,7 +585,9 @@ matplotlib.colormaps.Spectral
 matplotlib.colormaps.Wistia
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Wistia``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Wistia
+
+.. admonition:: metadata
 
    :definition: The colormap 'Wistia' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: Wistia
@@ -537,7 +603,9 @@ matplotlib.colormaps.Wistia
 matplotlib.colormaps.YlGn
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGn
+
+.. admonition:: metadata
 
    :definition: The colormap 'YlGn' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: YlGn
@@ -553,7 +621,9 @@ matplotlib.colormaps.YlGn
 matplotlib.colormaps.YlGnBu
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGnBu``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGnBu
+
+.. admonition:: metadata
 
    :definition: The colormap 'YlGnBu' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: YlGnBu
@@ -569,7 +639,9 @@ matplotlib.colormaps.YlGnBu
 matplotlib.colormaps.YlOrBr
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrBr``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrBr
+
+.. admonition:: metadata
 
    :definition: The colormap 'YlOrBr' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: YlOrBr
@@ -585,7 +657,9 @@ matplotlib.colormaps.YlOrBr
 matplotlib.colormaps.YlOrRd
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrRd``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrRd
+
+.. admonition:: metadata
 
    :definition: The colormap 'YlOrRd' is a sequential colormap of the Python plotting library Matplotlib.
    :synonyms: YlOrRd
@@ -601,7 +675,9 @@ matplotlib.colormaps.YlOrRd
 matplotlib.colormaps.afmhot
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.afmhot``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.afmhot
+
+.. admonition:: metadata
 
    :definition: The colormap 'afmhot' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: afmhot
@@ -617,7 +693,9 @@ matplotlib.colormaps.afmhot
 matplotlib.colormaps.autumn
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.autumn``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.autumn
+
+.. admonition:: metadata
 
    :definition: The colormap 'autumn' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: autumn
@@ -633,7 +711,9 @@ matplotlib.colormaps.autumn
 matplotlib.colormaps.binary
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.binary``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.binary
+
+.. admonition:: metadata
 
    :definition: The colormap 'binary' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: binary
@@ -649,7 +729,9 @@ matplotlib.colormaps.binary
 matplotlib.colormaps.bone
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bone``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bone
+
+.. admonition:: metadata
 
    :definition: The colormap 'bone' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: bone
@@ -665,7 +747,9 @@ matplotlib.colormaps.bone
 matplotlib.colormaps.brg
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.brg``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.brg
+
+.. admonition:: metadata
 
    :definition: The colormap 'brg' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: brg
@@ -681,7 +765,9 @@ matplotlib.colormaps.brg
 matplotlib.colormaps.bwr
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bwr``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bwr
+
+.. admonition:: metadata
 
    :definition: The colormap 'bwr' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: bwr
@@ -697,7 +783,9 @@ matplotlib.colormaps.bwr
 matplotlib.colormaps.cividis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cividis``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cividis
+
+.. admonition:: metadata
 
    :definition: The colormap 'cividis' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.
    :synonyms: cividis
@@ -713,7 +801,9 @@ matplotlib.colormaps.cividis
 matplotlib.colormaps.cool
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cool``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cool
+
+.. admonition:: metadata
 
    :definition: The colormap 'cool' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: cool
@@ -729,7 +819,9 @@ matplotlib.colormaps.cool
 matplotlib.colormaps.coolwarm
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.coolwarm``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.coolwarm
+
+.. admonition:: metadata
 
    :definition: The colormap 'coolwarm' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: coolwarm
@@ -745,7 +837,9 @@ matplotlib.colormaps.coolwarm
 matplotlib.colormaps.copper
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.copper``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.copper
+
+.. admonition:: metadata
 
    :definition: The colormap 'copper' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: copper
@@ -761,7 +855,9 @@ matplotlib.colormaps.copper
 matplotlib.colormaps.cubehelix
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cubehelix``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cubehelix
+
+.. admonition:: metadata
 
    :definition: The colormap 'cubehelix' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: cubehelix
@@ -777,7 +873,9 @@ matplotlib.colormaps.cubehelix
 matplotlib.colormaps.flag
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.flag``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.flag
+
+.. admonition:: metadata
 
    :definition: The colormap 'flag' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: flag
@@ -793,7 +891,9 @@ matplotlib.colormaps.flag
 matplotlib.colormaps.gist_earth
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_earth``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_earth
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_earth' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gist_earth
@@ -809,7 +909,9 @@ matplotlib.colormaps.gist_earth
 matplotlib.colormaps.gist_gray
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_gray``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_gray
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_gray' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: gist_gray
@@ -825,7 +927,9 @@ matplotlib.colormaps.gist_gray
 matplotlib.colormaps.gist_heat
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_heat``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_heat
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_heat' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: gist_heat
@@ -841,7 +945,9 @@ matplotlib.colormaps.gist_heat
 matplotlib.colormaps.gist_ncar
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_ncar``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_ncar
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_ncar' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gist_ncar
@@ -857,7 +963,9 @@ matplotlib.colormaps.gist_ncar
 matplotlib.colormaps.gist_rainbow
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_rainbow``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_rainbow
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_rainbow' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gist_rainbow
@@ -873,7 +981,9 @@ matplotlib.colormaps.gist_rainbow
 matplotlib.colormaps.gist_stern
 -------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_stern``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_stern
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_stern' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gist_stern
@@ -889,7 +999,9 @@ matplotlib.colormaps.gist_stern
 matplotlib.colormaps.gist_yarg
 ------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_yarg``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_yarg
+
+.. admonition:: metadata
 
    :definition: The colormap 'gist_yarg' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: gist_yarg
@@ -905,7 +1017,9 @@ matplotlib.colormaps.gist_yarg
 matplotlib.colormaps.gnuplot
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot
+
+.. admonition:: metadata
 
    :definition: The colormap 'gnuplot' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gnuplot
@@ -921,7 +1035,9 @@ matplotlib.colormaps.gnuplot
 matplotlib.colormaps.gnuplot2
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot2``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot2
+
+.. admonition:: metadata
 
    :definition: The colormap 'gnuplot2' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: gnuplot2
@@ -937,7 +1053,9 @@ matplotlib.colormaps.gnuplot2
 matplotlib.colormaps.gray
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gray``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gray
+
+.. admonition:: metadata
 
    :definition: The colormap 'gray' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: gray
@@ -953,7 +1071,9 @@ matplotlib.colormaps.gray
 matplotlib.colormaps.hot
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hot``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hot
+
+.. admonition:: metadata
 
    :definition: The colormap 'hot' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: hot
@@ -969,7 +1089,9 @@ matplotlib.colormaps.hot
 matplotlib.colormaps.hsv
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hsv``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hsv
+
+.. admonition:: metadata
 
    :definition: The colormap 'hsv' is a cyclic colormap of the Python plotting library Matplotlib.
    :synonyms: hsv
@@ -985,7 +1107,9 @@ matplotlib.colormaps.hsv
 matplotlib.colormaps.inferno
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.inferno``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.inferno
+
+.. admonition:: metadata
 
    :definition: The colormap 'inferno' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.
    :synonyms: inferno
@@ -1001,7 +1125,9 @@ matplotlib.colormaps.inferno
 matplotlib.colormaps.jet
 ------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.jet``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.jet
+
+.. admonition:: metadata
 
    :definition: The colormap 'jet' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: jet
@@ -1017,7 +1143,9 @@ matplotlib.colormaps.jet
 matplotlib.colormaps.magma
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.magma``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.magma
+
+.. admonition:: metadata
 
    :definition: The colormap 'magma' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.
    :synonyms: magma
@@ -1033,7 +1161,9 @@ matplotlib.colormaps.magma
 matplotlib.colormaps.nipy_spectral
 ----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.nipy_spectral``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.nipy_spectral
+
+.. admonition:: metadata
 
    :definition: The colormap 'nipy_spectral' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: nipy_spectral
@@ -1049,7 +1179,9 @@ matplotlib.colormaps.nipy_spectral
 matplotlib.colormaps.ocean
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.ocean``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.ocean
+
+.. admonition:: metadata
 
    :definition: The colormap 'ocean' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: ocean
@@ -1065,7 +1197,9 @@ matplotlib.colormaps.ocean
 matplotlib.colormaps.pink
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pink``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pink
+
+.. admonition:: metadata
 
    :definition: The colormap 'pink' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: pink
@@ -1081,7 +1215,9 @@ matplotlib.colormaps.pink
 matplotlib.colormaps.plasma
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.plasma``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.plasma
+
+.. admonition:: metadata
 
    :definition: The colormap 'plasma' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.
    :synonyms: plasma
@@ -1097,7 +1233,9 @@ matplotlib.colormaps.plasma
 matplotlib.colormaps.prism
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.prism``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.prism
+
+.. admonition:: metadata
 
    :definition: The colormap 'prism' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: prism
@@ -1113,7 +1251,9 @@ matplotlib.colormaps.prism
 matplotlib.colormaps.rainbow
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.rainbow``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.rainbow
+
+.. admonition:: metadata
 
    :definition: The colormap 'rainbow' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: rainbow
@@ -1129,7 +1269,9 @@ matplotlib.colormaps.rainbow
 matplotlib.colormaps.seismic
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.seismic``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.seismic
+
+.. admonition:: metadata
 
    :definition: The colormap 'seismic' is a diverging colormap of the Python plotting library Matplotlib.
    :synonyms: seismic
@@ -1145,7 +1287,9 @@ matplotlib.colormaps.seismic
 matplotlib.colormaps.spring
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.spring``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.spring
+
+.. admonition:: metadata
 
    :definition: The colormap 'spring' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: spring
@@ -1161,7 +1305,9 @@ matplotlib.colormaps.spring
 matplotlib.colormaps.summer
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.summer``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.summer
+
+.. admonition:: metadata
 
    :definition: The colormap 'summer' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: summer
@@ -1177,7 +1323,9 @@ matplotlib.colormaps.summer
 matplotlib.colormaps.tab10
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab10``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab10
+
+.. admonition:: metadata
 
    :definition: The colormap 'tab10' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: tab10
@@ -1193,7 +1341,9 @@ matplotlib.colormaps.tab10
 matplotlib.colormaps.tab20
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20
+
+.. admonition:: metadata
 
    :definition: The colormap 'tab20' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: tab20
@@ -1209,7 +1359,9 @@ matplotlib.colormaps.tab20
 matplotlib.colormaps.tab20b
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20b``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20b
+
+.. admonition:: metadata
 
    :definition: The colormap 'tab20b' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: tab20b
@@ -1225,7 +1377,9 @@ matplotlib.colormaps.tab20b
 matplotlib.colormaps.tab20c
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20c``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20c
+
+.. admonition:: metadata
 
    :definition: The colormap 'tab20c' is a qualitative colormap of the Python plotting library Matplotlib.
    :synonyms: tab20c
@@ -1241,7 +1395,9 @@ matplotlib.colormaps.tab20c
 matplotlib.colormaps.terrain
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.terrain``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.terrain
+
+.. admonition:: metadata
 
    :definition: The colormap 'terrain' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: terrain
@@ -1257,7 +1413,9 @@ matplotlib.colormaps.terrain
 matplotlib.colormaps.turbo
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.turbo``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.turbo
+
+.. admonition:: metadata
 
    :definition: The colormap 'turbo' is a miscellaneous colormap of the Python plotting library Matplotlib.
    :synonyms: turbo
@@ -1273,7 +1431,9 @@ matplotlib.colormaps.turbo
 matplotlib.colormaps.twilight
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight
+
+.. admonition:: metadata
 
    :definition: The colormap 'twilight' is a cyclic colormap of the Python plotting library Matplotlib.
    :synonyms: twilight
@@ -1289,7 +1449,9 @@ matplotlib.colormaps.twilight
 matplotlib.colormaps.twilight_shifted
 -------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight_shifted``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight_shifted
+
+.. admonition:: metadata
 
    :definition: The colormap 'twilight_shifted' is a cyclic colormap of the Python plotting library Matplotlib.
    :synonyms: twilight_shifted
@@ -1305,7 +1467,9 @@ matplotlib.colormaps.twilight_shifted
 matplotlib.colormaps.viridis
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.viridis``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.viridis
+
+.. admonition:: metadata
 
    :definition: The colormap 'viridis' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.
    :synonyms: viridis
@@ -1321,7 +1485,9 @@ matplotlib.colormaps.viridis
 matplotlib.colormaps.winter
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.winter``
+https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.winter
+
+.. admonition:: metadata
 
    :definition: The colormap 'winter' is a sequential (type 2) colormap of the Python plotting library Matplotlib.
    :synonyms: winter

@@ -9,7 +9,9 @@ EthicsAssessment
 EU compliant
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant``
+https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant
+
+.. admonition:: metadata
 
    :definition: Data are ethically approved in compliance with EU law. No additional ethics assessment was made by the data sharing initiative.
    :synonyms: \-
@@ -25,7 +27,9 @@ EU compliant
 EU compliant +
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+``
+https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+
+
+.. admonition:: metadata
 
    :definition: Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative.
    :synonyms: \-
@@ -41,7 +45,9 @@ EU compliant +
 not required
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired``
+https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired
+
+.. admonition:: metadata
 
    :definition: An ethics assessment is 'not required' when no ethics approval was needed to conduct the study.
    :synonyms: \-

@@ -9,7 +9,9 @@ ModelAbstractionLevel
 algorithm
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
+
+.. admonition:: metadata
 
    :definition: Modelling of a neural structure or process as an algorithm
    :synonyms: \-
@@ -25,7 +27,9 @@ algorithm
 cognitive modelling
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
+
+.. admonition:: metadata
 
    :definition: Modelling of cognitive processes
    :synonyms: \-
@@ -41,7 +45,9 @@ cognitive modelling
 population modelling
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
+
+.. admonition:: metadata
 
    :definition: Modelling of neural circuits at the population level
    :synonyms: \-
@@ -57,7 +63,9 @@ population modelling
 population modelling: neural field
 ----------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
+
+.. admonition:: metadata
 
    :definition: Modelling neural populations using the approximation of a neural field
    :synonyms: \-
@@ -73,7 +81,9 @@ population modelling: neural field
 population modelling: neural mass
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass
+
+.. admonition:: metadata
 
    :definition: Modelling neural populations using the approximation of neural masses
    :synonyms: \-
@@ -89,7 +99,9 @@ population modelling: neural mass
 protein structure
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
+
+.. admonition:: metadata
 
    :definition: Modelling of protein structure
    :synonyms: \-
@@ -105,7 +117,9 @@ protein structure
 rate neurons
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
+
+.. admonition:: metadata
 
    :definition: Modelling neural networks in which individual neurons are represented by their firing rate
    :synonyms: \-
@@ -121,7 +135,9 @@ rate neurons
 spiking neurons
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
+
+.. admonition:: metadata
 
    :definition: Modelling neural networks in which the action potentials of individual neurons are represented
    :synonyms: \-
@@ -137,7 +153,9 @@ spiking neurons
 spiking neurons: biophysical
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical
+
+.. admonition:: metadata
 
    :definition: Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels
    :synonyms: \-
@@ -153,7 +171,9 @@ spiking neurons: biophysical
 spiking neurons: point neuron
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
+
+.. admonition:: metadata
 
    :definition: Modelling neural networks in which individual neurons are represented by point neuron models
    :synonyms: \-
@@ -169,7 +189,9 @@ spiking neurons: point neuron
 statistical model
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
+
+.. admonition:: metadata
 
    :definition: Statistical modelling of neural data generation
    :synonyms: \-
@@ -185,7 +207,9 @@ statistical model
 systems biology
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
+
+.. admonition:: metadata
 
    :definition: Modelling of neural systems below the level of individual neurons
    :synonyms: \-
@@ -201,7 +225,9 @@ systems biology
 systems biology: continuous
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous
+
+.. admonition:: metadata
 
    :definition: Systems biology modelling using concentrations
    :synonyms: \-
@@ -217,7 +243,9 @@ systems biology: continuous
 systems biology: discrete
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete
+
+.. admonition:: metadata
 
    :definition: Systems biology modelling using representations of individual particles
    :synonyms: \-
@@ -233,7 +261,9 @@ systems biology: discrete
 systems biology: flux balance
 -----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance``
+https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
+
+.. admonition:: metadata
 
    :definition: Systems biology modelling using flux balance analysis
    :synonyms: \-

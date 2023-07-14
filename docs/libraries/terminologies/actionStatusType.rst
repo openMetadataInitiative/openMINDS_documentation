@@ -9,7 +9,9 @@ ActionStatusType
 active
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/active``
+https://openminds.ebrains.eu/instances/actionStatusType/active
+
+.. admonition:: metadata
 
    :definition: An in-progress action.
    :synonyms: active action status, active action
@@ -25,7 +27,9 @@ active
 completed
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/completed``
+https://openminds.ebrains.eu/instances/actionStatusType/completed
+
+.. admonition:: metadata
 
    :definition: An action that has already taken place with a successful outcome.
    :synonyms: completed action status, completed action, finished successfully
@@ -41,7 +45,9 @@ completed
 failed
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/failed``
+https://openminds.ebrains.eu/instances/actionStatusType/failed
+
+.. admonition:: metadata
 
    :definition: An action that failed to complete or completed but produced an error.
    :synonyms: failed action status, failed action, finished unsuccessfully, error
@@ -57,7 +63,9 @@ failed
 inactive
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/inactive``
+https://openminds.ebrains.eu/instances/actionStatusType/inactive
+
+.. admonition:: metadata
 
    :definition: A pending or suspended action.
    :synonyms: inactive action status, inactive action
@@ -73,7 +81,9 @@ inactive
 paused
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/paused``
+https://openminds.ebrains.eu/instances/actionStatusType/paused
+
+.. admonition:: metadata
 
    :definition: A temporarily stopped action that can be resumed at a later point in time.
    :synonyms: paused action type, paused action, suspended
@@ -89,7 +99,9 @@ paused
 pending
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/pending``
+https://openminds.ebrains.eu/instances/actionStatusType/pending
+
+.. admonition:: metadata
 
    :definition: An action which is awaiting execution.
    :synonyms: queued, pending action type, pending action
@@ -105,7 +117,9 @@ pending
 potential
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/actionStatusType/potential``
+https://openminds.ebrains.eu/instances/actionStatusType/potential
+
+.. admonition:: metadata
 
    :definition: A description of an action that is supported.
    :synonyms: potential action type, potential action

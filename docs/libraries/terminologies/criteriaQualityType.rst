@@ -9,7 +9,9 @@ CriteriaQualityType
 asserted
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/criteriaQualityType/asserted``
+https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
+
+.. admonition:: metadata
 
    :definition: If a criteria is 'asserted' it is based on an opinion or claim, usually made by an expert.
    :synonyms: \-
@@ -25,7 +27,9 @@ asserted
 processive
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/criteriaQualityType/processive``
+https://openminds.ebrains.eu/instances/criteriaQualityType/processive
+
+.. admonition:: metadata
 
    :definition: If a criteria is 'processive' it is based on a repeatable and often automated process.
    :synonyms: \-

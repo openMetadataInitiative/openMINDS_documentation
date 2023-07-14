@@ -9,7 +9,9 @@ OperatingDevice
 desktop
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/desktop``
+https://openminds.ebrains.eu/instances/operatingDevice/desktop
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ desktop
 embedded system
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem``
+https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ embedded system
 high-performance computer
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer``
+https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ high-performance computer
 mobile
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/mobile``
+https://openminds.ebrains.eu/instances/operatingDevice/mobile
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ mobile
 neuromorphic computer
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer``
+https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
+
+.. admonition:: metadata
 
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
    :synonyms: \-
@@ -89,7 +99,9 @@ neuromorphic computer
 server
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/server``
+https://openminds.ebrains.eu/instances/operatingDevice/server
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ server
 web
 ---
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/operatingDevice/web``
+https://openminds.ebrains.eu/instances/operatingDevice/web
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

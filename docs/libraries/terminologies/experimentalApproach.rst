@@ -9,7 +9,9 @@ ExperimentalApproach
 anatomy
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/anatomy``
+https://openminds.ebrains.eu/instances/experimentalApproach/anatomy
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the bodily structure of living organisms.
    :synonyms: anatomical approach
@@ -25,7 +27,9 @@ anatomy
 behavior
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/behavior``
+https://openminds.ebrains.eu/instances/experimentalApproach/behavior
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the mechanical activity or cognitive processes underlying mechanical activity of living organisms often in response to external sensory stimuli.
    :synonyms: behavioral approach
@@ -41,7 +45,9 @@ behavior
 biophysics
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/biophysics``
+https://openminds.ebrains.eu/instances/experimentalApproach/biophysics
+
+.. admonition:: metadata
 
    :definition: 'Biophysics' covers any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]
    :synonyms: \-
@@ -57,7 +63,9 @@ biophysics
 cell biology
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on structure, function, multiplication, pathology, and life history of biological cells.
    :synonyms: cellular approach
@@ -73,7 +81,9 @@ cell biology
 cell morphology
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/cellMorphology``
+https://openminds.ebrains.eu/instances/experimentalApproach/cellMorphology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the shape and structure of individual cells.
    :synonyms: \-
@@ -89,7 +99,9 @@ cell morphology
 cell population characterization
 --------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharacterization``
+https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharacterization
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on biochemical, molecular and/or physiological characteristics of populations of cells as opposed to individual cells.
    :synonyms: \-
@@ -105,7 +117,9 @@ cell population characterization
 cell population imaging
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationImaging``
+https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationImaging
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on imaging biochemical, molecular, or physiological characteristics of populations of cells.
    :synonyms: \-
@@ -121,7 +135,9 @@ cell population imaging
 cell population manipulation
 ----------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipulation``
+https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipulation
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on manipulation of biochemical, molecular, or physiological characteristics of populations of cells.
    :synonyms: \-
@@ -137,7 +153,9 @@ cell population manipulation
 chemogenetics
 -------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics``
+https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on using genetically encoded chemically sensitive proteins in combination with a specific agonist delivered systemically in order to manipulate the behavior of populations of cells.
    :synonyms: \-
@@ -153,7 +171,9 @@ chemogenetics
 clinical research
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch``
+https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on medical observation, treatment, or testing of patients.
    :synonyms: clinical approach
@@ -169,7 +189,9 @@ clinical research
 computational modeling
 ----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/computationalModeling``
+https://openminds.ebrains.eu/instances/experimentalApproach/computationalModeling
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on creating or characterizing computational models or simulations of experimentally observed phenomena.
    :synonyms: \-
@@ -185,7 +207,9 @@ computational modeling
 developmental biology
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on life cycle, development, or developmental history of an organism.
    :synonyms: developmental approach
@@ -201,7 +225,9 @@ developmental biology
 ecology
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/ecology``
+https://openminds.ebrains.eu/instances/experimentalApproach/ecology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on interrelationship of organisms and their environments, including causes and consequences.
    :synonyms: ecological approach
@@ -217,7 +243,9 @@ ecology
 electrophysiology
 -----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on electrical phenomena associated with living systems, most notably the nervous system, cardiac system, and musculoskeletal system.
    :synonyms: \-
@@ -233,7 +261,9 @@ electrophysiology
 epidemiology
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/epidemiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/epidemiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on incidence, distribution, and possible control of diseases and other factors relating to health.
    :synonyms: epidemiological approach
@@ -249,7 +279,9 @@ epidemiology
 epigenomics
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on processes that modulate transcription but that do not directly alter the primary sequences of an organism's DNA.
    :synonyms: \-
@@ -265,7 +297,9 @@ epigenomics
 ethology
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/ethology``
+https://openminds.ebrains.eu/instances/experimentalApproach/ethology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on natural unmanipulated human or animal behavior and social organization from a biological, life history, and often evolutionary perspective.
    :synonyms: ethological approach
@@ -281,7 +315,9 @@ ethology
 evolutionary biology
 --------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on heritable characteristics of biological populations and their variation through the modification of developmental process to produce new forms and species.
    :synonyms: evolutionary approach
@@ -297,7 +333,9 @@ evolutionary biology
 expression
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/expression``
+https://openminds.ebrains.eu/instances/experimentalApproach/expression
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on driving or detecting expression of genes in cells or tissues.
    :synonyms: molecular expression approach
@@ -313,7 +351,9 @@ expression
 expression characterization
 ---------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacterization``
+https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacterization
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the cellular, anatomical, or morphological distribution of gene expression.
    :synonyms: \-
@@ -329,7 +369,9 @@ expression characterization
 genetics
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/genetics``
+https://openminds.ebrains.eu/instances/experimentalApproach/genetics
+
+.. admonition:: metadata
 
    :definition: Experimental approach that measures or manipulates some aspect of the genetic material of an organism.
    :synonyms: \-
@@ -345,7 +387,9 @@ genetics
 genomics
 --------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/genomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/genomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on structure, function, evolution, and mapping of genomes, the entiretiy of the genetic material of a single organism.
    :synonyms: \-
@@ -361,7 +405,9 @@ genomics
 histology
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/histology``
+https://openminds.ebrains.eu/instances/experimentalApproach/histology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on structure of biological tissue.
    :synonyms: histological approach
@@ -377,7 +423,9 @@ histology
 informatics
 -----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/informatics``
+https://openminds.ebrains.eu/instances/experimentalApproach/informatics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on collection, classification, storage, retrieval, analysis, visualization, and dissemination of recorded knowledge in computational systems.
    :synonyms: \-
@@ -393,7 +441,9 @@ informatics
 metabolomics
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on chemical processes involving metabolites, the small molecule substrates, intermediates and products of cell metabolism.
    :synonyms: \-
@@ -409,7 +459,9 @@ metabolomics
 microscopy
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/microscopy``
+https://openminds.ebrains.eu/instances/experimentalApproach/microscopy
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on using differential contrast of microscopic structures to form an image.
    :synonyms: \-
@@ -425,7 +477,9 @@ microscopy
 morphology
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/morphology``
+https://openminds.ebrains.eu/instances/experimentalApproach/morphology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the shape and structure of living organisms or their parts.
    :synonyms: morphological approach
@@ -441,7 +495,9 @@ morphology
 multimodal research
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch``
+https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch
+
+.. admonition:: metadata
 
    :definition: Any experimental approach that employs multiple experimental approaches in significant ways.
    :synonyms: multimodal approach
@@ -457,7 +513,9 @@ multimodal research
 multiomics
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/multiomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/multiomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach that employs multiple omics approaches in significant ways.
    :synonyms: \-
@@ -473,7 +531,9 @@ multiomics
 neural connectivity
 -------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity``
+https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on functional or anatomical connections between single neurons or populations of neurons in defined anatomical regions.
    :synonyms: \-
@@ -489,7 +549,9 @@ neural connectivity
 neuroimaging
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging``
+https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the non-invasive direct or indirect imaging of the structure, function, or pharmacology of the nervous system.
    :synonyms: \-
@@ -505,7 +567,9 @@ neuroimaging
 omics
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/omics``
+https://openminds.ebrains.eu/instances/experimentalApproach/omics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on characterization and quantification of biological molecules that give rise to the structure, function, and dynamics of organisms or their parts.
    :synonyms: \-
@@ -521,7 +585,9 @@ omics
 optogenetics
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics``
+https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on using genetically encoded light-sensitive proteins in combination with targeted delivery of light in order to manipulate the behavior of populations of cells.
    :synonyms: \-
@@ -537,7 +603,9 @@ optogenetics
 pharmacology
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology``
+https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
+
+.. admonition:: metadata
 
    :definition: 'Pharmacology' is an experimental approach in which the composition, properties, functions, sources, synthesis and design of drugs (any artificial, natural, or endogenous molecule) and their biochemical or physiological effect (normal or abnormal) on a cell, tissue, organ, or organism are studied. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Pharmacology)]
    :synonyms: \-
@@ -553,7 +621,9 @@ pharmacology
 physiology
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/physiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/physiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on normal functions of living organisms and their parts.
    :synonyms: physiological approach
@@ -569,7 +639,9 @@ physiology
 proteomics
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/proteomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/proteomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the composition, structure, and activity of an entire set of proteins in organisms or their parts.
    :synonyms: \-
@@ -585,7 +657,9 @@ proteomics
 radiology
 ---------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/radiology``
+https://openminds.ebrains.eu/instances/experimentalApproach/radiology
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on using non-invasive techniques that use intrinsic or induced contrast to form images. Also covers purely clinical domains such as nuclear medicine.
    :synonyms: \-
@@ -601,7 +675,9 @@ radiology
 spatial transcriptomics
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on mapping the spatial location of gene activity in biological tissue.
    :synonyms: \-
@@ -617,7 +693,9 @@ spatial transcriptomics
 transcriptomics
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics``
+https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics
+
+.. admonition:: metadata
 
    :definition: Any experimental approach focused on the transcriptome (all RNA transcripts) of one or more cells, tissues, or organisms.
    :synonyms: \-

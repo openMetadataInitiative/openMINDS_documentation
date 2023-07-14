@@ -9,7 +9,9 @@ SetupType
 acquisition system
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/setupType/acquisitionSystem``
+https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
+
+.. admonition:: metadata
 
    :definition: An 'acquisition system' is a setup type with the purpose of collecting data.
    :synonyms: \-
@@ -25,7 +27,9 @@ acquisition system
 computing system
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/setupType/computingSystem``
+https://openminds.ebrains.eu/instances/setupType/computingSystem
+
+.. admonition:: metadata
 
    :definition: A 'computing system' is a setup type with the purpose of performing computations.
    :synonyms: \-
@@ -41,7 +45,9 @@ computing system
 stimulation system
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/setupType/stimulationSystem``
+https://openminds.ebrains.eu/instances/setupType/stimulationSystem
+
+.. admonition:: metadata
 
    :definition: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
    :synonyms: \-

@@ -9,7 +9,9 @@ ProgrammingLanguage
 AMPL
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL``
+https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: A Mathematical Programming Language
@@ -25,7 +27,9 @@ AMPL
 Bash
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Bash``
+https://openminds.ebrains.eu/instances/programmingLanguage/Bash
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -41,7 +45,9 @@ Bash
 C
 -
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/C``
+https://openminds.ebrains.eu/instances/programmingLanguage/C
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -57,7 +63,9 @@ C
 C#
 --
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/C#``
+https://openminds.ebrains.eu/instances/programmingLanguage/C#
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -73,7 +81,9 @@ C#
 C++
 ---
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/C++``
+https://openminds.ebrains.eu/instances/programmingLanguage/C++
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -89,7 +99,9 @@ C++
 Fortran
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Fortran``
+https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -105,7 +117,9 @@ Fortran
 GLSL
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/GLSL``
+https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -121,7 +135,9 @@ GLSL
 HTML
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/HTML``
+https://openminds.ebrains.eu/instances/programmingLanguage/HTML
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -137,7 +153,9 @@ HTML
 Java
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Java``
+https://openminds.ebrains.eu/instances/programmingLanguage/Java
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -153,7 +171,9 @@ Java
 JavaScript
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript``
+https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -169,7 +189,9 @@ JavaScript
 MATLAB
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB``
+https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -185,7 +207,9 @@ MATLAB
 PHP
 ---
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/PHP``
+https://openminds.ebrains.eu/instances/programmingLanguage/PHP
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -201,7 +225,9 @@ PHP
 Pascal
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Pascal``
+https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -217,7 +243,9 @@ Pascal
 Python
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Python``
+https://openminds.ebrains.eu/instances/programmingLanguage/Python
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -233,7 +261,9 @@ Python
 R
 -
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/R``
+https://openminds.ebrains.eu/instances/programmingLanguage/R
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -249,7 +279,9 @@ R
 Ruby
 ----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Ruby``
+https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -265,7 +297,9 @@ Ruby
 Scala
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/Scala``
+https://openminds.ebrains.eu/instances/programmingLanguage/Scala
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -281,7 +315,9 @@ Scala
 T-SQL
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL``
+https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -297,7 +333,9 @@ T-SQL
 TypeScript
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript``
+https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -313,7 +351,9 @@ TypeScript
 Shell
 -----
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/programmingLanguage/shell``
+https://openminds.ebrains.eu/instances/programmingLanguage/shell
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-

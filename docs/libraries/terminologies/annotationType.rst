@@ -9,7 +9,9 @@ AnnotationType
 annotation contour line
 -----------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/annotationType/annotationContourLine``
+https://openminds.ebrains.eu/instances/annotationType/annotationContourLine
+
+.. admonition:: metadata
 
    :definition: An 'annotation contour line' is a two-dimensional boundary of an area of interest.
    :synonyms: \-
@@ -25,7 +27,9 @@ annotation contour line
 annotation mask
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/annotationType/annotationMask``
+https://openminds.ebrains.eu/instances/annotationType/annotationMask
+
+.. admonition:: metadata
 
    :definition: An 'annotation mask' is a filled object masking an area or volume of interest.
    :synonyms: \-
@@ -41,7 +45,9 @@ annotation mask
 annotation point
 ----------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/annotationType/annotationPoint``
+https://openminds.ebrains.eu/instances/annotationType/annotationPoint
+
+.. admonition:: metadata
 
    :definition: 'Annotation point(s)' are individual point(s) that are annotated with the same label.
    :synonyms: \-
@@ -57,7 +63,9 @@ annotation point
 annotation surface
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/annotationType/annotationSurface``
+https://openminds.ebrains.eu/instances/annotationType/annotationSurface
+
+.. admonition:: metadata
 
    :definition: An 'annotation surface' is a three-dimensional boundary of a volume of interest.
    :synonyms: \-

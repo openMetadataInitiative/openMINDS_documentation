@@ -9,7 +9,9 @@ Service
 Allen Institute Cell Types Data Portal
 --------------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/AllenInstituteCellTypesDataPortal``
+https://openminds.ebrains.eu/instances/service/AllenInstituteCellTypesDataPortal
+
+.. admonition:: metadata
 
    :definition: Web application for visualizing and browsing the Allen Cell Types Database.
    :synonyms: \-
@@ -25,7 +27,9 @@ Allen Institute Cell Types Data Portal
 EBRAINS Collaboratory Lab
 -------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/EBRAINSCollaboratoryLab``
+https://openminds.ebrains.eu/instances/service/EBRAINSCollaboratoryLab
+
+.. admonition:: metadata
 
    :definition: The Collaboratory Lab is a web-based JupyterLab service provided by the EBRAINS research infrastructure.
    :synonyms: \-
@@ -41,7 +45,9 @@ EBRAINS Collaboratory Lab
 EBRAINS Collaboratory Wiki
 --------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/ERBAINSCollaboratoryWiki``
+https://openminds.ebrains.eu/instances/service/ERBAINSCollaboratoryWiki
+
+.. admonition:: metadata
 
    :definition: The Collaboratory Wiki is the main interface to access all other Collaboratory service provided by the EBRAINS research infrastructure.
    :synonyms: \-
@@ -57,7 +63,9 @@ EBRAINS Collaboratory Wiki
 EBRAINS Knowledge Graph Search UI
 ---------------------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/EBRAINSKnowledgeGraphSearchUI``
+https://openminds.ebrains.eu/instances/service/EBRAINSKnowledgeGraphSearchUI
+
+.. admonition:: metadata
 
    :definition: The EBRAINS Knowledge Graph Search User Interface is a web application for searching the EBRAINS Knowledge Graph.
    :synonyms: EBRAINS KG Search UI, EBRAINS KGS UI, EBRAINS Knowledge Graph Search User Interface, KG Search UI, KGS UI, Knowledge Graph Search User Interface
@@ -73,7 +81,9 @@ EBRAINS Knowledge Graph Search UI
 LocaliZoom
 ----------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/LocaliZoom``
+https://openminds.ebrains.eu/instances/service/LocaliZoom
+
+.. admonition:: metadata
 
    :definition: Web application for viewing of series of high-resolution 2D images that have been anchored to reference atlases.
    :synonyms: \-
@@ -89,7 +99,9 @@ LocaliZoom
 EBRAINS Model Catalog
 ---------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/EBRAINSModelCatalog``
+https://openminds.ebrains.eu/instances/service/EBRAINSModelCatalog
+
+.. admonition:: metadata
 
    :definition: The EBRAINS Model Catalog contains information about models developed and/or used within the EBRAINS research infrastructure.
    :synonyms: \-
@@ -105,7 +117,9 @@ EBRAINS Model Catalog
 ModelDB
 -------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/ModelDB``
+https://openminds.ebrains.eu/instances/service/ModelDB
+
+.. admonition:: metadata
 
    :definition: ModelDB is a curated database of published models in the broad domain of computational neuroscience.
    :synonyms: \-
@@ -121,7 +135,9 @@ ModelDB
 Multi-Image-OSd
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/Multi-Image-OSd``
+https://openminds.ebrains.eu/instances/service/Multi-Image-OSd
+
+.. admonition:: metadata
 
    :definition: Web application for viewing of series of high-resolution 2D images.
    :synonyms: Multi-Image OpenSeadragon viewer
@@ -137,7 +153,9 @@ Multi-Image-OSd
 NeuroMorpho.Org
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/NeuroMorphoDotOrg``
+https://openminds.ebrains.eu/instances/service/NeuroMorphoDotOrg
+
+.. admonition:: metadata
 
    :definition: A web-based inventory dedicated to densely archive and organize all publicly shared digital reconstructions of neuronal morphology.
    :synonyms: \-
@@ -153,7 +171,9 @@ NeuroMorpho.Org
 Neuroglancer
 ------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/Neuroglancer``
+https://openminds.ebrains.eu/instances/service/Neuroglancer
+
+.. admonition:: metadata
 
    :definition: 'Neuroglancer' is a WebGL-based viewer for volumetric data.
    :synonyms: \-
@@ -169,7 +189,9 @@ Neuroglancer
 Zenodo
 ------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/Zenodo``
+https://openminds.ebrains.eu/instances/service/Zenodo
+
+.. admonition:: metadata
 
    :definition: Zenodo is a general-purpose open repository developed under the European OpenAIRE program and operated by CERN.
    :synonyms: \-
@@ -185,7 +207,9 @@ Zenodo
 siibra-explorer
 ---------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/service/siibraExplorer``
+https://openminds.ebrains.eu/instances/service/siibraExplorer
+
+.. admonition:: metadata
 
    :definition: 'siibra-explorer' is an interactive viewer for multilevel brain atlases
    :synonyms: \-

@@ -9,7 +9,9 @@ TypeOfUncertainty
 standard deviation
 ------------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation``
+https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
@@ -25,7 +27,9 @@ standard deviation
 standard error
 --------------
 
-.. admonition:: ``https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError``
+https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
+
+.. admonition:: metadata
 
    :definition: \-
    :synonyms: \-
