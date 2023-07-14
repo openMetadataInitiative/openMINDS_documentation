@@ -165,8 +165,22 @@ class InstancesDocBuilder(object):
             doc.heading("Licenses", char="#", overline=True)
             doc.newline()
             for license_name, license_data in sorted(data_to_display.items()):
-                doc.heading(license_data["fullName"], char="-")
+                doc.heading(license_data["shortName"], char="-")
                 doc.newline()
+                doc.directive(name="admonition", arg="metadata sheet")
+                doc.newline()
+                field_list_indent = 3
+                doc.field(name="semantic name", value=license_data["@id"], indent=field_list_indent)
+                fullName = license_data["fullName"] if "fullName" in license_data and license_data["fullName"] else "\-"
+                doc.field(name="full name", value=fullName, indent=field_list_indent)
+                legalCode = license_data["legalCode"] if "legalCode" in license_data and license_data["legalCode"] else "\-"
+                doc.field(name="legal code", value=legalCode, indent=field_list_indent)
+                webpage = license_data["webpage"] if "webpage" in license_data and license_data["webpage"] else "\-"
+                field_name = "webpages"
+                doc.field(name=field_name, value=webpage[0], indent=field_list_indent)
+                if len(webpage) > 1:
+                    multiline_indent = len(field_name) + 3 + field_list_indent
+                    doc.content(webpage[1], indent=multiline_indent)
 
     def _build_brain_atlas(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
