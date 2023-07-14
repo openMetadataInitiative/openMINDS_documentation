@@ -2,18 +2,17 @@
 Annotation
 ##########
 
-https://openminds.ebrains.eu/sands/Annotation
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Annotation
 
 Structured information on an image annotation.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `namingTerm <namingTerm_heading_>`_
 :Optional: `bestViewPoint <bestViewPoint_heading_>`_, `criteria <criteria_heading_>`_, `displayColor <displayColor_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `relatedAtlasTerm <relatedAtlasTerm_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _bestViewPoint_heading:
 
+*************
 bestViewPoint
--------------
+*************
 
 Coordinate point from which you get the best view of something.
 
@@ -40,8 +40,9 @@ Coordinate point from which you get the best view of something.
 
 .. _criteria_heading:
 
+********
 criteria
---------
+********
 
 Aspects or standards on which a judgement or decision is based.
 
@@ -58,8 +59,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. _criteriaQualityType_heading:
 
+*******************
 criteriaQualityType
--------------------
+*******************
 
 Distinct class that defines how the judgement or decision was made for a particular criteria.
 
@@ -76,8 +78,9 @@ Distinct class that defines how the judgement or decision was made for a particu
 
 .. _displayColor_heading:
 
+************
 displayColor
-------------
+************
 
 Preferred coloring.
 
@@ -93,8 +96,9 @@ Preferred coloring.
 
 .. _inspiredBy_heading:
 
+**********
 inspiredBy
-----------
+**********
 
 Reference to an inspiring element.
 
@@ -111,8 +115,9 @@ Reference to an inspiring element.
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -129,8 +134,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _laterality_heading:
 
+**********
 laterality
-----------
+**********
 
 Differentiation between a pair of lateral homologous parts of the body.
 
@@ -147,8 +153,9 @@ Differentiation between a pair of lateral homologous parts of the body.
 
 .. _namingTerm_heading:
 
+**********
 namingTerm
-----------
+**********
 
 Word or expression that has a precise meaning within a science, art, profession, or subject.
 
@@ -165,8 +172,9 @@ Word or expression that has a precise meaning within a science, art, profession,
 
 .. _relatedAtlasTerm_heading:
 
+****************
 relatedAtlasTerm
-----------------
+****************
 
 Reference to a related naming term of an anatomical structure that is defined in a particular brain atlas.
 
@@ -183,8 +191,9 @@ Reference to a related naming term of an anatomical structure that is defined in
 
 .. _visualizedIn_heading:
 
+************
 visualizedIn
-------------
+************
 
 Reference to an image in which something is visible.
 

@@ -2,18 +2,17 @@
 CoordinateSpace
 ###############
 
-https://openminds.ebrains.eu/sands/CoordinateSpace
---------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/CoordinateSpace
 
 Structured information on a coordinate space.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `anatomicalAxesOrientation <anatomicalAxesOrientation_heading_>`_, `axesOrigin <axesOrigin_heading_>`_, `fullName <fullName_heading_>`_, `nativeUnit <nativeUnit_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
 :Optional: `defaultImage <defaultImage_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _anatomicalAxesOrientation_heading:
 
+*************************
 anatomicalAxesOrientation
--------------------------
+*************************
 
 Relation between reference planes used in anatomy and mathematics.
 
@@ -40,8 +40,9 @@ Relation between reference planes used in anatomy and mathematics.
 
 .. _axesOrigin_heading:
 
+**********
 axesOrigin
-----------
+**********
 
 Special point in a coordinate system used as a fixed point of reference for the geometry of the surrounding space.
 
@@ -58,8 +59,9 @@ Special point in a coordinate system used as a fixed point of reference for the 
 
 .. _defaultImage_heading:
 
+************
 defaultImage
-------------
+************
 
 Two or three dimensional image that particluarly represents a specific coordinate space.
 
@@ -76,8 +78,9 @@ Two or three dimensional image that particluarly represents a specific coordinat
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -94,8 +97,9 @@ Digital handle to identify objects or legal persons.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -112,8 +116,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -130,8 +135,9 @@ Main website of something or someone.
 
 .. _nativeUnit_heading:
 
+**********
 nativeUnit
-----------
+**********
 
 Determinate quantity used in the original measurement.
 
@@ -148,8 +154,9 @@ Determinate quantity used in the original measurement.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -166,8 +173,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _releaseDate_heading:
 
+***********
 releaseDate
------------
+***********
 
 Fixed date on which a product is due to become or was made available for the general public to see or buy
 
@@ -184,8 +192,9 @@ Fixed date on which a product is due to become or was made available for the gen
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 
@@ -202,8 +211,9 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 

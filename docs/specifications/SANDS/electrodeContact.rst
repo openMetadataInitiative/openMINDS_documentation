@@ -2,18 +2,17 @@
 ElectrodeContact
 ################
 
-https://openminds.ebrains.eu/sands/ElectrodeContact
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ElectrodeContact
 
 Structured information on an electrode contact.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `coordinatePoint <coordinatePoint_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_
 :Optional: `definedIn <definedIn_heading_>`_, `relatedRecording <relatedRecording_heading_>`_, `relatedStimulation <relatedStimulation_heading_>`_, `visualizedIn <visualizedIn_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _coordinatePoint_heading:
 
+***************
 coordinatePoint
----------------
+***************
 
 Pair or triplet of numbers defining the position in a particular two- or three dimensional plane or space.
 
@@ -40,8 +40,9 @@ Pair or triplet of numbers defining the position in a particular two- or three d
 
 .. _definedIn_heading:
 
+*********
 definedIn
----------
+*********
 
 Reference to a file instance in which something is stored.
 
@@ -58,8 +59,9 @@ Reference to a file instance in which something is stored.
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -76,8 +78,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _relatedRecording_heading:
 
+****************
 relatedRecording
-----------------
+****************
 
 Reference to the written, stored evidence of something.
 
@@ -94,8 +97,9 @@ Reference to the written, stored evidence of something.
 
 .. _relatedStimulation_heading:
 
+******************
 relatedStimulation
-------------------
+******************
 
 Reference to the written, stored function used as a physiological stimulus.
 
@@ -112,8 +116,9 @@ Reference to the written, stored function used as a physiological stimulus.
 
 .. _visualizedIn_heading:
 
+************
 visualizedIn
-------------
+************
 
 Reference to an image in which something is visible.
 

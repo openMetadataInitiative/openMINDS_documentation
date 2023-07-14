@@ -2,18 +2,17 @@
 AnatomicalEntity
 ################
 
-https://openminds.ebrains.eu/sands/AnatomicalEntity
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalEntity
 
 Structured information on an anatomical entity.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `otherAnatomicalRelation <otherAnatomicalRelation_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _hasParent_heading:
 
+*********
 hasParent
----------
+*********
 
 Reference to a parent object or legal person.
 
@@ -40,8 +40,9 @@ Reference to a parent object or legal person.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -58,8 +59,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -76,8 +78,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _otherAnatomicalRelation_heading:
 
+***********************
 otherAnatomicalRelation
------------------------
+***********************
 
 Reference to a related anatomical structure.
 

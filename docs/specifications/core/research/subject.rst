@@ -2,18 +2,17 @@
 Subject
 #######
 
-https://openminds.ebrains.eu/core/Subject
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Subject
 
 Structured information on a subject.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
 :Optional: `genotype <genotype_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _biologicalSex_heading:
 
+*************
 biologicalSex
--------------
+*************
 
 Differentiation of individuals of most species (animals and plants) based on the type of gametes they produce.
 
@@ -40,8 +40,9 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 .. _genotype_heading:
 
+********
 genotype
---------
+********
 
 Genetic constitution of an individual or group.
 
@@ -58,8 +59,9 @@ Genetic constitution of an individual or group.
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -76,8 +78,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _phenotype_heading:
 
+*********
 phenotype
----------
+*********
 
 Physical expression of one or more genes of an organism.
 
@@ -94,8 +97,9 @@ Physical expression of one or more genes of an organism.
 
 .. _species_heading:
 
+*******
 species
--------
+*******
 
 Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
@@ -112,8 +116,9 @@ Category of biological classification comprising related organisms or population
 
 .. _strain_heading:
 
+******
 strain
-------
+******
 
 Group of presumed common ancestry with physiological but usually not morphological distinctions.
 
@@ -130,8 +135,9 @@ Group of presumed common ancestry with physiological but usually not morphologic
 
 .. _studiedState_heading:
 
+************
 studiedState
-------------
+************
 
 Reference to a point in time at which something or someone was studied in a particular mode or condition.
 

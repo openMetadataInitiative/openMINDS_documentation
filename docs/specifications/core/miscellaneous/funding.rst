@@ -2,18 +2,17 @@
 Funding
 #######
 
-https://openminds.ebrains.eu/core/Funding
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Funding
 
 Structured information on used funding.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `funder <funder_heading_>`_
 :Optional: `acknowledgement <acknowledgement_heading_>`_, `awardNumber <awardNumber_heading_>`_, `awardTitle <awardTitle_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _acknowledgement_heading:
 
+***************
 acknowledgement
----------------
+***************
 
 Offical declaration or avowal of appreciation of an act or achievement.
 
@@ -40,8 +40,9 @@ Offical declaration or avowal of appreciation of an act or achievement.
 
 .. _awardNumber_heading:
 
+***********
 awardNumber
------------
+***********
 
 Machine-readable identifier for a benefit that is conferred or bestowed on the basis of merit or need.
 
@@ -58,8 +59,9 @@ Machine-readable identifier for a benefit that is conferred or bestowed on the b
 
 .. _awardTitle_heading:
 
+**********
 awardTitle
-----------
+**********
 
 Human-readable identifier for a benefit that is conferred or bestowed on the basis of merit or need.
 
@@ -76,8 +78,9 @@ Human-readable identifier for a benefit that is conferred or bestowed on the bas
 
 .. _funder_heading:
 
+******
 funder
-------
+******
 
 Legal person that provides money for a particular purpose.
 

@@ -2,18 +2,19 @@
 ContentType
 ###########
 
-https://openminds.ebrains.eu/core/ContentType
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ContentType
 
 Structured information on the content type of a file instance, bundle or repository.
 
-------------
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/contentTypes.html>`_.
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `associatedFileExtension <associatedFileExtension_heading_>`_, `category <category_heading_>`_, `name <name_heading_>`_
 :Optional: `relatedMediaType <relatedMediaType_heading_>`_, `synonym <synonym_heading_>`_
@@ -22,8 +23,9 @@ Properties
 
 .. _associatedFileExtension_heading:
 
+***********************
 associatedFileExtension
------------------------
+***********************
 
 .. admonition:: specifications
 
@@ -38,8 +40,9 @@ associatedFileExtension
 
 .. _category_heading:
 
+********
 category
---------
+********
 
 .. admonition:: specifications
 
@@ -54,8 +57,9 @@ category
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -72,8 +76,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _relatedMediaType_heading:
 
+****************
 relatedMediaType
-----------------
+****************
 
 Reference to an official two-part identifier for file formats and format contents.
 
@@ -90,8 +95,9 @@ Reference to an official two-part identifier for file formats and format content
 
 .. _synonym_heading:
 
+*******
 synonym
--------
+*******
 
 Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
 

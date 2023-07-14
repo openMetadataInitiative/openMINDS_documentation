@@ -2,18 +2,17 @@
 DigitalIdentifier
 #################
 
-https://openminds.ebrains.eu/core/DigitalIdentifier
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/DigitalIdentifier
 
 Structured information on a digital identifier.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `identifier <identifier_heading_>`_, `identifierSchema <identifierSchema_heading_>`_
 :Optional: `howToCite <howToCite_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _howToCite_heading:
 
+*********
 howToCite
----------
+*********
 
 Preferred format for citing a particular object or legal person.
 
@@ -40,8 +40,9 @@ Preferred format for citing a particular object or legal person.
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 
@@ -58,8 +59,9 @@ Term or code used to identify something or someone.
 
 .. _identifierSchema_heading:
 
+****************
 identifierSchema
-----------------
+****************
 
 Standard for creating a particular identifier for something or someone.
 

@@ -2,18 +2,17 @@
 AnatomicalEntityRelation
 ########################
 
-https://openminds.ebrains.eu/sands/AnatomicalEntityRelation
------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalEntityRelation
 
 Structured information on the relation between one anatomical entity and another.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `criteriaQualityType <criteriaQualityType_heading_>`_, `inRelationTo <inRelationTo_heading_>`_, `qualitativeOverlap <qualitativeOverlap_heading_>`_
 :Optional: `criteria <criteria_heading_>`_, `quantitativeOverlap <quantitativeOverlap_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _criteria_heading:
 
+********
 criteria
---------
+********
 
 Aspects or standards on which a judgement or decision is based.
 
@@ -40,8 +40,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. _criteriaQualityType_heading:
 
+*******************
 criteriaQualityType
--------------------
+*******************
 
 Distinct class that defines how the judgement or decision was made for a particular criteria.
 
@@ -58,8 +59,9 @@ Distinct class that defines how the judgement or decision was made for a particu
 
 .. _inRelationTo_heading:
 
+************
 inRelationTo
-------------
+************
 
 Reference to a related element.
 
@@ -76,8 +78,9 @@ Reference to a related element.
 
 .. _qualitativeOverlap_heading:
 
+******************
 qualitativeOverlap
-------------------
+******************
 
 Semantic characterization of how much two things occupy the same space.
 
@@ -94,8 +97,9 @@ Semantic characterization of how much two things occupy the same space.
 
 .. _quantitativeOverlap_heading:
 
+*******************
 quantitativeOverlap
--------------------
+*******************
 
 Numerical characterization of how much two things occupy the same space.
 

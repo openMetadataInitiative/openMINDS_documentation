@@ -2,18 +2,17 @@
 QuantitativeValue
 #################
 
-https://openminds.ebrains.eu/core/QuantitativeValue
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/QuantitativeValue
 
 Structured information on a quantitative value.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `value <value_heading_>`_
 :Optional: `uncertainty <uncertainty_heading_>`_, `unit <unit_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _uncertainty_heading:
 
+***********
 uncertainty
------------
+***********
 
 Quantitative value range defining the uncertainty of a measurement.
 
@@ -39,8 +39,9 @@ Quantitative value range defining the uncertainty of a measurement.
 
 .. _unit_heading:
 
+****
 unit
-----
+****
 
 Determinate quantity adopted as a standard of measurement.
 
@@ -57,8 +58,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. _value_heading:
 
+*****
 value
------
+*****
 
 Entry for a property.
 

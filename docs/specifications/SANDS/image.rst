@@ -2,18 +2,17 @@
 Image
 #####
 
-https://openminds.ebrains.eu/sands/Image
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Image
 
 Structured information on an image.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `coordinateSpace <coordinateSpace_heading_>`_, `definedIn <definedIn_heading_>`_, `voxelSize <voxelSize_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _coordinateSpace_heading:
 
+***************
 coordinateSpace
----------------
+***************
 
 Two or three dimensional geometric setting.
 
@@ -40,8 +40,9 @@ Two or three dimensional geometric setting.
 
 .. _definedIn_heading:
 
+*********
 definedIn
----------
+*********
 
 Reference to a file instance in which something is stored.
 
@@ -58,8 +59,9 @@ Reference to a file instance in which something is stored.
 
 .. _voxelSize_heading:
 
+*********
 voxelSize
----------
+*********
 
 Extent of the discrete elements comprising a three-dimensional entity.
 

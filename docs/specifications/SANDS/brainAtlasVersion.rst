@@ -2,18 +2,17 @@
 BrainAtlasVersion
 #################
 
-https://openminds.ebrains.eu/sands/BrainAtlasVersion
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/BrainAtlasVersion
 
 Structured information on a brain atlas (version level).
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `annotationSet <annotationSet_heading_>`_, `coordinateSpace <coordinateSpace_heading_>`_, `fullName <fullName_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `terminology <terminology_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 :Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasAlternativeVersion <hasAlternativeVersion_heading_>`_, `homepage <homepage_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _annotationSet_heading:
 
+*************
 annotationSet
--------------
+*************
 
 Collection of notes or markings, each added by way of comment or explanation.
 
@@ -40,8 +40,9 @@ Collection of notes or markings, each added by way of comment or explanation.
 
 .. _coordinateSpace_heading:
 
+***************
 coordinateSpace
----------------
+***************
 
 Two or three dimensional geometric setting.
 
@@ -58,8 +59,9 @@ Two or three dimensional geometric setting.
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -76,8 +78,9 @@ Digital handle to identify objects or legal persons.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -94,8 +97,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _hasAlternativeVersion_heading:
 
+*********************
 hasAlternativeVersion
----------------------
+*********************
 
 .. admonition:: specifications
 
@@ -110,8 +114,9 @@ hasAlternativeVersion
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -128,8 +133,9 @@ Main website of something or someone.
 
 .. _isNewVersionOf_heading:
 
+**************
 isNewVersionOf
---------------
+**************
 
 Reference to a previous (potentially outdated) particular form of something.
 
@@ -146,8 +152,9 @@ Reference to a previous (potentially outdated) particular form of something.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -164,8 +171,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _releaseDate_heading:
 
+***********
 releaseDate
------------
+***********
 
 Fixed date on which a product is due to become or was made available for the general public to see or buy
 
@@ -182,8 +190,9 @@ Fixed date on which a product is due to become or was made available for the gen
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 
@@ -200,8 +209,9 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. _terminology_heading:
 
+***********
 terminology
------------
+***********
 
 Nomenclature for a particular field of study.
 
@@ -218,8 +228,9 @@ Nomenclature for a particular field of study.
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 
@@ -236,8 +247,9 @@ Term or code used to identify the version of something.
 
 .. _versionInnovation_heading:
 
+*****************
 versionInnovation
------------------
+*****************
 
 Documentation on what changed in comparison to a previously published form of something.
 

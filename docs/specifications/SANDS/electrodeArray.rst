@@ -2,18 +2,17 @@
 ElectrodeArray
 ##############
 
-https://openminds.ebrains.eu/sands/ElectrodeArray
--------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ElectrodeArray
 
 Structured information on an electrode array.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `electrodes <electrodes_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _electrodes_heading:
 
+**********
 electrodes
-----------
+**********
 
 Elements in a semiconductor device that emits or collects electrons or holes or controls their movements.
 
@@ -40,8 +40,9 @@ Elements in a semiconductor device that emits or collects electrons or holes or 
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 

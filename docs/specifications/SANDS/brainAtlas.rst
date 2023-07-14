@@ -2,18 +2,17 @@
 BrainAtlas
 ##########
 
-https://openminds.ebrains.eu/sands/BrainAtlas
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/BrainAtlas
 
 Structured information on a brain atlas (concept level).
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `homepage <homepage_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -40,8 +40,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -58,8 +59,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _hasVersion_heading:
 
+**********
 hasVersion
-----------
+**********
 
 Reference to variants of an original.
 
@@ -76,8 +78,9 @@ Reference to variants of an original.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -94,8 +97,9 @@ Main website of something or someone.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

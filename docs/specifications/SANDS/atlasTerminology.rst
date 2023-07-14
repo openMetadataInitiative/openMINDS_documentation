@@ -2,16 +2,15 @@
 AtlasTerminology
 ################
 
-https://openminds.ebrains.eu/sands/AtlasTerminology
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/AtlasTerminology
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `anatomicalEntity <anatomicalEntity_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `definedIn <definedIn_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _anatomicalEntity_heading:
 
+****************
 anatomicalEntity
-----------------
+****************
 
 Physical component of a body, organ, or tissue.
 
@@ -38,8 +38,9 @@ Physical component of a body, organ, or tissue.
 
 .. _definedIn_heading:
 
+*********
 definedIn
----------
+*********
 
 Reference to a file instance in which something is stored.
 
@@ -56,8 +57,9 @@ Reference to a file instance in which something is stored.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -74,8 +76,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -92,8 +95,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

@@ -2,18 +2,17 @@
 Copyright
 #########
 
-https://openminds.ebrains.eu/core/Copyright
--------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Copyright
 
 Structured information on the copyright.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `holder <holder_heading_>`_, `year <year_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _holder_heading:
 
+******
 holder
-------
+******
 
 Legal person in possession of something.
 
@@ -40,8 +40,9 @@ Legal person in possession of something.
 
 .. _year_heading:
 
+****
 year
-----
+****
 
 Cycle in the Gregorian calendar specified by a number and comprised of 365 or 366 days divided into 12 months beginning with January and ending with December.
 

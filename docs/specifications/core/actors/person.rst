@@ -2,20 +2,19 @@
 Person
 ######
 
-https://openminds.ebrains.eu/core/Person
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
 :Semantic equivalents:: https://schema.org/Person
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `email <email_heading_>`_, `givenName <givenName_heading_>`_
 :Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
@@ -24,8 +23,9 @@ Properties
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -42,8 +42,9 @@ Digital handle to identify objects or legal persons.
 
 .. _email_heading:
 
+*****
 email
------
+*****
 
 Address to which or from which an electronic mail can be sent.
 
@@ -60,8 +61,9 @@ Address to which or from which an electronic mail can be sent.
 
 .. _familyName_heading:
 
+**********
 familyName
-----------
+**********
 
 Name borne in common by members of a family.
 
@@ -78,8 +80,9 @@ Name borne in common by members of a family.
 
 .. _givenName_heading:
 
+*********
 givenName
----------
+*********
 
 Name given to a person, including all potential middle names, but excluding the family name.
 

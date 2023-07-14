@@ -2,18 +2,17 @@
 DigitalIdentifierSchema
 #######################
 
-https://openminds.ebrains.eu/core/DigitalIdentifierSchema
----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/DigitalIdentifierSchema
 
 Structured information on a digital identifier schema.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `type <type_heading_>`_
 :Optional: `IRI <IRI_heading_>`_, `identifierPattern <identifierPattern_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -40,8 +40,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _identifierPattern_heading:
 
+*****************
 identifierPattern
------------------
+*****************
 
 Format of a term or code used to identify something or someone.
 
@@ -58,8 +59,9 @@ Format of a term or code used to identify something or someone.
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

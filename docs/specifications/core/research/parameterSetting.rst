@@ -2,18 +2,17 @@
 ParameterSetting
 ################
 
-https://openminds.ebrains.eu/core/ParameterSetting
---------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ParameterSetting
 
 Structured information on a used parameter setting.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_, `relevantFor <relevantFor_heading_>`_, `value <value_heading_>`_
 :Optional: `unit <unit_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -40,8 +40,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -58,8 +59,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _relevantFor_heading:
 
+***********
 relevantFor
------------
+***********
 
 Reference to what or whom something or someone bears siginificance.
 
@@ -76,8 +78,9 @@ Reference to what or whom something or someone bears siginificance.
 
 .. _unit_heading:
 
+****
 unit
-----
+****
 
 Determinate quantity adopted as a standard of measurement.
 
@@ -94,8 +97,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. _value_heading:
 
+*****
 value
------
+*****
 
 Entry for a property.
 
