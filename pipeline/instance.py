@@ -124,7 +124,9 @@ class InstancesDocBuilder(object):
             for term_name, term_data in sorted(data_to_display.items()):
                 doc.heading(term_data["name"], char="-")
                 doc.newline()
-                doc.directive(name="admonition", arg=f"``{term_data['@id']}``")
+                doc.content(term_data['@id'])
+                doc.newline()
+                doc.directive(name="admonition", arg="metadata")
                 doc.newline()
                 field_list_indent = 3
                 definition = term_data["definition"] if "definition" in term_data and term_data["definition"] else "\-"
