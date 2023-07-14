@@ -2,12 +2,55 @@
 ethicsAssessment
 ################
 
+------------
+
+------------
+
 EU compliant
+------------
+
+.. admonition:: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant
+
+   :definition: Data are ethically approved in compliance with EU law. No additional ethics assessment was made by the data sharing initiative.
+   :synonyms: -
+   :preferred ontology ID: -
+   :InterLex ID: -
+   :KnowledgeSpace entry: -
+   :description: Data are ethically approved in compliance with EU law. No additional ethics assessment was made by the data sharing initiative. This is typically true for all, human post-mortem data, human cross-subject statistics, non-primate vertebrate animals as well as cephalopods.
+
+`BACK TO TOP <ethicsAssessment_>`_
+
 ------------
 
 EU compliant +
 --------------
 
+.. admonition:: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+
+
+   :definition: Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative.
+   :synonyms: -
+   :preferred ontology ID: -
+   :InterLex ID: -
+   :KnowledgeSpace entry: -
+   :description: Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative. This is typically true for all living human single-subject data as well as all non-human primate data.
+
+`BACK TO TOP <ethicsAssessment_>`_
+
+------------
+
 not required
+------------
+
+.. admonition:: https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired
+
+   :definition: An ethics assessment is 'not required' when no ethics approval was needed to conduct the study.
+   :synonyms: -
+   :preferred ontology ID: -
+   :InterLex ID: -
+   :KnowledgeSpace entry: -
+   :description: An ethics assessment is 'not required' when no ethics approval was needed to conduct the study. This is typically true for all simulated and invertebrate data (except cephalopods).
+
+`BACK TO TOP <ethicsAssessment_>`_
+
 ------------
 
