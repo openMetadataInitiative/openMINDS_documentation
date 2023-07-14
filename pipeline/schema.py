@@ -25,7 +25,7 @@ class SchemaDocBuilder(object):
         with open(target_file, "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
             schema_name = self._schema_payload["name"]
-            schema_name_camelCase = "".join([schema_name[0].lower, schema_name[1:]])
+            schema_name_camelCase = "".join([schema_name[0].lower(), schema_name[1:]])
             doc.heading(schema_name, char="#", overline=True)
             doc.newline()
             doc.field(name="Semantic name:", value=self._schema_payload["_type"])
@@ -37,7 +37,7 @@ class SchemaDocBuilder(object):
             if semantic_equivalent:
                 doc.field(name="Semantic equivalents:", value=semantic_equivalent)
                 doc.newline()
-            doc.newline()# https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/actionStatusType.html#actionstatustype
+            doc.newline()
             if "controlledTerms" in self._schema_payload["name"]:
                 library_subdir = f"terminologies/{schema_name_camelCase}.html"
                 library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
