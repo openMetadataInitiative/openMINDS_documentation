@@ -2,18 +2,17 @@
 ProtocolExecution
 #################
 
-https://openminds.ebrains.eu/core/ProtocolExecution
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ProtocolExecution
 
 Structured information on a protocol execution.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `input <input_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_
 :Optional: `description <description_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `parameterSet <parameterSet_heading_>`_, `preparationType <preparationType_heading_>`_, `semanticallyAnchoredTo <semanticallyAnchoredTo_heading_>`_, `studyTarget <studyTarget_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -40,8 +40,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _input_heading:
 
+*****
 input
------
+*****
 
 Something or someone that is put into or participates in a process or machine.
 
@@ -58,8 +59,9 @@ Something or someone that is put into or participates in a process or machine.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -74,8 +76,9 @@ lookupLabel
 
 .. _output_heading:
 
+******
 output
-------
+******
 
 Something or someone that comes out of, is delivered or produced by a process or machine.
 
@@ -92,8 +95,9 @@ Something or someone that comes out of, is delivered or produced by a process or
 
 .. _parameterSet_heading:
 
+************
 parameterSet
-------------
+************
 
 Manner, position, or direction in which digital or physical properties are set to determine a particular function, characteristics or behavior of something.
 
@@ -110,8 +114,9 @@ Manner, position, or direction in which digital or physical properties are set t
 
 .. _preparationType_heading:
 
+***************
 preparationType
----------------
+***************
 
 Distinct class of actions or processes that make something ready for use or service.
 
@@ -128,8 +133,9 @@ Distinct class of actions or processes that make something ready for use or serv
 
 .. _protocol_heading:
 
+********
 protocol
---------
+********
 
 Plan that describes the process of a scientific or medical experiment, treatment, or procedure.
 
@@ -146,8 +152,9 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
 .. _semanticallyAnchoredTo_heading:
 
+**********************
 semanticallyAnchoredTo
-----------------------
+**********************
 
 Reference to a related anatomical structure without providing a quantitative proof of the claimed relation.
 
@@ -164,8 +171,9 @@ Reference to a related anatomical structure without providing a quantitative pro
 
 .. _studyTarget_heading:
 
+***********
 studyTarget
------------
+***********
 
 Structure or function that was targeted within a study.
 

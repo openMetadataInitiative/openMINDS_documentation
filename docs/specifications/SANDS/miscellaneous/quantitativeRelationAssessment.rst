@@ -2,16 +2,15 @@
 QuantitativeRelationAssessment
 ##############################
 
-https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment
------------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `inRelationTo <inRelationTo_heading_>`_, `quantitativeOverlap <quantitativeOverlap_heading_>`_
 :Optional: `criteria <criteria_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _criteria_heading:
 
+********
 criteria
---------
+********
 
 Aspects or standards on which a judgement or decision is based.
 
@@ -38,8 +38,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. _inRelationTo_heading:
 
+************
 inRelationTo
-------------
+************
 
 Reference to a related element.
 
@@ -56,8 +57,9 @@ Reference to a related element.
 
 .. _quantitativeOverlap_heading:
 
+*******************
 quantitativeOverlap
--------------------
+*******************
 
 Numerical characterization of how much two things occupy the same space.
 

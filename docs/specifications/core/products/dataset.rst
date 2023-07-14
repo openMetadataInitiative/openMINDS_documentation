@@ -2,18 +2,17 @@
 Dataset
 #######
 
-https://openminds.ebrains.eu/core/Dataset
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Dataset
 
 Structured information on data originating from human/animal studies or simulations (concept level).
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `author <author_heading_>`_, `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _author_heading:
 
+******
 author
-------
+******
 
 Creator of a literary or creative work, as well as a dataset publication.
 
@@ -40,8 +40,9 @@ Creator of a literary or creative work, as well as a dataset publication.
 
 .. _custodian_heading:
 
+*********
 custodian
----------
+*********
 
 The 'custodian' is a legal person who is responsible for the content and quality of the data, metadata, and/or code of a research product.
 
@@ -58,8 +59,9 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -76,8 +78,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -94,8 +97,9 @@ Digital handle to identify objects or legal persons.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -112,8 +116,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _hasVersion_heading:
 
+**********
 hasVersion
-----------
+**********
 
 Reference to variants of an original.
 
@@ -130,8 +135,9 @@ Reference to variants of an original.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -148,8 +154,9 @@ Main website of something or someone.
 
 .. _howToCite_heading:
 
+*********
 howToCite
----------
+*********
 
 Preferred format for citing a particular object or legal person.
 
@@ -166,8 +173,9 @@ Preferred format for citing a particular object or legal person.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

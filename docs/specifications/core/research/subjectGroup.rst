@@ -2,16 +2,15 @@
 SubjectGroup
 ############
 
-https://openminds.ebrains.eu/core/SubjectGroup
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/SubjectGroup
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `phenotype <phenotype_heading_>`_, `quantity <quantity_heading_>`_, `strain <strain_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -38,8 +38,9 @@ Mention of what deserves additional attention or notice.
 
 .. _biologicalSex_heading:
 
+*************
 biologicalSex
--------------
+*************
 
 Differentiation of individuals of most species (animals and plants) based on the type of gametes they produce.
 
@@ -56,8 +57,9 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -74,8 +76,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -90,8 +93,9 @@ lookupLabel
 
 .. _phenotype_heading:
 
+*********
 phenotype
----------
+*********
 
 Physical expression of one or more genes of an organism.
 
@@ -108,8 +112,9 @@ Physical expression of one or more genes of an organism.
 
 .. _quantity_heading:
 
+********
 quantity
---------
+********
 
 Total amount or number of things or beings.
 
@@ -125,8 +130,9 @@ Total amount or number of things or beings.
 
 .. _species_heading:
 
+*******
 species
--------
+*******
 
 Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
@@ -143,8 +149,9 @@ Category of biological classification comprising related organisms or population
 
 .. _strain_heading:
 
+******
 strain
-------
+******
 
 Group of presumed common ancestry with physiological but usually not morphological distinctions.
 
@@ -161,8 +168,9 @@ Group of presumed common ancestry with physiological but usually not morphologic
 
 .. _studiedState_heading:
 
+************
 studiedState
-------------
+************
 
 Reference to a point in time at which something or someone was studied in a particular mode or condition.
 

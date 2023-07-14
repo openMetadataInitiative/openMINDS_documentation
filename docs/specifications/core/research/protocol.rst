@@ -2,18 +2,17 @@
 Protocol
 ########
 
-https://openminds.ebrains.eu/core/Protocol
-------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Protocol
 
 Structured information on a research project.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_, `technique <technique_heading_>`_
 :Optional: `behavioralTask <behavioralTask_heading_>`_, `studyOption <studyOption_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _behavioralTask_heading:
 
+**************
 behavioralTask
---------------
+**************
 
 Specific set of defined activities (or their absence) that should be performed (or avoided) by a subject.
 
@@ -40,8 +40,9 @@ Specific set of defined activities (or their absence) that should be performed (
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -58,8 +59,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -76,8 +78,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _studyOption_heading:
 
+***********
 studyOption
------------
+***********
 
 .. admonition:: specifications
 
@@ -92,8 +95,9 @@ studyOption
 
 .. _technique_heading:
 
+*********
 technique
----------
+*********
 
 Method of accomplishing a desired aim.
 

@@ -2,18 +2,17 @@
 Electrode
 #########
 
-https://openminds.ebrains.eu/sands/Electrode
---------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/Electrode
 
 Structured information on an electrode.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `electrodeContact <electrodeContact_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_
 :Optional: `lookupLabel <lookupLabel_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _electrodeContact_heading:
 
+****************
 electrodeContact
-----------------
+****************
 
 Not shielded part of a conductor that is used to establish electrical contact with a nonmetallic part of a circuit.
 
@@ -40,8 +40,9 @@ Not shielded part of a conductor that is used to establish electrical contact wi
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -58,8 +59,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 

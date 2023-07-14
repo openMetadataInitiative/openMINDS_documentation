@@ -2,16 +2,15 @@
 URL
 ###
 
-https://openminds.ebrains.eu/core/URL
--------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/URL
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required:
 :Optional: `URL <URL_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _URL_heading:
 
+***
 URL
----
+***
 
 .. admonition:: specifications
 

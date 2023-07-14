@@ -2,18 +2,17 @@
 Contribution
 ############
 
-https://openminds.ebrains.eu/core/Contribution
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Contribution
 
 Structured information on the contribution made to a research product.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `contributionType <contributionType_heading_>`_, `contributor <contributor_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _contributionType_heading:
 
+****************
 contributionType
-----------------
+****************
 
 Distinct class of what was given or supplied as a part or share.
 
@@ -40,8 +40,9 @@ Distinct class of what was given or supplied as a part or share.
 
 .. _contributor_heading:
 
+***********
 contributor
------------
+***********
 
 Legal person that gave or supplied something as a part or share.
 

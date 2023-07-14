@@ -2,18 +2,17 @@
 DOI
 ###
 
-https://openminds.ebrains.eu/core/DOI
--------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/DOI
 
 Structured information about a digital object identifier, as standardized by the International Organization for Standardization.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required:
 :Optional: `identifier <identifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

@@ -2,18 +2,17 @@
 TissueSampleState
 #################
 
-https://openminds.ebrains.eu/core/TissueSampleState
----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/TissueSampleState
 
 Structured information on a temporary state of a tissue sample.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required:
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -40,8 +40,9 @@ Mention of what deserves additional attention or notice.
 
 .. _age_heading:
 
+***
 age
----
+***
 
 Time of life or existence at which some particular qualification, capacity or event arises.
 
@@ -58,8 +59,9 @@ Time of life or existence at which some particular qualification, capacity or ev
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -74,8 +76,9 @@ lookupLabel
 
 .. _pathology_heading:
 
+*********
 pathology
----------
+*********
 
 Structural and functional deviation from the normal that constitutes a disease or characterizes a particular disease.
 
@@ -92,8 +95,9 @@ Structural and functional deviation from the normal that constitutes a disease o
 
 .. _weight_heading:
 
+******
 weight
-------
+******
 
 Amount that a thing or being weighs.
 

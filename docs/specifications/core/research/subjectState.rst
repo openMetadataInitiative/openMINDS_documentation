@@ -2,18 +2,17 @@
 SubjectState
 ############
 
-https://openminds.ebrains.eu/core/SubjectState
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/SubjectState
 
 Structured information on a temporary state of a subject.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `ageCategory <ageCategory_heading_>`_
 :Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `handedness <handedness_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _additionalRemarks_heading:
 
+*****************
 additionalRemarks
------------------
+*****************
 
 Mention of what deserves additional attention or notice.
 
@@ -40,8 +40,9 @@ Mention of what deserves additional attention or notice.
 
 .. _age_heading:
 
+***
 age
----
+***
 
 Time of life or existence at which some particular qualification, capacity or event arises.
 
@@ -58,8 +59,9 @@ Time of life or existence at which some particular qualification, capacity or ev
 
 .. _ageCategory_heading:
 
+***********
 ageCategory
------------
+***********
 
 Distinct life cycle class that is defined by a similar age or age range (developmental stage) within a group of individual beings.
 
@@ -76,8 +78,9 @@ Distinct life cycle class that is defined by a similar age or age range (develop
 
 .. _handedness_heading:
 
+**********
 handedness
-----------
+**********
 
 Degree to which an organism prefers one hand or foot over the other hand or foot during the performance of a task.
 
@@ -94,8 +97,9 @@ Degree to which an organism prefers one hand or foot over the other hand or foot
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -110,8 +114,9 @@ lookupLabel
 
 .. _pathology_heading:
 
+*********
 pathology
----------
+*********
 
 Structural and functional deviation from the normal that constitutes a disease or characterizes a particular disease.
 
@@ -128,8 +133,9 @@ Structural and functional deviation from the normal that constitutes a disease o
 
 .. _weight_heading:
 
+******
 weight
-------
+******
 
 Amount that a thing or being weighs.
 

@@ -2,18 +2,19 @@
 ContentType
 ###########
 
-https://openminds.ebrains.eu/core/ContentType
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ContentType
 
 Structured information on the content type of a file instance, bundle or repository.
 
-------------
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/contentTypes.html>`_.
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `description <description_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
@@ -22,8 +23,9 @@ Properties
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -40,8 +42,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _fileExtension_heading:
 
+*************
 fileExtension
--------------
+*************
 
 String of characters attached as suffix to the names of files of a particular format.
 
@@ -58,8 +61,9 @@ String of characters attached as suffix to the names of files of a particular fo
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -76,8 +80,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _relatedMediaType_heading:
 
+****************
 relatedMediaType
-----------------
+****************
 
 Reference to an official two-part identifier for file formats and format contents.
 
@@ -94,8 +99,9 @@ Reference to an official two-part identifier for file formats and format content
 
 .. _specification_heading:
 
+*************
 specification
--------------
+*************
 
 Detailed and precise presentation of, or proposal for something.
 
@@ -112,8 +118,9 @@ Detailed and precise presentation of, or proposal for something.
 
 .. _synonym_heading:
 
+*******
 synonym
--------
+*******
 
 Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
 

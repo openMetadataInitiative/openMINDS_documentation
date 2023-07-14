@@ -2,18 +2,17 @@
 Affiliation
 ###########
 
-https://openminds.ebrains.eu/core/Affiliation
----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Affiliation
 
 Structured information about a relationship between two entities, such as a person and their employer.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `organization <organization_heading_>`_
 :Optional: `endDate <endDate_heading_>`_, `startDate <startDate_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _endDate_heading:
 
+*******
 endDate
--------
+*******
 
 Date in the Gregorian calendar at which something terminates in time.
 
@@ -40,8 +40,9 @@ Date in the Gregorian calendar at which something terminates in time.
 
 .. _organization_heading:
 
+************
 organization
-------------
+************
 
 Legally accountable, administrative and functional structure.
 
@@ -58,8 +59,9 @@ Legally accountable, administrative and functional structure.
 
 .. _startDate_heading:
 
+*********
 startDate
----------
+*********
 
 Date in the Gregorian calendar at which something begins in time
 

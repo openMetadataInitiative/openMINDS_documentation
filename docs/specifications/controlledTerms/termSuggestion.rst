@@ -2,16 +2,15 @@
 TermSuggestion
 ##############
 
-https://openminds.ebrains.eu/controlledTerms/TermSuggestion
------------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/controlledTerms/TermSuggestion
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `addExistingTerminology <addExistingTerminology_heading_>`_, `definition <definition_heading_>`_, `description <description_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `suggestNewTerminology <suggestNewTerminology_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _addExistingTerminology_heading:
 
+**********************
 addExistingTerminology
-----------------------
+**********************
 
 Reference to an existing terminology (distinct class to group related terms).
 
@@ -38,8 +38,9 @@ Reference to an existing terminology (distinct class to group related terms).
 
 .. _definition_heading:
 
+**********
 definition
-----------
+**********
 
 Short, but precise statement of the meaning of a word, word group, sign or a symbol.
 
@@ -56,8 +57,9 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -74,8 +76,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -92,8 +95,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -110,8 +114,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _suggestNewTerminology_heading:
 
+*********************
 suggestNewTerminology
----------------------
+*********************
 
 Proposal of a new distinct class to group related terms.
 

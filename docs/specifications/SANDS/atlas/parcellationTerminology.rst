@@ -2,16 +2,15 @@
 ParcellationTerminology
 #######################
 
-https://openminds.ebrains.eu/sands/ParcellationTerminology
-----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationTerminology
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 :Optional: `definedIn <definedIn_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _definedIn_heading:
 
+*********
 definedIn
----------
+*********
 
 Reference to a file instance in which something is stored.
 
@@ -38,8 +38,9 @@ Reference to a file instance in which something is stored.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -56,8 +57,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _isAlternativeVersionOf_heading:
 
+**********************
 isAlternativeVersionOf
-----------------------
+**********************
 
 Reference to an original form where the essence was preserved, but presented in an alternative form.
 
@@ -74,8 +76,9 @@ Reference to an original form where the essence was preserved, but presented in 
 
 .. _isNewVersionOf_heading:
 
+**************
 isNewVersionOf
---------------
+**************
 
 Reference to a previous (potentially outdated) particular form of something.
 
@@ -92,8 +95,9 @@ Reference to a previous (potentially outdated) particular form of something.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -110,8 +114,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 
@@ -128,8 +133,9 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 
@@ -146,8 +152,9 @@ Term or code used to identify the version of something.
 
 .. _versionInnovation_heading:
 
+*****************
 versionInnovation
------------------
+*****************
 
 Documentation on what changed in comparison to a previously published form of something.
 

@@ -2,16 +2,15 @@
 CustomAnatomicalEntity
 ######################
 
-https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
----------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `hasAnnotation <hasAnnotation_heading_>`_, `relationAssessment <relationAssessment_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _hasAnnotation_heading:
 
+*************
 hasAnnotation
--------------
+*************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ hasAnnotation
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -54,8 +55,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _relationAssessment_heading:
 
+******************
 relationAssessment
-------------------
+******************
 
 .. admonition:: specifications
 

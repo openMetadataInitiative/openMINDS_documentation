@@ -2,18 +2,17 @@
 TissueSample
 ############
 
-https://openminds.ebrains.eu/core/TissueSample
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/TissueSample
 
 Structured information on a tissue sample.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type <type_heading_>`_
 :Optional: `isPartOf <isPartOf_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _biologicalSex_heading:
 
+*************
 biologicalSex
--------------
+*************
 
 Differentiation of individuals of most species (animals and plants) based on the type of gametes they produce.
 
@@ -40,8 +40,9 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 .. _internalIdentifier_heading:
 
+******************
 internalIdentifier
-------------------
+******************
 
 Term or code that identifies someone or something within a particular product.
 
@@ -58,8 +59,9 @@ Term or code that identifies someone or something within a particular product.
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -76,8 +78,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _laterality_heading:
 
+**********
 laterality
-----------
+**********
 
 Differentiation between a pair of lateral homologous parts of the body.
 
@@ -94,8 +97,9 @@ Differentiation between a pair of lateral homologous parts of the body.
 
 .. _lookupLabel_heading:
 
+***********
 lookupLabel
------------
+***********
 
 .. admonition:: specifications
 
@@ -110,8 +114,9 @@ lookupLabel
 
 .. _origin_heading:
 
+******
 origin
-------
+******
 
 Source at which something begins or rises, or from which something derives.
 
@@ -128,8 +133,9 @@ Source at which something begins or rises, or from which something derives.
 
 .. _phenotype_heading:
 
+*********
 phenotype
----------
+*********
 
 Physical expression of one or more genes of an organism.
 
@@ -146,8 +152,9 @@ Physical expression of one or more genes of an organism.
 
 .. _species_heading:
 
+*******
 species
--------
+*******
 
 Category of biological classification comprising related organisms or populations potentially capable of interbreeding, and being designated by a binomial that consists of the name of a genus followed by a Latin or latinized uncapitalized noun or adjective.
 
@@ -164,8 +171,9 @@ Category of biological classification comprising related organisms or population
 
 .. _strain_heading:
 
+******
 strain
-------
+******
 
 Group of presumed common ancestry with physiological but usually not morphological distinctions.
 
@@ -182,8 +190,9 @@ Group of presumed common ancestry with physiological but usually not morphologic
 
 .. _studiedState_heading:
 
+************
 studiedState
-------------
+************
 
 Reference to a point in time at which something or someone was studied in a particular mode or condition.
 
@@ -200,8 +209,9 @@ Reference to a point in time at which something or someone was studied in a part
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 

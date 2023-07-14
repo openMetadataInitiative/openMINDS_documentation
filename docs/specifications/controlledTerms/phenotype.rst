@@ -2,18 +2,17 @@
 Phenotype
 #########
 
-https://openminds.ebrains.eu/controlledTerms/Phenotype
-------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/controlledTerms/Phenotype
 
 Structured information on the phenotype of a subject.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_
 :Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _definition_heading:
 
+**********
 definition
-----------
+**********
 
 Short, but precise statement of the meaning of a word, word group, sign or a symbol.
 
@@ -40,8 +40,9 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -58,8 +59,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -76,8 +78,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 

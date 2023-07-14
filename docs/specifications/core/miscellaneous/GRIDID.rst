@@ -2,18 +2,17 @@
 GRIDID
 ######
 
-https://openminds.ebrains.eu/core/GRIDID
-----------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/GRIDID
 
 A GRID (Global Research Identifier Database) identifier.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required:
 :Optional: `identifier <identifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

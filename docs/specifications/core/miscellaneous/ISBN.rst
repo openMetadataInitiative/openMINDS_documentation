@@ -2,18 +2,17 @@
 ISBN
 ####
 
-https://openminds.ebrains.eu/core/ISBN
---------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ISBN
 
 An International Standard Book Number of the International ISBN Agency.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required:
 :Optional: `identifier <identifier_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _identifier_heading:
 
+**********
 identifier
-----------
+**********
 
 Term or code used to identify something or someone.
 

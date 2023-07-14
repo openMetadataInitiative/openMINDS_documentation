@@ -2,18 +2,17 @@
 ParameterSet
 ############
 
-https://openminds.ebrains.eu/core/ParameterSet
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/ParameterSet
 
 Structured information on a used parameter set.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `context <context_heading_>`_, `parameter <parameter_heading_>`_, `relevantFor <relevantFor_heading_>`_
 :Optional:
@@ -22,8 +21,9 @@ Properties
 
 .. _context_heading:
 
+*******
 context
--------
+*******
 
 .. admonition:: specifications
 
@@ -38,8 +38,9 @@ context
 
 .. _parameter_heading:
 
+*********
 parameter
----------
+*********
 
 Digital or physical property determining a particular function, characteristic or behavior of something.
 
@@ -56,8 +57,9 @@ Digital or physical property determining a particular function, characteristic o
 
 .. _relevantFor_heading:
 
+***********
 relevantFor
------------
+***********
 
 Reference to what or whom something or someone bears siginificance.
 

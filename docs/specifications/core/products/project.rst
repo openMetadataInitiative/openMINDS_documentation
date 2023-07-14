@@ -2,18 +2,17 @@
 Project
 #######
 
-https://openminds.ebrains.eu/core/Project
------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Project
 
 Structured information on a research project.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasResearchProducts <hasResearchProducts_heading_>`_, `shortName <shortName_heading_>`_
 :Optional: `coordinator <coordinator_heading_>`_, `homepage <homepage_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _coordinator_heading:
 
+***********
 coordinator
------------
+***********
 
 Legal person who organizes the collaborative work of people or groups.
 
@@ -40,8 +40,9 @@ Legal person who organizes the collaborative work of people or groups.
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -58,8 +59,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -76,8 +78,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _hasResearchProducts_heading:
 
+*******************
 hasResearchProducts
--------------------
+*******************
 
 Reference to subsidiary research products.
 
@@ -94,8 +97,9 @@ Reference to subsidiary research products.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -112,8 +116,9 @@ Main website of something or someone.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

@@ -2,18 +2,17 @@
 FileBundle
 ##########
 
-https://openminds.ebrains.eu/core/FileBundle
---------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/FileBundle
 
 Structured information on a bundle of file instances.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
 :Optional: `format <format_heading_>`_, `groupedBy <groupedBy_heading_>`_, `hash <hash_heading_>`_, `patternOfFilenames <patternOfFilenames_heading_>`_, `storageSize <storageSize_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 
@@ -40,8 +40,9 @@ Method of digitally organizing and structuring data or information.
 
 .. _groupedBy_heading:
 
+*********
 groupedBy
----------
+*********
 
 Reference to the aspect used to group something.
 
@@ -58,8 +59,9 @@ Reference to the aspect used to group something.
 
 .. _hash_heading:
 
+****
 hash
-----
+****
 
 Term used for the process of converting any data into a single value. Often also directly refers to the resulting single value.
 
@@ -76,8 +78,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -94,8 +97,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -112,8 +116,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _patternOfFilenames_heading:
 
+******************
 patternOfFilenames
-------------------
+******************
 
 Reliable sample / structure of characters valid for all names in a particular collection of files.
 
@@ -130,8 +135,9 @@ Reliable sample / structure of characters valid for all names in a particular co
 
 .. _storageSize_heading:
 
+***********
 storageSize
------------
+***********
 
 Quantitative value defining how much disk space is used by an object on a computer system.
 

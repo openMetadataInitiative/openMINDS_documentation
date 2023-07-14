@@ -2,16 +2,15 @@
 ParcellationEntity
 ##################
 
-https://openminds.ebrains.eu/sands/ParcellationEntity
------------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/sands/ParcellationEntity
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_, `relatedUBERONTerm <relatedUBERONTerm_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 :Optional: `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_
@@ -20,8 +19,9 @@ Properties
 
 .. _hasAnnotation_heading:
 
+*************
 hasAnnotation
--------------
+*************
 
 .. admonition:: specifications
 
@@ -36,8 +36,9 @@ hasAnnotation
 
 .. _hasParent_heading:
 
+*********
 hasParent
----------
+*********
 
 Reference to a parent object or legal person.
 
@@ -54,8 +55,9 @@ Reference to a parent object or legal person.
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -72,8 +74,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -90,8 +93,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _ontologyIdentifier_heading:
 
+******************
 ontologyIdentifier
-------------------
+******************
 
 Term or code used to identify something or someone registered within a particular ontology.
 
@@ -108,8 +112,9 @@ Term or code used to identify something or someone registered within a particula
 
 .. _relatedUBERONTerm_heading:
 
+*****************
 relatedUBERONTerm
------------------
+*****************
 
 .. admonition:: specifications
 
@@ -124,8 +129,9 @@ relatedUBERONTerm
 
 .. _relationAssessment_heading:
 
+******************
 relationAssessment
-------------------
+******************
 
 .. admonition:: specifications
 
@@ -140,8 +146,9 @@ relationAssessment
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 
@@ -158,8 +165,9 @@ Term or code used to identify the version of something.
 
 .. _versionInnovation_heading:
 
+*****************
 versionInnovation
------------------
+*****************
 
 Documentation on what changed in comparison to a previously published form of something.
 

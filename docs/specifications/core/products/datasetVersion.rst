@@ -2,18 +2,17 @@
 DatasetVersion
 ##############
 
-https://openminds.ebrains.eu/core/DatasetVersion
-------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/DatasetVersion
 
 Structured information on data originating from human/animal studies or simulations (version level).
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `accessibility <accessibility_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `ethicsAssessment <ethicsAssessment_heading_>`_, `experimentalApproach <experimentalApproach_heading_>`_, `fullDocumentation <fullDocumentation_heading_>`_, `funding <funding_heading_>`_, `license <license_heading_>`_, `protocol <protocol_heading_>`_, `releaseDate <releaseDate_heading_>`_, `shortName <shortName_heading_>`_, `type <type_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 :Optional: `author <author_heading_>`_, `copyright <copyright_heading_>`_, `custodian <custodian_heading_>`_, `description <description_heading_>`_, `fullName <fullName_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_, `inputData <inputData_heading_>`_, `isAlternativeVersionOf <isAlternativeVersionOf_heading_>`_, `isNewVersionOf <isNewVersionOf_heading_>`_, `keyword <keyword_heading_>`_, `otherContribution <otherContribution_heading_>`_, `relatedPublication <relatedPublication_heading_>`_, `repository <repository_heading_>`_, `studiedSpecimen <studiedSpecimen_heading_>`_, `supportChannel <supportChannel_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _accessibility_heading:
 
+*************
 accessibility
--------------
+*************
 
 Level to which something is accessible to someone or something.
 
@@ -40,8 +40,9 @@ Level to which something is accessible to someone or something.
 
 .. _author_heading:
 
+******
 author
-------
+******
 
 Creator of a literary or creative work, as well as a dataset publication.
 
@@ -58,8 +59,9 @@ Creator of a literary or creative work, as well as a dataset publication.
 
 .. _copyright_heading:
 
+*********
 copyright
----------
+*********
 
 Exclusive and assignable legal right of an originator to reproduce, publish, sell, or distribute the matter and form of a creative work for a defined time period.
 
@@ -76,8 +78,9 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
 .. _custodian_heading:
 
+*********
 custodian
----------
+*********
 
 The 'custodian' is a legal person who is responsible for the content and quality of the data, metadata, and/or code of a research product.
 
@@ -94,8 +97,9 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
 .. _description_heading:
 
+***********
 description
------------
+***********
 
 Longer statement or account giving the characteristics of someone or something.
 
@@ -112,8 +116,9 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -130,8 +135,9 @@ Digital handle to identify objects or legal persons.
 
 .. _ethicsAssessment_heading:
 
+****************
 ethicsAssessment
-----------------
+****************
 
 Judgment about the applied principles of conduct governing an individual or a group.
 
@@ -148,8 +154,9 @@ Judgment about the applied principles of conduct governing an individual or a gr
 
 .. _experimentalApproach_heading:
 
+********************
 experimentalApproach
---------------------
+********************
 
 .. admonition:: specifications
 
@@ -164,8 +171,9 @@ experimentalApproach
 
 .. _fullDocumentation_heading:
 
+*****************
 fullDocumentation
------------------
+*****************
 
 Non-abridged instructions, comments, and information for using a particular product.
 
@@ -182,8 +190,9 @@ Non-abridged instructions, comments, and information for using a particular prod
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -200,8 +209,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _funding_heading:
 
+*******
 funding
--------
+*******
 
 Money provided by a legal person for a particular purpose.
 
@@ -218,8 +228,9 @@ Money provided by a legal person for a particular purpose.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -236,8 +247,9 @@ Main website of something or someone.
 
 .. _howToCite_heading:
 
+*********
 howToCite
----------
+*********
 
 Preferred format for citing a particular object or legal person.
 
@@ -254,8 +266,9 @@ Preferred format for citing a particular object or legal person.
 
 .. _inputData_heading:
 
+*********
 inputData
----------
+*********
 
 Data that is put into a process or machine.
 
@@ -272,8 +285,9 @@ Data that is put into a process or machine.
 
 .. _isAlternativeVersionOf_heading:
 
+**********************
 isAlternativeVersionOf
-----------------------
+**********************
 
 Reference to an original form where the essence was preserved, but presented in an alternative form.
 
@@ -290,8 +304,9 @@ Reference to an original form where the essence was preserved, but presented in 
 
 .. _isNewVersionOf_heading:
 
+**************
 isNewVersionOf
---------------
+**************
 
 Reference to a previous (potentially outdated) particular form of something.
 
@@ -308,8 +323,9 @@ Reference to a previous (potentially outdated) particular form of something.
 
 .. _keyword_heading:
 
+*******
 keyword
--------
+*******
 
 Significant word or concept that are representative of something or someone.
 
@@ -326,8 +342,9 @@ Significant word or concept that are representative of something or someone.
 
 .. _license_heading:
 
+*******
 license
--------
+*******
 
 Grant by a party to another party as an element of an agreement between those parties that permits to do, use, or own something.
 
@@ -344,8 +361,9 @@ Grant by a party to another party as an element of an agreement between those pa
 
 .. _otherContribution_heading:
 
+*****************
 otherContribution
------------------
+*****************
 
 Giving or supplying of something (such as money or time) as a part or share other than what is covered elsewhere.
 
@@ -362,8 +380,9 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
 .. _protocol_heading:
 
+********
 protocol
---------
+********
 
 Plan that describes the process of a scientific or medical experiment, treatment, or procedure.
 
@@ -380,8 +399,9 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
 .. _relatedPublication_heading:
 
+******************
 relatedPublication
-------------------
+******************
 
 Reference to something that was made available for the general public to see or buy.
 
@@ -398,8 +418,9 @@ Reference to something that was made available for the general public to see or 
 
 .. _releaseDate_heading:
 
+***********
 releaseDate
------------
+***********
 
 Fixed date on which a product is due to become or was made available for the general public to see or buy
 
@@ -416,8 +437,9 @@ Fixed date on which a product is due to become or was made available for the gen
 
 .. _repository_heading:
 
+**********
 repository
-----------
+**********
 
 Place, room, or container where something is deposited or stored.
 
@@ -434,8 +456,9 @@ Place, room, or container where something is deposited or stored.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 
@@ -452,8 +475,9 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. _studiedSpecimen_heading:
 
+***************
 studiedSpecimen
----------------
+***************
 
 .. admonition:: specifications
 
@@ -468,8 +492,9 @@ studiedSpecimen
 
 .. _supportChannel_heading:
 
+**************
 supportChannel
---------------
+**************
 
 Way of communication used to interact with users or customers.
 
@@ -486,8 +511,9 @@ Way of communication used to interact with users or customers.
 
 .. _type_heading:
 
+****
 type
-----
+****
 
 Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
 
@@ -504,8 +530,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. _versionIdentifier_heading:
 
+*****************
 versionIdentifier
------------------
+*****************
 
 Term or code used to identify the version of something.
 
@@ -522,8 +549,9 @@ Term or code used to identify the version of something.
 
 .. _versionInnovation_heading:
 
+*****************
 versionInnovation
------------------
+*****************
 
 Documentation on what changed in comparison to a previously published form of something.
 

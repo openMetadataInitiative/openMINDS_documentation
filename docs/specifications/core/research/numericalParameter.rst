@@ -2,16 +2,15 @@
 NumericalParameter
 ##################
 
-https://openminds.ebrains.eu/core/NumericalParameter
-----------------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/NumericalParameter
+
 
 ------------
 
 ------------
 
-**********
 Properties
-**********
+##########
 
 :Required: `name <name_heading_>`_, `value <value_heading_>`_
 :Optional:
@@ -20,8 +19,9 @@ Properties
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -38,8 +38,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _value_heading:
 
+*****
 value
------
+*****
 
 Entry for a property.
 

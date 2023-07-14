@@ -2,18 +2,17 @@
 Organization
 ############
 
-https://openminds.ebrains.eu/core/Organization
-----------------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/Organization
 
 Structured information on an organization.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `fullName <fullName_heading_>`_
 :Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _digitalIdentifier_heading:
 
+*****************
 digitalIdentifier
------------------
+*****************
 
 Digital handle to identify objects or legal persons.
 
@@ -40,8 +40,9 @@ Digital handle to identify objects or legal persons.
 
 .. _fullName_heading:
 
+********
 fullName
---------
+********
 
 Whole, non-abbreviated name of something or somebody.
 
@@ -58,8 +59,9 @@ Whole, non-abbreviated name of something or somebody.
 
 .. _hasParent_heading:
 
+*********
 hasParent
----------
+*********
 
 Reference to a parent object or legal person.
 
@@ -76,8 +78,9 @@ Reference to a parent object or legal person.
 
 .. _homepage_heading:
 
+********
 homepage
---------
+********
 
 Main website of something or someone.
 
@@ -94,8 +97,9 @@ Main website of something or someone.
 
 .. _shortName_heading:
 
+*********
 shortName
----------
+*********
 
 Shortened or fully abbreviated name of something or somebody.
 

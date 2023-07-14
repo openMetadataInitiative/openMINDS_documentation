@@ -2,18 +2,17 @@
 File
 ####
 
-https://openminds.ebrains.eu/core/File
---------------------------------------
+:Semantic name:: https://openminds.ebrains.eu/core/File
 
 Structured information on a file instance that is accessible via a URL.
 
-------------
 
 ------------
 
-**********
+------------
+
 Properties
-**********
+##########
 
 :Required: `IRI <IRI_heading_>`_, `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
 :Optional: `content <content_heading_>`_, `fileRepository <fileRepository_heading_>`_, `format <format_heading_>`_, `hash <hash_heading_>`_, `specialUsageRole <specialUsageRole_heading_>`_, `storageSize <storageSize_heading_>`_
@@ -22,8 +21,9 @@ Properties
 
 .. _IRI_heading:
 
+***
 IRI
----
+***
 
 Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
 
@@ -40,8 +40,9 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. _content_heading:
 
+*******
 content
--------
+*******
 
 Something that is contained.
 
@@ -58,8 +59,9 @@ Something that is contained.
 
 .. _fileRepository_heading:
 
+**************
 fileRepository
---------------
+**************
 
 .. admonition:: specifications
 
@@ -74,8 +76,9 @@ fileRepository
 
 .. _format_heading:
 
+******
 format
-------
+******
 
 Method of digitally organizing and structuring data or information.
 
@@ -92,8 +95,9 @@ Method of digitally organizing and structuring data or information.
 
 .. _hash_heading:
 
+****
 hash
-----
+****
 
 Term used for the process of converting any data into a single value. Often also directly refers to the resulting single value.
 
@@ -110,8 +114,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. _isPartOf_heading:
 
+********
 isPartOf
---------
+********
 
 Reference to the ensemble of multiple things or beings.
 
@@ -128,8 +133,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. _name_heading:
 
+****
 name
-----
+****
 
 Word or phrase that constitutes the distinctive designation of a being or thing.
 
@@ -146,8 +152,9 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. _specialUsageRole_heading:
 
+****************
 specialUsageRole
-----------------
+****************
 
 Particular function of something when it is used.
 
@@ -164,8 +171,9 @@ Particular function of something when it is used.
 
 .. _storageSize_heading:
 
+***********
 storageSize
------------
+***********
 
 Quantitative value defining how much disk space is used by an object on a computer system.
 
