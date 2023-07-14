@@ -16,7 +16,7 @@ behavioral protocol
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ coordinate space
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ protocol
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ study target
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -88,7 +88,7 @@ subject
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -106,7 +106,7 @@ subject group
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -124,7 +124,7 @@ technique
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -142,7 +142,7 @@ tissue sample
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -160,7 +160,7 @@ tissue sample collection
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
    :definition: \-
    :description: \-
-   |
+
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
