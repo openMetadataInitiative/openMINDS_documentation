@@ -18,7 +18,6 @@ ex vivo
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: ex vivo technique
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/88
    :InterLex ID: http://uri.interlex.org/base/ilx_0739736
@@ -36,7 +35,6 @@ in silico
    :semantic name: https://openminds.ebrains.eu/instances/preparationType/inSilico
    :definition: Conducted or produced by means of computer modelling or simulation.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ in situ
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: in situ technique
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu
    :InterLex ID: http://uri.interlex.org/ilx_0739593
@@ -76,7 +73,6 @@ in utero
    :semantic name: https://openminds.ebrains.eu/instances/preparationType/inUtero
    :definition: Something happening in, within, or while inside the uterus.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: in utero technique
@@ -98,7 +94,6 @@ in vitro
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: in vitro technique
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro
    :InterLex ID: http://uri.interlex.org/base/ilx_0739568
@@ -116,7 +111,6 @@ in vivo
    :semantic name: https://openminds.ebrains.eu/instances/preparationType/inVivo
    :definition: Something happening or existing inside a living body.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: in vivo technique

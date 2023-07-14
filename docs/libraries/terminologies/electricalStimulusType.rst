@@ -18,7 +18,6 @@ direct current
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: DC
    :preferred ontology ID: \-
    :InterLex ID: \-

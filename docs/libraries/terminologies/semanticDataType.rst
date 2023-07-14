@@ -18,7 +18,6 @@ derived data
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ experimental data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ raw data
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ simulated data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

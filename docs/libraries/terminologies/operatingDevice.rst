@@ -18,7 +18,6 @@ desktop
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q56155
    :InterLex ID: \-
@@ -36,7 +35,6 @@ embedded system
    :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ high-performance computer
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q121117
    :InterLex ID: \-
@@ -76,7 +73,6 @@ mobile
    :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/mobile
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ neuromorphic computer
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q56270917
    :InterLex ID: \-
@@ -118,7 +113,6 @@ server
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q64729893
    :InterLex ID: \-
@@ -136,7 +130,6 @@ web
    :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/web
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

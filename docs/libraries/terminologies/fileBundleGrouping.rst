@@ -18,7 +18,6 @@ behavioral protocol
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ coordinate space
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ protocol
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ study target
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ subject
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ subject group
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -158,7 +151,6 @@ tissue sample
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -176,7 +168,6 @@ tissue sample collection
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

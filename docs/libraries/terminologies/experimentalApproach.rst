@@ -18,7 +18,6 @@ anatomy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: anatomical approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Anatomy
    :InterLex ID: http://uri.interlex.org/base/ilx_0739411
@@ -36,7 +35,6 @@ behavior
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/behavior
    :definition: Any experimental approach focused on the mechanical activity or cognitive processes underlying mechanical activity of living organisms often in response to external sensory stimuli.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: behavioral approach
@@ -58,7 +56,6 @@ biophysics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: http://uri.interlex.org/base/ilx_0793772
@@ -76,7 +73,6 @@ cell biology
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology
    :definition: Any experimental approach focused on structure, function, multiplication, pathology, and life history of biological cells.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: cellular approach
@@ -98,7 +94,6 @@ cell morphology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/CellMorphology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739394
@@ -116,7 +111,6 @@ cell population characterization
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharacterization
    :definition: Any experimental approach focused on biochemical, molecular and/or physiological characteristics of populations of cells as opposed to individual cells.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ cell population imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/CellPopulationImaging
    :InterLex ID: http://uri.interlex.org/base/ilx_0739402
@@ -156,7 +149,6 @@ cell population manipulation
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipulation
    :definition: Any experimental approach focused on manipulation of biochemical, molecular, or physiological characteristics of populations of cells.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ chemogenetics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ clinical research
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch
    :definition: Any experimental approach focused on medical observation, treatment, or testing of patients.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: clinical approach
@@ -218,7 +208,6 @@ computational modeling
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/ComputationalModelling
    :InterLex ID: http://uri.interlex.org/base/ilx_0739414
@@ -236,7 +225,6 @@ developmental biology
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology
    :definition: Any experimental approach focused on life cycle, development, or developmental history of an organism.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: developmental approach
@@ -258,7 +246,6 @@ ecology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: ecological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Ecology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739389
@@ -276,7 +263,6 @@ electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology
    :definition: Any experimental approach focused on electrical phenomena associated with living systems, most notably the nervous system, cardiac system, and musculoskeletal system.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ epidemiology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: epidemiological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739400
@@ -316,7 +301,6 @@ epigenomics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics
    :definition: Any experimental approach focused on processes that modulate transcription but that do not directly alter the primary sequences of an organism's DNA.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ ethology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: ethological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Ethology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739388
@@ -356,7 +339,6 @@ evolutionary biology
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology
    :definition: Any experimental approach focused on heritable characteristics of biological populations and their variation through the modification of developmental process to produce new forms and species.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: evolutionary approach
@@ -378,7 +360,6 @@ expression
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: molecular expression approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Expression
    :InterLex ID: http://uri.interlex.org/base/ilx_0739397
@@ -396,7 +377,6 @@ expression characterization
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacterization
    :definition: Any experimental approach focused on the cellular, anatomical, or morphological distribution of gene expression.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -418,7 +398,6 @@ genetics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -436,7 +415,6 @@ genomics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/genomics
    :definition: Any experimental approach focused on structure, function, evolution, and mapping of genomes, the entiretiy of the genetic material of a single organism.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -458,7 +436,6 @@ histology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: histological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Histology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739399
@@ -476,7 +453,6 @@ informatics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/informatics
    :definition: Any experimental approach focused on collection, classification, storage, retrieval, analysis, visualization, and dissemination of recorded knowledge in computational systems.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -498,7 +474,6 @@ metabolomics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Metabolomics
    :InterLex ID: http://uri.interlex.org/base/ilx_0741203
@@ -516,7 +491,6 @@ microscopy
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/microscopy
    :definition: Any experimental approach focused on using differential contrast of microscopic structures to form an image.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -538,7 +512,6 @@ morphology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: morphological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Morphology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739403
@@ -556,7 +529,6 @@ multimodal research
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch
    :definition: Any experimental approach that employs multiple experimental approaches in significant ways.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: multimodal approach
@@ -578,7 +550,6 @@ multiomics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Multiomics
    :InterLex ID: http://uri.interlex.org/base/ilx_0739407
@@ -596,7 +567,6 @@ neural connectivity
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity
    :definition: Any experimental approach focused on functional or anatomical connections between single neurons or populations of neurons in defined anatomical regions.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -618,7 +588,6 @@ neuroimaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Neuroimaging
    :InterLex ID: http://uri.interlex.org/base/ilx_0741206
@@ -636,7 +605,6 @@ omics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/omics
    :definition: Any experimental approach focused on characterization and quantification of biological molecules that give rise to the structure, function, and dynamics of organisms or their parts.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -658,7 +626,6 @@ optogenetics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -676,7 +643,6 @@ pharmacology
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
    :definition: 'Pharmacology' is an experimental approach in which the composition, properties, functions, sources, synthesis and design of drugs (any artificial, natural, or endogenous molecule) and their biochemical or physiological effect (normal or abnormal) on a cell, tissue, organ, or organism are studied. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Pharmacology)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -698,7 +664,6 @@ physiology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: physiological approach
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Physiology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739410
@@ -716,7 +681,6 @@ proteomics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/proteomics
    :definition: Any experimental approach focused on the composition, structure, and activity of an entire set of proteins in organisms or their parts.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -738,7 +702,6 @@ radiology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/Radiology
    :InterLex ID: http://uri.interlex.org/base/ilx_0739390
@@ -758,7 +721,6 @@ spatial transcriptomics
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/modality/SpatialTranscriptomics
    :InterLex ID: http://uri.interlex.org/base/ilx_0739396
@@ -776,7 +738,6 @@ transcriptomics
    :semantic name: https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics
    :definition: Any experimental approach focused on the transcriptome (all RNA transcripts) of one or more cells, tissues, or organisms.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

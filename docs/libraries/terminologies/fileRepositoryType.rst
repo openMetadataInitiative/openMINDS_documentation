@@ -18,7 +18,6 @@ FTP repository
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: file transfer protocol repository
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ Git repository
    :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/git
    :definition: A Git repository offers version control and source code management functionalities.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: Git repository, Git remote repository, remote Git repository, GitHub repository, GitLab repository
@@ -58,7 +56,6 @@ git-annex repository
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ GPFS repository
    :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
    :definition: GPFS, short for General Parallel File System is a high-performance clustered file system developed by IBM
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ Amazon S3 repository
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: S3 repository, Amazon Simple Storage Service repository
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -118,7 +113,6 @@ Seafile repository
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -136,7 +130,6 @@ Swift repository
    :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/swift
    :definition: A Swift repository uses the long-term cloud storage of the OpenStack Object Store project which is particularly designed for retrieving and updating large amounts of static data without the need of a central point of control.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

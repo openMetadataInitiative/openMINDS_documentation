@@ -18,7 +18,6 @@ fixated
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ free floating
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/freeFloating
    :definition: A specimen that has been suspended in solution for further handling or experimental steps (e.g., immunohistochemical staining), or temporary storage before further use.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ labeled
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ mounted
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted
    :definition: A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ stained
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -118,7 +113,6 @@ unstained
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -136,7 +130,6 @@ untreated
    :semantic name: https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated
    :definition: A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

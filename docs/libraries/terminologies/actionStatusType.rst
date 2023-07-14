@@ -18,7 +18,6 @@ active
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: active action status, active action
    :preferred ontology ID: https://schema.org/ActiveActionStatus
    :InterLex ID: \-
@@ -36,7 +35,6 @@ completed
    :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/completed
    :definition: An action that has already taken place with a successful outcome.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: completed action status, completed action, finished successfully
@@ -58,7 +56,6 @@ failed
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: failed action status, failed action, finished unsuccessfully, error
    :preferred ontology ID: https://schema.org/FailedActionStatus
    :InterLex ID: \-
@@ -76,7 +73,6 @@ inactive
    :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/inactive
    :definition: A pending or suspended action.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: inactive action status, inactive action
@@ -98,7 +94,6 @@ paused
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: paused action type, paused action, suspended
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -118,7 +113,6 @@ pending
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: queued, pending action type, pending action
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -136,7 +130,6 @@ potential
    :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/potential
    :definition: A description of an action that is supported.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: potential action type, potential action

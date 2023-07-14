@@ -18,7 +18,6 @@ landmark based
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ stereotactic
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
    :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to loacte specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

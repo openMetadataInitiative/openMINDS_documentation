@@ -18,7 +18,6 @@ data descriptor
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ logo
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/logo
    :definition: A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ preview
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ screenshot
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
    :definition: A screenshot is an image of the content displayed on the screen of a computer or mobile device.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

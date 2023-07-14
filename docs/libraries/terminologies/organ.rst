@@ -18,7 +18,6 @@ brain
    :description: The brain is the center of the nervous system in all vertebrate, and most invertebrate, animals. Some primitive animals such as jellyfish and starfish have a decentralized nervous system without a brain, while sponges lack any nervous system at all. In vertebrates, the brain is located in the head, protected by the skull and close to the primary sensory apparatus of vision, hearing, balance, taste, and smell[WP].
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000955
    :InterLex ID: http://uri.interlex.org/base/ilx_0101431
@@ -36,7 +35,6 @@ heart
    :semantic name: https://openminds.ebrains.eu/instances/organ/heart
    :definition: 'Heart' is part of the cardiovascular system
    :description: A myogenic muscular circulatory organ found in the vertebrate cardiovascular system composed of chambers of cardiac muscle. It is the primary circulatory organ.
-   ------------
    ------------
    ------------
    :synonyms: chambered heart, vertebrate heart
@@ -58,7 +56,6 @@ liver
    :description: An exocrine gland which secretes bile and functions in metabolism of protein and carbohydrate and fat, synthesizes substances involved in the clotting of the blood, synthesizes vitamin A, detoxifies poisonous substances, stores glycogen, and breaks down worn-out erythrocytes[GO].
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002107
    :InterLex ID: http://uri.interlex.org/base/ilx_0725629
@@ -78,7 +75,6 @@ muscle
    :description: Organ consisting of a tissue made up of various elongated cells that are specialized to contract and thus to produce movement and mechanical work.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001630
    :InterLex ID: http://uri.interlex.org/base/ilx_0107218
@@ -96,7 +92,6 @@ skin
    :semantic name: https://openminds.ebrains.eu/instances/organ/skin
    :definition: 'Skin' is the organ covering the body that consists of the dermis and epidermis.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: entire skin, skin organ

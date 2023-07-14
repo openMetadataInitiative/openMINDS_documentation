@@ -18,7 +18,6 @@ network
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ network: brain region
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
    :definition: A model of one or more brain regions
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ network: microcircuit
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ network: whole brain
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
    :definition: A model of an entire brain
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ single cell
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ subcellular
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular
    :definition: A model of an entity or process contained within a cell
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ subcellular: ion channel
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ subcellular: molecular
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
    :definition: A model of the structure or behaviour of molecules
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ subcellular: signalling
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ subcellular: spine
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

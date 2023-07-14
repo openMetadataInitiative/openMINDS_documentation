@@ -18,7 +18,6 @@ chi-squared statistic
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: χ2-statistic
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ Kolmogorov-Smirnov statistic
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: KS-statistic
@@ -58,7 +56,6 @@ Kullback-Leibler divergence
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: KL divergence
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ mean squared error
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :definition: The mean squared difference between two series of values.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ t-statistic
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ z-score
    :semantic name: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :definition: The number of standard deviations by which an observed value is above or below the mean value.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

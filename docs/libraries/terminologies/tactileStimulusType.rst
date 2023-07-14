@@ -18,7 +18,6 @@ textured surface
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -38,7 +37,6 @@ vibrating object
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -56,7 +54,6 @@ vibrating surface
    :semantic name: https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

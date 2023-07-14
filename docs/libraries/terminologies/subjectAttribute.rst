@@ -18,7 +18,6 @@ alert
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ alive
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/alive
    :definition: An organism that is not dead.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ anaesthetized
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ asleep
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/asleep
    :definition: A periodic, readily reversible state of an organism with reduced awareness and typically lower metabolic activity.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ awake
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ comatose
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/comatose
    :definition: A deep state of prolonged unconsciousness in which the organism cannot be awakened (temporarily or terminally), is unresponsive and typically displays depressed cerebral activity.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ control
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ deceased
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/deceased
    :definition: An organism that is no longer living.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: dead
@@ -178,7 +170,6 @@ drugged
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: dosed, drug treated
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ freely moving
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/freelyMoving
    :definition: An organism that can move easily, without any obstacles or resistance.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ has implanted device
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ has inserted device
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice
    :definition: A typically temporary state of an organism during which a device (e.g., an electrode) is inserted to measure or stimulate bodily functions.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ head restrained
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ knockin
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/knockin
    :definition: An organism that underwent a targeted insertation of foreign genetic material in the existing genetic material (i.e. a gene).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ knockout
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -316,7 +301,6 @@ postoperative
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/postoperative
    :definition: A temporary state of an organism in the time period that immediately follows a surgical procedure.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ preoperative
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -356,7 +339,6 @@ restrained
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/restrained
    :definition: An organism that has been restrained in any way causing e.g., decreased motion range and/or increased resistance in movement.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ treated
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -396,7 +377,6 @@ untreated
    :semantic name: https://openminds.ebrains.eu/instances/subjectAttribute/untreated
    :definition: A subject in its natural state which has not been exposed to any kind of state-altering treatment.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

@@ -18,7 +18,6 @@ deterministic annotation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ probabalistic annotation
    :semantic name: https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
    :definition: A 'probabalistic annotation' provides the probability or probabilites to which an entity or a list of entities belong(s) to a defined annotation.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

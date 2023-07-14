@@ -18,7 +18,6 @@ coisogenic
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ congenic
    :semantic name: https://openminds.ebrains.eu/instances/breedingType/congenic
    :definition: 'Congenic' breeding is the production of offspring from repeated backcrossing into an inbred (background) strain, with selection for a particular marker, ideally a single gene from another strain.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ hybrid
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ inbred
    :semantic name: https://openminds.ebrains.eu/instances/breedingType/inbred
    :definition: 'Inbred' breeding (or inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ outbred
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ selective inbred
    :semantic name: https://openminds.ebrains.eu/instances/breedingType/selectiveInbred
    :definition: 'Selective inbred' breeding (or selective inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed) and have been selected based on a particular phenotype.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

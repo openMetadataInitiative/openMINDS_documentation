@@ -18,7 +18,6 @@ Android
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q94
    :InterLex ID: \-
@@ -36,7 +35,6 @@ Linux
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ MacOS
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q43627
    :InterLex ID: \-
@@ -76,7 +73,6 @@ Solaris
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ Unix
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q11368
    :InterLex ID: \-
@@ -116,7 +111,6 @@ Windows
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ Windows Phone
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q4885200
    :InterLex ID: \-
@@ -158,7 +151,6 @@ iOS
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q48493
    :InterLex ID: \-
@@ -176,7 +168,6 @@ platform independent
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

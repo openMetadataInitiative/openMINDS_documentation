@@ -18,7 +18,6 @@ ampere
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: A
    :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000011
    :InterLex ID: \-
@@ -36,7 +35,6 @@ arcdegree
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree
    :definition: An arcdegree is a measurement of a plane angle in which one full rotation is 360 degrees.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: arc degree, degree, degree of arc, °
@@ -58,7 +56,6 @@ bit
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ byte
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/byte
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ centimeter
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ core-hour
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/coreHour
    :definition: Usage of a computer processor core for one hour
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ day
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ degree Celsius
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius
    :definition: The 'degree Celsius' is a unit of temperature on the Celsius scale where the freezing point of water is at 0 °C and the boiling point of water is at 100 °C under standard atmospheric pressure.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: Celsius, degree, °C
@@ -178,7 +170,6 @@ degree Fahrenheit
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: degree, Fahrenheit, °F
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ degree Rankine
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeRankine
    :definition: The 'degree Rankine' is a unit of temperature on the Rankine scale where the freezing point of water is at 491.67 °R and the boiling point of water is at 671.64102 °R under standard atmospheric pressure.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: degree, Rankine, °R, °Ra
@@ -218,7 +208,6 @@ embryonic day
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ gigabyte
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ gigaohm
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: GΩ
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ gram
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/gram
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ hour
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -316,7 +301,6 @@ kilobyte
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilobyte
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ kilogram
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -356,7 +339,6 @@ liter
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/liter
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ megabyte
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -396,7 +377,6 @@ megaohm
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/megaohm
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: MΩ
@@ -418,7 +398,6 @@ meter
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -436,7 +415,6 @@ microampere
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere
    :definition: An electric current unit current which is equal to one millionth of an ampere or 10^[-6] A.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: µA
@@ -458,7 +436,6 @@ microgram per milliliter
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: ug/ml, µg/ml
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -476,7 +453,6 @@ micrometer
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -498,7 +474,6 @@ micromolar
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: uM, µM, µmol*m⁻³, µmol/l, µmol/m³
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -516,7 +491,6 @@ milligram per kilogram body weight
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerKilogramBodyWeight
    :definition: A milligram of a substance per kilogram of the body weight of the subject taking the substance.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: mg/kg
@@ -538,7 +512,6 @@ milligram per milliliter
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: mg/ml
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -556,7 +529,6 @@ milliliter
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -578,7 +550,6 @@ millimeter
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -596,7 +567,6 @@ millimolar
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimolar
    :definition: Millimolar is a decimal fraction of molar concentration that describes a solution as millimole per one liter of a solution.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: 10^-3 mol/L, mM, mol/m^3
@@ -618,7 +588,6 @@ millisecond
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -636,7 +605,6 @@ millisiemens
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens
    :definition: An electrical conduction unit which is equal to one thousandth of a siemen or 10^[-3] siemens.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: mS
@@ -658,7 +626,6 @@ millivolt
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: mV
    :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000247
    :InterLex ID: \-
@@ -676,7 +643,6 @@ minute
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/minute
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -698,7 +664,6 @@ molar
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: 10^3 mol/m^3, M, mol/L
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -716,7 +681,6 @@ month
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/month
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -738,7 +702,6 @@ nanoampere
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: nA
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -756,7 +719,6 @@ nanomolar
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanomolar
    :definition: Nanomolar is a decimal fraction of molar concentration describing the amount of substance (measured in nanomole) in one liter solution.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: nM, nmol*m⁻³, nmol/l, nmol/m³
@@ -778,7 +740,6 @@ ohm
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: Ω
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -796,7 +757,6 @@ percent
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage
    :definition: A 'percentage' (from Latin per centum 'by a hundred') is a quantity expressed as a fraction of 100 (amount of something in each hundred).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: %, pc, pct, percent
@@ -818,7 +778,6 @@ picoampere
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: pA
    :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0010054
    :InterLex ID: \-
@@ -836,7 +795,6 @@ radian
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/radian
    :definition: A 'radian' is the SI unit for measuring angles. One 'radian' defines the arc of a circle with the same length as the radius of that circle.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: rad
@@ -858,7 +816,6 @@ second
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -876,7 +833,6 @@ siemens
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens
    :definition: An electrical conduction unit which is equal to A/V.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: S
@@ -898,7 +854,6 @@ terabyte
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -916,7 +871,6 @@ volt
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/volt
    :definition: An electric potential difference unit which is equal to the work per unit charge. One volt is the potential difference required to move one coulomb of charge between two points in a circuit while using one joule of energy.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: V
@@ -938,7 +892,6 @@ volume per volume percentage
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: % v/v, percent v/v, v/v %, v/v percent, volume percent
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -956,7 +909,6 @@ wafer-hour
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/waferHour
    :definition: Usage of one wafer of a wafer-scale computing system for one hour
    :description: An example of such a wafer-scale system would be BrainScaleS-1
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -978,7 +930,6 @@ week
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -996,7 +947,6 @@ weight per volume percentage
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage
    :definition: Percentage of weight or mass of a dissolved, solid substance in a total volume of a solution. As per definition, the volume of a liquid is expressed in milliliter (ml) and the mass of a solute in grams (g)
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: % w/v, mass/volume percent, percent w/v, w/v %, w/v percent
@@ -1018,7 +968,6 @@ weight per weight percentage
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: % w/w, mass percent, percent w/w, w/w %, w/w percent, weight percent
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1036,7 +985,6 @@ year
    :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/year
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

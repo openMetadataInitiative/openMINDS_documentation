@@ -18,7 +18,6 @@ arterial blood
    :description: Blood that flows through an artery.
    ------------
    ------------
-   ------------
    :synonyms: arterial blood, blood in artery, portion of arterial blood
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0013755
    :InterLex ID: http://uri.interlex.org/base/ilx_0725460
@@ -38,7 +37,6 @@ blood
    :description: A bodily fluid that is composed of blood plasma and erythrocytes (blood cells).
    ------------
    ------------
-   ------------
    :synonyms: portion of blood, vertebrate blood
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000178
    :InterLex ID: http://uri.interlex.org/base/ilx_0101354
@@ -56,7 +54,6 @@ venous blood
    :semantic name: https://openminds.ebrains.eu/instances/organismSubstance/venousBlood
    :definition: 'Venous blood' is deoxygenated blood which travels from the peripheral vessels, through the venous system into the right atrium of the heart.
    :description: Blood that flows through a vein.
-   ------------
    ------------
    ------------
    :synonyms: blood in vein, portion of venous blood, venous blood

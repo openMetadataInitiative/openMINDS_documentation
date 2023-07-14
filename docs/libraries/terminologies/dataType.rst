@@ -18,7 +18,6 @@ All instances listed below can be validated against the `DataType <https://openm
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q189177
    :InterLex ID: \-
@@ -36,7 +35,6 @@ associative array
    :semantic name: https://openminds.ebrains.eu/instances/dataType/associativeArray
    :definition: A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: dictionary
@@ -58,7 +56,6 @@ event sequence
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ list
    :semantic name: https://openminds.ebrains.eu/instances/dataType/list
    :definition: A 'list' is a series of ordered scalars and/or lists.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ matrix
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q44337
    :InterLex ID: \-
@@ -116,7 +111,6 @@ raster graphic
    :semantic name: https://openminds.ebrains.eu/instances/dataType/rasterGraphic
    :definition: A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: pixel data, raster image
@@ -138,7 +132,6 @@ scalar
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q1289248
    :InterLex ID: \-
@@ -156,7 +149,6 @@ table
    :semantic name: https://openminds.ebrains.eu/instances/dataType/table
    :definition: A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: tabular data
@@ -178,7 +170,6 @@ time series
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: time-series
    :preferred ontology ID: https://www.wikidata.org/wiki/Q186588
    :InterLex ID: \-
@@ -198,7 +189,6 @@ vector graphic
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: vector image
    :preferred ontology ID: https://www.wikidata.org/wiki/Q170130
    :InterLex ID: \-
@@ -216,7 +206,6 @@ voxel data
    :semantic name: https://openminds.ebrains.eu/instances/dataType/voxelData
    :definition: 'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

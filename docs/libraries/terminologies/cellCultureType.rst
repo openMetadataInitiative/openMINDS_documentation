@@ -18,7 +18,6 @@ primary cell culture
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0452904
    :InterLex ID: http://uri.interlex.org/base/ilx_0490188
@@ -36,7 +35,6 @@ secondary cell culture
    :semantic name: https://openminds.ebrains.eu/instances/cellCultureType/secondary
    :definition: A cultured cell population that is derived through one or more passages in culture.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

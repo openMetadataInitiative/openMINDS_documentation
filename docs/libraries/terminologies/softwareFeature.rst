@@ -18,7 +18,6 @@ All instances listed below can be validated against the `SoftwareFeature <https:
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q189177
    :InterLex ID: \-
@@ -36,7 +35,6 @@ All instances listed below can be validated against the `SoftwareFeature <https:
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ All instances listed below can be validated against the `SoftwareFeature <https:
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ augmented reality
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ commandline interface
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q189053
    :InterLex ID: \-
@@ -116,7 +111,6 @@ control
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/control
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ data acquisition
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ data processing
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ desktop environment
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q56155
    :InterLex ID: \-
@@ -196,7 +187,6 @@ graph data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ graphical user interface
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q782543
    :InterLex ID: \-
@@ -236,7 +225,6 @@ heterogeneous architecture
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ interactive analysis
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ matrix data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ metadata data types
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q180160
    :InterLex ID: \-
@@ -316,7 +301,6 @@ mobile device
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ modelling
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q1116876
    :InterLex ID: \-
@@ -356,7 +339,6 @@ parallel programming
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ performance measurement
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q1771949
    :InterLex ID: \-
@@ -396,7 +377,6 @@ positional data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -418,7 +398,6 @@ presentation visualisation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q451553
    :InterLex ID: \-
@@ -436,7 +415,6 @@ profiling
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/profiling
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -458,7 +436,6 @@ provenance
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q30105403
    :InterLex ID: \-
@@ -476,7 +453,6 @@ raster image data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -498,7 +474,6 @@ scripting interface
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -516,7 +491,6 @@ simulation
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/simulation
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -538,7 +512,6 @@ statistical data types
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q7604387
    :InterLex ID: \-
@@ -556,7 +529,6 @@ tensor data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -578,7 +550,6 @@ tiled display wall
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -596,7 +567,6 @@ time series data types
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -618,7 +588,6 @@ vector image data types
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q170130
    :InterLex ID: \-
@@ -636,7 +605,6 @@ virtual reality
    :semantic name: https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

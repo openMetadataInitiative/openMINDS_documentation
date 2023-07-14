@@ -18,7 +18,6 @@ algorithm
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ cognitive modelling
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
    :definition: Modelling of cognitive processes
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ population modelling
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ population modelling: neural field
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
    :definition: Modelling neural populations using the approximation of a neural field
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ population modelling: neural mass
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ protein structure
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
    :definition: Modelling of protein structure
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ rate neurons
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ spiking neurons
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
    :definition: Modelling neural networks in which the action potentials of individual neurons are represented
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ spiking neurons: biophysical
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ spiking neurons: point neuron
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
    :definition: Modelling neural networks in which individual neurons are represented by point neuron models
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ statistical model
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ systems biology
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
    :definition: Modelling of neural systems below the level of individual neurons
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ systems biology: continuous
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -278,7 +265,6 @@ systems biology: discrete
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -296,7 +282,6 @@ systems biology: flux balance
    :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
    :definition: Systems biology modelling using flux balance analysis
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

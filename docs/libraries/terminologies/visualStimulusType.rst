@@ -18,7 +18,6 @@ moving checkerboard
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ moving grating
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ moving symbol
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ natural movie
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ natural scene
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ static checkerboard
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ static grating
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ static symbol
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

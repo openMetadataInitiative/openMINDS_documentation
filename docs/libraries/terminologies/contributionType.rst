@@ -18,7 +18,6 @@ coordination
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ data collection
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ data management
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ data processing
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ information technology support
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ laboratory assistance
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ marketing
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ metadata managment
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

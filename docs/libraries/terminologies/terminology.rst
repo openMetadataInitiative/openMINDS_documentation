@@ -18,7 +18,6 @@ UBERON parcellation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ action status type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/actionStatusType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ age category
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000105
    :InterLex ID: \-
@@ -76,7 +73,6 @@ analysis technique
    :semantic name: https://openminds.ebrains.eu/instances/terminology/analysisTechnique
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ anatomical axes orientation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ anatomical identification type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
    :definition: The type of identiciation that was used to determine an anatomical location.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ anatomical plane
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: fiat anatomical surface
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035085
    :InterLex ID: http://uri.interlex.org/ilx_0725051
@@ -156,7 +149,6 @@ annotation criteria type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
    :definition: General classification of how data were annotated.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ annotation type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ atlas type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/atlasType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ auditory stimulus type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ biological order
    :semantic name: https://openminds.ebrains.eu/instances/terminology/biologicalOrder
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ biological sex
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ breeding type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/breedingType
    :definition: The breeding type describes how plants or animals have been sexually propagated.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ cell culture type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -316,7 +301,6 @@ cell type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/cellType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ chemicalMixtureType
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -356,7 +339,6 @@ colormap
    :semantic name: https://openminds.ebrains.eu/instances/terminology/colormap
    :definition: A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ contribution type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -396,7 +377,6 @@ cranial window construction type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
    :definition: The construction type of a cranial window.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -418,7 +398,6 @@ cranial window reinforcement type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -436,7 +415,6 @@ criteria quality type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -458,7 +436,6 @@ data type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -476,7 +453,6 @@ device type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/deviceType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -498,7 +474,6 @@ difference measure
    :description: This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -516,7 +491,6 @@ disease
    :semantic name: https://openminds.ebrains.eu/instances/terminology/disease
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -538,7 +512,6 @@ disease model
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -556,7 +529,6 @@ educational level
    :semantic name: https://openminds.ebrains.eu/instances/terminology/educationalLevel
    :definition: An 'educational level' defines the developmental stage of a student and how learning environments are structured.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -578,7 +550,6 @@ electrical stimulus type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -596,7 +567,6 @@ ethics assessment
    :semantic name: https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -618,7 +588,6 @@ experimental approach
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -636,7 +605,6 @@ file bundle grouping
    :semantic name: https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -658,7 +626,6 @@ file repository type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -676,7 +643,6 @@ file usage role
    :semantic name: https://openminds.ebrains.eu/instances/terminology/fileUsageRole
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -698,7 +664,6 @@ genetic strain type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -716,7 +681,6 @@ gustatory stimulus type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
    :definition: A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -738,7 +702,6 @@ handedness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -756,7 +719,6 @@ language
    :semantic name: https://openminds.ebrains.eu/instances/terminology/language
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -778,7 +740,6 @@ laterality
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -796,7 +757,6 @@ learning resource type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/learningResourceType
    :definition: A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -818,7 +778,6 @@ measured quantity
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -836,7 +795,6 @@ measured quantity
    :semantic name: https://openminds.ebrains.eu/instances/terminology/metaDataModelType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -858,7 +816,6 @@ model abstraction level
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -876,7 +833,6 @@ model scope
    :semantic name: https://openminds.ebrains.eu/instances/terminology/modelScope
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -898,7 +854,6 @@ molecular entity
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/CHEBI_23367
    :InterLex ID: http://uri.interlex.org/base/ilx_0107064
@@ -916,7 +871,6 @@ olfactory stimulus type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
    :definition: An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -938,7 +892,6 @@ operating device
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -956,7 +909,6 @@ operating system
    :semantic name: https://openminds.ebrains.eu/instances/terminology/operatingSystem
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -978,7 +930,6 @@ optical stimulus type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -996,7 +947,6 @@ organ
    :semantic name: https://openminds.ebrains.eu/instances/terminology/organ
    :definition: Anatomical structure that performs a specific function or group of functions.
    :description: The preferred ontology for 'organ' is UBERON.
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1018,7 +968,6 @@ organism substance
    :description: The preferred ontology for 'organism substance' is UBERON.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1036,7 +985,6 @@ organism system
    :semantic name: https://openminds.ebrains.eu/instances/terminology/organismSystem
    :definition: Any anatomical or functional system in an organism, regardless of scale.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1058,7 +1006,6 @@ patch clamp variation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1076,7 +1023,6 @@ preparation type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/preparationType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1098,7 +1044,6 @@ product accessibility
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1116,7 +1061,6 @@ programming language
    :semantic name: https://openminds.ebrains.eu/instances/terminology/programmingLanguage
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1138,7 +1082,6 @@ qualitative overlap
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1156,7 +1099,6 @@ semantic data type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/semanticDataType
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1178,7 +1120,6 @@ service
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1196,7 +1137,6 @@ setup type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/setupType
    :definition: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1218,7 +1158,6 @@ software application category
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1236,7 +1175,6 @@ software feature
    :semantic name: https://openminds.ebrains.eu/instances/terminology/softwareFeature
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1258,7 +1196,6 @@ species
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1276,7 +1213,6 @@ stimulation approach
    :semantic name: https://openminds.ebrains.eu/instances/terminology/stimulationApproach
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1298,7 +1234,6 @@ stimulation technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1316,7 +1251,6 @@ subcellular entity
    :semantic name: https://openminds.ebrains.eu/instances/terminology/subcellularEntity
    :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: cellular component
@@ -1338,7 +1272,6 @@ subject attribute
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1356,7 +1289,6 @@ tactile stimulus type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
    :definition: A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1378,7 +1310,6 @@ technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1396,7 +1327,6 @@ tissue sample attribute
    :semantic name: https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1418,7 +1348,6 @@ tissue sample type
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1436,7 +1365,6 @@ type of uncertainty
    :semantic name: https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1458,7 +1386,6 @@ unit of measurement
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1476,7 +1403,6 @@ visual stimulus type
    :semantic name: https://openminds.ebrains.eu/instances/terminology/visualStimulusType
    :definition: A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

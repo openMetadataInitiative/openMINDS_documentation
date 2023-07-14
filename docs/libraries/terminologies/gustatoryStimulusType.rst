@@ -18,7 +18,6 @@ bitter substance
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ salty substance
    :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
    :definition: Any chemical compound that tastes salty.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ sour substance
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ sweet substance
    :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
    :definition: Any chemical compound that tastes sweet.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

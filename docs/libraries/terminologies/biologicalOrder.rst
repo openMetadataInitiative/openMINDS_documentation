@@ -18,7 +18,6 @@ Carnivora
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: carnivore
    :preferred ontology ID: http://purl.obolibrary.org/obo/NCBITaxon_33554
    :InterLex ID: http://uri.interlex.org/base/ilx_0101675
@@ -36,7 +35,6 @@ Cypriniformes
    :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
    :definition: The biological order *Cypriniformes* belongs to the class *Actinopterygii* (ray-finned fishes).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ Didelphimorphia
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: opossums
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ Nudibranchia
    :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
    :definition: The biological order *Nudibranchia* (nudibranchs) belongs to the class *Gastropoda* (gastropods).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: nudibranchs
@@ -98,7 +94,6 @@ Primates
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0017579
    :InterLex ID: http://uri.interlex.org/base/ilx_0486298
@@ -116,7 +111,6 @@ Rodentia
    :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
    :definition: The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: rodents

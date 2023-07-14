@@ -18,7 +18,6 @@ Gestalt visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ abstract image visual stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/abstractImageVisualStimulation
    :definition: In an 'abstract image visual stimulation' a subject is visually stimulated with a static image that does not show a natural scene but reduced information or forms (e.g., colored symbols or outlines of faces).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ checkerboard visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: checker board stimulation, checker board visual stimulation, checker-board stimulation, checker-board visual stimulation
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ current step stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulation
    :definition: Current step stimulation is a technique in which an amount of current is applied in predefined steps, whilst measuring changes in neural/muscular activity.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ drifting grating visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ electrical stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulation
    :definition: A technique used to elicit a reaction by an electrical stimulus.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ figure-ground visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ microstimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/microstimulation
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ natural image visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ natural sound auditory stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditoryStimulation
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ optogenetic stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ photon stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/photonStimulation
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ random dot motion stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: random dot visual stimulation, random dot visual stimulation technique
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ single pulse electrical stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectricalStimulation
    :definition: A 'single pulse electrical stimulation' is a cortical stimulation technique typically used in the field of epilepsy surgery.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: SPES
@@ -298,7 +284,6 @@ static grating visual stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -316,7 +301,6 @@ subliminal stimulation
    :semantic name: https://openminds.ebrains.eu/instances/technique/subliminalStimulation
    :definition: 'Subliminal stimulation' is a technique providing any sensory stimuli below an individual's threshold for conscious perception (adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli))
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ subliminal visual simulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -358,7 +341,6 @@ transcranial magnetic stimulation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -376,7 +358,6 @@ whisker stimulation
    :semantic name: https://openminds.ebrains.eu/instances/stimulationTechnique/whiskerStimulation
    :definition: 'Whisker stimulation' comprises all stimulation techniques in which a single whisker or a group of whiskers is deflected in repeatable manner.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

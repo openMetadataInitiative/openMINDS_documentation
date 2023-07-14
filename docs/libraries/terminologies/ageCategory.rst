@@ -18,7 +18,6 @@ adolescent
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: puberty
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ adult
    :semantic name: https://openminds.ebrains.eu/instances/ageCategory/adult
    :definition: 'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: adult stage, post-juvenile adult, post-juvenile adult stage
@@ -58,7 +56,6 @@ embryo
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: embryo stage, embryonic stage
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000068
    :InterLex ID: http://uri.interlex.org/base/ilx_0735599
@@ -76,7 +73,6 @@ infant
    :semantic name: https://openminds.ebrains.eu/instances/ageCategory/infant
    :definition: 'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: infant stage
@@ -98,7 +94,6 @@ juvenile
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: juvenile stage
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034919
    :InterLex ID: http://uri.interlex.org/base/ilx_0730395
@@ -116,7 +111,6 @@ late adult
    :semantic name: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
    :definition: 'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: elderly, elderly stage, geriatric, geriatric stage, late adult stage
@@ -138,7 +132,6 @@ neonate
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: neonatal stage, neonate stage
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007221
    :InterLex ID: http://uri.interlex.org/base/ilx_0732178
@@ -156,7 +149,6 @@ perinatal
    :semantic name: https://openminds.ebrains.eu/instances/ageCategory/perinatal
    :definition: 'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: perinatal stage
@@ -178,7 +170,6 @@ prime adult
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: adulthood stage, prime adult stage
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0018241
    :InterLex ID: http://uri.interlex.org/base/ilx_0733125
@@ -196,7 +187,6 @@ young adult
    :semantic name: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: early adult, early adult stage, young adult stage

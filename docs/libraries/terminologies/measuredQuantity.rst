@@ -18,7 +18,6 @@ chloride reversal potential
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ compensation current
    :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
    :definition: Current injected into a cell to maintain the membrane potential at a target value.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ holding potential
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: measured holding potential
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ input resistance
    :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
    :definition: Total resistance observed by the amplifier during an electrophysiological recording.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: access resistance
@@ -98,7 +94,6 @@ liquid junction potential
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ membrane potential
    :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
    :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ seal resistance
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ series resistance
    :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
    :definition: Resistance of the electrode during an electrophysiological recording.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: access resistance, electrode resistance

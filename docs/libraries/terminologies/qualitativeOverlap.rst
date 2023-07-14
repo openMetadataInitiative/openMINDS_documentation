@@ -18,7 +18,6 @@ partially overlaps with
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ is homologous to
    :semantic name: https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
    :definition: A set/object (A) has the same relative position, function, or structure as a set/object (B).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ is identical to
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -78,7 +75,6 @@ is subset of
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -96,7 +92,6 @@ is superset of
    :semantic name: https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
    :definition: A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

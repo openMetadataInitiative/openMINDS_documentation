@@ -18,7 +18,6 @@ common data elements
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ data repository model
    :semantic name: https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel
    :definition: A data repository model defines the file and folder naming and structure as well as partially the file content (metadata definitions) and preferred format.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ graph metadata model
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ relational metadata model
    :semantic name: https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel
    :definition: A relational metadata model defines a set of tabular metadata schemas (including their relations) as architectural base of a relational database for describing the products represented in that database.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

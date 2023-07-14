@@ -18,7 +18,6 @@ acquired blindness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0336554
    :InterLex ID: http://uri.interlex.org/base/ilx_0499758
@@ -36,7 +35,6 @@ Alzheimer's disease
    :semantic name: https://openminds.ebrains.eu/instances/disease/alzheimersDisease
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ autism sprectrum disorder
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/DOID_0060041
    :InterLex ID: \-
@@ -76,7 +73,6 @@ cerebral atrophy
    :semantic name: https://openminds.ebrains.eu/instances/disease/cerebralAtrophy
    :definition: Cerebral atrophy describes the pathological process of wasting or decrease in size of the cells or tissue of the cerebrum.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: atrophy of cerebrum, brain atrophy, degeneration of cerebrum, degeneration of brain
@@ -98,7 +94,6 @@ congenital blindness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ disorder of consciousness
    :semantic name: https://openminds.ebrains.eu/instances/disease/disorderOfConsciousness
    :definition: A 'disorder of consciousness' is a state where a subject's consciousness has been affected by damage to the brain.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: DOC, impaired consciousness
@@ -138,7 +132,6 @@ epilepsy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/DOID_1826
    :InterLex ID: \-
@@ -156,7 +149,6 @@ focal cerebral ischemia
    :semantic name: https://openminds.ebrains.eu/instances/disease/focalCerebralIschemia
    :definition: A 'focal brain ischemia' occurs when a blood clot has occluded a cerebral vessel reducing the blood flow to a specific brain region which increases the risk of cell death in that particular area. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Brain_ischemia#Focal_brain_ischemia)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: focal brain ischemia, focal ischemic brain injury
@@ -178,7 +170,6 @@ fragile X syndrome
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/DOID_14261
    :InterLex ID: \-
@@ -196,7 +187,6 @@ glioma
    :semantic name: https://openminds.ebrains.eu/instances/disease/glioma
    :definition: A benign or malignant brain and spinal cord tumor that arises from glial cells (astrocytes, oligodendrocytes, ependymal cells).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: glial neoplasm, neoplasm of the neuroglia, neuroglial neoplasm, neuroglial tumor, tumor of neuroglia, tumor of the neuroglia
@@ -218,7 +208,6 @@ malignant neoplasm
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: cancer
    :preferred ontology ID: http://purl.obolibrary.org/obo/NCIT_C9305
    :InterLex ID: http://uri.interlex.org/base/ilx_0752652
@@ -236,7 +225,6 @@ meningioma
    :semantic name: https://openminds.ebrains.eu/instances/disease/meningioma
    :definition: A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: meningeal neoplasm, meningothelial cell tumor, neoplasm of the meninges, primary meningeal tumor, supratentorial meningioma
@@ -258,7 +246,6 @@ mental disorder
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: mental disease, mental illness, psychiatric disease, psychiatric disorder
    :preferred ontology ID: http://uri.interlex.org/base/ilx_0106792
    :InterLex ID: http://uri.interlex.org/base/ilx_0106792
@@ -276,7 +263,6 @@ minimally conscious state
    :semantic name: https://openminds.ebrains.eu/instances/disease/minimallyConsciousState
    :definition: A 'minimally conscious state' (MCS) is a disorder of consciousness with partial preservation of conscious awareness. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Minimally_conscious_state)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: MCS
@@ -298,7 +284,6 @@ multiple sclerosis
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: MS, generalized multiple sclerosis
    :preferred ontology ID: http://purl.obolibrary.org/obo/DOID_2377
    :InterLex ID: http://uri.interlex.org/base/ilx_0756481
@@ -316,7 +301,6 @@ Parkinson's disease
    :semantic name: https://openminds.ebrains.eu/instances/disease/parkinsonsDisease
    :definition: Parkinson's is a progressive central nervous system disorder that affects the motor system.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ stroke
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: cerebral infaction, cerebrovascular accident, cerebrovascular disease, CVA, stroke disorder
    :preferred ontology ID: http://purl.obolibrary.org/obo/DOID_6713
    :InterLex ID: http://uri.interlex.org/ilx_0738754
@@ -358,7 +341,6 @@ unresponsive wakefulness syndrome
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: UWS, vegetative state, VS
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -376,7 +358,6 @@ Williams-Beuren syndrome
    :semantic name: https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

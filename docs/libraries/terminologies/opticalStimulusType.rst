@@ -18,7 +18,6 @@ infrared neural stimulus
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

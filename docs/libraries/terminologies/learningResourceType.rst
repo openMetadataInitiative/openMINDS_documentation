@@ -18,7 +18,6 @@ developer documentation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ interactive tutorial
    :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
    :definition: A tutorial presented in an interactive format, for example a Jupyter notebook.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ slide deck
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: slides, presentation slides
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ user documentation
    :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
    :definition: Documentation for the users of a resource.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ video presentation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ video tutorial
    :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
    :definition: A tutorial presented as a video.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

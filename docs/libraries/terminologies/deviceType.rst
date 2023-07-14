@@ -18,7 +18,6 @@ CT scanner
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: CAT scanner, computed axial tomography scanner, computed tomography scanner
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ MRI scanner
    :semantic name: https://openminds.ebrains.eu/instances/deviceType/MRIscanner
    :definition: An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: magnetic resonance imaging scanner
@@ -58,7 +56,6 @@ electronic amplifier
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: amp, amplifier
    :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_27076
    :InterLex ID: http://uri.interlex.org/base/ilx_0100567
@@ -76,7 +73,6 @@ microscope
    :semantic name: https://openminds.ebrains.eu/instances/deviceType/microscope
    :definition: A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ microtome
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/OBI_0400168
    :InterLex ID: http://uri.interlex.org/base/ilx_0106925
@@ -116,7 +111,6 @@ vibrating microtome
    :semantic name: https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome
    :definition: A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments for further treatment and ultimately microscopic or histologic examination.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: vibratome

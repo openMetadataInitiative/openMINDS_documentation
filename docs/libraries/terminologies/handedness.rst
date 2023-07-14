@@ -18,7 +18,6 @@ ambidextrous handedness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ ambilevous handedness
    :semantic name: https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
    :definition: Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ left handedness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -78,7 +75,6 @@ mixed handedness
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -96,7 +92,6 @@ right handedness
    :semantic name: https://openminds.ebrains.eu/instances/handedness/rightHandedness
    :definition: Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

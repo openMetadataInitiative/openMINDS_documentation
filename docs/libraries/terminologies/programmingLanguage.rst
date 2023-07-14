@@ -18,7 +18,6 @@ AMPL
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: A Mathematical Programming Language
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ Bash
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ C
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q15777
    :InterLex ID: \-
@@ -76,7 +73,6 @@ C#
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C#
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -98,7 +94,6 @@ C++
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q2407
    :InterLex ID: \-
@@ -116,7 +111,6 @@ Fortran
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -138,7 +132,6 @@ GLSL
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q779819
    :InterLex ID: \-
@@ -156,7 +149,6 @@ HTML
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -178,7 +170,6 @@ Java
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q251
    :InterLex ID: \-
@@ -196,7 +187,6 @@ JavaScript
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ MATLAB
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q37805571
    :InterLex ID: \-
@@ -236,7 +225,6 @@ PHP
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -258,7 +246,6 @@ Pascal
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q81571
    :InterLex ID: \-
@@ -276,7 +263,6 @@ Python
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Python
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ R
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q206904
    :InterLex ID: \-
@@ -316,7 +301,6 @@ Ruby
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ Scala
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q460584
    :InterLex ID: \-
@@ -356,7 +339,6 @@ T-SQL
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ TypeScript
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q978185
    :InterLex ID: \-
@@ -396,7 +377,6 @@ Shell
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/shell
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

@@ -18,7 +18,6 @@ All instances listed below can be validated against the `Technique <https://open
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -36,7 +35,6 @@ All instances listed below can be validated against the `Technique <https://open
    :semantic name: https://openminds.ebrains.eu/instances/technique/3DScanning
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -58,7 +56,6 @@ CLARITY/TDE
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -76,7 +73,6 @@ DAB staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/DABStaining
    :definition: In a 'DAB staining', the organic compound DAB (3, 3'-diaminobenzidine) is oxidized in presence of peroxidase and hydrogen peroxide resulting in deposition of a brown, alcohol-insoluble precipitate which can be used in immunohistochemical and blotting applications.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: 3,3′-Diaminobenzidine staining
@@ -98,7 +94,6 @@ DAPi staining
    :description: DAPi, or 4′,6-diamidino-2-phenylindole, is a blue fluorescent dye that bind strongly to adenine-thymine (AT) rich regions in DNA. It is used extensively in fluorescence microscopy and can be used on both fixated and living cells.
    ------------
    ------------
-   ------------
    :synonyms: 4′,6-diamidino-2-phenylindole staining, DAPi stain
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -116,7 +111,6 @@ Golgi staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/GolgiStaining
    :definition: 'Golgi staining' includes several silver staining techniques in which fixed tissue is impregnated with silver nitrate and potassium dichromate resulting in the complete staining of some nerve cells while other cells are not stained at all. [adapted from InterLex](http://uri.interlex.org/ilx_0104713)
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: Golgi method, black reaction
@@ -138,7 +132,6 @@ H&E staining
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: HE staining, hematoxylin and eosin staining, hematoxylin-eosin staining
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -156,7 +149,6 @@ Hoechst staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/HoechstStaining
    :definition: A nuclear-specific staining technique where a Hoechst dye is used.
    :description: Hoechst dyes are part of a family of blue fluorescent dye that bind to DNA. It acts similarly as DAPi and can also be used on both fixated and living cells.
-   ------------
    ------------
    ------------
    :synonyms: Hoechst stain
@@ -178,7 +170,6 @@ Nissl staining
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: Nissl, Nissl method
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -196,7 +187,6 @@ SDS-digested freeze-fracture replica labeling
    :semantic name: https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplicaLabeling
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -218,7 +208,6 @@ SWITCH immunohistochemistry
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -236,7 +225,6 @@ T1 pulse sequence
    :semantic name: https://openminds.ebrains.eu/instances/technique/T1PulseSequence
    :definition: In magnetic resonance imaging, a 'T1 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to recover (spin-lattice relaxation) before measuring the magnetic resonance signal by changing the repetition time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: T1 weighted imaging, T1 weighted magnetic resonance imaging, T1 weighted MRI, T1w imaging, T1w magnetic resonance imaging, T1w MRI
@@ -258,7 +246,6 @@ T2 pulse sequence
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: T2 weighted imaging, T2 weighted magnetic resonance imaging, T2 weighted MRI, T2w imaging, T2w magnetic resonance imaging, T2w MRI
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -276,7 +263,6 @@ TDE clearing
    :semantic name: https://openminds.ebrains.eu/instances/technique/TDEClearing
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -298,7 +284,6 @@ Timm's staining
    :description: The principle of this technique is that metals in the tissue can be transformed histochemically to metal sulphide. Subsequently, metal sulphide catalyze the reduction of silver ions by a reducing agent to metallic grains that are visible under a light or electron microscope.
    ------------
    ------------
-   ------------
    :synonyms: Timm's stain, Timm's sulfide silver staining
    :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/birnlex_2248
    :InterLex ID: http://uri.interlex.org/ilx_0107265
@@ -316,7 +301,6 @@ activity modulation technique
    :semantic name: https://openminds.ebrains.eu/instances/technique/activityModulationTechnique
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -338,7 +322,6 @@ anaesthesia administration
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -356,7 +339,6 @@ anaesthesia monitoring
    :semantic name: https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -378,7 +360,6 @@ anaesthesia technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -396,7 +377,6 @@ anterograde tracing
    :semantic name: https://openminds.ebrains.eu/instances/technique/anterogradeTracing
    :definition: Anterograde tracing is a technique used to trace axonal projections from their source (the cell body or soma) to their point of termination (the synapse).
    :description: Anterograde tracers are taken up by neuronal cell bodies at the injection site and travel to the axon terminals. Anterograde tracing techniques allow for a detailed assessment of neuronal connections between a target population of neurons and their outputs throughout the nervous system.
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -418,7 +398,6 @@ autoradiography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: http://uri.interlex.org/base/ilx_0439300
@@ -436,7 +415,6 @@ avidin-biotin complex staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/avidinBiotinComplexStaining
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: ABC staining
@@ -458,7 +436,6 @@ beta-galactosidase staining
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -476,7 +453,6 @@ biocytin staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/biocytinStaining
    :definition: In 'biocytin staining' the chemical compound biocytin is used to highlight morphological details of nerve cells.
    :description: Biocytin staining is a technique commonly used in combination with intracellular electrophysiology for post-hoc recovery of morphological details of the studied neurons. For this, the chemical compound biocytin is included in the electrode in order to fill the studied cell. It allows for the visualisation of the dendritic arborization and the regions targeted by the axons of the studied neurons.
-   ------------
    ------------
    ------------
    :synonyms: biocytin filling, biocytin labeling
@@ -498,7 +474,6 @@ blood sampling
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: blood collection, blood harvesting
    :preferred ontology ID: http://purl.obolibrary.org/obo/OBI_1110095
    :InterLex ID: http://uri.interlex.org/base/ilx_0782225
@@ -516,7 +491,6 @@ brightfield microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/brightfieldMicroscopy
    :definition: Brightfield microscopy is an optical microscopy techniques, in which illumination light is transmitted through the sample and the contrast is generated by the absorption of light in dense areas of the specimen.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -538,7 +512,6 @@ calcium imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -556,7 +529,6 @@ callosotomy
    :semantic name: https://openminds.ebrains.eu/instances/technique/callosotomy
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -578,7 +550,6 @@ cell attached patch clamp
    :description: Cell-attached patch clamp is a patch clamp recording technique used in electrophysiology in which the intracellular integrity of the cell is preserved. Patches are formed using either a ‘loose seal’ (mega ohm resistance) or a ‘tight seal’ (giga ohm resistance) without rupturing the cell membrane. A loose seal is used for recording action potential currents, whereas a tight seal is required for evoking action potentials in the attached cell and for recording resting and synaptic potentials.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -596,7 +567,6 @@ computer tomography
    :semantic name: https://openminds.ebrains.eu/instances/technique/computerTomography
    :definition: 'Computer tomogoraphy' is a noninvasive medical imaging technique where a computer generates multiple X-ray scans to obtain detailed internal 3D image of the body.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: CAT, computed axial tomography, computed tomography, computertomography, CT
@@ -618,7 +588,6 @@ confocal microscopy
    :description: Confocal microscopy focuses light onto a defined spot at a specific depth within a fluorescent sample to eliminate out-of-focus glare, and increase resolution and contrast in the micrographs.
    ------------
    ------------
-   ------------
    :synonyms: confocal microscopy technique
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/157
    :InterLex ID: http://uri.interlex.org/base/ilx_0739731
@@ -636,7 +605,6 @@ contrast agent administration
    :semantic name: https://openminds.ebrains.eu/instances/technique/contrastAgentAdministration
    :definition: A 'contrast agent administration' is a (typically) oral or intraveneous administration of a chemical compound to improve the visibility of internal body structures of a subject in a subsequent imaging technique.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -658,7 +626,6 @@ contrast enhancement
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -676,7 +643,6 @@ cortico-cortical evoked potential mapping
    :semantic name: https://openminds.ebrains.eu/instances/technique/cortico-corticalEvokedPotentialMapping
    :definition: Cortico-cortical evoked potential (CCEP) mapping is used to identify the effective connectivity between distinct neuronal populations based on multiple CCEP measurements across (parts of) the brain in response to direct electrical stimulation (typically at various locations).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: CCEP mapping
@@ -698,7 +664,6 @@ craniotomy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -716,7 +681,6 @@ cryosectioning
    :semantic name: https://openminds.ebrains.eu/instances/technique/cryosectioning
    :definition: Cutting of specimen in cryo/freezing conditions typcially resulting in micromillimeter thin slices.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: cryosection procedure, frozen section procedure
@@ -738,7 +702,6 @@ current clamp
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -756,7 +719,6 @@ diffusion fixation technique
    :semantic name: https://openminds.ebrains.eu/instances/technique/diffusionFixationTechnique
    :definition: Diffusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by submerging specimen in a fixative.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: drop fixation
@@ -778,7 +740,6 @@ diffusion tensor imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -796,7 +757,6 @@ diffusion-weighted imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -818,7 +778,6 @@ dual-view inverted selective plane illumination microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: diSPIM, dual-view inverted light sheet fluorescence microscopy, dual-view inverted light sheet microscopy
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -836,7 +795,6 @@ echo planar pulse sequence
    :semantic name: https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence
    :definition: In magnetic resonance imaging, a 'echo-planar pulse sequence' is a contrasting technique where each radio frequency field (RF) excitation is followed by a train of gradient echoes with different spatial encoding allowing for very rapid scanning. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Physics_of_magnetic_resonance_imaging#Echo-planar_imaging)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: echo-planar imaging
@@ -858,7 +816,6 @@ electrocardiography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: ECG
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -876,7 +833,6 @@ electrocorticography
    :semantic name: https://openminds.ebrains.eu/instances/technique/electrocorticography
    :definition: 'Electrocorticography', short ECoG, is an intracranial electroencephalography technique in which electrodes are placed (subdural or epidural) on the exposed surface of the brain to record electrical activity from the cerebral cortex.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: ECoG
@@ -898,7 +854,6 @@ electroencephalography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -916,7 +871,6 @@ electromyography
    :semantic name: https://openminds.ebrains.eu/instances/technique/electromyography
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -938,7 +892,6 @@ electron microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: EM
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy
    :InterLex ID: http://uri.interlex.org/base/ilx_0739513
@@ -956,7 +909,6 @@ electron tomography
    :semantic name: https://openminds.ebrains.eu/instances/technique/electronTomography
    :definition: Electron tomography is a microscopy technique that takes a series of images of a thick sample at different angles (tilts) so that tomography can be applied to increase the resolution of the ticker sample.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: electron microscope tomography
@@ -978,7 +930,6 @@ electrooculography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -996,7 +947,6 @@ electroporation
    :semantic name: https://openminds.ebrains.eu/instances/technique/electroporation
    :definition: A microbiology technique in which an electrical field is applied to cells in order to increase the permeability of the cell membrane.
    :description: 'Electroporation' is a process in which a significant increase in the electrical conductivity and permeability of the cell plasma membrane is caused by an externally applied electrical field. It is usually used in molecular biology as a way of introducing some substance into a cell, such as loading it with a molecular probe, a drug that can change the cell's function, or a piece of coding DNA.
-   ------------
    ------------
    ------------
    :synonyms: electropermeabilization
@@ -1018,7 +968,6 @@ epidermal electrophysiology technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: epidermal electrophysiology
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1036,7 +985,6 @@ epidural electrocorticography
    :semantic name: https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1058,7 +1006,6 @@ epifluorescent microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: epifluorescence microscopy, WFM, widefield epifluorescence microscopy, widefield fluorescence microscopy
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/243
    :InterLex ID: http://uri.interlex.org/base/ilx_0739632
@@ -1076,7 +1023,6 @@ extracellular electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology
    :definition: In 'extracellular electrophysiology' electrodes are inserted into living tissue, but remain outside the cells in the extracellular environment to measure or stimulate electrical activity coming from adjacent cells, usually neurons.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1098,7 +1044,6 @@ fixation technique
    :description: Fixation is a two-step process in which 1) all normal life functions are terminated and 2) the structure of the tissue is stabilized (preserved). The fixation of tissue can be achieved by chemical or physical (e.g. heating, freezing) means.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: http://uri.interlex.org/base/ilx_0739717
@@ -1116,7 +1061,6 @@ fluorescence microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/fluorescenceMicroscopy
    :definition: Fluorescence microscopy comprises any type of microscopy where the specimen can be made to fluoresce (emit energy as visible light), typically by illuminating it with light of specific wavelengths.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1138,7 +1082,6 @@ focused ion beam scanning electron microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: FIB-SEM, FIB/SEM, FIBSEM, focused ion beam scanning electron microscoscopy technique
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/245
    :InterLex ID: http://uri.interlex.org/ilx_0739434
@@ -1156,7 +1099,6 @@ functional magnetic resonance imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1178,7 +1120,6 @@ gene knockin
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1196,7 +1137,6 @@ gene knockout
    :semantic name: https://openminds.ebrains.eu/instances/technique/geneKnockout
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1218,7 +1158,6 @@ gradient-echo pulse sequence
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: GRE pulse sequence
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1236,7 +1175,6 @@ heavy metal negative staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining
    :definition: In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) is applied on a sample to reveal its structural details for electron microscopy.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: heavy metal salt staining, heavy metal staining, negative staining
@@ -1258,7 +1196,6 @@ high-resolution scanning
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1276,7 +1213,6 @@ high-speed video recording
    :semantic name: https://openminds.ebrains.eu/instances/technique/high-speedVideoRecording
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1298,7 +1234,6 @@ high-density electroencephalography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1316,7 +1251,6 @@ high-field functional magnetic resonance imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticResonanceImaging
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1338,7 +1272,6 @@ high-field magnetic resonance imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1356,7 +1289,6 @@ high-throughput scanning
    :semantic name: https://openminds.ebrains.eu/instances/technique/highThroughputScanning
    :definition: 'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: high throughput scanning
@@ -1378,7 +1310,6 @@ histochemistry
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1396,7 +1327,6 @@ immunohistochemistry
    :semantic name: https://openminds.ebrains.eu/instances/technique/immunohistochemistry
    :definition: In 'immunohistochemistry' antigens or haptens are detected and visualized in cells of a tissue sections by exploiting the principle of antibodies binding specifically to antigens in biological tissues.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: IHC
@@ -1418,7 +1348,6 @@ immunoprecipitation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1436,7 +1365,6 @@ implant surgery
    :semantic name: https://openminds.ebrains.eu/instances/technique/implantSurgery
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1458,7 +1386,6 @@ in situ hybridisation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1476,7 +1403,6 @@ infrared differential interference contrast video microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: IR DIC video microscopy, IR-DIC
@@ -1498,7 +1424,6 @@ injection
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1516,7 +1441,6 @@ intracellular electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/technique/intracellularElectrophysiology
    :definition: A technique used to measure electrical properties of a single cell, e.g. a neuron.
    :description: 'Intracellular electrophysiology' describes a group of techniques used to measure with precision the voltage across, or electrical currents passing through, neuronal or other cellular membranes by inserting an electrode inside the neuron.
-   ------------
    ------------
    ------------
    :synonyms: intracellular recording
@@ -1538,7 +1462,6 @@ intracellular injection
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1556,7 +1479,6 @@ intracranial electroencephalography
    :semantic name: https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalography
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1578,7 +1500,6 @@ intraperitoneal injection
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: i.p., i.p. injection, IP, IP injection
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1596,7 +1517,6 @@ intravenous injection
    :semantic name: https://openminds.ebrains.eu/instances/technique/intravenousInjection
    :definition: An 'intravenous injection' is the administration of a substance into a vein or veins via a needle or tube.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: i.v., i.v. injection, IV, IV injection
@@ -1618,7 +1538,6 @@ iontophoresis
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1636,7 +1555,6 @@ iontophoretic microinjection
    :semantic name: https://openminds.ebrains.eu/instances/technique/iontophoreticMicroinjection
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1658,7 +1576,6 @@ light microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: LM, optical microscopy
    :preferred ontology ID: http://edamontology.org/topic_3385
    :InterLex ID: http://uri.interlex.org/base/ilx_0780269
@@ -1676,7 +1593,6 @@ light sheet fluorescence microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscopy
    :definition: Lightsheet fluorescence microscopy is a fluorescence microscopy technique that uses a thin sheet of light to excite only fluorophores within the plane of illumination.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: light sheet microscopy, LSFM, selective plane illumination microscopy, SPIM
@@ -1698,7 +1614,6 @@ magnetic resonance imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: http://uri.interlex.org/base/ilx_0741208
@@ -1716,7 +1631,6 @@ magnetic resonance spectroscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/magneticResonanceSpectroscopy
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1738,7 +1652,6 @@ magnetoencephalography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: MEG
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/163
    :InterLex ID: http://uri.interlex.org/ilx_0741209
@@ -1756,7 +1669,6 @@ mass spectrometry
    :semantic name: https://openminds.ebrains.eu/instances/technique/massSpectrometry
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1778,7 +1690,6 @@ microtome sectioning
    :description: The microtome cutting thickness can range between 50 nanometer and 100 micrometer.
    ------------
    ------------
-   ------------
    :synonyms: microtomy
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/212
    :InterLex ID: http://uri.interlex.org/ilx_0739422
@@ -1796,7 +1707,6 @@ multi-electrode extracellular electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1818,7 +1728,6 @@ multiple whole cell patch clamp
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1836,7 +1745,6 @@ myelin staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/myelinStaining
    :definition: A technique used to selectively alter the appearance of myelin (sheaths) that surround the nerve cell axons.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1858,7 +1766,6 @@ nucleic acid extraction
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1876,7 +1783,6 @@ optogenetic inhibition
    :semantic name: https://openminds.ebrains.eu/instances/technique/optogeneticInhibition
    :definition: Optogenetic inhibition is a genetic technique in which the activity of specific neuron populations is decreased using light of a particular wavelength. This can be achieved by expressing light-sensitive ion channels, pumps or enzymes specifically in the target neurons.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1898,7 +1804,6 @@ oral administration
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: p.o., per os, PO
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1916,7 +1821,6 @@ organ extraction
    :semantic name: https://openminds.ebrains.eu/instances/technique/organExtraction
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1938,7 +1842,6 @@ patch clamp
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -1956,7 +1859,6 @@ perfusion fixation technique
    :semantic name: https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique
    :definition: Perfusion fixation is a fixation technique to preserve specimen permanently as faithfully as possible compared to the living state by using the vascular system to distribute fixatives throughout the tissue.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -1978,7 +1880,6 @@ perfusion technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: http://uri.interlex.org/base/ilx_0739602
@@ -1996,7 +1897,6 @@ phase‐contrast x‐ray computed tomography
    :semantic name: https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomography
    :definition: 'Phase-contrast x-ray computed tomography' is a non-invasive x-ray imaging technique for three-dimensional observation of organic matter without application of a contrast medium ([Momose, Takeda, and Itai (1995)](https://doi.org/10.1063/1.1145931)).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: PCT, PCX‐CT, phase‐contrast computed tomography, phase‐contrast CT, x-ray phase-contrast computed tomography
@@ -2018,7 +1918,6 @@ phase-contrast x-ray imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: phase-sensitive x-ray imaging
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2036,7 +1935,6 @@ photoactivation
    :semantic name: https://openminds.ebrains.eu/instances/technique/photoactivation
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2058,7 +1956,6 @@ photoinactivation
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2076,7 +1973,6 @@ photoplethysmography
    :semantic name: https://openminds.ebrains.eu/instances/technique/photoplethysmography
    :definition: Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: PPG
@@ -2098,7 +1994,6 @@ polarized light microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0013816
    :InterLex ID: http://uri.interlex.org/base/ilx_0485478
@@ -2116,7 +2011,6 @@ population receptive field mapping
    :semantic name: https://openminds.ebrains.eu/instances/technique/populationReceptiveFieldMapping
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2138,7 +2032,6 @@ positron emission tomography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2156,7 +2049,6 @@ pressure injection
    :semantic name: https://openminds.ebrains.eu/instances/technique/pressureInjection
    :definition: Pressure injection uses either air compression or mechanical pressure to eject a substance from a micropipette (from Veith et al., 2016; J.Vis.Exp. (109):53724; doi: 10.3791/53724).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2178,7 +2070,6 @@ primary antibody staining
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2196,7 +2087,6 @@ pseudo-continuous arterial spin labeling
    :semantic name: https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLabeling
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2218,7 +2108,6 @@ psychological testing
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2236,7 +2125,6 @@ quantitative magnetic resonance imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2258,7 +2146,6 @@ receptive field mapping
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: RF mapping
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2276,7 +2163,6 @@ retinotopic mapping
    :semantic name: https://openminds.ebrains.eu/instances/technique/retinotopicMapping
    :definition: In 'retinotopic mapping' the retina is repeatedly stimulated in such a way that the response of neurons, particularly within the visual stream, can be mapped to the location of the stimulus on the retina.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: retinal mapping
@@ -2298,7 +2184,6 @@ retrograde tracing
    :description: In 'retrograde tracing' a tracer substance is taken up by synaptic terminals (and sometimes by axons) of neurons in the region where it is injected. Retrograde tracing techniques allow for a detailed assessment of neuronal connections between a target population of neurons and their inputs throughout the nervous system.
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2316,7 +2201,6 @@ scanning electron microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/scanningElectronMicroscopy
    :definition: Scanning electron microscopy is a microscopy technique to produce images of a specimen by scanning the surface with focused beam of electrons.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: SEM, scanning electron microscopy technique
@@ -2338,7 +2222,6 @@ scattered light imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2356,7 +2239,6 @@ secondary antibody staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2378,7 +2260,6 @@ serial block face scanning electron microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: SB-SEM, SBEM, serial blockface SEM
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2396,7 +2277,6 @@ serial section transmission electron microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectronMicroscopy
    :definition: Serial section transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through multiple successive slices of a volumetric sample to produce images of the slices (e.g. for later 3D reconstruction).
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2418,7 +2298,6 @@ sharp electrode intracellular electrophysiology
    :description: This technique uses a fine-tipped micropipette/microelectrode that is inserted into the neuron, allowing direct recording of electrical events generated by the neuron (membrane potential, resistance, time constant, synaptic potentials and action potentials).
    ------------
    ------------
-   ------------
    :synonyms: sharp electrode technique, sharp intracellular electrode technique, sharp electrode recording, sharp intracellular electrode recording
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/sharpElectrodeEphys
    :InterLex ID: http://uri.interlex.org/ilx_0739713
@@ -2436,7 +2315,6 @@ silver staining
    :semantic name: https://openminds.ebrains.eu/instances/technique/silverStaining
    :definition: A technique where the appearance of biological subcellular targets (e.g. proteins, RNA or DNA) is selectively alter by use of silver.
    :description: Silver can be used to stain subcellular targets such as proteins, peptide, carbohydrates, RNA or DNA. This techniques is typically used on histological sections prior to light microscopy, for the detection of proteins and peptides in polyacrylamide gels or gel electrophoresis.
-   ------------
    ------------
    ------------
    :synonyms: silver stain
@@ -2458,7 +2336,6 @@ single electrode extracellular electrophysiology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2476,7 +2353,6 @@ single electrode juxtacellular electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularElectrophysiology
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2498,7 +2374,6 @@ sodium MRI
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: Na MRI, Na-MRI, Sodium-MRI
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2516,7 +2391,6 @@ sonography
    :semantic name: https://openminds.ebrains.eu/instances/technique/sonography
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2538,7 +2412,6 @@ spin echo pulse sequence
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: SE pulse sequence
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2556,7 +2429,6 @@ stereoelectroencephalography
    :semantic name: https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography
    :definition: In 'stereoelectroencephalography' depth electrodes (typically linear electrode arrays) are stereotactically implanted in the brain of a subject in order to record or stimulate electrographic activity of otherwise inaccessible brain regions. [cf. [wikipedia](https://en.wikipedia.org/wiki/Stereoelectroencephalography), or [Gholipour et al. 2020](https://doi.org/10.1016/j.clineuro.2019.105640)]
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: sEEG, SEEG, stereo-EEG, stereotactic-EEG, stereo electroencephalogaphy, stereotactic electroencephalogaphy
@@ -2578,7 +2450,6 @@ stereology
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/79
    :InterLex ID: http://uri.interlex.org/ilx_0739729
@@ -2596,7 +2467,6 @@ stereotactic surgery
    :semantic name: https://openminds.ebrains.eu/instances/technique/stereotacticSurgery
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2618,7 +2488,6 @@ structural neuroimaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2636,7 +2505,6 @@ subcutaneous injection
    :semantic name: https://openminds.ebrains.eu/instances/technique/subcutaneousInjection
    :definition: An 'subcutenous injection' is the administration of a substance under all the layers of the skin via a needle or tube.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: s.c., s.c. injection, SC, SC injection
@@ -2658,7 +2526,6 @@ subdural electrocorticography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2676,7 +2543,6 @@ tetrode extracellular electrophysiology
    :semantic name: https://openminds.ebrains.eu/instances/technique/tetrodeExtracellularElectrophysiology
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2698,7 +2564,6 @@ time-of-flight magnetic resonance angiography
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: time-of-flight, time-of-flight angiography, time-of-flight MR angiography, time-of-flight MRA, TOF, TOF angiography, TOF magnetic resonance angiography, TOF MRA
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2716,7 +2581,6 @@ tissue clearing
    :semantic name: https://openminds.ebrains.eu/instances/technique/tissueClearing
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2738,7 +2602,6 @@ transcardial perfusion fixation technique
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: intracardiac perfusion fixation technique, intracardial perfusion fixation technique
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2756,7 +2619,6 @@ transcardial perfusion technique
    :semantic name: https://openminds.ebrains.eu/instances/technique/transcardialPerfusionTechnique
    :definition: Transcardial perfusion is a technique to distribute fluid throughout tissue via the heart.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: intracardiac perfusion technique, intracardial perfusion technique
@@ -2778,7 +2640,6 @@ transmission electron microscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: TEM
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2796,7 +2657,6 @@ two-photon fluorescence microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/twoPhotonFluorescenceMicroscopy
    :definition: Two-photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: 2-photon excitation microscopy, 2-photon fluorescence microscopy, 2-photon miscroscopy, 2PEF, TPEF, TPM, two-photon excitation fluorescence microscopy, two-photon excitation microscopy, two-photon miscroscopy
@@ -2818,7 +2678,6 @@ ultra high-field functional magnetic resonance imaging
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2836,7 +2695,6 @@ ultra high-field magnetic resonance imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging
    :definition: 'Ultra high-field magnetic resonance imaging' comprises all structural MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2858,7 +2716,6 @@ ultra high-field magnetic resonance spectroscopy
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2876,7 +2733,6 @@ vibratome sectioning
    :semantic name: https://openminds.ebrains.eu/instances/technique/vibratomeSectioning
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2898,7 +2754,6 @@ video tracking
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2916,7 +2771,6 @@ virus-mediated transfection
    :semantic name: https://openminds.ebrains.eu/instances/technique/virus-mediatedTransfection
    :definition: \-
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2938,7 +2792,6 @@ voltage clamp
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2956,7 +2809,6 @@ voltage sensitive dye imaging
    :semantic name: https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging
    :definition: 'Voltage sensitive dye imaging' is an experimental technique to measure neuronal population activity from in vivo brains or live brain slices by transducing changes in the cell membrane potential into changes of fluorescence emmission by an employed exogenous chemical agent.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-
@@ -2978,7 +2830,6 @@ weighted correlation network analysis
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: weighted gene co-expression network analysis, WGCNA
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -2998,7 +2849,6 @@ whole cell patch clamp
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -3016,7 +2866,6 @@ widefield fluorescence microscopy
    :semantic name: https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy
    :definition: 'Widefield fluorescence microscopy' comprises all microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: \-

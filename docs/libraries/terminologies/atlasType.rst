@@ -18,7 +18,6 @@ deterministic atlas
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -38,7 +37,6 @@ parcellation scheme
    :description: \-
    ------------
    ------------
-   ------------
    :synonyms: partition scheme
    :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_144019
    :InterLex ID: http://uri.interlex.org/ilx_0108526
@@ -56,7 +54,6 @@ probabilistic atlas
    :semantic name: https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas
    :definition: A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.
    :description: \-
-   ------------
    ------------
    ------------
    :synonyms: probability map
