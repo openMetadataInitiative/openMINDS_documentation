@@ -118,7 +118,7 @@ class InstancesDocBuilder(object):
             doc.heading(f"{name_CamelCase}", char="#", overline=True)
             doc.newline()
             schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", "controlledTerms", f"{name}.html")
-            doc.content(f"All instances listed below can be validated against the `{name_CamelCase} schema specification <{schema_link}>`_.")
+            doc.content(f"All instances listed below can be validated against the `{name_CamelCase} <{schema_link}>`_ schema specification.")
             doc.newline()
             doc.content("------------")
             doc.newline()
@@ -127,23 +127,22 @@ class InstancesDocBuilder(object):
             for term_name, term_data in sorted(data_to_display.items()):
                 doc.heading(term_data["name"], char="-")
                 doc.newline()
-                doc.content(term_data['@id'])
-                doc.newline()
                 doc.directive(name="admonition", arg="metadata")
                 doc.newline()
                 field_list_indent = 3
+                doc.field(name="semantic name:", value=term_data['@id'], indent=field_list_indent)
                 definition = term_data["definition"] if "definition" in term_data and term_data["definition"] else "\-"
-                doc.field(name="definition", value=definition, indent=field_list_indent)
+                doc.field(name="definition:", value=definition, indent=field_list_indent)
                 synonym = ", ".join(term_data["synonym"]) if "synonym" in term_data and term_data["synonym"] else "\-"
-                doc.field(name="synonyms", value=synonym, indent=field_list_indent)
+                doc.field(name="synonyms:", value=synonym, indent=field_list_indent)
                 ontologyID = term_data["preferredOntologyIdentifier"] if "preferredOntologyIdentifier" in term_data and term_data["preferredOntologyIdentifier"] else "\-"
-                doc.field(name="preferred ontology ID", value=ontologyID, indent=field_list_indent)
+                doc.field(name="preferred ontology ID:", value=ontologyID, indent=field_list_indent)
                 interlexID = term_data["interlexIdentifier"] if "interlexIdentifier" in term_data and term_data["interlexIdentifier"] else "\-"
-                doc.field(name="InterLex ID", value=interlexID, indent=field_list_indent)
+                doc.field(name="InterLex ID:", value=interlexID, indent=field_list_indent)
                 ksEntry = term_data["knowledgeSpaceLink"] if "knowledgeSpaceLink" in term_data and term_data["knowledgeSpaceLink"] else "\-"
-                doc.field(name="KnowledgeSpace entry", value=ksEntry, indent=field_list_indent)
+                doc.field(name="KnowledgeSpace entry:", value=ksEntry, indent=field_list_indent)
                 description = term_data["description"] if "description" in term_data and term_data["description"] else "\-"
-                doc.field(name="description", value=description, indent=field_list_indent)
+                doc.field(name="description:", value=description, indent=field_list_indent)
                 doc.newline()
                 doc.content(f"`BACK TO TOP <{name}_>`_")
                 doc.newline()
