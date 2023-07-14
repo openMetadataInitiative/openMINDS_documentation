@@ -16,7 +16,7 @@ cleared skull cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow
    :definition: A cranial window that is constructed by clearing a small region of the skull.
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ thinned skull cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow
    :definition: A cranial window that is constructed by thinning a small region of the skull.
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ transcranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow
    :definition: A cranial window that is constructed by removal of a small region of the skull.
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

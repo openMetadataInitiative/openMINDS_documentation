@@ -16,7 +16,7 @@ conditional knockin ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ conditional knockout ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ conditional ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ knockin
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/knockin
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -88,7 +88,7 @@ knockout
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/knockout
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -106,7 +106,7 @@ transgenic
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -124,7 +124,7 @@ wildtype
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

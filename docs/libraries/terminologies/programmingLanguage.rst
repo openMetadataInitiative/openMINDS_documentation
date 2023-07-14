@@ -16,7 +16,7 @@ AMPL
    :semantic name: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: A Mathematical Programming Language
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ Bash
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q189248
    :InterLex ID: \-
@@ -52,7 +52,7 @@ C
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q15777
    :InterLex ID: \-
@@ -70,7 +70,7 @@ C#
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C#
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q2370
    :InterLex ID: \-
@@ -88,7 +88,7 @@ C++
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/C++
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q2407
    :InterLex ID: \-
@@ -106,7 +106,7 @@ Fortran
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q83303
    :InterLex ID: \-
@@ -124,7 +124,7 @@ GLSL
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q779819
    :InterLex ID: \-
@@ -142,7 +142,7 @@ HTML
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q8811
    :InterLex ID: \-
@@ -160,7 +160,7 @@ Java
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Java
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q251
    :InterLex ID: \-
@@ -178,7 +178,7 @@ JavaScript
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q2005
    :InterLex ID: \-
@@ -196,7 +196,7 @@ MATLAB
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q37805571
    :InterLex ID: \-
@@ -214,7 +214,7 @@ PHP
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q59
    :InterLex ID: \-
@@ -232,7 +232,7 @@ Pascal
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q81571
    :InterLex ID: \-
@@ -250,7 +250,7 @@ Python
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Python
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q28865
    :InterLex ID: \-
@@ -268,7 +268,7 @@ R
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/R
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q206904
    :InterLex ID: \-
@@ -286,7 +286,7 @@ Ruby
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q161053
    :InterLex ID: \-
@@ -304,7 +304,7 @@ Scala
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q460584
    :InterLex ID: \-
@@ -322,7 +322,7 @@ T-SQL
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q1411245
    :InterLex ID: \-
@@ -340,7 +340,7 @@ TypeScript
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q978185
    :InterLex ID: \-
@@ -358,7 +358,7 @@ Shell
    :semantic name: https://openminds.ebrains.eu/instances/programmingLanguage/shell
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q14663
    :InterLex ID: \-

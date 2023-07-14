@@ -16,7 +16,7 @@ Dutch
    :semantic name: https://openminds.ebrains.eu/instances/language/dutch
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ English
    :semantic name: https://openminds.ebrains.eu/instances/language/english
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ French
    :semantic name: https://openminds.ebrains.eu/instances/language/french
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ German
    :semantic name: https://openminds.ebrains.eu/instances/language/german
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -88,7 +88,7 @@ Greek
    :semantic name: https://openminds.ebrains.eu/instances/language/greek
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -106,7 +106,7 @@ Italian
    :semantic name: https://openminds.ebrains.eu/instances/language/italian
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -124,7 +124,7 @@ Norwegian
    :semantic name: https://openminds.ebrains.eu/instances/language/norwegian
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -142,7 +142,7 @@ Spanish
    :semantic name: https://openminds.ebrains.eu/instances/language/spanish
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -160,7 +160,7 @@ Swedish
    :semantic name: https://openminds.ebrains.eu/instances/language/swedish
    :definition: \-
    :description: \-
-
+   ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
