@@ -2,7 +2,7 @@
 AnatomicalEntityRelation
 ########################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalEntityRelation
+:Semantic name: https://openminds.ebrains.eu/sands/AnatomicalEntityRelation
 
 Structured information on the relation between one anatomical entity and another.
 

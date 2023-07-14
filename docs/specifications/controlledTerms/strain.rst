@@ -2,8 +2,10 @@
 Strain
 ######
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/Strain
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/Strain
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/strain.html>`_.
 
 ------------
 

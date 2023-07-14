@@ -2,11 +2,11 @@
 Person
 ######
 
-:Semantic name:: https://openminds.ebrains.eu/core/Person
+:Semantic name: https://openminds.ebrains.eu/core/Person
 
 Structured information on a person.
 
-:Semantic equivalents:: https://schema.org/Person
+:Semantic equivalents: https://schema.org/Person
 
 
 ------------

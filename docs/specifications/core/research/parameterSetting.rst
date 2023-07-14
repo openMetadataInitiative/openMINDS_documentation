@@ -2,7 +2,7 @@
 ParameterSetting
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/core/ParameterSetting
+:Semantic name: https://openminds.ebrains.eu/core/ParameterSetting
 
 Structured information on a used parameter setting.
 

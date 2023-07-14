@@ -2,7 +2,7 @@
 Organization
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/core/Organization
+:Semantic name: https://openminds.ebrains.eu/core/Organization
 
 Structured information on an organization.
 

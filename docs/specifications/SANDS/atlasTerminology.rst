@@ -2,7 +2,7 @@
 AtlasTerminology
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/AtlasTerminology
+:Semantic name: https://openminds.ebrains.eu/sands/AtlasTerminology
 
 
 ------------

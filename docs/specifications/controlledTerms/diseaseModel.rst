@@ -2,8 +2,10 @@
 DiseaseModel
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/diseaseModel.html>`_.
 
 ------------
 

@@ -2,7 +2,7 @@
 CoordinateSpace
 ###############
 
-:Semantic name:: https://openminds.ebrains.eu/sands/CoordinateSpace
+:Semantic name: https://openminds.ebrains.eu/sands/CoordinateSpace
 
 Structured information on a coordinate space.
 

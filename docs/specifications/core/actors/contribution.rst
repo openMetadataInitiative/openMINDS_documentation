@@ -2,7 +2,7 @@
 Contribution
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/core/Contribution
+:Semantic name: https://openminds.ebrains.eu/core/Contribution
 
 Structured information on the contribution made to a research product.
 

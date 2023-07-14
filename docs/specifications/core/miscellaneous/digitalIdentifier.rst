@@ -2,7 +2,7 @@
 DigitalIdentifier
 #################
 
-:Semantic name:: https://openminds.ebrains.eu/core/DigitalIdentifier
+:Semantic name: https://openminds.ebrains.eu/core/DigitalIdentifier
 
 Structured information on a digital identifier.
 

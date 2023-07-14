@@ -2,7 +2,7 @@
 TissueSampleCollection
 ######################
 
-:Semantic name:: https://openminds.ebrains.eu/core/TissueSampleCollection
+:Semantic name: https://openminds.ebrains.eu/core/TissueSampleCollection
 
 
 ------------

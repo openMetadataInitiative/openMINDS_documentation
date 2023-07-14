@@ -2,7 +2,7 @@
 Hash
 ####
 
-:Semantic name:: https://openminds.ebrains.eu/core/Hash
+:Semantic name: https://openminds.ebrains.eu/core/Hash
 
 Structured information on a hash.
 

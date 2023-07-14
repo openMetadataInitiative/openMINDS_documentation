@@ -2,7 +2,7 @@
 Project
 #######
 
-:Semantic name:: https://openminds.ebrains.eu/core/Project
+:Semantic name: https://openminds.ebrains.eu/core/Project
 
 Structured information on a research project.
 

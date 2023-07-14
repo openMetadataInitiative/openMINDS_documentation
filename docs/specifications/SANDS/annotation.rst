@@ -2,7 +2,7 @@
 Annotation
 ##########
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Annotation
+:Semantic name: https://openminds.ebrains.eu/sands/Annotation
 
 Structured information on an image annotation.
 

@@ -2,10 +2,12 @@
 Modality
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/Modality
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/Modality
 
 Structured information on the modality.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/modality.html>`_.
 
 ------------
 

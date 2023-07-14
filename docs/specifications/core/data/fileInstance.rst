@@ -2,7 +2,7 @@
 FileInstance
 ############
 
-:Semantic name:: https://openminds.ebrains.eu/core/FileInstance
+:Semantic name: https://openminds.ebrains.eu/core/FileInstance
 
 Structured information on a file instances.
 

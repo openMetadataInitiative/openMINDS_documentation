@@ -2,10 +2,12 @@
 Genotype
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/controlledTerms/Genotype
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/Genotype
 
 Structured information on the genotype of a subject.
 
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/genotype.html>`_.
 
 ------------
 

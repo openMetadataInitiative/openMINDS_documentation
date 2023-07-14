@@ -2,7 +2,7 @@
 QuantitativeValueRange
 ######################
 
-:Semantic name:: https://openminds.ebrains.eu/core/QuantitativeValueRange
+:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueRange
 
 A representation of a range of quantitative values.
 

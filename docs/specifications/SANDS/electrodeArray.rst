@@ -2,7 +2,7 @@
 ElectrodeArray
 ##############
 
-:Semantic name:: https://openminds.ebrains.eu/sands/ElectrodeArray
+:Semantic name: https://openminds.ebrains.eu/sands/ElectrodeArray
 
 Structured information on an electrode array.
 

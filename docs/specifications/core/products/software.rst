@@ -2,7 +2,7 @@
 Software
 ########
 
-:Semantic name:: https://openminds.ebrains.eu/core/Software
+:Semantic name: https://openminds.ebrains.eu/core/Software
 
 Structured information on a software tool (concept level).
 

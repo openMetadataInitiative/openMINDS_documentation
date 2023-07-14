@@ -2,7 +2,7 @@
 Image
 #####
 
-:Semantic name:: https://openminds.ebrains.eu/sands/Image
+:Semantic name: https://openminds.ebrains.eu/sands/Image
 
 Structured information on an image.
 

@@ -2,7 +2,7 @@
 Copyright
 #########
 
-:Semantic name:: https://openminds.ebrains.eu/core/Copyright
+:Semantic name: https://openminds.ebrains.eu/core/Copyright
 
 Structured information on the copyright.
 

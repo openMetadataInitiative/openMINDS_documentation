@@ -2,7 +2,7 @@
 AnatomicalEntity
 ################
 
-:Semantic name:: https://openminds.ebrains.eu/sands/AnatomicalEntity
+:Semantic name: https://openminds.ebrains.eu/sands/AnatomicalEntity
 
 Structured information on an anatomical entity.
 
