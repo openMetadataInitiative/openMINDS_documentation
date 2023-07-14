@@ -2,7 +2,7 @@
 TactileStimulusType
 ###################
 
-All instances listed below can be validated against the `TactileStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_.
+All instances listed below can be validated against the `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `TactileStimulusType sch
 textured surface
 ----------------
 
-https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <tactileStimulusType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
 vibrating object
 ----------------
 
-https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <tactileStimulusType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
 vibrating surface
 -----------------
 
-https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <tactileStimulusType_>`_
 

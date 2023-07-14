@@ -2,7 +2,7 @@
 OlfactoryStimulusType
 #####################
 
-All instances listed below can be validated against the `OlfactoryStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_.
+All instances listed below can be validated against the `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `OlfactoryStimulusType s
 floral odor
 -----------
 
-https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
-
 .. admonition:: metadata
 
-   :definition: Any chemical compound that smells floral.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
+   :definition:: Any chemical compound that smells floral.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <olfactoryStimulusType_>`_
 

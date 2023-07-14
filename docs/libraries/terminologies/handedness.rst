@@ -2,7 +2,7 @@
 Handedness
 ##########
 
-All instances listed below can be validated against the `Handedness schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_.
+All instances listed below can be validated against the `Handedness <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `Handedness schema speci
 ambidextrous handedness
 -----------------------
 
-https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
-
 .. admonition:: metadata
 
-   :definition: Handedness where the organism exhibits no overall dominance in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
+   :definition:: Handedness where the organism exhibits no overall dominance in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <handedness_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
 ambilevous handedness
 ---------------------
 
-https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
-
 .. admonition:: metadata
 
-   :definition: Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
+   :definition:: Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <handedness_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
 left handedness
 ---------------
 
-https://openminds.ebrains.eu/instances/handedness/leftHandedness
-
 .. admonition:: metadata
 
-   :definition: Handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/handedness/leftHandedness
+   :definition:: Handedness where the organism preferentially uses the left hand or foot for tasks requiring the use of a single hand or foot.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <handedness_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/handedness/leftHandedness
 mixed handedness
 ----------------
 
-https://openminds.ebrains.eu/instances/handedness/mixedHandedness
-
 .. admonition:: metadata
 
-   :definition: Handedness where the organism exhibits dominance in the use of right or left hand or foot differently in the performance of different tasks that require one (dominant) hand or foot.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/handedness/mixedHandedness
+   :definition:: Handedness where the organism exhibits dominance in the use of right or left hand or foot differently in the performance of different tasks that require one (dominant) hand or foot.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <handedness_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/handedness/mixedHandedness
 right handedness
 ----------------
 
-https://openminds.ebrains.eu/instances/handedness/rightHandedness
-
 .. admonition:: metadata
 
-   :definition: Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/handedness/rightHandedness
+   :definition:: Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <handedness_>`_
 

@@ -2,7 +2,7 @@
 ProductAccessibility
 ####################
 
-All instances listed below can be validated against the `ProductAccessibility schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_.
+All instances listed below can be validated against the `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `ProductAccessibility sc
 controlled access
 -----------------
 
-https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
-
 .. admonition:: metadata
 
-   :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
+   :definition:: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <productAccessibility_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
 free access
 -----------
 
-https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
-
 .. admonition:: metadata
 
-   :definition: With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
+   :definition:: With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <productAccessibility_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
 restricted access
 -----------------
 
-https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
-
 .. admonition:: metadata
 
-   :definition: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
+   :definition:: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <productAccessibility_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
 under embargo
 -------------
 
-https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
-
 .. admonition:: metadata
 
-   :definition: With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
+   :definition:: With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <productAccessibility_>`_
 

@@ -2,7 +2,7 @@
 CranialWindowReinforcementType
 ##############################
 
-All instances listed below can be validated against the `CranialWindowReinforcementType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowReinforcementType.html>`_.
+All instances listed below can be validated against the `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowReinforcementType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `CranialWindowReinforcem
 GRIN lens-based cranial window
 ------------------------------
 
-https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
-
 .. admonition:: metadata
 
-   :definition: A cranial window reinforced by an implanted GRIN lens.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
+   :definition:: A cranial window reinforced by an implanted GRIN lens.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <cranialWindowReinforcementType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBa
 crystalline-based cranial window
 --------------------------------
 
-https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
-
 .. admonition:: metadata
 
-   :definition: A cranial window reinforced by an implantation of a crystalline material.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
+   :definition:: A cranial window reinforced by an implantation of a crystalline material.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <cranialWindowReinforcementType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallin
 glass coverslip cranial window
 ------------------------------
 
-https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
-
 .. admonition:: metadata
 
-   :definition: A cranial window reinforced by an implantation of a glass coverslip.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
+   :definition:: A cranial window reinforced by an implantation of a glass coverslip.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <cranialWindowReinforcementType_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCover
 polymer-based cranial window
 ----------------------------
 
-https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
-
 .. admonition:: metadata
 
-   :definition: A cranial window reinforced by an implantation of a polymer material.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
+   :definition:: A cranial window reinforced by an implantation of a polymer material.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <cranialWindowReinforcementType_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBas
 prism-based cranial window
 --------------------------
 
-https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
-
 .. admonition:: metadata
 
-   :definition: A cranial window reinforced by an implanted prism.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
+   :definition:: A cranial window reinforced by an implanted prism.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <cranialWindowReinforcementType_>`_
 

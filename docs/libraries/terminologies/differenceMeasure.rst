@@ -2,7 +2,7 @@
 DifferenceMeasure
 #################
 
-All instances listed below can be validated against the `DifferenceMeasure schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/differenceMeasure.html>`_.
+All instances listed below can be validated against the `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/differenceMeasure.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `DifferenceMeasure schem
 chi-squared statistic
 ---------------------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
-
 .. admonition:: metadata
 
-   :definition: Test statistic resulting from a chi-squared test.
-   :synonyms: χ2-statistic
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
+   :definition:: Test statistic resulting from a chi-squared test.
+   :synonyms:: χ2-statistic
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
 Kolmogorov-Smirnov statistic
 ----------------------------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
-
 .. admonition:: metadata
 
-   :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
-   :synonyms: KS-statistic
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
+   :definition:: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
+   :synonyms:: KS-statistic
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatis
 Kullback-Leibler divergence
 ---------------------------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
-
 .. admonition:: metadata
 
-   :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
-   :synonyms: KL divergence
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
+   :definition:: A measure of how one probability distribution is different from a second, reference probability distribution.
+   :synonyms:: KL divergence
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergen
 mean squared error
 ------------------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
-
 .. admonition:: metadata
 
-   :definition: The mean squared difference between two series of values.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
+   :definition:: The mean squared difference between two series of values.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
 t-statistic
 -----------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
-
 .. admonition:: metadata
 
-   :definition: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
+   :definition:: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
 z-score
 -------
 
-https://openminds.ebrains.eu/instances/differenceMeasure/z_score
-
 .. admonition:: metadata
 
-   :definition: The number of standard deviations by which an observed value is above or below the mean value.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
+   :definition:: The number of standard deviations by which an observed value is above or below the mean value.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <differenceMeasure_>`_
 

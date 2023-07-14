@@ -2,7 +2,7 @@
 GeneticStrainType
 #################
 
-All instances listed below can be validated against the `GeneticStrainType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_.
+All instances listed below can be validated against the `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `GeneticStrainType schem
 conditional knockin ready
 -------------------------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
 conditional knockout ready
 --------------------------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutRead
 conditional ready
 -----------------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
 knockin
 -------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/knockin
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/knockin
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/knockin
 knockout
 --------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/knockout
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/knockout
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/knockout
 transgenic
 ----------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 
@@ -119,16 +113,15 @@ https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
 wildtype
 --------
 
-https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <geneticStrainType_>`_
 

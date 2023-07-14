@@ -2,7 +2,7 @@
 FileBundleGrouping
 ##################
 
-All instances listed below can be validated against the `FileBundleGrouping schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_.
+All instances listed below can be validated against the `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `FileBundleGrouping sche
 behavioral protocol
 -------------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
 coordinate space
 ----------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
 protocol
 --------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
 study target
 ------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
 subject
 -------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
 subject group
 -------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -119,16 +113,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
 technique
 ---------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -137,16 +130,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
 tissue sample
 -------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 
@@ -155,16 +147,15 @@ https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
 tissue sample collection
 ------------------------
 
-https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <fileBundleGrouping_>`_
 

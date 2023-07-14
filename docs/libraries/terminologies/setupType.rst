@@ -2,7 +2,7 @@
 SetupType
 #########
 
-All instances listed below can be validated against the `SetupType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/setupType.html>`_.
+All instances listed below can be validated against the `SetupType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/setupType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `SetupType schema specif
 acquisition system
 ------------------
 
-https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
-
 .. admonition:: metadata
 
-   :definition: An 'acquisition system' is a setup type with the purpose of collecting data.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
+   :definition:: An 'acquisition system' is a setup type with the purpose of collecting data.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <setupType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
 computing system
 ----------------
 
-https://openminds.ebrains.eu/instances/setupType/computingSystem
-
 .. admonition:: metadata
 
-   :definition: A 'computing system' is a setup type with the purpose of performing computations.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/setupType/computingSystem
+   :definition:: A 'computing system' is a setup type with the purpose of performing computations.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <setupType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/setupType/computingSystem
 stimulation system
 ------------------
 
-https://openminds.ebrains.eu/instances/setupType/stimulationSystem
-
 .. admonition:: metadata
 
-   :definition: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
+   :definition:: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <setupType_>`_
 

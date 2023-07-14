@@ -2,7 +2,7 @@
 ChemicalMixtureType
 ###################
 
-All instances listed below can be validated against the `ChemicalMixtureType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_.
+All instances listed below can be validated against the `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `ChemicalMixtureType sch
 colloid
 -------
 
-https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
-
 .. admonition:: metadata
 
-   :definition: A 'colloid' is a heterogeneous mixture in which one substance consisting of microscopically dispersed insoluble particles is suspended throughout another substance. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Colloid)]
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: A colloid is a mixture where very small particles of one substance are evenly distributed throughout another substance. They appear very similar to solutions, but the particles are suspended in the solvent rather than fully dissolved. The difference between a colloid and a suspension is that the particles will not settle to the bottom over a period of time, they will stay suspended or float.
+   :semantic name:: https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
+   :definition:: A 'colloid' is a heterogeneous mixture in which one substance consisting of microscopically dispersed insoluble particles is suspended throughout another substance. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Colloid)]
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: A colloid is a mixture where very small particles of one substance are evenly distributed throughout another substance. They appear very similar to solutions, but the particles are suspended in the solvent rather than fully dissolved. The difference between a colloid and a suspension is that the particles will not settle to the bottom over a period of time, they will stay suspended or float.
 
 `BACK TO TOP <chemicalMixtureType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
 solution
 --------
 
-https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
-
 .. admonition:: metadata
 
-   :definition: A 'solution' is a special type of homogeneous mixture where at least one substance, called solute, is fully dissolved in another substance, known as a solvent. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: A solution is a homogeneous mixture of two or more substances. The particles of solute in a solution cannot be seen by the naked eye. A solution does not cause beams of light to scatter. A solution is stable; solutes will not precipitate unless added in excess of the mixture's solubility, at which point the excess would remain in its solid phase, referred to as hypersaturation. The solute from a solution cannot be separated by filtration (or mechanically). It is composed of only one phase. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
+   :semantic name:: https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
+   :definition:: A 'solution' is a special type of homogeneous mixture where at least one substance, called solute, is fully dissolved in another substance, known as a solvent. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: A solution is a homogeneous mixture of two or more substances. The particles of solute in a solution cannot be seen by the naked eye. A solution does not cause beams of light to scatter. A solution is stable; solutes will not precipitate unless added in excess of the mixture's solubility, at which point the excess would remain in its solid phase, referred to as hypersaturation. The solute from a solution cannot be separated by filtration (or mechanically). It is composed of only one phase. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
 
 `BACK TO TOP <chemicalMixtureType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
 suspension
 ----------
 
-https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
-
 .. admonition:: metadata
 
-   :definition: A 'suspension' is a heterogeneous mixture of a fluid that contains solid particles sufficiently large for sedimentation and may even be visible to the naked eye. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: A suspension is a heterogeneous mixture in which the solute particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating around freely in the medium. Solute particles are usually larger than one micrometer, and will eventually settle, although the mixture is only classified as a suspension when and while the particles have not settled out. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
+   :semantic name:: https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
+   :definition:: A 'suspension' is a heterogeneous mixture of a fluid that contains solid particles sufficiently large for sedimentation and may even be visible to the naked eye. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: A suspension is a heterogeneous mixture in which the solute particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating around freely in the medium. Solute particles are usually larger than one micrometer, and will eventually settle, although the mixture is only classified as a suspension when and while the particles have not settled out. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]
 
 `BACK TO TOP <chemicalMixtureType_>`_
 

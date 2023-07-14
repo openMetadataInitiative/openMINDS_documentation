@@ -2,7 +2,7 @@
 OperatingSystem
 ###############
 
-All instances listed below can be validated against the `OperatingSystem schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingSystem.html>`_.
+All instances listed below can be validated against the `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingSystem.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `OperatingSystem schema 
 Android
 -------
 
-https://openminds.ebrains.eu/instances/operatingSystem/Android
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q94
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/Android
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q94
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/Android
 Linux
 -----
 
-https://openminds.ebrains.eu/instances/operatingSystem/Linux
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q388
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/Linux
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q388
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/Linux
 MacOS
 -----
 
-https://openminds.ebrains.eu/instances/operatingSystem/MacOS
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q43627
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q43627
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/MacOS
 Solaris
 -------
 
-https://openminds.ebrains.eu/instances/operatingSystem/Solaris
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q14646
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q14646
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/Solaris
 Unix
 ----
 
-https://openminds.ebrains.eu/instances/operatingSystem/Unix
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q11368
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/Unix
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q11368
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/Unix
 Windows
 -------
 
-https://openminds.ebrains.eu/instances/operatingSystem/Windows
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q1406
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/Windows
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q1406
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -119,16 +113,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/Windows
 Windows Phone
 -------------
 
-https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q4885200
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q4885200
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -137,16 +130,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
 iOS
 ---
 
-https://openminds.ebrains.eu/instances/operatingSystem/iOS
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q48493
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/iOS
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q48493
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 
@@ -155,16 +147,15 @@ https://openminds.ebrains.eu/instances/operatingSystem/iOS
 platform independent
 --------------------
 
-https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q174666
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q174666
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <operatingSystem_>`_
 

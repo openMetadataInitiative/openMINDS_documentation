@@ -2,7 +2,7 @@
 QualitativeOverlap
 ##################
 
-All instances listed below can be validated against the `QualitativeOverlap schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/qualitativeOverlap.html>`_.
+All instances listed below can be validated against the `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/qualitativeOverlap.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `QualitativeOverlap sche
 partially overlaps with
 -----------------------
 
-https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
-
 .. admonition:: metadata
 
-   :definition: Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
+   :definition:: Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <qualitativeOverlap_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
 is homologous to
 ----------------
 
-https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
-
 .. admonition:: metadata
 
-   :definition: A set/object (A) has the same relative position, function, or structure as a set/object (B).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
+   :definition:: A set/object (A) has the same relative position, function, or structure as a set/object (B).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <qualitativeOverlap_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
 is identical to
 ---------------
 
-https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
-
 .. admonition:: metadata
 
-   :definition: A set/object (A) is identical to another set/object (B) if they look exactly the same.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
+   :definition:: A set/object (A) is identical to another set/object (B) if they look exactly the same.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <qualitativeOverlap_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
 is subset of
 ------------
 
-https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
-
 .. admonition:: metadata
 
-   :definition: A set/object (A) is a subset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (A) are also elements/incidents of (B).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
+   :definition:: A set/object (A) is a subset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (A) are also elements/incidents of (B).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <qualitativeOverlap_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
 is superset of
 --------------
 
-https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
-
 .. admonition:: metadata
 
-   :definition: A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
+   :definition:: A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <qualitativeOverlap_>`_
 

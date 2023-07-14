@@ -2,7 +2,7 @@
 AnnotationCriteriaType
 ######################
 
-All instances listed below can be validated against the `AnnotationCriteriaType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_.
+All instances listed below can be validated against the `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `AnnotationCriteriaType 
 deterministic annotation
 ------------------------
 
-https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation
-
 .. admonition:: metadata
 
-   :definition: A 'deterministic annotation' provides an exact assignment of an entity or a list of entities to a defined annotation. The assingment itself can be based on a deterministic or maximum probability assumption.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation
+   :definition:: A 'deterministic annotation' provides an exact assignment of an entity or a list of entities to a defined annotation. The assingment itself can be based on a deterministic or maximum probability assumption.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <annotationCriteriaType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnot
 probabalistic annotation
 ------------------------
 
-https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
-
 .. admonition:: metadata
 
-   :definition: A 'probabalistic annotation' provides the probability or probabilites to which an entity or a list of entities belong(s) to a defined annotation.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
+   :definition:: A 'probabalistic annotation' provides the probability or probabilites to which an entity or a list of entities belong(s) to a defined annotation.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <annotationCriteriaType_>`_
 

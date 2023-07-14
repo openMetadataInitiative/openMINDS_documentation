@@ -2,7 +2,7 @@
 VisualStimulusType
 ##################
 
-All instances listed below can be validated against the `VisualStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_.
+All instances listed below can be validated against the `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `VisualStimulusType sche
 moving checkerboard
 -------------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
 moving grating
 --------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
 moving symbol
 -------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
 natural movie
 -------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
 natural scene
 -------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
 static checkerboard
 -------------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -119,16 +113,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
 static grating
 --------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 
@@ -137,16 +130,15 @@ https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
 static symbol
 -------------
 
-https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <visualStimulusType_>`_
 

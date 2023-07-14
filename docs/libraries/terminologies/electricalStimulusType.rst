@@ -2,7 +2,7 @@
 ElectricalStimulusType
 ######################
 
-All instances listed below can be validated against the `ElectricalStimulusType schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_.
+All instances listed below can be validated against the `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `ElectricalStimulusType 
 direct current
 --------------
 
-https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: DC
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
+   :definition:: \-
+   :synonyms:: DC
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <electricalStimulusType_>`_
 

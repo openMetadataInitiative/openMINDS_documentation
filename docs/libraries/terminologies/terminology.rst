@@ -2,7 +2,7 @@
 Terminology
 ###########
 
-All instances listed below can be validated against the `Terminology schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/terminology.html>`_.
+All instances listed below can be validated against the `Terminology <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/terminology.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `Terminology schema spec
 UBERON parcellation
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
 action status type
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/actionStatusType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/actionStatusType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/terminology/actionStatusType
 age category
 ------------
 
-https://openminds.ebrains.eu/instances/terminology/ageCategory
-
 .. admonition:: metadata
 
-   :definition: The age category describes a specific spatiotemporal part of the life cycle of an organism.
-   :synonyms: \-
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000105
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/ageCategory
+   :definition:: The age category describes a specific spatiotemporal part of the life cycle of an organism.
+   :synonyms:: \-
+   :preferred ontology ID:: http://purl.obolibrary.org/obo/UBERON_0000105
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/terminology/ageCategory
 analysis technique
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/analysisTechnique
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/analysisTechnique
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/terminology/analysisTechnique
 anatomical axes orientation
 ---------------------------
 
-https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
 anatomical identification type
 ------------------------------
 
-https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
-
 .. admonition:: metadata
 
-   :definition: The type of identiciation that was used to determine an anatomical location.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
+   :definition:: The type of identiciation that was used to determine an anatomical location.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -119,16 +113,15 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
 anatomical plane
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
-
 .. admonition:: metadata
 
-   :definition: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
-   :synonyms: fiat anatomical surface
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0035085
-   :InterLex ID: http://uri.interlex.org/ilx_0725051
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
+   :definition:: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
+   :synonyms:: fiat anatomical surface
+   :preferred ontology ID:: http://purl.obolibrary.org/obo/UBERON_0035085
+   :InterLex ID:: http://uri.interlex.org/ilx_0725051
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -137,16 +130,15 @@ https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
 annotation criteria type
 ------------------------
 
-https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
-
 .. admonition:: metadata
 
-   :definition: General classification of how data were annotated.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
+   :definition:: General classification of how data were annotated.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -155,16 +147,15 @@ https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
 annotation type
 ---------------
 
-https://openminds.ebrains.eu/instances/terminology/annotationType
-
 .. admonition:: metadata
 
-   :definition: Geometrical classification of annotations into types.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/annotationType
+   :definition:: Geometrical classification of annotations into types.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -173,16 +164,15 @@ https://openminds.ebrains.eu/instances/terminology/annotationType
 atlas type
 ----------
 
-https://openminds.ebrains.eu/instances/terminology/atlasType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/atlasType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -191,16 +181,15 @@ https://openminds.ebrains.eu/instances/terminology/atlasType
 auditory stimulus type
 ----------------------
 
-https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
-
 .. admonition:: metadata
 
-   :definition: An 'auditory stimulus type' groups similar auditory stimuli used across auditory stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
+   :definition:: An 'auditory stimulus type' groups similar auditory stimuli used across auditory stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -209,16 +198,15 @@ https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
 biological order
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/biologicalOrder
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/biologicalOrder
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -227,16 +215,15 @@ https://openminds.ebrains.eu/instances/terminology/biologicalOrder
 biological sex
 --------------
 
-https://openminds.ebrains.eu/instances/terminology/biologicalSex
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/biologicalSex
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -245,16 +232,15 @@ https://openminds.ebrains.eu/instances/terminology/biologicalSex
 breeding type
 -------------
 
-https://openminds.ebrains.eu/instances/terminology/breedingType
-
 .. admonition:: metadata
 
-   :definition: The breeding type describes how plants or animals have been sexually propagated.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/breedingType
+   :definition:: The breeding type describes how plants or animals have been sexually propagated.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -263,16 +249,15 @@ https://openminds.ebrains.eu/instances/terminology/breedingType
 cell culture type
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/cellCultureType
-
 .. admonition:: metadata
 
-   :definition: The type of a cell culture (e.g. primary, secondary)
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/cellCultureType
+   :definition:: The type of a cell culture (e.g. primary, secondary)
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -281,16 +266,15 @@ https://openminds.ebrains.eu/instances/terminology/cellCultureType
 cell type
 ---------
 
-https://openminds.ebrains.eu/instances/terminology/cellType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/cellType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -299,16 +283,15 @@ https://openminds.ebrains.eu/instances/terminology/cellType
 chemicalMixtureType
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
-
 .. admonition:: metadata
 
-   :definition: A 'chemical mixture type' groups all mixtures with the same chemical and physical characteristics under a general term.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
+   :definition:: A 'chemical mixture type' groups all mixtures with the same chemical and physical characteristics under a general term.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -317,16 +300,15 @@ https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
 colormap
 --------
 
-https://openminds.ebrains.eu/instances/terminology/colormap
-
 .. admonition:: metadata
 
-   :definition: A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/colormap
+   :definition:: A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -335,16 +317,15 @@ https://openminds.ebrains.eu/instances/terminology/colormap
 contribution type
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/contributionType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/contributionType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -353,16 +334,15 @@ https://openminds.ebrains.eu/instances/terminology/contributionType
 cranial window construction type
 --------------------------------
 
-https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
-
 .. admonition:: metadata
 
-   :definition: The construction type of a cranial window.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
+   :definition:: The construction type of a cranial window.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -371,16 +351,15 @@ https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
 cranial window reinforcement type
 ---------------------------------
 
-https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
-
 .. admonition:: metadata
 
-   :definition: The reinforcement type of a cranial window.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
+   :definition:: The reinforcement type of a cranial window.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -389,16 +368,15 @@ https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementTyp
 criteria quality type
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -407,16 +385,15 @@ https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
 data type
 ---------
 
-https://openminds.ebrains.eu/instances/terminology/dataType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/dataType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -425,16 +402,15 @@ https://openminds.ebrains.eu/instances/terminology/dataType
 device type
 -----------
 
-https://openminds.ebrains.eu/instances/terminology/deviceType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/deviceType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -443,16 +419,15 @@ https://openminds.ebrains.eu/instances/terminology/deviceType
 difference measure
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/differenceMeasure
-
 .. admonition:: metadata
 
-   :definition: A measure of the difference between two things
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/differenceMeasure
+   :definition:: A measure of the difference between two things
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.
 
 `BACK TO TOP <terminology_>`_
 
@@ -461,16 +436,15 @@ https://openminds.ebrains.eu/instances/terminology/differenceMeasure
 disease
 -------
 
-https://openminds.ebrains.eu/instances/terminology/disease
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/disease
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -479,16 +453,15 @@ https://openminds.ebrains.eu/instances/terminology/disease
 disease model
 -------------
 
-https://openminds.ebrains.eu/instances/terminology/diseaseModel
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/diseaseModel
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -497,16 +470,15 @@ https://openminds.ebrains.eu/instances/terminology/diseaseModel
 educational level
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/educationalLevel
-
 .. admonition:: metadata
 
-   :definition: An 'educational level' defines the developmental stage of a student and how learning environments are structured.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/educationalLevel
+   :definition:: An 'educational level' defines the developmental stage of a student and how learning environments are structured.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -515,16 +487,15 @@ https://openminds.ebrains.eu/instances/terminology/educationalLevel
 electrical stimulus type
 ------------------------
 
-https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
-
 .. admonition:: metadata
 
-   :definition: An 'electrical stimulus type' groups similar electrical stimuli used across electrical stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
+   :definition:: An 'electrical stimulus type' groups similar electrical stimuli used across electrical stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -533,16 +504,15 @@ https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
 ethics assessment
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -551,16 +521,15 @@ https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
 experimental approach
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/experimentalApproach
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/experimentalApproach
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -569,16 +538,15 @@ https://openminds.ebrains.eu/instances/terminology/experimentalApproach
 file bundle grouping
 --------------------
 
-https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -587,16 +555,15 @@ https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
 file repository type
 --------------------
 
-https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -605,16 +572,15 @@ https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
 file usage role
 ---------------
 
-https://openminds.ebrains.eu/instances/terminology/fileUsageRole
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/fileUsageRole
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -623,16 +589,15 @@ https://openminds.ebrains.eu/instances/terminology/fileUsageRole
 genetic strain type
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/geneticStrainType
-
 .. admonition:: metadata
 
-   :definition: The genetic strain type describes the genetic background type of a strain.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/geneticStrainType
+   :definition:: The genetic strain type describes the genetic background type of a strain.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -641,16 +606,15 @@ https://openminds.ebrains.eu/instances/terminology/geneticStrainType
 gustatory stimulus type
 -----------------------
 
-https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
-
 .. admonition:: metadata
 
-   :definition: A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
+   :definition:: A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -659,16 +623,15 @@ https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
 handedness
 ----------
 
-https://openminds.ebrains.eu/instances/terminology/handedness
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/handedness
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -677,16 +640,15 @@ https://openminds.ebrains.eu/instances/terminology/handedness
 language
 --------
 
-https://openminds.ebrains.eu/instances/terminology/language
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/language
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -695,16 +657,15 @@ https://openminds.ebrains.eu/instances/terminology/language
 laterality
 ----------
 
-https://openminds.ebrains.eu/instances/terminology/laterality
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/laterality
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -713,16 +674,15 @@ https://openminds.ebrains.eu/instances/terminology/laterality
 learning resource type
 ----------------------
 
-https://openminds.ebrains.eu/instances/terminology/learningResourceType
-
 .. admonition:: metadata
 
-   :definition: A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/learningResourceType
+   :definition:: A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -731,16 +691,15 @@ https://openminds.ebrains.eu/instances/terminology/learningResourceType
 measured quantity
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/measuredQuantity
-
 .. admonition:: metadata
 
-   :definition: A qualified physical quantity that was measured/recorded
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/measuredQuantity
+   :definition:: A qualified physical quantity that was measured/recorded
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -749,16 +708,15 @@ https://openminds.ebrains.eu/instances/terminology/measuredQuantity
 (meta)data model type
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/metaDataModelType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/metaDataModelType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -767,16 +725,15 @@ https://openminds.ebrains.eu/instances/terminology/metaDataModelType
 model abstraction level
 -----------------------
 
-https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -785,16 +742,15 @@ https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
 model scope
 -----------
 
-https://openminds.ebrains.eu/instances/terminology/modelScope
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/modelScope
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -803,16 +759,15 @@ https://openminds.ebrains.eu/instances/terminology/modelScope
 molecular entity
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/molecularEntity
-
 .. admonition:: metadata
 
-   :definition: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
-   :synonyms: \-
-   :preferred ontology ID: http://purl.obolibrary.org/obo/CHEBI_23367
-   :InterLex ID: http://uri.interlex.org/base/ilx_0107064
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/molecularEntity
+   :definition:: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
+   :synonyms:: \-
+   :preferred ontology ID:: http://purl.obolibrary.org/obo/CHEBI_23367
+   :InterLex ID:: http://uri.interlex.org/base/ilx_0107064
+   :KnowledgeSpace entry:: https://knowledge-space.org/wiki/CHEBI:23367#molecular-entity
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -821,16 +776,15 @@ https://openminds.ebrains.eu/instances/terminology/molecularEntity
 olfactory stimulus type
 -----------------------
 
-https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
-
 .. admonition:: metadata
 
-   :definition: An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
+   :definition:: An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -839,16 +793,15 @@ https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
 operating device
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/operatingDevice
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/operatingDevice
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -857,16 +810,15 @@ https://openminds.ebrains.eu/instances/terminology/operatingDevice
 operating system
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/operatingSystem
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/operatingSystem
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -875,16 +827,15 @@ https://openminds.ebrains.eu/instances/terminology/operatingSystem
 optical stimulus type
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
-
 .. admonition:: metadata
 
-   :definition: An 'optical stimulus type' groups similar optical stimuli used across optical stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
+   :definition:: An 'optical stimulus type' groups similar optical stimuli used across optical stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -893,16 +844,15 @@ https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
 organ
 -----
 
-https://openminds.ebrains.eu/instances/terminology/organ
-
 .. admonition:: metadata
 
-   :definition: Anatomical structure that performs a specific function or group of functions.
-   :synonyms: \-
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000062
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: The preferred ontology for 'organ' is UBERON.
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/organ
+   :definition:: Anatomical structure that performs a specific function or group of functions.
+   :synonyms:: \-
+   :preferred ontology ID:: http://purl.obolibrary.org/obo/UBERON_0000062
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: The preferred ontology for 'organ' is UBERON.
 
 `BACK TO TOP <terminology_>`_
 
@@ -911,16 +861,15 @@ https://openminds.ebrains.eu/instances/terminology/organ
 organism substance
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/organismSubstance
-
 .. admonition:: metadata
 
-   :definition: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: The preferred ontology for 'organism substance' is UBERON.
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/organismSubstance
+   :definition:: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: The preferred ontology for 'organism substance' is UBERON.
 
 `BACK TO TOP <terminology_>`_
 
@@ -929,16 +878,15 @@ https://openminds.ebrains.eu/instances/terminology/organismSubstance
 organism system
 ---------------
 
-https://openminds.ebrains.eu/instances/terminology/organismSystem
-
 .. admonition:: metadata
 
-   :definition: Any anatomical or functional system in an organism, regardless of scale.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/organismSystem
+   :definition:: Any anatomical or functional system in an organism, regardless of scale.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -947,16 +895,15 @@ https://openminds.ebrains.eu/instances/terminology/organismSystem
 patch clamp variation
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/patchClampVariation
-
 .. admonition:: metadata
 
-   :definition: A variation of the patch clamp technique
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/patchClampVariation
+   :definition:: A variation of the patch clamp technique
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -965,16 +912,15 @@ https://openminds.ebrains.eu/instances/terminology/patchClampVariation
 preparation type
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/preparationType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/preparationType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -983,16 +929,15 @@ https://openminds.ebrains.eu/instances/terminology/preparationType
 product accessibility
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/productAccessibility
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/productAccessibility
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1001,16 +946,15 @@ https://openminds.ebrains.eu/instances/terminology/productAccessibility
 programming language
 --------------------
 
-https://openminds.ebrains.eu/instances/terminology/programmingLanguage
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/programmingLanguage
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1019,16 +963,15 @@ https://openminds.ebrains.eu/instances/terminology/programmingLanguage
 qualitative overlap
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1037,16 +980,15 @@ https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
 semantic data type
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/semanticDataType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/semanticDataType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1055,16 +997,15 @@ https://openminds.ebrains.eu/instances/terminology/semanticDataType
 service
 -------
 
-https://openminds.ebrains.eu/instances/terminology/service
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/service
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1073,16 +1014,15 @@ https://openminds.ebrains.eu/instances/terminology/service
 setup type
 ----------
 
-https://openminds.ebrains.eu/instances/terminology/setupType
-
 .. admonition:: metadata
 
-   :definition: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/setupType
+   :definition:: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1091,16 +1031,15 @@ https://openminds.ebrains.eu/instances/terminology/setupType
 software application category
 -----------------------------
 
-https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1109,16 +1048,15 @@ https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
 software feature
 ----------------
 
-https://openminds.ebrains.eu/instances/terminology/softwareFeature
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/softwareFeature
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1127,16 +1065,15 @@ https://openminds.ebrains.eu/instances/terminology/softwareFeature
 species
 -------
 
-https://openminds.ebrains.eu/instances/terminology/species
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/species
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1145,16 +1082,15 @@ https://openminds.ebrains.eu/instances/terminology/species
 stimulation approach
 --------------------
 
-https://openminds.ebrains.eu/instances/terminology/stimulationApproach
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/stimulationApproach
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1163,16 +1099,15 @@ https://openminds.ebrains.eu/instances/terminology/stimulationApproach
 stimulation technique
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1181,16 +1116,15 @@ https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
 subcellular entity
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/subcellularEntity
-
 .. admonition:: metadata
 
-   :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
-   :synonyms: cellular component
-   :preferred ontology ID: http://purl.obolibrary.org/obo/GO_0005575
-   :InterLex ID: http://uri.interlex.org/base/ilx_0111157
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/subcellularEntity
+   :definition:: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
+   :synonyms:: cellular component
+   :preferred ontology ID:: http://purl.obolibrary.org/obo/GO_0005575
+   :InterLex ID:: http://uri.interlex.org/base/ilx_0111157
+   :KnowledgeSpace entry:: https://knowledge-space.org/wiki/GO:0005575#iJ6UjX8BxpaxvvQA_2ri
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1199,16 +1133,15 @@ https://openminds.ebrains.eu/instances/terminology/subcellularEntity
 subject attribute
 -----------------
 
-https://openminds.ebrains.eu/instances/terminology/subjectAttribute
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/subjectAttribute
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1217,16 +1150,15 @@ https://openminds.ebrains.eu/instances/terminology/subjectAttribute
 tactile stimulus type
 ---------------------
 
-https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
-
 .. admonition:: metadata
 
-   :definition: A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
+   :definition:: A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1235,16 +1167,15 @@ https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
 technique
 ---------
 
-https://openminds.ebrains.eu/instances/terminology/technique
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/technique
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1253,16 +1184,15 @@ https://openminds.ebrains.eu/instances/terminology/technique
 tissue sample attribute
 -----------------------
 
-https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1271,16 +1201,15 @@ https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
 tissue sample type
 ------------------
 
-https://openminds.ebrains.eu/instances/terminology/tissueSampleType
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/tissueSampleType
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1289,16 +1218,15 @@ https://openminds.ebrains.eu/instances/terminology/tissueSampleType
 type of uncertainty
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1307,16 +1235,15 @@ https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
 unit of measurement
 -------------------
 
-https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 
@@ -1325,16 +1252,15 @@ https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
 visual stimulus type
 --------------------
 
-https://openminds.ebrains.eu/instances/terminology/visualStimulusType
-
 .. admonition:: metadata
 
-   :definition: A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.
-   :synonyms: \-
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/terminology/visualStimulusType
+   :definition:: A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.
+   :synonyms:: \-
+   :preferred ontology ID:: \-
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <terminology_>`_
 

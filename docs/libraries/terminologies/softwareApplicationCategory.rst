@@ -2,7 +2,7 @@
 SoftwareApplicationCategory
 ###########################
 
-All instances listed below can be validated against the `SoftwareApplicationCategory schema specification <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`_.
+All instances listed below can be validated against the `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`_ schema specification.
 
 ------------
 
@@ -11,16 +11,15 @@ All instances listed below can be validated against the `SoftwareApplicationCate
 application
 -----------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q166142
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q166142
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
@@ -29,16 +28,15 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
 library
 -------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q188860
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q188860
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
@@ -47,16 +45,15 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
 middleware
 ----------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q146768
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q146768
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
@@ -65,16 +62,15 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
 module
 ------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q11883090
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q11883090
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
@@ -83,16 +79,15 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
 notebook
 --------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q28405706
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q28405706
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
@@ -101,16 +96,15 @@ https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
 plugin
 ------
 
-https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
-
 .. admonition:: metadata
 
-   :definition: \-
-   :synonyms: \-
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q184148
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-   :description: \-
+   :semantic name:: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
+   :definition:: \-
+   :synonyms:: \-
+   :preferred ontology ID:: https://www.wikidata.org/wiki/Q184148
+   :InterLex ID:: \-
+   :KnowledgeSpace entry:: \-
+   :description:: \-
 
 `BACK TO TOP <softwareApplicationCategory_>`_
 
