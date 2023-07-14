@@ -16,7 +16,7 @@ Android
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Android
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q94
    :InterLex ID: \-
@@ -34,7 +34,7 @@ Linux
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q388
    :InterLex ID: \-
@@ -52,7 +52,7 @@ MacOS
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q43627
    :InterLex ID: \-
@@ -70,7 +70,7 @@ Solaris
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q14646
    :InterLex ID: \-
@@ -88,7 +88,7 @@ Unix
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Unix
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q11368
    :InterLex ID: \-
@@ -106,7 +106,7 @@ Windows
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q1406
    :InterLex ID: \-
@@ -124,7 +124,7 @@ Windows Phone
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q4885200
    :InterLex ID: \-
@@ -142,7 +142,7 @@ iOS
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/iOS
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q48493
    :InterLex ID: \-
@@ -160,7 +160,7 @@ platform independent
    :semantic name: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q174666
    :InterLex ID: \-

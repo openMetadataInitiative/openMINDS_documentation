@@ -16,7 +16,7 @@ network
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network
    :definition: A model of a neuronal network
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ network: brain region
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
    :definition: A model of one or more brain regions
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ network: microcircuit
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
    :definition: A model of a neuronal microcircuit
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ network: whole brain
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
    :definition: A model of an entire brain
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -88,7 +88,7 @@ single cell
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/singleCell
    :definition: A model of a single cell
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -106,7 +106,7 @@ subcellular
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular
    :definition: A model of an entity or process contained within a cell
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -124,7 +124,7 @@ subcellular: ion channel
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
    :definition: A model of an ion channel
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -142,7 +142,7 @@ subcellular: molecular
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
    :definition: A model of the structure or behaviour of molecules
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -160,7 +160,7 @@ subcellular: signalling
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
    :definition: A model of sub-cellular signalling pathways
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -178,7 +178,7 @@ subcellular: spine
    :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

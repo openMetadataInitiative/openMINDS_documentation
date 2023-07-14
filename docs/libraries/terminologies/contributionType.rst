@@ -16,7 +16,7 @@ coordination
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/coordination
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ data collection
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ data management
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataManagment
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ data processing
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -88,7 +88,7 @@ information technology support
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -106,7 +106,7 @@ laboratory assistance
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -124,7 +124,7 @@ marketing
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/marketing
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -142,7 +142,7 @@ metadata managment
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

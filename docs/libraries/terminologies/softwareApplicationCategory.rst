@@ -16,7 +16,7 @@ application
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q166142
    :InterLex ID: \-
@@ -34,7 +34,7 @@ library
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q188860
    :InterLex ID: \-
@@ -52,7 +52,7 @@ middleware
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q146768
    :InterLex ID: \-
@@ -70,7 +70,7 @@ module
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q11883090
    :InterLex ID: \-
@@ -88,7 +88,7 @@ notebook
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q28405706
    :InterLex ID: \-
@@ -106,7 +106,7 @@ plugin
    :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
    :definition: \-
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: https://www.wikidata.org/wiki/Q184148
    :InterLex ID: \-

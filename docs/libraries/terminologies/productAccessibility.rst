@@ -16,7 +16,7 @@ controlled access
    :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
    :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -34,7 +34,7 @@ free access
    :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
    :definition: With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -52,7 +52,7 @@ restricted access
    :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
    :definition: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-
@@ -70,7 +70,7 @@ under embargo
    :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
    :definition: With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: \-
    :InterLex ID: \-

@@ -16,7 +16,7 @@ cardiovascular system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
    :definition: 'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0004535
    :InterLex ID: http://uri.interlex.org/base/ilx_0101670
@@ -34,7 +34,7 @@ central nervous system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
    :definition: The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.
    :description: In vertebrates, the central nervous system (CNS) consists of the brain and the spinal cord. In invertebrates, it includes the central ganglia and the nerve cord.
-   ------------
+   | ------------
    :synonyms: systema nervosum centrale, CNS
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001017
    :InterLex ID: http://uri.interlex.org/base/ilx_0101901
@@ -52,7 +52,7 @@ cholinergic system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
    :definition: The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.
    :description: \-
-   ------------
+   | ------------
    :synonyms: acetylcholine system, ach system, ACh system
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002204http://purl.obolibrary.org/obo/UBERON_0025595
    :InterLex ID: http://uri.interlex.org/base/ilx_0102133
@@ -70,7 +70,7 @@ digestive system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
    :definition: The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0001007
    :InterLex ID: http://uri.interlex.org/base/ilx_0729362
@@ -88,7 +88,7 @@ gabaergic system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
    :definition: The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.
    :description: \-
-   ------------
+   | ------------
    :synonyms: GABAergic system
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025591
    :InterLex ID: http://uri.interlex.org/base/ilx_0104506
@@ -106,7 +106,7 @@ glutamatergic system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
    :definition: The glutamatergic system is composed of any molecule, protein, cell, tissue or organ that is related to glutamate (when in the role of a neurotransmitter).
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025592
    :InterLex ID: http://uri.interlex.org/base/ilx_0104682
@@ -124,7 +124,7 @@ musculoskeletal system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
    :definition: The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.
    :description: The musculoskeletal system (sometimes also called locomotor system) is subdivided into two broader systems, the skeletal system and the muscular system. The skeletal system includes bones and joints. The muscular system includes all muscles in the body.
-   ------------
+   | ------------
    :synonyms: musculo-skeletal system
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0002204
    :InterLex ID: http://uri.interlex.org/base/ilx_0728294
@@ -142,7 +142,7 @@ noradrenergic system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
    :definition: The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0027225
    :InterLex ID: http://uri.interlex.org/base/ilx_0107679
@@ -160,7 +160,7 @@ serotonergic system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
    :definition: The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.
    :description: \-
-   ------------
+   | ------------
    :synonyms: serotonin system, 5HT system, 5-HT system, 5-ht system, 5ht system
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0025593
    :InterLex ID: http://uri.interlex.org/base/ilx_0110555
@@ -178,7 +178,7 @@ vascular system
    :semantic name: https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
    :definition: The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.
    :description: \-
-   ------------
+   | ------------
    :synonyms: \-
    :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007798
    :InterLex ID: http://uri.interlex.org/base/ilx_0726589
