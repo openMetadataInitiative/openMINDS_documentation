@@ -111,6 +111,18 @@ class InstancesDocBuilder(object):
     def _target_file_without_extension(self, target_basename:str) -> str:
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
+    def _extract_datatypes(self, datatypes:List) -> str:
+        if len(datatypes) == 1 and datatypes[0] == "\-":
+            return datatypes[0]
+        else:
+            dt_linklist = []
+            for datatype in datatypes:
+                dt_camelCase = datatype["@id"].split("/")[-1]
+                dt_name = self.instances_libraries["terminologies"]["dataType"][dt_camelCase]
+                dt_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"dataType.html#{dt_name.replace(' ', '-')}")
+                dt_linklist.append(f"`{dt_name} <{dt_link}>`_")
+            return ", ".join(dt_linklist)
+
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
@@ -158,6 +170,29 @@ class InstancesDocBuilder(object):
             for ct_name, ct_data in sorted(data_to_display.items()):
                 doc.heading(ct_data["name"], char="-")
                 doc.newline()
+                doc.directive(name="admonition", arg="metadata sheet")
+                doc.newline()
+                field_list_indent = 3
+                doc.field(name="semantic name", value=ct_data["@id"], indent=field_list_indent)
+                displaylabel = ct_data["displayLabel"] if "displayLabel" in ct_data and ct_data["displayLabel"] else "\-"
+                doc.field(name="display label", value=displaylabel, indent=field_list_indent)
+                extensions = ct_data["fileExtension"] if "fileExtension" in ct_data and ct_data["fileExtension"] else "\-"
+                doc.field(name="file extensions", value=", ".join(extensions), indent=field_list_indent)
+                synonyms = ct_data["synonym"] if "synonym" in ct_data and ct_data["synonym"] else "\-"
+                doc.field(name="synonyms", value=", ".join(synonyms), indent=field_list_indent)
+                description = ct_data["description"] if "description" in ct_data and ct_data["description"] else "\-"
+                doc.field(name="description", value=description, indent=field_list_indent)
+                specification = ct_data["specification"] if "specification" in ct_data and ct_data["specification"] else "\-"
+                doc.field(name="specification", value=specification, indent=field_list_indent)
+                datatypes = ct_data["dataType"] if "dataType" in ct_data and ct_data["dataType"] else ["\-"]
+                doc.field(name="data types", value=self._extract_datatypes(datatypes), indent=field_list_indent)
+                mediatype = ct_data["relatedMediaType"] if "relatedMediaType" in ct_data and ct_data["relatedMediaType"] else "\-"
+                doc.field(name="related media type", value=", ".join(mediatype), indent=field_list_indent)
+                doc.newline()
+                doc.content(f"`BACK TO TOP <ContentTypes_>`_")
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
 
     def _build_licenses(self, target_file:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -181,6 +216,11 @@ class InstancesDocBuilder(object):
                 if len(webpage) > 1:
                     multiline_indent = len(field_name) + 3 + field_list_indent
                     doc.content(webpage[1], indent=multiline_indent)
+                doc.newline()
+                doc.content(f"`BACK TO TOP <Licenses_>`_")
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
 
     def _build_brain_atlas(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
