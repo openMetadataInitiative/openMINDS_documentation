@@ -14,7 +14,7 @@ application/vnd.3i.slidebook
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -32,7 +32,7 @@ application/4-mat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -50,7 +50,7 @@ application/5-mat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -64,11 +64,11 @@ application/vnd.ANTEEProbe
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ANTEEProbe
    :display label: \-
    :file extensions: .cnt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -82,11 +82,11 @@ image/vnd.adobe.photoshop
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/image/vnd.adobe.photoshop
    :display label: \-
    :file extensions: .psd
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -104,7 +104,7 @@ application/vnd.afni
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -118,11 +118,11 @@ application/vnd.alicona
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.alicona
    :display label: \-
    :file extensions: .al3d
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -140,7 +140,7 @@ application/vnd.alphaomega-eng
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -154,11 +154,11 @@ application/vnd.amiramesh
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.amiramesh
    :display label: \-
    :file extensions: .labels, .hx, .grey, .amiramesh, .am
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -176,7 +176,7 @@ application/vnd.amnis-flowsight
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -194,7 +194,7 @@ application/vnd.analysisservices
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -212,7 +212,7 @@ application/vnd.analyze.analyze75
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -230,7 +230,7 @@ application/vnd.analyze.analyzeavw
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -248,7 +248,7 @@ image/tiff.andor.abd
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -266,7 +266,7 @@ application/vnd.andor.andorsif
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -284,7 +284,7 @@ application/vnd.ansysfluent
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -298,11 +298,11 @@ application/vnd.ant.eeprobe
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ant.eeprobe
    :display label: \-
    :file extensions: .cnt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -320,7 +320,7 @@ application/vnd.anywave
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -334,11 +334,11 @@ application/vnd.applied-precision.cellworx
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.applied-precision.cellworx
    :display label: \-
    :file extensions: .pnl, .htd
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -356,7 +356,7 @@ application/vnd.asciidoc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -370,11 +370,11 @@ application/vnd.autodesk.3ds-max.3d-studio-mesh
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.autodesk.3ds-max.3d-studio-mesh
    :display label: \-
    :file extensions: .3ds
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -392,7 +392,7 @@ application/vnd.avs.ucd
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -410,7 +410,7 @@ application/vnd.axograph
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -424,11 +424,11 @@ application/vnd.bbp.bluron
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bbp.bluron
    :display label: \-
    :file extensions: .dat
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -442,11 +442,11 @@ application/vnd.bbp.simulation.blueconfig
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bbp.simulation.blueconfig
    :display label: \-
    :file extensions: .cfg
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -464,7 +464,7 @@ application/vnd.bci2000
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -482,7 +482,7 @@ application/vnd.bd-biosciences.bdpathway
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -500,7 +500,7 @@ application/vnd.becker-hickl.spcfifo
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -518,7 +518,7 @@ application/vnd.becker-hickl.spcimage
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -531,12 +531,12 @@ application/vnd.bids
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bids
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: BIDS
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -554,7 +554,7 @@ application/vnd.bids.electrodesformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -572,7 +572,7 @@ application/vnd.bigdataviewer
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -590,7 +590,7 @@ application/vnd.bigdataviewer+h5
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -608,7 +608,7 @@ application/vnd.bio-rad.gel
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -626,7 +626,7 @@ application/vnd.bio-rad.pic
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -644,7 +644,7 @@ application/vnd.bio-rad.scn
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -662,7 +662,7 @@ application/vnd.bionetgen
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -680,7 +680,7 @@ application/vnd.blackrockmicrosystems.neuralevents
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -698,7 +698,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.1
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -716,7 +716,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.2
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -734,7 +734,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.3
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -752,7 +752,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.4
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -770,7 +770,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.5
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -788,7 +788,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.6
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -806,7 +806,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.7
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -824,7 +824,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.8
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -842,7 +842,7 @@ application/vnd.blackrockmicrosystems.neuralsignals.9
    :description: \-
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -860,7 +860,7 @@ application/vnd.blackrockmicrosystems.parallelrecordings
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -878,7 +878,7 @@ application/vnd.blk
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -896,7 +896,7 @@ application/vnd.bluebrainproject.bluepyopt
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -914,7 +914,7 @@ image/bmp
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, i, m, a, g, e, /, b, m, p
+   :related media type: https://www.iana.org/assignments/media-types/image/bmp
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -928,11 +928,11 @@ application/vnd.brain-innovation.brainvoyager
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brain-innovation.brainvoyager
    :display label: \-
    :file extensions: .v16, .vmr
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -946,11 +946,11 @@ application/vnd.brainnetviewer
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainnetviewer
    :display label: \-
    :file extensions: .nv
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -964,11 +964,11 @@ application/vnd.brainproducts
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainproducts
    :display label: \-
    :file extensions: .vhdr
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -982,11 +982,11 @@ application/vnd.brains2
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brains2
    :display label: \-
    :file extensions: .mask
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1004,7 +1004,7 @@ application/vnd.brainvision.binary
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1022,7 +1022,7 @@ application/vnd.brainvision.header
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1040,7 +1040,7 @@ application/vnd.brainvision.marker
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1054,11 +1054,11 @@ application/vnd.bsc
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bsc
    :display label: \-
    :file extensions: .row
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1076,7 +1076,7 @@ application/vnd.bsc.paraver.configurationfile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1090,11 +1090,11 @@ application/vnd.burleigh-instruments.burleigh
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.burleigh-instruments.burleigh
    :display label: \-
    :file extensions: .img
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1112,7 +1112,7 @@ application/vnd.byu
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1126,11 +1126,11 @@ application/vnd.canon.canondng
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.canon.canondng
    :display label: \-
    :file extensions: .crw, .c2r
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1144,11 +1144,11 @@ application/vnd.cell-sens-vsi
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cell-sens-vsi
    :display label: \-
    :file extensions: .vsi
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1162,11 +1162,11 @@ application/vnd.cellh5+hdf5
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cellh5+hdf5
    :display label: \-
    :file extensions: .ch5
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1180,11 +1180,11 @@ text/cfg
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/cfg
    :display label: \-
    :file extensions: .cfg
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1202,7 +1202,7 @@ application/vnd.commonworkflowlanguage.cmdline
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1220,7 +1220,7 @@ application/vnd.commonworkflowlanguage.workflow
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1238,7 +1238,7 @@ image/vnd.compix.simplepcihcimage
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1252,11 +1252,11 @@ application/vnd.connectomics-lab.connectome
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.connectomics-lab.connectome
    :display label: \-
    :file extensions: .cff
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1274,7 +1274,7 @@ text/csv
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, t, e, x, t, /, c, s, v
+   :related media type: https://www.iana.org/assignments/media-types/text/csv
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1288,11 +1288,11 @@ application/vnd.ctf
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ctf
    :display label: \-
    :file extensions: .ds
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1306,11 +1306,11 @@ application/vnd.cytiva.deltavision
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cytiva.deltavision
    :display label: \-
    :file extensions: .rcpnl, .r3d, .dv
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1328,7 +1328,7 @@ application/dicom
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, d, i, c, o, m
+   :related media type: https://www.iana.org/assignments/media-types/application/dicom
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1346,7 +1346,7 @@ application/vnd.edf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1360,11 +1360,11 @@ application/vnd.edf+
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.edf+
    :display label: \-
    :file extensions: .edf
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1378,11 +1378,11 @@ application/vnd.eeglab
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.eeglab
    :display label: \-
    :file extensions: .sat
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1396,11 +1396,11 @@ application/vnd.egi
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.egi
    :display label: \-
    :file extensions: .mff
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1414,11 +1414,11 @@ application/vnd.egi.mff
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.egi.mff
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1436,7 +1436,7 @@ application/vnd.elan.continuous-data
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1454,7 +1454,7 @@ application/vnd.elan.event
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1472,7 +1472,7 @@ application/vnd.elekta
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1490,7 +1490,7 @@ application/vnd.elphy
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1508,7 +1508,7 @@ application/vnd.enhancedswc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1526,7 +1526,7 @@ application/vnd.ensight
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1540,11 +1540,11 @@ application/vnd.enzo.amr+hdf5
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.enzo.amr+hdf5
    :display label: \-
    :file extensions: .hdf5
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1558,11 +1558,11 @@ application/vnd.exodusII
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.exodusII
    :display label: \-
    :file extensions: .gen, .g, .exoii, .exo, .exii, .ex2v2, .ex2, .e, .0000, .000, .00, .0
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1576,11 +1576,11 @@ application/vnd.faconstructor.3d-pli
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.faconstructor.3d-pli
    :display label: \-
    :file extensions: .txt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1594,11 +1594,11 @@ application/vnd.faconstructor.3d-pli+hdf5
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.faconstructor.3d-pli+hdf5
    :display label: \-
    :file extensions: .hdf5
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1612,11 +1612,11 @@ application/vnd.fei
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.fei
    :display label: \-
    :file extensions: .img
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1630,11 +1630,11 @@ application/vnd.fmri.cifti.2
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.fmri.cifti.2
    :display label: \-
    :file extensions: .nii.gz, .dtseries.nii
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1648,11 +1648,11 @@ application/vnd.freesurfer
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.freesurfer
    :display label: \-
    :file extensions: .white, .sphere, .smoothwm, .pial, .orig, .inflated, .mgz, .mgh
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1670,7 +1670,7 @@ application/vnd.g-node.nix+hdf5
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1683,12 +1683,12 @@ application/vnd.gatan.digitalmicrograph2
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.gatan.digitalmicrograph2
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Gatan Digital Micrograph 2
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1706,7 +1706,7 @@ application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1724,7 +1724,7 @@ application/vnd.ge-healthcare.incell.1000-2000
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1742,7 +1742,7 @@ application/vnd.ge-healthcare.incell.3000
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1760,7 +1760,7 @@ application/vnd.ge-healthcare.microct
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1778,7 +1778,7 @@ application/vnd.geomview.oogl
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1792,11 +1792,11 @@ application/vnd.gifti
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.gifti
    :display label: \-
    :file extensions: .gii
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1814,7 +1814,7 @@ application/vnd.hamamatsu.aquacosmos
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1832,7 +1832,7 @@ application/vnd.hamamatsu.his
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1850,7 +1850,7 @@ application/vnd.hamamatsu.ndpi
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1868,7 +1868,7 @@ application/vnd.hamamatsu.vms
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1886,7 +1886,7 @@ application/vnd.hitachi.s-4800
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1904,7 +1904,7 @@ application/vnd.neuron-simulator+hoc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1922,7 +1922,7 @@ text/html
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, t, e, x, t, /, h, t, m, l
+   :related media type: https://www.iana.org/assignments/media-types/text/html
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1940,7 +1940,7 @@ application/vnd.hyland.brainwaredam
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1958,7 +1958,7 @@ application/vnd.hyland.brainwaref32
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1976,7 +1976,7 @@ application/vnd.hyland.brainwaresrc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -1994,7 +1994,7 @@ application/vnd.ics
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2012,7 +2012,7 @@ application/vnd.igorpro
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2030,7 +2030,7 @@ application/vnd.imacon
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2048,7 +2048,7 @@ application/vnd.imagepro.sequence
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2066,7 +2066,7 @@ application/vnd.imagepro.workspace
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2080,11 +2080,11 @@ application/vnd.imagic
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imagic
    :display label: \-
    :file extensions: .img, .hed
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2102,7 +2102,7 @@ application/vnd.imod
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2120,7 +2120,7 @@ image/tiff.improvision
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2138,7 +2138,7 @@ application/vnd.improvision.openlab
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2156,7 +2156,7 @@ application/vnd.abberior.imspector
    :description: \-
    :specification: https://imspectordocs.readthedocs.io/en/latest/fileformat.html#the-imspector-msr-file-format
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2174,7 +2174,7 @@ application/vnd.indec-biosystems.axonrawformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2192,7 +2192,7 @@ application/vnd.intan.technology
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2210,7 +2210,7 @@ application/vnd.intranat+csv
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2228,7 +2228,7 @@ application/vnd.intranat+txt
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2246,7 +2246,7 @@ application/vnd.inveon
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2264,7 +2264,7 @@ image/tiff.ionpath.mibi
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2282,7 +2282,7 @@ application/vnd.iplab
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2296,11 +2296,11 @@ application/vnd.itk
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.itk
    :display label: \-
    :file extensions: .mhd, .mha
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2318,7 +2318,7 @@ application/vnd.ivision
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2336,7 +2336,7 @@ application/vnd.jeol
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2354,7 +2354,7 @@ image/jp2
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2372,7 +2372,7 @@ image/jpeg
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2390,7 +2390,7 @@ application/json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2408,7 +2408,7 @@ application/vnd.keller-lab.block
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2426,7 +2426,7 @@ application/vnd.khoros.viff.bitmap
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2440,11 +2440,11 @@ application/vnd.kitware.paraview.pvt
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.kitware.paraview.pvt
    :display label: \-
    :file extensions: .pvtu, .pvts, .pvtr, .pvtp, .ptvi, .pvtb
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2457,12 +2457,12 @@ application/vnd.klustakwik
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.klustakwik
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: KlustaKwik Format
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2480,7 +2480,7 @@ application/vnd.kodak.bip
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2498,7 +2498,7 @@ application/vnd.kwik
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2516,7 +2516,7 @@ application/vnd.laboratory-imaging.nikon
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2534,7 +2534,7 @@ application/vnd.lambert-instruments.flim
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2552,7 +2552,7 @@ application/vnd.lavision.imspector
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2570,7 +2570,7 @@ application/ld+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, l, d, +, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/ld+json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2584,11 +2584,11 @@ application/vnd.leica-biosystems.aperio
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica-biosystems.aperio
    :display label: \-
    :file extensions: .svs, .afi
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2602,11 +2602,11 @@ application/vnd.leica-biosystems.aperiosvstiff
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica-biosystems.aperiosvstiff
    :display label: \-
    :file extensions: .tiff, .svs
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2624,7 +2624,7 @@ application/vnd.leica.las.af.lif
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2642,7 +2642,7 @@ application/vnd.leica.lcs.lei
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2660,7 +2660,7 @@ application/vnd.leica.scn
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2678,7 +2678,7 @@ application/vnd.li-cor.l2d
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2696,7 +2696,7 @@ application/vnd.libreoffice
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2714,7 +2714,7 @@ application/vnd.ls-dyna
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2732,7 +2732,7 @@ text/markdown
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, t, e, x, t, /, m, a, r, k, d, o, w, n
+   :related media type: https://www.iana.org/assignments/media-types/text/markdown
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2746,11 +2746,11 @@ application/vnd.mbf.neurolucida
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mbf.neurolucida
    :display label: \-
    :file extensions: .nrx, .dat, .asc
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2768,7 +2768,7 @@ application/vnd.mcid
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2786,7 +2786,7 @@ application/vnd.mearec
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2804,7 +2804,7 @@ image/tiff.metamorph.75
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2822,7 +2822,7 @@ application/vnd.metamorph.stack
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2840,7 +2840,7 @@ application/vnd.metaxpress
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2858,7 +2858,7 @@ image/tiff.mias
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2876,7 +2876,7 @@ application/vnd.micro-manager
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2890,11 +2890,11 @@ application/vnd.micromed
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.micromed
    :display label: \-
    :file extensions: .trc
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2912,7 +2912,7 @@ application/vnd.micromedgroup
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2930,7 +2930,7 @@ image/tiff.mikroscan
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2948,7 +2948,7 @@ application/vnd.minc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2962,11 +2962,11 @@ application/vnd.minds+json
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.minds+json
    :display label: \-
    :file extensions: .json
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -2984,7 +2984,7 @@ application/vnd.minolta
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3002,7 +3002,7 @@ application/vnd.mitk.fiber
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3020,7 +3020,7 @@ application/vnd.molecular-imaging
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3038,7 +3038,7 @@ application/vnd.moleculardevices.axon
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3056,7 +3056,7 @@ video/mp4
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, v, i, d, e, o, /, m, p, 4
+   :related media type: https://www.iana.org/assignments/media-types/video/mp4
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3074,7 +3074,7 @@ application/vnd.mrc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3092,7 +3092,7 @@ application/vnd.mrtrix.imageformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3110,7 +3110,7 @@ application/vnd.mrtrix.legacysparseformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3128,7 +3128,7 @@ application/vnd.ms-excel
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, v, n, d, ., m, s, -, e, x, c, e, l
+   :related media type: https://www.iana.org/assignments/media-types/application/vnd.ms-excel
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3146,7 +3146,7 @@ application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, v, n, d, ., o, p, e, n, x, m, l, f, o, r, m, a, t, s, -, o, f, f, i, c, e, d, o, c, u, m, e, n, t, ., s, p, r, e, a, d, s, h, e, e, t, m, l, ., s, h, e, e, t
+   :related media type: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3164,7 +3164,7 @@ application/vnd.neo.ascii.image
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3182,7 +3182,7 @@ application/vnd.neo.ascii.signal
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3200,7 +3200,7 @@ application/vnd.neo.ascii.spiketrain
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3214,11 +3214,11 @@ application/vnd.nest
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nest
    :display label: \-
    :file extensions: .gdf, .dat
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3236,7 +3236,7 @@ application/vnd.netpbm.portableanymap
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3250,11 +3250,11 @@ application/vnd.neuralensemble
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralensemble
    :display label: \-
    :file extensions: .neo
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3272,7 +3272,7 @@ application/vnd.neuralynx
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3290,7 +3290,7 @@ application/vnd.neuroml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3304,11 +3304,11 @@ application/vnd.neuron.mod
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuron.mod
    :display label: \-
    :file extensions: .mod
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3321,12 +3321,12 @@ application/vnd.neuroscope
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroscope
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: NeuroScope format files
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3339,12 +3339,12 @@ application/vnd.neuroshareapi
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroshareapi
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Neuroshare compatible files
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3362,7 +3362,7 @@ application/vnd.nfsim
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3380,7 +3380,7 @@ application/vnd.nifti.1
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3398,7 +3398,7 @@ application/vnd.nifti.2
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3412,11 +3412,11 @@ application/vnd.nikon
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nikon
    :display label: \-
    :file extensions: .ids, .ics
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3434,7 +3434,7 @@ image/tiff.nikon.elements
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3452,7 +3452,7 @@ image/tiff.nikon.ez-c1
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3470,7 +3470,7 @@ application/vnd.nikon.nef
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3488,7 +3488,7 @@ application/vnd.nikon.nis-elements
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3506,7 +3506,7 @@ application/vnd.nineml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3524,7 +3524,7 @@ application/vnd.g-node.nix.neo
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3542,7 +3542,7 @@ application/vnd.nrrd
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3560,7 +3560,7 @@ application/vnd.nsdf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3578,7 +3578,7 @@ application/vnd.nutil.quantifier+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3596,7 +3596,7 @@ application/vnd.nwb.nwbn+hdf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3614,7 +3614,7 @@ application/octet-stream
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, o, c, t, e, t, -, s, t, r, e, a, m
+   :related media type: https://www.iana.org/assignments/media-types/application/octet-stream
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3632,7 +3632,7 @@ application/vnd.g-node.odml
    :description: \-
    :specification: https://g-node.github.io/python-odml/
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3650,7 +3650,7 @@ application/vnd.olympus
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3668,7 +3668,7 @@ application/vnd.olympus.cellr-apl
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3686,7 +3686,7 @@ image/tiff.olympus.fluoview
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3704,7 +3704,7 @@ application/vnd.olympus.fluoview.fv1000
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3722,7 +3722,7 @@ application/vnd.olympus.scanr
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3740,7 +3740,7 @@ image/tiff.olympus.sis
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3758,7 +3758,7 @@ application/vnd.ome.tiff
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3776,7 +3776,7 @@ application/vnd.ome.xml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3794,7 +3794,7 @@ application/vnd.openxmlformats-officedocument.wordprocessingml.document
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, v, n, d, ., o, p, e, n, x, m, l, f, o, r, m, a, t, s, -, o, f, f, i, c, e, d, o, c, u, m, e, n, t, ., w, o, r, d, p, r, o, c, e, s, s, i, n, g, m, l, ., d, o, c, u, m, e, n, t
+   :related media type: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3808,11 +3808,11 @@ application/vnd.opendx
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.opendx
    :display label: \-
    :file extensions: .dx
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3825,12 +3825,12 @@ application/vnd.openephys
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openephys
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Open Ephys Format
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3848,7 +3848,7 @@ application/vnd.oxford-instruments
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3866,7 +3866,7 @@ application/vnd.oxford-instruments.bitplaneimaris
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3884,7 +3884,7 @@ application/vnd.pco.pcoraw
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3902,7 +3902,7 @@ application/pdf
    :description: \-
    :specification: https://www.pdfa.org/resource/iso-32000-2-pdf-2-0/
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, p, d, f
+   :related media type: https://www.iana.org/assignments/media-types/application/pdf
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3920,7 +3920,7 @@ application/vnd.perkinelmer.columbus
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3938,7 +3938,7 @@ application/vnd.perkinelmer.densitometer
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3956,7 +3956,7 @@ application/vnd.perkinelmer.evotec
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3974,7 +3974,7 @@ application/vnd.perkinelmer.nuance
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -3992,7 +3992,7 @@ application/vnd.perkinelmer.operetta
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4010,7 +4010,7 @@ application/vnd.perkinelmer.ultraview
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4028,7 +4028,7 @@ application/vnd.perkinelmer.vectra
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4042,11 +4042,11 @@ application/vnd.perkinelmer.volocity
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.volocity
    :display label: \-
    :file extensions: .mvd2
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4060,11 +4060,11 @@ application/vnd.perkinelmer.volocitylibraryclipping
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.volocitylibraryclipping
    :display label: \-
    :file extensions: .acff
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4082,7 +4082,7 @@ image/tiff.photoshop
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4100,7 +4100,7 @@ application/vnd.pickle
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4118,7 +4118,7 @@ application/vnd.picoquant
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4136,7 +4136,7 @@ application/vnd.pixar.renderman.interface-bytestream
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4154,7 +4154,7 @@ text/plain
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4172,7 +4172,7 @@ application/vnd.plexon
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4190,7 +4190,7 @@ application/vnd.plexon.neuroexplorer
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4208,7 +4208,7 @@ application/vnd.plot3d
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4226,7 +4226,7 @@ image/png
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, i, m, a, g, e, /, p, n, g
+   :related media type: https://www.iana.org/assignments/media-types/image/png
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4244,7 +4244,7 @@ application/vnd.pov-ray.densityfile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4262,7 +4262,7 @@ application/vnd.prairie-technologies
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4280,7 +4280,7 @@ application/vnd.princeton-instruments
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4294,11 +4294,11 @@ text/prs.fallenstein.rst
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/prs.fallenstein.rst
    :display label: \-
    :file extensions: .txt, .rst
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4316,7 +4316,7 @@ application/vnd.arbor-simulator+python
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4334,7 +4334,7 @@ application/vnd.nest-simulator+python
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4352,7 +4352,7 @@ application/vnd.neuron-simulator+python
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4370,7 +4370,7 @@ application/vnd.neuralensemble.pynn
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4388,7 +4388,7 @@ application/vnd.quesant
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4406,7 +4406,7 @@ application/vnd.quicknii+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4424,7 +4424,7 @@ application/vnd.quicknii+xml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, x, m, l
+   :related media type: https://www.iana.org/assignments/media-types/application/xml
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4442,7 +4442,7 @@ application/vnd.quicknii.flat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4460,7 +4460,7 @@ video/quicktime
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4478,7 +4478,7 @@ application/vnd.raw.binarysignal
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4496,7 +4496,7 @@ application/vnd.raw.mcs
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4514,7 +4514,7 @@ application/vnd.rawbinarysignal
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4532,7 +4532,7 @@ application/vnd.rhk
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4550,7 +4550,7 @@ application/vnd.rochedigitaldiagnostics.ventana
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4568,7 +4568,7 @@ application/sbml+xml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, s, b, m, l, +, x, m, l
+   :related media type: https://www.iana.org/assignments/media-types/application/sbml+xml
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4586,7 +4586,7 @@ application/vnd.sbtab
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4600,11 +4600,11 @@ application/vnd.scalasca.cube3
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.scalasca.cube3
    :display label: \-
    :file extensions: .cube
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4618,11 +4618,11 @@ application/vnd.scalasca.cube4
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.scalasca.cube4
    :display label: \-
    :file extensions: .cubex
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4640,7 +4640,7 @@ application/schema+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, s, c, h, e, m, a, +, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/schema+json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4654,11 +4654,11 @@ application/vnd.score-p.filter
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.score-p.filter
    :display label: \-
    :file extensions: .txt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4676,7 +4676,7 @@ application/vnd.score-p.log
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4694,7 +4694,7 @@ application/vnd.score-p.score
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4712,7 +4712,7 @@ application/vnd.seiko
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4730,7 +4730,7 @@ text/semicolon-separated-values
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4744,11 +4744,11 @@ application/vnd.siemens.ecat7
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.siemens.ecat7
    :display label: \-
    :file extensions: .v
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4766,7 +4766,7 @@ image/vnd.silicongraphicsimage
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4779,12 +4779,12 @@ application/vnd.sivic
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sivic
    :display label: \-
-   :file extensions: \, -
-   :synonyms: \, -
+   :file extensions: \-
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4797,12 +4797,12 @@ application/vnd.snakemake.snakefile
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.snakemake.snakefile
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Snakefile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4816,11 +4816,11 @@ application/vnd.sonata
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata
    :display label: \-
    :file extensions: .csv, .h5, .json
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4833,12 +4833,12 @@ application/vnd.sonata.nest
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.nest
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: SONATA:NEST
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4851,12 +4851,12 @@ application/vnd.sonata.neuron
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.neuron
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: SONATA:NEURON
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4869,12 +4869,12 @@ application/vnd.sonata.pynn
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.pynn
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: SONATA:PyNN
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4892,7 +4892,7 @@ application/vnd.spike2.sonpy.son
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4905,12 +4905,12 @@ application/vnd.spikeglx.system
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spikeglx.system
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: SpikeGLX system
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4924,11 +4924,11 @@ application/vnd.spm
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spm
    :display label: \-
    :file extensions: .mat
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4946,7 +4946,7 @@ application/vnd.spmfile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4964,7 +4964,7 @@ application/vnd.stimfit
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -4978,11 +4978,11 @@ application/vnd.stimulate
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.stimulate
    :display label: \-
    :file extensions: .spr, .sdt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5000,7 +5000,7 @@ application/vnd.structuredatafile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5013,12 +5013,12 @@ application/vnd.tdt
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tdt
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Tucker David TTank format
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5032,11 +5032,11 @@ application/vnd.tecplot
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tecplot
    :display label: \-
    :file extensions: .txt
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5050,11 +5050,11 @@ application/vnd.thermo-fisher-scientific.cellomics
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thermo-fisher-scientific.cellomics
    :display label: \-
    :file extensions: .dib, .c01
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5072,7 +5072,7 @@ application/vnd.thevirtualbrain
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5090,7 +5090,7 @@ image/tiff
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, i, m, a, g, e, /, t, i, f, f
+   :related media type: https://www.iana.org/assignments/media-types/image/tiff
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5108,7 +5108,7 @@ image/tiff.multichannel
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5126,7 +5126,7 @@ image/tiff.multipage
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5140,11 +5140,11 @@ application/vnd.tillphotonics.tillvision
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tillphotonics.tillvision
    :display label: \-
    :file extensions: .vws
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5158,11 +5158,11 @@ application/vnd.traces+xml
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.traces+xml
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5180,7 +5180,7 @@ application/vnd.trackscalarfile
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5198,7 +5198,7 @@ application/vnd.tracksfileformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5212,11 +5212,11 @@ application/vnd.trackvis.trackfile
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.trackvis.trackfile
    :display label: \-
    :file extensions: .trk
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5234,7 +5234,7 @@ application/vnd.treslte
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5252,7 +5252,7 @@ text/tab-separated-values
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, t, e, x, t, /, t, a, b, -, s, e, p, a, r, a, t, e, d, -, v, a, l, u, e, s
+   :related media type: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5270,7 +5270,7 @@ application/vnd.ubm
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5288,7 +5288,7 @@ application/vnd.unicore.workflow+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5306,7 +5306,7 @@ application/vnd.unisoku
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5320,11 +5320,11 @@ application/vnd.vaa3d.apo
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.apo
    :display label: \-
    :file extensions: .csv, .apo
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5338,11 +5338,11 @@ application/vnd.vaa3d.marker
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.marker
    :display label: \-
    :file extensions: .csv, .marker
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5356,11 +5356,11 @@ application/vnd.vaa3d.rawfile
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.rawfile
    :display label: \-
    :file extensions: .v3draw, .raw, .v3dpbd
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5378,7 +5378,7 @@ application/vnd.vaa3d.surfaceformat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5396,7 +5396,7 @@ application/vnd.varianfdf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5414,7 +5414,7 @@ application/vnd.veeco
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5432,7 +5432,7 @@ application/vnd.veecoafm
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5450,7 +5450,7 @@ application/vnd.vfgen
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5464,11 +5464,11 @@ application/vnd.vgsam
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vgsam
    :display label: \-
    :file extensions: .dti
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5482,11 +5482,11 @@ application/vnd.visitechinternational.xys
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.visitechinternational.xys
    :display label: \-
    :file extensions: .html, .xys
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5504,7 +5504,7 @@ application/vnd.visualign+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, j, s, o, n
+   :related media type: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5522,7 +5522,7 @@ application/vnd.ants.linearTransform+mat
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5540,7 +5540,7 @@ application/vnd.ants.nonlinearTransform+hdf5
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5553,12 +5553,12 @@ application/vnd.ebrains.image-service.deepzoom
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ebrains.image-service.deepzoom
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: EBRAINS image-service with Deep Zoom specifications, EBRAINS image-service Deep Zoom specs
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Microsoft Deep Zoom specifications.
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5571,12 +5571,12 @@ application/vnd.ebrains.image-service.neuroglancer.precomputed
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ebrains.image-service.neuroglancer.precomputed
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: EBRAINS image-service with Neuroglancer precomputed specifications, EBRAINS image-service Neuroglancer precomputed specs
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Neuroglancer precomputed specifications.
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5590,11 +5590,11 @@ application/vnd.espina.seg+zip
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.espina.seg+zip
    :display label: \-
    :file extensions: .seg
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5612,7 +5612,7 @@ application/vnd.freesurfer.annotation
    :description: \-
    :specification: https://surfer.nmr.mgh.harvard.edu/fswiki/LabelsClutsAnnotationFiles#Annotation
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5630,7 +5630,7 @@ application/vnd.mathworks.live-script+zip
    :description: \-
    :specification: https://de.mathworks.com/help/matlab/matlab_prog/live-script-file-format.html
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5648,7 +5648,7 @@ application/vnd.microsoft.deepzoom.collection+xml
    :description: \-
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5666,7 +5666,7 @@ application/vnd.microsoft.deepzoom.image+xml
    :description: \-
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5679,12 +5679,12 @@ application/vnd.neuroglancer.precomputed
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Neuroglancer precomputed
    :description: \-
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5697,12 +5697,12 @@ application/vnd.neuroglancer.precomputed.info+json
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed.info+json
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Neuroglancer precomputed info, Neuroglancer precomputed metadata
    :description: \-
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5715,12 +5715,12 @@ application/vnd.neuroglancer.precomputed.raw
 
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed.raw
    :display label: \-
-   :file extensions: \, -
+   :file extensions: \-
    :synonyms: Neuroglancer precomputed raw
    :description: \-
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5734,11 +5734,11 @@ application/vnd.nexstim.nbs-system.data
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nexstim.nbs-system.data
    :display label: \-
    :file extensions: .nxe
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5756,7 +5756,7 @@ application/vnd.nutil.parameters
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5774,7 +5774,7 @@ application/vnd.nutil.results+csv
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5788,11 +5788,11 @@ application/vnd.sciunit.model
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sciunit.model
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5806,11 +5806,11 @@ application/vnd.sciunit.test
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sciunit.test
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5824,11 +5824,11 @@ application/vnd.thevirtualbrain.metadata+tsv
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain.metadata+tsv
    :display label: \-
    :file extensions: .tsv
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5846,7 +5846,7 @@ application/vnd.voluba.v1.landmarkPairs+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5864,7 +5864,7 @@ application/vnd.voluba.v1.linearTransform+json
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5882,7 +5882,7 @@ application/vnd.volumeproperty
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5896,11 +5896,11 @@ application/vnd.vtb
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtb
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5914,11 +5914,11 @@ application/vnd.vth
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vth
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5932,11 +5932,11 @@ application/vnd.vthb
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vthb
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5950,11 +5950,11 @@ application/vnd.vti
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vti
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5968,11 +5968,11 @@ application/vnd.vtm
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtm
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -5986,11 +5986,11 @@ application/vnd.vtmb
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtmb
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6004,11 +6004,11 @@ application/vnd.vtp
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtp
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6022,11 +6022,11 @@ application/vnd.vtr
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtr
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6040,11 +6040,11 @@ application/vnd.vts
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vts
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6058,11 +6058,11 @@ application/vnd.vtu
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtu
    :display label: \-
    :file extensions: .xml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6080,7 +6080,7 @@ application/vnd.wadsworthcenter.spider
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6098,7 +6098,7 @@ application/vnd.watechnology.wa-top
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6116,7 +6116,7 @@ application/vnd.wavefronttechnologies
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, m, o, d, e, l, /, o, b, j
+   :related media type: https://www.iana.org/assignments/media-types/model/obj
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6134,7 +6134,7 @@ application/vnd.wavefronttechnologies.mtl
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, m, o, d, e, l, /, m, t, l
+   :related media type: https://www.iana.org/assignments/media-types/model/mtl
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6148,11 +6148,11 @@ application/vnd.wavemetrics.igorpro
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.wavemetrics.igorpro
    :display label: \-
    :file extensions: .igor
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6170,7 +6170,7 @@ application/vnd.winedr
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6188,7 +6188,7 @@ application/vnd.winwcp
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6202,11 +6202,11 @@ application/vnd.woolz
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.woolz
    :display label: \-
    :file extensions: .wlz
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6224,7 +6224,7 @@ application/x-blender
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6238,11 +6238,11 @@ text/x-cml+xml
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-cml+xml
    :display label: \-
    :file extensions: .cml
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: http://www.xml-cml.org/schema/schema3/schema.xsd
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6260,7 +6260,7 @@ image/x-eps
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6278,7 +6278,7 @@ application/x-font-speedo
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6296,7 +6296,7 @@ application/x-hdf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6314,7 +6314,7 @@ application/x-ipynb+json
    :description: \-
    :specification: https://nbformat.readthedocs.io/en/latest/format_description.html
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6332,7 +6332,7 @@ application/x-kseg
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6346,11 +6346,11 @@ application/x-latex
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/x-latex
    :display label: \-
    :file extensions: .latex
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6368,7 +6368,7 @@ text/x-matlab
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6382,11 +6382,11 @@ application/vnd.x-matlab-data
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.matlab
    :display label: \-
    :file extensions: .mat
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6404,7 +6404,7 @@ video/x-msvideo
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6422,7 +6422,7 @@ application/x-netcdf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6440,7 +6440,7 @@ text/x-objcsrc
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6458,7 +6458,7 @@ image/x-panasonic-rw
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6472,11 +6472,11 @@ text/x-python
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6490,11 +6490,11 @@ text/x-python.2
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.2
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6508,11 +6508,11 @@ text/x-python.2.7
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.2.7
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6526,11 +6526,11 @@ text/x-python.3
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6544,11 +6544,11 @@ text/x-python.3.6
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.6
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6562,11 +6562,11 @@ text/x-python.3.6.5
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.6.5
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6580,11 +6580,11 @@ text/x-python.3.7
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.7
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6598,11 +6598,11 @@ text/x-python.3.8
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.8
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6616,11 +6616,11 @@ text/x-python.3.9
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.9
    :display label: \-
    :file extensions: .py
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6634,11 +6634,11 @@ image/x-targa
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/image/x-targa
    :display label: \-
    :file extensions: .tga
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6656,7 +6656,7 @@ application/x-tgif
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6674,7 +6674,7 @@ application/vnd.xdmf
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6692,7 +6692,7 @@ application/xml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, x, m, l
+   :related media type: https://www.iana.org/assignments/media-types/application/xml
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6710,7 +6710,7 @@ application/yaml
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6724,11 +6724,11 @@ image/tiff.yokogawa.cellvoyager
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.yokogawa.cellvoyager
    :display label: \-
    :file extensions: .tiff
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6742,11 +6742,11 @@ application/vnd.yokogawa.cv7000
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.yokogawa.cv7000
    :display label: \-
    :file extensions: .tiff, .wpi
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6764,7 +6764,7 @@ application/vnd.zarr
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6778,11 +6778,11 @@ application/vnd.zeiss
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss
    :display label: \-
    :file extensions: .czi
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6796,11 +6796,11 @@ application/vnd.zeiss.axio-csm
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.axio-csm
    :display label: \-
    :file extensions: .lsm
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6814,11 +6814,11 @@ application/vnd.zeiss.axio-vision
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.axio-vision
    :display label: \-
    :file extensions: .xml, .tiff, .zvl
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6836,7 +6836,7 @@ application/vnd.zeiss.leo
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6850,11 +6850,11 @@ application/vnd.zeiss.lsm-510
    :semantic name: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.lsm-510
    :display label: \-
    :file extensions: .mdb, .lsm
-   :synonyms: \, -
+   :synonyms: \-
    :description: \-
    :specification: \-
    :data types: \-
-   :related media type: \, -
+   :related media type: \-
 
 `BACK TO TOP <ContentTypes_>`_
 
@@ -6872,7 +6872,7 @@ application/zip
    :description: \-
    :specification: https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT
    :data types: \-
-   :related media type: h, t, t, p, s, :, /, /, w, w, w, ., i, a, n, a, ., o, r, g, /, a, s, s, i, g, n, m, e, n, t, s, /, m, e, d, i, a, -, t, y, p, e, s, /, a, p, p, l, i, c, a, t, i, o, n, /, z, i, p
+   :related media type: https://www.iana.org/assignments/media-types/application/zip
 
 `BACK TO TOP <ContentTypes_>`_
 
