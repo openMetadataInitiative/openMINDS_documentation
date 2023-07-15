@@ -112,16 +112,12 @@ class InstancesDocBuilder(object):
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
     def _extract_datatypes(self, datatypes:List) -> str:
-        if len(datatypes) == 1 and datatypes[0] == "\-":
-            return datatypes[0]
-        else:
-            dt_linklist = []
-            for datatype in datatypes:
-                dt_camelCase = datatype["@id"].split("/")[-1]
-                dt_name = self.instances_libraries["terminologies"]["dataType"][dt_camelCase]
-                dt_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"dataType.html#{dt_name.replace(' ', '-')}")
-                dt_linklist.append(f"`{dt_name} <{dt_link}>`_")
-            return ", ".join(dt_linklist)
+        linklist = []
+        for datatype in datatypes:
+            name = self.instances_libraries["terminologies"]["dataType"][datatype["@id"].split("/")[-1]]
+            link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"dataType.html#{name.replace(' ', '-')}")
+            linklist.append(f"`{name} <{link}>`_")
+        return ", ".join(linklist)
 
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -176,18 +172,18 @@ class InstancesDocBuilder(object):
                 doc.field(name="semantic name", value=ct_data["@id"], indent=field_list_indent)
                 displaylabel = ct_data["displayLabel"] if "displayLabel" in ct_data and ct_data["displayLabel"] else "\-"
                 doc.field(name="display label", value=displaylabel, indent=field_list_indent)
-                extensions = ct_data["fileExtension"] if "fileExtension" in ct_data and ct_data["fileExtension"] else "\-"
-                doc.field(name="file extensions", value=", ".join(extensions), indent=field_list_indent)
-                synonyms = ct_data["synonym"] if "synonym" in ct_data and ct_data["synonym"] else "\-"
-                doc.field(name="synonyms", value=", ".join(synonyms), indent=field_list_indent)
+                extensions = ", ".join(ct_data["fileExtension"]) if "fileExtension" in ct_data and ct_data["fileExtension"] else "\-"
+                doc.field(name="file extensions", value=extensions, indent=field_list_indent)
+                synonyms = ", ".join(ct_data["synonym"]) if "synonym" in ct_data and ct_data["synonym"] else "\-"
+                doc.field(name="synonyms", value=synonyms, indent=field_list_indent)
                 description = ct_data["description"] if "description" in ct_data and ct_data["description"] else "\-"
                 doc.field(name="description", value=description, indent=field_list_indent)
                 specification = ct_data["specification"] if "specification" in ct_data and ct_data["specification"] else "\-"
                 doc.field(name="specification", value=specification, indent=field_list_indent)
-                datatypes = ct_data["dataType"] if "dataType" in ct_data and ct_data["dataType"] else ["\-"]
-                doc.field(name="data types", value=self._extract_datatypes(datatypes), indent=field_list_indent)
+                datatypes = self._extract_datatypes(ct_data["dataType"]) if "dataType" in ct_data and ct_data["dataType"] else "\-"
+                doc.field(name="data types", value=datatypes, indent=field_list_indent)
                 mediatype = ct_data["relatedMediaType"] if "relatedMediaType" in ct_data and ct_data["relatedMediaType"] else "\-"
-                doc.field(name="related media type", value=", ".join(mediatype), indent=field_list_indent)
+                doc.field(name="related media type", value=mediatype, indent=field_list_indent)
                 doc.newline()
                 doc.content(f"`BACK TO TOP <ContentTypes_>`_")
                 doc.newline()
