@@ -128,7 +128,8 @@ class InstancesDocBuilder(object):
         for name, vdict  in sorted(versions.items()):
             vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
             vID = vdata['versionIdentifier']
-            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID.replace(' ', '-')}"
+            vID_mod = vID.replace(' ', '-').replace(',', '-')
+            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID_mod}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
@@ -353,10 +354,9 @@ class InstancesDocBuilder(object):
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
-                doc.heading(f"Versions", char="#")
                 for _, vdata in sorted(data_to_display["versions"].items()):
                     subtitle = vdata['versionIdentifier']
-                    doc.heading(f"{subtitle}", char="*", overline=True)
+                    doc.heading(f"version {subtitle}", char="#")
                     doc.newline()
                     doc.directive(name="admonition", arg="metadata sheet")
                     doc.newline()
