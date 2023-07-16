@@ -24,7 +24,7 @@ version 1998
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998
-   :alternative versions: `2008 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-2008_>`_
+   :alternative versions: `2008 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-2008>`_
 
    :digital ID: \-
    :ontology ID: \-

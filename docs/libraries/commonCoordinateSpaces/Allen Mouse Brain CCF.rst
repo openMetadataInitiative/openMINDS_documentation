@@ -12,7 +12,7 @@ Allen Mouse Brain CCF
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
    :howToCite: \-
-   :has versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras_>`_, `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3_>`_, `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2_>`_, `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v1_>`_
+   :has versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_, `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_, `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_, `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v1>`_
 
 ------------
 
@@ -42,7 +42,7 @@ version v2
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v2
-   :previous version: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v1_>`_
+   :previous version: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v1>`_
 
    :digital ID: \-
    :ontology ID: \-
@@ -62,9 +62,9 @@ version v3
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3
-   :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2_>`_
+   :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_
 
-   :alternative versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras_>`_
+   :alternative versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
 
    :digital ID: \-
    :ontology ID: \-
@@ -84,9 +84,9 @@ version v3-RAS
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS
-   :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2_>`_
+   :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_
 
-   :alternative versions: `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3_>`_
+   :alternative versions: `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
 
    :digital ID: \-
    :ontology ID: \-
