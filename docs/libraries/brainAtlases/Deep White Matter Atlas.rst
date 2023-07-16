@@ -14,6 +14,23 @@ Deep White Matter Atlas
    :howToCite: \-
    :has versions: `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018>`_
 
+Terminology
+###########
+* deep white matter
+   * arcuate fasciculus
+      * anterior segement of arcuate fasciculus
+      * direct segement of arcuate fasciculus
+      * posterior segement of arcuate fasciculus
+   * cingulum
+      * long cingulate fibres
+      * short cingulate fibres
+      * temporal cingulate fibres
+   * fornix
+   * inferior fronto-occipital fasciculus
+   * inferior longitudinal fasciculus
+   * corticospinal tract
+   * uncinate fasciculus
+
 ------------
 
 ------------
