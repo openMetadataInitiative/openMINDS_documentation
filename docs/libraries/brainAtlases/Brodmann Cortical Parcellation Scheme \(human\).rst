@@ -1,6 +1,6 @@
-#############################################
-Brodmann Cortical Parcellation Scheme (human)
-#############################################
+###############################################
+Brodmann Cortical Parcellation Scheme \(human\)
+###############################################
 
 .. admonition:: metadata sheet
 

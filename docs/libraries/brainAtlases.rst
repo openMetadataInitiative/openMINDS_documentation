@@ -7,7 +7,7 @@ BrainAtlases
 - `Atlas of Superficial White Matter Fibre Bundles <brainAtlases/Atlas of Superficial White Matter Fibre Bundles.html>`_
 - `Automated Anatomical Labeling Atlas 1 <brainAtlases/Automated Anatomical Labeling Atlas 1.html>`_
 - `Automated Segmentation Atlas of the Human Brain <brainAtlases/Automated Segmentation Atlas of the Human Brain.html>`_
-- `Brodmann Cortical Parcellation Scheme (human) <brainAtlases/Brodmann Cortical Parcellation Scheme (human).html>`_
+- `Brodmann Cortical Parcellation Scheme \(human\) <brainAtlases/Brodmann Cortical Parcellation Scheme \(human\).html>`_
 - `Desikan-Killiany Atlas <brainAtlases/Desikan-Killiany Atlas.html>`_
 - `Julich-Brain Cytoarchitectonic Atlas <brainAtlases/Julich-Brain Cytoarchitectonic Atlas.html>`_
 - `Schaefer Atlas with 400 Parcellation <brainAtlases/Schaefer Atlas with 400 Parcellation.html>`_
@@ -20,7 +20,7 @@ BrainAtlases
    brainAtlases/Atlas of Superficial White Matter Fibre Bundles
    brainAtlases/Automated Anatomical Labeling Atlas 1
    brainAtlases/Automated Segmentation Atlas of the Human Brain
-   brainAtlases/Brodmann Cortical Parcellation Scheme (human)
+   brainAtlases/Brodmann Cortical Parcellation Scheme \(human\)
    brainAtlases/Desikan-Killiany Atlas
    brainAtlases/Julich-Brain Cytoarchitectonic Atlas
    brainAtlases/Schaefer Atlas with 400 Parcellation

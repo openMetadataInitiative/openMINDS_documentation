@@ -1,6 +1,6 @@
-################################################################
-Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)
-################################################################
+##################################################################
+Waxholm Space of the Sprague Dawley Rat Brain \(coordinate space\)
+##################################################################
 
 .. admonition:: metadata sheet
 
