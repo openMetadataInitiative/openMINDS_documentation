@@ -248,8 +248,6 @@ class InstancesDocBuilder(object):
             space_citation = atlas["howToCite"] if "howToCite" in atlas and atlas["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
 
-    def _extract_research_product_versions(self):
-
     def _build_common_coordinate_space(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             space = data_to_display["space"]
