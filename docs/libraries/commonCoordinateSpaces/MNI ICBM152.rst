@@ -7,7 +7,7 @@ MNI ICBM152
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-ICBM152
    :full name: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :abbreviation: ICBM152
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Homo-sapiens>`_
+   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
@@ -131,7 +131,7 @@ version 2009c nonlinear asymmetric
    :howToCite: \-
    :accessibility: \-
    :release date: 2009-07-01
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <MNI ICBM152_>`_

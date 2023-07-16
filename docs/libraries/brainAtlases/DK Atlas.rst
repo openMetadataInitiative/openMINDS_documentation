@@ -7,7 +7,7 @@ DK Atlas
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/DKA
    :full name: Desikan-Killiany Atlas
    :abbreviation: DKA
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Homo-sapiens>`_
+   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-

@@ -7,7 +7,7 @@ FsAverage Surface Space
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsaverage
    :full name: FsAverage Surface Space
    :abbreviation: fsaverage
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Homo-sapiens>`_
+   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-

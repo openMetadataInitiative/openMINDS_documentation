@@ -7,12 +7,12 @@ WHS of the SD Rat Brain
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/WHSSD
    :full name: Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)
    :abbreviation: WHSSD
-   :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Rattus-norvegicus>`_
+   :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#rattus-norvegicus>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
    :howToCite: \-
-   :has versions: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1.01>`_
+   :has versions: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1-01>`_
 
 ------------
 
@@ -30,7 +30,7 @@ version v1
    :howToCite: \-
    :accessibility: \-
    :release date: 2014-07-16
-   :anatomical axis orientation: `ALS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ALS>`_
+   :anatomical axis orientation: `ALS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#als>`_
    :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <WHS of the SD Rat Brain_>`_
@@ -49,7 +49,7 @@ version v1.01
    :howToCite: \-
    :accessibility: \-
    :release date: 2014-07-16
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <WHS of the SD Rat Brain_>`_

@@ -7,7 +7,7 @@ BigBrain Model
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
    :full name: BigBrain Whole-Brain Model
    :abbreviation: BigBrain
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Homo-sapiens>`_
+   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://bigbrainproject.org/
@@ -30,7 +30,7 @@ version 2015
    :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
    :release date: 2013-06-21
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <BigBrain Model_>`_

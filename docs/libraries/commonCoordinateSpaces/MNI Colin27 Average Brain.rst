@@ -7,7 +7,7 @@ MNI Colin27 Average Brain
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-Colin27
    :full name: MNI Colin27 Average Brain Stereotaxic Registration Model
    :abbreviation: MNI-Colin27
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Homo-sapiens>`_
+   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
@@ -30,7 +30,7 @@ version 1998
    :howToCite: \-
    :accessibility: \-
    :release date: 1998-06-01
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <MNI Colin27 Average Brain_>`_
