@@ -128,7 +128,7 @@ class InstancesDocBuilder(object):
         for name, vdict  in sorted(versions.items()):
             vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
             vID = vdata['versionIdentifier']
-            vID_mod = vID.replace(' ', '-').replace(',', '-')
+            vID_mod = vID.replace(' ', '-').replace(',', '-').casefold()
             space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID_mod}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
