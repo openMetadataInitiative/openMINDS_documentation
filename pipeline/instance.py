@@ -114,7 +114,8 @@ class InstancesDocBuilder(object):
     def _build_single_term_link(self, termReference:Dict, terminology:str) -> str:
         term = termReference["@id"].split("/")[-1]
         name = self.instances_libraries["terminologies"][terminology][term]["name"]
-        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"{terminology}.html#{name.replace(' ', '-')}")
+        name_mod = name.replace(' ', '-').casefold()
+        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"{terminology}.html#{name_mod}")
         return f"`{name} <{link}>`_"
 
     def _build_multi_term_links(self, termReferenceList:List, terminology:str) -> str:
@@ -128,7 +129,7 @@ class InstancesDocBuilder(object):
         for name, vdict  in sorted(versions.items()):
             vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
             vID = vdata['versionIdentifier']
-            vID_mod = vID.replace(' ', '-').replace(',', '-').casefold()
+            vID_mod = vID.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
             space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID_mod}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
