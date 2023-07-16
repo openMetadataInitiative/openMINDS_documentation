@@ -12,14 +12,15 @@ fsLR Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :has versions: `164k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR-Surface-Space.html#version-164k>`_, `32k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR-Surface-Space.html#version-32k>`_
 
 ------------
 
 ------------
 
-fsLR Surface Space \(fsLR Surface Space\)
-#########################################
+version \(164k\)
+################
 
-fsLR Surface Space \(fsLR Surface Space\)
-#########################################
+version \(32k\)
+###############
 

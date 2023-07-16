@@ -12,11 +12,12 @@ BigBrain Model
    :ontology ID: \-
    :homepage: https://bigbrainproject.org/
    :howToCite: \-
+   :has versions: `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain-Model.html#version-2015>`_
 
 ------------
 
 ------------
 
-BigBrain Model \(BigBrain Model\)
-#################################
+version \(2015\)
+################
 

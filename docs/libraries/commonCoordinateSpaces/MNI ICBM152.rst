@@ -12,32 +12,33 @@ MNI ICBM152
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
    :howToCite: \-
+   :has versions: `2009c nonlinear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009c-nonlinear-symmetric>`_, `2009a nonlinear asymmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009a-nonlinear-asymmetric>`_, `nonlinear 6th generation symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-nonlinear-6th-generation-symmetric>`_, `2009b nonlinear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009b-nonlinear-symmetric>`_, `2009b nonlinear asymmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009b-nonlinear-asymmetric>`_, `2009a nonlinear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009a-nonlinear-symmetric>`_, `2001 linear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2001-linear-symmetric>`_, `2009c nonlinear asymmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI-ICBM152.html#version-2009c-nonlinear-asymmetric>`_
 
 ------------
 
 ------------
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009c nonlinear symmetric\)
+#####################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009a nonlinear asymmetric\)
+######################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(nonlinear 6th generation symmetric\)
+##############################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009b nonlinear symmetric\)
+#####################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009b nonlinear asymmetric\)
+######################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009a nonlinear symmetric\)
+#####################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2001 linear symmetric\)
+#################################
 
-MNI ICBM152 \(MNI ICBM152\)
-###########################
+version \(2009c nonlinear asymmetric\)
+######################################
 

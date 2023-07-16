@@ -12,14 +12,15 @@ WHS of the SD Rat Brain
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
    :howToCite: \-
+   :has versions: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS-of-the-SD-Rat-Brain.html#version-v1.01>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS-of-the-SD-Rat-Brain.html#version-v1.01>`_
 
 ------------
 
 ------------
 
-WHS of the SD Rat Brain \(WHS of the SD Rat Brain\)
-###################################################
+version \(v1.01\)
+#################
 
-WHS of the SD Rat Brain \(WHS of the SD Rat Brain\)
-###################################################
+version \(v1.01\)
+#################
 

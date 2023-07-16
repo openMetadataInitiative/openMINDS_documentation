@@ -12,20 +12,21 @@ Allen Mouse Brain CCF
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
    :howToCite: \-
+   :has versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen-Mouse-Brain-CCF.html#version-v3-RAS>`_, `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen-Mouse-Brain-CCF.html#version-v1>`_, `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen-Mouse-Brain-CCF.html#version-v2>`_, `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen-Mouse-Brain-CCF.html#version-v3>`_
 
 ------------
 
 ------------
 
-Allen Mouse Brain CCF \(Allen Mouse Brain CCF\)
-###############################################
+version \(v3-RAS\)
+##################
 
-Allen Mouse Brain CCF \(Allen Mouse Brain CCF\)
-###############################################
+version \(v1\)
+##############
 
-Allen Mouse Brain CCF \(Allen Mouse Brain CCF\)
-###############################################
+version \(v2\)
+##############
 
-Allen Mouse Brain CCF \(Allen Mouse Brain CCF\)
-###############################################
+version \(v3\)
+##############
 

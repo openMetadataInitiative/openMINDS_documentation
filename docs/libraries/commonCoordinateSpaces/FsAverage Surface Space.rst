@@ -12,23 +12,24 @@ FsAverage Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :has versions: `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage-Surface-Space.html#version-6>`_, `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage-Surface-Space.html#version-7>`_, `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage-Surface-Space.html#version-5>`_, `4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage-Surface-Space.html#version-4>`_, `3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage-Surface-Space.html#version-3>`_
 
 ------------
 
 ------------
 
-FsAverage Surface Space \(FsAverage Surface Space\)
-###################################################
+version \(6\)
+#############
 
-FsAverage Surface Space \(FsAverage Surface Space\)
-###################################################
+version \(7\)
+#############
 
-FsAverage Surface Space \(FsAverage Surface Space\)
-###################################################
+version \(5\)
+#############
 
-FsAverage Surface Space \(FsAverage Surface Space\)
-###################################################
+version \(4\)
+#############
 
-FsAverage Surface Space \(FsAverage Surface Space\)
-###################################################
+version \(3\)
+#############
 
