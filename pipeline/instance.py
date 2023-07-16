@@ -126,9 +126,9 @@ class InstancesDocBuilder(object):
 
     def _build_product_version_links(self, versions:Dict, productType:str) -> str:
         linklist = []
-        for name, data  in versions.items():
+        for name, data  in sorted(versions.items()):
             vID = data['versionIdentifier']
-            space_html_title = f"{data['shortName'].replace(' ', '%')}.html#version-{vID.replace(' ', '-')}"
+            space_html_title = f"{data['shortName']}.html#version-{vID.replace(' ', '-')}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
