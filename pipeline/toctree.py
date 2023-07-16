@@ -16,7 +16,7 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
         tree_items = []
         sub_dirs = sorted(os.listdir(os.path.join("target", version, "docs", "/".join(relative_path))), key=str.casefold)
         for sub_dir in sub_dirs:
-            sub_dir = sub_dir.replace(".rst", "")
+            sub_dir = sub_dir.replace(".rst", "").replace(" ", "%20")
             links.append(f"- `{sub_dir[0].upper()}{sub_dir[1:]} <{relative_path[-1]}/{sub_dir}.html>`_")
             tree_items.append(f"{relative_path[-1]}/{sub_dir}")
             sub_dir_path = os.path.join("target", version, "docs", "/".join(relative_path), sub_dir)

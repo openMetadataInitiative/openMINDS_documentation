@@ -111,18 +111,17 @@ class InstancesDocBuilder(object):
     def _target_file_without_extension(self, target_basename:str) -> str:
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
-    def _build_datatype_links(self, datatypes:List) -> str:
-        linklist = []
-        for datatype in datatypes:
-            name = self.instances_libraries["terminologies"]["dataType"][datatype["@id"].split("/")[-1]]["name"]
-            link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"dataType.html#{name.replace(' ', '-')}")
-            linklist.append(f"`{name} <{link}>`_")
-        return ", ".join(linklist)
-
-    def _build_species_links(self, species:Dict) -> str:
-        name = self.instances_libraries["terminologies"]["species"][species["@id"].split("/")[-1]]["name"]
-        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{name.replace(' ', '-')}")
+    def _build_single_term_links(self, termReference:Dict, terminology:str) -> str:
+        term = termReference["@id"].split("/")[-1]
+        name = self.instances_libraries["terminologies"][term]["name"]
+        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"{terminology}.html#{name.replace(' ', '-')}")
         return f"`{name} <{link}>`_"
+
+    def _build_multi_term_links(self, termReferenceList:List, terminology:str) -> str:
+        linklist = []
+        for termReference in termReferenceList:
+            linklist.append(self._build_single_term_links(termReference, terminology))
+        return ", ".join(linklist)
 
     def _build_product_version_links(self, versions:Dict, productType:str) -> str:
         linklist = []
@@ -194,7 +193,7 @@ class InstancesDocBuilder(object):
                 doc.field(name="description", value=description, indent=field_list_indent)
                 specification = ct_data["specification"] if "specification" in ct_data and ct_data["specification"] else "\-"
                 doc.field(name="specification", value=specification, indent=field_list_indent)
-                datatypes = self._build_datatype_links(ct_data["dataType"]) if "dataType" in ct_data and ct_data["dataType"] else "\-"
+                datatypes = self._build_multi_term_links(ct_data["dataType"], "dataType") if "dataType" in ct_data and ct_data["dataType"] else "\-"
                 doc.field(name="data types", value=datatypes, indent=field_list_indent)
                 mediatype = ct_data["relatedMediaType"] if "relatedMediaType" in ct_data and ct_data["relatedMediaType"] else "\-"
                 doc.field(name="related media type", value=mediatype, indent=field_list_indent)
@@ -246,7 +245,7 @@ class InstancesDocBuilder(object):
             doc.field(name="full name", value=space_fullName, indent=field_list_indent)
             space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            usedSpecies = self._build_species_links(atlas["usedSpecies"]) if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
+            usedSpecies = self._build_single_term_link(atlas["usedSpecies"], "species") if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
             doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
             space_digitalID = atlas["digitalIdentifier"] if "digitalIdentifier" in atlas and atlas["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
@@ -257,50 +256,71 @@ class InstancesDocBuilder(object):
             space_citation = atlas["howToCite"] if "howToCite" in atlas and atlas["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
 
-    def _build_common_coordinate_space(self, target_file:str, name:str, data_to_display:Dict):
+    def _build_common_coordinate_space(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
-            space = data_to_display["space"]
+            data = data_to_display["space"]
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading(f"{name}", char="#", overline=True)
+            doc.heading(f"{title}", char="#", overline=True)
             doc.newline()
             doc.directive(name="admonition", arg="metadata sheet")
             doc.newline()
             field_list_indent = 3
-            doc.field(name="semantic name", value=space["@id"], indent=field_list_indent)
-            space_fullName = space["fullName"] if "fullName" in space and space["fullName"] else "\-"
-            doc.field(name="full name", value=space_fullName, indent=field_list_indent)
-            space_abbr = space["abbreviation"] if "abbreviation" in space and space["abbreviation"] else "\-"
-            doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            usedSpecies = self._build_species_links(space["usedSpecies"]) if "usedSpecies" in space and space["usedSpecies"] else "\-"
-            doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
-            space_digitalID = space["digitalIdentifier"] if "digitalIdentifier" in space and space["digitalIdentifier"] else "\-"
-            doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
-            space_ontologyID = space["ontologyIdentifier"] if "ontologyIdentifier" in space and space["ontologyIdentifier"] else "\-"
-            doc.field(name="ontology ID", value=space_ontologyID, indent=field_list_indent)
-            space_homepage = space["homepage"] if "homepage" in space and space["homepage"] else "\-"
-            doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
-            space_citation = space["howToCite"] if "howToCite" in space and space["howToCite"] else "\-"
-            doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
-            if "hasVersion" in space and space["hasVersion"]:
-                hasVersions = self._build_product_version_links(data_to_display["versions"], "commonCoordinateSpaces")
-                doc.field(name="has versions", value=hasVersions, indent=field_list_indent)
+            doc.field(name="semantic name", value=data["@id"], indent=field_list_indent)
+            d_fullName = data["fullName"] if "fullName" in data and data["fullName"] else "\-"
+            doc.field(name="full name", value=d_fullName, indent=field_list_indent)
+            d_abbr = data["abbreviation"] if "abbreviation" in data and data["abbreviation"] else "\-"
+            doc.field(name="abbreviation", value=d_abbr, indent=field_list_indent)
+            d_species = self._build_single_term_link(data["usedSpecies"], "species") if "usedSpecies" in data and data["usedSpecies"] else "\-"
+            doc.field(name="used species", value=d_species, indent=field_list_indent)
+            d_digitalID = data["digitalIdentifier"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
+            doc.field(name="digital ID", value=d_digitalID, indent=field_list_indent)
+            d_ontologyID = data["ontologyIdentifier"] if "ontologyIdentifier" in data and data["ontologyIdentifier"] else "\-"
+            doc.field(name="ontology ID", value=d_ontologyID, indent=field_list_indent)
+            d_homepage = data["homepage"] if "homepage" in data and data["homepage"] else "\-"
+            doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
+            d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
+            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            if "hasVersion" in data and data["hasVersion"]:
+                version_link_list = self._build_product_version_links(data_to_display["versions"], "commonCoordinateSpaces")
+                doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
-                spaceV_title_list = []
-                for spaceV_name, spaceV in sorted(data_to_display["versions"].items()):
-                    spaceV_title = f"version \({spaceV['versionIdentifier']}\)"
-                    spaceV_title_list.append(spaceV_title)
-                    doc.heading(f"{spaceV_title}", char="#")
+                doc.heading(f"Versions", char="#")
+                for _, vdata in sorted(data_to_display["versions"].items()):
+                    subtitle = vdata['versionIdentifier']
+                    doc.heading(f"{subtitle}", char="*", overline=True)
                     doc.newline()
                     doc.directive(name="admonition", arg="metadata sheet")
                     doc.newline()
                     field_list_indent = 3
-                    doc.field(name="semantic name", value=spaceV["@id"], indent=field_list_indent)
+                    doc.field(name="semantic name", value=vdata["@id"], indent=field_list_indent)
                     doc.newline()
-
+                    dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
+                    if dv_fullName != d_fullName:
+                        doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
+                    dv_abbr = vdata["abbreviation"] if "abbreviation" in vdata and vdata["abbreviation"] else "\-"
+                    if dv_abbr != d_abbr:
+                        doc.field(name="abbreviation", value=dv_abbr, indent=field_list_indent)
+                    dv_digitalID = vdata["digitalIdentifier"] if "digitalIdentifier" in vdata and vdata["digitalIdentifier"] else "\-"
+                    doc.field(name="digital ID", value=dv_digitalID, indent=field_list_indent)
+                    dv_ontologyID = vdata["ontologyIdentifier"] if "ontologyIdentifier" in vdata and vdata["ontologyIdentifier"] else "\-"
+                    doc.field(name="ontology ID", value=dv_ontologyID, indent=field_list_indent)
+                    dv_homepage = vdata["homepage"] if "homepage" in vdata and vdata["homepage"] else "\-"
+                    if dv_homepage != d_homepage:
+                        doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
+                    dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
+                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
+                    doc.content("------------", indent=field_list_indent)
+                    dv_access = self._build_single_term_link(vdata["accessibility"], "accessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
+                    doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
+                    doc.newline()
+                    doc.content(f"`BACK TO TOP <{title}_>`_")
+                    doc.newline()
+                    doc.content("------------")
+                    doc.newline()
     def build(self):
         # build RST docu for each terminology
         for terminology_name, terms in self.instances_libraries["terminologies"].items():
