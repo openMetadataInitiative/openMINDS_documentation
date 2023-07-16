@@ -111,34 +111,35 @@ class InstancesDocBuilder(object):
     def _target_file_without_extension(self, target_basename:str) -> str:
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
-    def _build_single_term_links(self, termReference:Dict, terminology:str) -> str:
+    def _build_single_term_link(self, termReference:Dict, terminology:str) -> str:
         term = termReference["@id"].split("/")[-1]
-        name = self.instances_libraries["terminologies"][term]["name"]
+        name = self.instances_libraries["terminologies"][terminology][term]["name"]
         link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"{terminology}.html#{name.replace(' ', '-')}")
         return f"`{name} <{link}>`_"
 
     def _build_multi_term_links(self, termReferenceList:List, terminology:str) -> str:
         linklist = []
         for termReference in termReferenceList:
-            linklist.append(self._build_single_term_links(termReference, terminology))
+            linklist.append(self._build_single_term_link(termReference, terminology))
         return ", ".join(linklist)
 
     def _build_product_version_links(self, versions:Dict, productType:str) -> str:
         linklist = []
-        for name, data  in sorted(versions.items()):
-            vID = data['versionIdentifier']
-            space_html_title = f"{data['shortName'].replace(' ', '%20')}.html#version-{vID.replace(' ', '-')}"
+        for name, vdict  in sorted(versions.items()):
+            vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
+            vID = vdata['versionIdentifier']
+            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID.replace(' ', '-')}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
 
-    def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
+    def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            name_CamelCase = "".join([name[0].capitalize(), name[1:]])
+            name_CamelCase = "".join([title[0].capitalize(), title[1:]])
             doc.heading(f"{name_CamelCase}", char="#", overline=True)
             doc.newline()
-            schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", "controlledTerms", f"{name}.html")
+            schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", "controlledTerms", f"{title}.html")
             doc.content(f"All instances listed below can be validated against the `{name_CamelCase} <{schema_link}>`_ schema specification.")
             doc.newline()
             doc.content("------------")
@@ -166,7 +167,7 @@ class InstancesDocBuilder(object):
                 ksEntry = term_data["knowledgeSpaceLink"] if "knowledgeSpaceLink" in term_data and term_data["knowledgeSpaceLink"] else "\-"
                 doc.field(name="KnowledgeSpace entry", value=ksEntry, indent=field_list_indent)
                 doc.newline()
-                doc.content(f"`BACK TO TOP <{name}_>`_")
+                doc.content(f"`BACK TO TOP <{title}_>`_")
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
@@ -231,30 +232,72 @@ class InstancesDocBuilder(object):
                 doc.content("------------")
                 doc.newline()
 
-    def _build_brain_atlas(self, target_file:str, name:str, data_to_display:Dict):
+    def _build_brain_atlas(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
-            atlas = data_to_display["atlas"]
+            data = data_to_display["atlas"]
             doc = RstCloth(output_file, line_width=100000)
-            doc.heading(f"{name}", char="#", overline=True)
+            doc.heading(f"{title}", char="#", overline=True)
             doc.newline()
             doc.directive(name="admonition", arg="metadata sheet")
             doc.newline()
             field_list_indent = 3
-            doc.field(name="semantic name", value=atlas["@id"], indent=field_list_indent)
-            space_fullName = atlas["fullName"] if "fullName" in atlas and atlas["fullName"] else "\-"
-            doc.field(name="full name", value=space_fullName, indent=field_list_indent)
-            space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
-            doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            usedSpecies = self._build_single_term_link(atlas["usedSpecies"], "species") if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
-            doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
-            space_digitalID = atlas["digitalIdentifier"] if "digitalIdentifier" in atlas and atlas["digitalIdentifier"] else "\-"
-            doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
-            space_ontologyID = atlas["ontologyIdentifier"] if "ontologyIdentifier" in atlas and atlas["ontologyIdentifier"] else "\-"
-            doc.field(name="ontology ID", value=space_ontologyID, indent=field_list_indent)
-            space_homepage = atlas["homepage"] if "homepage" in atlas and atlas["homepage"] else "\-"
-            doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
-            space_citation = atlas["howToCite"] if "howToCite" in atlas and atlas["howToCite"] else "\-"
-            doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
+            doc.field(name="semantic name", value=data["@id"], indent=field_list_indent)
+            d_fullName = data["fullName"] if "fullName" in data and data["fullName"] else "\-"
+            doc.field(name="full name", value=d_fullName, indent=field_list_indent)
+            d_abbr = data["abbreviation"] if "abbreviation" in data and data["abbreviation"] else "\-"
+            doc.field(name="abbreviation", value=d_abbr, indent=field_list_indent)
+            d_species = self._build_single_term_link(data["usedSpecies"], "species") if "usedSpecies" in data and data["usedSpecies"] else "\-"
+            doc.field(name="used species", value=d_species, indent=field_list_indent)
+            d_digitalID = data["digitalIdentifier"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
+            doc.field(name="digital ID", value=d_digitalID, indent=field_list_indent)
+            d_ontologyID = data["ontologyIdentifier"] if "ontologyIdentifier" in data and data["ontologyIdentifier"] else "\-"
+            doc.field(name="ontology ID", value=d_ontologyID, indent=field_list_indent)
+            d_homepage = data["homepage"] if "homepage" in data and data["homepage"] else "\-"
+            doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
+            d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
+            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            if "hasVersion" in data and data["hasVersion"]:
+                version_link_list = self._build_product_version_links(data_to_display["versions"], "brainAtlases")
+                doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
+                doc.heading(f"Versions", char="#")
+                for _, vdict in sorted(data_to_display["versions"].items()):
+                    vdata = vdict["atlas"]
+                    subtitle = vdata['versionIdentifier']
+                    doc.heading(f"{subtitle}", char="*", overline=True)
+                    doc.newline()
+                    doc.directive(name="admonition", arg="metadata sheet")
+                    doc.newline()
+                    field_list_indent = 3
+                    doc.field(name="semantic name", value=vdata["@id"], indent=field_list_indent)
+                    doc.newline()
+                    dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
+                    if dv_fullName != d_fullName:
+                        doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
+                    dv_abbr = vdata["abbreviation"] if "abbreviation" in vdata and vdata["abbreviation"] else "\-"
+                    if dv_abbr != d_abbr:
+                        doc.field(name="abbreviation", value=dv_abbr, indent=field_list_indent)
+                    dv_digitalID = vdata["digitalIdentifier"] if "digitalIdentifier" in vdata and vdata["digitalIdentifier"] else "\-"
+                    doc.field(name="digital ID", value=dv_digitalID, indent=field_list_indent)
+                    dv_ontologyID = vdata["ontologyIdentifier"] if "ontologyIdentifier" in vdata and vdata["ontologyIdentifier"] else "\-"
+                    doc.field(name="ontology ID", value=dv_ontologyID, indent=field_list_indent)
+                    dv_homepage = vdata["homepage"] if "homepage" in vdata and vdata["homepage"] else "\-"
+                    if dv_homepage != d_homepage:
+                        doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
+                    dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
+                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
+                    doc.content("------------", indent=field_list_indent)
+                    dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
+                    doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
+                    doc.newline()
+                    doc.content(f"`BACK TO TOP <{title}_>`_")
+                    doc.newline()
+                    doc.content("------------")
+                    doc.newline()
 
     def _build_common_coordinate_space(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -314,7 +357,7 @@ class InstancesDocBuilder(object):
                     dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
                     doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
                     doc.content("------------", indent=field_list_indent)
-                    dv_access = self._build_single_term_link(vdata["accessibility"], "accessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
+                    dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
                     doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
                     doc.newline()
                     doc.content(f"`BACK TO TOP <{title}_>`_")
