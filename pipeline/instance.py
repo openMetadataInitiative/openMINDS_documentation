@@ -144,29 +144,16 @@ class InstancesDocBuilder(object):
             name = versions[vname]["versionIdentifier"] if vname in versions and versions[vname] else vname
             subdir = "commonCoordinateSpaces"
         title_mod = title.replace(' ', '%20')
-        name_mod = name.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
+        name_mod = name.replace(' ', '-').replace(',', '-').replace('.', '-').replace('--', '-').casefold()
         page = f"{title_mod}.html#version-{name_mod}"
         link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
-        return f"`{name} <{link}>`_" if name != vname else f"{name} \(not registered yet\)"
+        return f"`{name} <{link}>`_" if name != vname else f"{name} \(TODO\)"
 
     def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str) -> str:
         linklist = []
         for versionReference in versionReferenceList:
             linklist.append(self._build_single_version_link(versionReference, versions, title))
-        return ", ".join(linklist)
-
-    # dv_isNewOf = vdata["isNewVersionOf"] if "isNewVersionOf" in vdata and vdata["isNewVersionOf"] else None
-    # if dv_isNewOf:
-    #     old_dv = os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces",
-    #                           f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}")
-    #     doc.field(name="new version of", value=old_dv, indent=field_list_indent)
-    # dv_isAltOf = vdata["isAlternativeVersionOf"] if "isAlternativeVersionOf" in vdata and vdata[
-    #     "isAlternativeVersionOf"] else None
-    # if dv_isAltOf:
-    #     alt_dvs = []
-    #     for dv_alt in dv_isAltOf:
-    #         alt_dvs.append(os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces",
-    #                                     f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}"))
+        return ", ".join(sorted(linklist))
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -267,6 +254,28 @@ class InstancesDocBuilder(object):
                 doc.content("------------")
                 doc.newline()
 
+    def _build_atlas_terminology(self, data:Dict) -> List:
+        atlas_terminology = []
+        for entity in data.values():
+            parents = entity.get('hasParent', [])
+            if not parents:
+                atlas_terminology.append(entity)
+            else:
+                for parent_ref in parents:
+                    parent_item = data.get(parent_ref["@id"].split("/")[-1])
+                    if parent_item:
+                        parent_item.setdefault('children', []).append(entity)
+        def build_bullet_list(tree, indent=0):
+            bullet_list = []
+            for item in tree:
+                bullet_list.append(f"{' '*(indent*3)}* {item['name']}")
+                if 'children' in item:
+                    subtree = build_bullet_list(item['children'], indent + 1)
+                    bullet_list.extend(subtree)
+            return bullet_list
+
+        return build_bullet_list(atlas_terminology)
+
     def _build_brain_atlas(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             data = data_to_display["atlas"]
@@ -295,10 +304,18 @@ class InstancesDocBuilder(object):
                 version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
                 doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
                 doc.newline()
-                doc.content("------------")
+                doc.heading(f"Terminology", char="#")
+                if "parcellation_entities" in data_to_display and data_to_display["parcellation_entities"]:
+                    atlas_terminology_list = self._build_atlas_terminology(data_to_display["parcellation_entities"])
+                    if atlas_terminology_list:
+                        for term in atlas_terminology_list:
+                            doc.content(term)
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
+                doc.content("------------")
+                doc.newline()
+
                 for _, vdict in sorted(data_to_display["versions"].items()):
                     vdata = vdict["atlas"]
                     subtitle = vdata['versionIdentifier']

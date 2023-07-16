@@ -28,6 +28,12 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
                     new_relative_path.append(sub_dir)
                     create_toc_tree_page(version, new_relative_path)
 
+        if heading == "Libraries":
+            doc.note(content="The instances of these libraries are continuously extended and optimized. For "
+                             "requesting missing instances to be registered or for editions of existing instances "
+                             "please raise an issue on `openMINDS_instances "
+                             "<https://github.com/openMetadataInitiative/openMINDS_documentation/issues>`_")
+
         for link in links:
             doc.content(link)
 
