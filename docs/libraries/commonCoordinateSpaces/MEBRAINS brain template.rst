@@ -12,7 +12,7 @@ MEBRAINS brain template
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS-brain-template.html#version-v1.0>`_
+   :has versions: `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%brain%template.html#version-v1.0>`_
 
 ------------
 
@@ -20,4 +20,8 @@ MEBRAINS brain template
 
 version \(v1.0\)
 ################
+
+.. admonition:: metadata sheet
+
+   :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
 
