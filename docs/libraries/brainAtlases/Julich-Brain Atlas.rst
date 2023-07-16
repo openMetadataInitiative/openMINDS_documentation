@@ -12,17 +12,14 @@ Julich-Brain Atlas
    :ontology ID: \-
    :homepage: https://julich-brain-atlas.de/
    :howToCite: \-
-   :has versions: `v1.13, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v1.13,-Colin27>`_, `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v1.18,-Colin27>`_, `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v1.18,-MNI152>`_, `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.2,-Colin27>`_, `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.2,-MNI152>`_, `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.4,-Colin27>`_, `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.4,-MNI152>`_, `v2.5, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.5,-Colin27>`_, `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.5,-MNI152>`_, `v2.6, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.6,-MNI152>`_, `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.9,-BigBrain>`_, `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.9,-Colin27>`_, `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.9,-MNI152>`_, `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v2.9,-fsaverage>`_, `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v3.0.2,-BigBrain>`_, `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v3.0.2,-Colin27>`_, `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v3.0.2,-MNI152>`_, `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#v3.0.2,-fsaverage>`_
+   :has versions: `v1.13, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1.13,-Colin27>`_, `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1.18,-Colin27>`_, `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1.18,-MNI152>`_, `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.2,-Colin27>`_, `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.2,-MNI152>`_, `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.4,-Colin27>`_, `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.4,-MNI152>`_, `v2.5, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.5,-Colin27>`_, `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.5,-MNI152>`_, `v2.6, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.6,-MNI152>`_, `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.9,-BigBrain>`_, `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.9,-Colin27>`_, `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.9,-MNI152>`_, `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2.9,-fsaverage>`_, `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3.0.2,-BigBrain>`_, `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3.0.2,-Colin27>`_, `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3.0.2,-MNI152>`_, `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3.0.2,-fsaverage>`_
 
 ------------
 
 ------------
 
-Versions
-########
-**************
-v1.13, Colin27
-**************
+version v1.13, Colin27
+######################
 
 .. admonition:: metadata sheet
 
@@ -37,9 +34,8 @@ v1.13, Colin27
 
 ------------
 
-**************
-v1.18, Colin27
-**************
+version v1.18, Colin27
+######################
 
 .. admonition:: metadata sheet
 
@@ -54,9 +50,8 @@ v1.18, Colin27
 
 ------------
 
-*************
-v1.18, MNI152
-*************
+version v1.18, MNI152
+#####################
 
 .. admonition:: metadata sheet
 
@@ -71,9 +66,8 @@ v1.18, MNI152
 
 ------------
 
-*************
-v2.2, Colin27
-*************
+version v2.2, Colin27
+#####################
 
 .. admonition:: metadata sheet
 
@@ -88,9 +82,8 @@ v2.2, Colin27
 
 ------------
 
-************
-v2.2, MNI152
-************
+version v2.2, MNI152
+####################
 
 .. admonition:: metadata sheet
 
@@ -105,9 +98,8 @@ v2.2, MNI152
 
 ------------
 
-*************
-v2.4, Colin27
-*************
+version v2.4, Colin27
+#####################
 
 .. admonition:: metadata sheet
 
@@ -122,9 +114,8 @@ v2.4, Colin27
 
 ------------
 
-************
-v2.4, MNI152
-************
+version v2.4, MNI152
+####################
 
 .. admonition:: metadata sheet
 
@@ -139,9 +130,8 @@ v2.4, MNI152
 
 ------------
 
-*************
-v2.5, Colin27
-*************
+version v2.5, Colin27
+#####################
 
 .. admonition:: metadata sheet
 
@@ -156,9 +146,8 @@ v2.5, Colin27
 
 ------------
 
-************
-v2.5, MNI152
-************
+version v2.5, MNI152
+####################
 
 .. admonition:: metadata sheet
 
@@ -173,9 +162,8 @@ v2.5, MNI152
 
 ------------
 
-************
-v2.6, MNI152
-************
+version v2.6, MNI152
+####################
 
 .. admonition:: metadata sheet
 
@@ -190,9 +178,8 @@ v2.6, MNI152
 
 ------------
 
-**************
-v2.9, BigBrain
-**************
+version v2.9, BigBrain
+######################
 
 .. admonition:: metadata sheet
 
@@ -207,9 +194,8 @@ v2.9, BigBrain
 
 ------------
 
-*************
-v2.9, Colin27
-*************
+version v2.9, Colin27
+#####################
 
 .. admonition:: metadata sheet
 
@@ -224,9 +210,8 @@ v2.9, Colin27
 
 ------------
 
-************
-v2.9, MNI152
-************
+version v2.9, MNI152
+####################
 
 .. admonition:: metadata sheet
 
@@ -241,9 +226,8 @@ v2.9, MNI152
 
 ------------
 
-***************
-v2.9, fsaverage
-***************
+version v2.9, fsaverage
+#######################
 
 .. admonition:: metadata sheet
 
@@ -258,9 +242,8 @@ v2.9, fsaverage
 
 ------------
 
-****************
-v3.0.2, BigBrain
-****************
+version v3.0.2, BigBrain
+########################
 
 .. admonition:: metadata sheet
 
@@ -275,9 +258,8 @@ v3.0.2, BigBrain
 
 ------------
 
-***************
-v3.0.2, Colin27
-***************
+version v3.0.2, Colin27
+#######################
 
 .. admonition:: metadata sheet
 
@@ -292,9 +274,8 @@ v3.0.2, Colin27
 
 ------------
 
-**************
-v3.0.2, MNI152
-**************
+version v3.0.2, MNI152
+######################
 
 .. admonition:: metadata sheet
 
@@ -309,9 +290,8 @@ v3.0.2, MNI152
 
 ------------
 
-*****************
-v3.0.2, fsaverage
-*****************
+version v3.0.2, fsaverage
+#########################
 
 .. admonition:: metadata sheet
 
