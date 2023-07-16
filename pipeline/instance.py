@@ -279,10 +279,10 @@ class InstancesDocBuilder(object):
             doc.newline()
             doc.content("------------")
             doc.newline()
-            if "hasVersion" in space and space["hasVersion"]:
+            if "versions" in data_to_display and data_to_display["versions"]:
                 spaceV_title_list = []
-                for spaceV_name, spaceV_data in space["hasVersion"]:
-                    spaceV_title = f"{spaceV_data['shortName']} \({spaceV_data['shortName']}\)"
+                for spaceV_name, spaceV in data_to_display["versions"].items():
+                    spaceV_title = f"{spaceV['shortName']} \({spaceV['shortName']}\)"
                     spaceV_title_list.append(spaceV_title)
                     doc.heading(f"{spaceV_title}", char="#")
                     doc.newline()
