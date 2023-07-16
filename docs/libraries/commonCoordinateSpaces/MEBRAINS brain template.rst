@@ -18,10 +18,23 @@ MEBRAINS brain template
 
 ------------
 
-version \(v1.0\)
-################
+Versions
+########
+****
+v1.0
+****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <MEBRAINS brain template_>`_
+
+------------
 

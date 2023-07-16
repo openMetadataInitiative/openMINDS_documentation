@@ -18,17 +18,41 @@ fsLR Surface Space
 
 ------------
 
-version \(164k\)
-################
+Versions
+########
+****
+164k
+****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_164k
 
-version \(32k\)
-###############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <fsLR Surface Space_>`_
+
+------------
+
+***
+32k
+***
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <fsLR Surface Space_>`_
+
+------------
 

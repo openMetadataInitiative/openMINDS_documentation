@@ -18,59 +18,157 @@ MNI ICBM152
 
 ------------
 
-version \(2001 linear symmetric\)
-#################################
+Versions
+########
+*********************
+2001 linear symmetric
+*********************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym
 
-version \(2009a nonlinear asymmetric\)
-######################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152lin'}
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+**************************
+2009a nonlinear asymmetric
+**************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym
 
-version \(2009a nonlinear symmetric\)
-#####################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009'}
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+*************************
+2009a nonlinear symmetric
+*************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym
 
-version \(2009b nonlinear asymmetric\)
-######################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009'}
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+**************************
+2009b nonlinear asymmetric
+**************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym
 
-version \(2009b nonlinear symmetric\)
-#####################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+*************************
+2009b nonlinear symmetric
+*************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym
 
-version \(2009c nonlinear asymmetric\)
-######################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+**************************
+2009c nonlinear asymmetric
+**************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym
 
-version \(2009c nonlinear symmetric\)
-#####################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+*************************
+2009c nonlinear symmetric
+*************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym
 
-version \(nonlinear 6th generation symmetric\)
-##############################################
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
+
+**********************************
+nonlinear 6th generation symmetric
+**********************************
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym
+
+   :digital ID: \-
+   :ontology ID: \-
+   :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI ICBM152_>`_
+
+------------
 

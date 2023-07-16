@@ -18,17 +18,41 @@ MNI Colin27 Average Brain
 
 ------------
 
-version \(1998\)
-################
+Versions
+########
+****
+1998
+****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998
 
-version \(2008\)
-################
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI Colin27 Average Brain_>`_
+
+------------
+
+****
+2008
+****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <MNI Colin27 Average Brain_>`_
+
+------------
 

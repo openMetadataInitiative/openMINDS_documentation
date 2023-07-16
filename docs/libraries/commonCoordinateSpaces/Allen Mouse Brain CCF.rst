@@ -18,31 +18,77 @@ Allen Mouse Brain CCF
 
 ------------
 
-version \(v1\)
-##############
+Versions
+########
+**
+v1
+**
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v1
 
-version \(v2\)
-##############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: Lein E, Hawrylycz M, Ao N, et al.; 'Genome-wide atlas of gene expression in the adult mouse brain.'; Nature; Jan 2007; 445(7124):168–176. [doi: 10.1038/nature05453](https://doi.org/10.1038/nature05453)
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <Allen Mouse Brain CCF_>`_
+
+------------
+
+**
+v2
+**
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v2
 
-version \(v3\)
-##############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: Oh S, Harris J, Ng L, et al.; 'A mesoscale connectome of the mouse brain.'; Nature; Apr 2014; 508(7495):207–214. [doi: 10.1038/nature13186](https://doi.org/10.1038/nature13186)
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <Allen Mouse Brain CCF_>`_
+
+------------
+
+**
+v3
+**
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3
 
-version \(v3-RAS\)
-##################
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <Allen Mouse Brain CCF_>`_
+
+------------
+
+******
+v3-RAS
+******
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <Allen Mouse Brain CCF_>`_
+
+------------
 

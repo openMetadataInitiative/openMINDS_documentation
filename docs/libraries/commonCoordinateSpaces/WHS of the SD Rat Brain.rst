@@ -18,17 +18,41 @@ WHS of the SD Rat Brain
 
 ------------
 
-version \(v1.01\)
-#################
+Versions
+########
+*****
+v1.01
+*****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1
 
-version \(v1.01\)
-#################
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <WHS of the SD Rat Brain_>`_
+
+------------
+
+*****
+v1.01
+*****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1.01
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <WHS of the SD Rat Brain_>`_
+
+------------
 

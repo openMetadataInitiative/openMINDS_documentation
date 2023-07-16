@@ -18,10 +18,23 @@ BigBrain Model
 
 ------------
 
-version \(2015\)
-################
+Versions
+########
+****
+2015
+****
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+
+`BACK TO TOP <BigBrain Model_>`_
+
+------------
 

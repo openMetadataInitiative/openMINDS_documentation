@@ -18,38 +18,95 @@ FsAverage Surface Space
 
 ------------
 
-version \(3\)
-#############
+Versions
+########
+*
+3
+*
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_3
 
-version \(4\)
-#############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <FsAverage Surface Space_>`_
+
+------------
+
+*
+4
+*
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_4
 
-version \(5\)
-#############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <FsAverage Surface Space_>`_
+
+------------
+
+*
+5
+*
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_5
 
-version \(6\)
-#############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <FsAverage Surface Space_>`_
+
+------------
+
+*
+6
+*
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_6
 
-version \(7\)
-#############
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <FsAverage Surface Space_>`_
+
+------------
+
+*
+7
+*
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_7
+
+   :digital ID: \-
+   :ontology ID: \-
+   :howToCite: \-
+   ------------
+   :accessibility: \-
+
+`BACK TO TOP <FsAverage Surface Space_>`_
+
+------------
 
