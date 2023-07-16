@@ -128,7 +128,7 @@ class InstancesDocBuilder(object):
         linklist = []
         for name, data  in sorted(versions.items()):
             vID = data['versionIdentifier']
-            space_html_title = f"{data['shortName']}.html#version-{vID.replace(' ', '-')}"
+            space_html_title = f"{data['shortName'].replace(' ', '%20')}.html#version-{vID.replace(' ', '-')}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
@@ -300,6 +300,7 @@ class InstancesDocBuilder(object):
                     field_list_indent = 3
                     doc.field(name="semantic name", value=spaceV["@id"], indent=field_list_indent)
                     doc.newline()
+
     def build(self):
         # build RST docu for each terminology
         for terminology_name, terms in self.instances_libraries["terminologies"].items():
