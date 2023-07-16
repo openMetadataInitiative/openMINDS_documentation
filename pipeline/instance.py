@@ -147,7 +147,7 @@ class InstancesDocBuilder(object):
         name_mod = name.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
         page = f"{title_mod}.html#version-{name_mod}"
         link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
-        return f"`{name} <{link}_>`_" if name != vname else f"{name} \(not registered yet\)"
+        return f"`{name} <{link}>`_" if name != vname else f"{name} \(not registered yet\)"
 
     def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str) -> str:
         linklist = []
