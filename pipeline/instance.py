@@ -114,7 +114,7 @@ class InstancesDocBuilder(object):
     def _extract_datatypes(self, datatypes:List) -> str:
         linklist = []
         for datatype in datatypes:
-            name = self.instances_libraries["terminologies"]["dataType"][datatype["@id"].split("/")[-1]]
+            name = self.instances_libraries["terminologies"]["dataType"][datatype["@id"].split("/")[-1]]["name"]
             link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"dataType.html#{name.replace(' ', '-')}")
             linklist.append(f"`{name} <{link}>`_")
         return ", ".join(linklist)
@@ -233,7 +233,7 @@ class InstancesDocBuilder(object):
             space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
             if "usedSpecies" in atlas and atlas["usedSpecies"]:
-                species_name = self.instances_libraries["terminologies"]["species"][atlas["usedSpecies"]["@id"].split("/")[-1]]
+                species_name = self.instances_libraries["terminologies"]["species"][atlas["usedSpecies"]["@id"].split("/")[-1]]["name"]
                 species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
             else:
                 species_link = "\-"
@@ -262,7 +262,7 @@ class InstancesDocBuilder(object):
             space_abbr = space["abbreviation"] if "abbreviation" in space and space["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
             if "usedSpecies" in space and space["usedSpecies"]:
-                species_name = self.instances_libraries["terminologies"]["species"][space["usedSpecies"]["@id"].split("/")[-1]]
+                species_name = self.instances_libraries["terminologies"]["species"][space["usedSpecies"]["@id"].split("/")[-1]]["name"]
                 species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
             else:
                 species_link = "\-"
@@ -302,7 +302,7 @@ class InstancesDocBuilder(object):
 
         # build RST docu for each common coordinate space
         for ccs_name, ccs_data in self.instances_libraries["commonCoordinateSpaces"].items():
-            ccs_title = ccs_data["fullName"]
+            ccs_title = ccs_data["space"]["fullName"]
             target_file = self._target_file_without_extension("/".join(["commonCoordinateSpaces", ccs_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
             self._build_common_coordinate_space(target_file, ccs_title, ccs_data)
