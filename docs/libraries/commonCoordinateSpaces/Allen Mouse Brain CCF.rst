@@ -18,11 +18,8 @@ Allen Mouse Brain CCF
 
 ------------
 
-Versions
-########
-**
-v1
-**
+version v1
+##########
 
 .. admonition:: metadata sheet
 
@@ -40,9 +37,8 @@ v1
 
 ------------
 
-**
-v2
-**
+version v2
+##########
 
 .. admonition:: metadata sheet
 
@@ -60,9 +56,8 @@ v2
 
 ------------
 
-**
-v3
-**
+version v3
+##########
 
 .. admonition:: metadata sheet
 
@@ -80,9 +75,8 @@ v3
 
 ------------
 
-******
-v3-RAS
-******
+version v3-RAS
+##############
 
 .. admonition:: metadata sheet
 

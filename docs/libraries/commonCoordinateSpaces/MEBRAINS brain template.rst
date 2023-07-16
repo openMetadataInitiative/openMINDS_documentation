@@ -18,11 +18,8 @@ MEBRAINS brain template
 
 ------------
 
-Versions
-########
-****
-v1.0
-****
+version v1.0
+############
 
 .. admonition:: metadata sheet
 

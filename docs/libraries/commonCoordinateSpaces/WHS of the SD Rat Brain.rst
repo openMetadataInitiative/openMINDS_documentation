@@ -18,11 +18,8 @@ WHS of the SD Rat Brain
 
 ------------
 
-Versions
-########
-**
-v1
-**
+version v1
+##########
 
 .. admonition:: metadata sheet
 
@@ -40,9 +37,8 @@ v1
 
 ------------
 
-*****
-v1.01
-*****
+version v1.01
+#############
 
 .. admonition:: metadata sheet
 

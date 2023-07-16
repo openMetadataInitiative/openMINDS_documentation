@@ -18,11 +18,8 @@ FsAverage Surface Space
 
 ------------
 
-Versions
-########
-*
-3
-*
+version 3
+#########
 
 .. admonition:: metadata sheet
 
@@ -40,9 +37,8 @@ Versions
 
 ------------
 
-*
-4
-*
+version 4
+#########
 
 .. admonition:: metadata sheet
 
@@ -60,9 +56,8 @@ Versions
 
 ------------
 
-*
-5
-*
+version 5
+#########
 
 .. admonition:: metadata sheet
 
@@ -80,9 +75,8 @@ Versions
 
 ------------
 
-*
-6
-*
+version 6
+#########
 
 .. admonition:: metadata sheet
 
@@ -100,9 +94,8 @@ Versions
 
 ------------
 
-*
-7
-*
+version 7
+#########
 
 .. admonition:: metadata sheet
 

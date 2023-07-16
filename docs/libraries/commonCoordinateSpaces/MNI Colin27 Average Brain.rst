@@ -18,11 +18,8 @@ MNI Colin27 Average Brain
 
 ------------
 
-Versions
-########
-****
-1998
-****
+version 1998
+############
 
 .. admonition:: metadata sheet
 
@@ -40,9 +37,8 @@ Versions
 
 ------------
 
-****
-2008
-****
+version 2008
+############
 
 .. admonition:: metadata sheet
 

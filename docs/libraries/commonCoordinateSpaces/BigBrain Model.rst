@@ -18,11 +18,8 @@ BigBrain Model
 
 ------------
 
-Versions
-########
-****
-2015
-****
+version 2015
+############
 
 .. admonition:: metadata sheet
 

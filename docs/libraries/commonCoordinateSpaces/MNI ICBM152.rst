@@ -18,11 +18,8 @@ MNI ICBM152
 
 ------------
 
-Versions
-########
-*********************
-2001 linear symmetric
-*********************
+version 2001 linear symmetric
+#############################
 
 .. admonition:: metadata sheet
 
@@ -41,9 +38,8 @@ Versions
 
 ------------
 
-**************************
-2009a nonlinear asymmetric
-**************************
+version 2009a nonlinear asymmetric
+##################################
 
 .. admonition:: metadata sheet
 
@@ -62,9 +58,8 @@ Versions
 
 ------------
 
-*************************
-2009a nonlinear symmetric
-*************************
+version 2009a nonlinear symmetric
+#################################
 
 .. admonition:: metadata sheet
 
@@ -83,9 +78,8 @@ Versions
 
 ------------
 
-**************************
-2009b nonlinear asymmetric
-**************************
+version 2009b nonlinear asymmetric
+##################################
 
 .. admonition:: metadata sheet
 
@@ -104,9 +98,8 @@ Versions
 
 ------------
 
-*************************
-2009b nonlinear symmetric
-*************************
+version 2009b nonlinear symmetric
+#################################
 
 .. admonition:: metadata sheet
 
@@ -125,9 +118,8 @@ Versions
 
 ------------
 
-**************************
-2009c nonlinear asymmetric
-**************************
+version 2009c nonlinear asymmetric
+##################################
 
 .. admonition:: metadata sheet
 
@@ -146,9 +138,8 @@ Versions
 
 ------------
 
-*************************
-2009c nonlinear symmetric
-*************************
+version 2009c nonlinear symmetric
+#################################
 
 .. admonition:: metadata sheet
 
@@ -167,9 +158,8 @@ Versions
 
 ------------
 
-**********************************
-nonlinear 6th generation symmetric
-**********************************
+version nonlinear 6th generation symmetric
+##########################################
 
 .. admonition:: metadata sheet
 

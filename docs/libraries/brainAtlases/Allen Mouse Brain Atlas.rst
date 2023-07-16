@@ -12,7 +12,7 @@ Allen Mouse Brain Atlas
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
    :howToCite: \-
-   :has versions: `CCFv3, 2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-CCFv3,-2015>`_, `CCFv3, 2017 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-CCFv3,-2017>`_
+   :has versions: `CCFv3, 2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-CCFv3--2015>`_, `CCFv3, 2017 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-CCFv3--2017>`_
 
 ------------
 

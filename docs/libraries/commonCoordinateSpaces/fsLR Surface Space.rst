@@ -18,11 +18,8 @@ fsLR Surface Space
 
 ------------
 
-Versions
-########
-****
-164k
-****
+version 164k
+############
 
 .. admonition:: metadata sheet
 
@@ -40,9 +37,8 @@ Versions
 
 ------------
 
-***
-32k
-***
+version 32k
+###########
 
 .. admonition:: metadata sheet
 
