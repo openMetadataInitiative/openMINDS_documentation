@@ -111,7 +111,7 @@ class InstancesDocBuilder(object):
     def _target_file_without_extension(self, target_basename:str) -> str:
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
-    def _extract_datatypes(self, datatypes:List) -> str:
+    def _build_datatype_links(self, datatypes:List) -> str:
         linklist = []
         for datatype in datatypes:
             name = self.instances_libraries["terminologies"]["dataType"][datatype["@id"].split("/")[-1]]["name"]
@@ -119,10 +119,19 @@ class InstancesDocBuilder(object):
             linklist.append(f"`{name} <{link}>`_")
         return ", ".join(linklist)
 
-    def _extract_species(self, species:Dict) -> str:
+    def _build_species_links(self, species:Dict) -> str:
         name = self.instances_libraries["terminologies"]["species"][species["@id"].split("/")[-1]]["name"]
         link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{name.replace(' ', '-')}")
         return f"`{name} <{link}>`_"
+
+    def _build_common_coordinate_space_links(self, versions:Dict) -> str:
+        linklist = []
+        for name, data  in versions.items():
+            vID = data['versionIdentifier']
+            space_html_title = f"{data['shortName'].replace(' ', '-')}.html#version-{vID.replace(' ', '-')}"
+            link = os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces", space_html_title)
+            linklist.append(f"`{vID} <{link}>`_")
+        return ", ".join(linklist)
 
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -185,7 +194,7 @@ class InstancesDocBuilder(object):
                 doc.field(name="description", value=description, indent=field_list_indent)
                 specification = ct_data["specification"] if "specification" in ct_data and ct_data["specification"] else "\-"
                 doc.field(name="specification", value=specification, indent=field_list_indent)
-                datatypes = self._extract_datatypes(ct_data["dataType"]) if "dataType" in ct_data and ct_data["dataType"] else "\-"
+                datatypes = self._build_datatype_links(ct_data["dataType"]) if "dataType" in ct_data and ct_data["dataType"] else "\-"
                 doc.field(name="data types", value=datatypes, indent=field_list_indent)
                 mediatype = ct_data["relatedMediaType"] if "relatedMediaType" in ct_data and ct_data["relatedMediaType"] else "\-"
                 doc.field(name="related media type", value=mediatype, indent=field_list_indent)
@@ -237,7 +246,7 @@ class InstancesDocBuilder(object):
             doc.field(name="full name", value=space_fullName, indent=field_list_indent)
             space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            usedSpecies = self._extract_species(atlas["usedSpecies"]) if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
+            usedSpecies = self._build_species_links(atlas["usedSpecies"]) if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
             doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
             space_digitalID = atlas["digitalIdentifier"] if "digitalIdentifier" in atlas and atlas["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
@@ -262,7 +271,7 @@ class InstancesDocBuilder(object):
             doc.field(name="full name", value=space_fullName, indent=field_list_indent)
             space_abbr = space["abbreviation"] if "abbreviation" in space and space["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            usedSpecies = self._extract_species(space["usedSpecies"]) if "usedSpecies" in space and space["usedSpecies"] else "\-"
+            usedSpecies = self._build_species_links(space["usedSpecies"]) if "usedSpecies" in space and space["usedSpecies"] else "\-"
             doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
             space_digitalID = space["digitalIdentifier"] if "digitalIdentifier" in space and space["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
@@ -272,21 +281,20 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
             space_citation = space["howToCite"] if "howToCite" in space and space["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
-            # hasVersions = self._extract_research_product_versions(space["hasVersion"]) if "hasVersion" in space and space["hasVersion"] else "\-"
-            # doc.field(name="has versions", value=hasVersions, indent=field_list_indent)
-            doc.newline()
-            doc.content("------------")
-            doc.newline()
-            doc.content("------------")
-            doc.newline()
-            if "versions" in data_to_display and data_to_display["versions"]:
+            if "hasVersion" in space and space["hasVersion"]:
+                hasVersions = self._build_common_coordinate_space_links(data_to_display["versions"])
+                doc.field(name="has versions", value=hasVersions, indent=field_list_indent)
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
+                doc.content("------------")
+                doc.newline()
                 spaceV_title_list = []
                 for spaceV_name, spaceV in data_to_display["versions"].items():
-                    spaceV_title = f"{spaceV['shortName']} \({spaceV['shortName']}\)"
+                    spaceV_title = f"version \({spaceV['versionIdentifier']}\)"
                     spaceV_title_list.append(spaceV_title)
                     doc.heading(f"{spaceV_title}", char="#")
                     doc.newline()
-#https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ebrains-dua-4-hdg
 
     def build(self):
         # build RST docu for each terminology
