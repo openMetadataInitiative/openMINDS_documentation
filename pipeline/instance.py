@@ -124,12 +124,12 @@ class InstancesDocBuilder(object):
         link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{name.replace(' ', '-')}")
         return f"`{name} <{link}>`_"
 
-    def _build_common_coordinate_space_links(self, versions:Dict) -> str:
+    def _build_product_version_links(self, versions:Dict, productType:str) -> str:
         linklist = []
         for name, data  in versions.items():
             vID = data['versionIdentifier']
-            space_html_title = f"{data['shortName'].replace(' ', '-')}.html#version-{vID.replace(' ', '-')}"
-            link = os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces", space_html_title)
+            space_html_title = f"{data['shortName'].replace(' ', '%')}.html#version-{vID.replace(' ', '-')}"
+            link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
 
@@ -282,7 +282,7 @@ class InstancesDocBuilder(object):
             space_citation = space["howToCite"] if "howToCite" in space and space["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
             if "hasVersion" in space and space["hasVersion"]:
-                hasVersions = self._build_common_coordinate_space_links(data_to_display["versions"])
+                hasVersions = self._build_product_version_links(data_to_display["versions"], "commonCoordinateSpaces")
                 doc.field(name="has versions", value=hasVersions, indent=field_list_indent)
                 doc.newline()
                 doc.content("------------")
@@ -290,12 +290,16 @@ class InstancesDocBuilder(object):
                 doc.content("------------")
                 doc.newline()
                 spaceV_title_list = []
-                for spaceV_name, spaceV in data_to_display["versions"].items():
+                for spaceV_name, spaceV in sorted(data_to_display["versions"].items()):
                     spaceV_title = f"version \({spaceV['versionIdentifier']}\)"
                     spaceV_title_list.append(spaceV_title)
                     doc.heading(f"{spaceV_title}", char="#")
                     doc.newline()
-
+                    doc.directive(name="admonition", arg="metadata sheet")
+                    doc.newline()
+                    field_list_indent = 3
+                    doc.field(name="semantic name", value=spaceV["@id"], indent=field_list_indent)
+                    doc.newline()
     def build(self):
         # build RST docu for each terminology
         for terminology_name, terms in self.instances_libraries["terminologies"].items():
