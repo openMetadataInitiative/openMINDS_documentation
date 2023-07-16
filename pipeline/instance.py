@@ -124,26 +124,35 @@ class InstancesDocBuilder(object):
             linklist.append(self._build_single_term_link(termReference, terminology))
         return ", ".join(linklist)
 
-    def _build_product_version_links(self, versions:Dict, productType:str) -> str:
-        linklist = []
-        for name, vdict  in sorted(versions.items()):
-            vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
-            vID = vdata['versionIdentifier']
-            vID_mod = vID.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
-            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID_mod}"
-            link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
-            linklist.append(f"`{vID} <{link}>`_")
-        return ", ".join(linklist)
+    # def _build_product_version_links(self, versions:Dict, productType:str) -> str:
+    #     linklist = []
+    #     for name, vdict  in sorted(versions.items()):
+    #         vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
+    #         vID = vdata['versionIdentifier']
+    #         vID_mod = vID.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
+    #         space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID_mod}"
+    #         link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
+    #         linklist.append(f"`{vID} <{link}>`_")
+    #     return ", ".join(linklist)
 
-    def _build_single_version_link(self, versionReference:Dict, versions:Dict) -> str:
+    def _build_single_version_link(self, versionReference:Dict, versions:Dict, title:str) -> str:
         vname = versionReference["@id"].split("/")[-1]
-        name = versions[vname]["atlas"]["versionIdentifier"] if "brainAtlasVersion" in versionReference["@id"] else versions[vname]["versionIdentifier"]
-        subdir = "brainAtlases" if "brainAtlasVersion" in versionReference["@id"] else "commonCoordinateSpaces"
-        # link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}")
-        return f"`{name} <{name}_>`_"
+        if "brainAtlasVersion" in versionReference["@id"]:
+            name = versions[vname]["atlas"]["versionIdentifier"] if vname in versions and versions[vname]["atlas"] else vname
+            subdir = "brainAtlases"
+        else:
+            name = versions[vname]["versionIdentifier"] if vname in versions and versions[vname] else vname
+            subdir = "commonCoordinateSpaces"
+        title_mod = title.replace(' ', '%20')
+        name_mod = name.replace(' ', '-').replace(',', '-').replace('.', '-').casefold()
+        page = f"{title_mod}.html#version-{name_mod}"
+        link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
+        return f"`{name} <{link}_>`_" if name != vname else f"{name} \(not registered yet\)"
 
-    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict) -> str:
+    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str) -> str:
         linklist = []
+        for versionReference in versionReferenceList:
+            linklist.append(self._build_single_version_link(versionReference, versions, title))
         return ", ".join(linklist)
 
     # dv_isNewOf = vdata["isNewVersionOf"] if "isNewVersionOf" in vdata and vdata["isNewVersionOf"] else None
@@ -283,7 +292,7 @@ class InstancesDocBuilder(object):
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
-                version_link_list = self._build_product_version_links(data_to_display["versions"], "brainAtlases")
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
                 doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
                 doc.newline()
                 doc.content("------------")
@@ -299,7 +308,12 @@ class InstancesDocBuilder(object):
                     doc.newline()
                     field_list_indent = 3
                     doc.field(name="semantic name", value=vdata["@id"], indent=field_list_indent)
-                    doc.newline()
+                    if "isNewVersionOf" in vdata and vdata["isNewVersionOf"]:
+                        old_version_link = self._build_single_version_link(vdata["isNewVersionOf"], data_to_display["versions"], title)
+                        doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
+                    if "isAlternativeVersionOf" in vdata and vdata["isAlternativeVersionOf"]:
+                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
+                        doc.field(name="alternative versions", value=alt_version_link_list, indent=field_list_indent)
                     dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
                     if dv_fullName != d_fullName:
                         doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
@@ -348,7 +362,7 @@ class InstancesDocBuilder(object):
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
-                version_link_list = self._build_product_version_links(data_to_display["versions"], "commonCoordinateSpaces")
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
                 doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
                 doc.newline()
                 doc.content("------------")
@@ -363,7 +377,14 @@ class InstancesDocBuilder(object):
                     doc.newline()
                     field_list_indent = 3
                     doc.field(name="semantic name", value=vdata["@id"], indent=field_list_indent)
-                    doc.newline()
+                    if "isNewVersionOf" in vdata and vdata["isNewVersionOf"]:
+                        old_version_link = self._build_single_version_link(vdata["isNewVersionOf"], data_to_display["versions"], title)
+                        doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
+                        doc.newline()
+                    if "isAlternativeVersionOf" in vdata and vdata["isAlternativeVersionOf"]:
+                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
+                        doc.field(name="alternative versions", value=alt_version_link_list, indent=field_list_indent)
+                        doc.newline()
                     dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
                     if dv_fullName != d_fullName:
                         doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
