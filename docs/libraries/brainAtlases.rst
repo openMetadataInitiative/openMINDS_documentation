@@ -2,26 +2,26 @@
 BrainAtlases
 ############
 
+- `AAL Atlas 1 <brainAtlases/AAL Atlas 1.html>`_
 - `Allen Mouse Brain Atlas <brainAtlases/Allen Mouse Brain Atlas.html>`_
-- `Atlas of Deep White Matter Fibre Bundles <brainAtlases/Atlas of Deep White Matter Fibre Bundles.html>`_
-- `Atlas of Superficial White Matter Fibre Bundles <brainAtlases/Atlas of Superficial White Matter Fibre Bundles.html>`_
-- `Automated Anatomical Labeling Atlas 1 <brainAtlases/Automated Anatomical Labeling Atlas 1.html>`_
-- `Automated Segmentation Atlas of the Human Brain <brainAtlases/Automated Segmentation Atlas of the Human Brain.html>`_
-- `Brodmann Cortical Parcellation Scheme \(human\) <brainAtlases/Brodmann Cortical Parcellation Scheme \(human\).html>`_
-- `Desikan-Killiany Atlas <brainAtlases/Desikan-Killiany Atlas.html>`_
-- `Julich-Brain Cytoarchitectonic Atlas <brainAtlases/Julich-Brain Cytoarchitectonic Atlas.html>`_
-- `Schaefer Atlas with 400 Parcellation <brainAtlases/Schaefer Atlas with 400 Parcellation.html>`_
-- `Waxholm Space Atlas of the Sprague Dawley Rat Brain <brainAtlases/Waxholm Space Atlas of the Sprague Dawley Rat Brain.html>`_
+- `Automated Segmentation Atlas <brainAtlases/Automated Segmentation Atlas.html>`_
+- `Brodmann Areas (human) <brainAtlases/Brodmann Areas (human).html>`_
+- `Deep White Matter Atlas <brainAtlases/Deep White Matter Atlas.html>`_
+- `DK Atlas <brainAtlases/DK Atlas.html>`_
+- `Julich-Brain Atlas <brainAtlases/Julich-Brain Atlas.html>`_
+- `Schaefer Atlas (400p) <brainAtlases/Schaefer Atlas (400p).html>`_
+- `Superficial White Matter Atlas <brainAtlases/Superficial White Matter Atlas.html>`_
+- `Waxholm Space Rat Brain Atlas <brainAtlases/Waxholm Space Rat Brain Atlas.html>`_
 
 .. toctree::
 
+   brainAtlases/AAL Atlas 1
    brainAtlases/Allen Mouse Brain Atlas
-   brainAtlases/Atlas of Deep White Matter Fibre Bundles
-   brainAtlases/Atlas of Superficial White Matter Fibre Bundles
-   brainAtlases/Automated Anatomical Labeling Atlas 1
-   brainAtlases/Automated Segmentation Atlas of the Human Brain
-   brainAtlases/Brodmann Cortical Parcellation Scheme \(human\)
-   brainAtlases/Desikan-Killiany Atlas
-   brainAtlases/Julich-Brain Cytoarchitectonic Atlas
-   brainAtlases/Schaefer Atlas with 400 Parcellation
-   brainAtlases/Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   brainAtlases/Automated Segmentation Atlas
+   brainAtlases/Brodmann Areas (human)
+   brainAtlases/Deep White Matter Atlas
+   brainAtlases/DK Atlas
+   brainAtlases/Julich-Brain Atlas
+   brainAtlases/Schaefer Atlas (400p)
+   brainAtlases/Superficial White Matter Atlas
+   brainAtlases/Waxholm Space Rat Brain Atlas

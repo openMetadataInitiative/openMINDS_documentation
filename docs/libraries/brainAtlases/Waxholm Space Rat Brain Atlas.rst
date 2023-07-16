@@ -1,13 +1,13 @@
-###################################################
-Waxholm Space Atlas of the Sprague Dawley Rat Brain
-###################################################
+#############################
+Waxholm Space Rat Brain Atlas
+#############################
 
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
-   :short name: Waxholm Space Rat Brain Atlas
+   :full name: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :abbreviation: WHSSDatlas
-   :used species: https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Rattus-norvegicus
+   :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#Rattus-norvegicus>`_
    :digital ID: {'@id': 'https://scicrunch.org/resolver/RRID:SCR_017124'}
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
