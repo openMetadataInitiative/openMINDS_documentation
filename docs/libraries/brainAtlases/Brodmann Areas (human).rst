@@ -12,7 +12,7 @@ Brodmann Areas (human)
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `1909 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Brodmann%20Areas%20(human).html#version-1909>`_
+   :has versions: `1909 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Brodmann%20Areas%20(human).html#1909>`_
 
 ------------
 
@@ -31,7 +31,6 @@ Versions
    :digital ID: \-
    :ontology ID: http://uri.interlex.org/base/ilx_0101468
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Brodmann Areas (human)_>`_

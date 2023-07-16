@@ -12,7 +12,7 @@ AAL Atlas 1
    :ontology ID: \-
    :homepage: https://www.gin.cnrs.fr/en/tools/aal/
    :howToCite: \-
-   :has versions: `SPM12, v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/AAL%20Atlas%201.html#version-SPM12,-v4>`_
+   :has versions: `SPM12, v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/AAL%20Atlas%201.html#SPM12,-v4>`_
 
 ------------
 
@@ -32,7 +32,6 @@ SPM12, v4
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <AAL Atlas 1_>`_

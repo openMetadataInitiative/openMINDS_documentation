@@ -12,7 +12,7 @@ Superficial White Matter Atlas
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Superficial%20White%20Matter%20Atlas.html#version-2018>`_
+   :has versions: `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Superficial%20White%20Matter%20Atlas.html#2018>`_
 
 ------------
 
@@ -31,7 +31,6 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Superficial White Matter Atlas_>`_

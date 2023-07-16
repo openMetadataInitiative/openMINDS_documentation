@@ -12,7 +12,7 @@ fsLR Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `164k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-164k>`_, `32k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-32k>`_
+   :has versions: `164k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#164k>`_, `32k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#32k>`_
 
 ------------
 
@@ -31,8 +31,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <fsLR Surface Space_>`_
 
@@ -49,8 +51,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <fsLR Surface Space_>`_
 

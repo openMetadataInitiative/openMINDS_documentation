@@ -12,7 +12,7 @@ MEBRAINS brain template
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%20brain%20template.html#version-v1.0>`_
+   :has versions: `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%20brain%20template.html#v1.0>`_
 
 ------------
 
@@ -31,8 +31,10 @@ v1.0
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :release date: \-
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <MEBRAINS brain template_>`_
 

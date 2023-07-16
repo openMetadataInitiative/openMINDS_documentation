@@ -12,7 +12,7 @@ WHS of the SD Rat Brain
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
    :howToCite: \-
-   :has versions: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1.01>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1.01>`_
+   :has versions: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#v1>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#v1.01>`_
 
 ------------
 
@@ -20,9 +20,9 @@ WHS of the SD Rat Brain
 
 Versions
 ########
-*****
-v1.01
-*****
+**
+v1
+**
 
 .. admonition:: metadata sheet
 
@@ -31,8 +31,10 @@ v1.01
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: 2014-07-16
+   :anatomical axis orientation: `ALS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ALS>`_
+   :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <WHS of the SD Rat Brain_>`_
 
@@ -49,8 +51,10 @@ v1.01
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: 2014-07-16
+   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#RAS>`_
+   :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
 
 `BACK TO TOP <WHS of the SD Rat Brain_>`_
 

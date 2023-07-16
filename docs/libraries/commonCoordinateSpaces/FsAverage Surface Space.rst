@@ -12,7 +12,7 @@ FsAverage Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-3>`_, `4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-4>`_, `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-5>`_, `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-6>`_, `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
+   :has versions: `3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#3>`_, `4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#4>`_, `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#5>`_, `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#6>`_, `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#7>`_
 
 ------------
 
@@ -31,8 +31,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <FsAverage Surface Space_>`_
 
@@ -49,8 +51,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <FsAverage Surface Space_>`_
 
@@ -67,8 +71,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <FsAverage Surface Space_>`_
 
@@ -85,8 +91,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <FsAverage Surface Space_>`_
 
@@ -103,8 +111,10 @@ Versions
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
-   ------------
    :accessibility: \-
+   :release date: \-
+   :anatomical axis orientation: \-
+   :native unit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#millimeter>`_
 
 `BACK TO TOP <FsAverage Surface Space_>`_
 

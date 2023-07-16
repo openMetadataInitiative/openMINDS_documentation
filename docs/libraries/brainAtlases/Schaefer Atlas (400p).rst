@@ -12,7 +12,7 @@ Schaefer Atlas (400p)
    :ontology ID: \-
    :homepage: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
    :howToCite: \-
-   :has versions: `2018, FSL-MNI152, kong17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-FSL-MNI152,-kong17n>`_, `2018, FSL-MNI152, yeo17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-FSL-MNI152,-yeo17n>`_, `2018, FSL-MNI152, yeo7n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-FSL-MNI152,-yeo7n>`_, `2018, fsLR32k, kong17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-fsLR32k,-kong17n>`_, `2018, fsLR32k, yeo17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-fsLR32k,-yeo17n>`_, `2018, fsLR32k, yeo7n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018,-fsLR32k,-yeo7n>`_
+   :has versions: `2018, FSL-MNI152, kong17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-FSL-MNI152,-kong17n>`_, `2018, FSL-MNI152, yeo17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-FSL-MNI152,-yeo17n>`_, `2018, FSL-MNI152, yeo7n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-FSL-MNI152,-yeo7n>`_, `2018, fsLR32k, kong17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-fsLR32k,-kong17n>`_, `2018, fsLR32k, yeo17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-fsLR32k,-yeo17n>`_, `2018, fsLR32k, yeo7n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#2018,-fsLR32k,-yeo7n>`_
 
 ------------
 
@@ -32,7 +32,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
@@ -51,7 +50,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
@@ -70,7 +68,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
@@ -89,7 +86,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
@@ -108,7 +104,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
@@ -127,7 +122,6 @@ Versions
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   ------------
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Schaefer Atlas (400p)_>`_
