@@ -295,14 +295,14 @@ class InstancesDocBuilder(object):
 
         # build RST docu for each brain atlas
         for ba_name, ba_data in self.instances_libraries["brainAtlases"].items():
-            ba_title = ba_data["atlas"]["fullName"]
+            ba_title = ba_data["atlas"]["fullName"].replace("(", "\(").replace(")", "\)")
             target_file = self._target_file_without_extension("/".join(["brainAtlases", ba_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
             self._build_brain_atlas(target_file, ba_title, ba_data)
 
         # build RST docu for each common coordinate space
         for ccs_name, ccs_data in self.instances_libraries["commonCoordinateSpaces"].items():
-            ccs_title = ccs_data["space"]["fullName"]
+            ccs_title = ccs_data["space"]["fullName"].replace("(", "\(").replace(")", "\)")
             target_file = self._target_file_without_extension("/".join(["commonCoordinateSpaces", ccs_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
             self._build_common_coordinate_space(target_file, ccs_title, ccs_data)
