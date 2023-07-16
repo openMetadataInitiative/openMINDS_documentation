@@ -128,10 +128,34 @@ class InstancesDocBuilder(object):
         for name, vdict  in sorted(versions.items()):
             vdata = vdict["atlas"] if productType == "brainAtlases" else vdict
             vID = vdata['versionIdentifier']
-            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#version-{vID.replace(' ', '-')}"
+            space_html_title = f"{vdata['shortName'].replace(' ', '%20')}.html#{vID.replace(' ', '-')}"
             link = os.path.join(self.readthedocs_url, self.version, "libraries", productType, space_html_title)
             linklist.append(f"`{vID} <{link}>`_")
         return ", ".join(linklist)
+
+    def _build_single_version_link(self, versionReference:Dict, versions:Dict) -> str:
+        vname = versionReference["@id"].split("/")[-1]
+        name = versions[vname]["atlas"]["versionIdentifier"] if "brainAtlasVersion" in versionReference["@id"] else versions[vname]["versionIdentifier"]
+        subdir = "brainAtlases" if "brainAtlasVersion" in versionReference["@id"] else "commonCoordinateSpaces"
+        # link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}")
+        return f"`{name} <{name}_>`_"
+
+    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict) -> str:
+        linklist = []
+        return ", ".join(linklist)
+
+    # dv_isNewOf = vdata["isNewVersionOf"] if "isNewVersionOf" in vdata and vdata["isNewVersionOf"] else None
+    # if dv_isNewOf:
+    #     old_dv = os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces",
+    #                           f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}")
+    #     doc.field(name="new version of", value=old_dv, indent=field_list_indent)
+    # dv_isAltOf = vdata["isAlternativeVersionOf"] if "isAlternativeVersionOf" in vdata and vdata[
+    #     "isAlternativeVersionOf"] else None
+    # if dv_isAltOf:
+    #     alt_dvs = []
+    #     for dv_alt in dv_isAltOf:
+    #         alt_dvs.append(os.path.join(self.readthedocs_url, self.version, "libraries", "commonCoordinateSpaces",
+    #                                     f"{title.replace(' ', '%20')}.html#version-{dv_isNewOf['@id'].split('_')[-1]}"))
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -290,7 +314,6 @@ class InstancesDocBuilder(object):
                         doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
                     dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
                     doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
-                    doc.content("------------", indent=field_list_indent)
                     dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
                     doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
                     doc.newline()
@@ -356,9 +379,14 @@ class InstancesDocBuilder(object):
                         doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
                     dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
                     doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
-                    doc.content("------------", indent=field_list_indent)
                     dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
                     doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
+                    dv_released = vdata["releaseDate"] if "releaseDate" in vdata and vdata["releaseDate"] else "\-"
+                    doc.field(name="release date", value=dv_released, indent=field_list_indent)
+                    dv_aax = self._build_single_term_link(vdata["anatomicalAxesOrientation"], "anatomicalAxesOrientation") if "anatomicalAxesOrientation" in vdata and vdata["anatomicalAxesOrientation"] else "\-"
+                    doc.field(name="anatomical axis orientation", value=dv_aax, indent=field_list_indent)
+                    dv_unit = self._build_single_term_link(vdata["nativeUnit"], "unitOfMeasurement") if "nativeUnit" in vdata and vdata["nativeUnit"] else "\-"
+                    doc.field(name="native unit", value=dv_unit, indent=field_list_indent)
                     doc.newline()
                     doc.content(f"`BACK TO TOP <{title}_>`_")
                     doc.newline()
