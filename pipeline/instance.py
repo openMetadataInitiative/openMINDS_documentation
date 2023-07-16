@@ -119,6 +119,11 @@ class InstancesDocBuilder(object):
             linklist.append(f"`{name} <{link}>`_")
         return ", ".join(linklist)
 
+    def _extract_species(self, species:Dict) -> str:
+        name = self.instances_libraries["terminologies"]["species"][species["@id"].split("/")[-1]]["name"]
+        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{name.replace(' ', '-')}")
+        return f"`{name} <{link}>`_"
+
     def _build_terminology(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
@@ -228,16 +233,12 @@ class InstancesDocBuilder(object):
             doc.newline()
             field_list_indent = 3
             doc.field(name="semantic name", value=atlas["@id"], indent=field_list_indent)
-            space_shortName = atlas["shortName"] if "shortName" in atlas and atlas["shortName"] else "\-"
-            doc.field(name="short name", value=space_shortName, indent=field_list_indent)
+            space_fullName = atlas["fullName"] if "fullName" in atlas and atlas["fullName"] else "\-"
+            doc.field(name="full name", value=space_fullName, indent=field_list_indent)
             space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            if "usedSpecies" in atlas and atlas["usedSpecies"]:
-                species_name = self.instances_libraries["terminologies"]["species"][atlas["usedSpecies"]["@id"].split("/")[-1]]["name"]
-                species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
-            else:
-                species_link = "\-"
-            doc.field(name="used species", value=species_link, indent=field_list_indent)
+            usedSpecies = self._extract_species(atlas["usedSpecies"]) if "usedSpecies" in atlas and atlas["usedSpecies"] else "\-"
+            doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
             space_digitalID = atlas["digitalIdentifier"] if "digitalIdentifier" in atlas and atlas["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
             space_ontologyID = atlas["ontologyIdentifier"] if "ontologyIdentifier" in atlas and atlas["ontologyIdentifier"] else "\-"
@@ -246,6 +247,8 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
             space_citation = atlas["howToCite"] if "howToCite" in atlas and atlas["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
+
+    def _extract_research_product_versions(self):
 
     def _build_common_coordinate_space(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -257,16 +260,12 @@ class InstancesDocBuilder(object):
             doc.newline()
             field_list_indent = 3
             doc.field(name="semantic name", value=space["@id"], indent=field_list_indent)
-            space_shortName = space["shortName"] if "shortName" in space and space["shortName"] else "\-"
-            doc.field(name="short name", value=space_shortName, indent=field_list_indent)
+            space_fullName = space["fullName"] if "fullName" in space and space["fullName"] else "\-"
+            doc.field(name="full name", value=space_fullName, indent=field_list_indent)
             space_abbr = space["abbreviation"] if "abbreviation" in space and space["abbreviation"] else "\-"
             doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
-            if "usedSpecies" in space and space["usedSpecies"]:
-                species_name = self.instances_libraries["terminologies"]["species"][space["usedSpecies"]["@id"].split("/")[-1]]["name"]
-                species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
-            else:
-                species_link = "\-"
-            doc.field(name="used species", value=species_link, indent=field_list_indent)
+            usedSpecies = self._extract_species(space["usedSpecies"]) if "usedSpecies" in space and space["usedSpecies"] else "\-"
+            doc.field(name="used species", value=usedSpecies, indent=field_list_indent)
             space_digitalID = space["digitalIdentifier"] if "digitalIdentifier" in space and space["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
             space_ontologyID = space["ontologyIdentifier"] if "ontologyIdentifier" in space and space["ontologyIdentifier"] else "\-"
@@ -275,6 +274,21 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
             space_citation = space["howToCite"] if "howToCite" in space and space["howToCite"] else "\-"
             doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
+            # hasVersions = self._extract_research_product_versions(space["hasVersion"]) if "hasVersion" in space and space["hasVersion"] else "\-"
+            # doc.field(name="has versions", value=hasVersions, indent=field_list_indent)
+            doc.newline()
+            doc.content("------------")
+            doc.newline()
+            doc.content("------------")
+            doc.newline()
+            if "hasVersion" in space and space["hasVersion"]:
+                spaceV_title_list = []
+                for spaceV_name, spaceV_data in space["hasVersion"]:
+                    spaceV_title = f"{spaceV_data['shortName']} \({spaceV_data['shortName']}\)"
+                    spaceV_title_list.append(spaceV_title)
+                    doc.heading(f"{spaceV_title}", char="#")
+                    doc.newline()
+#https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ebrains-dua-4-hdg
 
     def build(self):
         # build RST docu for each terminology
@@ -295,14 +309,14 @@ class InstancesDocBuilder(object):
 
         # build RST docu for each brain atlas
         for ba_name, ba_data in self.instances_libraries["brainAtlases"].items():
-            ba_title = ba_data["atlas"]["fullName"].replace("(", "\(").replace(")", "\)")
+            ba_title = ba_data["atlas"]["shortName"]
             target_file = self._target_file_without_extension("/".join(["brainAtlases", ba_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
             self._build_brain_atlas(target_file, ba_title, ba_data)
 
         # build RST docu for each common coordinate space
         for ccs_name, ccs_data in self.instances_libraries["commonCoordinateSpaces"].items():
-            ccs_title = ccs_data["space"]["fullName"].replace("(", "\(").replace(")", "\)")
+            ccs_title = ccs_data["space"]["shortName"]
             target_file = self._target_file_without_extension("/".join(["commonCoordinateSpaces", ccs_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
             self._build_common_coordinate_space(target_file, ccs_title, ccs_data)
