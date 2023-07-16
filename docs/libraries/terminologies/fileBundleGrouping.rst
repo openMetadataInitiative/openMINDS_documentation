@@ -16,8 +16,8 @@ behavioral protocol
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ coordinate space
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ protocol
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ study target
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ subject
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -106,8 +106,8 @@ subject group
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -124,8 +124,8 @@ technique
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -142,8 +142,8 @@ tissue sample
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -160,8 +160,8 @@ tissue sample collection
    :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

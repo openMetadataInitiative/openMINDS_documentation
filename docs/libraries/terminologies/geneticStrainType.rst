@@ -16,8 +16,8 @@ conditional knockin ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ conditional knockout ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ conditional ready
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ knockin
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/knockin
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ knockout
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/knockout
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -106,8 +106,8 @@ transgenic
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -124,8 +124,8 @@ wildtype
    :semantic name: https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

@@ -16,8 +16,8 @@ GRIN lens-based cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
    :definition: A cranial window reinforced by an implanted GRIN lens.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ crystalline-based cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
    :definition: A cranial window reinforced by an implantation of a crystalline material.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ glass coverslip cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
    :definition: A cranial window reinforced by an implantation of a glass coverslip.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ polymer-based cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
    :definition: A cranial window reinforced by an implantation of a polymer material.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ prism-based cranial window
    :semantic name: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
    :definition: A cranial window reinforced by an implanted prism.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

@@ -16,8 +16,8 @@ moving checkerboard
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ moving grating
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ moving symbol
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ natural movie
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ natural scene
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -106,8 +106,8 @@ static checkerboard
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -124,8 +124,8 @@ static grating
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -142,8 +142,8 @@ static symbol
    :semantic name: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

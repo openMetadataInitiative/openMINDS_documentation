@@ -16,8 +16,8 @@ AIL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIL
    :definition: X, Y, Z axes are oriented towards anterior, inferior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ AIR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIR
    :definition: X, Y, Z axes are oriented towards anterior, inferior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ ALI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALI
    :definition: X, Y, Z axes are oriented towards anterior, left and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ ALS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALS
    :definition: X, Y, Z axes are oriented towards anterior, left and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ ARI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARI
    :definition: X, Y, Z axes are oriented towards anterior, right and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -106,8 +106,8 @@ ARS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARS
    :definition: X, Y, Z axes are oriented towards anterior, right and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -124,8 +124,8 @@ ASL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASL
    :definition: X, Y, Z axes are oriented towards anterior, superior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -142,8 +142,8 @@ ASR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASR
    :definition: X, Y, Z axes are oriented towards anterior, superior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -160,8 +160,8 @@ IAL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAL
    :definition: X, Y, Z axes are oriented towards inferior, anterior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -178,8 +178,8 @@ IAR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAR
    :definition: X, Y, Z axes are oriented towards inferior, anterior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -196,8 +196,8 @@ ILA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILA
    :definition: X, Y, Z axes are oriented towards inferior, left and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -214,8 +214,8 @@ ILP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILP
    :definition: X, Y, Z axes are oriented towards inferior, left and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -232,8 +232,8 @@ IPL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPL
    :definition: X, Y, Z axes are oriented towards inferior, posterior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -250,8 +250,8 @@ IPR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPR
    :definition: X, Y, Z axes are oriented towards inferior, posterior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -268,8 +268,8 @@ IRA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRA
    :definition: X, Y, Z axes are oriented towards inferior, right and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -286,8 +286,8 @@ IRP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRP
    :definition: X, Y, Z axes are oriented towards inferior, right and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -304,8 +304,8 @@ LAI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAI
    :definition: X, Y, Z axes are oriented towards left, anterior and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -322,8 +322,8 @@ LAS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAS
    :definition: X, Y, Z axes are oriented towards left, anterior and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -340,8 +340,8 @@ LIA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIA
    :definition: X, Y, Z axes are oriented towards left, inferior and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -358,8 +358,8 @@ LIP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIP
    :definition: X, Y, Z axes are oriented towards left, inferior and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -376,8 +376,8 @@ LPI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPI
    :definition: X, Y, Z axes are oriented towards left, posterior and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -394,8 +394,8 @@ LPS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPS
    :definition: X, Y, Z axes are oriented towards left, posterior and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -412,8 +412,8 @@ LSA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSA
    :definition: X, Y, Z axes are oriented towards left, superior and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -430,8 +430,8 @@ LSP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSP
    :definition: X, Y, Z axes are oriented towards left, superior and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -448,8 +448,8 @@ PIL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIL
    :definition: X, Y, Z axes are oriented towards posterior, inferior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -466,8 +466,8 @@ PIR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIR
    :definition: X, Y, Z axes are oriented towards posterior, inferior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -484,8 +484,8 @@ PLI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLI
    :definition: X, Y, Z axes are oriented towards posterior, left and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -502,8 +502,8 @@ PLS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLS
    :definition: X, Y, Z axes are oriented towards posterior, left and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -520,8 +520,8 @@ PRI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRI
    :definition: X, Y, Z axes are oriented towards posterior, right and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -538,8 +538,8 @@ PRS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRS
    :definition: X, Y, Z axes are oriented towards posterior, right and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -556,8 +556,8 @@ PSL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSL
    :definition: X, Y, Z axes are oriented towards posterior, superior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -574,8 +574,8 @@ PSR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSR
    :definition: X, Y, Z axes are oriented towards posterior, superior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -592,8 +592,8 @@ RAI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAI
    :definition: X, Y, Z axes are oriented towards right, anterior and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -610,8 +610,8 @@ RAS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS
    :definition: X, Y, Z axes are oriented towards right, anterior and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -628,8 +628,8 @@ RIA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIA
    :definition: X, Y, Z axes are oriented towards right, inferior and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -646,8 +646,8 @@ RIP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIP
    :definition: X, Y, Z axes are oriented towards right, inferior and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -664,8 +664,8 @@ RPI
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPI
    :definition: X, Y, Z axes are oriented towards right, posterior and inferior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -682,8 +682,8 @@ RPS
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPS
    :definition: X, Y, Z axes are oriented towards right, posterior and superior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -700,8 +700,8 @@ RSA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA
    :definition: X, Y, Z axes are oriented towards right, superior and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -718,8 +718,8 @@ RSP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSP
    :definition: X, Y, Z axes are oriented towards right, superior and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -736,8 +736,8 @@ SAL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAL
    :definition: X, Y, Z axes are oriented towards superior, anterior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -754,8 +754,8 @@ SAR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAR
    :definition: X, Y, Z axes are oriented towards superior, anterior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -772,8 +772,8 @@ SLA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLA
    :definition: X, Y, Z axes are oriented towards superior, left and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -790,8 +790,8 @@ SLP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLP
    :definition: X, Y, Z axes are oriented towards superior, left and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -808,8 +808,8 @@ SPL
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPL
    :definition: X, Y, Z axes are oriented towards superior, posterior and left, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -826,8 +826,8 @@ SPR
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPR
    :definition: X, Y, Z axes are oriented towards superior, posterior and right, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -844,8 +844,8 @@ SRA
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRA
    :definition: X, Y, Z axes are oriented towards superior, right and anterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -862,8 +862,8 @@ SRP
    :semantic name: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRP
    :definition: X, Y, Z axes are oriented towards superior, right and posterior, respectively.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

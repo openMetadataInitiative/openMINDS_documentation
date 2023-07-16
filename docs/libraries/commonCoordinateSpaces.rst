@@ -2,22 +2,23 @@
 CommonCoordinateSpaces
 ######################
 
-- `AMB-CCF <commonCoordinateSpaces/AMB-CCF.html>`_
-- `BigBrain <commonCoordinateSpaces/BigBrain.html>`_
-- `Fsaverage <commonCoordinateSpaces/fsaverage.html>`_
-- `FsLR <commonCoordinateSpaces/fsLR.html>`_
-- `MEBRAINStemplate <commonCoordinateSpaces/MEBRAINStemplate.html>`_
-- `MNI-Colin27 <commonCoordinateSpaces/MNI-Colin27.html>`_
-- `MNI-ICBM152 <commonCoordinateSpaces/MNI-ICBM152.html>`_
-- `WHSSD <commonCoordinateSpaces/WHSSD.html>`_
+- `Allen Mouse Brain Common Coordinate Framework <commonCoordinateSpaces/Allen Mouse Brain Common Coordinate Framework.html>`_
+- `BigBrain Whole-Brain Model <commonCoordinateSpaces/BigBrain Whole-Brain Model.html>`_
+- `FsAverage Surface Space <commonCoordinateSpaces/FsAverage Surface Space.html>`_
+- `MEBRAINS population-based monkey brain template <commonCoordinateSpaces/MEBRAINS population-based monkey brain template.html>`_
+- `MNI Colin27 Average Brain Stereotaxic Registration Model <commonCoordinateSpaces/MNI Colin27 Average Brain Stereotaxic Registration Model.html>`_
+- `MNI ICBM152 Average Brain Stereotaxic Registration Model <commonCoordinateSpaces/MNI ICBM152 Average Brain Stereotaxic Registration Model.html>`_
+- `Unbiased FsAverage Left–Right Hybrid Surface Space <commonCoordinateSpaces/Unbiased FsAverage Left–Right Hybrid Surface Space.html>`_
+- `Waxholm Space of the Sprague Dawley Rat Brain (coordinate space) <commonCoordinateSpaces/Waxholm Space of the Sprague Dawley Rat Brain (coordinate
+space).html>`_
 
 .. toctree::
 
-   commonCoordinateSpaces/AMB-CCF
-   commonCoordinateSpaces/BigBrain
-   commonCoordinateSpaces/fsaverage
-   commonCoordinateSpaces/fsLR
-   commonCoordinateSpaces/MEBRAINStemplate
-   commonCoordinateSpaces/MNI-Colin27
-   commonCoordinateSpaces/MNI-ICBM152
-   commonCoordinateSpaces/WHSSD
+   commonCoordinateSpaces/Allen Mouse Brain Common Coordinate Framework
+   commonCoordinateSpaces/BigBrain Whole-Brain Model
+   commonCoordinateSpaces/FsAverage Surface Space
+   commonCoordinateSpaces/MEBRAINS population-based monkey brain template
+   commonCoordinateSpaces/MNI Colin27 Average Brain Stereotaxic Registration Model
+   commonCoordinateSpaces/MNI ICBM152 Average Brain Stereotaxic Registration Model
+   commonCoordinateSpaces/Unbiased FsAverage Left–Right Hybrid Surface Space
+   commonCoordinateSpaces/Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)

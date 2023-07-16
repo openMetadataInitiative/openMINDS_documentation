@@ -16,8 +16,8 @@ derived data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/derivedData
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ experimental data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ raw data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/rawData
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ simulated data
    :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

@@ -16,8 +16,8 @@ direct current
    :semantic name: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
    :definition: \-
    :description: \-
-   ------------
    :synonyms: DC
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

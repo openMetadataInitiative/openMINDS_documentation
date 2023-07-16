@@ -16,8 +16,8 @@ data descriptor
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
    :definition: A 'data descriptor' describes the provenance, the structure, the applied quality assessment, and possible (re)usage of the data. It should not present hypotheses tests, new interpretations, new methods or in-depth analyses.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ logo
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/logo
    :definition: A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ preview
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/preview
    :definition: A preview is a representative image or short movie used to peak interest for a product.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ screenshot
    :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
    :definition: A screenshot is an image of the content displayed on the screen of a computer or mobile device.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

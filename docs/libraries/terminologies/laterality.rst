@@ -16,8 +16,8 @@ left
    :semantic name: https://openminds.ebrains.eu/instances/laterality/left
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ right
    :semantic name: https://openminds.ebrains.eu/instances/laterality/right
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

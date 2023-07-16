@@ -16,8 +16,8 @@ standard deviation
    :semantic name: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ standard error
    :semantic name: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

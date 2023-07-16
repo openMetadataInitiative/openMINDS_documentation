@@ -16,8 +16,8 @@ floral odor
    :semantic name: https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
    :definition: Any chemical compound that smells floral.
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-

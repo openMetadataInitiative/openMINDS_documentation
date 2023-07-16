@@ -2,26 +2,26 @@
 BrainAtlases
 ############
 
-- `AAL1 <brainAtlases/AAL1.html>`_
-- `AMBA <brainAtlases/AMBA.html>`_
-- `AsegAtlas <brainAtlases/AsegAtlas.html>`_
-- `BA-human <brainAtlases/BA-human.html>`_
-- `DKA <brainAtlases/DKA.html>`_
-- `DWMA <brainAtlases/DWMA.html>`_
-- `JBA <brainAtlases/JBA.html>`_
-- `Schaefer-400p <brainAtlases/Schaefer-400p.html>`_
-- `SWMA <brainAtlases/SWMA.html>`_
-- `WHSSD <brainAtlases/WHSSD.html>`_
+- `Allen Mouse Brain Atlas <brainAtlases/Allen Mouse Brain Atlas.html>`_
+- `Atlas of Deep White Matter Fibre Bundles <brainAtlases/Atlas of Deep White Matter Fibre Bundles.html>`_
+- `Atlas of Superficial White Matter Fibre Bundles <brainAtlases/Atlas of Superficial White Matter Fibre Bundles.html>`_
+- `Automated Anatomical Labeling Atlas 1 <brainAtlases/Automated Anatomical Labeling Atlas 1.html>`_
+- `Automated Segmentation Atlas of the Human Brain <brainAtlases/Automated Segmentation Atlas of the Human Brain.html>`_
+- `Brodmann Cortical Parcellation Scheme (human) <brainAtlases/Brodmann Cortical Parcellation Scheme (human).html>`_
+- `Desikan-Killiany Atlas <brainAtlases/Desikan-Killiany Atlas.html>`_
+- `Julich-Brain Cytoarchitectonic Atlas <brainAtlases/Julich-Brain Cytoarchitectonic Atlas.html>`_
+- `Schaefer Atlas with 400 Parcellation <brainAtlases/Schaefer Atlas with 400 Parcellation.html>`_
+- `Waxholm Space Atlas of the Sprague Dawley Rat Brain <brainAtlases/Waxholm Space Atlas of the Sprague Dawley Rat Brain.html>`_
 
 .. toctree::
 
-   brainAtlases/AAL1
-   brainAtlases/AMBA
-   brainAtlases/AsegAtlas
-   brainAtlases/BA-human
-   brainAtlases/DKA
-   brainAtlases/DWMA
-   brainAtlases/JBA
-   brainAtlases/Schaefer-400p
-   brainAtlases/SWMA
-   brainAtlases/WHSSD
+   brainAtlases/Allen Mouse Brain Atlas
+   brainAtlases/Atlas of Deep White Matter Fibre Bundles
+   brainAtlases/Atlas of Superficial White Matter Fibre Bundles
+   brainAtlases/Automated Anatomical Labeling Atlas 1
+   brainAtlases/Automated Segmentation Atlas of the Human Brain
+   brainAtlases/Brodmann Cortical Parcellation Scheme (human)
+   brainAtlases/Desikan-Killiany Atlas
+   brainAtlases/Julich-Brain Cytoarchitectonic Atlas
+   brainAtlases/Schaefer Atlas with 400 Parcellation
+   brainAtlases/Waxholm Space Atlas of the Sprague Dawley Rat Brain

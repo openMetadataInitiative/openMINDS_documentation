@@ -16,8 +16,8 @@ coordination
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/coordination
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -34,8 +34,8 @@ data collection
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -52,8 +52,8 @@ data management
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataManagment
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -70,8 +70,8 @@ data processing
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -88,8 +88,8 @@ information technology support
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -106,8 +106,8 @@ laboratory assistance
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -124,8 +124,8 @@ marketing
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/marketing
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
@@ -142,8 +142,8 @@ metadata managment
    :semantic name: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :definition: \-
    :description: \-
-   ------------
    :synonyms: \-
+   ------------
    :preferred ontology ID: \-
    :InterLex ID: \-
    :KnowledgeSpace entry: \-
