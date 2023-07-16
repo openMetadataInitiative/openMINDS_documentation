@@ -143,9 +143,9 @@ class InstancesDocBuilder(object):
                 doc.field(name="definition", value=definition, indent=field_list_indent)
                 description = term_data["description"] if "description" in term_data and term_data["description"] else "\-"
                 doc.field(name="description", value=description, indent=field_list_indent)
-                doc.content("------------", indent=field_list_indent)
                 synonym = ", ".join(term_data["synonym"]) if "synonym" in term_data and term_data["synonym"] else "\-"
                 doc.field(name="synonyms", value=synonym, indent=field_list_indent)
+                doc.content("------------", indent=field_list_indent)
                 ontologyID = term_data["preferredOntologyIdentifier"] if "preferredOntologyIdentifier" in term_data and term_data["preferredOntologyIdentifier"] else "\-"
                 doc.field(name="preferred ontology ID", value=ontologyID, indent=field_list_indent)
                 interlexID = term_data["interlexIdentifier"] if "interlexIdentifier" in term_data and term_data["interlexIdentifier"] else "\-"
@@ -220,15 +220,61 @@ class InstancesDocBuilder(object):
 
     def _build_brain_atlas(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
+            atlas = data_to_display["atlas"]
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
+            doc.directive(name="admonition", arg="metadata sheet")
+            doc.newline()
+            field_list_indent = 3
+            doc.field(name="semantic name", value=atlas["@id"], indent=field_list_indent)
+            space_shortName = atlas["shortName"] if "shortName" in atlas and atlas["shortName"] else "\-"
+            doc.field(name="short name", value=space_shortName, indent=field_list_indent)
+            space_abbr = atlas["abbreviation"] if "abbreviation" in atlas and atlas["abbreviation"] else "\-"
+            doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
+            if "usedSpecies" in atlas and atlas["usedSpecies"]:
+                species_name = self.instances_libraries["terminologies"]["species"][atlas["usedSpecies"]["@id"].split("/")[-1]]
+                species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
+            else:
+                species_link = "\-"
+            doc.field(name="used species", value=species_link, indent=field_list_indent)
+            space_digitalID = atlas["digitalIdentifier"] if "digitalIdentifier" in atlas and atlas["digitalIdentifier"] else "\-"
+            doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
+            space_ontologyID = atlas["ontologyIdentifier"] if "ontologyIdentifier" in atlas and atlas["ontologyIdentifier"] else "\-"
+            doc.field(name="ontology ID", value=space_ontologyID, indent=field_list_indent)
+            space_homepage = atlas["homepage"] if "homepage" in atlas and atlas["homepage"] else "\-"
+            doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
+            space_citation = atlas["howToCite"] if "howToCite" in atlas and atlas["howToCite"] else "\-"
+            doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
 
     def _build_common_coordinate_space(self, target_file:str, name:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
+            space = data_to_display["space"]
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{name}", char="#", overline=True)
             doc.newline()
+            doc.directive(name="admonition", arg="metadata sheet")
+            doc.newline()
+            field_list_indent = 3
+            doc.field(name="semantic name", value=space["@id"], indent=field_list_indent)
+            space_shortName = space["shortName"] if "shortName" in space and space["shortName"] else "\-"
+            doc.field(name="short name", value=space_shortName, indent=field_list_indent)
+            space_abbr = space["abbreviation"] if "abbreviation" in space and space["abbreviation"] else "\-"
+            doc.field(name="abbreviation", value=space_abbr, indent=field_list_indent)
+            if "usedSpecies" in space and space["usedSpecies"]:
+                species_name = self.instances_libraries["terminologies"]["species"][space["usedSpecies"]["@id"].split("/")[-1]]
+                species_link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"species.html#{species_name.replace(' ', '-')}")
+            else:
+                species_link = "\-"
+            doc.field(name="used species", value=species_link, indent=field_list_indent)
+            space_digitalID = space["digitalIdentifier"] if "digitalIdentifier" in space and space["digitalIdentifier"] else "\-"
+            doc.field(name="digital ID", value=space_digitalID, indent=field_list_indent)
+            space_ontologyID = space["ontologyIdentifier"] if "ontologyIdentifier" in space and space["ontologyIdentifier"] else "\-"
+            doc.field(name="ontology ID", value=space_ontologyID, indent=field_list_indent)
+            space_homepage = space["homepage"] if "homepage" in space and space["homepage"] else "\-"
+            doc.field(name="homepage", value=space_homepage, indent=field_list_indent)
+            space_citation = space["howToCite"] if "howToCite" in space and space["howToCite"] else "\-"
+            doc.field(name="howToCite", value=space_citation, indent=field_list_indent)
 
     def build(self):
         # build RST docu for each terminology
@@ -249,12 +295,14 @@ class InstancesDocBuilder(object):
 
         # build RST docu for each brain atlas
         for ba_name, ba_data in self.instances_libraries["brainAtlases"].items():
-            target_file = self._target_file_without_extension("/".join(["brainAtlases", ba_name]))
+            ba_title = ba_data["fullName"]
+            target_file = self._target_file_without_extension("/".join(["brainAtlases", ba_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
-            self._build_brain_atlas(target_file, ba_name, ba_data)
+            self._build_brain_atlas(target_file, ba_title, ba_data)
 
         # build RST docu for each common coordinate space
         for ccs_name, ccs_data in self.instances_libraries["commonCoordinateSpaces"].items():
-            target_file = self._target_file_without_extension("/".join(["commonCoordinateSpaces", ccs_name]))
+            ccs_title = ccs_data["fullName"]
+            target_file = self._target_file_without_extension("/".join(["commonCoordinateSpaces", ccs_title]))
             os.makedirs(os.path.dirname(target_file), exist_ok=True)
-            self._build_common_coordinate_space(target_file, ccs_name, ccs_data)
+            self._build_common_coordinate_space(target_file, ccs_title, ccs_data)
