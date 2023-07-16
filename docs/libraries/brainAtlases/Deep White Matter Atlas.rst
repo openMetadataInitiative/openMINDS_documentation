@@ -12,7 +12,7 @@ Deep White Matter Atlas
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018>`_
+   :has versions: `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018_>`_
 
 ------------
 
@@ -24,7 +24,6 @@ version 2018
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/DWMA_2018
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-

@@ -12,7 +12,7 @@ WHS of the SD Rat Brain
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
    :howToCite: \-
-   :has versions: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1>`_, `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1-01>`_
+   :has versions: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1-01_>`_, `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1_>`_
 
 ------------
 
@@ -24,7 +24,6 @@ version v1
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
@@ -43,6 +42,7 @@ version v1.01
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1.01
+   :previous version: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1_>`_
 
    :digital ID: \-
    :ontology ID: \-

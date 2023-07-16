@@ -12,7 +12,7 @@ BigBrain Model
    :ontology ID: \-
    :homepage: https://bigbrainproject.org/
    :howToCite: \-
-   :has versions: `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
+   :has versions: `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015_>`_
 
 ------------
 
@@ -24,7 +24,6 @@ version 2015
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-

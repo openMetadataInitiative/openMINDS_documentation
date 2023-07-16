@@ -12,7 +12,7 @@ FsAverage Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
-   :has versions: `3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-3>`_, `4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-4>`_, `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-5>`_, `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-6>`_, `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
+   :has versions: `3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-3_>`_, `4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-4_>`_, `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-5_>`_, `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-6_>`_, `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7_>`_
 
 ------------
 
@@ -24,7 +24,6 @@ version 3
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_3
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
@@ -43,7 +42,6 @@ version 4
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_4
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
@@ -62,7 +60,6 @@ version 5
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_5
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
@@ -81,7 +78,6 @@ version 6
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_6
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
@@ -100,7 +96,6 @@ version 7
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_7
-
    :digital ID: \-
    :ontology ID: \-
    :howToCite: \-
