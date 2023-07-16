@@ -268,7 +268,7 @@ class InstancesDocBuilder(object):
         def build_bullet_list(tree, indent=0):
             bullet_list = []
             for item in tree:
-                bullet_list.append(f"{' '*(indent*3)}* {item['name']}")
+                bullet_list.append(f"{'   '*(indent)}* {item['name']}")
                 if 'children' in item:
                     subtree = build_bullet_list(item['children'], indent + 1)
                     bullet_list.extend(subtree)
