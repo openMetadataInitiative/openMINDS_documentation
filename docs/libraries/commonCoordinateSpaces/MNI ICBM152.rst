@@ -12,6 +12,7 @@ MNI ICBM152
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
    :howToCite: \-
+   :description: The 'MNI ICBM152 Average Brain Stereotaxic Registration Model' is an average of T1-weighted magnetic resonance imaging (MRI) scans from 152 normative young adults.
    :has versions: | `nonlinear 6th generation symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-nonlinear-6th-generation-symmetric>`_
                   | `2009c nonlinear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-symmetric>`_
                   | `2009c nonlinear asymmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_

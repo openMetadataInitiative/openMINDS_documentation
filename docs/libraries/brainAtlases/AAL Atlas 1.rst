@@ -12,6 +12,7 @@ AAL Atlas 1
    :ontology ID: \-
    :homepage: https://www.gin.cnrs.fr/en/tools/aal/
    :howToCite: \-
+   :description: \-
    :has versions: | `SPM12, v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/AAL%20Atlas%201.html#version-spm12-v4>`_
                   | AAL1_SPM99-vbeta2 \(TODO\)
                   | AAL1_SPM8-v1 \(TODO\)

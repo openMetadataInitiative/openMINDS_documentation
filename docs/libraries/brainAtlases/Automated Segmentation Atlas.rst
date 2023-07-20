@@ -12,3 +12,4 @@ Automated Segmentation Atlas
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :description: The Automated Segmentation Atlas of the Human Brain is an automated whole brain segmentation that is based on probablistic information on the location of structures of a manual labeled training set (cf., [Fischl et al., 2002](https://doi.org/10.1016/S0896-6273(02)00569-X)).

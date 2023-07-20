@@ -12,6 +12,7 @@ BigBrain Model
    :ontology ID: \-
    :homepage: https://bigbrainproject.org/
    :howToCite: \-
+   :description: The 'BigBrain Whole-Brain Model' is a 3D reconstruction of a human brain in extremely high resolution.
    :has versions: | `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
 
 ------------

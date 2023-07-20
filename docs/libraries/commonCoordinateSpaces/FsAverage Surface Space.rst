@@ -12,6 +12,7 @@ FsAverage Surface Space
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :description: \-
    :has versions: | `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
                   | `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-6>`_
                   | `5 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-5>`_

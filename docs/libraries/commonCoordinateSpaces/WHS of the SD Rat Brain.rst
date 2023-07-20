@@ -12,6 +12,7 @@ WHS of the SD Rat Brain
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas
    :howToCite: \-
+   :description: The 'Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)' employs a continuous three- dimensional Cartesian coordinate system, with its origin set at the decussation of the anterior commissure.
    :has versions: | `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1-01>`_
                   | `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/WHS%20of%20the%20SD%20Rat%20Brain.html#version-v1>`_
 

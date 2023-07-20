@@ -12,6 +12,7 @@ Schaefer Atlas (400p)
    :ontology ID: \-
    :homepage: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
    :howToCite: \-
+   :description: \-
    :has versions: | `2018, fsLR32k, yeo7n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018-fslr32k-yeo7n>`_
                   | `2018, fsLR32k, yeo17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018-fslr32k-yeo17n>`_
                   | `2018, fsLR32k, kong17n <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Schaefer%20Atlas%20(400p).html#version-2018-fslr32k-kong17n>`_

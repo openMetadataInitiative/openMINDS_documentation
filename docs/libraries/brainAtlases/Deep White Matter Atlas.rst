@@ -12,6 +12,7 @@ Deep White Matter Atlas
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :description: \-
    :has versions: | `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018>`_
 
 Terminology

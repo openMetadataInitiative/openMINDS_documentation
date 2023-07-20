@@ -12,6 +12,7 @@ MEBRAINS brain template
    :ontology ID: \-
    :homepage: \-
    :howToCite: \-
+   :description: The 'MEBRAINS population-based monkey brain template' is a multi-subject based, multi-modal, volume and surface brain template for macaque monkeys.
    :has versions: | `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%20brain%20template.html#version-v1-0>`_
 
 ------------

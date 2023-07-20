@@ -12,6 +12,7 @@ Allen Mouse Brain CCF
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
    :howToCite: \-
+   :description: The 'Allen Mouse Brain Common Coordinate Framework' is a 3D reconstruction of an averaged adult mouse brain.
    :has versions: | `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
                   | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
                   | `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_
@@ -65,7 +66,7 @@ version v3
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3
    :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_
-   :alternative versions: `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
+   :alternative versions: | `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
    :digital ID: \-
    :ontology ID: \-
    :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
@@ -85,7 +86,7 @@ version v3-RAS
 
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS
    :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v2>`_
-   :alternative versions: `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
+   :alternative versions: | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
    :digital ID: \-
    :ontology ID: \-
    :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
