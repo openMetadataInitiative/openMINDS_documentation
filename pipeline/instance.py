@@ -17,6 +17,7 @@ class InstancesLibraryBuilder(object):
             "commonCoordinateSpaces": {},
             "_common": {}
         }
+        
     def load_instance(self, instance_file_path:str, root_path:str):
         _relative_path_without_extension = instance_file_path[len(root_path)+1:].replace(".jsonld", "").split("/")
         self.relative_path_without_extension = "/".join(_relative_path_without_extension[1:])
