@@ -153,7 +153,8 @@ class InstancesDocBuilder(object):
         linklist = []
         for versionReference in versionReferenceList:
             linklist.append(self._build_single_version_link(versionReference, versions, title))
-        return ", ".join(sorted(linklist))
+        reversed_linklist = list(reversed(sorted(linklist)))
+        return f"| {'\n| '.join(reversed_linklist)}"
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -292,7 +293,7 @@ class InstancesDocBuilder(object):
             doc.field(name="abbreviation", value=d_abbr, indent=field_list_indent)
             d_species = self._build_single_term_link(data["usedSpecies"], "species") if "usedSpecies" in data and data["usedSpecies"] else "\-"
             doc.field(name="used species", value=d_species, indent=field_list_indent)
-            d_digitalID = data["digitalIdentifier"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
+            d_digitalID = data["digitalIdentifier"]["@id"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=d_digitalID, indent=field_list_indent)
             d_ontologyID = data["ontologyIdentifier"] if "ontologyIdentifier" in data and data["ontologyIdentifier"] else "\-"
             doc.field(name="ontology ID", value=d_ontologyID, indent=field_list_indent)
