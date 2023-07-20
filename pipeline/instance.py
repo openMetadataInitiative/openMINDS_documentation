@@ -150,11 +150,11 @@ class InstancesDocBuilder(object):
         link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
         return f"`{name} <{link}>`_" if name != vname else f"{name} \(TODO\)"
 
-    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str, reversed=True) -> str:
+    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str, reverse_list=True) -> str:
         linklist = []
         for versionReference in versionReferenceList:
             linklist.append(self._build_single_version_link(versionReference, versions, title))
-        return list(reversed(sorted(linklist))) if reversed else sorted(linklist)
+        return list(reversed(sorted(linklist))) if reverse_list else sorted(linklist)
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
