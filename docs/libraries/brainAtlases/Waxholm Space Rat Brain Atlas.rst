@@ -8,11 +8,11 @@ Waxholm Space Rat Brain Atlas
    :full name: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :abbreviation: WHSSDatlas
    :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#rattus-norvegicus>`_
-   :digital ID: {'@id': 'https://scicrunch.org/resolver/RRID:SCR_017124'}
+   :digital ID: https://scicrunch.org/resolver/RRID:SCR_017124
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the atlas version(s) you have used.
-   :has versions: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_, `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_, `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_, `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_, `v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v4>`_
+   :has versions: | `v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v4>`_\n| `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_\n| `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_\n| `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_\n| `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_
 
 Terminology
 ###########
