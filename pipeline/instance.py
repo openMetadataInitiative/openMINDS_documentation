@@ -301,6 +301,8 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            d_description = data["description"] if "description" in data and data["description"] else "\-"
+            doc.field(name="description", value=d_description, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
                 multiline_indent = len(field_name)+3+field_list_indent
@@ -338,7 +340,7 @@ class InstancesDocBuilder(object):
                         field_name = "alternative versions"
                         multiline_indent = len(field_name)+3+field_list_indent
                         alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
-                        doc.field(name=field_name, value=alt_version_link_list[0], indent=field_list_indent)
+                        doc.field(name=field_name, value=f"| {alt_version_link_list[0]}", indent=field_list_indent)
                         if len(alt_version_link_list) > 1:
                             for link in alt_version_link_list[1:]:
                                 doc.content(f"| {link}", indent=multiline_indent)
@@ -381,7 +383,7 @@ class InstancesDocBuilder(object):
             doc.field(name="abbreviation", value=d_abbr, indent=field_list_indent)
             d_species = self._build_single_term_link(data["usedSpecies"], "species") if "usedSpecies" in data and data["usedSpecies"] else "\-"
             doc.field(name="used species", value=d_species, indent=field_list_indent)
-            d_digitalID = data["digitalIdentifier"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
+            d_digitalID = data["digitalIdentifier"]["@id"] if "digitalIdentifier" in data and data["digitalIdentifier"] else "\-"
             doc.field(name="digital ID", value=d_digitalID, indent=field_list_indent)
             d_ontologyID = data["ontologyIdentifier"] if "ontologyIdentifier" in data and data["ontologyIdentifier"] else "\-"
             doc.field(name="ontology ID", value=d_ontologyID, indent=field_list_indent)
@@ -389,6 +391,8 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            d_description = data["description"] if "description" in data and data["description"] else "\-"
+            doc.field(name="description", value=d_description, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
                 multiline_indent = len(field_name)+3+field_list_indent
@@ -417,7 +421,7 @@ class InstancesDocBuilder(object):
                         field_name = "alternative versions"
                         multiline_indent = len(field_name)+3+field_list_indent
                         alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
-                        doc.field(name=field_name, value=alt_version_link_list[0], indent=field_list_indent)
+                        doc.field(name=field_name, value=f"| {alt_version_link_list[0]}", indent=field_list_indent)
                         if len(alt_version_link_list) > 1:
                             for link in alt_version_link_list[1:]:
                                 doc.content(f"| {link}", indent=multiline_indent)
