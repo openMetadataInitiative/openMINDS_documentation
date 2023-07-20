@@ -155,7 +155,8 @@ class InstancesDocBuilder(object):
         for versionReference in versionReferenceList:
             linklist.append(self._build_single_version_link(versionReference, versions, title))
         reversed_linklist = list(reversed(sorted(linklist)))
-        return f"| {'\n| '.join(reversed_linklist)}"
+        reversed_linklist_str = '\\n| '.join(reversed_linklist)
+        return f"| {reversed_linklist_str}"
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
