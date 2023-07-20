@@ -150,14 +150,11 @@ class InstancesDocBuilder(object):
         link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
         return f"`{name} <{link}>`_" if name != vname else f"{name} \(TODO\)"
 
-    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str, indent:int) -> str:
+    def _build_multi_version_links(self, versionReferenceList:Dict, versions:Dict, title:str, reversed=True) -> str:
         linklist = []
         for versionReference in versionReferenceList:
             linklist.append(self._build_single_version_link(versionReference, versions, title))
-        reversed_linklist = list(reversed(sorted(linklist)))
-        ml_prefix = "\\n" + " "*indent + "| "
-        reversed_linklist_str = ml_prefix.join(reversed_linklist)
-        return f"| {reversed_linklist_str}"
+        return list(reversed(sorted(linklist))) if reversed else sorted(linklist)
 
     def _build_terminology(self, target_file:str, title:str, data_to_display:Dict):
         with open(f"{target_file}.rst", "w") as output_file:
@@ -306,8 +303,12 @@ class InstancesDocBuilder(object):
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
-                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
-                doc.field(name=field_name, value=version_link_list, indent=field_list_indent)
+                multiline_indent = len(field_name)+3+field_list_indent
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
+                doc.field(name=field_name, value=f"| {version_link_list[0]}", indent=field_list_indent)
+                if len(version_link_list) > 1:
+                    for link in version_link_list[1:]:
+                        doc.content(f"| {link}", indent=multiline_indent)
                 doc.newline()
                 doc.heading(f"Terminology", char="#")
                 if "parcellation_entities" in data_to_display and data_to_display["parcellation_entities"]:
@@ -335,8 +336,12 @@ class InstancesDocBuilder(object):
                         doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
                     if "isAlternativeVersionOf" in vdata and vdata["isAlternativeVersionOf"]:
                         field_name = "alternative versions"
-                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
-                        doc.field(name=field_name, value=alt_version_link_list, indent=field_list_indent)
+                        multiline_indent = len(field_name)+3+field_list_indent
+                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
+                        doc.field(name=field_name, value=alt_version_link_list[0], indent=field_list_indent)
+                        if len(alt_version_link_list) > 1:
+                            for link in alt_version_link_list[1:]:
+                                doc.content(f"| {link}", indent=multiline_indent)
                     dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
                     if dv_fullName != d_fullName:
                         doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
@@ -386,8 +391,12 @@ class InstancesDocBuilder(object):
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
-                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
-                doc.field(name=field_name, value=version_link_list, indent=field_list_indent)
+                multiline_indent = len(field_name)+3+field_list_indent
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
+                doc.field(name=field_name, value=f"| {version_link_list[0]}", indent=field_list_indent)
+                if len(version_link_list) > 1:
+                    for link in version_link_list[1:]:
+                        doc.content(f"| {link}", indent=multiline_indent)
                 doc.newline()
                 doc.content("------------")
                 doc.newline()
@@ -404,12 +413,14 @@ class InstancesDocBuilder(object):
                     if "isNewVersionOf" in vdata and vdata["isNewVersionOf"]:
                         old_version_link = self._build_single_version_link(vdata["isNewVersionOf"], data_to_display["versions"], title)
                         doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
-                        doc.newline()
                     if "isAlternativeVersionOf" in vdata and vdata["isAlternativeVersionOf"]:
                         field_name = "alternative versions"
-                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
-                        doc.field(name=field_name, value=alt_version_link_list, indent=field_list_indent)
-                        doc.newline()
+                        multiline_indent = len(field_name)+3+field_list_indent
+                        alt_version_link_list = self._build_multi_version_links(vdata["isAlternativeVersionOf"], data_to_display["versions"], title)
+                        doc.field(name=field_name, value=alt_version_link_list[0], indent=field_list_indent)
+                        if len(alt_version_link_list) > 1:
+                            for link in alt_version_link_list[1:]:
+                                doc.content(f"| {link}", indent=multiline_indent)
                     dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
                     if dv_fullName != d_fullName:
                         doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
