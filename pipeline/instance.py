@@ -305,8 +305,9 @@ class InstancesDocBuilder(object):
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
-                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
-                doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
+                field_name = "has versions"
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
+                doc.field(name=field_name, value=version_link_list, indent=field_list_indent)
                 doc.newline()
                 doc.heading(f"Terminology", char="#")
                 if "parcellation_entities" in data_to_display and data_to_display["parcellation_entities"]:
@@ -383,7 +384,8 @@ class InstancesDocBuilder(object):
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
             doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
-                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title)
+                field_name = "has versions"
+                version_link_list = self._build_multi_version_links(data["hasVersion"], data_to_display["versions"], title, indent=len(field_name)+field_list_indent)
                 doc.field(name="has versions", value=version_link_list, indent=field_list_indent)
                 doc.newline()
                 doc.content("------------")
