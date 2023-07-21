@@ -66,6 +66,13 @@ html.writer-html5 .rst-content dl.citation > dt, html.writer-html5 .rst-content 
     display: none;
 }
 
+.rst-content dl dt {
+  margin-bottom: 0px;
+}
+
+.rst-content dl dd {
+  margin: 0 0 0px 24px;
+}
 
 @media screen and (max-width:768px) {
     .rst-versions {
