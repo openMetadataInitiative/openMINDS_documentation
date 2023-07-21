@@ -301,8 +301,8 @@ class InstancesDocBuilder(object):
             doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
             d_description = data["description"] if "description" in data and data["description"] else "\-"
             doc.field(name="description", value=d_description, indent=field_list_indent)
-            d_citation = data["how to cite"] if "howToCite" in data and data["howToCite"] else "\-"
-            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
+            doc.field(name="how to cite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
                 multiline_indent = len(field_name)+3+field_list_indent
@@ -359,8 +359,8 @@ class InstancesDocBuilder(object):
                     doc.field(name="support", value=", ".join(dv_support), indent=field_list_indent)
                     dv_versionspec = vdata["versionInnovation"] if "versionInnovation" in vdata and vdata["versionInnovation"] else "\-"
                     doc.field(name="version specification", value=dv_versionspec, indent=field_list_indent)
-                    dv_citation = vdata["how to cite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
-                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
+                    dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
+                    doc.field(name="how to cite", value=dv_citation, indent=field_list_indent)
                     if "isNewVersionOf" in vdata and vdata["isNewVersionOf"]:
                         old_version_link = self._build_single_version_link(vdata["isNewVersionOf"], data_to_display["versions"], title)
                         doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
@@ -402,7 +402,7 @@ class InstancesDocBuilder(object):
             d_homepage = data["homepage"] if "homepage" in data and data["homepage"] else "\-"
             doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
             d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
-            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
+            doc.field(name="how to cite", value=d_citation, indent=field_list_indent)
             d_description = data["description"] if "description" in data and data["description"] else "\-"
             doc.field(name="description", value=d_description, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
@@ -451,7 +451,7 @@ class InstancesDocBuilder(object):
                     if dv_homepage != d_homepage:
                         doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
                     dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
-                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
+                    doc.field(name="how to cite", value=dv_citation, indent=field_list_indent)
                     dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
                     doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
                     dv_released = vdata["releaseDate"] if "releaseDate" in vdata and vdata["releaseDate"] else "\-"
