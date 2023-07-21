@@ -364,6 +364,7 @@ version v1.01
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v1.01
+   :coordinate space: WHSSD_v1.01 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -383,6 +384,7 @@ version v2
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v2
+   :coordinate space: WHSSD_v1.01 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -403,6 +405,7 @@ version v3
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3
+   :coordinate space: WHSSD_v1.01 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -423,6 +426,7 @@ version v3.01
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3.01
+   :coordinate space: WHSSD_v1.01 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -443,6 +447,7 @@ version v4
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v4
+   :coordinate space: WHSSD_v1.01 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-

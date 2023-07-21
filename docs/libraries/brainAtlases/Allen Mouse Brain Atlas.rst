@@ -29,6 +29,7 @@ version CCFv3, 2015
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2015
+   :coordinate space: AMB-CCF_v3 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -49,6 +50,7 @@ version CCFv3, 2017
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2017
+   :coordinate space: AMB-CCF_v3 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-

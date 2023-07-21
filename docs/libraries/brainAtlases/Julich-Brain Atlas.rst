@@ -298,6 +298,7 @@ version v1.13, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.13-Colin27
    :major version: v1.13
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -318,6 +319,7 @@ version v1.18, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-Colin27
    :major version: v1.18
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -340,6 +342,7 @@ version v1.18, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-MNI152
    :major version: v1.18
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -361,6 +364,7 @@ version v2.2, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-Colin27
    :major version: v2.2
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -383,6 +387,7 @@ version v2.2, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-MNI152
    :major version: v2.2
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -405,6 +410,7 @@ version v2.4, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-Colin27
    :major version: v2.4
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -427,6 +433,7 @@ version v2.4, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-MNI152
    :major version: v2.4
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -449,6 +456,7 @@ version v2.5, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-Colin27
    :major version: v2.5
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -471,6 +479,7 @@ version v2.5, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-MNI152
    :major version: v2.5
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -493,6 +502,7 @@ version v2.6, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.6-MNI152
    :major version: v2.6
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -514,6 +524,7 @@ version v2.9, BigBrain
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-BigBrain
    :major version: v2.9
+   :coordinate space: BigBrain_2015 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -537,6 +548,7 @@ version v2.9, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-Colin27
    :major version: v2.9
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -561,6 +573,7 @@ version v2.9, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152
    :major version: v2.9
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -585,6 +598,7 @@ version v2.9, fsaverage
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-fsaverage
    :major version: v2.9
+   :coordinate space: fsaverage_7 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -608,6 +622,7 @@ version v3.0, BigBrain
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-BigBrain
    :major version: v3.0
+   :coordinate space: BigBrain_2015 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -632,6 +647,7 @@ version v3.0, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-Colin27
    :major version: v3.0
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -656,6 +672,7 @@ version v3.0, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-MNI152
    :major version: v3.0
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -680,6 +697,7 @@ version v3.0, fsaverage
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-fsaverage
    :major version: v3.0
+   :coordinate space: fsaverage_7 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -704,6 +722,7 @@ version v3.0.1, BigBrain
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-BigBrain
    :major version: v3.0.1
+   :coordinate space: BigBrain_2015 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -728,6 +747,7 @@ version v3.0.1, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-Colin27
    :major version: v3.0.1
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -752,6 +772,7 @@ version v3.0.1, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-MNI152
    :major version: v3.0.1
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -776,6 +797,7 @@ version v3.0.1, fsaverage
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-fsaverage
    :major version: v3.0.1
+   :coordinate space: fsaverage_7 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -800,6 +822,7 @@ version v3.0.2, BigBrain
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain
    :major version: v3.0.2
+   :coordinate space: BigBrain_2015 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -824,6 +847,7 @@ version v3.0.2, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27
    :major version: v3.0.2
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -848,6 +872,7 @@ version v3.0.2, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152
    :major version: v3.0.2
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -872,6 +897,7 @@ version v3.0.2, fsaverage
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage
    :major version: v3.0.2
+   :coordinate space: fsaverage_7 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -896,6 +922,7 @@ version v3.0.3, BigBrain
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain
    :major version: v3.0.3
+   :coordinate space: BigBrain_2015 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -920,6 +947,7 @@ version v3.0.3, Colin27
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-Colin27
    :major version: v3.0.3
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -944,6 +972,7 @@ version v3.0.3, MNI152
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-MNI152
    :major version: v3.0.3
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -968,6 +997,7 @@ version v3.0.3, fsaverage
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-fsaverage
    :major version: v3.0.3
+   :coordinate space: fsaverage_7 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-

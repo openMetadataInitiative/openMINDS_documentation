@@ -85,6 +85,7 @@ version SPM12, v4
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AAL1_SPM12-v4
+   :coordinate space: MNI-Colin27_1998 \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-

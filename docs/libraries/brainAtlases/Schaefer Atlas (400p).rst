@@ -97,6 +97,7 @@ version 2018, fsLR32k, kong17n
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n
    :major version: 2018
+   :coordinate space: fsLR_32k \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -118,6 +119,7 @@ version 2018, fsLR32k, yeo17n
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n
    :major version: 2018
+   :coordinate space: fsLR_32k \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
@@ -139,6 +141,7 @@ version 2018, fsLR32k, yeo7n
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n
    :major version: 2018
+   :coordinate space: fsLR_32k \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-

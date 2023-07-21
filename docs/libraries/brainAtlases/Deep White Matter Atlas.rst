@@ -42,6 +42,7 @@ version 2018
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/DWMA_2018
+   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
    :type: \-
    :digital ID: \-
    :ontology ID: \-
