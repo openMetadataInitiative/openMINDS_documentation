@@ -299,10 +299,10 @@ class InstancesDocBuilder(object):
             doc.field(name="ontology ID", value=d_ontologyID, indent=field_list_indent)
             d_homepage = data["homepage"] if "homepage" in data and data["homepage"] else "\-"
             doc.field(name="homepage", value=d_homepage, indent=field_list_indent)
-            d_citation = data["howToCite"] if "howToCite" in data and data["howToCite"] else "\-"
-            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             d_description = data["description"] if "description" in data and data["description"] else "\-"
             doc.field(name="description", value=d_description, indent=field_list_indent)
+            d_citation = data["how to cite"] if "howToCite" in data and data["howToCite"] else "\-"
+            doc.field(name="howToCite", value=d_citation, indent=field_list_indent)
             if "hasVersion" in data and data["hasVersion"]:
                 field_name = "has versions"
                 multiline_indent = len(field_name)+3+field_list_indent
@@ -333,6 +333,34 @@ class InstancesDocBuilder(object):
                     doc.newline()
                     field_list_indent = 3
                     doc.field(name="semantic name", value=vdata["@id"], indent=field_list_indent)
+                    dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
+                    if dv_fullName != d_fullName:
+                        doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
+                    dv_abbr = vdata["abbreviation"] if "abbreviation" in vdata and vdata["abbreviation"] else "\-"
+                    if dv_abbr != d_abbr:
+                        doc.field(name="abbreviation", value=dv_abbr, indent=field_list_indent)
+                    if "majorVersionIdentifier" in vdata and vdata["majorVersionIdentifier"]:
+                        dv_majorversion = vdata["majorVersionIdentifier"]
+                        doc.field(name="major version", value=dv_majorversion, indent=field_list_indent)
+                    dv_type = self._build_single_term_link(data["type"], "atlasType") if "type" in data and data["type"] else "\-"
+                    doc.field(name="type", value=dv_type, indent=field_list_indent)
+                    dv_digitalID = vdata["digitalIdentifier"]["@id"] if "digitalIdentifier" in vdata and vdata["digitalIdentifier"] else "\-"
+                    doc.field(name="digital ID", value=dv_digitalID, indent=field_list_indent)
+                    dv_ontologyID = vdata["ontologyIdentifier"] if "ontologyIdentifier" in vdata and vdata["ontologyIdentifier"] else "\-"
+                    doc.field(name="ontology ID", value=dv_ontologyID, indent=field_list_indent)
+                    dv_homepage = vdata["homepage"] if "homepage" in vdata and vdata["homepage"] else "\-"
+                    if dv_homepage != d_homepage:
+                        doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
+                    dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
+                    doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
+                    dv_license = self._build_single_term_link(data["license"], "license") if "license" in data and data["license"] else "\-"
+                    doc.field(name="license", value=dv_license, indent=field_list_indent)
+                    dv_support = vdata["supportChannel"] if "supportChannel" in vdata and vdata["supportChannel"] else "\-"
+                    doc.field(name="support", value=", ".join(dv_support), indent=field_list_indent)
+                    dv_versionspec = vdata["versionInnovation"] if "versionInnovation" in vdata and vdata["versionInnovation"] else "\-"
+                    doc.field(name="version specification", value=dv_versionspec, indent=field_list_indent)
+                    dv_citation = vdata["how to cite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
+                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
                     if "isNewVersionOf" in vdata and vdata["isNewVersionOf"]:
                         old_version_link = self._build_single_version_link(vdata["isNewVersionOf"], data_to_display["versions"], title)
                         doc.field(name="previous version", value=old_version_link, indent=field_list_indent)
@@ -344,23 +372,7 @@ class InstancesDocBuilder(object):
                         if len(alt_version_link_list) > 1:
                             for link in alt_version_link_list[1:]:
                                 doc.content(f"| {link}", indent=multiline_indent)
-                    dv_fullName = vdata["fullName"] if "fullName" in vdata and vdata["fullName"] else "\-"
-                    if dv_fullName != d_fullName:
-                        doc.field(name="full name", value=dv_fullName, indent=field_list_indent)
-                    dv_abbr = vdata["abbreviation"] if "abbreviation" in vdata and vdata["abbreviation"] else "\-"
-                    if dv_abbr != d_abbr:
-                        doc.field(name="abbreviation", value=dv_abbr, indent=field_list_indent)
-                    dv_digitalID = vdata["digitalIdentifier"] if "digitalIdentifier" in vdata and vdata["digitalIdentifier"] else "\-"
-                    doc.field(name="digital ID", value=dv_digitalID, indent=field_list_indent)
-                    dv_ontologyID = vdata["ontologyIdentifier"] if "ontologyIdentifier" in vdata and vdata["ontologyIdentifier"] else "\-"
-                    doc.field(name="ontology ID", value=dv_ontologyID, indent=field_list_indent)
-                    dv_homepage = vdata["homepage"] if "homepage" in vdata and vdata["homepage"] else "\-"
-                    if dv_homepage != d_homepage:
-                        doc.field(name="homepage", value=dv_homepage, indent=field_list_indent)
-                    dv_citation = vdata["howToCite"] if "howToCite" in vdata and vdata["howToCite"] else "\-"
-                    doc.field(name="howToCite", value=dv_citation, indent=field_list_indent)
-                    dv_access = self._build_single_term_link(vdata["accessibility"], "productAccessibility") if "accessibility" in vdata and vdata["accessibility"] else "\-"
-                    doc.field(name="accessibility", value=dv_access, indent=field_list_indent)
+
                     doc.newline()
                     doc.content(f"`BACK TO TOP <{title}_>`_")
                     doc.newline()
