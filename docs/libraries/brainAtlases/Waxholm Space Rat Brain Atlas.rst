@@ -8,11 +8,11 @@ Waxholm Space Rat Brain Atlas
    :full name: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :abbreviation: WHSSDatlas
    :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#rattus-norvegicus>`_
-   :digital ID: https://scicrunch.org/resolver/RRID:SCR_017124
+   :digital ID: https://scicrunch.org/resolver/SCR_001592
    :ontology ID: \-
    :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the atlas version(s) you have used.
-   :description: The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). The atlas (RRID: SCR_017124) is shared under the CC BY-SA 4.0 licence. Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
+   :howToCite: Please refer to the atlas by its RRID:SCR_001592, and cite the first publication (Papp et al. 2014 ; https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.
+   :description: The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
    :has versions: | `v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v4>`_
                   | `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_
                   | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_
@@ -367,7 +367,7 @@ version v1.01
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).
+   :howToCite: Please refer to the atlas by its RRID: SCR_001592, and cite the following publications: Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Papp et al. (2015) https://doi.org/10.1016/j.neuroimage.2014.10.017
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
@@ -383,8 +383,7 @@ version v2
    :previous version: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_
    :digital ID: \-
    :ontology ID: \-
-   :homepage: \-
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).
+   :howToCite: Please refer to the atlas by its RRID: SCR_001592, and cite the following publications: Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Kjonigsen et al. (2015) https://doi.org/10.1016/j.neuroimage.2014.12.080
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
@@ -400,8 +399,7 @@ version v3
    :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_
    :digital ID: \-
    :ontology ID: \-
-   :homepage: \-
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).
+   :howToCite: Please refer to the atlas by its RRID: SCR_001592, and cite the following publications: Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Osen et al. (2019) https://doi.org/10.1016/j.neuroimage.2019.05.016
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
@@ -417,8 +415,7 @@ version v3.01
    :previous version: `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_
    :digital ID: \-
    :ontology ID: \-
-   :homepage: \-
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).
+   :howToCite: Please refer to the atlas by its RRID: SCR_001592, and cite the following publications: - Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Osen et al. (2019) https://doi.org/10.1016/j.neuroimage.2019.05.016
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
@@ -434,8 +431,7 @@ version v4
    :previous version: `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_
    :digital ID: \-
    :ontology ID: \-
-   :homepage: \-
-   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the first publication (Papp et al., 2014) along with the publication for the atlas version you have used (see Related publications below).
+   :howToCite: Please refer to the atlas by its RRID: SCR_017124, and cite the following publications: Papp et al. (2014) https://doi.org/10.1016/j.neuroimage.2014.04.001 ; Kleven et al. (2023) https://doi.org/10.21203/rs.3.rs-2466303/v1
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
