@@ -112,17 +112,25 @@ class InstancesDocBuilder(object):
     def _target_file_without_extension(self, target_basename:str) -> str:
         return os.path.join("target", self.version, "docs", "libraries", f"{target_basename}")
 
-    def _build_single_term_link(self, termReference:Dict, terminology:str) -> str:
+    def _build_single_term_link(self, termReference:Dict, instanceType:str) -> str:
         term = termReference["@id"].split("/")[-1]
-        name = self.instances_libraries["terminologies"][terminology][term]["name"]
+        if instanceType == "license":
+            name = self.instances_libraries[instanceType][term]["name"]
+            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
+        elif instanceType == "contentType":
+            name = self.instances_libraries[instanceType][term]["name"]
+            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
+        else:
+            name = self.instances_libraries["terminologies"][instanceType][term]["name"]
+            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies")
         name_mod = name.replace(' ', '-').casefold()
-        link = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies", f"{terminology}.html#{name_mod}")
+        link = os.path.join(linkdir, f"{instanceType}.html#{name_mod}")
         return f"`{name} <{link}>`_"
 
-    def _build_multi_term_links(self, termReferenceList:List, terminology:str) -> str:
+    def _build_multi_term_links(self, termReferenceList:List, instanceType:str) -> str:
         linklist = []
         for termReference in termReferenceList:
-            linklist.append(self._build_single_term_link(termReference, terminology))
+            linklist.append(self._build_single_term_link(termReference, instanceType))
         return ", ".join(linklist)
 
     # def _build_product_version_links(self, versions:Dict, productType:str) -> str:
@@ -342,6 +350,9 @@ class InstancesDocBuilder(object):
                     if "majorVersionIdentifier" in vdata and vdata["majorVersionIdentifier"]:
                         dv_majorversion = vdata["majorVersionIdentifier"]
                         doc.field(name="major version", value=dv_majorversion, indent=field_list_indent)
+                    if "coordinateSpace" in vdata and vdata["coordinateSpace"]:
+                        old_version_link = self._build_single_version_link(vdata["coordinateSpace"], data_to_display["versions"], title)
+                        doc.field(name="coordinate space", value=old_version_link, indent=field_list_indent)
                     dv_type = self._build_single_term_link(data["type"], "atlasType") if "type" in data and data["type"] else "\-"
                     doc.field(name="type", value=dv_type, indent=field_list_indent)
                     dv_digitalID = vdata["digitalIdentifier"]["@id"] if "digitalIdentifier" in vdata and vdata["digitalIdentifier"] else "\-"
