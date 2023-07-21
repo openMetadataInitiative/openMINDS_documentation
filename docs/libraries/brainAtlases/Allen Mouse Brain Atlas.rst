@@ -11,8 +11,8 @@ Allen Mouse Brain Atlas
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
-   :howToCite: \-
    :description: \-
+   :how to cite: \-
    :has versions: | `CCFv3, 2017 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2017>`_
                   | `CCFv3, 2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2015>`_
 
@@ -29,11 +29,15 @@ version CCFv3, 2015
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2015
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: \, -
+   :version specification: \-
+   :how to cite: \-
 
 `BACK TO TOP <Allen Mouse Brain Atlas_>`_
 
@@ -45,11 +49,15 @@ version CCFv3, 2017
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2017
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: \, -
+   :version specification: \-
+   :how to cite: \-
 
 `BACK TO TOP <Allen Mouse Brain Atlas_>`_
 

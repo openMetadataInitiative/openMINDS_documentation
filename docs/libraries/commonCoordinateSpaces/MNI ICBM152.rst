@@ -11,7 +11,7 @@ MNI ICBM152
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
-   :howToCite: \-
+   :how to cite: \-
    :description: The 'MNI ICBM152 Average Brain Stereotaxic Registration Model' is an average of T1-weighted magnetic resonance imaging (MRI) scans from 152 normative young adults.
    :has versions: | `nonlinear 6th generation symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-nonlinear-6th-generation-symmetric>`_
                   | `2009c nonlinear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-symmetric>`_
@@ -35,7 +35,7 @@ version 2001 linear symmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152lin'}
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -54,7 +54,7 @@ version 2009a nonlinear asymmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009'}
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -73,7 +73,7 @@ version 2009a nonlinear symmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: {'@id': 'https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009'}
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -92,7 +92,7 @@ version 2009b nonlinear asymmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -111,7 +111,7 @@ version 2009b nonlinear symmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -130,7 +130,7 @@ version 2009c nonlinear asymmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
@@ -149,7 +149,7 @@ version 2009c nonlinear symmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-
@@ -168,7 +168,7 @@ version nonlinear 6th generation symmetric
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: 2009-07-01
    :anatomical axis orientation: \-

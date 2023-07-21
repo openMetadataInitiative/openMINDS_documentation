@@ -11,8 +11,8 @@ Superficial White Matter Atlas
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
    :description: \-
+   :how to cite: \-
    :has versions: | `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Superficial%20White%20Matter%20Atlas.html#version-2018>`_
 
 Terminology
@@ -94,10 +94,14 @@ version 2018
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/SWMA_2018
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: \, -
+   :version specification: This is the first released version of this brain atlas.
+   :how to cite: \-
 
 `BACK TO TOP <Superficial White Matter Atlas_>`_
 

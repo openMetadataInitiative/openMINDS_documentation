@@ -11,7 +11,7 @@ Allen Mouse Brain CCF
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://portal.brain-map.org/
-   :howToCite: \-
+   :how to cite: \-
    :description: The 'Allen Mouse Brain Common Coordinate Framework' is a 3D reconstruction of an averaged adult mouse brain.
    :has versions: | `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
                   | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
@@ -30,7 +30,7 @@ version v1
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v1
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: Lein E, Hawrylycz M, Ao N, et al.; 'Genome-wide atlas of gene expression in the adult mouse brain.'; Nature; Jan 2007; 445(7124):168–176. [doi: 10.1038/nature05453](https://doi.org/10.1038/nature05453)
+   :how to cite: Lein E, Hawrylycz M, Ao N, et al.; 'Genome-wide atlas of gene expression in the adult mouse brain.'; Nature; Jan 2007; 445(7124):168–176. [doi: 10.1038/nature05453](https://doi.org/10.1038/nature05453)
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
    :release date: \-
    :anatomical axis orientation: `PIR <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#pir>`_
@@ -49,7 +49,7 @@ version v2
    :previous version: `v1 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v1>`_
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: Oh S, Harris J, Ng L, et al.; 'A mesoscale connectome of the mouse brain.'; Nature; Apr 2014; 508(7495):207–214. [doi: 10.1038/nature13186](https://doi.org/10.1038/nature13186)
+   :how to cite: Oh S, Harris J, Ng L, et al.; 'A mesoscale connectome of the mouse brain.'; Nature; Apr 2014; 508(7495):207–214. [doi: 10.1038/nature13186](https://doi.org/10.1038/nature13186)
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
    :release date: \-
    :anatomical axis orientation: `PIR <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#pir>`_
@@ -69,7 +69,7 @@ version v3
    :alternative versions: | `v3-RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3-ras>`_
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
+   :how to cite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
    :release date: 2015-05-01
    :anatomical axis orientation: `PIR <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#pir>`_
@@ -89,7 +89,7 @@ version v3-RAS
    :alternative versions: | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/Allen%20Mouse%20Brain%20CCF.html#version-v3>`_
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
+   :how to cite: Wang Q, Ding S-L, Li Y, et al.; 'The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas.'; Cell; May 2020; 181(4):936-953.e20. [doi: 10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007)
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
    :release date: 2015-05-01
    :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_

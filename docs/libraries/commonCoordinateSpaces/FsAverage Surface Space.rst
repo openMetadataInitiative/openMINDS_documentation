@@ -11,7 +11,7 @@ FsAverage Surface Space
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
+   :how to cite: \-
    :description: \-
    :has versions: | `7 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
                   | `6 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-6>`_
@@ -31,7 +31,7 @@ version 3
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_3
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-
@@ -49,7 +49,7 @@ version 4
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_4
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-
@@ -67,7 +67,7 @@ version 5
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_5
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-
@@ -85,7 +85,7 @@ version 6
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_6
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-
@@ -103,7 +103,7 @@ version 7
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_7
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-

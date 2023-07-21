@@ -11,5 +11,5 @@ DK Atlas
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
    :description: \-
+   :how to cite: \-

@@ -11,7 +11,7 @@ fsLR Surface Space
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
+   :how to cite: \-
    :description: The 'Unbiased FsAverage Left–Right Hybrid Surface Space' (fsLR) brings the left and right fsaverage surfaces into geographic correspondence using Landmark-SBR ([Van Essen et al. 2011](https://doi.org/10.1093/cercor/bhr291)).
    :has versions: | `32k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-32k>`_
                   | `164k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-164k>`_
@@ -28,7 +28,7 @@ version 164k
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_164k
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-
@@ -46,7 +46,7 @@ version 32k
    :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
+   :how to cite: \-
    :accessibility: \-
    :release date: \-
    :anatomical axis orientation: \-

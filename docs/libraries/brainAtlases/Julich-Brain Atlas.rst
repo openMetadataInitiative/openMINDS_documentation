@@ -11,8 +11,8 @@ Julich-Brain Atlas
    :digital ID: https://scicrunch.org/resolver/RRID:SCR_023277
    :ontology ID: \-
    :homepage: https://julich-brain-atlas.de/
-   :howToCite: Please refer to the atlas by its RRID: SCR_023277, and cite the two main publications (Amunts and Zilles 2015: https://doi.org/10.1016/j.neuron.2015.12.001 AND Amunts et al. 2020: https://doi.org/10.1126/science.abb4588) along with the atlas version(s) you have used.
    :description: The Julich Brain Atlas is a three-dimensional atlas of the human brain which replaces historical maps of the brain's microstructure such as that of Brodmann. It integrates high-resolution cytoarchitectonic maps with microstructural and connectivity data as well as neurotransmitter receptor expression profiles and functional data – all into a common reference space. It is continuously expanded and openly accessible for researchers to systematically integrate multi-level data. It is interoperable in a way that it can be linked with other brain parcellations, databases and mapping projects. The Julich Brain Atlas offers a powerful tool for neuroscience and medicine alike and has been adopted as central element of the multilevel human brain atlas for the EBRAINS infrastructure, see [EBRAINS Human Brain Atlas](https://www.ebrains.eu/tools/human-brain-atlas).
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the two main publications [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001) AND [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588) along with the atlas version(s) you have used.
    :has versions: | `v3.0.3, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
                   | `v3.0.3, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
                   | `v3.0.3, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
@@ -297,10 +297,15 @@ version v1.13, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.13-Colin27
+   :major version: v1.13
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: This is the first release of the Julich-Brain Atlas using the common coordinate space Colin27 (1998).
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/Q3ZS-NV6).
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -312,12 +317,17 @@ version v1.18, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-Colin27
-   :previous version: `v1.13, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-13-colin27>`_
-   :alternative versions: | `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
+   :major version: v1.18
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :previous version: `v1.13, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-13-colin27>`_
+   :alternative versions: | `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -329,11 +339,16 @@ version v1.18, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-MNI152
-   :alternative versions: | `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
+   :major version: v1.18
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: This is the first release of the Julich-Brain Atlas using the common coordinate space MNI ICBM152 (2009c Nonlinear Asymmetric).
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :alternative versions: | `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -345,12 +360,17 @@ version v2.2, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-Colin27
-   :previous version: `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
-   :alternative versions: | `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
+   :major version: v2.2
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :previous version: `v1.18, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
+   :alternative versions: | `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -362,12 +382,17 @@ version v2.2, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-MNI152
-   :previous version: `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
-   :alternative versions: | `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
+   :major version: v2.2
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :previous version: `v1.18, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
+   :alternative versions: | `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -379,12 +404,17 @@ version v2.4, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-Colin27
-   :previous version: `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
-   :alternative versions: | `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
+   :major version: v2.4
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :previous version: `v2.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
+   :alternative versions: | `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -396,12 +426,17 @@ version v2.4, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-MNI152
-   :previous version: `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
-   :alternative versions: | `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
+   :major version: v2.4
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :previous version: `v2.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
+   :alternative versions: | `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -413,12 +448,17 @@ version v2.5, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-Colin27
-   :previous version: `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
-   :alternative versions: | `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
+   :major version: v2.5
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :previous version: `v2.4, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
+   :alternative versions: | `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -430,12 +470,17 @@ version v2.5, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-MNI152
-   :previous version: `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
-   :alternative versions: | `v2.5, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-colin27>`_
+   :major version: v2.5
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :previous version: `v2.4, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
+   :alternative versions: | `v2.5, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-colin27>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -447,11 +492,16 @@ version v2.6, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.6-MNI152
-   :previous version: `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
+   :major version: v2.6
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/KJQN-AM0).
+   :previous version: `v2.5, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -463,13 +513,18 @@ version v2.9, BigBrain
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-BigBrain
+   :major version: v2.9
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: This is the first release of the Julich-Brain Atlas using the common coordinate space BigBrain (2015).
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
    :alternative versions: | `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
                           | `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
                           | `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -481,14 +536,19 @@ version v2.9, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-Colin27
+   :major version: v2.9
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
    :previous version: `v2.5, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-colin27>`_
    :alternative versions: | `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
                           | `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
                           | `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -500,14 +560,19 @@ version v2.9, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152
+   :major version: v2.9
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
    :previous version: `v2.6, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-6-mni152>`_
    :alternative versions: | `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
                           | `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
                           | `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -519,13 +584,18 @@ version v2.9, fsaverage
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-fsaverage
+   :major version: v2.9
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: This is the first release of the Julich-Brain Atlas using the common coordinate space FsAverage (7).
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
    :alternative versions: | `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
                           | `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
                           | `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -537,14 +607,19 @@ version v3.0, BigBrain
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-BigBrain
+   :major version: v3.0
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
    :previous version: `v2.9, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
    :alternative versions: | `v3.0, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
                           | `v3.0, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
                           | `v3.0, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -556,14 +631,19 @@ version v3.0, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-Colin27
+   :major version: v3.0
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
    :previous version: `v2.9, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
    :alternative versions: | `v3.0, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
                           | `v3.0, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
                           | `v3.0, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -575,14 +655,19 @@ version v3.0, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-MNI152
+   :major version: v3.0
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
    :previous version: `v2.9, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
    :alternative versions: | `v3.0, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
                           | `v3.0, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
                           | `v3.0, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -594,14 +679,19 @@ version v3.0, fsaverage
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-fsaverage
+   :major version: v3.0
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
    :previous version: `v2.9, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
    :alternative versions: | `v3.0, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
                           | `v3.0, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
                           | `v3.0, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -613,14 +703,19 @@ version v3.0.1, BigBrain
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-BigBrain
+   :major version: v3.0.1
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
    :previous version: `v3.0, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
    :alternative versions: | `v3.0.1, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
                           | `v3.0.1, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
                           | `v3.0.1, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -632,14 +727,19 @@ version v3.0.1, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-Colin27
+   :major version: v3.0.1
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
    :previous version: `v3.0, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
    :alternative versions: | `v3.0.1, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
                           | `v3.0.1, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
                           | `v3.0.1, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -651,14 +751,19 @@ version v3.0.1, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-MNI152
+   :major version: v3.0.1
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
    :previous version: `v3.0, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
    :alternative versions: | `v3.0.1, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
                           | `v3.0.1, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
                           | `v3.0.1, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -670,14 +775,19 @@ version v3.0.1, fsaverage
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-fsaverage
+   :major version: v3.0.1
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
    :previous version: `v3.0, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
    :alternative versions: | `v3.0.1, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
                           | `v3.0.1, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
                           | `v3.0.1, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -689,14 +799,19 @@ version v3.0.2, BigBrain
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain
+   :major version: v3.0.2
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
    :previous version: `v3.0.1, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
    :alternative versions: | `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
                           | `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
                           | `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -708,14 +823,19 @@ version v3.0.2, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27
+   :major version: v3.0.2
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
    :previous version: `v3.0.1, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
    :alternative versions: | `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
                           | `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
                           | `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -727,14 +847,19 @@ version v3.0.2, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152
+   :major version: v3.0.2
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
    :previous version: `v3.0.1, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
    :alternative versions: | `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
                           | `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
                           | `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -746,14 +871,19 @@ version v3.0.2, fsaverage
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage
+   :major version: v3.0.2
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
    :previous version: `v3.0.1, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
    :alternative versions: | `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
                           | `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
                           | `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -765,14 +895,19 @@ version v3.0.3, BigBrain
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain
+   :major version: v3.0.3
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
    :previous version: `v3.0.2, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
    :alternative versions: | `v3.0.3, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
                           | `v3.0.3, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
                           | `v3.0.3, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -784,14 +919,19 @@ version v3.0.3, Colin27
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-Colin27
+   :major version: v3.0.3
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
    :previous version: `v3.0.2, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
    :alternative versions: | `v3.0.3, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
                           | `v3.0.3, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
                           | `v3.0.3, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -803,14 +943,19 @@ version v3.0.3, MNI152
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-MNI152
+   :major version: v3.0.3
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
    :previous version: `v3.0.2, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
    :alternative versions: | `v3.0.3, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
                           | `v3.0.3, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
                           | `v3.0.3, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 
@@ -822,14 +967,19 @@ version v3.0.3, fsaverage
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-fsaverage
+   :major version: v3.0.3
+   :type: \-
+   :digital ID: \-
+   :ontology ID: \-
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: julich-brain@fz-juelich.de
+   :version specification: \-
+   :how to cite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
    :previous version: `v3.0.2, fsaverage <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
    :alternative versions: | `v3.0.3, MNI152 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
                           | `v3.0.3, Colin27 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
                           | `v3.0.3, BigBrain <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :howToCite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
 

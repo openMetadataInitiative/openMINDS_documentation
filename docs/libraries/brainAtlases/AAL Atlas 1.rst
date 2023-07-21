@@ -11,8 +11,8 @@ AAL Atlas 1
    :digital ID: \-
    :ontology ID: \-
    :homepage: https://www.gin.cnrs.fr/en/tools/aal/
-   :howToCite: \-
    :description: \-
+   :how to cite: \-
    :has versions: | `SPM12, v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/AAL%20Atlas%201.html#version-spm12-v4>`_
                   | AAL1_SPM99-vbeta2 \(TODO\)
                   | AAL1_SPM8-v1 \(TODO\)
@@ -85,11 +85,15 @@ version SPM12, v4
 .. admonition:: metadata sheet
 
    :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AAL1_SPM12-v4
+   :type: \-
    :digital ID: \-
    :ontology ID: \-
    :homepage: \-
-   :howToCite: \-
    :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
+   :license: \-
+   :support: \, -
+   :version specification: This is the 2018 release of the SPM12 version of the AAL Atlas 1 containing 3D definitions of 45 anatomical volumes of interest in each hemisphere.
+   :how to cite: \-
 
 `BACK TO TOP <AAL Atlas 1_>`_
 
