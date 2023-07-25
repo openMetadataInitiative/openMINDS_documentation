@@ -13,7 +13,7 @@ Related schema specification: `Brodmann Areas (human) <https://openminds-documen
    :hasTerminology: (see below)
    :hasVersion: | `1909 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Brodmann%20Areas%20(human).html#version-1909>`_
    :shortName: Brodmann Areas (human)
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 Terminology
 ###########
@@ -80,9 +80,11 @@ version 1909
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/BA-human_1909
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: BA-human
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :ontologyIdentifier: http://uri.interlex.org/base/ilx_0101468
    :shortName: Brodmann Areas (human)
+   :type: `parcellation scheme <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#parcellationscheme>`_
    :versionIdentifier: 1909
    :versionInnovation: This is the second released version of the human Brodmann cortical parcellation scheme.
 

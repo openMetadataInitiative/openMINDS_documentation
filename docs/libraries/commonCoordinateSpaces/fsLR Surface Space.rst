@@ -14,7 +14,7 @@ Related schema specification: `fsLR Surface Space <https://openminds-documentati
    :hasVersion: | `32k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-32k>`_
                 | `164k <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/fsLR%20Surface%20Space.html#version-164k>`_
    :shortName: fsLR Surface Space
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 ------------
 
@@ -27,6 +27,7 @@ version 32k
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :shortName: fsLR Surface Space
    :versionIdentifier: 32k
    :versionInnovation: This fsLR Surface Space version has about 32492 (32k) vertices per hemisphere.
@@ -42,6 +43,7 @@ version 164k
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :shortName: fsLR Surface Space
    :versionIdentifier: 164k
    :versionInnovation: This fsLR Surface Space version has about 163842 (164k) vertices per hemisphere.

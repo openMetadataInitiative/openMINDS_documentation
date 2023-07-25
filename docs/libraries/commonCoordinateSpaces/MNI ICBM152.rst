@@ -21,7 +21,7 @@ Related schema specification: `MNI ICBM152 <https://openminds-documentation.read
                 | `2001 linear symmetric <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2001-linear-symmetric>`_
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
    :shortName: MNI ICBM152
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 ------------
 
@@ -35,6 +35,7 @@ version nonlinear 6th generation symmetric
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: nonlinear 6th generation symmetric
@@ -51,6 +52,7 @@ version 2009c nonlinear symmetric
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009c nonlinear symmetric
@@ -65,8 +67,10 @@ version 2009c nonlinear asymmetric
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
+   :anatomicalAxesOrientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009c nonlinear asymmetric
@@ -83,6 +87,7 @@ version 2009b nonlinear symmetric
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009b nonlinear symmetric
@@ -99,6 +104,7 @@ version 2009b nonlinear asymmetric
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009b nonlinear asymmetric
@@ -114,6 +120,7 @@ version 2009a nonlinear symmetric
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009a nonlinear symmetric
@@ -129,6 +136,7 @@ version 2009a nonlinear asymmetric
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2009a nonlinear asymmetric
@@ -144,6 +152,7 @@ version 2001 linear symmetric
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
+   :nativeUnit: `millimeter <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#millimeter>`_
    :releaseDate: 2009-07-01
    :shortName: MNI ICBM152
    :versionIdentifier: 2001 linear symmetric

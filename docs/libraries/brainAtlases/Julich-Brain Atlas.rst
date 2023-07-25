@@ -46,7 +46,7 @@ Related schema specification: `Julich-Brain Atlas <https://openminds-documentati
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the two main publications [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001) AND [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588) along with the atlas version(s) you have used.
    :shortName: Julich-Brain Atlas
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 Terminology
 ###########
@@ -302,13 +302,20 @@ version v3.0.3, fsaverage
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `FsAverage Surface Space (version 7) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.3, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.3, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.3, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.2, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.3, fsaverage
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -321,13 +328,20 @@ version v3.0.3, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.3, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.3, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.3, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.3, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -340,13 +354,20 @@ version v3.0.3, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.3, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.3, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.3, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.3, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -359,13 +380,20 @@ version v3.0.3, BigBrain
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `BigBrain Model (version 2015) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2023)](https://doi.org/10.25493/56EM-75H).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.3, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.3, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.3, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-3-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.2, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.3
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `deterministic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3.0.3, BigBrain
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -378,13 +406,20 @@ version v3.0.2, fsaverage
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `FsAverage Surface Space (version 7) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.2, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.1, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.2, fsaverage
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -397,13 +432,20 @@ version v3.0.2, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.2, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.2, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.1, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.2, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -416,13 +458,20 @@ version v3.0.2, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.2, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.2, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.1, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.2, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -435,13 +484,20 @@ version v3.0.2, BigBrain
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `BigBrain Model (version 2015) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/TMQ3-0EP).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.2, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-2-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0.1, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `deterministic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3.0.2, BigBrain
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -454,13 +510,20 @@ version v3.0.1, fsaverage
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `FsAverage Surface Space (version 7) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.1, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.1, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.1, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.1, fsaverage
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -473,13 +536,20 @@ version v3.0.1, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.1, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.1, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0.1, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.1, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -492,13 +562,20 @@ version v3.0.1, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.1, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.1, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.1, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0.1, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -511,13 +588,20 @@ version v3.0.1, BigBrain
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `BigBrain Model (version 2015) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/2BV2-001).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0.1, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0.1, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0.1, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-1-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v3.0, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0.1
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `deterministic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3.0.1, BigBrain
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -530,13 +614,20 @@ version v3.0, fsaverage
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `FsAverage Surface Space (version 7) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.9, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0, fsaverage
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -549,13 +640,20 @@ version v3.0, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
+                            | `Julich-Brain Atlas (version v3.0, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.9, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -568,13 +666,20 @@ version v3.0, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.9, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v3.0, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -587,13 +692,20 @@ version v3.0, BigBrain
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `BigBrain Model (version 2015) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2022)](https://doi.org/10.25493/MGKP-Z5T).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v3.0, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-fsaverage>`_
+                            | `Julich-Brain Atlas (version v3.0, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-mni152>`_
+                            | `Julich-Brain Atlas (version v3.0, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v3-0-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.9, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v3.0
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `deterministic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v3.0, BigBrain
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -606,13 +718,19 @@ version v2.9, fsaverage
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `FsAverage Surface Space (version 7) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/FsAverage%20Surface%20Space.html#version-7>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.9, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
+                            | `Julich-Brain Atlas (version v2.9, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
+                            | `Julich-Brain Atlas (version v2.9, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.9, fsaverage
    :versionInnovation: This is the first release of the Julich-Brain Atlas using the common coordinate space FsAverage (7).
 
@@ -626,13 +744,20 @@ version v2.9, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.9, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
+                            | `Julich-Brain Atlas (version v2.9, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
+                            | `Julich-Brain Atlas (version v2.9, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.6, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-6-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.9, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -645,13 +770,20 @@ version v2.9, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.9, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
+                            | `Julich-Brain Atlas (version v2.9, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
+                            | `Julich-Brain Atlas (version v2.9, BigBrain) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-bigbrain>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.5, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.9, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -664,13 +796,19 @@ version v2.9, BigBrain
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `BigBrain Model (version 2015) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/VSMK-H94).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.9, fsaverage) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-fsaverage>`_
+                            | `Julich-Brain Atlas (version v2.9, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-mni152>`_
+                            | `Julich-Brain Atlas (version v2.9, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-9-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.9
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `deterministic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#deterministicatlas>`_
    :versionIdentifier: v2.9, BigBrain
    :versionInnovation: This is the first release of the Julich-Brain Atlas using the common coordinate space BigBrain (2015).
 
@@ -684,13 +822,17 @@ version v2.6, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.6-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2021)](https://doi.org/10.25493/KJQN-AM0).
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.5, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.6
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.6, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -703,13 +845,18 @@ version v2.5, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.5, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.4, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.5
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.5, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -722,13 +869,18 @@ version v2.5, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/8JKE-M53).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.5, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-5-mni152>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.4, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.5
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.5, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -741,13 +893,18 @@ version v2.4, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.4, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.4
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.4, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -760,13 +917,18 @@ version v2.4, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/A7Y0-NX9).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.4, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-4-mni152>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v2.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.4
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.4, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -779,13 +941,18 @@ version v2.2, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.2, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-colin27>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v1.18, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.2, MNI152
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -798,13 +965,18 @@ version v2.2, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2020)](https://doi.org/10.25493/TAKY-64D).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v2.2, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v2-2-mni152>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v1.18, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v2.2
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v2.2, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -817,13 +989,17 @@ version v1.18, MNI152
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v1.18, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v1.18
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v1.18, MNI152
    :versionInnovation: This is the first release of the Julich-Brain Atlas using the common coordinate space MNI ICBM152 (2009c Nonlinear Asymmetric).
 
@@ -837,13 +1013,18 @@ version v1.18, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: `MNI Colin27 Average Brain (version 1998) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20Colin27%20Average%20Brain.html#version-1998>`_
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/8EGG-ZAR).
+   :isAlternativeVersionOf: | `Julich-Brain Atlas (version v1.18, MNI152) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-18-mni152>`_
+   :isNewVersionOf: `Julich-Brain Atlas (version v1.13, Colin27) <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Julich-Brain%20Atlas.html#version-v1-13-colin27>`_
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v1.18
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v1.18, Colin27
 
 `BACK TO TOP <Julich-Brain Atlas_>`_
@@ -856,13 +1037,16 @@ version v1.13, Colin27
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.13-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
    :coordinateSpace: MNI-Colin27_1998 \(TODO\)
    :fullName: Julich-Brain Cytoarchitectonic Atlas
    :homepage: https://julich-brain-atlas.de/
    :howToCite: Please refer to the atlas by its [RRID:SCR_023277](https://scicrunch.org/resolver/SCR_023277), and cite the following publications: [Amunts and Zilles (2015)](https://doi.org/10.1016/j.neuron.2015.12.001); [Amunts et al. (2020)](https://doi.org/10.1126/science.abb4588), [Amunts et al. (2019)](https://doi.org/10.25493/Q3ZS-NV6).
+   :license: `CC BY-NC-SA 4.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/licenses.html#ccbyncsa4-0>`_
    :majorVersionIdentifier: v1.13
    :shortName: Julich-Brain Atlas
    :supportChannel: julich-brain@fz-juelich.de
+   :type: `probabilistic atlas <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/atlasType.html#probabilisticatlas>`_
    :versionIdentifier: v1.13, Colin27
    :versionInnovation: This is the first release of the Julich-Brain Atlas using the common coordinate space Colin27 (1998).
 

@@ -13,7 +13,7 @@ Related schema specification: `Automated Segmentation Atlas <https://openminds-d
    :fullName: Automated Segmentation Atlas of the Human Brain
    :hasTerminology: (see below)
    :shortName: Automated Segmentation Atlas
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 Terminology
 ###########

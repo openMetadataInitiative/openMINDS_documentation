@@ -14,7 +14,7 @@ Related schema specification: `BigBrain Model <https://openminds-documentation.r
    :hasVersion: | `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
    :homepage: https://bigbrainproject.org/
    :shortName: BigBrain Model
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 ------------
 
@@ -26,8 +26,11 @@ version 2015
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: BigBrain
+   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#freeaccess>`_
+   :anatomicalAxesOrientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
    :fullName: BigBrain Whole-Brain Model
    :homepage: https://bigbrainproject.org/
+   :nativeUnit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/UnitOfMeasurement.html#micrometer>`_
    :releaseDate: 2013-06-21
    :shortName: BigBrain Model
    :versionIdentifier: 2015

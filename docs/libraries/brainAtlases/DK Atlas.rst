@@ -12,7 +12,7 @@ Related schema specification: `DK Atlas <https://openminds-documentation.readthe
    :fullName: Desikan-Killiany Atlas
    :hasTerminology: (see below)
    :shortName: DK Atlas
-   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homosapiens>`_
 
 Terminology
 ###########
