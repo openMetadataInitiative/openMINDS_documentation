@@ -61,6 +61,7 @@ class InstancesDocBuilder(object):
         label = id_label.split("_")[0]
         if version_id in self.instances_collection:
             version_data = self.instances_collection[version_id]
+            print(version_data)
             title = version_data["shortName"]
             subtitle = version_data["versionIdentifier"] if "versionIdentifier" in version_data and version_data["versionIdentifier"] else id_label
             subtitle_url = subtitle.replace(' ', '-').replace(',', '-').replace('.', '-').replace('--', '-').casefold()
