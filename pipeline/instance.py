@@ -26,8 +26,10 @@ class InstancesDocBuilder(object):
             elif split_path[3] == "graphStructures" and split_path[6].endswith(".jsonld"):
                 instance_shortName = instance_payload["shortName"]
                 relative_path = os.path.join("target", self.version, "docs", "libraries", split_path[4], instance_shortName)
-            else:
+            elif split_path[3] == "terminologies":
                 relative_path = os.path.join("target", self.version, "docs", "libraries", split_path[3], split_path[4])
+            else:
+                pass
 
             self.instances_collection[instance_id] = instance_payload
             if relative_path in self.target_paths_for_instances:
@@ -61,7 +63,6 @@ class InstancesDocBuilder(object):
         label = id_label.split("_")[0]
         if version_id in self.instances_collection:
             version_data = self.instances_collection[version_id]
-            print(version_data)
             title = version_data["shortName"]
             subtitle = version_data["versionIdentifier"] if "versionIdentifier" in version_data and version_data["versionIdentifier"] else id_label
             subtitle_url = subtitle.replace(' ', '-').replace(',', '-').replace('.', '-').replace('--', '-').casefold()
