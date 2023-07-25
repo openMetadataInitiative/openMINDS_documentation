@@ -39,16 +39,15 @@ class InstancesDocBuilder(object):
 
     def _build_single_term_link(self, termReference:Dict, instanceType:str) -> str:
         term_id = termReference["@id"]
-        term = term_id.split("/")[-1]
-        name = self.instances_collection[term_id]["name"]
-        name_mod = name.replace(' ', '-').casefold()
-        if instanceType == "license":
+        term = term_id.split("/")[-1].replace(".", "-").casefold()
+        name = self.instances_collection[term_id]["name"] if "name" in self.instances_collection[term_id] else self.instances_collection[term_id]["shortName"]
+        if instanceType == "licenses":
             linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
-        elif instanceType == "contentType":
+        elif instanceType == "contentTypes":
             linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
         else:
             linkdir = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies")
-        link = os.path.join(linkdir, f"{instanceType}.html#{name_mod}")
+        link = os.path.join(linkdir, f"{instanceType}.html#{term}")
         return f"`{name} <{link}>`_"
 
     def _build_multi_term_links(self, termReferenceList:List, instanceType:str) -> str:
@@ -164,7 +163,7 @@ class InstancesDocBuilder(object):
                     if prop == "digitalIdentifier":
                         doc.field(name=prop, value=value["@id"], indent=field_list_indent)
                     if prop == "usedSpecies":
-                        doc.field(name=prop, value=self._build_single_term_link(value, prop), indent=field_list_indent)
+                        doc.field(name=prop, value=self._build_single_term_link(value, "species"), indent=field_list_indent)
                     if prop == "hasTerminology":
                         doc.field(name=prop, value="(see below)", indent=field_list_indent)
                 elif isinstance(value, List):
@@ -207,14 +206,30 @@ class InstancesDocBuilder(object):
                             if isinstance(value, (str, int, float)):
                                 doc.field(name=prop, value=str(value), indent=field_list_indent)
                             elif isinstance(value, Dict):
-                                if prop == "digitalIdentifier":
+                                if prop in ["digitalIdentifier", "relatedPublication"]:
                                     doc.field(name=prop, value=value["@id"], indent=field_list_indent)
-                                if prop == "coordinateSpace": #TODO
+                                if prop == "accessibility":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "productAccessibility"), indent=field_list_indent)
+                                if prop == "license":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "licenses"), indent=field_list_indent)
+                                if prop == "coordinateSpace":
                                     doc.field(name=prop, value=self._build_single_version_link(value, include_shortName=True), indent=field_list_indent)
+                                if prop == "isNewVersionOf":
+                                    doc.field(name=prop, value=self._build_single_version_link(value, include_shortName=True), indent=field_list_indent)
+                                if prop == "type":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "atlasType"), indent=field_list_indent)
                             elif isinstance(value, List):
                                 if all(isinstance(item, (str, int, float)) for item in value):
                                     sorted_value_list = sorted([str(item) for item in value])
                                     doc.field(name=prop, value=", ".join(sorted_value_list), indent=field_list_indent)
+                                if all(isinstance(item, Dict) for item in value):
+                                    if prop == "isAlternativeVersionOf":
+                                        multiline_indent = len(prop) + 3 + field_list_indent
+                                        version_link_list = self._build_multi_version_links(value, include_shortName=True)
+                                        doc.field(name=prop, value=f"| {version_link_list[0]}", indent=field_list_indent)
+                                        if len(version_link_list) > 1:
+                                            for link in version_link_list[1:]:
+                                                doc.content(f"| {link}", indent=multiline_indent)
                     else:
                         doc.content(f"TODO")
                     doc.newline()
@@ -244,7 +259,7 @@ class InstancesDocBuilder(object):
                     if prop == "digitalIdentifier":
                         doc.field(name=prop, value=value["@id"], indent=field_list_indent)
                     if prop == "usedSpecies":
-                        doc.field(name=prop, value=self._build_single_term_link(value, prop), indent=field_list_indent)
+                        doc.field(name=prop, value=self._build_single_term_link(value, "species"), indent=field_list_indent)
                 elif isinstance(value, List):
                     if all(isinstance(item, (str, int, float)) for item in value):
                         sorted_value_list = sorted([str(item) for item in value])
@@ -275,12 +290,30 @@ class InstancesDocBuilder(object):
                             if isinstance(value, (str, int, float)):
                                 doc.field(name=prop, value=str(value), indent=field_list_indent)
                             elif isinstance(value, Dict):
-                                if prop == "digitalIdentifier":
+                                if prop in ["digitalIdentifier", "relatedPublication"]:
                                     doc.field(name=prop, value=value["@id"], indent=field_list_indent)
+                                if prop == "accessibility":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "productAccessibility"), indent=field_list_indent)
+                                if prop == "license":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "licenses"), indent=field_list_indent)
+                                if prop == "anatomicalAxesOrientation":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, prop), indent=field_list_indent)
+                                if prop == "nativeUnit":
+                                    doc.field(name=prop, value=self._build_single_term_link(value, "UnitOfMeasurement"), indent=field_list_indent)
+                                if prop == "isNewVersionOf":
+                                    doc.field(name=prop, value=self._build_single_version_link(value, include_shortName=True), indent=field_list_indent)
                             elif isinstance(value, List):
                                 if all(isinstance(item, (str, int, float)) for item in value):
                                     sorted_value_list = sorted([str(item) for item in value])
                                     doc.field(name=prop, value=", ".join(sorted_value_list), indent=field_list_indent)
+                                if all(isinstance(item, Dict) for item in value):
+                                    if prop == "isAlternativeVersionOf":
+                                        multiline_indent = len(prop) + 3 + field_list_indent
+                                        version_link_list = self._build_multi_version_links(value, include_shortName=True)
+                                        doc.field(name=prop, value=f"| {version_link_list[0]}", indent=field_list_indent)
+                                        if len(version_link_list) > 1:
+                                            for link in version_link_list[1:]:
+                                                doc.content(f"| {link}", indent=multiline_indent)
                     else:
                         doc.content(f"TODO")
                     doc.newline()
