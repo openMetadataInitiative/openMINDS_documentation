@@ -2,7 +2,7 @@
 BigBrain Model
 ##############
 
-Related schema specification: `BigBrain Model <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
+Related schema specification: `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
 
 .. admonition:: metadata sheet
 

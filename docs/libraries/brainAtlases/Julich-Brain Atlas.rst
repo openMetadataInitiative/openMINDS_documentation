@@ -2,7 +2,7 @@
 Julich-Brain Atlas
 ##################
 
-Related schema specification: `Julich-Brain Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
+Related schema specification: `BrainAtlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 

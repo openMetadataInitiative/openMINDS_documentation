@@ -2,7 +2,7 @@
 Brodmann Areas (human)
 ######################
 
-Related schema specification: `Brodmann Areas (human) <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
+Related schema specification: `BrainAtlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 

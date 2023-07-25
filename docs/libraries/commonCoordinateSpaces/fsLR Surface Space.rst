@@ -2,7 +2,7 @@
 fsLR Surface Space
 ##################
 
-Related schema specification: `fsLR Surface Space <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
+Related schema specification: `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
 
 .. admonition:: metadata sheet
 

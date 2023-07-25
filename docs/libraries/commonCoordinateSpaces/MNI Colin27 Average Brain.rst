@@ -2,7 +2,7 @@
 MNI Colin27 Average Brain
 #########################
 
-Related schema specification: `MNI Colin27 Average Brain <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
+Related schema specification: `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
 
 .. admonition:: metadata sheet
 

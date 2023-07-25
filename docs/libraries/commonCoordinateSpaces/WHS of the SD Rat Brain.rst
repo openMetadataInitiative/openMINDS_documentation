@@ -2,7 +2,7 @@
 WHS of the SD Rat Brain
 #######################
 
-Related schema specification: `WHS of the SD Rat Brain <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
+Related schema specification: `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`_
 
 .. admonition:: metadata sheet
 

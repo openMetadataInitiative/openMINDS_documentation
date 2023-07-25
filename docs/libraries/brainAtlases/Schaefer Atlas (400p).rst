@@ -2,7 +2,7 @@
 Schaefer Atlas (400p)
 #####################
 
-Related schema specification: `Schaefer Atlas (400p) <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
+Related schema specification: `BrainAtlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 
