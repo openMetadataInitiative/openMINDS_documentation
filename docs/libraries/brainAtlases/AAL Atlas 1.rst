@@ -2,7 +2,7 @@
 AAL Atlas 1
 ###########
 
-Related schema specification: `AAL Atlas 1 <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+Related schema specification: `AAL Atlas 1 <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 

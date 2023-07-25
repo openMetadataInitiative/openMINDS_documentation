@@ -2,7 +2,7 @@
 Waxholm Space Rat Brain Atlas
 #############################
 
-Related schema specification: `Waxholm Space Rat Brain Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+Related schema specification: `Waxholm Space Rat Brain Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 

@@ -2,7 +2,7 @@
 Deep White Matter Atlas
 #######################
 
-Related schema specification: `Deep White Matter Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+Related schema specification: `Deep White Matter Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 

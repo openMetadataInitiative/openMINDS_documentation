@@ -2,7 +2,7 @@
 Superficial White Matter Atlas
 ##############################
 
-Related schema specification: `Superficial White Matter Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+Related schema specification: `Superficial White Matter Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`_
 
 .. admonition:: metadata sheet
 
