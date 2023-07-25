@@ -2,7 +2,7 @@ import os.path
 import shutil
 
 from pipeline.schema import SchemaDocBuilder
-from pipeline.instance import InstancesLibraryBuilder, InstancesDocBuilder
+from pipeline.instance import InstancesDocBuilder
 from pipeline.toctree import create_toc_tree_page
 from pipeline.utils import clone_sources, SchemaLoader, InstanceLoader, copy_static_structures, GitPusher
 
@@ -53,19 +53,14 @@ for schema_version in schema_loader.get_schema_versions():
 instance_loader = InstanceLoader()
 
 for instance_version in instance_loader.get_instance_versions():
-    instances_libraries = InstancesLibraryBuilder()
-
     # Step 2 - find all involved schemas for the current version
-    instances = instance_loader.find_instances(instance_version)
-    relative_path_by_instance = instance_loader.get_relative_path_for_instances(instances, instance_version)
+    instances_paths = instance_loader.find_instances(instance_version)
 
-    for instance in instances:
-        # Step 3 - gather version specific instance libraries for documentation build
-        instances_libraries.load_instance(instance, instance_loader.instances_sources)
-        instances_libraries.add_instance_to_library()
+    # Step 3 - gather version specific instance libraries for documentation build
+    instances = InstancesDocBuilder(instances_paths, instance_version)
 
     # Step 4 - build documentation for version specific schema
-    InstancesDocBuilder(instance_version, instances_libraries.instances_libraries).build()
+    instances.build()
 
     # Step 5 - building toctrees (please note that the implementation requires the schemas to be built already)
     create_toc_tree_page(instance_version, ["libraries"])
