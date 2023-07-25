@@ -2,27 +2,23 @@
 AnatomicalIdentificationType
 ############################
 
-All instances listed below can be validated against the `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalIdentificationType.html>`_ schema specification.
+Related schema specification: `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalIdentificationType.html>`
 
 ------------
 
 ------------
 
-landmark based
---------------
+landmarkBased
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased
+   :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
    :definition: 'Landmark based' identification makes use of distinct anatomical structures as a point of orientation in locating other structures in the body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: landmark based
 
-`BACK TO TOP <anatomicalIdentificationType_>`_
+`BACK TO TOP <AnatomicalIdentificationType_>`_
 
 ------------
 
@@ -31,16 +27,12 @@ stereotactic
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
+   :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
    :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to loacte specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: stereotactic
 
-`BACK TO TOP <anatomicalIdentificationType_>`_
+`BACK TO TOP <AnatomicalIdentificationType_>`_
 
 ------------
 

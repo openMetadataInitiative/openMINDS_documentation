@@ -2,7 +2,7 @@
 OperatingDevice
 ###############
 
-All instances listed below can be validated against the `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingDevice.html>`_ schema specification.
+Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/operatingDevice.html>`
 
 ------------
 
@@ -13,52 +13,40 @@ desktop
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/desktop
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q56155
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: desktop
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56155
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
-embedded system
----------------
+embeddedSystem
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q193040
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: embedded system
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q193040
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
-high-performance computer
--------------------------
+highPerformanceComputer
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q121117
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: high-performance computer
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q121117
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
@@ -67,34 +55,27 @@ mobile
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/mobile
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q5082128
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: mobile
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q5082128
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
-neuromorphic computer
----------------------
+neuromorphicComputer
+--------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q56270917
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: neuromorphic computer
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56270917
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
@@ -103,16 +84,12 @@ server
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/server
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q64729893
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: server
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q64729893
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 
@@ -121,16 +98,12 @@ web
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/operatingDevice/web
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q6368
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: web
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q6368
 
-`BACK TO TOP <operatingDevice_>`_
+`BACK TO TOP <OperatingDevice_>`_
 
 ------------
 

@@ -2,81 +2,67 @@
 CellType
 ########
 
-All instances listed below can be validated against the `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_ schema specification.
+Related schema specification: `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`
 
 ------------
 
 ------------
 
-D1 receptor expressing neuron
------------------------------
+D1ReceptorExpressingNeuron
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/D1ReceptorExpressingNeuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/D1ReceptorExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses D1 receptors.
-   :description: \-
-   :synonyms: D1 dopamine receptor expressing cell, D1 dopamine receptor expressing neuron, D1 receptor expressing cell, D1R expressing cell, D1R expressing neuron, dopamine receptor D1 expressing cell, dopamine receptor D1 expressing neuron, DRD1 expressing cell, DRD1 expressing neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: D1 receptor expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-D2 receptor expressing neuron
------------------------------
+D2ReceptorExpressingNeuron
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses D2 receptors.
-   :description: \-
-   :synonyms: D2 dopamine receptor expressing cell, D2 dopamine receptor expressing neuron, D2 receptor expressing cell, D2R expressing cell, D2R expressing neuron, dopamine receptor D2 expressing cell, dopamine receptor D2 expressing neuron, DRD2 expressing cell, DRD2 expressing neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: D2 receptor expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-Purkinje cell
--------------
+PurkinjeCell
+------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/PurkinjeCell
+   :@id: https://openminds.ebrains.eu/instances/cellType/PurkinjeCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A class of GABAergic inhibitory neurons located in the cerebellum with pear-shape cell bodies arranged in a single layer, typically one primary dendrites and an elaborate dendritic tree heavily invested with dendritic spines.
-   :description: \-
-   :synonyms: cerebellar Punkinje cell, cerebellar Punkinje neuron, cerebellum Purkinje cell, cerebellum Purkinje neuron, Corpuscles of Purkinje, Purkinje neuron, Purkinje's corpuscles, Purkyne cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao471801888
-   :InterLex ID: http://uri.interlex.org/ilx_0101974
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/ilx_0101974
+   :name: Purkinje cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao471801888
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-aromatase expressing neuron
----------------------------
+aromataseExpressingNeuron
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/aromataseExpressingNeuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/aromataseExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: Any neuron that expresses aromatase.
-   :description: \-
-   :synonyms: aromatase expressing cell, aromatase-positive cell, aromatase-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: aromatase expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
@@ -85,394 +71,330 @@ astrocyte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/astrocyte
+   :@id: https://openminds.ebrains.eu/instances/cellType/astrocyte
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: 'Astrocytes' are a class of large, star-shaped neuroglial (macroglial) cells in the central nervous system.
-   :description: \-
-   :synonyms: astroglial cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/base/ilx_0100947
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100947
+   :name: astrocyte
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-basket cell
------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/basketCell
-   :definition: An inhibitory GABAergic interneurons of the brain, enmeshing the cell body of another neuron with its terminal axon ramifications.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-calbindin expressing neuron
----------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/calbindinExpressingNeuron
-   :definition: Any neuron that expresses calbindin.
-   :description: \-
-   :synonyms: CALB+ cell, CALB+ neuron, CALB-expressing cell, CALB-expressing neuron, CALB-positive cell, CALB-positive neuron, calbindin expressing cell, calbindin-positive cell, calbindin-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-calretinin expressing neuron
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/calretininExpressingNeuron
-   :definition: Any neuron that expresses calretinin.
-   :description: \-
-   :synonyms: calretinin expressing cell, calretinin-positive cell, calretinin-positive neuron, CR+ cell, CR+ neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cerebellar interneuron
-----------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cerebellarInterneuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cerebellum basket cell
-----------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cerebellumBasketCell
-   :definition: An inhibitory GABAergic interneurons of the cerebellum, enmeshing the cell body of another neuron with its terminal axon ramifications.
-   :description: \-
-   :synonyms: cerebellar basket cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao666951243
-   :InterLex ID: http://uri.interlex.org/base/ilx_0101964
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:666951243#cerebellum-basket-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cerebellum Golgi cell
----------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cerebellumGolgiCell
-   :definition: An inhibitory interneuron found within the granular layer of the cerebellum.
-   :description: \-
-   :synonyms: cerebellar Golgi cell, cerebellar Golgi neuron, cerebellum Golgi neuron, Golgi cell, Golgi neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao1415726815
-   :InterLex ID: http://uri.interlex.org/base/ilx_0101966
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:129#golgi-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cerebellum granule cell
------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cerebellumGranuleCell
-   :definition: 'Cerebellum granule cells' form the thick granular layer of the cerebellar cortex and typically have small cell bodies but varying functions.
-   :description: \-
-   :synonyms: cerebellar granule cell, cerebellar granule neuron, cerebellum granule neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nifext_128
-   :InterLex ID: http://uri.interlex.org/ilx_0101967
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:128#cerebellum-granule-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cerebellum stellate neuron
---------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cerebellumStellateNeuron
-   :definition: Any cerebellar neuron that has a star-like shape formed by dendritic processes radiating from the cell body.
-   :description: \-
-   :synonyms: cerebellar stellate cell, cerebellar stellate neuron, cerebellum stellate cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nifext_130
-   :InterLex ID: http://uri.interlex.org/ilx_0101975
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:130#cerebellum-stellate-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cholecystokinin expressing neuron
----------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingNeuron
-   :definition: Any neuron that expresses cholecystokinin.
-   :description: \-
-   :synonyms: CCK+ cell, CCK+ neuron, CCK-positive cell, CCK-positive neuron, cholecystokinin expressing cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-choline acetyltransferase expressing neuron
--------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressingNeuron
-   :definition: Any neuron that expresses choline acetyltransferase.
-   :description: \-
-   :synonyms: ChAT+ cell, ChAT+ neuron, ChAT-expressing cell, ChAT-expressing neuron, ChAT-positive cell, ChAT-positive neuron, choline acetyltransferase expressing cell, choline acetyltransferase-positive cell, choline acetyltransferase-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cholinergic interneuron
------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cholinergicInterneuron
-   :definition: An inhibitory interneuron which mainly uses the neurotrasmitter acetylcholine (ACh).
-   :description: \-
-   :synonyms: CIN
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cholinergic neuron
-------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/cholinergicNeuron
-   :definition: Any neuron that releases some acetylcholine as a neurotransmitter
-   :description: \-
-   :synonyms: ACh neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_148005
-   :InterLex ID: http://uri.interlex.org/ilx_0102131
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXNEURNT:090802#cholinergic-neuron
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cortical basket cell
---------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/corticalBasketCell
-   :definition: An inhibitory GABAergic interneurons of the cortex, enmeshing the cell body of another neuron with its terminal axon ramifications.
-   :description: \-
-   :synonyms: basket cell, cortical basket neuron, neocortex basket cell, neocortical basket cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nifext_56
-   :InterLex ID: http://uri.interlex.org/base/ilx_0107351
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:56#neocortex-basket-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-cortical interneuron
---------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/corticalInterneuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-dopaminergic neuron
--------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/dopaminergicNeuron
-   :definition: Any neuron that releases some dopamine as a neurotransmitter
-   :description: \-
-   :synonyms: DA neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_147835
-   :InterLex ID: http://uri.interlex.org/ilx_0103395
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-excitatory neuron
------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/excitatoryNeuron
-   :definition: An 'excitatory neuron' releases neurotransmitters (e.g. glutamate) that have a deperpolarizing effect on the post-synaptic neuron, facilitating the generation of an action potential.
-   :description: \-
-   :synonyms: excitatory cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-fast spiking interneuron
-------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/fastSpikingInterneuron
-   :definition: A parvalbumin positive GABAergic interneuron with a high-frequency firing pattern.
-   :description: \-
-   :synonyms: FSI
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-glial cell
+basketCell
 ----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/glialCell
-   :definition: A 'glial cell' is a non-neuronal cell of the nervous system. Glial cells provide physical support, respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.
-   :description: \-
-   :synonyms: neuroglial cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/base/ilx_0104634
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/basketCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory GABAergic interneurons of the brain, enmeshing the cell body of another neuron with its terminal axon ramifications.
+   :name: basket cell
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-granule neuron
---------------
+calbindinExpressingNeuron
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/granuleNeuron
-   :definition: The term 'granule neuron' refers to a set of neuron types typically found in granular layers across brain regions whose only common feature is that they all have very small cell bodies [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Granule_cell)].
-   :description: \-
-   :synonyms: granule cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/calbindinExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses calbindin.
+   :name: calbindin expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-hippocampus CA1 pyramidal neuron
---------------------------------
+calretininExpressingNeuron
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/hippocampusCA1PyramidalNeuron
-   :definition: An excitatory neuron type with a pyramidal-shaped cell body that is located in the cornu ammonis 1 (CA1) of the hippocampus.
-   :description: \-
-   :synonyms: CA1 pyramidal neuron, cornu ammonis 1 pyramidal neuron, hippocampal CA1 pyramidal cell, hippocampus CA1 pyramidal cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao830368389
-   :InterLex ID: http://uri.interlex.org/base/ilx_0105031
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell
+   :@id: https://openminds.ebrains.eu/instances/cellType/calretininExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses calretinin.
+   :name: calretinin expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-inhibitory neuron
+cerebellarInterneuron
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cerebellarInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: cerebellar interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cerebellumBasketCell
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumBasketCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory GABAergic interneurons of the cerebellum, enmeshing the cell body of another neuron with its terminal axon ramifications.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101964
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:666951243#cerebellum-basket-cell
+   :name: cerebellum basket cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao666951243
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cerebellumGolgiCell
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumGolgiCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory interneuron found within the granular layer of the cerebellum.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101966
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:129#golgi-cell
+   :name: cerebellum Golgi cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1415726815
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cerebellumGranuleCell
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumGranuleCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: 'Cerebellum granule cells' form the thick granular layer of the cerebellar cortex and typically have small cell bodies but varying functions.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0101967
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:128#cerebellum-granule-cell
+   :name: cerebellum granule cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_128
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cerebellumStellateNeuron
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumStellateNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any cerebellar neuron that has a star-like shape formed by dendritic processes radiating from the cell body.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0101975
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:130#cerebellum-stellate-cell
+   :name: cerebellum stellate neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_130
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cholecystokininExpressingNeuron
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses cholecystokinin.
+   :name: cholecystokinin expressing neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cholineAcetyltransferaseExpressingNeuron
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses choline acetyltransferase.
+   :name: choline acetyltransferase expressing neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cholinergicInterneuron
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/cholinergicInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory interneuron which mainly uses the neurotrasmitter acetylcholine (ACh).
+   :name: cholinergic interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+cholinergicNeuron
 -----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/inhibitoryNeuron
-   :definition: An 'inhibitory neuron' releases neurotransmitters (e.g. GABA) that have a hyperpolarizing effect on the post-synaptic neuron, making it difficult to generate an action potential.
-   :description: \-
-   :synonyms: inhibitory cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/cholinergicNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that releases some acetylcholine as a neurotransmitter
+   :interlexIdentifier: http://uri.interlex.org/ilx_0102131
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXNEURNT:090802#cholinergic-neuron
+   :name: cholinergic neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_148005
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
+
+------------
+
+corticalBasketCell
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/corticalBasketCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory GABAergic interneurons of the cortex, enmeshing the cell body of another neuron with its terminal axon ramifications.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107351
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:56#neocortex-basket-cell
+   :name: cortical basket cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_56
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+corticalInterneuron
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/corticalInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: cortical interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+dopaminergicNeuron
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/dopaminergicNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that releases some dopamine as a neurotransmitter
+   :interlexIdentifier: http://uri.interlex.org/ilx_0103395
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXNEURNT:090806#dopaminergic-neuron
+   :name: dopaminergic neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_147835
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+excitatoryNeuron
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/excitatoryNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An 'excitatory neuron' releases neurotransmitters (e.g. glutamate) that have a deperpolarizing effect on the post-synaptic neuron, facilitating the generation of an action potential.
+   :name: excitatory neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+fastSpikingInterneuron
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/fastSpikingInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A parvalbumin positive GABAergic interneuron with a high-frequency firing pattern.
+   :name: fast spiking interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+glialCell
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/glialCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A 'glial cell' is a non-neuronal cell of the nervous system. Glial cells provide physical support, respond to injury, regulate the ionic and chemical composition of the extracellular milieu, guide neuronal migration during development, and exchange metabolites with neurons.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104634
+   :name: glial cell
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+granuleNeuron
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/granuleNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: The term 'granule neuron' refers to a set of neuron types typically found in granular layers across brain regions whose only common feature is that they all have very small cell bodies [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Granule_cell)].
+   :name: granule neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+hippocampusCA1PyramidalNeuron
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/hippocampusCA1PyramidalNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An excitatory neuron type with a pyramidal-shaped cell body that is located in the cornu ammonis 1 (CA1) of the hippocampus.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105031
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:830368389#hippocampus-ca1-pyramidal-cell
+   :name: hippocampus CA1 pyramidal neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao830368389
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+inhibitoryNeuron
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/inhibitoryNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An 'inhibitory neuron' releases neurotransmitters (e.g. GABA) that have a hyperpolarizing effect on the post-synaptic neuron, making it difficult to generate an action potential.
+   :name: inhibitory neuron
+
+`BACK TO TOP <CellType_>`_
 
 ------------
 
@@ -481,160 +403,136 @@ interneuron
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/interneuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/interneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: An 'interneuron' is neuron that cannot be classified as sensory receptor or motor neuron.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: interneuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-macroglial cell
----------------
+macroglialCell
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/macroglialCell
+   :@id: https://openminds.ebrains.eu/instances/cellType/macroglialCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: 'Macroglial cells' are large glial cells in the central nervous system.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/base/ilx_0106438
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106438
+   :name: macroglial cell
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-microglial cell
----------------
+microglialCell
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/microglialCell
+   :@id: https://openminds.ebrains.eu/instances/cellType/microglialCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: 'Microglial cells' are small, migratory, phagocytic, interstitial glial cells in the central nervous system.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/base/ilx_0106919
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106919
+   :name: microglial cell
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-motor neuron
-------------
+motorNeuron
+-----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/motorNeuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/motorNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: motor neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-neocortex layer 2/3 pyramidal neuron
+neocortexLayer2-3PyramidalNeuron
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/neocortexLayer2-3PyramidalNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An excitatory neuron type with a pyramidal-shaped cell body that is located in layer 2/3 of the neocortex.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107387
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:49#neocortex-pyramidal-cell-layer-2-3
+   :name: neocortex layer 2/3 pyramidal neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_49
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+neocortexLayer5TuftedPyramidalNeuron
 ------------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neocortexLayer2-3PyramidalNeuron
-   :definition: An excitatory neuron type with a pyramidal-shaped cell body that is located in layer 2/3 of the neocortex.
-   :description: \-
-   :synonyms: layer 2/3 pyramidal cell, layer 2/3 pyramidal neuron, neocortex layer 2/3 pyramidal neuron, neocortex pyramidal layer 2/3 cell, superficial pyramidal neuron, supericial pyramidal cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nifext_49
-   :InterLex ID: http://uri.interlex.org/base/ilx_0107387
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NIFEXT:49#neocortex-pyramidal-cell-layer-2-3
+   :@id: https://openminds.ebrains.eu/instances/cellType/neocortexLayer5TuftedPyramidalNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An excitatory neuron type with a pyramidal-shaped cell body found in layer 5 of the neocortex and projects to subcortical areas.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0738209
+   :name: neocortex layer 5 tufted pyramidal neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-neocortex layer 5 tufted pyramidal neuron
------------------------------------------
+neostriatumCholinergicInterneuron
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neocortexLayer5TuftedPyramidalNeuron
-   :definition: An excitatory neuron type with a pyramidal-shaped cell body found in layer 5 of the neocortex and projects to subcortical areas.
-   :description: \-
-   :synonyms: L5 TPC, L5 tufted pyramidal cell, layer 5 tufted pyramidal cell, layer 5 tufted pyramidal neuron, TL5 neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/ilx_0738209
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumCholinergicInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An inhibitory interneuron in the caudate nucleus and putamen which mainly uses the neurotrasmitter acetylcholine (ACh).
+   :interlexIdentifier: http://uri.interlex.org/ilx_0107403
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell
+   :name: neostriatum cholinergic interneuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1866881837
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-neostriatum cholinergic interneuron
+neostriatumDirectPathwaySpinyNeuron
 -----------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neostriatumCholinergicInterneuron
-   :definition: An inhibitory interneuron in the caudate nucleus and putamen which mainly uses the neurotrasmitter acetylcholine (ACh).
-   :description: \-
-   :synonyms: cholinergic striatal neuron, CIN, giant cholinergic interneuron, large striatal aspiny neuron, neostriatial cholinergic interneuron, neostriatum cholinergic cell, neostriatum giant cell of Kolliker, striatal cholinergic interneuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao1866881837
-   :InterLex ID: http://uri.interlex.org/ilx_0107403
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-neostriatum direct pathway spiny neuron
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neostriatumDirectPathwaySpinyNeuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumDirectPathwaySpinyNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: The principal projection neuron of the caudate and putamen that excite their output structure.
-   :description: \-
-   :synonyms: direct pathway medium spiny neuron, direct pathway medium-sized spiny neuron, dMSN, neostriatial direct pathway spiny neuron, striatal direct pathway spiny neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_149135
-   :InterLex ID: http://uri.interlex.org/ilx_0107404
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/ilx_0107404
+   :name: neostriatum direct pathway spiny neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_149135
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-neostriatum indirect pathway spiny neuron
------------------------------------------
+neostriatumIndirectPathwaySpinyNeuron
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neostriatumIndirectPathwaySpinyNeuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumIndirectPathwaySpinyNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: The principal projection neuron of the caudate and putamen that inhibit their output structure.
-   :description: \-
-   :synonyms: iMSN, indirect pathway medium spiny neuron, indirect pathway medium-sized spiny neuron, neostriatial indirect pathway spiny neuron, striatal indirect pathway spiny neuron
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_149136
-   :InterLex ID: http://uri.interlex.org/ilx_0107405
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/ilx_0107405
+   :name: neostriatum indirect pathway spiny neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_149136
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
@@ -643,304 +541,242 @@ neuron
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neuron
+   :@id: https://openminds.ebrains.eu/instances/cellType/neuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
    :definition: A 'neuron' is a basic cellular unit of nervous tissue which can receive, conduct, and transmit electrical impulses.
-   :description: \-
-   :synonyms: nerve cell, neurone
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: http://uri.interlex.org/base/ilx_0107497
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107497
+   :name: neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-neuropeptide Y expressing neuron
---------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/neuropeptideYExpressingNeuron
-   :definition: Any neuron that expresses neuropeptide Y.
-   :description: \-
-   :synonyms: neuropeptide Y expressing cell, neuropeptide Y-positive cell, neuropeptide Y-positive neuron, NPY+ cell, NPY+ neuron, NPY-expressing cell, NPY-expressing neuron, NPY-positive cell, NPY-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-nitric oxide synthase expressing neuron
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/nitricOxideSynthaseExpressingNeuron
-   :definition: Any neuron that expresses nitric oxide synthase.
-   :description: \-
-   :synonyms: nitric oxide synthase expressing cell, nitric oxide synthase-positive cell, nitric oxide synthase-positive neuron, NOS+ cell, NOS+ neuron, NOS-expressing cell, NOS-expressing neuron, NOS-positive cell, NOS-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-parvalbumin expressing neuron
+neuropeptideYExpressingNeuron
 -----------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/parvalbuminExpressingNeuron
-   :definition: Any neuron that expresses parvalbumin.
-   :description: \-
-   :synonyms: parvalbumin expressing cell, PV+ cell, PV+ neuron, PV-positive cell, PV-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/neuropeptideYExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses neuropeptide Y.
+   :name: neuropeptide Y expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-postmitotic cell
-----------------
+nitricOxideSynthaseExpressingNeuron
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/postmitoticCell
-   :definition: A 'postmitotic cell' is a fully differentiated, non-dividing mature cell that no longer undergoes mitosis.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/nitricOxideSynthaseExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses nitric oxide synthase.
+   :name: nitric oxide synthase expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-progenitor cell
----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/progenitorCell
-   :definition: A 'progenitor cell' is a descendent of a stem cell that further differentiate to create specialized cell types.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-pyramidal neuron
-----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/pyramidalNeuron
-   :definition: A 'pyramidal neuron' is a type of multipolar neuron that is characterized by a pyramidal shaped cell body (soma) and two distinct dendritic trees.
-   :description: \-
-   :synonyms: pyramidal cell
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-sensory neuron
---------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/sensoryNeuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-somatostatin expressing neuron
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/somatostatinExpressingNeuron
-   :definition: Any neuron that expresses somatostatin.
-   :description: \-
-   :synonyms: somatostatin expressing cell, somatostatin positive cell, somatostatin positive neuron, SST+ cell, SST+ neuron, SST-positive cell, SST-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-spinal interneuron
-------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/spinalInterneuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-spiny neuron
-------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/spinyNeuron
-   :definition: Any neuron characterized by a high density of dendritic spines on the dendrites.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/nlx_100601
-   :InterLex ID: \-
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/NLXCELL:100601#spiny-neuron
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-stellate neuron
----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/stellateNeuron
-   :definition: Any neuron in the central nervous system that has a star-like shape formed by dendritic processes radiating from the cell body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-striatal interneuron
---------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/striatalInterneuron
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-striatum medium spiny neuron
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/striatumMediumSpinyNeuron
-   :definition: A special type of GABAergic neuron with large dendritic trees that is located in the striatum.
-   :description: \-
-   :synonyms: MSN, spiny projection neuron, SPN, striatal medium spiny neuron
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/npo/uris/neurons/35
-   :InterLex ID: http://uri.interlex.org/ilx_0784362
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-vascular endothelial cell
--------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/vascularEndothelialCell
-   :definition: Cells that constitute the inner cellular lining of arteries, veins and capillaries.
-   :description: \-
-   :synonyms: endothelial cell
-   ------------
-   :preferred ontology ID: http://uri.neuinfo.org/nif/nifstd/sao1543450574
-   :InterLex ID: http://uri.interlex.org/ilx_0112265
-   :KnowledgeSpace entry: https://knowledge-space.org/wiki/SAO:1543450574#vascular-endothelial-cell
-
-`BACK TO TOP <cellType_>`_
-
-------------
-
-vascular smooth muscle cell
+parvalbuminExpressingNeuron
 ---------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/vascularSmoothMuscleCell
-   :definition: A smooth muscle cell assocatiated with the vasculature.
-   :description: \-
-   :synonyms: vascular associated smooth muscle cell, VSMC
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/CL_0000359
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/parvalbuminExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses parvalbumin.
+   :name: parvalbumin expressing neuron
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
 
 ------------
 
-vasoactive-intestinal peptide expressing neuron
------------------------------------------------
+postmitoticCell
+---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpressingNeuron
-   :definition: Any neuron that expresses vasoactive-intestinal peptide.
-   :description: \-
-   :synonyms: vasoactive-intestinal peptide expressing cell, VIP+ cell, VIP+ neuron, VIP-positive cell, VIP-positive neuron
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/cellType/postmitoticCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A 'postmitotic cell' is a fully differentiated, non-dividing mature cell that no longer undergoes mitosis.
+   :name: postmitotic cell
 
-`BACK TO TOP <cellType_>`_
+`BACK TO TOP <CellType_>`_
+
+------------
+
+progenitorCell
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/progenitorCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A 'progenitor cell' is a descendent of a stem cell that further differentiate to create specialized cell types.
+   :name: progenitor cell
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+pyramidalNeuron
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/pyramidalNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A 'pyramidal neuron' is a type of multipolar neuron that is characterized by a pyramidal shaped cell body (soma) and two distinct dendritic trees.
+   :name: pyramidal neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+sensoryNeuron
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/sensoryNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: sensory neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+somatostatinExpressingNeuron
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/somatostatinExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses somatostatin.
+   :name: somatostatin expressing neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+spinalInterneuron
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/spinalInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: spinal interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+spinyNeuron
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/spinyNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron characterized by a high density of dendritic spines on the dendrites.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXCELL:100601#spiny-neuron
+   :name: spiny neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_100601
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+stellateNeuron
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/stellateNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron in the central nervous system that has a star-like shape formed by dendritic processes radiating from the cell body.
+   :name: stellate neuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+striatalInterneuron
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/striatalInterneuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :name: striatal interneuron
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+striatumMediumSpinyNeuron
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/striatumMediumSpinyNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A special type of GABAergic neuron with large dendritic trees that is located in the striatum.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0784362
+   :name: striatum medium spiny neuron
+   :preferredOntologyIdentifier: http://uri.interlex.org/npo/uris/neurons/35
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+vascularEndothelialCell
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/vascularEndothelialCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Cells that constitute the inner cellular lining of arteries, veins and capillaries.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0112265
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1543450574#vascular-endothelial-cell
+   :name: vascular endothelial cell
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1543450574
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+vascularSmoothMuscleCell
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/vascularSmoothMuscleCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A smooth muscle cell assocatiated with the vasculature.
+   :name: vascular smooth muscle cell
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CL_0000359
+
+`BACK TO TOP <CellType_>`_
+
+------------
+
+vasoactiveIntestinalPeptideExpressingNeuron
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpressingNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Any neuron that expresses vasoactive-intestinal peptide.
+   :name: vasoactive-intestinal peptide expressing neuron
+
+`BACK TO TOP <CellType_>`_
 
 ------------
 

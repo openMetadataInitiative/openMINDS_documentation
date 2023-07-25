@@ -2,7 +2,7 @@
 ActionStatusType
 ################
 
-All instances listed below can be validated against the `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/actionStatusType.html>`_ schema specification.
+Related schema specification: `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/actionStatusType.html>`
 
 ------------
 
@@ -13,16 +13,13 @@ active
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/active
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/active
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: An in-progress action.
-   :description: \-
-   :synonyms: active action status, active action
-   ------------
-   :preferred ontology ID: https://schema.org/ActiveActionStatus
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: active
+   :preferredOntologyIdentifier: https://schema.org/ActiveActionStatus
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -31,16 +28,13 @@ completed
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/completed
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/completed
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: An action that has already taken place with a successful outcome.
-   :description: \-
-   :synonyms: completed action status, completed action, finished successfully
-   ------------
-   :preferred ontology ID: https://schema.org/CompletedActionStatus
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: completed
+   :preferredOntologyIdentifier: https://schema.org/CompletedActionStatus
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -49,16 +43,13 @@ failed
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/failed
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/failed
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: An action that failed to complete or completed but produced an error.
-   :description: \-
-   :synonyms: failed action status, failed action, finished unsuccessfully, error
-   ------------
-   :preferred ontology ID: https://schema.org/FailedActionStatus
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: failed
+   :preferredOntologyIdentifier: https://schema.org/FailedActionStatus
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -67,16 +58,12 @@ inactive
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/inactive
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/inactive
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: A pending or suspended action.
-   :description: \-
-   :synonyms: inactive action status, inactive action
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: inactive
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -85,16 +72,12 @@ paused
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/paused
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/paused
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: A temporarily stopped action that can be resumed at a later point in time.
-   :description: \-
-   :synonyms: paused action type, paused action, suspended
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: paused
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -103,16 +86,12 @@ pending
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/pending
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/pending
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: An action which is awaiting execution.
-   :description: \-
-   :synonyms: queued, pending action type, pending action
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: pending
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 
@@ -121,16 +100,13 @@ potential
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/actionStatusType/potential
+   :@id: https://openminds.ebrains.eu/instances/actionStatusType/potential
+   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
    :definition: A description of an action that is supported.
-   :description: \-
-   :synonyms: potential action type, potential action
-   ------------
-   :preferred ontology ID: https://schema.org/PotentialActionStatus
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: potential
+   :preferredOntologyIdentifier: https://schema.org/PotentialActionStatus
 
-`BACK TO TOP <actionStatusType_>`_
+`BACK TO TOP <ActionStatusType_>`_
 
 ------------
 

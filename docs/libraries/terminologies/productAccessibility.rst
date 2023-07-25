@@ -2,81 +2,65 @@
 ProductAccessibility
 ####################
 
-All instances listed below can be validated against the `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`_ schema specification.
+Related schema specification: `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/productAccessibility.html>`
 
 ------------
 
 ------------
 
-controlled access
------------------
+controlledAccess
+----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
    :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: controlled access
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
-free access
------------
+freeAccess
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
    :definition: With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: free access
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
-restricted access
------------------
+restrictedAccess
+----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
    :definition: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: restricted access
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
-under embargo
--------------
+underEmbargo
+------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
    :definition: With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: under embargo
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 

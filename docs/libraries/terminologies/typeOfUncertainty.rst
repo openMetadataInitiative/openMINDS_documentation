@@ -2,45 +2,35 @@
 TypeOfUncertainty
 #################
 
-All instances listed below can be validated against the `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/typeOfUncertainty.html>`_ schema specification.
+Related schema specification: `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/typeOfUncertainty.html>`
 
 ------------
 
 ------------
 
-standard deviation
-------------------
+standardDeviation
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
+   :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
+   :name: standard deviation
 
-`BACK TO TOP <typeOfUncertainty_>`_
+`BACK TO TOP <TypeOfUncertainty_>`_
 
 ------------
 
-standard error
---------------
+standardError
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
+   :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
+   :name: standard error
 
-`BACK TO TOP <typeOfUncertainty_>`_
+`BACK TO TOP <TypeOfUncertainty_>`_
 
 ------------
 

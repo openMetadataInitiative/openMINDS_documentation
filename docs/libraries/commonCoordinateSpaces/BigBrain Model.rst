@@ -2,18 +2,19 @@
 BigBrain Model
 ##############
 
+Related schema specification: `BigBrain Model <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
-   :full name: BigBrain Whole-Brain Model
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: BigBrain
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: https://bigbrainproject.org/
-   :how to cite: \-
    :description: The 'BigBrain Whole-Brain Model' is a 3D reconstruction of a human brain in extremely high resolution.
-   :has versions: | `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
+   :fullName: BigBrain Whole-Brain Model
+   :hasVersion: | `2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/BigBrain%20Model.html#version-2015>`_
+   :homepage: https://bigbrainproject.org/
+   :shortName: BigBrain Model
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
 
 ------------
 
@@ -22,16 +23,15 @@ BigBrain Model
 version 2015
 ############
 
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
-   :digital ID: \-
-   :ontology ID: \-
-   :how to cite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :release date: 2013-06-21
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
-   :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :abbreviation: BigBrain
+   :fullName: BigBrain Whole-Brain Model
+   :homepage: https://bigbrainproject.org/
+   :releaseDate: 2013-06-21
+   :shortName: BigBrain Model
+   :versionIdentifier: 2015
+   :versionInnovation: The 'BigBrain Whole-Brain Model' (2015) is an ultrahigh-resolution three-dimensional (3D) model of a brain from a male human subject, deceased at the age of 65 years, at nearly cellular resolution of 20 micrometers. The model is based on a full 3D reconstruction from digital scans of 7404 histological coronal sections, which were stained for cell bodies.
 
 `BACK TO TOP <BigBrain Model_>`_
 

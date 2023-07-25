@@ -2,14 +2,45 @@
 Automated Segmentation Atlas
 ############################
 
+Related schema specification: `Automated Segmentation Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/AsegAtlas
-   :full name: Automated Segmentation Atlas of the Human Brain
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/AsegAtlas
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: Aseg Atlas
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: \-
    :description: The Automated Segmentation Atlas of the Human Brain is an automated whole brain segmentation that is based on probablistic information on the location of structures of a manual labeled training set (cf., [Fischl et al., 2002](https://doi.org/10.1016/S0896-6273(02)00569-X)).
-   :how to cite: \-
+   :fullName: Automated Segmentation Atlas of the Human Brain
+   :hasTerminology: (see below)
+   :shortName: Automated Segmentation Atlas
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
+
+Terminology
+###########
+
+* cerebral white matter
+* cerebral cortex
+* lateral ventricle
+* inferior lateral ventricle
+* cerebellum white matter
+* cerebellum cortex
+* thalamus
+* caudate
+* putamen
+* pallidum
+* hippocampus
+* amygdala
+* lesion
+* accumbens area
+* ventral diencephalon
+* vessel
+* third ventricle
+* fourth ventricle
+* brain stem
+* cerebrospinal fluid
+* unknown
+
+------------
+
+------------
+

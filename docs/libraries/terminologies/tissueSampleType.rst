@@ -2,45 +2,39 @@
 TissueSampleType
 ################
 
-All instances listed below can be validated against the `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleType.html>`_ schema specification.
+Related schema specification: `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tissueSampleType.html>`
 
 ------------
 
 ------------
 
-biopsy sample
+biopsySample
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/biopsySample
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: Typically very small sample of tissue that was excised from a living or deceased multicellular organism body.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0782394
+   :name: biopsy sample
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0002650
+
+`BACK TO TOP <TissueSampleType_>`_
+
+------------
+
+fluidSpecimen
 -------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/biopsySample
-   :definition: Typically very small sample of tissue that was excised from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/OBI_0002650
-   :InterLex ID: http://uri.interlex.org/ilx_0782394
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <tissueSampleType_>`_
-
-------------
-
-fluid specimen
---------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/fluidSpecimen
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/fluidSpecimen
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
    :definition: A fluid sample either taken directly from a living or deceased multicellular organism body (i.e. body fluids) or produced in a laboratory.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: fluid specimen
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 
@@ -49,52 +43,40 @@ hemisphere
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/hemisphere
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/hemisphere
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
    :definition: One of the symmetric halves excised from a bilateral organ tissue sample (e.g., a brain) from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: hemisphere
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 
-heterogeneous cell population
------------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/heterogeneousCellPopulation
-   :definition: A sample of multiple cells/a population of cells that are of two or more different cell types.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <tissueSampleType_>`_
-
-------------
-
-homogeneous cell population
+heterogeneousCellPopulation
 ---------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulation
-   :definition: A sample of multiple cells/a population of cells that are of the same cell type.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/heterogeneousCellPopulation
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: A sample of multiple cells/a population of cells that are of two or more different cell types.
+   :name: heterogeneous cell population
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
+
+------------
+
+homogeneousCellPopulation
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulation
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: A sample of multiple cells/a population of cells that are of the same cell type.
+   :name: homogeneous cell population
+
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 
@@ -103,88 +85,68 @@ nerve
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/nerve
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/nerve
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
    :definition: A nerve sample (i.e. a whole nerve or a part of a nerve) from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: nerve
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 
-single cell
------------
+singleCell
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/singleCell
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/singleCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
    :definition: A single cell sample from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: single cell
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 
-tissue block
-------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/tissueBlock
-   :definition: A cube-like sample of tissue that was excised from a larger tissue sample (e.g., a whole organ) from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <tissueSampleType_>`_
-
-------------
-
-tissue slice
-------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice
-   :definition: A thin and often flat sample of tissue that was excised from a larger tissue sample (e.g., a tissue block or a whole organ) from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <tissueSampleType_>`_
-
-------------
-
-whole organ
+tissueBlock
 -----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan
-   :definition: A whole organ sample from a living or deceased multicellular organism body.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/tissueBlock
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: A cube-like sample of tissue that was excised from a larger tissue sample (e.g., a whole organ) from a living or deceased multicellular organism body.
+   :name: tissue block
 
-`BACK TO TOP <tissueSampleType_>`_
+`BACK TO TOP <TissueSampleType_>`_
+
+------------
+
+tissueSlice
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: A thin and often flat sample of tissue that was excised from a larger tissue sample (e.g., a tissue block or a whole organ) from a living or deceased multicellular organism body.
+   :name: tissue slice
+
+`BACK TO TOP <TissueSampleType_>`_
+
+------------
+
+wholeOrgan
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan
+   :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
+   :definition: A whole organ sample from a living or deceased multicellular organism body.
+   :name: whole organ
+
+`BACK TO TOP <TissueSampleType_>`_
 
 ------------
 

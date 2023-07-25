@@ -2,81 +2,61 @@
 SemanticDataType
 ################
 
-All instances listed below can be validated against the `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/semanticDataType.html>`_ schema specification.
+Related schema specification: `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/semanticDataType.html>`
 
 ------------
 
 ------------
 
-derived data
-------------
+derivedData
+-----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/derivedData
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/semanticDataType/derivedData
+   :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
+   :name: derived data
 
-`BACK TO TOP <semanticDataType_>`_
+`BACK TO TOP <SemanticDataType_>`_
 
 ------------
 
-experimental data
------------------
+experimentalData
+----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
+   :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
+   :name: experimental data
 
-`BACK TO TOP <semanticDataType_>`_
+`BACK TO TOP <SemanticDataType_>`_
 
 ------------
 
-raw data
---------
+rawData
+-------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/rawData
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/semanticDataType/rawData
+   :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
+   :name: raw data
 
-`BACK TO TOP <semanticDataType_>`_
+`BACK TO TOP <SemanticDataType_>`_
 
 ------------
 
-simulated data
---------------
+simulatedData
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
+   :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
+   :name: simulated data
 
-`BACK TO TOP <semanticDataType_>`_
+`BACK TO TOP <SemanticDataType_>`_
 
 ------------
 

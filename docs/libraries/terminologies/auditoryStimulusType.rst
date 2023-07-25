@@ -2,27 +2,23 @@
 AuditoryStimulusType
 ####################
 
-All instances listed below can be validated against the `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`_ schema specification.
+Related schema specification: `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`
 
 ------------
 
 ------------
 
-real spoken word
-----------------
+realSpokenWord
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/auditoryStimulusType/realSpokenWord
+   :@id: https://openminds.ebrains.eu/instances/auditoryStimulusType/realSpokenWord
+   :@type: https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType
    :definition: A speech sound or series of speech sounds that symbolizes and communicates a meaning (usually) without being divisible into smaller units capable of independent use. [adapted from [Merriam-Webster](https://www.merriam-webster.com/dictionary/word)]
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: real spoken word
 
-`BACK TO TOP <auditoryStimulusType_>`_
+`BACK TO TOP <AuditoryStimulusType_>`_
 
 ------------
 

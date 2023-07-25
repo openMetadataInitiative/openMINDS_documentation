@@ -2,7 +2,7 @@
 CriteriaQualityType
 ###################
 
-All instances listed below can be validated against the `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/criteriaQualityType.html>`_ schema specification.
+Related schema specification: `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/criteriaQualityType.html>`
 
 ------------
 
@@ -13,16 +13,12 @@ asserted
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
+   :@id: https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
+   :@type: https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType
    :definition: If a criteria is 'asserted' it is based on an opinion or claim, usually made by an expert.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: asserted
 
-`BACK TO TOP <criteriaQualityType_>`_
+`BACK TO TOP <CriteriaQualityType_>`_
 
 ------------
 
@@ -31,16 +27,12 @@ processive
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/criteriaQualityType/processive
+   :@id: https://openminds.ebrains.eu/instances/criteriaQualityType/processive
+   :@type: https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType
    :definition: If a criteria is 'processive' it is based on a repeatable and often automated process.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: processive
 
-`BACK TO TOP <criteriaQualityType_>`_
+`BACK TO TOP <CriteriaQualityType_>`_
 
 ------------
 

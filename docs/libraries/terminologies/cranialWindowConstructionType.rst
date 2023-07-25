@@ -2,63 +2,51 @@
 CranialWindowConstructionType
 #############################
 
-All instances listed below can be validated against the `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowConstructionType.html>`_ schema specification.
+Related schema specification: `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowConstructionType.html>`
 
 ------------
 
 ------------
 
-cleared skull cranial window
-----------------------------
+clearedSkullCranialWindow
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow
+   :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow
+   :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
    :definition: A cranial window that is constructed by clearing a small region of the skull.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: cleared skull cranial window
 
-`BACK TO TOP <cranialWindowConstructionType_>`_
+`BACK TO TOP <CranialWindowConstructionType_>`_
 
 ------------
 
-thinned skull cranial window
-----------------------------
+thinnedSkullCranialWindow
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow
+   :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow
+   :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
    :definition: A cranial window that is constructed by thinning a small region of the skull.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: thinned skull cranial window
 
-`BACK TO TOP <cranialWindowConstructionType_>`_
+`BACK TO TOP <CranialWindowConstructionType_>`_
 
 ------------
 
-transcranial window
--------------------
+transcranialWindow
+------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow
+   :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow
+   :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
    :definition: A cranial window that is constructed by removal of a small region of the skull.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: transcranial window
 
-`BACK TO TOP <cranialWindowConstructionType_>`_
+`BACK TO TOP <CranialWindowConstructionType_>`_
 
 ------------
 

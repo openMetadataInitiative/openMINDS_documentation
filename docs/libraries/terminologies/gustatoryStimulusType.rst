@@ -2,81 +2,65 @@
 GustatoryStimulusType
 #####################
 
-All instances listed below can be validated against the `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`_ schema specification.
+Related schema specification: `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`
 
 ------------
 
 ------------
 
-bitter substance
-----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
-   :definition: Any chemical compound that tastes bitter.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <gustatoryStimulusType_>`_
-
-------------
-
-salty substance
+bitterSubstance
 ---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
-   :definition: Any chemical compound that tastes salty.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
+   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :definition: Any chemical compound that tastes bitter.
+   :name: bitter substance
 
-`BACK TO TOP <gustatoryStimulusType_>`_
+`BACK TO TOP <GustatoryStimulusType_>`_
 
 ------------
 
-sour substance
+saltySubstance
 --------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
-   :definition: Any chemical compound that tastes sour.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
+   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :definition: Any chemical compound that tastes salty.
+   :name: salty substance
 
-`BACK TO TOP <gustatoryStimulusType_>`_
+`BACK TO TOP <GustatoryStimulusType_>`_
 
 ------------
 
-sweet substance
----------------
+sourSubstance
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
-   :definition: Any chemical compound that tastes sweet.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
+   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :definition: Any chemical compound that tastes sour.
+   :name: sour substance
 
-`BACK TO TOP <gustatoryStimulusType_>`_
+`BACK TO TOP <GustatoryStimulusType_>`_
+
+------------
+
+sweetSubstance
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
+   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :definition: Any chemical compound that tastes sweet.
+   :name: sweet substance
+
+`BACK TO TOP <GustatoryStimulusType_>`_
 
 ------------
 

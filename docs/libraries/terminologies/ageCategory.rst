@@ -2,7 +2,7 @@
 AgeCategory
 ###########
 
-All instances listed below can be validated against the `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ageCategory.html>`_ schema specification.
+Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/ageCategory.html>`
 
 ------------
 
@@ -13,16 +13,12 @@ adolescent
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/adolescent
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/adolescent
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.
-   :description: \-
-   :synonyms: puberty
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: adolescent
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -31,16 +27,14 @@ adult
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/adult
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/adult
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.
-   :description: \-
-   :synonyms: adult stage, post-juvenile adult, post-juvenile adult stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000113
-   :InterLex ID: http://uri.interlex.org/base/ilx_0729043
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0729043
+   :name: adult
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000113
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -49,16 +43,14 @@ embryo
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/embryo
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/embryo
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Embryo' categorizes the life cycle stage of an animal or human that starts with fertilitzation and ends with the fully formed embryo.
-   :description: \-
-   :synonyms: embryo stage, embryonic stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0000068
-   :InterLex ID: http://uri.interlex.org/base/ilx_0735599
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0735599
+   :name: embryo
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000068
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -67,16 +59,14 @@ infant
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/infant
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/infant
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.
-   :description: \-
-   :synonyms: infant stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034920
-   :InterLex ID: http://uri.interlex.org/base/ilx_0735063
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0735063
+   :name: infant
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034920
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -85,34 +75,30 @@ juvenile
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/juvenile
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/juvenile
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Juvenile' categorizes the life cycle stage of an animal or human that starts with the independence of the nest and/or caregivers and ends with sexual maturity.
-   :description: \-
-   :synonyms: juvenile stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0034919
-   :InterLex ID: http://uri.interlex.org/base/ilx_0730395
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0730395
+   :name: juvenile
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034919
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
-late adult
-----------
+lateAdult
+---------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.
-   :description: \-
-   :synonyms: elderly, elderly stage, geriatric, geriatric stage, late adult stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007222
-   :InterLex ID: http://uri.interlex.org/base/ilx_0725713
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0725713
+   :name: late adult
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007222
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -121,16 +107,14 @@ neonate
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/neonate
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/neonate
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.
-   :description: \-
-   :synonyms: neonatal stage, neonate stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0007221
-   :InterLex ID: http://uri.interlex.org/base/ilx_0732178
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0732178
+   :name: neonate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007221
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
@@ -139,52 +123,44 @@ perinatal
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/perinatal
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/perinatal
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.
-   :description: \-
-   :synonyms: perinatal stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0012101
-   :InterLex ID: http://uri.interlex.org/base/ilx_0724163
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0724163
+   :name: perinatal
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012101
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
-prime adult
------------
+primeAdult
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/primeAdult
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/primeAdult
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Prime adult' categorizes the life cycle stage of an animal or human that starts at the onset of sexual maturity or the cessation of growth, whichever comes last, and ends before senescence.
-   :description: \-
-   :synonyms: adulthood stage, prime adult stage
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UBERON_0018241
-   :InterLex ID: http://uri.interlex.org/base/ilx_0733125
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0733125
+   :name: prime adult
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018241
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 
-young adult
------------
+youngAdult
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
+   :@id: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
+   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
-   :description: \-
-   :synonyms: early adult, early adult stage, young adult stage
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: young adult
 
-`BACK TO TOP <ageCategory_>`_
+`BACK TO TOP <AgeCategory_>`_
 
 ------------
 

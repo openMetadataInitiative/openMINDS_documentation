@@ -2,7 +2,7 @@
 BiologicalSex
 #############
 
-All instances listed below can be validated against the `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_ schema specification.
+Related schema specification: `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`
 
 ------------
 
@@ -13,16 +13,15 @@ female
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalSex/female
+   :@id: https://openminds.ebrains.eu/instances/biologicalSex/female
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex that produces egg cells (ova).
    :description: A female organism typically has the capacity to produce relatively large, usually immobile gametes (reproductive cells), called egg cells (or ova). In the process of fertilization, an egg cell (ovum) fuses with a smaller, usually mobile male gametes, called sperm cells (or spermatozoa).
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/PATO_0000383
-   :InterLex ID: http://uri.interlex.org/base/ilx_0104150
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104150
+   :name: female
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0000383
 
-`BACK TO TOP <biologicalSex_>`_
+`BACK TO TOP <BiologicalSex_>`_
 
 ------------
 
@@ -31,16 +30,15 @@ hermaphrodite
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
+   :@id: https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex with both male and female reproductive organs.
    :description: A hermaphrodite is an animal or plant that can produce gametes (reproductive cells) of both, male and female sexes. In sexually dimorphic organisms, hermaphroditism may occur because of variations in the genetic code. The term *hermaphrodite* is considered to be misleading, stigmatizing, and scientifically specious in reference to humans. For this reason, in humans the term *intersex* is typically used.
-   :synonyms: intersex
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/PATO_0001340
-   :InterLex ID: http://uri.interlex.org/base/ilx_0104963
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104963
+   :name: hermaphrodite
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0001340
 
-`BACK TO TOP <biologicalSex_>`_
+`BACK TO TOP <BiologicalSex_>`_
 
 ------------
 
@@ -49,34 +47,29 @@ male
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalSex/male
+   :@id: https://openminds.ebrains.eu/instances/biologicalSex/male
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex that produces sperm cells (spermatozoa).
    :description: A male organism typically has the capacity to produce relatively small, usually mobile gametes (reproductive cells), called sperm cells (or spermatozoa). In the process of fertilization, these sperm cells fuse with a larger, usually immobile female gamete, called egg cell (or ovum).
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/PATO_0000384
-   :InterLex ID: http://uri.interlex.org/base/ilx_0106489
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106489
+   :name: male
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0000384
 
-`BACK TO TOP <biologicalSex_>`_
+`BACK TO TOP <BiologicalSex_>`_
 
 ------------
 
-not detectable
---------------
+notDetectable
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
+   :@id: https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Can be stated if the biological sex in visually not detectable at a specific point in time.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: not detectable
 
-`BACK TO TOP <biologicalSex_>`_
+`BACK TO TOP <BiologicalSex_>`_
 
 ------------
 

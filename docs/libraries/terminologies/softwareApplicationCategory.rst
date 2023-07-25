@@ -2,7 +2,7 @@
 SoftwareApplicationCategory
 ###########################
 
-All instances listed below can be validated against the `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`_ schema specification.
+Related schema specification: `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/softwareApplicationCategory.html>`
 
 ------------
 
@@ -13,16 +13,12 @@ application
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q166142
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: application
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q166142
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 
@@ -31,16 +27,12 @@ library
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q188860
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: library
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q188860
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 
@@ -49,16 +41,12 @@ middleware
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q146768
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: middleware
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q146768
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 
@@ -67,16 +55,12 @@ module
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q11883090
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: module
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q11883090
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 
@@ -85,16 +69,12 @@ notebook
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q28405706
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: notebook
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q28405706
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 
@@ -103,16 +83,12 @@ plugin
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: https://www.wikidata.org/wiki/Q184148
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+   :name: plugin
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q184148
 
-`BACK TO TOP <softwareApplicationCategory_>`_
+`BACK TO TOP <SoftwareApplicationCategory_>`_
 
 ------------
 

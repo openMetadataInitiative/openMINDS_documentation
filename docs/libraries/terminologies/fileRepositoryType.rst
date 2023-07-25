@@ -2,135 +2,107 @@
 FileRepositoryType
 ##################
 
-All instances listed below can be validated against the `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileRepositoryType.html>`_ schema specification.
+Related schema specification: `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileRepositoryType.html>`
 
 ------------
 
 ------------
 
-FTP repository
---------------
+ftp
+---
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/ftp
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/ftp
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: A 'FTP repository' is located on a server that uses the file transfer protocol (FTP), a standard internet communication protocol which allows the transfer of files between clients and a server.
-   :description: \-
-   :synonyms: file transfer protocol repository
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: FTP repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-Git repository
---------------
+git
+---
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/git
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/git
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: A Git repository offers version control and source code management functionalities.
-   :description: \-
-   :synonyms: Git repository, Git remote repository, remote Git repository, GitHub repository, GitLab repository
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Git repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-git-annex repository
---------------------
+gitAnnex
+--------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: git-annex allows managing large files with git, without storing the file contents in git.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: git-annex repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-GPFS repository
----------------
+gpfs
+----
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: GPFS, short for General Parallel File System is a high-performance clustered file system developed by IBM
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: GPFS repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-Amazon S3 repository
---------------------
+s3
+--
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/s3
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/s3
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: An S3 repository uses the cloud storage of the Amazon S3 service.
-   :description: \-
-   :synonyms: S3 repository, Amazon Simple Storage Service repository
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Amazon S3 repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-Seafile repository
-------------------
+seafile
+-------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/seafile
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/seafile
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: Seafile is an open source file sync&share solution designed for high reliability, performance and productivity.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Seafile repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 
-Swift repository
-----------------
+swift
+-----
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileRepositoryType/swift
+   :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/swift
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
    :definition: A Swift repository uses the long-term cloud storage of the OpenStack Object Store project which is particularly designed for retrieving and updating large amounts of static data without the need of a central point of control.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Swift repository
 
-`BACK TO TOP <fileRepositoryType_>`_
+`BACK TO TOP <FileRepositoryType_>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 ContributionType
 ################
 
-All instances listed below can be validated against the `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/contributionType.html>`_ schema specification.
+Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/contributionType.html>`
 
 ------------
 
@@ -13,106 +13,76 @@ coordination
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/coordination
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: coordination
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-data collection
----------------
+dataCollection
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataCollection
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/dataCollection
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: data collection
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-data management
----------------
+dataManagment
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataManagment
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagment
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: data management
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-data processing
----------------
+dataProcessing
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: data processing
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-information technology support
-------------------------------
+informationTechnologySupport
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: information technology support
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-laboratory assistance
----------------------
+laboratoryAssistance
+--------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: laboratory assistance
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
@@ -121,34 +91,24 @@ marketing
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/marketing
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/marketing
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: marketing
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 
-metadata managment
-------------------
+metadataManagment
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
+   :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
+   :name: metadata managment
 
-`BACK TO TOP <contributionType_>`_
+`BACK TO TOP <ContributionType_>`_
 
 ------------
 

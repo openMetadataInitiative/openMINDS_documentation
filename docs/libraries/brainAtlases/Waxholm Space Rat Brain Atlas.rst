@@ -2,419 +2,383 @@
 Waxholm Space Rat Brain Atlas
 #############################
 
+Related schema specification: `Waxholm Space Rat Brain Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
-   :full name: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: WHSSDatlas
-   :used species: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#rattus-norvegicus>`_
-   :digital ID: https://scicrunch.org/resolver/SCR_001592
-   :ontology ID: \-
-   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
    :description: The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the first publication [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.
-   :has versions: | `v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v4>`_
-                  | `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_
-                  | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_
-                  | `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_
-                  | `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_
+   :digitalIdentifier: https://scicrunch.org/resolver/SCR_001592
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :hasTerminology: (see below)
+   :hasVersion: | `v4 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v4>`_
+                | `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_
+                | `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_
+                | `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_
+                | `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the first publication [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001) along with the atlas version(s) you have used.
+   :shortName: Waxholm Space Rat Brain Atlas
+   :usedSpecies: `Rattus norvegicus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#rattus-norvegicus>`_
 
 Terminology
 ###########
-* ventral hippocampal commissure
-* lateral lemniscus, dorsal nucleus
-* lateral lemniscus
+
+* brain
+* white matter
 * olfactory white matter
+* lateral olfactory tract
+* corpus callosum and associated subcortical white matter
 * anterior commissure
-* basal forebrain region, unspecified
-* inferior colliculus
-* ventral posterior thalamic nucleus
-* nucleus accumbens, shell
-* cornu ammonis 2
-* ascending fibers of the facial nerve
-* primary auditory area
-* dorsal-intermediate entorhinal area
 * anterior commissure, anterior limb
-* cornu ammonis
-* primary somatosensory area, barrel field
-* medial geniculate body, suprageniculate nucleus
-* external medullary lamina, auditory radiation
-* perirhinal cortex
-* prelimbic area
-* ventral anterior thalamic nucleus
-* cerebrum
+* anterior commissure, posterior limb
 * anterior commissure, intrabulbar part
-* globus pallidus external, lateral part
-* parasubiculum
-* ventral cochlear nucleus, granule cell layer
-* postrhinal cortex
-* paracentral thalamic nucleus
-* lateral habenular nucleus
-* secondary visual area, lateral part
-* thalamus
-* white matter of the tectum
-* brainstem, unspecified
-* dorsal cochlear nucleus, molecular layer
-* primary somatosensory area, dysgranular zone
-* medial entorhinal cortex
+* hippocampal white matter
+* alveus of the hippocampus
+* ventral hippocampal commissure
+* fornix
+* fimbria of the hippocampus
 * corticofugal pathways
-* parahippocampal region
-* agranular insular cortex, ventral area
-* dorsolateral orbital area
-* tegmentum
-* isocortex
+* corticofugal tract and corona radiata
+* pyramidal decussation
+* medial lemniscus
+* medial lemniscus, unspecified
+* medial lemniscus decussation
+* thalamic tracts
+* external medullary lamina
+* external medullary lamina, unspecified
+* external medullary lamina, auditory radiation
+* internal medullary lamina
+* intramedullary thalamic area
+* superior cerebellar peduncle and prerubral field
+* pretectothalamic lamina
+* mammillotegmental tract
+* commissural stria terminalis
+* fasciculus retroflexus
+* stria medullaris thalami
+* stria terminalis
+* habenular commissure
+* posterior commissure
+* facial nerve
+* facial nerve, unspecified
+* ascending fibers of the facial nerve
+* genu of the facial nerve
+* optic fiber system and supraoptic decussation
+* optic nerve
+* optic tract and optic chiasm
+* supraoptic decussation
+* white matter of the tectum
+* commissure of the superior colliculus
+* brachium of the superior colliculus
+* inferior colliculus, commissure
+* inferior colliculus, brachium
 * cerebellar and precerebellar white matter
-* lateral posterior thalamic nucleus, lateral part
+* inferior cerebellar peduncle
+* middle cerebellar peduncle
+* transverse fibers of the pons
+* white matter of the brainstem
+* lateral lemniscus
+* lateral lemniscus, commissure
+* lateral lemniscus, unspecified
+* acoustic striae
+* trapezoid body
+* spinal trigeminal tract
+* gray matter
+* cerebrum
+* cerebral cortex
+* cortical plate
+* isocortex
+* neocortex, unspecified
+* telencephalon
+* laminated pallium
+* olfactory bulb
+* glomerular layer of the accessory olfactory bulb
+* glomerular layer of the olfactory bulb
+* olfactory bulb, unspecified
+* nucleus of the lateral olfactory tract
+* cerebral cortex including the neocortex and the hippocampus
+* cerebral cortex
+* hippocampal region
+* hippocampal formation
+* hippocampal formation, unspecified
+* fasciola cinereum
+* subiculum
+* cornu ammonis
+* cornu ammonis 1
+* cornu ammonis 2
+* cornu ammonis 3
+* dentate gyrus
+* parahippocampal region
+* postrhinal cortex
+* presubiculum
+* parasubiculum
+* perirhinal cortex
+* perirhinal area 35
+* perirhinal area 36
+* entorhinal cortex
+* medial entorhinal cortex
+* lateral entorhinal cortex
+* ventral-intermediate entorhinal area
+* medial entorhinal field
+* caudal entorhinal field
+* dorsal-lateral entorhinal area
+* dorsal-intermediate entorhinal area
+* piriform cortex
+* piriform cortex, layer 1
+* piriform cortex, layer 2
+* piriform cortex, layer 3
+* cingulate region
+* cingulate cortex
+* cingulate area 1
+* cingulate area 2
+* retrosplenial cortex
+* retrosplenial dysgranular area
+* retrosplenial granular area
+* insular region
+* agranular insular cortex
+* agranular insular cortex, ventral area
+* agranular insular cortex dorsal area
+* agranular insular cortex, posterior area
+* dysgranular insular cortex
+* granular insular cortex
+* frontal region
+* frontal association cortex
+* orbitofrontal cortex
+* medial orbital area
+* ventral orbital area
+* ventrolateral orbital area
+* lateral orbital area
+* dorsolateral orbital area
+* mediofrontal cortex
+* prelimbic area
+* infralimbic area
+* motor cortex
+* primary motor area
+* secondary motor area
+* frontal association area 3
+* parietal region
+* somatosensory cortex
+* primary somatosensory cortex
+* primary somatosensory area, face representation
+* primary somatosensory area, barrel field
+* primary somatosensory area, dysgranular zone
+* primary somatosensory area, forelimb representation
+* primary somatosensory area, hindlimb representation
+* primary somatosensory area, trunk representation
+* secondary somatosensory area
+* posterior parietal cortex
+* parietal association cortex, medial area
+* parietal association cortex, lateral area
+* parietal association cortex, posterior area
+* occipital region
+* visual cortex
+* primary visual area
+* secondary visual cortex
+* secondary visual area, medial part
+* secondary visual area, lateral part
+* temporal region
+* temporal association cortex
+* auditory cortex
+* primary auditory area
+* secondary auditory area
+* secondary auditory area, dorsal part
+* secondary auditory area, ventral part
+* cortical subplate
+* cerebral nuclei
+* non-laminated pallium
+* claustrum
+* endopiriform nucleus
+* amygdaloid area, unspecified
+* subpallium
+* striatum
+* caudate putamen
+* nucleus accumbens
+* nucleus accumbens, core
+* nucleus accumbens, shell
+* ventral striatal region, unspecified
+* pallidum
+* globus pallidus external
+* globus pallidus external, medial part
+* globus pallidus external, lateral part
+* entopeduncular nucleus
+* ventral pallidum
+* basal forebrain region
+* basal forebrain region, unspecified
+* bed nucleus of the stria terminalis
+* septal region
+* subthalamic nucleus
+* interbrain
+* thalamus
+* thalamus, unspecified
+* diencephalon
+* prethalamus
+* reticular (pre)thalamic nucleus
+* reticular (pre)thalamic nucleus, unspecified
+* reticular (pre)thalamic nucleus, auditory segment
+* zona incerta
+* zona incerta, dorsal part
+* zona incerta, ventral part
+* zona incerta, rostral part
+* zona incerta, caudal part
+* zona incerta, A13 dopamine cells
+* zona incerta, A11 dopamine cells
+* fields of Forel
+* pregeniculate nucleus
+* subgeniculate nucleus
+* intergeniculate leaflet
+* epithalamus
+* lateral habenular nucleus
+* medial habenular nucleus
+* nucleus of the stria medullaris
+* pineal gland
+* dorsal thalamus
+* anterior nuclei of the dorsal thalamus
+* anterodorsal thalamic nucleus
+* anteroventral thalamic nucleus
+* anteroventral thalamic nucleus, dorsomedial part
+* anteroventral thalamic nucleus, ventrolateral part
+* anteromedial thalamic nucleus
+* interanteromedial thalamic nucleus
+* dorsal-caudal midline group of the dorsal thalamus
+* paraventricular thalamic nuclei (anterior and posterior)
+* intermediodorsal thalamic nucleus
+* parataenial thalamic nucleus
+* subparafascicular nucleus
+* posterior intralaminar nucleus
+* ventral midline group of the dorsal thalamus
+* rhomboid thalamic nucleus
+* reuniens thalamic nucleus
+* retroreuniens thalamic nucleus
+* xiphoid thalamic nucleus
+* mediodorsal nucleus of the dorsal thalamus
 * mediodorsal thalamic nucleus, lateral part
 * mediodorsal thalamic nucleus, central part
-* ventral pallidum
-* lateral orbital area
-* submedius thalamic nucleus
-* medial superior olive
-* cerebellum, unspecified
-* substantia nigra
-* mammillotegmental tract
-* optic fiber system and supraoptic decussation
-* insular region
-* periaqueductal gray
-* posterior commissure
-* glomerular layer of the olfactory bulb
-* rhombencephalon
-* primary motor area
-* septal region
-* interpeduncular nucleus
-* spinal cord
-* fornix
-* posterior complex of the dorsal thalamus
-* paraventricular thalamic nuclei (anterior and posterior)
-* secondary somatosensory area
-* lateral posterior thalamic nucleus, mediorostral part
-* bed nucleus of the stria terminalis
-* rhomboid thalamic nucleus
-* peripeduncular nucleus
-* occipital region
-* pretectal region
-* pontine nuclei
-* medial entorhinal field
-* lateral superior olive
-* anterior commissure, posterior limb
-* cingulate area 1
-* piriform cortex, layer 2
-* subparafascicular nucleus
-* medial geniculate body, dorsal division
-* parataenial thalamic nucleus
-* reuniens thalamic nucleus
-* secondary motor area
-* temporal region
-* cornu ammonis 1
-* inferior colliculus, commissure
-* lateral lemniscus, commissure
-* myelencephalon
-* glomerular layer of the accessory olfactory bulb
-* secondary auditory area, dorsal part
-* transverse fibers of the pons
-* entopeduncular nucleus
-* telencephalon
-* ventral posteromedial thalamic nucleus
-* dorsal-lateral entorhinal area
-* medial lemniscus decussation
-* nucleus of the trapezoid body
-* corticofugal tract and corona radiata
-* tectum
-* zona incerta, dorsal part
-* dentate gyrus
-* medial lemniscus
-* metencephalon
-* ventricular system
-* lateral olfactory tract
-* olfactory bulb
-* hypothalamic region, unspecified
-* basal forebrain region
-* endopiriform nucleus
-* vestibular apparatus
-* pregeniculate nucleus
-* ventral tegmental area
-* mesencephalon
-* granular insular cortex
-* striatum
-* alveus of the hippocampus
-* claustrum
-* middle cerebellar peduncle
-* spinal trigeminal nucleus
-* perirhinal area 36
-* corpus callosum and associated subcortical white matter
-* hippocampal formation
-* spiral ganglion
-* intralaminar nuclei of the dorsal thalamus
-* inferior olive
-* reticular (pre)thalamic nucleus, unspecified
-* stria medullaris thalami
-* subiculum
-* ventral midline group of the dorsal thalamus
-* gray matter
-* zona incerta, A13 dopamine cells
-* brainstem
-* motor cortex
-* ventricular system, unspecified
-* globus pallidus external
-* olfactory bulb, unspecified
-* primary somatosensory area, hindlimb representation
-* retroreuniens thalamic nucleus
-* genu of the facial nerve
-* primary visual area
-* agranular insular cortex dorsal area
-* subgeniculate nucleus
-* laminated pallium
-* cerebral cortex
-* orbitofrontal cortex
-* presubiculum
-* pretectothalamic lamina
-* ventral cochlear nucleus, posterior part
-* posterior parietal cortex
-* diencephalon
-* laterodorsal thalamic nucleus, dorsomedial part
-* cochlear nucleus, ventral part
-* cerebral nuclei
-* ventral striatal region, unspecified
-* molecular cell layer of the cerebellum
-* ethmoid-Limitans nucleus
-* frontal region
-* laterodorsal thalamic nucleus, ventrolateral part
-* nucleus accumbens, core
-* commissure of the superior colliculus
-* superficial gray layer of the superior colliculus
-* ventral posterolateral thalamic nucleus
-* superior paraolivary nucleus
-* deeper layers of the superior colliculus
-* dorsal lateral geniculate nucleus
-* stria terminalis
-* lateral entorhinal cortex
-* dorsal cochlear nucleus, fusiform and granule layer
-* agranular insular cortex, posterior area
-* anteroventral thalamic nucleus, ventrolateral part
-* mediofrontal cortex
-* anterodorsal thalamic nucleus
-* primary somatosensory area, face representation
-* lateral lemniscus, ventral nucleus
-* primary somatosensory cortex
-* nucleus sagulum
-* cingulate area 2
-* caudate putamen
-* midbrain
-* facial nerve, unspecified
-* anterior nuclei of the dorsal thalamus
-* temporal association cortex
-* inferior colliculus, dorsal cortex
-* nucleus of the lateral olfactory tract
-* substantia nigra, compact part
-* periventricular gray
-* inferior cerebellar peduncle
-* hippocampal formation, unspecified
-* medial geniculate body, ventral division
-* neocortex, unspecified
-* ventral periolivary nuclei
 * mediodorsal thalamic nucleus, medial part
-* intermediodorsal thalamic nucleus
-* thalamic tracts
-* superior cerebellar peduncle and prerubral field
-* subthalamic nucleus
-* reticular (pre)thalamic nucleus
-* somatosensory cortex
-* laterodorsal thalamic nuclei of the dorsal thalamus
-* hindbrain
-* central lateral thalamic nucleus
-* inferior colliculus, brachium
-* medial orbital area
-* secondary visual area, medial part
-* central medial thalamic nucleus
-* pallidum
-* piriform cortex, layer 3
-* retrosplenial dysgranular area
-* medial geniculate body, marginal zone
-* nucleus accumbens
-* non-laminated pallium
-* frontal association cortex
-* ventral cochlear nucleus, anterior part
-* central canal
-* optic tract and optic chiasm
-* brachium of the superior colliculus
-* lateral lemniscus, intermediate nucleus
-* intergeniculate leaflet
-* pretectum
-* interbrain
-* superior periolivary region
-* medial geniculate body, medial division
-* ventrolateral thalamic nucleus
-* thalamus, unspecified
-* inferior colliculus, external cortex
-* mediodorsal nucleus of the dorsal thalamus
-* nucleus of the stria medullaris
-* superior colliculus
-* facial nerve
-* ventral posterior nucleus of the thalamus, parvicellular part
-* secondary auditory area, ventral part
-* cochlear nucleus, dorsal part
-* xiphoid thalamic nucleus
-* parietal association cortex, medial area
-* anteromedial thalamic nucleus
-* 4th ventricle
-* angular thalamic nucleus
-* posterior thalamic nucleus
-* external medullary lamina
-* secondary auditory area
-* primary somatosensory area, trunk representation
-* substantia nigra, reticular part
-* lateral posterior (pulvinar) complex of the dorsal thalamus
-* primary somatosensory area, forelimb representation
-* parietal region
-* medial habenular nucleus
-* dorsal thalamus
-* prethalamus
-* nuclei of the lateral lemniscus
-* fields of Forel
-* interanteromedial thalamic nucleus
-* superior olivary complex
-* ventral orbital area
-* lateral lemniscus, unspecified
-* cingulate cortex
-* zona incerta, A11 dopamine cells
-* brain
-* spinal trigeminal tract
-* internal medullary lamina
-* parietal association cortex, lateral area
-* medulla oblongata
-* subpallium
-* intramedullary thalamic area
-* pyramidal decussation
-* zona incerta
-* dorsal-caudal midline group of the dorsal thalamus
-* cerebellum
-* white matter of the brainstem
-* cortical subplate
-* posterior intralaminar nucleus
-* entorhinal cortex
-* hypothalamus
-* retrosplenial granular area
-* retrosplenial cortex
-* epithalamus
-* substantia nigra, lateral part
-* habenular commissure
-* globus pallidus external, medial part
-* vestibular nerve
-* fasciola cinereum
-* ventromedial thalamic nucleus
-* infralimbic area
-* cortical plate
-* acoustic striae
-* parietal association cortex, posterior area
-* zona incerta, ventral part
-* zona incerta, caudal part
-* perirhinal area 35
-* visual cortex
-* posterior thalamic nuclear group, triangular part
-* cingulate region
-* anteroventral thalamic nucleus, dorsomedial part
-* frontal association area 3
-* fimbria of the hippocampus
-* reticular (pre)thalamic nucleus, auditory segment
-* cornu ammonis 3
-* hippocampal region
-* secondary visual cortex
-* commissural stria terminalis
-* piriform cortex
-* ventral cochlear nucleus, cap area
-* fasciculus retroflexus
-* parafascicular thalamic nucleus
-* trapezoid body
-* lateral posterior thalamic nucleus, mediocaudal part
-* ventrolateral orbital area
-* supraoptic decussation
-* inner ear
-* cochlear nerve
-* optic nerve
-* pons
-* dorsal cochlear nucleus, deep core
-* anteroventral thalamic nucleus
-* zona incerta, rostral part
-* auditory cortex
-* amygdaloid area, unspecified
-* caudal entorhinal field
-* white matter
-* pineal gland
-* inferior colliculus, central nucleus
-* cochlea
-* dysgranular insular cortex
-* ventral-intermediate entorhinal area
-* agranular insular cortex
-* cerebral cortex including the neocortex and the hippocampus
-* external medullary lamina, unspecified
-* medial lemniscus, unspecified
-* medial geniculate complex of the dorsal thalamus
-* hippocampal white matter
 * ventral nuclei of the dorsal thalamus
-* piriform cortex, layer 1
+* ventral anterior thalamic nucleus
+* ventromedial thalamic nucleus
+* ventrolateral thalamic nucleus
+* angular thalamic nucleus
+* ventral posterior thalamic nucleus
+* ventral posteromedial thalamic nucleus
+* ventral posterolateral thalamic nucleus
+* ventral posterior nucleus of the thalamus, parvicellular part
+* submedius thalamic nucleus
+* intralaminar nuclei of the dorsal thalamus
+* paracentral thalamic nucleus
+* central medial thalamic nucleus
+* central lateral thalamic nucleus
+* parafascicular thalamic nucleus
+* ethmoid-Limitans nucleus
+* posterior complex of the dorsal thalamus
+* posterior thalamic nucleus
+* posterior thalamic nuclear group, triangular part
+* lateral posterior (pulvinar) complex of the dorsal thalamus
+* lateral posterior thalamic nucleus, mediorostral part
+* lateral posterior thalamic nucleus, mediocaudal part
+* lateral posterior thalamic nucleus, lateral part
+* laterodorsal thalamic nuclei of the dorsal thalamus
+* laterodorsal thalamic nucleus, dorsomedial part
+* laterodorsal thalamic nucleus, ventrolateral part
+* dorsal lateral geniculate nucleus
+* medial geniculate complex of the dorsal thalamus
+* medial geniculate body, ventral division
+* medial geniculate body, dorsal division
+* medial geniculate body, marginal zone
+* medial geniculate body, medial division
+* medial geniculate body, suprageniculate nucleus
+* hypothalamus
+* hypothalamic region, unspecified
+* pretectum
+* pretectal region
+* nucleus sagulum
+* mesencephalon
+* midbrain
+* tectum
+* inferior colliculus
+* inferior colliculus, dorsal cortex
+* inferior colliculus, central nucleus
+* inferior colliculus, external cortex
+* superior colliculus
+* superficial gray layer of the superior colliculus
+* deeper layers of the superior colliculus
+* tegmentum
+* substantia nigra
+* substantia nigra, reticular part
+* substantia nigra, compact part
+* substantia nigra, lateral part
+* ventral tegmental area
+* peripeduncular nucleus
+* periaqueductal gray
+* interpeduncular nucleus
+* brainstem
+* brainstem, unspecified
+* hindbrain
+* pons
+* rhombencephalon
+* metencephalon
+* pontine nuclei
+* cerebellum
+* molecular cell layer of the cerebellum
+* cerebellum, unspecified
+* medulla oblongata
+* myelencephalon
+* cochlear nucleus, ventral part
+* ventral cochlear nucleus, anterior part
+* ventral cochlear nucleus, posterior part
+* ventral cochlear nucleus, cap area
+* ventral cochlear nucleus, granule cell layer
+* cochlear nucleus, dorsal part
+* dorsal cochlear nucleus, molecular layer
+* dorsal cochlear nucleus, fusiform and granule layer
+* dorsal cochlear nucleus, deep core
+* spinal trigeminal nucleus
+* periventricular gray
+* superior olivary complex
+* nucleus of the trapezoid body
+* superior paraolivary nucleus
+* medial superior olive
+* lateral superior olive
+* superior periolivary region
+* ventral periolivary nuclei
+* nuclei of the lateral lemniscus
+* lateral lemniscus, ventral nucleus
+* lateral lemniscus, intermediate nucleus
+* lateral lemniscus, dorsal nucleus
+* inferior olive
+* ventricular system
+* ventricular system, unspecified
+* 4th ventricle
+* central canal
+* spinal cord
+* inner ear
+* vestibular apparatus
+* cochlea
+* cochlear nerve
+* vestibular nerve
+* spiral ganglion
 
 ------------
 
 ------------
 
-version v1.01
-#############
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v1.01
-   :coordinate space: WHSSD_v1.01 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: support@ebrains.eu, https://www.nitrc.org/forum/forum.php?forum_id=9174
-   :version specification: Anatomical delineations of 76 major brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v1.01.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v1.label: text file naming the anatomical structures; MBAT_WHS_SD_rat_atlas_v1.01.zip: files describing a suggested hierarchical organization of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Papp et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.10.017).
-
-`BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
-
-------------
-
-version v2
+version v4
 ##########
 
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v2
-   :coordinate space: WHSSD_v1.01 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: support@ebrains.eu, https://www.nitrc.org/forum/forum.php?forum_id=9174
-   :version specification: Anatomical delineations of 79 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 2 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 13 new and updated delineations of the hippocampal formation and parahippocampal region, and 66 structure delineations unchanged relative to v1.01. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v2.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v2.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v2.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kjonigsen et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.12.080).
-   :previous version: `v1.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v1-01>`_
-
-`BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
-
-------------
-
-version v3
-##########
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3
-   :coordinate space: WHSSD_v1.01 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: support@ebrains.eu, https://www.nitrc.org/forum/forum.php?forum_id=9174
-   :version specification: Anatomical delineations of 118 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 3 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 41 new and 10 updated delineations related or adjacent to the ascending the auditory system. 65 delineations have remained unchanged relative to v2. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v3.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v3.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v3.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
-   :previous version: `v2 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v2>`_
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v4
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: WHSSDatlas
+   :coordinateSpace: WHSSD_v1.01 \(TODO\)
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kleven et al. (2023)](https://doi.org/10.21203/rs.3.rs-2466303/v1).
+   :releaseDate: 2021-10-01
+   :shortName: Waxholm Space Rat Brain Atlas
+   :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :versionIdentifier: v4
+   :versionInnovation: Anatomical delineations of 222 brain regions and white matter tracts in the Sprague Dawley rat brain, based on a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 4 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 112 new and 56 updated delineations related or adjacent to the basal ganglia, thalamus and cortical structures. 54 delineations have remained unchanged and 9 have been completely replaced relative to v3. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v4.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v4.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v4.zip: file describing a suggested hierarchy of the anatomical structures
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
 
@@ -423,40 +387,77 @@ version v3
 version v3.01
 #############
 
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3.01
-   :coordinate space: WHSSD_v1.01 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: support@ebrains.eu, https://www.nitrc.org/forum/forum.php?forum_id=9174
-   :version specification: \-
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
-   :previous version: `v3 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3>`_
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3.01
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: WHSSDatlas
+   :coordinateSpace: WHSSD_v1.01 \(TODO\)
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :releaseDate: 2021-10-01
+   :shortName: Waxholm Space Rat Brain Atlas
+   :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :versionIdentifier: v3.01
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
 
 ------------
 
-version v4
+version v3
 ##########
 
-.. admonition:: metadata sheet
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: WHSSDatlas
+   :coordinateSpace: WHSSD_v1.01 \(TODO\)
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Osen et al. (2019)](https://doi.org/10.1016/j.neuroimage.2019.05.016).
+   :releaseDate: 2019-05-15
+   :shortName: Waxholm Space Rat Brain Atlas
+   :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :versionIdentifier: v3
+   :versionInnovation: Anatomical delineations of 118 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 3 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 41 new and 10 updated delineations related or adjacent to the ascending the auditory system. 65 delineations have remained unchanged relative to v2. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v3.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v3.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v3.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v4
-   :coordinate space: WHSSD_v1.01 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: support@ebrains.eu, https://www.nitrc.org/forum/forum.php?forum_id=9174
-   :version specification: Anatomical delineations of 222 brain regions and white matter tracts in the Sprague Dawley rat brain, based on a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 4 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 112 new and 56 updated delineations related or adjacent to the basal ganglia, thalamus and cortical structures. 54 delineations have remained unchanged and 9 have been completely replaced relative to v3. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v4.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v4.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v4.zip: file describing a suggested hierarchy of the anatomical structures
-   :how to cite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kleven et al. (2023)](https://doi.org/10.21203/rs.3.rs-2466303/v1).
-   :previous version: `v3.01 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Waxholm%20Space%20Rat%20Brain%20Atlas.html#version-v3-01>`_
+`BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
+
+------------
+
+version v2
+##########
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v2
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: WHSSDatlas
+   :coordinateSpace: WHSSD_v1.01 \(TODO\)
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Kjonigsen et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.12.080).
+   :releaseDate: 2015-02-02
+   :shortName: Waxholm Space Rat Brain Atlas
+   :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :versionIdentifier: v2
+   :versionInnovation: Anatomical delineations of 79 brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). Version 2 of the Waxholm Space atlas of the Sprague Dawley rat brain contains 13 new and updated delineations of the hippocampal formation and parahippocampal region, and 66 structure delineations unchanged relative to v1.01. This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v2.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v2.label: text file naming anatomical structures; MBAT_WHS_SD_rat_atlas_v2.zip: file describing a suggested hierarchy of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
+
+`BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
+
+------------
+
+version v1.01
+#############
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v1.01
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: WHSSDatlas
+   :coordinateSpace: WHSSD_v1.01 \(TODO\)
+   :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
+   :homepage: https://www.nitrc.org/projects/whs-sd-atlas/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_001592](https://scicrunch.org/resolver/SCR_001592), and cite the following publications: [Papp et al. (2014)](https://doi.org/10.1016/j.neuroimage.2014.04.001); [Papp et al. (2015)](https://doi.org/10.1016/j.neuroimage.2014.10.017).
+   :releaseDate: 2014-07-17
+   :shortName: Waxholm Space Rat Brain Atlas
+   :supportChannel: https://www.nitrc.org/forum/forum.php?forum_id=9174, support@ebrains.eu
+   :versionIdentifier: v1.01
+   :versionInnovation: Anatomical delineations of 76 major brain regions and white matter tracts in the Sprague Dawley rat brain, based on observations in a high resolution magnetic resonance imaging (MRI) volume (DOI: 10.25493/DTSG-ZBS). This dataset is hosted on NITRC.org and includes: WHS_SD_rat_atlas_v1.01.nii.gz: delineation file with anatomical structures; WHS_SD_rat_atlas_v1.label: text file naming the anatomical structures; MBAT_WHS_SD_rat_atlas_v1.01.zip: files describing a suggested hierarchical organization of the anatomical structures. Note: The licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
 
 `BACK TO TOP <Waxholm Space Rat Brain Atlas_>`_
 

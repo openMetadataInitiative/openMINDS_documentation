@@ -2,7 +2,7 @@
 BreedingType
 ############
 
-All instances listed below can be validated against the `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_ schema specification.
+Related schema specification: `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`
 
 ------------
 
@@ -13,16 +13,12 @@ coisogenic
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/coisogenic
+   :@id: https://openminds.ebrains.eu/instances/breedingType/coisogenic
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: 'Coisogenic' breeding  is a type of inbreeding where the offspring differs at only a single locus through a mutation occurring in the original inbred strain.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: coisogenic
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 
@@ -31,16 +27,12 @@ congenic
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/congenic
+   :@id: https://openminds.ebrains.eu/instances/breedingType/congenic
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: 'Congenic' breeding is the production of offspring from repeated backcrossing into an inbred (background) strain, with selection for a particular marker, ideally a single gene from another strain.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: congenic
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 
@@ -49,16 +41,12 @@ hybrid
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/hybrid
+   :@id: https://openminds.ebrains.eu/instances/breedingType/hybrid
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: A 'hybrid' is an organism that resulted from special outbreeding of two species (normally within the same genus).
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: hybrid
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 
@@ -67,16 +55,12 @@ inbred
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/inbred
+   :@id: https://openminds.ebrains.eu/instances/breedingType/inbred
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: 'Inbred' breeding (or inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed).
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: inbred
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 
@@ -85,34 +69,26 @@ outbred
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/outbred
+   :@id: https://openminds.ebrains.eu/instances/breedingType/outbred
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: 'Outbred' breeding (or outbreeding) is the production of offspring from mating organisms that belong to two different background breeds.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: outbred
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 
-selective inbred
-----------------
+selectiveInbred
+---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/breedingType/selectiveInbred
+   :@id: https://openminds.ebrains.eu/instances/breedingType/selectiveInbred
+   :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
    :definition: 'Selective inbred' breeding (or selective inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed) and have been selected based on a particular phenotype.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: selective inbred
 
-`BACK TO TOP <breedingType_>`_
+`BACK TO TOP <BreedingType_>`_
 
 ------------
 

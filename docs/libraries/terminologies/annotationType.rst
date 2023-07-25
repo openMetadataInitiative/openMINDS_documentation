@@ -2,81 +2,65 @@
 AnnotationType
 ##############
 
-All instances listed below can be validated against the `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationType.html>`_ schema specification.
+Related schema specification: `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationType.html>`
 
 ------------
 
 ------------
 
-annotation contour line
------------------------
+annotationContourLine
+---------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/annotationType/annotationContourLine
+   :@id: https://openminds.ebrains.eu/instances/annotationType/annotationContourLine
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
    :definition: An 'annotation contour line' is a two-dimensional boundary of an area of interest.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: annotation contour line
 
-`BACK TO TOP <annotationType_>`_
+`BACK TO TOP <AnnotationType_>`_
 
 ------------
 
-annotation mask
+annotationMask
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/annotationType/annotationMask
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
+   :definition: An 'annotation mask' is a filled object masking an area or volume of interest.
+   :name: annotation mask
+
+`BACK TO TOP <AnnotationType_>`_
+
+------------
+
+annotationPoint
 ---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/annotationType/annotationMask
-   :definition: An 'annotation mask' is a filled object masking an area or volume of interest.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <annotationType_>`_
-
-------------
-
-annotation point
-----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/annotationType/annotationPoint
+   :@id: https://openminds.ebrains.eu/instances/annotationType/annotationPoint
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
    :definition: 'Annotation point(s)' are individual point(s) that are annotated with the same label.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: annotation point
 
-`BACK TO TOP <annotationType_>`_
+`BACK TO TOP <AnnotationType_>`_
 
 ------------
 
-annotation surface
-------------------
+annotationSurface
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/annotationType/annotationSurface
+   :@id: https://openminds.ebrains.eu/instances/annotationType/annotationSurface
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
    :definition: An 'annotation surface' is a three-dimensional boundary of a volume of interest.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: annotation surface
 
-`BACK TO TOP <annotationType_>`_
+`BACK TO TOP <AnnotationType_>`_
 
 ------------
 

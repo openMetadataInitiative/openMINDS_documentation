@@ -2,21 +2,22 @@
 Deep White Matter Atlas
 #######################
 
+Related schema specification: `Deep White Matter Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/DWMA
-   :full name: Atlas of Deep White Matter Fibre Bundles
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/DWMA
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: DWMA
-   :used species: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#homo-sapiens>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: \-
-   :description: \-
-   :how to cite: \-
-   :has versions: | `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018>`_
+   :fullName: Atlas of Deep White Matter Fibre Bundles
+   :hasTerminology: (see below)
+   :hasVersion: | `2018 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Deep%20White%20Matter%20Atlas.html#version-2018>`_
+   :shortName: Deep White Matter Atlas
+   :usedSpecies: `Homo sapiens <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#homo-sapiens>`_
 
 Terminology
 ###########
+
 * deep white matter
    * arcuate fasciculus
       * anterior segement of arcuate fasciculus
@@ -26,10 +27,10 @@ Terminology
       * long cingulate fibres
       * short cingulate fibres
       * temporal cingulate fibres
+   * corticospinal tract
    * fornix
    * inferior fronto-occipital fasciculus
    * inferior longitudinal fasciculus
-   * corticospinal tract
    * uncinate fasciculus
 
 ------------
@@ -39,18 +40,14 @@ Terminology
 version 2018
 ############
 
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/DWMA_2018
-   :coordinate space: MNI-ICBM152_nonlinear-2009c-asym \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: \, -
-   :version specification: This is the first released version of this brain atlas.
-   :how to cite: \-
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/DWMA_2018
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: DWMA
+   :coordinateSpace: `MNI ICBM152 (version 2009c nonlinear asymmetric) <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MNI%20ICBM152.html#version-2009c-nonlinear-asymmetric>`_
+   :fullName: Atlas of Deep White Matter Fibre Bundles
+   :shortName: Deep White Matter Atlas
+   :versionIdentifier: 2018
+   :versionInnovation: This is the first released version of this brain atlas.
 
 `BACK TO TOP <Deep White Matter Atlas_>`_
 

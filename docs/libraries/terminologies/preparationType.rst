@@ -2,117 +2,105 @@
 PreparationType
 ###############
 
-All instances listed below can be validated against the `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/preparationType.html>`_ schema specification.
+Related schema specification: `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/preparationType.html>`
 
 ------------
 
 ------------
 
-ex vivo
--------
+exVivo
+------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/exVivo
+   :@id: https://openminds.ebrains.eu/instances/preparationType/exVivo
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening or existing outside a living body.
-   :description: \-
-   :synonyms: ex vivo technique
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/88
-   :InterLex ID: http://uri.interlex.org/base/ilx_0739736
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739736
+   :name: ex vivo
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/88
 
-`BACK TO TOP <preparationType_>`_
+`BACK TO TOP <PreparationType_>`_
 
 ------------
 
-in silico
----------
+inSilico
+--------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/inSilico
+   :@id: https://openminds.ebrains.eu/instances/preparationType/inSilico
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Conducted or produced by means of computer modelling or simulation.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0572590
-   :InterLex ID: http://uri.interlex.org/ilx_0494742
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/ilx_0494742
+   :name: in silico
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0572590
 
-`BACK TO TOP <preparationType_>`_
+`BACK TO TOP <PreparationType_>`_
 
 ------------
 
-in situ
--------
+inSitu
+------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/inSitu
+   :@id: https://openminds.ebrains.eu/instances/preparationType/inSitu
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening or being examined in the original place instead of being moved to another place
-   :description: \-
-   :synonyms: in situ technique
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu
-   :InterLex ID: http://uri.interlex.org/ilx_0739593
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/ilx_0739593
+   :name: in situ
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu
 
-`BACK TO TOP <preparationType_>`_
+`BACK TO TOP <PreparationType_>`_
 
 ------------
 
-in utero
---------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/inUtero
-   :definition: Something happening in, within, or while inside the uterus.
-   :description: \-
-   :synonyms: in utero technique
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/90
-   :InterLex ID: http://uri.interlex.org/ilx_0739675
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <preparationType_>`_
-
-------------
-
-in vitro
---------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/inVitro
-   :definition: Something happening outside the body in artificial conditions (e.g., in a test tube or culture dish).
-   :description: \-
-   :synonyms: in vitro technique
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro
-   :InterLex ID: http://uri.interlex.org/base/ilx_0739568
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <preparationType_>`_
-
-------------
-
-in vivo
+inUtero
 -------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/preparationType/inVivo
-   :definition: Something happening or existing inside a living body.
-   :description: \-
-   :synonyms: in vivo technique
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/89
-   :InterLex ID: http://uri.interlex.org/base/ilx_0739622
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/preparationType/inUtero
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :definition: Something happening in, within, or while inside the uterus.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0739675
+   :name: in utero
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/90
 
-`BACK TO TOP <preparationType_>`_
+`BACK TO TOP <PreparationType_>`_
+
+------------
+
+inVitro
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/preparationType/inVitro
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :definition: Something happening outside the body in artificial conditions (e.g., in a test tube or culture dish).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739568
+   :name: in vitro
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro
+
+`BACK TO TOP <PreparationType_>`_
+
+------------
+
+inVivo
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/preparationType/inVivo
+   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :definition: Something happening or existing inside a living body.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739622
+   :name: in vivo
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/89
+
+`BACK TO TOP <PreparationType_>`_
 
 ------------
 

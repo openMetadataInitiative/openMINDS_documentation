@@ -2,7 +2,7 @@
 ModelScope
 ##########
 
-All instances listed below can be validated against the `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelScope.html>`_ schema specification.
+Related schema specification: `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelScope.html>`
 
 ------------
 
@@ -13,88 +13,68 @@ network
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/network
+   :@id: https://openminds.ebrains.eu/instances/modelScope/network
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of a neuronal network
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: network
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-network: brain region
----------------------
+network-brainRegion
+-------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
+   :@id: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of one or more brain regions
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: network: brain region
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-network: microcircuit
----------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
-   :definition: A model of a neuronal microcircuit
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <modelScope_>`_
-
-------------
-
-network: whole brain
+network-microcircuit
 --------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
-   :definition: A model of an entire brain
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :definition: A model of a neuronal microcircuit
+   :name: network: microcircuit
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-single cell
------------
+network-wholeBrain
+------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/singleCell
-   :definition: A model of a single cell
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :definition: A model of an entire brain
+   :name: network: whole brain
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
+
+------------
+
+singleCell
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/modelScope/singleCell
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :definition: A model of a single cell
+   :name: single cell
+
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
@@ -103,88 +83,68 @@ subcellular
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular
+   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of an entity or process contained within a cell
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: subcellular
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-subcellular: ion channel
-------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
-   :definition: A model of an ion channel
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <modelScope_>`_
-
-------------
-
-subcellular: molecular
+subcellular-ionChannel
 ----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
+   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :definition: A model of an ion channel
+   :name: subcellular: ion channel
+
+`BACK TO TOP <ModelScope_>`_
+
+------------
+
+subcellular-molecular
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of the structure or behaviour of molecules
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: subcellular: molecular
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-subcellular: signalling
------------------------
+subcellular-signalling
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
+   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of sub-cellular signalling pathways
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: subcellular: signalling
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 
-subcellular: spine
-------------------
+subcellular-spine
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
+   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: subcellular: spine
 
-`BACK TO TOP <modelScope_>`_
+`BACK TO TOP <ModelScope_>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 Laterality
 ##########
 
-All instances listed below can be validated against the `Laterality <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`_ schema specification.
+Related schema specification: `Laterality <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/laterality.html>`
 
 ------------
 
@@ -13,16 +13,11 @@ left
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/laterality/left
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/laterality/left
+   :@type: https://openminds.ebrains.eu/controlledTerms/Laterality
+   :name: left
 
-`BACK TO TOP <laterality_>`_
+`BACK TO TOP <Laterality_>`_
 
 ------------
 
@@ -31,16 +26,11 @@ right
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/laterality/right
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/laterality/right
+   :@type: https://openminds.ebrains.eu/controlledTerms/Laterality
+   :name: right
 
-`BACK TO TOP <laterality_>`_
+`BACK TO TOP <Laterality_>`_
 
 ------------
 

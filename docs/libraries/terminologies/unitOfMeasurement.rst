@@ -2,7 +2,7 @@
 UnitOfMeasurement
 #################
 
-All instances listed below can be validated against the `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/unitOfMeasurement.html>`_ schema specification.
+Related schema specification: `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/unitOfMeasurement.html>`
 
 ------------
 
@@ -13,16 +13,13 @@ ampere
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/ampere
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/ampere
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric current unit which is equal to the constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed 1 m apart in vacuum, would produce between these conductors a force equal to 2 x 10^[-7] newton per meter of length.
-   :description: \-
-   :synonyms: A
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000011
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: ampere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000011
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -31,16 +28,12 @@ arcdegree
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An arcdegree is a measurement of a plane angle in which one full rotation is 360 degrees.
-   :description: \-
-   :synonyms: arc degree, degree, degree of arc, °
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: arcdegree
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -49,16 +42,11 @@ bit
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/bit
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/bit
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: bit
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -67,16 +55,11 @@ byte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/byte
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/byte
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: byte
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -85,34 +68,25 @@ centimeter
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/centimeter
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/centimeter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: centimeter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-core-hour
----------
+coreHour
+--------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/coreHour
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/coreHour
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Usage of a computer processor core for one hour
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: core-hour
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -121,88 +95,67 @@ day
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/day
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/day
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: day
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-degree Celsius
---------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius
-   :definition: The 'degree Celsius' is a unit of temperature on the Celsius scale where the freezing point of water is at 0 °C and the boiling point of water is at 100 °C under standard atmospheric pressure.
-   :description: \-
-   :synonyms: Celsius, degree, °C
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <unitOfMeasurement_>`_
-
-------------
-
-degree Fahrenheit
------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeFahrenheit
-   :definition: The 'degree Fahrenheit' is a unit of temperature on the Fahrenheit scale where the freezing point of water is at 32 °F and the boiling point of water is at 212 °F under standard atmospheric pressure.
-   :description: \-
-   :synonyms: degree, Fahrenheit, °F
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <unitOfMeasurement_>`_
-
-------------
-
-degree Rankine
---------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeRankine
-   :definition: The 'degree Rankine' is a unit of temperature on the Rankine scale where the freezing point of water is at 491.67 °R and the boiling point of water is at 671.64102 °R under standard atmospheric pressure.
-   :description: \-
-   :synonyms: degree, Rankine, °R, °Ra
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <unitOfMeasurement_>`_
-
-------------
-
-embryonic day
+degreeCelsius
 -------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay
-   :definition: 'Embryonic day' is a specific unit to measure the developmental stage of an embryo, starting with fertilization (1st embryonic day).
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: The 'degree Celsius' is a unit of temperature on the Celsius scale where the freezing point of water is at 0 °C and the boiling point of water is at 100 °C under standard atmospheric pressure.
+   :name: degree Celsius
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
+
+------------
+
+degreeFahrenheit
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeFahrenheit
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: The 'degree Fahrenheit' is a unit of temperature on the Fahrenheit scale where the freezing point of water is at 32 °F and the boiling point of water is at 212 °F under standard atmospheric pressure.
+   :name: degree Fahrenheit
+
+`BACK TO TOP <UnitOfMeasurement_>`_
+
+------------
+
+degreeRankine
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeRankine
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: The 'degree Rankine' is a unit of temperature on the Rankine scale where the freezing point of water is at 491.67 °R and the boiling point of water is at 671.64102 °R under standard atmospheric pressure.
+   :name: degree Rankine
+
+`BACK TO TOP <UnitOfMeasurement_>`_
+
+------------
+
+embryonicDay
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: 'Embryonic day' is a specific unit to measure the developmental stage of an embryo, starting with fertilization (1st embryonic day).
+   :name: embryonic day
+
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -211,16 +164,11 @@ gigabyte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: gigabyte
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -229,16 +177,11 @@ gigaohm
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigaohm
-   :definition: \-
-   :description: \-
-   :synonyms: GΩ
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigaohm
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: gigaohm
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -247,16 +190,11 @@ gram
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/gram
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gram
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: gram
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -265,16 +203,11 @@ hour
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/hour
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/hour
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: hour
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -283,16 +216,11 @@ kilobyte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilobyte
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilobyte
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: kilobyte
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -301,16 +229,11 @@ kilogram
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilogram
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilogram
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: kilogram
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -319,16 +242,11 @@ liter
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/liter
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/liter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: liter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -337,16 +255,11 @@ megabyte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/megabyte
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/megabyte
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: megabyte
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -355,16 +268,11 @@ megaohm
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/megaohm
-   :definition: \-
-   :description: \-
-   :synonyms: MΩ
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/megaohm
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: megaohm
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -373,16 +281,11 @@ meter
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/meter
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/meter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: meter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -391,34 +294,26 @@ microampere
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric current unit current which is equal to one millionth of an ampere or 10^[-6] A.
-   :description: \-
-   :synonyms: µA
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000038
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: microampere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000038
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-microgram per milliliter
-------------------------
+microgramPerMilliliter
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/microgramPerMilliliter
-   :definition: \-
-   :description: \-
-   :synonyms: ug/ml, µg/ml
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/microgramPerMilliliter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: microgram per milliliter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -427,16 +322,11 @@ micrometer
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: micrometer
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -445,52 +335,39 @@ micromolar
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/micromolar
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/micromolar
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Micromolar is a decimal fraction of molar concentration describing the amount of substance (measured in micromole) in one liter solution.
-   :description: \-
-   :synonyms: uM, µM, µmol*m⁻³, µmol/l, µmol/m³
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: micromolar
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-milligram per kilogram body weight
-----------------------------------
+milligramPerKilogramBodyWeight
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerKilogramBodyWeight
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerKilogramBodyWeight
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: A milligram of a substance per kilogram of the body weight of the subject taking the substance.
-   :description: \-
-   :synonyms: mg/kg
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: milligram per kilogram body weight
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-milligram per milliliter
-------------------------
+milligramPerMilliliter
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerMilliliter
-   :definition: \-
-   :description: \-
-   :synonyms: mg/ml
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerMilliliter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: milligram per milliliter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -499,16 +376,11 @@ milliliter
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: milliliter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -517,16 +389,11 @@ millimeter
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: millimeter
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -535,16 +402,12 @@ millimolar
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimolar
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimolar
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Millimolar is a decimal fraction of molar concentration that describes a solution as millimole per one liter of a solution.
-   :description: \-
-   :synonyms: 10^-3 mol/L, mM, mol/m^3
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: millimolar
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -553,16 +416,11 @@ millisecond
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisecond
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisecond
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: millisecond
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -571,16 +429,13 @@ millisiemens
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electrical conduction unit which is equal to one thousandth of a siemen or 10^[-3] siemens.
-   :description: \-
-   :synonyms: mS
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0010002
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: millisiemens
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010002
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -589,16 +444,13 @@ millivolt
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/millivolt
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millivolt
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric potential difference unit which is equal to one thousandth of a volt or 10^[-3] V.
-   :description: \-
-   :synonyms: mV
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000247
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: millivolt
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000247
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -607,16 +459,11 @@ minute
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/minute
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/minute
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: minute
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -625,16 +472,12 @@ molar
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/molar
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/molar
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Molar is a measure of concentration that describes a solution as moles of solute per one liter of a solution.
-   :description: \-
-   :synonyms: 10^3 mol/m^3, M, mol/L
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: molar
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -643,16 +486,11 @@ month
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/month
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/month
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: month
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -661,16 +499,12 @@ nanoampere
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanoampere
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanoampere
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric current unit current which is equal to one thousand millionth of an ampere or 10^[-9] A.
-   :description: \-
-   :synonyms: nA
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: nanoampere
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -679,16 +513,12 @@ nanomolar
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanomolar
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanomolar
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Nanomolar is a decimal fraction of molar concentration describing the amount of substance (measured in nanomole) in one liter solution.
-   :description: \-
-   :synonyms: nM, nmol*m⁻³, nmol/l, nmol/m³
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: nanomolar
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -697,34 +527,26 @@ ohm
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/ohm
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/ohm
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: The SI derived unit of electrical resistance, named after German physicist Georg Ohm, equal to 1 V/A
-   :description: \-
-   :synonyms: Ω
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: ohm
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-percent
--------
+percentage
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: A 'percentage' (from Latin per centum 'by a hundred') is a quantity expressed as a fraction of 100 (amount of something in each hundred).
-   :description: \-
-   :synonyms: %, pc, pct, percent
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: percent
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -733,16 +555,13 @@ picoampere
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/picoampere
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/picoampere
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric current unit current which is equal to one trillionth of an ampere or 10^[-12] A.
-   :description: \-
-   :synonyms: pA
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0010054
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: picoampere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010054
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -751,16 +570,13 @@ radian
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/radian
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/radian
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: A 'radian' is the SI unit for measuring angles. One 'radian' defines the arc of a circle with the same length as the radius of that circle.
-   :description: \-
-   :synonyms: rad
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000123
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: radian
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000123
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -769,16 +585,11 @@ second
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/second
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/second
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: second
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -787,16 +598,13 @@ siemens
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electrical conduction unit which is equal to A/V.
-   :description: \-
-   :synonyms: S
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0000264
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: siemens
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000264
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -805,16 +613,11 @@ terabyte
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/terabyte
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/terabyte
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: terabyte
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -823,52 +626,42 @@ volt
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/volt
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/volt
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An electric potential difference unit which is equal to the work per unit charge. One volt is the potential difference required to move one coulomb of charge between two points in a circuit while using one joule of energy.
-   :description: \-
-   :synonyms: V
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/UO_0010054
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: volt
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0010054
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-volume per volume percentage
-----------------------------
+volumePerVolumePercentage
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/volumePerVolumePercentage
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/volumePerVolumePercentage
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Percentage of volume of one liquid dissolved in another liquid, where the volume of both liquids have the same unit
-   :description: \-
-   :synonyms: % v/v, percent v/v, v/v %, v/v percent, volume percent
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: volume per volume percentage
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-wafer-hour
-----------
+waferHour
+---------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/waferHour
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/waferHour
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Usage of one wafer of a wafer-scale computing system for one hour
    :description: An example of such a wafer-scale system would be BrainScaleS-1
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: wafer-hour
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -877,52 +670,39 @@ week
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/week
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/week
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: week
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-weight per volume percentage
-----------------------------
+weightPerVolumePercentage
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: Percentage of weight or mass of a dissolved, solid substance in a total volume of a solution. As per definition, the volume of a liquid is expressed in milliliter (ml) and the mass of a solute in grams (g)
-   :description: \-
-   :synonyms: % w/v, mass/volume percent, percent w/v, w/v %, w/v percent
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: weight per volume percentage
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
-weight per weight percentage
-----------------------------
+weightPerWeightPercentage
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerWeightPercentage
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerWeightPercentage
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: The percentage of a particular substance within a mixture, as measured by weight or mass and expressed in the same unit
-   :description: \-
-   :synonyms: % w/w, mass percent, percent w/w, w/w %, w/w percent, weight percent
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: weight per weight percentage
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 
@@ -931,16 +711,11 @@ year
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/unitOfMeasurement/year
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/year
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :name: year
 
-`BACK TO TOP <unitOfMeasurement_>`_
+`BACK TO TOP <UnitOfMeasurement_>`_
 
 ------------
 

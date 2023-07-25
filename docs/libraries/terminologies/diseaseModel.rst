@@ -2,153 +2,125 @@
 DiseaseModel
 ############
 
-All instances listed below can be validated against the `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_ schema specification.
+Related schema specification: `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`
 
 ------------
 
 ------------
 
-Alzheimer's disease model
--------------------------
+alzheimersDiseaseModel
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.
    :description: An animal or cell type model for Alzheimer's disease display all or some pathological processes that are observed in the actual disease in humans or animals, such as the formation of neurofibrillary tangles or amyloid-beta plaques.
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Alzheimer's disease model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-autism spectrum disorder model
-------------------------------
+autismSpectrumDisorderModel
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal autism sprectrum disorder.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: autism spectrum disorder model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-epilepsy model
---------------
+epilepsyModel
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed for epilepsy in humans or animals.
    :description: Epilepsy describes a group of central nervous system disorders characterized by recurrent unprovoked seizures. A model of epilepsy displays all or some of the pathological processes that are observed for epilespy in humans or animals.
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: epilepsy model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-fragile X syndrome model
-------------------------
+fragileXsyndromeModel
+---------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal fragile X syndrome.
    :description: An animal or cell type model for fragile X syndrome display all or some pathological processes that are observed in the actual disease in humans or animals, such as the general loss of FMR1 gene function.
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: fragile X syndrome model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-Huntington's disease model
---------------------------
+huntingtonsDiseaseModel
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Huntington's disease.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Huntington's disease model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-Parkinson's disease model
--------------------------
+parkinsonsDiseaseModel
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Parkinson's disease.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Parkinson's disease model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-stroke model
-------------
+strokeModel
+-----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/strokeModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/strokeModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed during stroke in humans or animals.
    :description: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event. A model of stroke displays some or all of the pathological processes that are observed during stroke in humans or animals.
-   :synonyms: cerebral infaction model, cerebrovascular accident model, cerebrovascular disease model, CVA model, stroke disorder model
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: stroke model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 
-Williams-Beuren syndrome model
-------------------------------
+williamsBeurenSyndromeModel
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel
+   :@id: https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Williams-Beuren syndrome model
 
-`BACK TO TOP <diseaseModel_>`_
+`BACK TO TOP <DiseaseModel_>`_
 
 ------------
 

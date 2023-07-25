@@ -2,117 +2,103 @@
 BiologicalOrder
 ###############
 
-All instances listed below can be validated against the `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalOrder.html>`_ schema specification.
+Related schema specification: `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalOrder.html>`
 
 ------------
 
 ------------
 
-Carnivora
+carnivora
 ---------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Carnivora* (carnivore) belongs to the class *Mammalia* (mammals).
-   :description: \-
-   :synonyms: carnivore
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/NCBITaxon_33554
-   :InterLex ID: http://uri.interlex.org/base/ilx_0101675
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101675
+   :name: Carnivora
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_33554
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 
-Cypriniformes
+cypriniformes
 -------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Cypriniformes* belongs to the class *Actinopterygii* (ray-finned fishes).
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0005508
-   :InterLex ID: http://uri.interlex.org/base/ilx_0737279
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0737279
+   :name: Cypriniformes
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0005508
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 
-Didelphimorphia
+didelphimorphia
 ---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).
-   :description: \-
-   :synonyms: opossums
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: Didelphimorphia
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 
-Nudibranchia
+nudibranchia
 ------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Nudibranchia* (nudibranchs) belongs to the class *Gastropoda* (gastropods).
-   :description: \-
-   :synonyms: nudibranchs
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/NCBITaxon_70849
-   :InterLex ID: http://uri.interlex.org/base/ilx_0107805
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107805
+   :name: Nudibranchia
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_70849
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 
-Primates
+primates
 --------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/primates
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/primates
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Primates* belongs to the class *Mammalia* (mammals).
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://id.nlm.nih.gov/mesh/2018/M0017579
-   :InterLex ID: http://uri.interlex.org/base/ilx_0486298
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0486298
+   :name: Primates
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0017579
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 
-Rodentia
+rodentia
 --------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
+   :@id: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
+   :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).
-   :description: \-
-   :synonyms: rodents
-   ------------
-   :preferred ontology ID: http://purl.obolibrary.org/obo/NCBITaxon_9989
-   :InterLex ID: http://uri.interlex.org/base/ilx_0110175
-   :KnowledgeSpace entry: \-
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110175
+   :name: Rodentia
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9989
 
-`BACK TO TOP <biologicalOrder_>`_
+`BACK TO TOP <BiologicalOrder_>`_
 
 ------------
 

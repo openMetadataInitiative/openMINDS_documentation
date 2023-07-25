@@ -2,117 +2,93 @@
 LearningResourceType
 ####################
 
-All instances listed below can be validated against the `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/learningResourceType.html>`_ schema specification.
+Related schema specification: `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/learningResourceType.html>`
 
 ------------
 
 ------------
 
-developer documentation
------------------------
+developerDocumentation
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: Documentation for the developers of a resource.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: developer documentation
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 
-interactive tutorial
---------------------
+interactiveTutorial
+-------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A tutorial presented in an interactive format, for example a Jupyter notebook.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: interactive tutorial
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 
-slide deck
-----------
+slideDeck
+---------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A set of slides for a visual presentation.
-   :description: \-
-   :synonyms: slides, presentation slides
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: slide deck
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 
-user documentation
-------------------
+userDocumentation
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: Documentation for the users of a resource.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: user documentation
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 
-video presentation
-------------------
+videoPresentation
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A video recorded presentation.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: video presentation
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 
-video tutorial
---------------
+videoTutorial
+-------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
+   :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
+   :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A tutorial presented as a video.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: video tutorial
 
-`BACK TO TOP <learningResourceType_>`_
+`BACK TO TOP <LearningResourceType_>`_
 
 ------------
 

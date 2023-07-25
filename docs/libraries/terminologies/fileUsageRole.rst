@@ -2,27 +2,23 @@
 FileUsageRole
 #############
 
-All instances listed below can be validated against the `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileUsageRole.html>`_ schema specification.
+Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileUsageRole.html>`
 
 ------------
 
 ------------
 
-data descriptor
----------------
+dataDescriptor
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
+   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
    :definition: A 'data descriptor' describes the provenance, the structure, the applied quality assessment, and possible (re)usage of the data. It should not present hypotheses tests, new interpretations, new methods or in-depth analyses.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: data descriptor
 
-`BACK TO TOP <fileUsageRole_>`_
+`BACK TO TOP <FileUsageRole_>`_
 
 ------------
 
@@ -31,16 +27,12 @@ logo
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/logo
+   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/logo
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
    :definition: A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: logo
 
-`BACK TO TOP <fileUsageRole_>`_
+`BACK TO TOP <FileUsageRole_>`_
 
 ------------
 
@@ -49,16 +41,12 @@ preview
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/preview
+   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/preview
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
    :definition: A preview is a representative image or short movie used to peak interest for a product.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: preview
 
-`BACK TO TOP <fileUsageRole_>`_
+`BACK TO TOP <FileUsageRole_>`_
 
 ------------
 
@@ -67,16 +55,12 @@ screenshot
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
+   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
    :definition: A screenshot is an image of the content displayed on the screen of a computer or mobile device.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: screenshot
 
-`BACK TO TOP <fileUsageRole_>`_
+`BACK TO TOP <FileUsageRole_>`_
 
 ------------
 

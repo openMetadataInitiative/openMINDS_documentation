@@ -2,18 +2,18 @@
 MEBRAINS brain template
 #######################
 
+Related schema specification: `MEBRAINS brain template <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpace.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MEBRAINStemplate
-   :full name: MEBRAINS population-based monkey brain template
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MEBRAINStemplate
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: MEBRAINStemplate
-   :used species: `Macaca mulatta <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#macaca-mulatta>`_
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: \-
-   :how to cite: \-
    :description: The 'MEBRAINS population-based monkey brain template' is a multi-subject based, multi-modal, volume and surface brain template for macaque monkeys.
-   :has versions: | `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%20brain%20template.html#version-v1-0>`_
+   :fullName: MEBRAINS population-based monkey brain template
+   :hasVersion: | `v1.0 <https://openminds-documentation.readthedocs.io/en/latest/libraries/commonCoordinateSpaces/MEBRAINS%20brain%20template.html#version-v1-0>`_
+   :shortName: MEBRAINS brain template
+   :usedSpecies: `Macaca mulatta <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#macaca-mulatta>`_
 
 ------------
 
@@ -22,16 +22,13 @@ MEBRAINS brain template
 version v1.0
 ############
 
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
-   :digital ID: \-
-   :ontology ID: \-
-   :how to cite: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :release date: \-
-   :anatomical axis orientation: `RAS <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html#ras>`_
-   :native unit: `micrometer <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/unitOfMeasurement.html#micrometer>`_
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :abbreviation: MEBRAINStemplate
+   :fullName: MEBRAINS population-based monkey brain template
+   :shortName: MEBRAINS brain template
+   :versionIdentifier: v1.0
+   :versionInnovation: The first version of the 'MEBRAINS population-based monkey brain template' (v1.0) is a population average brain of T1- and T2-weighted MRI scans from 10 macaque brains. In addition, 9 CT scans of the same monkeys (one missing) are registered to the T1 modality and co-registered to the population average.
 
 `BACK TO TOP <MEBRAINS brain template_>`_
 

@@ -2,64 +2,50 @@
 Allen Mouse Brain Atlas
 #######################
 
+Related schema specification: `Allen Mouse Brain Atlas <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/brainAtlas.html>`
+
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlas/AMBA
-   :full name: Allen Mouse Brain Atlas
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/AMBA
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: AMBA
-   :used species: `Mus musculus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html#mus-musculus>`_
-   :digital ID: \-
-   :ontology ID: \-
+   :fullName: Allen Mouse Brain Atlas
+   :hasVersion: | `CCFv3, 2017 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2017>`_
+                | `CCFv3, 2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2015>`_
    :homepage: https://portal.brain-map.org/
-   :description: \-
-   :how to cite: \-
-   :has versions: | `CCFv3, 2017 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2017>`_
-                  | `CCFv3, 2015 <https://openminds-documentation.readthedocs.io/en/latest/libraries/brainAtlases/Allen%20Mouse%20Brain%20Atlas.html#version-ccfv3-2015>`_
+   :shortName: Allen Mouse Brain Atlas
+   :usedSpecies: `Mus musculus <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/usedSpecies.html#mus-musculus>`_
 
-Terminology
-###########
 
 ------------
-
-------------
-
-version CCFv3, 2015
-###################
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2015
-   :coordinate space: AMB-CCF_v3 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: \, -
-   :version specification: \-
-   :how to cite: \-
-
-`BACK TO TOP <Allen Mouse Brain Atlas_>`_
 
 ------------
 
 version CCFv3, 2017
 ###################
 
-.. admonition:: metadata sheet
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2017
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: AMBA
+   :coordinateSpace: AMB-CCF_v3 \(TODO\)
+   :fullName: Allen Mouse Brain Atlas
+   :shortName: Allen Mouse Brain Atlas
+   :versionIdentifier: CCFv3, 2017
 
-   :semantic name: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2017
-   :coordinate space: AMB-CCF_v3 \(TODO\)
-   :type: \-
-   :digital ID: \-
-   :ontology ID: \-
-   :homepage: \-
-   :accessibility: `free access <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/productAccessibility.html#free-access>`_
-   :license: \-
-   :support: \, -
-   :version specification: \-
-   :how to cite: \-
+`BACK TO TOP <Allen Mouse Brain Atlas_>`_
+
+------------
+
+version CCFv3, 2015
+###################
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2015
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :abbreviation: AMBA
+   :coordinateSpace: AMB-CCF_v3 \(TODO\)
+   :fullName: Allen Mouse Brain Atlas
+   :shortName: Allen Mouse Brain Atlas
+   :versionIdentifier: CCFv3, 2015
 
 `BACK TO TOP <Allen Mouse Brain Atlas_>`_
 

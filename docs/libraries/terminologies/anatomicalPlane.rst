@@ -2,63 +2,51 @@
 AnatomicalPlane
 ###############
 
-All instances listed below can be validated against the `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalPlane.html>`_ schema specification.
+Related schema specification: `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/anatomicalPlane.html>`
 
 ------------
 
 ------------
 
-axial plane
------------
+axialPlane
+----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/anatomicalPlane/axialPlane
+   :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/axialPlane
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
    :definition: The 'axial plane' is always perpendicular to the longitudinal and the frontal plane of an organism, extremity or organ, dividing it into a dorsal, superior, above or top part, and a ventral, inferior, below or bottom part.
-   :description: \-
-   :synonyms: transverse plane, horizontal plane
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: axial plane
 
-`BACK TO TOP <anatomicalPlane_>`_
+`BACK TO TOP <AnatomicalPlane_>`_
 
 ------------
 
-frontal plane
--------------
+frontalPlane
+------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/anatomicalPlane/frontalPlane
+   :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/frontalPlane
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
    :definition: The 'frontal plane' is always perpendicular to the axial and longitudinal plane of an organism, extremity or organ, dividing it into an anterior, rostral or front part, and a posterior, caudal or back part.
-   :description: \-
-   :synonyms: coronal plane
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: frontal plane
 
-`BACK TO TOP <anatomicalPlane_>`_
+`BACK TO TOP <AnatomicalPlane_>`_
 
 ------------
 
-longitudinal plane
-------------------
+longitudinalPlane
+-----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/anatomicalPlane/longitudinalPlane
+   :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/longitudinalPlane
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
    :definition: The 'longitudinal plane' is always perpendicular to the axial and frontal plane of an organism, extremity or organ, running parallel to the 'median plane' and dividing it into a left and right part.
-   :description: \-
-   :synonyms: sagittal plane
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: longitudinal plane
 
-`BACK TO TOP <anatomicalPlane_>`_
+`BACK TO TOP <AnatomicalPlane_>`_
 
 ------------
 

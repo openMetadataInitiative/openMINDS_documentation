@@ -2,153 +2,123 @@
 MeasuredQuantity
 ################
 
-All instances listed below can be validated against the `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/measuredQuantity.html>`_ schema specification.
+Related schema specification: `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/measuredQuantity.html>`
 
 ------------
 
 ------------
 
-chloride reversal potential
----------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential
-   :definition: The reversal potential for chloride ions.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <measuredQuantity_>`_
-
-------------
-
-compensation current
---------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
-   :definition: Current injected into a cell to maintain the membrane potential at a target value.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <measuredQuantity_>`_
-
-------------
-
-holding potential
------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
-   :definition: Measured membrane potential during a voltage-clamp protocol.
-   :description: \-
-   :synonyms: measured holding potential
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <measuredQuantity_>`_
-
-------------
-
-input resistance
-----------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
-   :definition: Total resistance observed by the amplifier during an electrophysiological recording.
-   :description: \-
-   :synonyms: access resistance
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <measuredQuantity_>`_
-
-------------
-
-liquid junction potential
+chlorideReversalPotential
 -------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
-   :definition: A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: The reversal potential for chloride ions.
+   :name: chloride reversal potential
 
-`BACK TO TOP <measuredQuantity_>`_
+`BACK TO TOP <MeasuredQuantity_>`_
 
 ------------
 
-membrane potential
-------------------
+compensationCurrent
+-------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
-   :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: http://uri.interlex.org/base/ilx_0106774
-   :InterLex ID: http://uri.interlex.org/base/ilx_0106774
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: Current injected into a cell to maintain the membrane potential at a target value.
+   :name: compensation current
 
-`BACK TO TOP <measuredQuantity_>`_
+`BACK TO TOP <MeasuredQuantity_>`_
 
 ------------
 
-seal resistance
+holdingPotential
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: Measured membrane potential during a voltage-clamp protocol.
+   :name: holding potential
+
+`BACK TO TOP <MeasuredQuantity_>`_
+
+------------
+
+inputResistance
 ---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
-   :definition: Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: Total resistance observed by the amplifier during an electrophysiological recording.
+   :name: input resistance
 
-`BACK TO TOP <measuredQuantity_>`_
+`BACK TO TOP <MeasuredQuantity_>`_
 
 ------------
 
-series resistance
+liquidJunctionPotential
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.
+   :name: liquid junction potential
+
+`BACK TO TOP <MeasuredQuantity_>`_
+
+------------
+
+membranePotential
 -----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
-   :definition: Resistance of the electrode during an electrophysiological recording.
-   :description: \-
-   :synonyms: access resistance, electrode resistance
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106774
+   :name: membrane potential
+   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106774
 
-`BACK TO TOP <measuredQuantity_>`_
+`BACK TO TOP <MeasuredQuantity_>`_
+
+------------
+
+sealResistance
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.
+   :name: seal resistance
+
+`BACK TO TOP <MeasuredQuantity_>`_
+
+------------
+
+seriesResistance
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
+   :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+   :definition: Resistance of the electrode during an electrophysiological recording.
+   :name: series resistance
+
+`BACK TO TOP <MeasuredQuantity_>`_
 
 ------------
 

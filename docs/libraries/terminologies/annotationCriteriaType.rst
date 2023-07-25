@@ -2,45 +2,37 @@
 AnnotationCriteriaType
 ######################
 
-All instances listed below can be validated against the `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`_ schema specification.
+Related schema specification: `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/annotationCriteriaType.html>`
 
 ------------
 
 ------------
 
-deterministic annotation
-------------------------
+deterministicAnnotation
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation
+   :@id: https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType
    :definition: A 'deterministic annotation' provides an exact assignment of an entity or a list of entities to a defined annotation. The assingment itself can be based on a deterministic or maximum probability assumption.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: deterministic annotation
 
-`BACK TO TOP <annotationCriteriaType_>`_
+`BACK TO TOP <AnnotationCriteriaType_>`_
 
 ------------
 
-probabalistic annotation
-------------------------
+probabalisticAnnotation
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
+   :@id: https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType
    :definition: A 'probabalistic annotation' provides the probability or probabilites to which an entity or a list of entities belong(s) to a defined annotation.
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: probabalistic annotation
 
-`BACK TO TOP <annotationCriteriaType_>`_
+`BACK TO TOP <AnnotationCriteriaType_>`_
 
 ------------
 

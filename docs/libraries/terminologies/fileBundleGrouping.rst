@@ -2,45 +2,35 @@
 FileBundleGrouping
 ##################
 
-All instances listed below can be validated against the `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`_ schema specification.
+Related schema specification: `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileBundleGrouping.html>`
 
 ------------
 
 ------------
 
-behavioral protocol
--------------------
+behavioralProtocol
+------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: behavioral protocol
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
-coordinate space
-----------------
+coordinateSpace
+---------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: coordinate space
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
@@ -49,34 +39,24 @@ protocol
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: protocol
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
-study target
-------------
+studyTarget
+-----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: study target
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
@@ -85,34 +65,24 @@ subject
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: subject
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
-subject group
--------------
+subjectGroup
+------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: subject group
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
@@ -121,52 +91,37 @@ technique
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: technique
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
-tissue sample
--------------
+tissueSample
+------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: tissue sample
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 
-tissue sample collection
-------------------------
+tissueSampleCollection
+----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
-   :definition: \-
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
+   :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
+   :name: tissue sample collection
 
-`BACK TO TOP <fileBundleGrouping_>`_
+`BACK TO TOP <FileBundleGrouping_>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 ModelAbstractionLevel
 #####################
 
-All instances listed below can be validated against the `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelAbstractionLevel.html>`_ schema specification.
+Related schema specification: `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/modelAbstractionLevel.html>`
 
 ------------
 
@@ -13,268 +13,208 @@ algorithm
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of a neural structure or process as an algorithm
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: algorithm
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-cognitive modelling
+cognitiveModelling
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
+   :definition: Modelling of cognitive processes
+   :name: cognitive modelling
+
+`BACK TO TOP <ModelAbstractionLevel_>`_
+
+------------
+
+populationModelling
 -------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
-   :definition: Modelling of cognitive processes
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <modelAbstractionLevel_>`_
-
-------------
-
-population modelling
---------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of neural circuits at the population level
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: population modelling
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-population modelling: neural field
-----------------------------------
+populationModelling-neuralField
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of a neural field
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: population modelling: neural field
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-population modelling: neural mass
----------------------------------
+populationModelling-neuralMass
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of neural masses
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: population modelling: neural mass
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-protein structure
------------------
+proteinStructure
+----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of protein structure
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: protein structure
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-rate neurons
-------------
+rateNeurons
+-----------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by their firing rate
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: rate neurons
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-spiking neurons
----------------
+spikingNeurons
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which the action potentials of individual neurons are represented
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: spiking neurons
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-spiking neurons: biophysical
-----------------------------
+spikingNeurons-biophysical
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: spiking neurons: biophysical
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-spiking neurons: point neuron
------------------------------
+spikingNeurons-pointNeuron
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by point neuron models
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: spiking neurons: point neuron
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-statistical model
------------------
+statisticalModel
+----------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Statistical modelling of neural data generation
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: statistical model
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-systems biology
----------------
+systemsBiology
+--------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of neural systems below the level of individual neurons
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :name: systems biology
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-systems biology: continuous
----------------------------
-
-.. admonition:: metadata sheet
-
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous
-   :definition: Systems biology modelling using concentrations
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
-
-`BACK TO TOP <modelAbstractionLevel_>`_
-
-------------
-
-systems biology: discrete
+systemsBiology-continuous
 -------------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete
-   :definition: Systems biology modelling using representations of individual particles
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
+   :definition: Systems biology modelling using concentrations
+   :name: systems biology: continuous
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
-systems biology: flux balance
------------------------------
+systemsBiology-discrete
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :semantic name: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
-   :definition: Systems biology modelling using flux balance analysis
-   :description: \-
-   :synonyms: \-
-   ------------
-   :preferred ontology ID: \-
-   :InterLex ID: \-
-   :KnowledgeSpace entry: \-
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
+   :definition: Systems biology modelling using representations of individual particles
+   :name: systems biology: discrete
 
-`BACK TO TOP <modelAbstractionLevel_>`_
+`BACK TO TOP <ModelAbstractionLevel_>`_
+
+------------
+
+systemsBiology-fluxBalance
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
+   :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
+   :definition: Systems biology modelling using flux balance analysis
+   :name: systems biology: flux balance
+
+`BACK TO TOP <ModelAbstractionLevel_>`_
 
 ------------
 
