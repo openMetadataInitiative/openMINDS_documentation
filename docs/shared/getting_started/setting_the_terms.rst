@@ -15,3 +15,5 @@ Setting the terms
 **Metadata model:** Specification of multiple metadata schemas and the semantic relations that can be formed between instances constraint by these schemas (e.g., an instance of entity type "person" can be linked to an instance of entity type "dataset" with the relation definition "is curator of".
 
 **Linked metadata instances:** Instanciation of metadata in form of entity-property-value triples that are equiped with unique identifiers in order to allow for non-ambiguous connections between the instances through those identifiers. A typical format for storing linked metadata instances is JSON-LD.
+
+**Graph database:** Database that uses semantically queryable graph structures, where nodes represent conceptual entities with property-value pairs and edges represent the relationships between the nodes. Graph databases can be designed schemaless, and are therefore often used for highly heterogeneous data collections. However, most graph database management systems use metadata models to constrain and validate the nodes and edges to increase the robustness of data queries. 
