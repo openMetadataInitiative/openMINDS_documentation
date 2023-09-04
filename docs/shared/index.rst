@@ -13,5 +13,6 @@ Welcome to the openMINDS documentation!
 .. toctree::
    shared/getting_started
    shared/how_to_contribute
+   shared/supportive_tooling
    specifications
    libraries
