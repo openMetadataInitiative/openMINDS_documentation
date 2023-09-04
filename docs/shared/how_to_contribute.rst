@@ -9,6 +9,6 @@ The openMINDS metadata framework is an open-source project and contributions fro
 
 .. toctree::
    how_to_contribute/code_of_conduct
-   how_to_contribute/instances
-   how_to_contribute/extensions
-   how_to_contribute/schemas
+   how_to_contribute/metadata_instances
+   how_to_contribute/metadata_schemas
+   how_to_contribute/metadata_models
