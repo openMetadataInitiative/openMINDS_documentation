@@ -8,5 +8,3 @@ However, we hope we can provide you with a good starting point.
 
 .. toctree::
    getting_started/setting_the_terms
-   getting_started/matlab
-   getting_started/python
