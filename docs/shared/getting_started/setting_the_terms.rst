@@ -2,7 +2,7 @@
 Setting the terms
 #################
 
-**Metadata:** Data that provides contextual information on other data. In particular, metadata should provide information about data to facilitate their findability, accessibility, interoperability and reusability in accordance with the FAIR guiding principles for scientific data management and stewardship (cf. `Wilkinson et al. 2016 <https://doi.org/10.1038/sdata.2016.18>`_). Note that the distinction between metadata and data is not always clear and can be a matter of perspective.
+**Metadata:** Data that provides contextual information on other data. In particular, metadata should provide information about data to facilitate their findability, accessibility, interoperability and reusability in accordance with the FAIR guiding principles for scientific data management and stewardship (cf. `Wilkinson et al. 2016 <https://doi.org/10.1038/sdata.2016.18>`_). The distinction between metadata and data is a matter of perspective. For this reason, 'metadata' are often also referred to by simply using the term 'data' or '(meta)data'.
 
 **Property-value pair:** Fundamental structured (meta)data representation that consists of two elements: a value that can specify a (meta)data variable (e.g., "Homo sapiens") and a property defining the context of the value (e.g., "species"). Note that a value can be simple (e.g., string, number, array) or complex (e.g., property-value pair). Synonyms: attribute-value pair, field-value pair, key-value pair, name-value pair.
 
