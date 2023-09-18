@@ -13,6 +13,11 @@ Applying the openMINDS framework to your own data collection, requires you to de
 .. note::
    This project is under active development. As an open-source project community contributions are highly appreciated (cf. `How to contribute <shared/how_to_contribute>`_). 
 
+Funding and acknowledgements
+############################
+
+openMINDS was developed in the `Human Brain Project (HBP) <https://www.humanbrainproject.eu>`_, funded from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under Specific Grant Agreement (SGA) `No. 720270 <https://doi.org/10.3030/720270>`_, `No. 785907 <https://doi.org/10.3030/785907>`_, and `No. 945539 <https://doi.org/10.3030/945539>`_.  
+
 .. toctree::
    shared/getting_started
    shared/how_to_contribute
