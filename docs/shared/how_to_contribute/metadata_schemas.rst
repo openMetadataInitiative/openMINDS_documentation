@@ -29,51 +29,7 @@ The following code block sketches the most simple implementation of an openMINDS
      ]
    }
 
-Such an openMINDS schema template should be combined with centrally maintained vocabulary for schema types and properties. The following code block sketches the vocabulary implementation for a single schema type:
-
-.. code-block:: json
-
-   {
-     "SCHEMATYPE": {
-       "color": "HEXCOLOR",
-       "description": "SCHEMATYPE_DESCRIPTION",
-       "isPartOfVersion": [
-         "VERSION"
-       ],
-       "label": "SCHEMALABEL",
-       "name": "SCHEMANAME",
-       "semanticEquivalent": [
-         "UNIQUEID_OF_EQUIVALENT_SCHEMA"
-       ]
-     }
-   }
-
-The next code block sketches the vocabulary implementation for a single property:
-
-.. code-block:: json
-
-   {
-     "PROPERTYNAME": {
-       "asString": {
-         "formatting": "STRINGFORMAT",
-         "inVersions": [
-           "VERSION"
-         ],
-         "multiline": "BOOLEAN"
-       },
-       "description": "PROPERTYNAME_DESCRIPTION",
-       "label": "PROPERTYLABEL",
-       "name": "PROPERTYNAME_SHORT",
-       "semanticEquivalent": [
-         "UNIQUEID_OF_EQUIVALENT_PROPERTY"
-       ],
-       "usedIn": {
-         "VERSION": [
-           "SCHEMATYPE"
-         ]
-       }
-     }
-   }
+Such an openMINDS schema template should be combined with centrally maintained vocabulary for schema types and properties.
 
 Development guidelines
 ######################
