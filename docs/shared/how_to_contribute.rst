@@ -12,3 +12,4 @@ The openMINDS metadata framework is an open-source project and contributions fro
    how_to_contribute/metadata_instances
    how_to_contribute/metadata_schemas
    how_to_contribute/metadata_models
+   how_to_contribute/vocabulary
