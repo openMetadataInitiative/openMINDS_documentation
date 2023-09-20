@@ -2,7 +2,7 @@
 openMINDS instances
 ###################
 
-openMINDS instances should be provided as JSON-LD files and comply to the openMINDS schema type they reference. In the following we will demonstrate how to create openMINDS instances for simple examples.
+openMINDS instances should be provided as JSON-LD files (``*.jsonld``) and comply to the openMINDS schema type they reference. In the following we will demonstrate how to create openMINDS instances for simple examples.
 
 Creating a minimal instance
 ###########################
@@ -25,7 +25,7 @@ Nonetheless, for our example, let us also specify the optional property `"family
      "givenName": "Zaphod"
    }
 
-Link an instances with other instances
+Link an instance with another instance
 ######################################
 
 Let us now link the minimal "Person" instance we've created with metadata defined in an other instance. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ is actually an edge that should link to an instance of type "ContactInformation". We will therefore have to create a second instance of type "ContactInformation".
@@ -43,7 +43,7 @@ If we ckeck the constraints of the `"ContactInformation" schema <https://openmin
      "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
    }
 
-And we can link this instance in our "Person" instance like this:
+And we can link this "ContactInformation" instance in our "Person" instance like this:
 
 .. code-block:: json
 
