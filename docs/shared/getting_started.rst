@@ -29,4 +29,9 @@ Setting the terms
 
 
 .. toctree::
+   getting_started/openMINDS_instances
+   getting_started/openMINDS_collections
    getting_started/research_products
+   getting_started/file_repositories
+   getting_started/studied_specimens
+   getting_started/research_activities
