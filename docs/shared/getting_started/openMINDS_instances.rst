@@ -2,16 +2,16 @@
 openMINDS instances
 ###################
 
-openMINDS metadata instances should be provided as JSON-LD files and comply to the openMINDS schema type they reference. In the following we will demonstrate how to create an openMINDS metadata instances for a simple example.
+openMINDS instances should be provided as JSON-LD files and comply to the openMINDS schema type they reference. In the following we will demonstrate how to create openMINDS instances for simple examples.
 
 Creating a minimal instance
 ###########################
 
-In order to creat a Person instance we need to check out the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_.
+Let us start be creating a "Person" instance. For this, we first need to check the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_.
 
-The schema demands only one required property, namely the property `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only one value of data type "string" is expected. The property `"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_ is optional, but with the same value constraints as the "givenName".
+The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional and do not have to be specified in a valid openMINDS "Person" instance. 
 
-Based on this information let us define a minimal Person instance:
+Nonetheless, for our example, let us also specify the optional property `"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_ which has the same value constraints as the "givenName". Based on these constraints, let us define a minimal "Person" instance:
 
 .. code-block:: json
 
@@ -28,9 +28,9 @@ Based on this information let us define a minimal Person instance:
 Link an instances with other instances
 ######################################
 
-Let us link now the simple Person instance we've created with metadata defined in an other instance. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ should link to an object of type "ContactInformation". We will therefore have to create a second instance of type "ContactInformation".
+Let us now link the minimal "Person" instance we've created with metadata defined in an other instance. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ is actually an edge that should link to an instance of type "ContactInformation". We will therefore have to create a second instance of type "ContactInformation".
 
-If we ckeck the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only has to have the property "email" defined through one value of data type "string". A respective "ContactInformation" instance could look like this:
+If we ckeck the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property "email" defined through a single value of data type "string". A respective "ContactInformation" instance could look like this:
 
 .. code-block:: json
 
