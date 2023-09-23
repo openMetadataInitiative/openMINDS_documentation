@@ -42,9 +42,9 @@ The ``"@type"`` keyword in a JSONLD document is used to set the type of an insta
 Link an instance with another instance
 ######################################
 
-Let us now link the minimal "Person" instance we've created with metadata defined in an other instance. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ is actually an edge that should link to an instance of type "ContactInformation". We will therefore have to create a second instance of type "ContactInformation".
+Instances within a graph database are linked. As example, let us link a "Person" instance with another instance. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ is actually a link (edge) to an instance of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
 
-If we ckeck the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could look like this:
+If we ckeck the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
 .. code-block:: json
 
@@ -57,7 +57,7 @@ If we ckeck the constraints of the `"ContactInformation" schema <https://openmin
      "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
    }
 
-Let us extend our "Person" instance with an value (single string) of an optional property (`"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_) and the linkage to the "ContactInformation" instance:
+Further let us define again a "Person" instance. This time with the additional optional properties (`"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_) which requires a simple string value and (`"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_) which requires a link to an instance of type "ContactInformation":
 
 .. code-block:: json
 
