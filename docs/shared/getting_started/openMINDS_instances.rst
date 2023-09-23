@@ -24,7 +24,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
 
 Let us explain in the following the meaning of ``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"`` which are JSON-LD syntax keywords that can be part of any JSON-LD document. 
 
-The ``"@context"`` keyword allows a JSON-LD document to use shortcut terms without losing accuracy. In openMINDS we particularly use it to define the prefix of the global vocabulary (`"@vocab"`) for properties (cf. . Generally, the `"@vocab"` keyword in a JSON-LD document sets a common prefix for all properties and types that do not match a term, an IRI, or a compact IRI. When unspecified in an openMINDS JSONLD, the property names have to be expanded with the prefix we specified for the `"@vocab"` keyword in our previous code block:
+The ``"@context"`` keyword allows a JSON-LD document to use shortcut terms without losing accuracy. In openMINDS we particularly use it to define the prefix of the global vocabulary (``"@vocab"``) for properties (cf. . Generally, the ``"@vocab"`` keyword in a JSON-LD document sets a common prefix for all properties and types that do not match a term, an IRI, or a compact IRI. When unspecified in an openMINDS JSONLD, the property names have to be expanded with the prefix we specified for the ``"@vocab"`` keyword in our previous code block:
 
 .. code-block:: json
 
