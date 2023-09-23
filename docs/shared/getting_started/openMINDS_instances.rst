@@ -12,6 +12,7 @@ Let us start be creating a "Person" instance. For this, we first need to check t
 The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional and do not have to be specified in a valid openMINDS "Person" instance. Based on these constraints, let us define a minimal "Person" instance:
 
 .. code-block:: json
+   :caption: zaphod.jsonld
 
    {
      "@context": {
