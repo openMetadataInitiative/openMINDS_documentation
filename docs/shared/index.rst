@@ -18,7 +18,7 @@ Funding and acknowledgements
 
 openMINDS was developed in the `Human Brain Project (HBP) <https://www.humanbrainproject.eu>`_, funded from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under Specific Grant Agreement (SGA) `No. 720270 <https://doi.org/10.3030/720270>`_, `No. 785907 <https://doi.org/10.3030/785907>`_, and `No. 945539 <https://doi.org/10.3030/945539>`_. 
 
-The framework also received support from the Helmholtz Association’s Initiative and Networking Fund under the Helmholtz International Lab grant agreement InterLabs-0015, and the Canada First Research Excellence Fund (CFREF Competition 2, 2015-2016) awarded to the Healthy Brains, Healthy Lives initiative at McGill University, through the Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL).
+The framework also received support through the `Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL) <https://bigbrainproject.org/hiball.html>`_.
 
 .. toctree::
    shared/getting_started
