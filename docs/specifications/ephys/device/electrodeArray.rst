@@ -46,7 +46,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this device.
 
 `BACK TO TOP <ElectrodeArray_>`_

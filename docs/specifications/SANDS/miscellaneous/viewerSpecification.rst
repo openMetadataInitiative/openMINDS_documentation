@@ -29,7 +29,7 @@ Mention of what deserves additional attention or notice.
 
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this viewer specification.
 
 `BACK TO TOP <ViewerSpecification_>`_

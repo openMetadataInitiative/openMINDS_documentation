@@ -13,6 +13,7 @@ ControlledTerms
 - `AtlasType <controlledTerms/atlasType.html>`_
 - `AuditoryStimulusType <controlledTerms/auditoryStimulusType.html>`_
 - `BiologicalOrder <controlledTerms/biologicalOrder.html>`_
+- `BiologicalProcess <controlledTerms/biologicalProcess.html>`_
 - `BiologicalSex <controlledTerms/biologicalSex.html>`_
 - `BreedingType <controlledTerms/breedingType.html>`_
 - `CellCultureType <controlledTerms/cellCultureType.html>`_
@@ -42,6 +43,7 @@ ControlledTerms
 - `Laterality <controlledTerms/laterality.html>`_
 - `LearningResourceType <controlledTerms/learningResourceType.html>`_
 - `MeasuredQuantity <controlledTerms/measuredQuantity.html>`_
+- `MeasuredSignalType <controlledTerms/measuredSignalType.html>`_
 - `MetaDataModelType <controlledTerms/metaDataModelType.html>`_
 - `ModelAbstractionLevel <controlledTerms/modelAbstractionLevel.html>`_
 - `ModelScope <controlledTerms/modelScope.html>`_
@@ -92,6 +94,7 @@ ControlledTerms
    controlledTerms/atlasType
    controlledTerms/auditoryStimulusType
    controlledTerms/biologicalOrder
+   controlledTerms/biologicalProcess
    controlledTerms/biologicalSex
    controlledTerms/breedingType
    controlledTerms/cellCultureType
@@ -121,6 +124,7 @@ ControlledTerms
    controlledTerms/laterality
    controlledTerms/learningResourceType
    controlledTerms/measuredQuantity
+   controlledTerms/measuredSignalType
    controlledTerms/metaDataModelType
    controlledTerms/modelAbstractionLevel
    controlledTerms/modelScope

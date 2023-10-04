@@ -46,7 +46,7 @@ comment
 
    :semantic name: https://openminds.ebrains.eu/vocab/comment
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/plain; multiline
    :instructions: Enter the comment about the research product (version) stated under 'about'.
 
 `BACK TO TOP <Comment_>`_

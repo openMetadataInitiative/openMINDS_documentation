@@ -31,8 +31,8 @@ Mention of what deserves additional attention or notice.
 
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter any additional remarks concering the specimen (set) in this state.
+                | formatting: text/markdown; multiline
+   :instructions: Enter any additional remarks concerning the specimen (set) in this state.
 
 `BACK TO TOP <SubjectState_>`_
 

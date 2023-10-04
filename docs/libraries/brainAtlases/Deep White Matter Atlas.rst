@@ -20,9 +20,9 @@ Terminology
 
 * deep white matter
    * arcuate fasciculus
-      * anterior segement of arcuate fasciculus
-      * direct segement of arcuate fasciculus
-      * posterior segement of arcuate fasciculus
+      * anterior segment of arcuate fasciculus
+      * direct segment of arcuate fasciculus
+      * posterior segment of arcuate fasciculus
    * cingulum
       * long cingulate fibres
       * short cingulate fibres

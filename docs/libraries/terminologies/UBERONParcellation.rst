@@ -5422,7 +5422,7 @@ hippocampusFimbria
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hippocampus fimbria' is a central nervous system cell part cluster. It is part of the fornix of brain, Ammon's horn and white matter of telencephalon.
-   :description: Part of fornix lying closest to the hippocampal formation continuos with the alveus.
+   :description: Part of fornix lying closest to the hippocampal formation continuous with the alveus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104243
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002310#fimbria-of-hippocampus
    :name: hippocampus fimbria
@@ -8166,7 +8166,7 @@ mesencephalicNucleusOfTrigeminalNerve
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mesencephalic nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
-   :description: Elongated nucleus located in the midbrain tegmentum that receives proprioceptive input from both teh extraocular and the masticatory muscles.  Contrary to the general rule, the cell bodies that give rise to these sensory fibers are located within the mesencephalic nucleus rather than in a peripheral ganglion.  Some of the sensory fibers in the mesencephalic root give off collaterals to the trigeminal motor nucleus, thereby providing the anatomic basis for the monosynaptic jaw reflex. (Heimer, L.  The Human Brain and Spinal Cord, 2nd ed. 1996, page 248).
+   :description: Elongated nucleus located in the midbrain tegmentum that receives proprioceptive input from both the extraocular and the masticatory muscles.  Contrary to the general rule, the cell bodies that give rise to these sensory fibers are located within the mesencephalic nucleus rather than in a peripheral ganglion.  Some of the sensory fibers in the mesencephalic root give off collaterals to the trigeminal motor nucleus, thereby providing the anatomic basis for the monosynaptic jaw reflex. (Heimer, L.  The Human Brain and Spinal Cord, 2nd ed. 1996, page 248).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106812
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001718#mesencephalic-nucleus-of-trigeminal-nerve-1
    :name: mesencephalic nucleus of trigeminal nerve
@@ -8794,7 +8794,7 @@ nucleusOfOpticTract
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.
-   :description: Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system.  In several species, cells of this nucleus receive inpu from the contralateral retina (Sefton and Dreher in Paxinos, G.  The rat nervous system, 1995, pg. 862).
+   :description: Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system.  In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G.  The rat nervous system, 1995, pg. 862).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107759
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002996#nucleus-of-optic-tract-1
    :name: nucleus of optic tract
@@ -9655,7 +9655,7 @@ parahippocampalGyrus
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parahippocampal gyrus' is a gyrus. It is part of the limbic system, temporal lobe and limbic lobe.
-   :description: Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively.  The medial boudnary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine).
+   :description: Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively.  The medial boundary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108441
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002973#parahippocampal-gyrus-1
    :name: parahippocampal gyrus
@@ -11720,7 +11720,7 @@ regionalPartOfBrain
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Regional part of brain' is a regional part of nervous system. It is part of the brain.
-   :description: Anatomical divisons of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia.
+   :description: Anatomical divisions of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109835
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002616#regional-part-of-brain-1
    :name: regional part of brain
@@ -12183,7 +12183,7 @@ secondaryVisualCortex
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Secondary visual cortex' is part of Brodmann area 18 and a functional region of the brain. It is part of the visual cortex.
-   :description: A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual assocation area.
+   :description: A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual association area.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727119
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022232#secondary-visual-cortex
    :name: secondary visual cortex
@@ -13453,7 +13453,7 @@ tailOfCaudateNucleus
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tail of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
-   :description: Narrowest part of the caudate nucleus, roughtly defined as that portion that curves ventrally from the body of the caudate nucleus, following the temporal horn of the lateral ventricle
+   :description: Narrowest part of the caudate nucleus, roughly defined as that portion that curves ventrally from the body of the caudate nucleus, following the temporal horn of the lateral ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111511
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002628#tail-of-caudate-nucleus-1
    :name: tail of caudate nucleus
@@ -14296,7 +14296,7 @@ ventralNucleusOfMedialGeniculateBody
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
-   :description: Ventral division of medial geniculate body, first described by Morest (1964) in the cat, but found in primate, mouse and rat as well. It begins midway in the posterior third of the medial geniculate in the cat and is prominant anteriorly. The boundary between the dorsal and ventral divisions is demarcated in rat by a thick horizontally oriented axon bundle, the midgeniculate bundle (Webster, 1995, fig 16).
+   :description: Ventral division of medial geniculate body, first described by Morest (1964) in the cat, but found in primate, mouse and rat as well. It begins midway in the posterior third of the medial geniculate in the cat and is prominent anteriorly. The boundary between the dorsal and ventral divisions is demarcated in rat by a thick horizontally oriented axon bundle, the midgeniculate bundle (Webster, 1995, fig 16).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112323
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002985#ventral-nucleus-of-medial-geniculate-body-1
    :name: ventral nucleus of medial geniculate body

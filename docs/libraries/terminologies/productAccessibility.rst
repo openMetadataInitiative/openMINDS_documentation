@@ -15,7 +15,7 @@ controlledAccess
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
-   :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.
+   :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they logged in and authenticated themselves.
    :name: controlled access
 
 `BACK TO TOP <ProductAccessibility_>`_

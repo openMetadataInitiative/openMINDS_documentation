@@ -29,7 +29,7 @@ contentDescription
 
    :semantic name: https://openminds.ebrains.eu/vocab/contentDescription
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/plain; multiline
    :instructions: Enter a short content description for this local file instance.
 
 `BACK TO TOP <LocalFile_>`_

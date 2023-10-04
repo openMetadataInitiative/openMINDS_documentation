@@ -8,12 +8,12 @@ Related schema specification: `ContentTypes <https://openminds-documentation.rea
 
 ------------
 
-4-mat
------
+application_4-mat
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/4-mat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_4-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/4-mat
 
@@ -21,12 +21,12 @@ Related schema specification: `ContentTypes <https://openminds-documentation.rea
 
 ------------
 
-5-mat
------
+application_5-mat
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/5-mat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_5-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/5-mat
 
@@ -34,12 +34,12 @@ Related schema specification: `ContentTypes <https://openminds-documentation.rea
 
 ------------
 
-dicom
------
+application_dicom
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/dicom
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_dicom
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/dicom
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/dicom
@@ -48,12 +48,12 @@ dicom
 
 ------------
 
-json
-----
+application_json
+----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
@@ -62,12 +62,12 @@ json
 
 ------------
 
-ld+json
--------
+application_ld+json
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/ld+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_ld+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/ld+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/ld+json
@@ -76,12 +76,12 @@ ld+json
 
 ------------
 
-octet-stream
-------------
+application_octet-stream
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/octet-stream
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_octet-stream
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/octet-stream
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/octet-stream
@@ -90,12 +90,12 @@ octet-stream
 
 ------------
 
-pdf
----
+application_pdf
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/pdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_pdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/pdf
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/pdf
@@ -105,12 +105,12 @@ pdf
 
 ------------
 
-sbml+xml
---------
+application_sbml+xml
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/sbml+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_sbml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/sbml+xml
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/sbml+xml
@@ -119,12 +119,12 @@ sbml+xml
 
 ------------
 
-schema+json
------------
+application_schema+json
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/schema+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_schema+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/schema+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/schema+json
@@ -133,12 +133,12 @@ schema+json
 
 ------------
 
-vnd.3i.slidebook
-----------------
+application_vnd.3i.slidebook
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.3i.slidebook
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.3i.slidebook
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.3i.slidebook
 
@@ -146,12 +146,12 @@ vnd.3i.slidebook
 
 ------------
 
-vnd.ANTEEProbe
---------------
+application_vnd.ANTEEProbe
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ANTEEProbe
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ANTEEProbe
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ANTEEProbe
 
@@ -159,12 +159,12 @@ vnd.ANTEEProbe
 
 ------------
 
-vnd.abberior.imspector
-----------------------
+application_vnd.abberior.imspector
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.abberior.imspector
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.abberior.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.abberior.imspector
    :specification: https://imspectordocs.readthedocs.io/en/latest/fileformat.html#the-imspector-msr-file-format
@@ -173,12 +173,12 @@ vnd.abberior.imspector
 
 ------------
 
-vnd.afni
---------
+application_vnd.afni
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.afni
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.afni
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.afni
 
@@ -186,12 +186,12 @@ vnd.afni
 
 ------------
 
-vnd.alicona
------------
+application_vnd.alicona
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.alicona
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alicona
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.alicona
 
@@ -199,12 +199,12 @@ vnd.alicona
 
 ------------
 
-vnd.alphaomega-eng
-------------------
+application_vnd.alphaomega-eng
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.alphaomega-eng
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alphaomega-eng
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.alphaomega-eng
 
@@ -212,12 +212,12 @@ vnd.alphaomega-eng
 
 ------------
 
-vnd.amiramesh
--------------
+application_vnd.amiramesh
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.amiramesh
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amiramesh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.amiramesh
 
@@ -225,12 +225,12 @@ vnd.amiramesh
 
 ------------
 
-vnd.amnis-flowsight
--------------------
+application_vnd.amnis-flowsight
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.amnis-flowsight
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amnis-flowsight
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.amnis-flowsight
 
@@ -238,12 +238,12 @@ vnd.amnis-flowsight
 
 ------------
 
-vnd.analysisservices
---------------------
+application_vnd.analysisservices
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.analysisservices
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analysisservices
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analysisservices
 
@@ -251,12 +251,12 @@ vnd.analysisservices
 
 ------------
 
-vnd.analyze.analyze75
----------------------
+application_vnd.analyze.analyze75
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.analyze.analyze75
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyze75
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analyze.analyze75
 
@@ -264,12 +264,12 @@ vnd.analyze.analyze75
 
 ------------
 
-vnd.analyze.analyzeavw
-----------------------
+application_vnd.analyze.analyzeavw
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.analyze.analyzeavw
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyzeavw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analyze.analyzeavw
 
@@ -277,12 +277,12 @@ vnd.analyze.analyzeavw
 
 ------------
 
-vnd.andor.andorsif
-------------------
+application_vnd.andor.andorsif
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.andor.andorsif
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.andor.andorsif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.andor.andorsif
 
@@ -290,12 +290,12 @@ vnd.andor.andorsif
 
 ------------
 
-vnd.ansysfluent
----------------
+application_vnd.ansysfluent
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ansysfluent
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ansysfluent
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ansysfluent
 
@@ -303,12 +303,12 @@ vnd.ansysfluent
 
 ------------
 
-vnd.ant.eeprobe
----------------
+application_vnd.ant.eeprobe
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ant.eeprobe
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ant.eeprobe
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ant.eeprobe
 
@@ -316,12 +316,12 @@ vnd.ant.eeprobe
 
 ------------
 
-vnd.ants.linearTransform+mat
-----------------------------
+application_vnd.ants.linearTransform+mat
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ants.linearTransform+mat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.linearTransform+mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ants.linearTransform+mat
 
@@ -329,12 +329,12 @@ vnd.ants.linearTransform+mat
 
 ------------
 
-vnd.ants.nonlinearTransform+hdf5
---------------------------------
+application_vnd.ants.nonlinearTransform+hdf5
+--------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ants.nonlinearTransform+hdf5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.nonlinearTransform+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ants.nonlinearTransform+hdf5
 
@@ -342,12 +342,12 @@ vnd.ants.nonlinearTransform+hdf5
 
 ------------
 
-vnd.anywave
------------
+application_vnd.anywave
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.anywave
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.anywave
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.anywave
 
@@ -355,12 +355,12 @@ vnd.anywave
 
 ------------
 
-vnd.applied-precision.cellworx
-------------------------------
+application_vnd.applied-precision.cellworx
+------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.applied-precision.cellworx
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.applied-precision.cellworx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.applied-precision.cellworx
 
@@ -368,12 +368,12 @@ vnd.applied-precision.cellworx
 
 ------------
 
-vnd.arbor-simulator+python
---------------------------
+application_vnd.arbor-simulator+python
+--------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.arbor-simulator+python
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.arbor-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.arbor-simulator+python
 
@@ -381,12 +381,12 @@ vnd.arbor-simulator+python
 
 ------------
 
-vnd.asciidoc
-------------
+application_vnd.asciidoc
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.asciidoc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.asciidoc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.asciidoc
 
@@ -394,12 +394,12 @@ vnd.asciidoc
 
 ------------
 
-vnd.autodesk.3ds-max.3d-studio-mesh
------------------------------------
+application_vnd.autodesk.3ds-max.3d-studio-mesh
+-----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.autodesk.3ds-max.3d-studio-mesh
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.autodesk.3ds-max.3d-studio-mesh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.autodesk.3ds-max.3d-studio-mesh
 
@@ -407,12 +407,12 @@ vnd.autodesk.3ds-max.3d-studio-mesh
 
 ------------
 
-vnd.avs.ucd
------------
+application_vnd.avs.ucd
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.avs.ucd
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.avs.ucd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.avs.ucd
 
@@ -420,12 +420,12 @@ vnd.avs.ucd
 
 ------------
 
-vnd.axograph
-------------
+application_vnd.axograph
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.axograph
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.axograph
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.axograph
 
@@ -433,12 +433,12 @@ vnd.axograph
 
 ------------
 
-vnd.bbp.bluron
---------------
+application_vnd.bbp.bluron
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bbp.bluron
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.bluron
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bbp.bluron
 
@@ -446,12 +446,12 @@ vnd.bbp.bluron
 
 ------------
 
-vnd.bbp.simulation.blueconfig
------------------------------
+application_vnd.bbp.simulation.blueconfig
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bbp.simulation.blueconfig
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.simulation.blueconfig
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bbp.simulation.blueconfig
 
@@ -459,12 +459,12 @@ vnd.bbp.simulation.blueconfig
 
 ------------
 
-vnd.bci2000
------------
+application_vnd.bci2000
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bci2000
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bci2000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bci2000
 
@@ -472,12 +472,12 @@ vnd.bci2000
 
 ------------
 
-vnd.bd-biosciences.bdpathway
-----------------------------
+application_vnd.bd-biosciences.bdpathway
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bd-biosciences.bdpathway
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bd-biosciences.bdpathway
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bd-biosciences.bdpathway
 
@@ -485,12 +485,12 @@ vnd.bd-biosciences.bdpathway
 
 ------------
 
-vnd.becker-hickl.spcfifo
-------------------------
+application_vnd.becker-hickl.spcfifo
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.becker-hickl.spcfifo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcfifo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.becker-hickl.spcfifo
 
@@ -498,12 +498,12 @@ vnd.becker-hickl.spcfifo
 
 ------------
 
-vnd.becker-hickl.spcimage
--------------------------
+application_vnd.becker-hickl.spcimage
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.becker-hickl.spcimage
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.becker-hickl.spcimage
 
@@ -511,12 +511,12 @@ vnd.becker-hickl.spcimage
 
 ------------
 
-vnd.bids
---------
+application_vnd.bids
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bids
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bids
 
@@ -524,12 +524,12 @@ vnd.bids
 
 ------------
 
-vnd.bids.electrodesformat
--------------------------
+application_vnd.bids.electrodesformat
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bids.electrodesformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids.electrodesformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bids.electrodesformat
 
@@ -537,12 +537,12 @@ vnd.bids.electrodesformat
 
 ------------
 
-vnd.bigdataviewer
------------------
+application_vnd.bigdataviewer
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bigdataviewer
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bigdataviewer
 
@@ -550,12 +550,12 @@ vnd.bigdataviewer
 
 ------------
 
-vnd.bigdataviewer+h5
---------------------
+application_vnd.bigdataviewer+h5
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bigdataviewer+h5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer+h5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bigdataviewer+h5
 
@@ -563,12 +563,12 @@ vnd.bigdataviewer+h5
 
 ------------
 
-vnd.bio-rad.gel
----------------
+application_vnd.bio-rad.gel
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bio-rad.gel
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.gel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.gel
 
@@ -576,12 +576,12 @@ vnd.bio-rad.gel
 
 ------------
 
-vnd.bio-rad.pic
----------------
+application_vnd.bio-rad.pic
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bio-rad.pic
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.pic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.pic
 
@@ -589,12 +589,12 @@ vnd.bio-rad.pic
 
 ------------
 
-vnd.bio-rad.scn
----------------
+application_vnd.bio-rad.scn
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bio-rad.scn
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.scn
 
@@ -602,12 +602,12 @@ vnd.bio-rad.scn
 
 ------------
 
-vnd.bionetgen
--------------
+application_vnd.bionetgen
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bionetgen
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bionetgen
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bionetgen
 
@@ -615,12 +615,12 @@ vnd.bionetgen
 
 ------------
 
-vnd.blackrockmicrosystems.neuralevents
---------------------------------------
+application_vnd.blackrockmicrosystems.neuralevents
+--------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralevents
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralevents
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralevents
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -629,12 +629,12 @@ vnd.blackrockmicrosystems.neuralevents
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.1
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.1
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.1
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.1
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -643,12 +643,12 @@ vnd.blackrockmicrosystems.neuralsignals.1
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.2
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.2
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.2
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -657,12 +657,12 @@ vnd.blackrockmicrosystems.neuralsignals.2
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.3
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.3
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.3
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.3
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -671,12 +671,12 @@ vnd.blackrockmicrosystems.neuralsignals.3
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.4
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.4
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.4
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.4
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -685,12 +685,12 @@ vnd.blackrockmicrosystems.neuralsignals.4
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.5
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.5
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.5
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -699,12 +699,12 @@ vnd.blackrockmicrosystems.neuralsignals.5
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.6
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.6
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.6
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.6
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.6
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -713,12 +713,12 @@ vnd.blackrockmicrosystems.neuralsignals.6
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.7
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.7
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.7
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.7
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -727,12 +727,12 @@ vnd.blackrockmicrosystems.neuralsignals.7
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.8
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.8
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.8
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.8
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.8
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -741,12 +741,12 @@ vnd.blackrockmicrosystems.neuralsignals.8
 
 ------------
 
-vnd.blackrockmicrosystems.neuralsignals.9
------------------------------------------
+application_vnd.blackrockmicrosystems.neuralsignals.9
+-----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.neuralsignals.9
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.9
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.9
    :specification: https://blackrockneurotech.com/research/wp-content/ifu/LB-0023-7.00_NEV_File_Format.pdf
@@ -755,12 +755,12 @@ vnd.blackrockmicrosystems.neuralsignals.9
 
 ------------
 
-vnd.blackrockmicrosystems.parallelrecordings
---------------------------------------------
+application_vnd.blackrockmicrosystems.parallelrecordings
+--------------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blackrockmicrosystems.parallelrecordings
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.parallelrecordings
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.parallelrecordings
 
@@ -768,12 +768,12 @@ vnd.blackrockmicrosystems.parallelrecordings
 
 ------------
 
-vnd.blk
--------
+application_vnd.blk
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.blk
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blk
 
@@ -781,12 +781,12 @@ vnd.blk
 
 ------------
 
-vnd.bluebrainproject.bluepyopt
-------------------------------
+application_vnd.bluebrainproject.bluepyopt
+------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bluebrainproject.bluepyopt
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bluebrainproject.bluepyopt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bluebrainproject.bluepyopt
 
@@ -794,12 +794,12 @@ vnd.bluebrainproject.bluepyopt
 
 ------------
 
-vnd.brain-innovation.brainvoyager
----------------------------------
+application_vnd.brain-innovation.brainvoyager
+---------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brain-innovation.brainvoyager
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brain-innovation.brainvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brain-innovation.brainvoyager
 
@@ -807,12 +807,12 @@ vnd.brain-innovation.brainvoyager
 
 ------------
 
-vnd.brainnetviewer
-------------------
+application_vnd.brainnetviewer
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainnetviewer
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainnetviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainnetviewer
 
@@ -820,12 +820,12 @@ vnd.brainnetviewer
 
 ------------
 
-vnd.brainproducts
------------------
+application_vnd.brainproducts
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainproducts
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainproducts
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainproducts
 
@@ -833,12 +833,12 @@ vnd.brainproducts
 
 ------------
 
-vnd.brains2
------------
+application_vnd.brains2
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brains2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brains2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brains2
 
@@ -846,12 +846,12 @@ vnd.brains2
 
 ------------
 
-vnd.brainvision.binary
-----------------------
+application_vnd.brainvision.binary
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainvision.binary
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.binary
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.binary
 
@@ -859,12 +859,12 @@ vnd.brainvision.binary
 
 ------------
 
-vnd.brainvision.header
-----------------------
+application_vnd.brainvision.header
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainvision.header
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.header
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.header
 
@@ -872,12 +872,12 @@ vnd.brainvision.header
 
 ------------
 
-vnd.brainvision.marker
-----------------------
+application_vnd.brainvision.marker
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.brainvision.marker
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.marker
 
@@ -885,12 +885,12 @@ vnd.brainvision.marker
 
 ------------
 
-vnd.bsc
--------
+application_vnd.bsc
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bsc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bsc
 
@@ -898,12 +898,12 @@ vnd.bsc
 
 ------------
 
-vnd.bsc.paraver.configurationfile
----------------------------------
+application_vnd.bsc.paraver.configurationfile
+---------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.bsc.paraver.configurationfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc.paraver.configurationfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bsc.paraver.configurationfile
 
@@ -911,12 +911,12 @@ vnd.bsc.paraver.configurationfile
 
 ------------
 
-vnd.burleigh-instruments.burleigh
----------------------------------
+application_vnd.burleigh-instruments.burleigh
+---------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.burleigh-instruments.burleigh
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.burleigh-instruments.burleigh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.burleigh-instruments.burleigh
 
@@ -924,12 +924,12 @@ vnd.burleigh-instruments.burleigh
 
 ------------
 
-vnd.byu
--------
+application_vnd.byu
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.byu
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.byu
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.byu
 
@@ -937,12 +937,12 @@ vnd.byu
 
 ------------
 
-vnd.canon.canondng
-------------------
+application_vnd.canon.canondng
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.canon.canondng
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.canon.canondng
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.canon.canondng
 
@@ -950,12 +950,12 @@ vnd.canon.canondng
 
 ------------
 
-vnd.cell-sens-vsi
------------------
+application_vnd.cell-sens-vsi
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cell-sens-vsi
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cell-sens-vsi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cell-sens-vsi
 
@@ -963,12 +963,12 @@ vnd.cell-sens-vsi
 
 ------------
 
-vnd.cellh5+hdf5
----------------
+application_vnd.cellh5+hdf5
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cellh5+hdf5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cellh5+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cellh5+hdf5
 
@@ -976,12 +976,12 @@ vnd.cellh5+hdf5
 
 ------------
 
-vnd.commonworkflowlanguage.cmdline
-----------------------------------
+application_vnd.commonworkflowlanguage.cmdline
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.commonworkflowlanguage.cmdline
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.cmdline
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.commonworkflowlanguage.cmdline
 
@@ -989,12 +989,12 @@ vnd.commonworkflowlanguage.cmdline
 
 ------------
 
-vnd.commonworkflowlanguage.workflow
------------------------------------
+application_vnd.commonworkflowlanguage.workflow
+-----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.commonworkflowlanguage.workflow
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.workflow
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.commonworkflowlanguage.workflow
 
@@ -1002,12 +1002,12 @@ vnd.commonworkflowlanguage.workflow
 
 ------------
 
-vnd.connectomics-lab.connectome
--------------------------------
+application_vnd.connectomics-lab.connectome
+-------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.connectomics-lab.connectome
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.connectomics-lab.connectome
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.connectomics-lab.connectome
 
@@ -1015,12 +1015,12 @@ vnd.connectomics-lab.connectome
 
 ------------
 
-vnd.ctf
--------
+application_vnd.ctf
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ctf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ctf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ctf
 
@@ -1028,12 +1028,12 @@ vnd.ctf
 
 ------------
 
-vnd.cytiva.deltavision
-----------------------
+application_vnd.cytiva.deltavision
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.cytiva.deltavision
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cytiva.deltavision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cytiva.deltavision
 
@@ -1041,12 +1041,12 @@ vnd.cytiva.deltavision
 
 ------------
 
-vnd.ebrains.image-service.deepzoom
-----------------------------------
+application_vnd.ebrains.image-service.deepzoom
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ebrains.image-service.deepzoom
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.deepzoom
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Microsoft Deep Zoom specifications.
    :name: application/vnd.ebrains.image-service.deepzoom
@@ -1055,12 +1055,12 @@ vnd.ebrains.image-service.deepzoom
 
 ------------
 
-vnd.ebrains.image-service.neuroglancer.precomputed
---------------------------------------------------
+application_vnd.ebrains.image-service.neuroglancer.precomputed
+--------------------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ebrains.image-service.neuroglancer.precomputed
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Neuroglancer precomputed specifications.
    :name: application/vnd.ebrains.image-service.neuroglancer.precomputed
@@ -1069,12 +1069,12 @@ vnd.ebrains.image-service.neuroglancer.precomputed
 
 ------------
 
-vnd.edf
--------
+application_vnd.edf
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.edf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.edf
 
@@ -1082,12 +1082,12 @@ vnd.edf
 
 ------------
 
-vnd.edf+
---------
+application_vnd.edf+
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.edf+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf+
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.edf+
 
@@ -1095,12 +1095,12 @@ vnd.edf+
 
 ------------
 
-vnd.eeglab
-----------
+application_vnd.eeglab
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.eeglab
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.eeglab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.eeglab
 
@@ -1108,12 +1108,12 @@ vnd.eeglab
 
 ------------
 
-vnd.egi
--------
+application_vnd.egi
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.egi
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.egi
 
@@ -1121,12 +1121,12 @@ vnd.egi
 
 ------------
 
-vnd.egi.mff
------------
+application_vnd.egi.mff
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.egi.mff
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi.mff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.egi.mff
 
@@ -1134,12 +1134,12 @@ vnd.egi.mff
 
 ------------
 
-vnd.elan.continuous-data
-------------------------
+application_vnd.elan.continuous-data
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elan.continuous-data
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.continuous-data
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elan.continuous-data
 
@@ -1147,12 +1147,12 @@ vnd.elan.continuous-data
 
 ------------
 
-vnd.elan.event
---------------
+application_vnd.elan.event
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elan.event
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.event
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elan.event
 
@@ -1160,12 +1160,12 @@ vnd.elan.event
 
 ------------
 
-vnd.elekta
-----------
+application_vnd.elekta
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elekta
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elekta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elekta
 
@@ -1173,12 +1173,12 @@ vnd.elekta
 
 ------------
 
-vnd.elphy
----------
+application_vnd.elphy
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.elphy
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elphy
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elphy
 
@@ -1186,12 +1186,12 @@ vnd.elphy
 
 ------------
 
-vnd.enhancedswc
----------------
+application_vnd.enhancedswc
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.enhancedswc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enhancedswc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.enhancedswc
 
@@ -1199,12 +1199,12 @@ vnd.enhancedswc
 
 ------------
 
-vnd.ensight
------------
+application_vnd.ensight
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ensight
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ensight
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ensight
 
@@ -1212,12 +1212,12 @@ vnd.ensight
 
 ------------
 
-vnd.enzo.amr+hdf5
------------------
+application_vnd.enzo.amr+hdf5
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.enzo.amr+hdf5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enzo.amr+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.enzo.amr+hdf5
 
@@ -1225,12 +1225,12 @@ vnd.enzo.amr+hdf5
 
 ------------
 
-vnd.espina.seg+zip
-------------------
+application_vnd.espina.seg+zip
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.espina.seg+zip
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.seg+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.espina.seg+zip
 
@@ -1238,12 +1238,12 @@ vnd.espina.seg+zip
 
 ------------
 
-vnd.exodusII
-------------
+application_vnd.exodusII
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.exodusII
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.exodusII
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.exodusII
 
@@ -1251,12 +1251,12 @@ vnd.exodusII
 
 ------------
 
-vnd.faconstructor.3d-pli
-------------------------
+application_vnd.faconstructor.3d-pli
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.faconstructor.3d-pli
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.faconstructor.3d-pli
 
@@ -1264,12 +1264,12 @@ vnd.faconstructor.3d-pli
 
 ------------
 
-vnd.faconstructor.3d-pli+hdf5
------------------------------
+application_vnd.faconstructor.3d-pli+hdf5
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.faconstructor.3d-pli+hdf5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.faconstructor.3d-pli+hdf5
 
@@ -1277,12 +1277,12 @@ vnd.faconstructor.3d-pli+hdf5
 
 ------------
 
-vnd.fei
--------
+application_vnd.fei
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.fei
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fei
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.fei
 
@@ -1290,12 +1290,12 @@ vnd.fei
 
 ------------
 
-vnd.fmri.cifti.2
-----------------
+application_vnd.fmri.cifti.2
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.fmri.cifti.2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fmri.cifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.fmri.cifti.2
 
@@ -1303,12 +1303,12 @@ vnd.fmri.cifti.2
 
 ------------
 
-vnd.freesurfer
---------------
+application_vnd.freesurfer
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.freesurfer
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.freesurfer
 
@@ -1316,12 +1316,12 @@ vnd.freesurfer
 
 ------------
 
-vnd.freesurfer.annotation
--------------------------
+application_vnd.freesurfer.annotation
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.freesurfer.annotation
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer.annotation
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.freesurfer.annotation
    :specification: https://surfer.nmr.mgh.harvard.edu/fswiki/LabelsClutsAnnotationFiles#Annotation
@@ -1330,12 +1330,12 @@ vnd.freesurfer.annotation
 
 ------------
 
-vnd.g-node.nix+hdf5
--------------------
+application_vnd.g-node.nix+hdf5
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.g-node.nix+hdf5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.nix+hdf5
 
@@ -1343,12 +1343,12 @@ vnd.g-node.nix+hdf5
 
 ------------
 
-vnd.g-node.nix.neo
-------------------
+application_vnd.g-node.nix.neo
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.g-node.nix.neo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix.neo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.nix.neo
 
@@ -1356,12 +1356,12 @@ vnd.g-node.nix.neo
 
 ------------
 
-vnd.g-node.odml
----------------
+application_vnd.g-node.odml
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.g-node.odml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.odml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.odml
    :specification: https://g-node.github.io/python-odml/
@@ -1370,12 +1370,12 @@ vnd.g-node.odml
 
 ------------
 
-vnd.gatan.digitalmicrograph2
-----------------------------
+application_vnd.gatan.digitalmicrograph2
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.gatan.digitalmicrograph2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gatan.digitalmicrograph2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.gatan.digitalmicrograph2
 
@@ -1383,12 +1383,12 @@ vnd.gatan.digitalmicrograph2
 
 ------------
 
-vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
---------------------------------------------------------
+application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
+--------------------------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :synonym: GEL
@@ -1397,12 +1397,12 @@ vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
 
 ------------
 
-vnd.ge-healthcare.incell.1000-2000
-----------------------------------
+application_vnd.ge-healthcare.incell.1000-2000
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ge-healthcare.incell.1000-2000
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.1000-2000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.incell.1000-2000
 
@@ -1410,12 +1410,12 @@ vnd.ge-healthcare.incell.1000-2000
 
 ------------
 
-vnd.ge-healthcare.incell.3000
------------------------------
+application_vnd.ge-healthcare.incell.3000
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ge-healthcare.incell.3000
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.3000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.incell.3000
 
@@ -1423,12 +1423,12 @@ vnd.ge-healthcare.incell.3000
 
 ------------
 
-vnd.ge-healthcare.microct
--------------------------
+application_vnd.ge-healthcare.microct
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ge-healthcare.microct
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.microct
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.microct
 
@@ -1436,12 +1436,12 @@ vnd.ge-healthcare.microct
 
 ------------
 
-vnd.geomview.oogl
------------------
+application_vnd.geomview.oogl
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.geomview.oogl
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.geomview.oogl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.geomview.oogl
 
@@ -1449,12 +1449,12 @@ vnd.geomview.oogl
 
 ------------
 
-vnd.gifti
----------
+application_vnd.gifti
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.gifti
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gifti
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.gifti
 
@@ -1462,12 +1462,12 @@ vnd.gifti
 
 ------------
 
-vnd.hamamatsu.aquacosmos
-------------------------
+application_vnd.hamamatsu.aquacosmos
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hamamatsu.aquacosmos
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.aquacosmos
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.aquacosmos
 
@@ -1475,12 +1475,12 @@ vnd.hamamatsu.aquacosmos
 
 ------------
 
-vnd.hamamatsu.his
------------------
+application_vnd.hamamatsu.his
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hamamatsu.his
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.his
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.his
 
@@ -1488,12 +1488,12 @@ vnd.hamamatsu.his
 
 ------------
 
-vnd.hamamatsu.ndpi
-------------------
+application_vnd.hamamatsu.ndpi
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hamamatsu.ndpi
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.ndpi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.ndpi
 
@@ -1501,12 +1501,12 @@ vnd.hamamatsu.ndpi
 
 ------------
 
-vnd.hamamatsu.vms
------------------
+application_vnd.hamamatsu.vms
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hamamatsu.vms
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.vms
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.vms
 
@@ -1514,12 +1514,12 @@ vnd.hamamatsu.vms
 
 ------------
 
-vnd.hitachi.s-4800
-------------------
+application_vnd.hitachi.s-4800
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hitachi.s-4800
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hitachi.s-4800
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hitachi.s-4800
 
@@ -1527,12 +1527,12 @@ vnd.hitachi.s-4800
 
 ------------
 
-vnd.hyland.brainwaredam
------------------------
+application_vnd.hyland.brainwaredam
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hyland.brainwaredam
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaredam
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaredam
 
@@ -1540,12 +1540,12 @@ vnd.hyland.brainwaredam
 
 ------------
 
-vnd.hyland.brainwaref32
------------------------
+application_vnd.hyland.brainwaref32
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hyland.brainwaref32
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaref32
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaref32
 
@@ -1553,12 +1553,12 @@ vnd.hyland.brainwaref32
 
 ------------
 
-vnd.hyland.brainwaresrc
------------------------
+application_vnd.hyland.brainwaresrc
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.hyland.brainwaresrc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaresrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaresrc
 
@@ -1566,12 +1566,12 @@ vnd.hyland.brainwaresrc
 
 ------------
 
-vnd.ics
--------
+application_vnd.ics
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ics
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ics
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ics
 
@@ -1579,12 +1579,12 @@ vnd.ics
 
 ------------
 
-vnd.igorpro
------------
+application_vnd.igorpro
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.igorpro
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.igorpro
 
@@ -1592,12 +1592,12 @@ vnd.igorpro
 
 ------------
 
-vnd.imacon
-----------
+application_vnd.imacon
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imacon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imacon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imacon
 
@@ -1605,12 +1605,12 @@ vnd.imacon
 
 ------------
 
-vnd.imagepro.sequence
----------------------
+application_vnd.imagepro.sequence
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imagepro.sequence
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.sequence
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagepro.sequence
 
@@ -1618,12 +1618,12 @@ vnd.imagepro.sequence
 
 ------------
 
-vnd.imagepro.workspace
-----------------------
+application_vnd.imagepro.workspace
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imagepro.workspace
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.workspace
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagepro.workspace
 
@@ -1631,12 +1631,12 @@ vnd.imagepro.workspace
 
 ------------
 
-vnd.imagic
-----------
+application_vnd.imagic
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imagic
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagic
 
@@ -1644,12 +1644,12 @@ vnd.imagic
 
 ------------
 
-vnd.imod
---------
+application_vnd.imod
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.imod
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imod
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imod
 
@@ -1657,12 +1657,12 @@ vnd.imod
 
 ------------
 
-vnd.improvision.openlab
------------------------
+application_vnd.improvision.openlab
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.improvision.openlab
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.improvision.openlab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.improvision.openlab
 
@@ -1670,12 +1670,12 @@ vnd.improvision.openlab
 
 ------------
 
-vnd.indec-biosystems.axonrawformat
-----------------------------------
+application_vnd.indec-biosystems.axonrawformat
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.indec-biosystems.axonrawformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.indec-biosystems.axonrawformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.indec-biosystems.axonrawformat
 
@@ -1683,12 +1683,12 @@ vnd.indec-biosystems.axonrawformat
 
 ------------
 
-vnd.intan.technology
---------------------
+application_vnd.intan.technology
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.intan.technology
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intan.technology
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intan.technology
 
@@ -1696,12 +1696,12 @@ vnd.intan.technology
 
 ------------
 
-vnd.intranat+csv
-----------------
+application_vnd.intranat+csv
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.intranat+csv
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intranat+csv
 
@@ -1709,12 +1709,12 @@ vnd.intranat+csv
 
 ------------
 
-vnd.intranat+txt
-----------------
+application_vnd.intranat+txt
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.intranat+txt
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+txt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intranat+txt
 
@@ -1722,12 +1722,12 @@ vnd.intranat+txt
 
 ------------
 
-vnd.inveon
-----------
+application_vnd.inveon
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.inveon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.inveon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.inveon
 
@@ -1735,12 +1735,12 @@ vnd.inveon
 
 ------------
 
-vnd.iplab
----------
+application_vnd.iplab
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.iplab
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.iplab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.iplab
 
@@ -1748,12 +1748,12 @@ vnd.iplab
 
 ------------
 
-vnd.itk
--------
+application_vnd.itk
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.itk
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.itk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.itk
 
@@ -1761,12 +1761,12 @@ vnd.itk
 
 ------------
 
-vnd.ivision
------------
+application_vnd.ivision
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ivision
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ivision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ivision
 
@@ -1774,12 +1774,12 @@ vnd.ivision
 
 ------------
 
-vnd.jeol
---------
+application_vnd.jeol
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.jeol
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.jeol
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.jeol
 
@@ -1787,12 +1787,12 @@ vnd.jeol
 
 ------------
 
-vnd.keller-lab.block
---------------------
+application_vnd.keller-lab.block
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.keller-lab.block
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.keller-lab.block
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.keller-lab.block
 
@@ -1800,12 +1800,12 @@ vnd.keller-lab.block
 
 ------------
 
-vnd.khoros.viff.bitmap
-----------------------
+application_vnd.khoros.viff.bitmap
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.khoros.viff.bitmap
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.khoros.viff.bitmap
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.khoros.viff.bitmap
 
@@ -1813,12 +1813,12 @@ vnd.khoros.viff.bitmap
 
 ------------
 
-vnd.kitware.paraview.pvt
-------------------------
+application_vnd.kitware.paraview.pvt
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.kitware.paraview.pvt
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kitware.paraview.pvt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kitware.paraview.pvt
 
@@ -1826,12 +1826,12 @@ vnd.kitware.paraview.pvt
 
 ------------
 
-vnd.klustakwik
---------------
+application_vnd.klustakwik
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.klustakwik
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.klustakwik
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.klustakwik
 
@@ -1839,12 +1839,12 @@ vnd.klustakwik
 
 ------------
 
-vnd.kodak.bip
--------------
+application_vnd.kodak.bip
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.kodak.bip
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kodak.bip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kodak.bip
 
@@ -1852,12 +1852,12 @@ vnd.kodak.bip
 
 ------------
 
-vnd.kwik
---------
+application_vnd.kwik
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.kwik
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kwik
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kwik
 
@@ -1865,12 +1865,12 @@ vnd.kwik
 
 ------------
 
-vnd.laboratory-imaging.nikon
-----------------------------
+application_vnd.laboratory-imaging.nikon
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.laboratory-imaging.nikon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.laboratory-imaging.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.laboratory-imaging.nikon
 
@@ -1878,12 +1878,12 @@ vnd.laboratory-imaging.nikon
 
 ------------
 
-vnd.lambert-instruments.flim
-----------------------------
+application_vnd.lambert-instruments.flim
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.lambert-instruments.flim
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lambert-instruments.flim
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.lambert-instruments.flim
 
@@ -1891,12 +1891,12 @@ vnd.lambert-instruments.flim
 
 ------------
 
-vnd.lavision.imspector
-----------------------
+application_vnd.lavision.imspector
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.lavision.imspector
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lavision.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.lavision.imspector
 
@@ -1904,12 +1904,12 @@ vnd.lavision.imspector
 
 ------------
 
-vnd.leica-biosystems.aperio
----------------------------
+application_vnd.leica-biosystems.aperio
+---------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica-biosystems.aperio
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperio
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica-biosystems.aperio
 
@@ -1917,12 +1917,12 @@ vnd.leica-biosystems.aperio
 
 ------------
 
-vnd.leica-biosystems.aperiosvstiff
-----------------------------------
+application_vnd.leica-biosystems.aperiosvstiff
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica-biosystems.aperiosvstiff
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperiosvstiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica-biosystems.aperiosvstiff
 
@@ -1930,12 +1930,12 @@ vnd.leica-biosystems.aperiosvstiff
 
 ------------
 
-vnd.leica.las.af.lif
---------------------
+application_vnd.leica.las.af.lif
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica.las.af.lif
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.las.af.lif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.las.af.lif
 
@@ -1943,12 +1943,12 @@ vnd.leica.las.af.lif
 
 ------------
 
-vnd.leica.lcs.lei
------------------
+application_vnd.leica.lcs.lei
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica.lcs.lei
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.lcs.lei
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.lcs.lei
 
@@ -1956,12 +1956,12 @@ vnd.leica.lcs.lei
 
 ------------
 
-vnd.leica.scn
--------------
+application_vnd.leica.scn
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.leica.scn
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.scn
 
@@ -1969,12 +1969,12 @@ vnd.leica.scn
 
 ------------
 
-vnd.li-cor.l2d
---------------
+application_vnd.li-cor.l2d
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.li-cor.l2d
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.li-cor.l2d
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.li-cor.l2d
 
@@ -1982,12 +1982,12 @@ vnd.li-cor.l2d
 
 ------------
 
-vnd.libreoffice
----------------
+application_vnd.libreoffice
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.libreoffice
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.libreoffice
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.libreoffice
 
@@ -1995,12 +1995,12 @@ vnd.libreoffice
 
 ------------
 
-vnd.ls-dyna
------------
+application_vnd.ls-dyna
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ls-dyna
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ls-dyna
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ls-dyna
 
@@ -2008,12 +2008,12 @@ vnd.ls-dyna
 
 ------------
 
-vnd.mathworks.live-script+zip
------------------------------
+application_vnd.mathworks.live-script+zip
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mathworks.live-script+zip
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mathworks.live-script+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mathworks.live-script+zip
    :specification: https://de.mathworks.com/help/matlab/matlab_prog/live-script-file-format.html
@@ -2022,25 +2022,12 @@ vnd.mathworks.live-script+zip
 
 ------------
 
-vnd.matlab
-----------
+application_vnd.mbf.neurolucida
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.matlab
-   :@type: https://openminds.ebrains.eu/core/ContentType
-   :name: application/vnd.x-matlab-data
-
-`BACK TO TOP <ContentTypes_>`_
-
-------------
-
-vnd.mbf.neurolucida
--------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mbf.neurolucida
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mbf.neurolucida
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mbf.neurolucida
 
@@ -2048,12 +2035,12 @@ vnd.mbf.neurolucida
 
 ------------
 
-vnd.mcid
---------
+application_vnd.mcid
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mcid
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mcid
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mcid
 
@@ -2061,12 +2048,12 @@ vnd.mcid
 
 ------------
 
-vnd.mearec
-----------
+application_vnd.mearec
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mearec
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mearec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mearec
 
@@ -2074,12 +2061,12 @@ vnd.mearec
 
 ------------
 
-vnd.metamorph.stack
--------------------
+application_vnd.metamorph.stack
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.metamorph.stack
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metamorph.stack
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.metamorph.stack
 
@@ -2087,12 +2074,12 @@ vnd.metamorph.stack
 
 ------------
 
-vnd.metaxpress
---------------
+application_vnd.metaxpress
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.metaxpress
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metaxpress
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.metaxpress
 
@@ -2100,12 +2087,12 @@ vnd.metaxpress
 
 ------------
 
-vnd.micro-manager
------------------
+application_vnd.micro-manager
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.micro-manager
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micro-manager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micro-manager
 
@@ -2113,12 +2100,12 @@ vnd.micro-manager
 
 ------------
 
-vnd.micromed
-------------
+application_vnd.micromed
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.micromed
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micromed
 
@@ -2126,12 +2113,12 @@ vnd.micromed
 
 ------------
 
-vnd.micromedgroup
------------------
+application_vnd.micromedgroup
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.micromedgroup
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromedgroup
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micromedgroup
 
@@ -2139,12 +2126,12 @@ vnd.micromedgroup
 
 ------------
 
-vnd.microsoft.deepzoom.collection+xml
--------------------------------------
+application_vnd.microsoft.deepzoom.collection+xml
+-------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.microsoft.deepzoom.collection+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.collection+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.microsoft.deepzoom.collection+xml
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
@@ -2153,12 +2140,12 @@ vnd.microsoft.deepzoom.collection+xml
 
 ------------
 
-vnd.microsoft.deepzoom.image+xml
---------------------------------
+application_vnd.microsoft.deepzoom.image+xml
+--------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.microsoft.deepzoom.image+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.image+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.microsoft.deepzoom.image+xml
    :specification: https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)
@@ -2167,12 +2154,12 @@ vnd.microsoft.deepzoom.image+xml
 
 ------------
 
-vnd.minc
---------
+application_vnd.minc
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.minc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minc
 
@@ -2180,12 +2167,12 @@ vnd.minc
 
 ------------
 
-vnd.minds+json
---------------
+application_vnd.minds+json
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.minds+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minds+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minds+json
 
@@ -2193,12 +2180,12 @@ vnd.minds+json
 
 ------------
 
-vnd.minolta
------------
+application_vnd.minolta
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.minolta
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minolta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minolta
 
@@ -2206,12 +2193,12 @@ vnd.minolta
 
 ------------
 
-vnd.mitk.fiber
---------------
+application_vnd.mitk.fiber
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mitk.fiber
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mitk.fiber
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mitk.fiber
 
@@ -2219,12 +2206,12 @@ vnd.mitk.fiber
 
 ------------
 
-vnd.molecular-imaging
----------------------
+application_vnd.molecular-imaging
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.molecular-imaging
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.molecular-imaging
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.molecular-imaging
 
@@ -2232,12 +2219,12 @@ vnd.molecular-imaging
 
 ------------
 
-vnd.moleculardevices.axon
--------------------------
+application_vnd.moleculardevices.axon
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.moleculardevices.axon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.moleculardevices.axon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.moleculardevices.axon
 
@@ -2245,12 +2232,12 @@ vnd.moleculardevices.axon
 
 ------------
 
-vnd.mrc
--------
+application_vnd.mrc
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mrc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrc
 
@@ -2258,12 +2245,12 @@ vnd.mrc
 
 ------------
 
-vnd.mrtrix.imageformat
-----------------------
+application_vnd.mrtrix.imageformat
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mrtrix.imageformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.imageformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrtrix.imageformat
 
@@ -2271,12 +2258,12 @@ vnd.mrtrix.imageformat
 
 ------------
 
-vnd.mrtrix.legacysparseformat
------------------------------
+application_vnd.mrtrix.legacysparseformat
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.mrtrix.legacysparseformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.legacysparseformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrtrix.legacysparseformat
 
@@ -2284,12 +2271,12 @@ vnd.mrtrix.legacysparseformat
 
 ------------
 
-vnd.ms-excel
-------------
+application_vnd.ms-excel
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ms-excel
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ms-excel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ms-excel
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.ms-excel
@@ -2298,12 +2285,12 @@ vnd.ms-excel
 
 ------------
 
-vnd.neo.ascii.image
--------------------
+application_vnd.neo.ascii.image
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.image
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.image
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.image
 
@@ -2311,12 +2298,12 @@ vnd.neo.ascii.image
 
 ------------
 
-vnd.neo.ascii.signal
---------------------
+application_vnd.neo.ascii.signal
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.signal
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.signal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.signal
 
@@ -2324,12 +2311,12 @@ vnd.neo.ascii.signal
 
 ------------
 
-vnd.neo.ascii.spiketrain
-------------------------
+application_vnd.neo.ascii.spiketrain
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neo.ascii.spiketrain
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.spiketrain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.spiketrain
 
@@ -2337,12 +2324,12 @@ vnd.neo.ascii.spiketrain
 
 ------------
 
-vnd.nest
---------
+application_vnd.nest
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nest
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest
 
@@ -2350,12 +2337,12 @@ vnd.nest
 
 ------------
 
-vnd.nest-simulator+python
--------------------------
+application_vnd.nest-simulator+python
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nest-simulator+python
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest-simulator+python
 
@@ -2363,12 +2350,12 @@ vnd.nest-simulator+python
 
 ------------
 
-vnd.netpbm.portableanymap
--------------------------
+application_vnd.netpbm.portableanymap
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.netpbm.portableanymap
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.netpbm.portableanymap
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.netpbm.portableanymap
 
@@ -2376,12 +2363,12 @@ vnd.netpbm.portableanymap
 
 ------------
 
-vnd.neuralensemble
-------------------
+application_vnd.neuralensemble
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralensemble
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralensemble
 
@@ -2389,12 +2376,12 @@ vnd.neuralensemble
 
 ------------
 
-vnd.neuralensemble.pynn
------------------------
+application_vnd.neuralensemble.pynn
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralensemble.pynn
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralensemble.pynn
 
@@ -2402,12 +2389,12 @@ vnd.neuralensemble.pynn
 
 ------------
 
-vnd.neuralynx
--------------
+application_vnd.neuralynx
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuralynx
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralynx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralynx
 
@@ -2415,12 +2402,12 @@ vnd.neuralynx
 
 ------------
 
-vnd.neuroglancer.precomputed
-----------------------------
+application_vnd.neuroglancer.precomputed
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
@@ -2429,12 +2416,12 @@ vnd.neuroglancer.precomputed
 
 ------------
 
-vnd.neuroglancer.precomputed.info+json
---------------------------------------
+application_vnd.neuroglancer.precomputed.info+json
+--------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed.info+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.info+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed.info+json
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
@@ -2443,12 +2430,12 @@ vnd.neuroglancer.precomputed.info+json
 
 ------------
 
-vnd.neuroglancer.precomputed.raw
---------------------------------
+application_vnd.neuroglancer.precomputed.raw
+--------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroglancer.precomputed.raw
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.raw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed.raw
    :specification: https://github.com/google/neuroglancer/blob/33d5206cf16c60530e9d0d517dc8bb9b968e2e18/src/neuroglancer/datasource/precomputed/README.md
@@ -2457,12 +2444,12 @@ vnd.neuroglancer.precomputed.raw
 
 ------------
 
-vnd.neuroml
------------
+application_vnd.neuroml
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroml
 
@@ -2470,12 +2457,12 @@ vnd.neuroml
 
 ------------
 
-vnd.neuron-simulator+hoc
-------------------------
+application_vnd.neuron-simulator+hoc
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuron-simulator+hoc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+hoc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron-simulator+hoc
 
@@ -2483,12 +2470,12 @@ vnd.neuron-simulator+hoc
 
 ------------
 
-vnd.neuron-simulator+python
----------------------------
+application_vnd.neuron-simulator+python
+---------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuron-simulator+python
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron-simulator+python
 
@@ -2496,12 +2483,12 @@ vnd.neuron-simulator+python
 
 ------------
 
-vnd.neuron.mod
---------------
+application_vnd.neuron.mod
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuron.mod
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron.mod
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron.mod
 
@@ -2509,12 +2496,12 @@ vnd.neuron.mod
 
 ------------
 
-vnd.neuroscope
---------------
+application_vnd.neuroscope
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroscope
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroscope
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroscope
 
@@ -2522,12 +2509,12 @@ vnd.neuroscope
 
 ------------
 
-vnd.neuroshareapi
------------------
+application_vnd.neuroshareapi
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.neuroshareapi
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroshareapi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroshareapi
 
@@ -2535,12 +2522,12 @@ vnd.neuroshareapi
 
 ------------
 
-vnd.nexstim.nbs-system.data
----------------------------
+application_vnd.nexstim.nbs-system.data
+---------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nexstim.nbs-system.data
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nexstim.nbs-system.data
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nexstim.nbs-system.data
 
@@ -2548,12 +2535,12 @@ vnd.nexstim.nbs-system.data
 
 ------------
 
-vnd.nfsim
----------
+application_vnd.nfsim
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nfsim
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nfsim
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nfsim
 
@@ -2561,12 +2548,12 @@ vnd.nfsim
 
 ------------
 
-vnd.nifti.1
------------
+application_vnd.nifti.1
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nifti.1
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nifti.1
 
@@ -2574,12 +2561,12 @@ vnd.nifti.1
 
 ------------
 
-vnd.nifti.2
------------
+application_vnd.nifti.2
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nifti.2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nifti.2
 
@@ -2587,12 +2574,12 @@ vnd.nifti.2
 
 ------------
 
-vnd.nikon
----------
+application_vnd.nikon
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nikon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon
 
@@ -2600,12 +2587,12 @@ vnd.nikon
 
 ------------
 
-vnd.nikon.nef
--------------
+application_vnd.nikon.nef
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nikon.nef
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nef
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon.nef
 
@@ -2613,12 +2600,12 @@ vnd.nikon.nef
 
 ------------
 
-vnd.nikon.nis-elements
-----------------------
+application_vnd.nikon.nis-elements
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nikon.nis-elements
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nis-elements
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon.nis-elements
 
@@ -2626,12 +2613,12 @@ vnd.nikon.nis-elements
 
 ------------
 
-vnd.nineml
-----------
+application_vnd.nineml
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nineml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nineml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nineml
 
@@ -2639,12 +2626,12 @@ vnd.nineml
 
 ------------
 
-vnd.nrrd
---------
+application_vnd.nrrd
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nrrd
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nrrd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nrrd
 
@@ -2652,12 +2639,12 @@ vnd.nrrd
 
 ------------
 
-vnd.nsdf
---------
+application_vnd.nsdf
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nsdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nsdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nsdf
 
@@ -2665,12 +2652,12 @@ vnd.nsdf
 
 ------------
 
-vnd.nutil.parameters
---------------------
+application_vnd.nutil.parameters
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nutil.parameters
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.parameters
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.parameters
 
@@ -2678,12 +2665,12 @@ vnd.nutil.parameters
 
 ------------
 
-vnd.nutil.quantifier+json
--------------------------
+application_vnd.nutil.quantifier+json
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nutil.quantifier+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.quantifier+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.quantifier+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
@@ -2692,12 +2679,12 @@ vnd.nutil.quantifier+json
 
 ------------
 
-vnd.nutil.results+csv
----------------------
+application_vnd.nutil.results+csv
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nutil.results+csv
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.results+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.results+csv
 
@@ -2705,12 +2692,12 @@ vnd.nutil.results+csv
 
 ------------
 
-vnd.nwb.nwbn+hdf
-----------------
+application_vnd.nwb.nwbn+hdf
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.nwb.nwbn+hdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nwb.nwbn+hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nwb.nwbn+hdf
 
@@ -2718,12 +2705,12 @@ vnd.nwb.nwbn+hdf
 
 ------------
 
-vnd.olympus
------------
+application_vnd.olympus
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.olympus
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus
 
@@ -2731,12 +2718,12 @@ vnd.olympus
 
 ------------
 
-vnd.olympus.cellr-apl
----------------------
+application_vnd.olympus.cellr-apl
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.olympus.cellr-apl
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.cellr-apl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.cellr-apl
 
@@ -2744,12 +2731,12 @@ vnd.olympus.cellr-apl
 
 ------------
 
-vnd.olympus.fluoview.fv1000
----------------------------
+application_vnd.olympus.fluoview.fv1000
+---------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.olympus.fluoview.fv1000
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.fluoview.fv1000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.fluoview.fv1000
 
@@ -2757,12 +2744,12 @@ vnd.olympus.fluoview.fv1000
 
 ------------
 
-vnd.olympus.scanr
------------------
+application_vnd.olympus.scanr
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.olympus.scanr
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.scanr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.scanr
 
@@ -2770,12 +2757,12 @@ vnd.olympus.scanr
 
 ------------
 
-vnd.ome.tiff
-------------
+application_vnd.ome.tiff
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ome.tiff
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ome.tiff
 
@@ -2783,12 +2770,12 @@ vnd.ome.tiff
 
 ------------
 
-vnd.ome.xml
------------
+application_vnd.ome.xml
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ome.xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ome.xml
 
@@ -2796,12 +2783,12 @@ vnd.ome.xml
 
 ------------
 
-vnd.opendx
-----------
+application_vnd.opendx
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.opendx
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.opendx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.opendx
 
@@ -2809,12 +2796,12 @@ vnd.opendx
 
 ------------
 
-vnd.openephys
--------------
+application_vnd.openephys
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openephys
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openephys
 
@@ -2822,12 +2809,12 @@ vnd.openephys
 
 ------------
 
-vnd.openxmlformats-officedocument.spreadsheetml.sheet
------------------------------------------------------
+application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
+-----------------------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
@@ -2836,12 +2823,12 @@ vnd.openxmlformats-officedocument.spreadsheetml.sheet
 
 ------------
 
-vnd.openxmlformats-officedocument.wordprocessingml.document
------------------------------------------------------------
+application_vnd.openxmlformats-officedocument.wordprocessingml.document
+-----------------------------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.openxmlformats-officedocument.wordprocessingml.document
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.wordprocessingml.document
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openxmlformats-officedocument.wordprocessingml.document
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -2850,12 +2837,12 @@ vnd.openxmlformats-officedocument.wordprocessingml.document
 
 ------------
 
-vnd.oxford-instruments
-----------------------
+application_vnd.oxford-instruments
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.oxford-instruments
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.oxford-instruments
 
@@ -2863,12 +2850,12 @@ vnd.oxford-instruments
 
 ------------
 
-vnd.oxford-instruments.bitplaneimaris
--------------------------------------
+application_vnd.oxford-instruments.bitplaneimaris
+-------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.oxford-instruments.bitplaneimaris
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments.bitplaneimaris
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.oxford-instruments.bitplaneimaris
 
@@ -2876,12 +2863,12 @@ vnd.oxford-instruments.bitplaneimaris
 
 ------------
 
-vnd.pco.pcoraw
---------------
+application_vnd.pco.pcoraw
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.pco.pcoraw
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pco.pcoraw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pco.pcoraw
 
@@ -2889,12 +2876,12 @@ vnd.pco.pcoraw
 
 ------------
 
-vnd.perkinelmer.columbus
-------------------------
+application_vnd.perkinelmer.columbus
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.columbus
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.columbus
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.columbus
 
@@ -2902,12 +2889,12 @@ vnd.perkinelmer.columbus
 
 ------------
 
-vnd.perkinelmer.densitometer
-----------------------------
+application_vnd.perkinelmer.densitometer
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.densitometer
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.densitometer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.densitometer
 
@@ -2915,12 +2902,12 @@ vnd.perkinelmer.densitometer
 
 ------------
 
-vnd.perkinelmer.evotec
-----------------------
+application_vnd.perkinelmer.evotec
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.evotec
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.evotec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.evotec
 
@@ -2928,12 +2915,12 @@ vnd.perkinelmer.evotec
 
 ------------
 
-vnd.perkinelmer.nuance
-----------------------
+application_vnd.perkinelmer.nuance
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.nuance
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.nuance
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.nuance
 
@@ -2941,12 +2928,12 @@ vnd.perkinelmer.nuance
 
 ------------
 
-vnd.perkinelmer.operetta
-------------------------
+application_vnd.perkinelmer.operetta
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.operetta
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.operetta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.operetta
 
@@ -2954,12 +2941,12 @@ vnd.perkinelmer.operetta
 
 ------------
 
-vnd.perkinelmer.ultraview
--------------------------
+application_vnd.perkinelmer.ultraview
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.ultraview
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.ultraview
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.ultraview
 
@@ -2967,12 +2954,12 @@ vnd.perkinelmer.ultraview
 
 ------------
 
-vnd.perkinelmer.vectra
-----------------------
+application_vnd.perkinelmer.vectra
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.vectra
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.vectra
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.vectra
 
@@ -2980,12 +2967,12 @@ vnd.perkinelmer.vectra
 
 ------------
 
-vnd.perkinelmer.volocity
-------------------------
+application_vnd.perkinelmer.volocity
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.volocity
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocity
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.volocity
 
@@ -2993,12 +2980,12 @@ vnd.perkinelmer.volocity
 
 ------------
 
-vnd.perkinelmer.volocitylibraryclipping
----------------------------------------
+application_vnd.perkinelmer.volocitylibraryclipping
+---------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.perkinelmer.volocitylibraryclipping
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocitylibraryclipping
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.volocitylibraryclipping
 
@@ -3006,12 +2993,12 @@ vnd.perkinelmer.volocitylibraryclipping
 
 ------------
 
-vnd.pickle
-----------
+application_vnd.pickle
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.pickle
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pickle
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pickle
 
@@ -3019,12 +3006,12 @@ vnd.pickle
 
 ------------
 
-vnd.picoquant
--------------
+application_vnd.picoquant
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.picoquant
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.picoquant
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.picoquant
 
@@ -3032,12 +3019,12 @@ vnd.picoquant
 
 ------------
 
-vnd.pixar.renderman.interface-bytestream
-----------------------------------------
+application_vnd.pixar.renderman.interface-bytestream
+----------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.pixar.renderman.interface-bytestream
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pixar.renderman.interface-bytestream
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pixar.renderman.interface-bytestream
 
@@ -3045,12 +3032,12 @@ vnd.pixar.renderman.interface-bytestream
 
 ------------
 
-vnd.plexon
-----------
+application_vnd.plexon
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.plexon
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plexon
 
@@ -3058,12 +3045,12 @@ vnd.plexon
 
 ------------
 
-vnd.plexon.neuroexplorer
-------------------------
+application_vnd.plexon.neuroexplorer
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.plexon.neuroexplorer
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon.neuroexplorer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plexon.neuroexplorer
 
@@ -3071,12 +3058,12 @@ vnd.plexon.neuroexplorer
 
 ------------
 
-vnd.plot3d
-----------
+application_vnd.plot3d
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.plot3d
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plot3d
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plot3d
 
@@ -3084,12 +3071,12 @@ vnd.plot3d
 
 ------------
 
-vnd.pov-ray.densityfile
------------------------
+application_vnd.pov-ray.densityfile
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.pov-ray.densityfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pov-ray.densityfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pov-ray.densityfile
 
@@ -3097,12 +3084,12 @@ vnd.pov-ray.densityfile
 
 ------------
 
-vnd.prairie-technologies
-------------------------
+application_vnd.prairie-technologies
+------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.prairie-technologies
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.prairie-technologies
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.prairie-technologies
 
@@ -3110,12 +3097,12 @@ vnd.prairie-technologies
 
 ------------
 
-vnd.princeton-instruments
--------------------------
+application_vnd.princeton-instruments
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.princeton-instruments
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.princeton-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.princeton-instruments
 
@@ -3123,12 +3110,12 @@ vnd.princeton-instruments
 
 ------------
 
-vnd.quesant
------------
+application_vnd.quesant
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.quesant
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quesant
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quesant
 
@@ -3136,12 +3123,12 @@ vnd.quesant
 
 ------------
 
-vnd.quicknii+json
------------------
+application_vnd.quicknii+json
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.quicknii+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
@@ -3150,12 +3137,12 @@ vnd.quicknii+json
 
 ------------
 
-vnd.quicknii+xml
-----------------
+application_vnd.quicknii+xml
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.quicknii+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii+xml
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/xml
@@ -3164,12 +3151,12 @@ vnd.quicknii+xml
 
 ------------
 
-vnd.quicknii.flat
------------------
+application_vnd.quicknii.flat
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.quicknii.flat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii.flat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii.flat
 
@@ -3177,12 +3164,12 @@ vnd.quicknii.flat
 
 ------------
 
-vnd.raw.binarysignal
---------------------
+application_vnd.raw.binarysignal
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.raw.binarysignal
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.binarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.raw.binarysignal
 
@@ -3190,12 +3177,12 @@ vnd.raw.binarysignal
 
 ------------
 
-vnd.raw.mcs
------------
+application_vnd.raw.mcs
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.raw.mcs
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.mcs
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.raw.mcs
 
@@ -3203,12 +3190,12 @@ vnd.raw.mcs
 
 ------------
 
-vnd.rawbinarysignal
--------------------
+application_vnd.rawbinarysignal
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.rawbinarysignal
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rawbinarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rawbinarysignal
 
@@ -3216,12 +3203,12 @@ vnd.rawbinarysignal
 
 ------------
 
-vnd.rhk
--------
+application_vnd.rhk
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.rhk
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rhk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rhk
 
@@ -3229,12 +3216,12 @@ vnd.rhk
 
 ------------
 
-vnd.rochedigitaldiagnostics.ventana
------------------------------------
+application_vnd.rochedigitaldiagnostics.ventana
+-----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.rochedigitaldiagnostics.ventana
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rochedigitaldiagnostics.ventana
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rochedigitaldiagnostics.ventana
 
@@ -3242,12 +3229,12 @@ vnd.rochedigitaldiagnostics.ventana
 
 ------------
 
-vnd.sbtab
----------
+application_vnd.sbtab
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sbtab
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sbtab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sbtab
 
@@ -3255,12 +3242,12 @@ vnd.sbtab
 
 ------------
 
-vnd.scalasca.cube3
-------------------
+application_vnd.scalasca.cube3
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.scalasca.cube3
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.scalasca.cube3
 
@@ -3268,12 +3255,12 @@ vnd.scalasca.cube3
 
 ------------
 
-vnd.scalasca.cube4
-------------------
+application_vnd.scalasca.cube4
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.scalasca.cube4
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.scalasca.cube4
 
@@ -3281,12 +3268,12 @@ vnd.scalasca.cube4
 
 ------------
 
-vnd.sciunit.model
------------------
+application_vnd.sciunit.model
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sciunit.model
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.model
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sciunit.model
 
@@ -3294,12 +3281,12 @@ vnd.sciunit.model
 
 ------------
 
-vnd.sciunit.test
-----------------
+application_vnd.sciunit.test
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sciunit.test
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.test
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sciunit.test
 
@@ -3307,12 +3294,12 @@ vnd.sciunit.test
 
 ------------
 
-vnd.score-p.filter
-------------------
+application_vnd.score-p.filter
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.score-p.filter
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.filter
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.filter
 
@@ -3320,12 +3307,12 @@ vnd.score-p.filter
 
 ------------
 
-vnd.score-p.log
----------------
+application_vnd.score-p.log
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.score-p.log
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.log
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.log
 
@@ -3333,12 +3320,12 @@ vnd.score-p.log
 
 ------------
 
-vnd.score-p.score
------------------
+application_vnd.score-p.score
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.score-p.score
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.score
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.score
 
@@ -3346,12 +3333,12 @@ vnd.score-p.score
 
 ------------
 
-vnd.seiko
----------
+application_vnd.seiko
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.seiko
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.seiko
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.seiko
 
@@ -3359,12 +3346,12 @@ vnd.seiko
 
 ------------
 
-vnd.siemens.ecat7
------------------
+application_vnd.siemens.ecat7
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.siemens.ecat7
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.siemens.ecat7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.siemens.ecat7
 
@@ -3372,12 +3359,12 @@ vnd.siemens.ecat7
 
 ------------
 
-vnd.sivic
----------
+application_vnd.sivic
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sivic
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sivic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sivic
 
@@ -3385,12 +3372,12 @@ vnd.sivic
 
 ------------
 
-vnd.snakemake.snakefile
------------------------
+application_vnd.snakemake.snakefile
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.snakemake.snakefile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.snakemake.snakefile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.snakemake.snakefile
 
@@ -3398,12 +3385,12 @@ vnd.snakemake.snakefile
 
 ------------
 
-vnd.sonata
-----------
+application_vnd.sonata
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata
 
@@ -3411,12 +3398,12 @@ vnd.sonata
 
 ------------
 
-vnd.sonata.nest
----------------
+application_vnd.sonata.nest
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.nest
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.nest
 
@@ -3424,12 +3411,12 @@ vnd.sonata.nest
 
 ------------
 
-vnd.sonata.neuron
------------------
+application_vnd.sonata.neuron
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.neuron
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.neuron
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.neuron
 
@@ -3437,12 +3424,12 @@ vnd.sonata.neuron
 
 ------------
 
-vnd.sonata.pynn
----------------
+application_vnd.sonata.pynn
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.sonata.pynn
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.pynn
 
@@ -3450,12 +3437,12 @@ vnd.sonata.pynn
 
 ------------
 
-vnd.spike2.sonpy.son
---------------------
+application_vnd.spike2.sonpy.son
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spike2.sonpy.son
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2.sonpy.son
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spike2.sonpy.son
 
@@ -3463,12 +3450,12 @@ vnd.spike2.sonpy.son
 
 ------------
 
-vnd.spikeglx.system
--------------------
+application_vnd.spikeglx.system
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spikeglx.system
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spikeglx.system
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spikeglx.system
 
@@ -3476,12 +3463,12 @@ vnd.spikeglx.system
 
 ------------
 
-vnd.spm
--------
+application_vnd.spm
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spm
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spm
 
@@ -3489,12 +3476,12 @@ vnd.spm
 
 ------------
 
-vnd.spmfile
------------
+application_vnd.spmfile
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.spmfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spmfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spmfile
 
@@ -3502,12 +3489,12 @@ vnd.spmfile
 
 ------------
 
-vnd.stimfit
------------
+application_vnd.stimfit
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.stimfit
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimfit
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.stimfit
 
@@ -3515,12 +3502,12 @@ vnd.stimfit
 
 ------------
 
-vnd.stimulate
--------------
+application_vnd.stimulate
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.stimulate
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimulate
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.stimulate
 
@@ -3528,12 +3515,12 @@ vnd.stimulate
 
 ------------
 
-vnd.structuredatafile
----------------------
+application_vnd.structuredatafile
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.structuredatafile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.structuredatafile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.structuredatafile
 
@@ -3541,12 +3528,12 @@ vnd.structuredatafile
 
 ------------
 
-vnd.tdt
--------
+application_vnd.tdt
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tdt
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tdt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tdt
 
@@ -3554,12 +3541,12 @@ vnd.tdt
 
 ------------
 
-vnd.tecplot
------------
+application_vnd.tecplot
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tecplot
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tecplot
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tecplot
 
@@ -3567,12 +3554,12 @@ vnd.tecplot
 
 ------------
 
-vnd.thermo-fisher-scientific.cellomics
---------------------------------------
+application_vnd.thermo-fisher-scientific.cellomics
+--------------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thermo-fisher-scientific.cellomics
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thermo-fisher-scientific.cellomics
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thermo-fisher-scientific.cellomics
 
@@ -3580,12 +3567,12 @@ vnd.thermo-fisher-scientific.cellomics
 
 ------------
 
-vnd.thevirtualbrain
--------------------
+application_vnd.thevirtualbrain
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thevirtualbrain
 
@@ -3593,12 +3580,12 @@ vnd.thevirtualbrain
 
 ------------
 
-vnd.thevirtualbrain.metadata+tsv
---------------------------------
+application_vnd.thevirtualbrain.metadata+tsv
+--------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.thevirtualbrain.metadata+tsv
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain.metadata+tsv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thevirtualbrain.metadata+tsv
 
@@ -3606,12 +3593,12 @@ vnd.thevirtualbrain.metadata+tsv
 
 ------------
 
-vnd.tillphotonics.tillvision
-----------------------------
+application_vnd.tillphotonics.tillvision
+----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tillphotonics.tillvision
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tillphotonics.tillvision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tillphotonics.tillvision
 
@@ -3619,12 +3606,12 @@ vnd.tillphotonics.tillvision
 
 ------------
 
-vnd.traces+xml 
----------------
+application_vnd.traces+xml
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.traces+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.traces+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.traces+xml
 
@@ -3632,12 +3619,12 @@ vnd.traces+xml
 
 ------------
 
-vnd.trackscalarfile
--------------------
+application_vnd.trackscalarfile
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.trackscalarfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackscalarfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.trackscalarfile
 
@@ -3645,12 +3632,12 @@ vnd.trackscalarfile
 
 ------------
 
-vnd.tracksfileformat
---------------------
+application_vnd.tracksfileformat
+--------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.tracksfileformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tracksfileformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tracksfileformat
 
@@ -3658,12 +3645,12 @@ vnd.tracksfileformat
 
 ------------
 
-vnd.trackvis.trackfile
-----------------------
+application_vnd.trackvis.trackfile
+----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.trackvis.trackfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackvis.trackfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.trackvis.trackfile
 
@@ -3671,12 +3658,12 @@ vnd.trackvis.trackfile
 
 ------------
 
-vnd.treslte
------------
+application_vnd.treslte
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.treslte
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.treslte
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.treslte
 
@@ -3684,12 +3671,12 @@ vnd.treslte
 
 ------------
 
-vnd.ubm
--------
+application_vnd.ubm
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.ubm
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ubm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ubm
 
@@ -3697,12 +3684,12 @@ vnd.ubm
 
 ------------
 
-vnd.unicore.workflow+json
--------------------------
+application_vnd.unicore.workflow+json
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.unicore.workflow+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unicore.workflow+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.unicore.workflow+json
 
@@ -3710,12 +3697,12 @@ vnd.unicore.workflow+json
 
 ------------
 
-vnd.unisoku
------------
+application_vnd.unisoku
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.unisoku
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unisoku
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.unisoku
 
@@ -3723,12 +3710,12 @@ vnd.unisoku
 
 ------------
 
-vnd.vaa3d.apo
--------------
+application_vnd.vaa3d.apo
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.apo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.apo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.apo
 
@@ -3736,12 +3723,12 @@ vnd.vaa3d.apo
 
 ------------
 
-vnd.vaa3d.marker
-----------------
+application_vnd.vaa3d.marker
+----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.marker
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.marker
 
@@ -3749,12 +3736,12 @@ vnd.vaa3d.marker
 
 ------------
 
-vnd.vaa3d.rawfile
------------------
+application_vnd.vaa3d.rawfile
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.rawfile
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.rawfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.rawfile
 
@@ -3762,12 +3749,12 @@ vnd.vaa3d.rawfile
 
 ------------
 
-vnd.vaa3d.surfaceformat
------------------------
+application_vnd.vaa3d.surfaceformat
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vaa3d.surfaceformat
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.surfaceformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.surfaceformat
 
@@ -3775,12 +3762,12 @@ vnd.vaa3d.surfaceformat
 
 ------------
 
-vnd.varianfdf
--------------
+application_vnd.varianfdf
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.varianfdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.varianfdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.varianfdf
 
@@ -3788,12 +3775,12 @@ vnd.varianfdf
 
 ------------
 
-vnd.veeco
----------
+application_vnd.veeco
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.veeco
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veeco
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.veeco
 
@@ -3801,12 +3788,12 @@ vnd.veeco
 
 ------------
 
-vnd.veecoafm
-------------
+application_vnd.veecoafm
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.veecoafm
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veecoafm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.veecoafm
 
@@ -3814,12 +3801,12 @@ vnd.veecoafm
 
 ------------
 
-vnd.vfgen
----------
+application_vnd.vfgen
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vfgen
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vfgen
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vfgen
 
@@ -3827,12 +3814,12 @@ vnd.vfgen
 
 ------------
 
-vnd.vgsam
----------
+application_vnd.vgsam
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vgsam
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vgsam
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vgsam
 
@@ -3840,12 +3827,12 @@ vnd.vgsam
 
 ------------
 
-vnd.visitechinternational.xys
------------------------------
+application_vnd.visitechinternational.xys
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.visitechinternational.xys
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visitechinternational.xys
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.visitechinternational.xys
 
@@ -3853,12 +3840,12 @@ vnd.visitechinternational.xys
 
 ------------
 
-vnd.visualign+json
-------------------
+application_vnd.visualign+json
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.visualign+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visualign+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.visualign+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
@@ -3867,12 +3854,12 @@ vnd.visualign+json
 
 ------------
 
-vnd.voluba.v1.landmarkPairs+json
---------------------------------
+application_vnd.voluba.v1.landmarkPairs+json
+--------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.voluba.v1.landmarkPairs+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.landmarkPairs+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.voluba.v1.landmarkPairs+json
 
@@ -3880,12 +3867,12 @@ vnd.voluba.v1.landmarkPairs+json
 
 ------------
 
-vnd.voluba.v1.linearTransform+json
-----------------------------------
+application_vnd.voluba.v1.linearTransform+json
+----------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.voluba.v1.linearTransform+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.voluba.v1.linearTransform+json
 
@@ -3893,12 +3880,12 @@ vnd.voluba.v1.linearTransform+json
 
 ------------
 
-vnd.volumeproperty
-------------------
+application_vnd.volumeproperty
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.volumeproperty
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.volumeproperty
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.volumeproperty
 
@@ -3906,12 +3893,12 @@ vnd.volumeproperty
 
 ------------
 
-vnd.vtb
--------
+application_vnd.vtb
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtb
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtb
 
@@ -3919,12 +3906,12 @@ vnd.vtb
 
 ------------
 
-vnd.vth
--------
+application_vnd.vth
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vth
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vth
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vth
 
@@ -3932,12 +3919,12 @@ vnd.vth
 
 ------------
 
-vnd.vthb
---------
+application_vnd.vthb
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vthb
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vthb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vthb
 
@@ -3945,12 +3932,12 @@ vnd.vthb
 
 ------------
 
-vnd.vti
--------
+application_vnd.vti
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vti
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vti
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vti
 
@@ -3958,12 +3945,12 @@ vnd.vti
 
 ------------
 
-vnd.vtm
--------
+application_vnd.vtm
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtm
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtm
 
@@ -3971,12 +3958,12 @@ vnd.vtm
 
 ------------
 
-vnd.vtmb
---------
+application_vnd.vtmb
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtmb
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtmb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtmb
 
@@ -3984,12 +3971,12 @@ vnd.vtmb
 
 ------------
 
-vnd.vtp
--------
+application_vnd.vtp
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtp
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtp
 
@@ -3997,12 +3984,12 @@ vnd.vtp
 
 ------------
 
-vnd.vtr
--------
+application_vnd.vtr
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtr
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtr
 
@@ -4010,12 +3997,12 @@ vnd.vtr
 
 ------------
 
-vnd.vts
--------
+application_vnd.vts
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vts
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vts
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vts
 
@@ -4023,12 +4010,12 @@ vnd.vts
 
 ------------
 
-vnd.vtu
--------
+application_vnd.vtu
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.vtu
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtu
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtu
 
@@ -4036,12 +4023,12 @@ vnd.vtu
 
 ------------
 
-vnd.wadsworthcenter.spider
---------------------------
+application_vnd.wadsworthcenter.spider
+--------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.wadsworthcenter.spider
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wadsworthcenter.spider
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wadsworthcenter.spider
 
@@ -4049,12 +4036,12 @@ vnd.wadsworthcenter.spider
 
 ------------
 
-vnd.watechnology.wa-top
------------------------
+application_vnd.watechnology.wa-top
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.watechnology.wa-top
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.watechnology.wa-top
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.watechnology.wa-top
 
@@ -4062,12 +4049,12 @@ vnd.watechnology.wa-top
 
 ------------
 
-vnd.wavefronttechnologies
--------------------------
+application_vnd.wavefronttechnologies
+-------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.wavefronttechnologies
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavefronttechnologies
    :relatedMediaType: https://www.iana.org/assignments/media-types/model/obj
@@ -4076,12 +4063,12 @@ vnd.wavefronttechnologies
 
 ------------
 
-vnd.wavefronttechnologies.mtl
------------------------------
+application_vnd.wavefronttechnologies.mtl
+-----------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.wavefronttechnologies.mtl
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies.mtl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavefronttechnologies.mtl
    :relatedMediaType: https://www.iana.org/assignments/media-types/model/mtl
@@ -4090,12 +4077,12 @@ vnd.wavefronttechnologies.mtl
 
 ------------
 
-vnd.wavemetrics.igorpro
------------------------
+application_vnd.wavemetrics.igorpro
+-----------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.wavemetrics.igorpro
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavemetrics.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavemetrics.igorpro
 
@@ -4103,12 +4090,12 @@ vnd.wavemetrics.igorpro
 
 ------------
 
-vnd.winedr
-----------
+application_vnd.winedr
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.winedr
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winedr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.winedr
 
@@ -4116,12 +4103,12 @@ vnd.winedr
 
 ------------
 
-vnd.winwcp
-----------
+application_vnd.winwcp
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.winwcp
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winwcp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.winwcp
 
@@ -4129,12 +4116,12 @@ vnd.winwcp
 
 ------------
 
-vnd.woolz
----------
+application_vnd.woolz
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.woolz
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.woolz
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.woolz
 
@@ -4142,12 +4129,25 @@ vnd.woolz
 
 ------------
 
-vnd.xdmf
---------
+application_vnd.x-matlab-data
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.xdmf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.x-matlab-data
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.x-matlab-data
+
+`BACK TO TOP <ContentTypes_>`_
+
+------------
+
+application_vnd.xdmf
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.xdmf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.xdmf
 
@@ -4155,12 +4155,12 @@ vnd.xdmf
 
 ------------
 
-vnd.yokogawa.cv7000
--------------------
+application_vnd.yokogawa.cv7000
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.yokogawa.cv7000
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.yokogawa.cv7000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.yokogawa.cv7000
 
@@ -4168,12 +4168,12 @@ vnd.yokogawa.cv7000
 
 ------------
 
-vnd.zarr
---------
+application_vnd.zarr
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zarr
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zarr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zarr
 
@@ -4181,12 +4181,12 @@ vnd.zarr
 
 ------------
 
-vnd.zeiss 
-----------
+application_vnd.zeiss 
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss
 
@@ -4194,12 +4194,12 @@ vnd.zeiss
 
 ------------
 
-vnd.zeiss.axio-csm
-------------------
+application_vnd.zeiss.axio-csm
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.axio-csm
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-csm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.axio-csm
 
@@ -4207,12 +4207,12 @@ vnd.zeiss.axio-csm
 
 ------------
 
-vnd.zeiss.axio-vision
----------------------
+application_vnd.zeiss.axio-vision
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.axio-vision
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-vision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.axio-vision
 
@@ -4220,12 +4220,12 @@ vnd.zeiss.axio-vision
 
 ------------
 
-vnd.zeiss.leo
--------------
+application_vnd.zeiss.leo
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.leo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.leo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.leo
 
@@ -4233,12 +4233,12 @@ vnd.zeiss.leo
 
 ------------
 
-vnd.zeiss.lsm-510
------------------
+application_vnd.zeiss.lsm-510
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/vnd.zeiss.lsm-510
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.lsm-510
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.lsm-510
 
@@ -4246,12 +4246,12 @@ vnd.zeiss.lsm-510
 
 ------------
 
-x-blender
----------
+application_x-blender
+---------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-blender
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-blender
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-blender
 
@@ -4259,12 +4259,12 @@ x-blender
 
 ------------
 
-x-font-speedo
--------------
+application_x-font-speedo
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-font-speedo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-font-speedo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-font-speedo
 
@@ -4272,12 +4272,12 @@ x-font-speedo
 
 ------------
 
-x-hdf
------
+application_x-hdf
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-hdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-hdf
 
@@ -4285,12 +4285,12 @@ x-hdf
 
 ------------
 
-x-ipynb+json
-------------
+application_x-ipynb+json
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-ipynb+json
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-ipynb+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-ipynb+json
    :specification: https://nbformat.readthedocs.io/en/latest/format_description.html
@@ -4299,12 +4299,12 @@ x-ipynb+json
 
 ------------
 
-x-kseg
-------
+application_x-kseg
+------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-kseg
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-kseg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-kseg
 
@@ -4312,12 +4312,12 @@ x-kseg
 
 ------------
 
-x-latex
--------
+application_x-latex
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-latex
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-latex
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-latex
 
@@ -4325,12 +4325,12 @@ x-latex
 
 ------------
 
-x-netcdf
---------
+application_x-netcdf
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-netcdf
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-netcdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-netcdf
 
@@ -4338,12 +4338,12 @@ x-netcdf
 
 ------------
 
-x-tgif
-------
+application_x-tgif
+------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/x-tgif
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-tgif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-tgif
 
@@ -4351,12 +4351,12 @@ x-tgif
 
 ------------
 
-xml
----
+application_xml
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/xml
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/xml
@@ -4365,12 +4365,12 @@ xml
 
 ------------
 
-yaml
-----
+application_yaml
+----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/yaml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_yaml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/yaml
 
@@ -4378,12 +4378,12 @@ yaml
 
 ------------
 
-zip
----
+application_zip
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/application/zip
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/zip
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/zip
@@ -4393,12 +4393,12 @@ zip
 
 ------------
 
-bmp
----
+image_bmp
+---------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/bmp
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_bmp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/bmp
    :relatedMediaType: https://www.iana.org/assignments/media-types/image/bmp
@@ -4407,12 +4407,12 @@ bmp
 
 ------------
 
-jp2
----
+image_jp2
+---------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/jp2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jp2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/jp2
 
@@ -4420,12 +4420,12 @@ jp2
 
 ------------
 
-jpeg
-----
+image_jpeg
+----------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/jpeg
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jpeg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/jpeg
 
@@ -4433,12 +4433,12 @@ jpeg
 
 ------------
 
-png
----
+image_png
+---------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/png
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_png
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/png
    :relatedMediaType: https://www.iana.org/assignments/media-types/image/png
@@ -4447,12 +4447,12 @@ png
 
 ------------
 
-tiff
-----
+image_tiff
+----------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff
    :relatedMediaType: https://www.iana.org/assignments/media-types/image/tiff
@@ -4461,12 +4461,12 @@ tiff
 
 ------------
 
-tiff.andor.abd
---------------
+image_tiff.andor.abd
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.andor.abd
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.andor.abd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.andor.abd
 
@@ -4474,12 +4474,12 @@ tiff.andor.abd
 
 ------------
 
-tiff.improvision
-----------------
+image_tiff.improvision
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.improvision
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.improvision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.improvision
 
@@ -4487,12 +4487,12 @@ tiff.improvision
 
 ------------
 
-tiff.ionpath.mibi
------------------
+image_tiff.ionpath.mibi
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.ionpath.mibi
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.ionpath.mibi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.ionpath.mibi
 
@@ -4500,12 +4500,12 @@ tiff.ionpath.mibi
 
 ------------
 
-tiff.metamorph.75
------------------
+image_tiff.metamorph.75
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.metamorph.75
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.metamorph.75
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.metamorph.75
 
@@ -4513,12 +4513,12 @@ tiff.metamorph.75
 
 ------------
 
-tiff.mias
----------
+image_tiff.mias
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.mias
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mias
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.mias
 
@@ -4526,12 +4526,12 @@ tiff.mias
 
 ------------
 
-tiff.mikroscan
---------------
+image_tiff.mikroscan
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.mikroscan
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mikroscan
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.mikroscan
 
@@ -4539,12 +4539,12 @@ tiff.mikroscan
 
 ------------
 
-tiff.multichannel
------------------
+image_tiff.multichannel
+-----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multichannel
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multichannel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.multichannel
 
@@ -4552,12 +4552,12 @@ tiff.multichannel
 
 ------------
 
-tiff.multipage
---------------
+image_tiff.multipage
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.multipage
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multipage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.multipage
 
@@ -4565,12 +4565,12 @@ tiff.multipage
 
 ------------
 
-tiff.nikon.elements
--------------------
+image_tiff.nikon.elements
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.nikon.elements
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.elements
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.nikon.elements
 
@@ -4578,12 +4578,12 @@ tiff.nikon.elements
 
 ------------
 
-tiff.nikon.ez-c1
-----------------
+image_tiff.nikon.ez-c1
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.nikon.ez-c1
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.ez-c1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.nikon.ez-c1
 
@@ -4591,12 +4591,12 @@ tiff.nikon.ez-c1
 
 ------------
 
-tiff.olympus.fluoview
----------------------
+image_tiff.olympus.fluoview
+---------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.olympus.fluoview
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.fluoview
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.olympus.fluoview
 
@@ -4604,12 +4604,12 @@ tiff.olympus.fluoview
 
 ------------
 
-tiff.olympus.sis
-----------------
+image_tiff.olympus.sis
+----------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.olympus.sis
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.sis
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.olympus.sis
 
@@ -4617,12 +4617,12 @@ tiff.olympus.sis
 
 ------------
 
-tiff.photoshop
---------------
+image_tiff.photoshop
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.photoshop
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.photoshop
 
@@ -4630,12 +4630,12 @@ tiff.photoshop
 
 ------------
 
-tiff.yokogawa.cellvoyager
--------------------------
+image_tiff.yokogawa.cellvoyager
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/tiff.yokogawa.cellvoyager
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.yokogawa.cellvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.yokogawa.cellvoyager
 
@@ -4643,12 +4643,12 @@ tiff.yokogawa.cellvoyager
 
 ------------
 
-vnd.adobe.photoshop
--------------------
+image_vnd.adobe.photoshop
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/vnd.adobe.photoshop
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.adobe.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.adobe.photoshop
 
@@ -4656,12 +4656,12 @@ vnd.adobe.photoshop
 
 ------------
 
-vnd.compix.simplepcihcimage
----------------------------
+image_vnd.compix.simplepcihcimage
+---------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/vnd.compix.simplepcihcimage
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.compix.simplepcihcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.compix.simplepcihcimage
 
@@ -4669,12 +4669,12 @@ vnd.compix.simplepcihcimage
 
 ------------
 
-vnd.silicongraphicsimage
-------------------------
+image_vnd.silicongraphicsimage
+------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/vnd.silicongraphicsimage
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.silicongraphicsimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.silicongraphicsimage
 
@@ -4682,12 +4682,12 @@ vnd.silicongraphicsimage
 
 ------------
 
-x-eps
------
+image_x-eps
+-----------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/x-eps
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-eps
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-eps
 
@@ -4695,12 +4695,12 @@ x-eps
 
 ------------
 
-x-panasonic-rw
---------------
+image_x-panasonic-rw
+--------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/x-panasonic-rw
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-panasonic-rw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-panasonic-rw
 
@@ -4708,12 +4708,12 @@ x-panasonic-rw
 
 ------------
 
-x-targa
--------
+image_x-targa
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/image/x-targa
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-targa
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-targa
 
@@ -4721,12 +4721,12 @@ x-targa
 
 ------------
 
-cfg
----
+text_cfg
+--------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/cfg
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_cfg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/cfg
 
@@ -4734,12 +4734,12 @@ cfg
 
 ------------
 
-csv
----
+text_csv
+--------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/csv
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/csv
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/csv
@@ -4748,12 +4748,12 @@ csv
 
 ------------
 
-html
-----
+text_html
+---------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/html
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_html
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/html
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/html
@@ -4762,12 +4762,12 @@ html
 
 ------------
 
-markdown
---------
+text_markdown
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/markdown
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_markdown
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/markdown
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/markdown
@@ -4776,12 +4776,12 @@ markdown
 
 ------------
 
-plain
------
+text_plain
+----------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/plain
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_plain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/plain
 
@@ -4789,12 +4789,12 @@ plain
 
 ------------
 
-prs.fallenstein.rst
--------------------
+text_prs.fallenstein.rst
+------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/prs.fallenstein.rst
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_prs.fallenstein.rst
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/prs.fallenstein.rst
 
@@ -4802,12 +4802,12 @@ prs.fallenstein.rst
 
 ------------
 
-semicolon-separated-values
---------------------------
+text_semicolon-separated-values
+-------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/semicolon-separated-values
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_semicolon-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/semicolon-separated-values
 
@@ -4815,12 +4815,12 @@ semicolon-separated-values
 
 ------------
 
-tab-separated-values
---------------------
+text_tab-separated-values
+-------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/tab-separated-values
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_tab-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/tab-separated-values
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/tab-separated-values
@@ -4829,12 +4829,12 @@ tab-separated-values
 
 ------------
 
-x-cml+xml
----------
+text_x-cml+xml
+--------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-cml+xml
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-cml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-cml+xml
    :specification: http://www.xml-cml.org/schema/schema3/schema.xsd
@@ -4843,12 +4843,12 @@ x-cml+xml
 
 ------------
 
-x-matlab
---------
+text_x-matlab
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-matlab
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-matlab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-matlab
 
@@ -4856,12 +4856,12 @@ x-matlab
 
 ------------
 
-x-objcsrc
----------
+text_x-objcsrc
+--------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-objcsrc
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-objcsrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-objcsrc
 
@@ -4869,12 +4869,12 @@ x-objcsrc
 
 ------------
 
-x-python
---------
+text_x-python
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python
 
@@ -4882,12 +4882,12 @@ x-python
 
 ------------
 
-x-python.2
-----------
+text_x-python.2
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.2
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.2
 
@@ -4895,12 +4895,12 @@ x-python.2
 
 ------------
 
-x-python.2.7
-------------
+text_x-python.2.7
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.2.7
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.2.7
 
@@ -4908,12 +4908,12 @@ x-python.2.7
 
 ------------
 
-x-python.3
-----------
+text_x-python.3
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3
 
@@ -4921,12 +4921,12 @@ x-python.3
 
 ------------
 
-x-python.3.6
-------------
+text_x-python.3.6
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.6
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.6
 
@@ -4934,12 +4934,12 @@ x-python.3.6
 
 ------------
 
-x-python.3.6.5
---------------
+text_x-python.3.6.5
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.6.5
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6.5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.6.5
 
@@ -4947,12 +4947,12 @@ x-python.3.6.5
 
 ------------
 
-x-python.3.7
-------------
+text_x-python.3.7
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.7
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.7
 
@@ -4960,12 +4960,12 @@ x-python.3.7
 
 ------------
 
-x-python.3.8
-------------
+text_x-python.3.8
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.8
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.8
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.8
 
@@ -4973,12 +4973,12 @@ x-python.3.8
 
 ------------
 
-x-python.3.9
-------------
+text_x-python.3.9
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/text/x-python.3.9
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.9
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.9
 
@@ -4986,12 +4986,12 @@ x-python.3.9
 
 ------------
 
-mp4
----
+video_mp4
+---------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/video/mp4
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/video_mp4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/mp4
    :relatedMediaType: https://www.iana.org/assignments/media-types/video/mp4
@@ -5000,12 +5000,12 @@ mp4
 
 ------------
 
-quicktime
----------
+video_quicktime
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/video/quicktime
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/video_quicktime
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/quicktime
 
@@ -5013,12 +5013,12 @@ quicktime
 
 ------------
 
-x-msvideo
----------
+video_x-msvideo
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contentTypes/video/x-msvideo
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/video_x-msvideo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/x-msvideo
 

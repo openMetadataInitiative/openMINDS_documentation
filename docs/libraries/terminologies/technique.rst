@@ -508,7 +508,7 @@ cryosectioning
 
    :@id: https://openminds.ebrains.eu/instances/technique/cryosectioning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: Cutting of specimen in cryo/freezing conditions typcially resulting in micromillimeter thin slices.
+   :definition: Cutting of specimen in cryo/freezing conditions typically resulting in micromillimeter thin slices.
    :name: cryosectioning
 
 `BACK TO TOP <Technique_>`_

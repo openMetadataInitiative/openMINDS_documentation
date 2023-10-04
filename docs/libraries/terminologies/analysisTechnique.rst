@@ -776,7 +776,7 @@ linearTransformation
 
    :@id: https://openminds.ebrains.eu/instances/technique/linearTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: A 'linear transformation' is a linear mathematical function to map coordinates between two different coordinate systems while perserving straight lines.
+   :definition: A 'linear transformation' is a linear mathematical function to map coordinates between two different coordinate systems while preserving straight lines.
    :name: linear transformation
 
 `BACK TO TOP <AnalysisTechnique_>`_
@@ -1047,7 +1047,7 @@ nonlinearTransformation
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonlinearTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not perserving straight lines.
+   :definition: A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not preserving straight lines.
    :name: nonlinear transformation
 
 `BACK TO TOP <AnalysisTechnique_>`_
@@ -1333,7 +1333,7 @@ rigidTransformation
 
    :@id: https://openminds.ebrains.eu/instances/technique/rigidTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: A 'rigid transformation' is a specific linear transformation using combinations of rotations, translations, and reflections to map coordinates between two coordinate spaces, leaving the oject congruent.
+   :definition: A 'rigid transformation' is a specific linear transformation using combinations of rotations, translations, and reflections to map coordinates between two coordinate spaces, leaving the object congruent.
    :name: rigid transformation
 
 `BACK TO TOP <AnalysisTechnique_>`_

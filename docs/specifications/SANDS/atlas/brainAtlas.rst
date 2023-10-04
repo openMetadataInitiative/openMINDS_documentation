@@ -86,7 +86,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a description (or abstract) of this research product. Note that this should be a suitable description for all attached research product versions.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -198,7 +198,7 @@ Preferred format for citing a particular object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <BrainAtlas_>`_

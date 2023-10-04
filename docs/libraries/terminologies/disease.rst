@@ -227,7 +227,7 @@ multipleSclerosis
 
    :@id: https://openminds.ebrains.eu/instances/disease/multipleSclerosis
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
-   :definition: 'Multiple sclerosis' is a disorder in which the body's immune system attacks the protective meylin covering of the nerve cells in the brain, optic nerve and spinal cord (adaped from the [Mayo clinic](https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269#:~:text=Multiple%20sclerosis%20is%20a%20disorder,insulation%20on%20an%20electrical%20wire.))
+   :definition: 'Multiple sclerosis' is a disorder in which the body's immune system attacks the protective meylin covering of the nerve cells in the brain, optic nerve and spinal cord (adapted from the [Mayo clinic](https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269#:~:text=Multiple%20sclerosis%20is%20a%20disorder,insulation%20on%20an%20electrical%20wire.))
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0756481
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :name: multiple sclerosis

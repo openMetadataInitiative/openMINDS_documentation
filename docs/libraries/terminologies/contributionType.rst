@@ -106,7 +106,7 @@ metadataManagment
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
-   :name: metadata managment
+   :name: metadata management
 
 `BACK TO TOP <ContributionType_>`_
 

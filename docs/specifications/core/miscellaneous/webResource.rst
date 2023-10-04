@@ -46,7 +46,7 @@ contentDescription
 
    :semantic name: https://openminds.ebrains.eu/vocab/contentDescription
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/plain; multiline
    :instructions: Enter a short content description for this web resource.
 
 `BACK TO TOP <WebResource_>`_

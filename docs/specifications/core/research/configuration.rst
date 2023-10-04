@@ -29,7 +29,7 @@ configuration
 
    :semantic name: https://openminds.ebrains.eu/vocab/configuration
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/plain; multiline
    :instructions: Enter the configuration in a simple text based format (e.g., JSON or YAML).
 
 `BACK TO TOP <Configuration_>`_

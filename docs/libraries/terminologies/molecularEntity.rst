@@ -795,7 +795,7 @@ excitatoryAminoAcidTransporter1
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The excitatory amino acid transporter 1 belongs to the EAAT familiy. It is predominantly expressed in the plasma membrane removing glutamate from the extracellular space, but was also localized in the inner mitochondrial membrane as part of the malate-aspartate shuttle.
+   :definition: The excitatory amino acid transporter 1 belongs to the EAAT family. It is predominantly expressed in the plasma membrane removing glutamate from the extracellular space, but was also localized in the inner mitochondrial membrane as part of the malate-aspartate shuttle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103639
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014974#excitatory-amino-acid-transporter-1
    :name: excitatory amino acid transporter 1
@@ -812,7 +812,7 @@ excitatoryAminoAcidTransporter2
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The excitatory amino acid transporter 2 belongs to the EAAT familiy. It clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system and is responsible for over 90% of glutamate reuptake within the brain.
+   :definition: The excitatory amino acid transporter 2 belongs to the EAAT family. It clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system and is responsible for over 90% of glutamate reuptake within the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103640
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014973#excitatory-amino-acid-transporter-2
    :name: excitatory amino acid transporter 2
@@ -829,7 +829,7 @@ excitatoryAminoAcidTransporter3
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The excitatory amino acid transporter 3 belongs to the EAAT familiy transporting glutamate across plasma membranes in neurons. It can also transport aspartate and plays a role in the neuronal cysteine uptake.
+   :definition: The excitatory amino acid transporter 3 belongs to the EAAT family transporting glutamate across plasma membranes in neurons. It can also transport aspartate and plays a role in the neuronal cysteine uptake.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103641
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014972#excitatory-amino-acid-transporter-3
    :name: excitatory amino acid transporter 3
@@ -846,7 +846,7 @@ excitatoryAminoAcidTransporter4
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The excitatory amino acid transporter 4 belongs to the EAAT familiy. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.
+   :definition: The excitatory amino acid transporter 4 belongs to the EAAT family. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103642
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014977#excitatory-amino-acid-transporter-4
    :name: excitatory amino acid transporter 4
@@ -863,7 +863,7 @@ excitatoryAminoAcidTransporter5
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The excitatory amino acid transporter 5 belongs to the EAAT familiy. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.
+   :definition: The excitatory amino acid transporter 5 belongs to the EAAT family. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014978#excitatory-amino-acid-transporter-5
    :name: excitatory amino acid transporter 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014978
@@ -1025,7 +1025,7 @@ insulinLikeGrowthFactor1
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The term 'insulin-like growth factor' names a set of proteins with high sequence similarity to insulin that are part of a complex system that cells use to communicate with their physiologic environment. [adpated from [wikipedia](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)]
+   :definition: The term 'insulin-like growth factor' names a set of proteins with high sequence similarity to insulin that are part of a complex system that cells use to communicate with their physiologic environment. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105523
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000009182#insulin-like-growth-factor-i
    :name: insulin-like growth factor 1

@@ -46,7 +46,7 @@ Mention of what deserves additional attention or notice.
 
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this parcellation entity version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -226,7 +226,7 @@ Documentation on what changed in comparison to a previously published form of so
 
    :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short description (or summary) of the novelties/peculiarities of this parcellation entity version in comparison to its preceding versions. If this parcellation entity version is the first version, leave blank.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
