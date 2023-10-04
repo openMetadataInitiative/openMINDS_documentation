@@ -1,3 +1,2 @@
 gitpython
 rstcloth
-sphinx-rtd-theme
