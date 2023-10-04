@@ -48,7 +48,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/publications/livePaperVersion.html>`_
+                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/publications/livePaperVersion.html>`_
    :instructions: Add the live paper version this live paper section is part of.
 
 `BACK TO TOP <LivePaperSection_>`_

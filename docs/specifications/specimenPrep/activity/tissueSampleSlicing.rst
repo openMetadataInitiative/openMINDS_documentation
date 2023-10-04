@@ -29,7 +29,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device used to slice the tissue sample.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -48,7 +48,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object of type
-                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleState.html>`_
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the specimen that was sliced during this activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -67,7 +67,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/tissueSampleState.html>`_
+                | `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample slice or collection of slices that resulted from this activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -84,7 +84,7 @@ temperature
 
    :semantic name: https://openminds.ebrains.eu/vocab/temperature
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the temperature at which the tissue sample was sliced during the activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_
@@ -101,7 +101,7 @@ tissueBathSolution
 
    :semantic name: https://openminds.ebrains.eu/vocab/tissueBathSolution
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalMixture.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalMixture.html>`_
    :instructions: Add the chemical mixture used as bath solution during this activity.
 
 `BACK TO TOP <TissueSampleSlicing_>`_

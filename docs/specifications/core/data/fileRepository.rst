@@ -48,7 +48,7 @@ contentTypePattern
 
    :semantic name: https://openminds.ebrains.eu/vocab/contentTypePattern
    :value type: | linked object array \(1-N\) of type
-                | `ContentTypePattern <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/contentTypePattern.html>`_
+                | `ContentTypePattern <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/contentTypePattern.html>`_
    :instructions: Add all content type patterns that identify matching content types for files within this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -67,7 +67,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/contentType.html>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/contentType.html>`_
    :instructions: If the files and file bundles within this repository are organised and formatted according to a formal data structure, add the content type of this formal data structure. Leave blank if no formal data structure has been applied.
 
 `BACK TO TOP <FileRepository_>`_
@@ -86,7 +86,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | embedded object of type
-                | `Hash <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/hash.html>`_
+                | `Hash <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -105,7 +105,7 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_
    :instructions: Add the host organization of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -143,7 +143,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -160,7 +160,7 @@ structurePattern
 
    :semantic name: https://openminds.ebrains.eu/vocab/structurePattern
    :value type: | linked object of type
-                | `FileRepositoryStructure <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileRepositoryStructure.html>`_
+                | `FileRepositoryStructure <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/fileRepositoryStructure.html>`_
    :instructions: Add the file repository structure that identifies the file path patterns used in this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -179,7 +179,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/fileRepositoryType.html>`_
+                | `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/fileRepositoryType.html>`_
    :instructions: Add the type of this file repository.
 
 `BACK TO TOP <FileRepository_>`_

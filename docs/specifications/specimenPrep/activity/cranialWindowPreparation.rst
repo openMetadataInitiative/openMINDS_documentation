@@ -27,7 +27,7 @@ constructionType
 
    :semantic name: https://openminds.ebrains.eu/vocab/constructionType
    :value type: | linked object of type
-                | `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowConstructionType.html>`_
+                | `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/cranialWindowConstructionType.html>`_
    :instructions: Add the construction type of the cranial window.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -44,7 +44,7 @@ customPropertySet
 
    :semantic name: https://openminds.ebrains.eu/vocab/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/customPropertySet.html>`_
+                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/customPropertySet.html>`_
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -80,7 +80,7 @@ dimension
 
    :semantic name: https://openminds.ebrains.eu/vocab/dimension
    :value type: | embedded object of type
-                | `Circle <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/mathematicalShapes/circle.html>`_, `Ellipse <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/mathematicalShapes/ellipse.html>`_ or `Rectangle <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/mathematicalShapes/rectangle.html>`_
+                | `Circle <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/mathematicalShapes/circle.html>`_, `Ellipse <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/mathematicalShapes/ellipse.html>`_ or `Rectangle <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/mathematicalShapes/rectangle.html>`_
    :instructions: Enter the dimension of the cranial window by defining its mathematical shape.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -116,7 +116,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object array \(1-N\) of type
-                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectState.html>`_
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/subjectState.html>`_
    :instructions: Add the state of the subject which received the cranial window before this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -135,7 +135,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/datasetVersion.html>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/products/datasetVersion.html>`_
    :instructions: Add the dataset version in which this activity was conducted.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -171,7 +171,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
-                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectState.html>`_
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/subjectState.html>`_
    :instructions: Add the state of the subject which received the cranial window as a result of this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -188,7 +188,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -205,7 +205,7 @@ preparationDesign
 
    :semantic name: https://openminds.ebrains.eu/vocab/preparationDesign
    :value type: | linked object of type
-                | `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/preparationType.html>`_
+                | `PreparationType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/preparationType.html>`_
    :instructions: Add the initial preparation type for this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -224,7 +224,7 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
    :semantic name: https://openminds.ebrains.eu/vocab/protocol
    :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/protocol.html>`_
+                | `Protocol <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/protocol.html>`_
    :instructions: Add all protocols used during this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -241,7 +241,7 @@ reinforcementType
 
    :semantic name: https://openminds.ebrains.eu/vocab/reinforcementType
    :value type: | linked object of type
-                | `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cranialWindowReinforcementType.html>`_
+                | `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/cranialWindowReinforcementType.html>`_
    :instructions: Add the reinforcement type of the cranial window.
 
 `BACK TO TOP <CranialWindowPreparation_>`_
@@ -277,7 +277,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/organismSystem.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/termSuggestion.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/UBERONParcellation.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/electricalStimulusType.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/organismSystem.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/termSuggestion.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/UBERONParcellation.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all study targets of this activity.
 
 `BACK TO TOP <CranialWindowPreparation_>`_

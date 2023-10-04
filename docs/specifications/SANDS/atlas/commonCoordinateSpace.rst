@@ -46,7 +46,7 @@ Creator of a literary or creative work, as well as a dataset publication.
 
    :semantic name: https://openminds.ebrains.eu/vocab/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add all parties that contributed to this common coordinate space as authors.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -65,7 +65,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add all parties that fulfill the role of a custodian for this research product (e.g., a research group leader or principle investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the data, metadata, and/or code of the research product. Unless specified differently, this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -103,7 +103,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -141,7 +141,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add all versions of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -234,7 +234,7 @@ usedSpecies
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecies
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/species.html>`_
    :instructions: Add the species that was used for the creation of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_

@@ -48,7 +48,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for this channel.
 
 `BACK TO TOP <Channel_>`_

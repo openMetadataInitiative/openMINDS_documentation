@@ -28,7 +28,7 @@ alternateIdentifier
    :semantic name: https://openminds.ebrains.eu/vocab/alternateIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter all identifiers for this strain, excluding its ontological identifiers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
+   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
 
 `BACK TO TOP <Strain_>`_
 
@@ -44,7 +44,7 @@ backgroundStrain
 
    :semantic name: https://openminds.ebrains.eu/vocab/backgroundStrain
    :value type: | linked object array \(1-2\) of type
-                | `Strain <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/strain.html>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/strain.html>`_
    :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two strains contributed equally, state both.
 
 `BACK TO TOP <Strain_>`_
@@ -61,7 +61,7 @@ breedingType
 
    :semantic name: https://openminds.ebrains.eu/vocab/breedingType
    :value type: | linked object of type
-                | `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/breedingType.html>`_
+                | `BreedingType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/breedingType.html>`_
    :instructions: Add the breeding type for this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -99,7 +99,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
+                | `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the 'Research Resource Identifier' (RRID) of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -116,7 +116,7 @@ diseaseModel
 
    :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/diseaseModel.html>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 
 `BACK TO TOP <Strain_>`_
@@ -133,7 +133,7 @@ geneticStrainType
 
    :semantic name: https://openminds.ebrains.eu/vocab/geneticStrainType
    :value type: | linked object of type
-                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/geneticStrainType.html>`_
+                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/geneticStrainType.html>`_
    :instructions: Add the genetic background type of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -226,7 +226,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/species.html>`_
    :instructions: Add the species of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -243,7 +243,7 @@ stockNumber
 
    :semantic name: https://openminds.ebrains.eu/vocab/stockNumber
    :value type: | embedded object of type
-                | `StockNumber <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/stockNumber.html>`_
+                | `StockNumber <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/stockNumber.html>`_
    :instructions: Add the stock number from the vendor the strain was supplied from/is in stock at.
 
 `BACK TO TOP <Strain_>`_
@@ -263,7 +263,7 @@ Words or expressions used in the same language that have the same or nearly the 
    :semantic name: https://openminds.ebrains.eu/vocab/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter any synonyms (including abbreviations) of this strain.
+   :instructions: Enter any synonyms (inlcuding abbreviations) of this strain.
 
 `BACK TO TOP <Strain_>`_
 

@@ -48,7 +48,7 @@ measuredQuantity
 
    :semantic name: https://openminds.ebrains.eu/vocab/measuredQuantity
    :value type: | linked object of type
-                | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/measuredQuantity.html>`_
+                | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/measuredQuantity.html>`_
    :instructions: Add the quantity that was measured during this measurement.
 
 `BACK TO TOP <Measurement_>`_
@@ -65,7 +65,7 @@ measuredWith
 
    :semantic name: https://openminds.ebrains.eu/vocab/measuredWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device that was used during this measurement.
 
 `BACK TO TOP <Measurement_>`_
@@ -101,7 +101,7 @@ Entry for a property.
 
    :semantic name: https://openminds.ebrains.eu/vocab/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter all values that were measured at the same time and are of the same measured quantity.
 
 `BACK TO TOP <Measurement_>`_

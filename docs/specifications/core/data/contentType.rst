@@ -7,7 +7,7 @@ ContentType
 Structured information on the content type of a file instance, bundle or repository.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/contentTypes.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/contentTypes.html>`_.
 
 ------------
 
@@ -31,7 +31,7 @@ dataType
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/dataType.html>`_
+                | `DataType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that may be represented via this content type.
 
 `BACK TO TOP <ContentType_>`_

@@ -32,7 +32,7 @@ Mention of what deserves additional attention or notice.
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter any additional remarks concerning this chemical mixture.
+   :instructions: Enter any additional remarks concering this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
 
@@ -48,7 +48,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | embedded object array \(2-N\) of type
-                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/amountOfChemical.html>`_
+                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/amountOfChemical.html>`_
    :instructions: Enter all components, including other mixtures, that are part of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -84,7 +84,7 @@ productSource
 
    :semantic name: https://openminds.ebrains.eu/vocab/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/productSource.html>`_
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -103,7 +103,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/chemicalMixtureType.html>`_
+                | `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/chemicalMixtureType.html>`_
    :instructions: Add the type of this mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_

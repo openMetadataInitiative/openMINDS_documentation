@@ -46,7 +46,7 @@ anchorPoint
 
    :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the coordinates of the anchor point that a viewer should use. Either state the anchor point of the annotation again or state another coordinate point.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -63,7 +63,7 @@ cameraPosition
 
    :semantic name: https://openminds.ebrains.eu/vocab/cameraPosition
    :value type: | embedded object of type
-                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/coordinatePoint.html>`_
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Enter the camera position that a viewer should use.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -80,7 +80,7 @@ preferredDisplayColor
 
    :semantic name: https://openminds.ebrains.eu/vocab/preferredDisplayColor
    :value type: | linked object of type
-                | `Colormap <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/colormap.html>`_ or `SingleColor <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/singleColor.html>`_
+                | `Colormap <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/colormap.html>`_ or `SingleColor <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/miscellaneous/singleColor.html>`_
    :instructions: Add the preferred color that a viewer should display.
 
 `BACK TO TOP <ViewerSpecification_>`_

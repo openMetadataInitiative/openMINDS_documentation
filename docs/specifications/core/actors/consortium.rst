@@ -31,7 +31,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this consortium.
 
 `BACK TO TOP <Consortium_>`_

@@ -65,7 +65,7 @@ environmentVariable
 
    :semantic name: https://openminds.ebrains.eu/vocab/environmentVariable
    :value type: | linked object of type
-                | `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/propertyValueList.html>`_
+                | `PropertyValueList <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/propertyValueList.html>`_
    :instructions: Add any environment variables defined by this launch configuration.
 
 `BACK TO TOP <LaunchConfiguration_>`_

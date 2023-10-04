@@ -27,7 +27,7 @@ conductorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/conductorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the conductor material of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -63,7 +63,7 @@ deviceType
 
    :semantic name: https://openminds.ebrains.eu/vocab/deviceType
    :value type: | linked object of type
-                | `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/deviceType.html>`_
+                | `DeviceType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/deviceType.html>`_
    :instructions: Add the type of this device.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -82,7 +82,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/RRID.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -116,7 +116,7 @@ insulatorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/insulatorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the insulator material of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -152,7 +152,7 @@ intrinsicResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/intrinsicResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the intrinsic resistance of this electrode array.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -186,7 +186,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <ElectrodeArray_>`_
@@ -238,7 +238,7 @@ owner
 
    :semantic name: https://openminds.ebrains.eu/vocab/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <ElectrodeArray_>`_

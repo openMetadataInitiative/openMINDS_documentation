@@ -27,7 +27,7 @@ filePathPattern
 
    :semantic name: https://openminds.ebrains.eu/vocab/filePathPattern
    :value type: | embedded object array \(1-N\) of type
-                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/filePathPattern.html>`_
+                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/filePathPattern.html>`_
    :instructions: Add all file path patterns that define this file repository structure.
 
 `BACK TO TOP <FileRepositoryStructure_>`_

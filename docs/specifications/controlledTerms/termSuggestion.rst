@@ -5,7 +5,7 @@ TermSuggestion
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/TermSuggestion
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/termSuggestion.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/termSuggestion.html>`_.
 
 ------------
 
@@ -31,7 +31,7 @@ Reference to an existing terminology (distinct class to group related terms).
 
    :semantic name: https://openminds.ebrains.eu/vocab/addExistingTerminology
    :value type: | linked object of type
-                | `Terminology <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/terminology.html>`_
+                | `Terminology <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/terminology.html>`_
    :instructions: Add an existing terminology in which the suggested term should be integrated in.
 
 `BACK TO TOP <TermSuggestion_>`_
@@ -184,7 +184,7 @@ Words or expressions used in the same language that have the same or nearly the 
    :semantic name: https://openminds.ebrains.eu/vocab/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.
+   :instructions: Enter one or several synonyms (inlcuding abbreviations) for this controlled term.
 
 `BACK TO TOP <TermSuggestion_>`_
 

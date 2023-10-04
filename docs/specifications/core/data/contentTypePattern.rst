@@ -27,7 +27,7 @@ contentType
 
    :semantic name: https://openminds.ebrains.eu/vocab/contentType
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/contentType.html>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/contentType.html>`_
    :instructions: Add the content type that can be defined by the regular expression of this content type pattern (e.g., for file extensions).
 
 `BACK TO TOP <ContentTypePattern_>`_

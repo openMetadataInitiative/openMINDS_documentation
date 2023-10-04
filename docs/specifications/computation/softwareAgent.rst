@@ -29,7 +29,7 @@ environment
 
    :semantic name: https://openminds.ebrains.eu/vocab/environment
    :value type: | linked object of type
-                | `Environment <https://openminds-documentation.readthedocs.io/en/latest/specifications/computation/environment.html>`_
+                | `Environment <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/computation/environment.html>`_
    :instructions: Add the computational environment in which this software agent was running.
 
 `BACK TO TOP <SoftwareAgent_>`_
@@ -65,7 +65,7 @@ software
 
    :semantic name: https://openminds.ebrains.eu/vocab/software
    :value type: | linked object of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/softwareVersion.html>`_
+                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/products/softwareVersion.html>`_
    :instructions: Add the software version that is being run as this software agent.
 
 `BACK TO TOP <SoftwareAgent_>`_

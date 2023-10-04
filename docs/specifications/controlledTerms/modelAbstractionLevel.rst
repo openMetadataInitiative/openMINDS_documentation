@@ -7,7 +7,7 @@ ModelAbstractionLevel
 Structured information on abstraction level of the computational model.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/modelAbstractionLevel.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/modelAbstractionLevel.html>`_.
 
 ------------
 
@@ -148,7 +148,7 @@ Words or expressions used in the same language that have the same or nearly the 
    :semantic name: https://openminds.ebrains.eu/vocab/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.
+   :instructions: Enter one or several synonyms (inlcuding abbreviations) for this controlled term.
 
 `BACK TO TOP <ModelAbstractionLevel_>`_
 

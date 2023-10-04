@@ -30,7 +30,7 @@ Mention of what deserves additional attention or notice.
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter any additional remarks concerning this specimen set.
+   :instructions: Enter any additional remarks concering this specimen set.
 
 `BACK TO TOP <SubjectGroup_>`_
 
@@ -48,7 +48,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/biologicalSex.html>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -119,7 +119,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object array \(1-N\) of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/strain.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/strain.html>`_
    :instructions: Add the species and/or strain (a sub-type of a genetic variant of species) of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -138,7 +138,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/research/subjectGroupState.html>`_
+                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/research/subjectGroupState.html>`_
    :instructions: Add all states in which this subject group was studied.
 
 `BACK TO TOP <SubjectGroup_>`_

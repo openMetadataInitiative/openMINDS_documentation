@@ -5,7 +5,7 @@ ChemicalMixtureType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/chemicalMixtureType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/chemicalMixtureType.html>`_.
 
 ------------
 
@@ -146,7 +146,7 @@ Words or expressions used in the same language that have the same or nearly the 
    :semantic name: https://openminds.ebrains.eu/vocab/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.
+   :instructions: Enter one or several synonyms (inlcuding abbreviations) for this controlled term.
 
 `BACK TO TOP <ChemicalMixtureType_>`_
 

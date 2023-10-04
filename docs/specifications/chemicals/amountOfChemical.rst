@@ -29,7 +29,7 @@ amount
 
    :semantic name: https://openminds.ebrains.eu/vocab/amount
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: When used in a mixture, enter the amount of the substance within the mixture (e.g., as concentration or as ratio). When used in its pure state, enter the used amount of the substance.
 
 `BACK TO TOP <AmountOfChemical_>`_
@@ -46,7 +46,7 @@ chemicalProduct
 
    :semantic name: https://openminds.ebrains.eu/vocab/chemicalProduct
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the chemical product that was used.
 
 `BACK TO TOP <AmountOfChemical_>`_

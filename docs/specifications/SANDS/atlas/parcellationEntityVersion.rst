@@ -97,7 +97,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/atlasAnnotation.html>`_
+                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/atlasAnnotation.html>`_
    :instructions: Add all atlas annotations which define this parcellation entity version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -116,7 +116,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -188,7 +188,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add all relations (qualitative or quantitative) of this parcellation entity version to other anatomical entities.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_

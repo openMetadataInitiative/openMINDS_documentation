@@ -33,7 +33,7 @@ Declaration of a person being closely associated to an organization.
 
    :semantic name: https://openminds.ebrains.eu/vocab/affiliation
    :value type: | embedded object array \(1-N\) of type
-                | `Affiliation <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_
+                | `Affiliation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/affiliation.html>`_
    :instructions: Enter all current and, if desired, past affiliations of this person.
 
 `BACK TO TOP <Person_>`_
@@ -67,7 +67,7 @@ associatedAccount
 
    :semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
    :value type: | linked object array \(1-N\) of type
-                | `AccountInformation <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/accountInformation.html>`_
+                | `AccountInformation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/accountInformation.html>`_
    :instructions: Add the information about web service accounts held by this person.
 
 `BACK TO TOP <Person_>`_
@@ -86,7 +86,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this person.
 
 `BACK TO TOP <Person_>`_
@@ -105,7 +105,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `ORCID <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/digitalIdentifier/ORCID.html>`_
+                | `ORCID <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/digitalIdentifier/ORCID.html>`_
    :instructions: Add all globally unique and persistent digital identifier of this person.
 
 `BACK TO TOP <Person_>`_

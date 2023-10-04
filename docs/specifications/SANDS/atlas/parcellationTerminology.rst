@@ -27,7 +27,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/file.html>`_
    :instructions: Add the location of all files in which this parcellation terminology is stored.
 
 `BACK TO TOP <ParcellationTerminology_>`_
@@ -44,7 +44,7 @@ hasEntity
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasEntity
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/specifications/SANDS/atlas/parcellationEntity.html>`_
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all parcellation entities which belong to this parcellation terminology.
 
 `BACK TO TOP <ParcellationTerminology_>`_

@@ -46,7 +46,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `Setup <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/specifications/specimenPrep/device/slicingDevice.html>`_
+                | `Setup <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/specimenPrep/device/slicingDevice.html>`_
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_
@@ -80,7 +80,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this setup.
 
 `BACK TO TOP <Setup_>`_
@@ -118,7 +118,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `SetupType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/setupType.html>`_
+                | `SetupType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/setupType.html>`_
    :instructions: Add all types that describe this setup.
 
 `BACK TO TOP <Setup_>`_

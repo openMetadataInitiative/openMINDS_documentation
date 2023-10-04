@@ -25,7 +25,7 @@ Properties
 acknowledgement
 ***************
 
-Official declaration or avowal of appreciation of an act or achievement.
+Offical declaration or avowal of appreciation of an act or achievement.
 
 .. admonition:: specifications
 
@@ -88,7 +88,7 @@ Legal person that provides money for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funder
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/actors/person.html>`_
    :instructions: Add the party that provided this funding.
 
 `BACK TO TOP <Funding_>`_

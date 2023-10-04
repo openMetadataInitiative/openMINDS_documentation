@@ -29,7 +29,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/specifications/controlledTerms/electricalStimulusType.html>`_
+                | `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/controlledTerms/electricalStimulusType.html>`_
    :instructions: Add the type that describe this electrical stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_

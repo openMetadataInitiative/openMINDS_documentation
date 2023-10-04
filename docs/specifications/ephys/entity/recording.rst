@@ -46,7 +46,7 @@ channel
 
    :semantic name: https://openminds.ebrains.eu/vocab/channel
    :value type: | embedded object array \(1-N\) of type
-                | `Channel <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/entity/channel.html>`_
+                | `Channel <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/entity/channel.html>`_
    :instructions: Enter all channels used for this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -63,7 +63,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/data/fileBundle.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/data/fileBundle.html>`_
    :instructions: Add the location of the file or file bundle in which the recorded data is stored.
 
 `BACK TO TOP <Recording_>`_
@@ -118,7 +118,7 @@ previousRecording
 
    :semantic name: https://openminds.ebrains.eu/vocab/previousRecording
    :value type: | linked object of type
-                | `Recording <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/entity/recording.html>`_
+                | `Recording <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/entity/recording.html>`_
    :instructions: If this recording is part of a sequence of recordings (e.g., multiple repetitions or sweeps), add the recording preceding this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -135,7 +135,7 @@ recordedWith
 
    :semantic name: https://openminds.ebrains.eu/vocab/recordedWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device used to generate this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -152,7 +152,7 @@ samplingFrequency
 
    :semantic name: https://openminds.ebrains.eu/vocab/samplingFrequency
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the sampling frequency of this recording.
 
 `BACK TO TOP <Recording_>`_
