@@ -31,7 +31,7 @@ Mention of what deserves additional attention or notice.
 
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter additional remarks about the specimen (set) in this state.
 
 `BACK TO TOP <TissueSampleState_>`_

@@ -4,7 +4,7 @@ BehavioralTask
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/BehavioralTask
 
-Structured information on the behavioral task that had to be peformed by a subject.
+Structured information on the behavioral task that had to be performed by a subject.
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/behavioralTask.html>`_.
@@ -33,7 +33,7 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
    :semantic name: https://openminds.ebrains.eu/vocab/definition
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter one sentence for defining this term.
 
 `BACK TO TOP <BehavioralTask_>`_
@@ -52,7 +52,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this term.
 
 `BACK TO TOP <BehavioralTask_>`_

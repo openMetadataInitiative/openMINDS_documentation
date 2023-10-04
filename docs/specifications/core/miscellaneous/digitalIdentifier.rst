@@ -31,7 +31,7 @@ Preferred format for citing a particular object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter the preferred citation text for the resource this digital identifier stands for.
 
 `BACK TO TOP <DigitalIdentifier_>`_

@@ -105,7 +105,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references).
 
 `BACK TO TOP <MetaDataModelVersion_>`_
@@ -500,7 +500,7 @@ Documentation on what changed in comparison to a previously published form of so
 
    :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short summary of the novelties/peculiarities of this research product version.
 
 `BACK TO TOP <MetaDataModelVersion_>`_
