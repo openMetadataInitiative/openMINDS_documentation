@@ -217,7 +217,7 @@ Documentation on what changed in comparison to a previously published form of so
 
    :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short description of the novelties/peculiarities of this atlas annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_

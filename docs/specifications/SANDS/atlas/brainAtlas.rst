@@ -31,7 +31,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short description for this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -126,7 +126,7 @@ Preferred format for citing a particular object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter the preferred citation text for this brain atlas. Leave blank if citation text can be extracted from the assigned digital identifier.
 
 `BACK TO TOP <BrainAtlas_>`_

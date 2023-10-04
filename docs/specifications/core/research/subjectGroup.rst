@@ -29,7 +29,7 @@ Mention of what deserves additional attention or notice.
 
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter additional remarks about the specimen set.
 
 `BACK TO TOP <SubjectGroup_>`_

@@ -175,7 +175,7 @@ Documentation on what changed in comparison to a previously published form of so
 
    :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a short description of the novelties/peculiarities of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_

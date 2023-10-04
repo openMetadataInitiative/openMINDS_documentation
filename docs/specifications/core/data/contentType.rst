@@ -33,7 +33,7 @@ Longer statement or account giving the characteristics of someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
-                | formatting: text/plain; singleline
+                | formatting: text/markdown; multiline
    :instructions: Enter a description of the content type specification. May be left blank if a public specification can be linked in 'specification'.
 
 `BACK TO TOP <ContentType_>`_
