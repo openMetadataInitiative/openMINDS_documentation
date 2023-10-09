@@ -9,33 +9,34 @@ Creating a minimal instance
 
 Let us start be creating a "Person" instance. For this, we first need to check the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_.
 
-The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional and do not have to be specified in a valid openMINDS "Person" instance. Based on these constraints, let us define a minimal "Person" instance:
+The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
 .. code-block:: json
-   :caption: zaphod.jsonld
+   :caption: zaphod-beeblebrox.jsonld
 
    {
      "@context": {
        "@vocab": "https://openminds.ebrains.eu/vocab/"
      },
-     "@id": "http://localhost/openminds/instance/person/12c42382-4c9c-4ee9-849e-b583a9f2ff25",
+     "@id": "_:zaphod-beeblebrox",
      "@type": "https://openminds.ebrains.eu/core/Person",
      "givenName": "Zaphod"
    }
 
-Let us explain in the following the meaning of ``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"`` which are JSON-LD syntax keywords that can be part of any JSON-LD document. 
+Let us explain the meaning of ``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"`` which are JSON-LD specific syntax keywords. 
 
-The ``"@context"`` keyword allows a JSON-LD document to use shortcut terms without losing accuracy. In openMINDS we particularly use it to define the prefix of the global vocabulary (``"@vocab"``) for properties (cf. . Generally, the ``"@vocab"`` keyword in a JSON-LD document sets a common prefix for all properties and types that do not match a term, an IRI, or a compact IRI. When unspecified in an openMINDS JSONLD, the property names have to be expanded with the prefix we specified for the ``"@vocab"`` keyword in our previous code block:
+The ``"@context"`` JSON-LD keyword can be used to map shortcut terms to internationalized resource identifiers (IRIs). In openMINDS, we use it to define the prefix of the global vocabulary for properties. For this, we combine it with the ``"@vocab"`` JSON-LD keyword to set a common prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node identifier. A valid openMINDS JSON-LD can also be defined without stating ``"@context"`` and ``"@vocab"``, if all property names are expanded with the common vocabulary prefix. Our previously defined "Person" instance could therefore also look like this:
 
 .. code-block:: json
+   :caption: zaphod-beeblebrox.jsonld
 
    {
-     "@id": "http://localhost/openminds/instance/person/12c42382-4c9c-4ee9-849e-b583a9f2ff25",
+     "@id": "_:zaphod-beeblebrox",
      "@type": "https://openminds.ebrains.eu/core/Person",
      "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
    }
 
-The ``"@id"`` keyword is used to uniquely identify an instance (node) in order to be able to reference this instance in a graph database. Ideally an ``"@id"`` keyword is defined as a globally unique and persistent identifier. In openMINDS, we typically combine a framework specific internationalized resource identifier (IRI) prefix with a version 4 universially unique identifier (UUID) which is a randomly generated 128 bit label.
+The ``"@id"`` keyword is used to provide a unique, referable identifier for an instance (node) in a graph database. An ``"@id"`` has to be an IRI, a compact IRI or a blank node identifier. For your local openMINDS instances, we recommend to define a unique blank node identifier (prefix ``"_:"`` plus your identifier). For instances defined in the openMINDS libraries, we use openMINDS specific IRIs. Graph database management systems will typically use globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
 The ``"@type"`` keyword in a JSONLD document is used to set the type of an instance (node) or the datatype of a typed value object within an instance. The ``"@type"`` keyword clearly identifies the metadata schema that should be used to validate the content of that instance or value object.
 
@@ -48,12 +49,13 @@ Instances within a graph database are linked. As example, let us link a "Person"
 If we ckeck the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
 .. code-block:: json
+   :caption: zaphod-beeblebrox_email.jsonld
 
    {
      "@context": {
        "@vocab": "https://openminds.ebrains.eu/vocab/"
      },
-     "@id": "http://localhost/openminds/instance/contactInformation/03ae13fe-73f3-4103-840c-1af75a9980cc",
+     "@id": "_:zaphod-beeblebrox_email",
      "@type": "https://openminds.ebrains.eu/core/ContactInformation",
      "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
    }
@@ -61,6 +63,7 @@ If we ckeck the constraints of the `"ContactInformation" schema <https://openmin
 Further let us define again a "Person" instance. This time with the additional optional properties (`"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_) which requires a simple string value and (`"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_) which requires a link to an instance of type "ContactInformation":
 
 .. code-block:: json
+   :caption: zaphod.jsonld
 
    {
      "@context": {
