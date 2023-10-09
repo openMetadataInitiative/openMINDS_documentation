@@ -2,10 +2,11 @@
 name: openMINDS_documentation_build_pipeline
 
 on:
-  workflow_dispatch: # This triggers the workflow when a webhook is received
+  workflow_dispatch:
   push:
       branches:
         - pipeline
+        - main
 
 jobs:
   build:
