@@ -6,7 +6,7 @@ Welcome to the openMINDS documentation!
 
 - `Specifications <specifications.html>`_ of schemas for multiple, interlocked metadata models
 - `Libraries <libraries.html>`_ for serviceable, well-defined terms and constructs
-- `Supportive tooling <supportive_tooling.html>`_ for handling openMINDS in Python or MATLAB
+- `Supportive tooling <shared/supportive_tooling.html>`_ for handling openMINDS in Python or MATLAB
 
 Applying the openMINDS framework to your own data collection, requires you to design a graph representation of your data. What this means and how to approach this challenge is described in `Getting started <shared/getting_started.html>`_.
 
