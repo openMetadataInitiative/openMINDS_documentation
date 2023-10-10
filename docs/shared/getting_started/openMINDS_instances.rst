@@ -46,19 +46,19 @@ The "Person" schema demands only one required property, named `"givenName" <http
         "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
       }
 
-Let us explain the three versions for writing an openMINDS instance and the usage/meaning of JSON-LD specific syntax keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``), compact internationalized resource identifiers (IRIs), and blank node identifiers. 
+Let us explain the three versions for writing an openMINDS instance and the usage/meaning of JSON-LD specific syntax keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``), compact internationalized resource identifier (**compact IRI**), and blank node identifier (**blank node ID**). 
 
-``"@context"``: Can be used to map shortcut terms for internationalized resource identifiers (IRIs). In openMINDS, we use it to create a shortcut term for the common IRI prefix of the global vocabulary for properties by making use either of the JSON-LD keyword ``"@vocab"`` (cf. **v1**; preferred openMINDS formatting) or a compact IRI (cf. **v2**). You can also not make use of shortcut terms for the global vocabulary by explicitely stating the full namespace of each property (cf. **v3**).
+**"@context"**: The JSON-LD keyword ``"@context"`` can be used to map shortcut terms for internationalized resource identifiers (IRIs). In openMINDS, we use it to create a shortcut term for the common IRI prefix of the global vocabulary for properties by making use either of the JSON-LD keyword ``"@vocab"`` (cf. **v1**; preferred openMINDS formatting) or a compact IRI (cf. **v2**). You can also not make use of shortcut terms for the global vocabulary by explicitely stating the full namespace of each property (cf. **v3**).
 
-``"@vocab"``: Can be used to set a common IRI prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node identifier.
+**"@vocab"**: The JSON-LD keyword ``"@vocab"`` can be used to set a common IRI prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node ID.
 
-``"@id"``: Is used to provide a unique, referable identifier for an instance (node) in a graph database. An ``"@id"`` has to be an IRI, a compact IRI or a blank node identifier. 
+**"@id"**: The JSON-LD keyword ``"@id"`` is used to provide a unique, referable identifier for an instance (node) in a graph database. An ``"@id"`` has to be an IRI, a compact IRI or a blank node ID. 
 
-``"@type"``: Is used to set the type of an instance (node) or a nested object within an instance, clearly identifying the metadata schema that should be used to validate the content of that instance or nested object.
+**"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance (node) or a nested object within an instance, clearly identifying the metadata schema that should be used to validate the content of that instance or nested object.
 
-**compact IRI**: Has the form of ``"prefix:suffix"`` and is used as a way of simplifying full IRI namespaces (e.g., of properties) that have a common prefix. The common IRI prefix and the shortcut term used for it in the compact IRI have to be defined under ``"@context"`` (cf. **v3**).
+**compact IRI**: A compact IRI has the form of ``"prefix:suffix"`` and is used as a way of simplifying full IRI namespaces (e.g., of properties) that have a common prefix. The common IRI prefix and the shortcut term used for it in the compact IRI have to be defined under ``"@context"`` (cf. **v3**).
 
-**blank node identifier**: Has the form of ``"_:suffix"` and can be used to define a locally unique ``"@id"`` (cf. **v1**, **v2**, or **v3**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
+**blank node ID**: A blank node ID has the form of ``"_:suffix"` and can be used to define a locally unique ``"@id"`` (cf. **v1**, **v2**, or **v3**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
 Link an instance with another instance
 ######################################
@@ -150,3 +150,123 @@ Further let us extend our previous "Person" instance. This time with the additio
         "https://openminds.ebrains.eu/vocab/familyName": "Beeblebrox",
         "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
       }
+
+Embedding a typed object into an instance
+#########################################
+
+Instances within a graph database can also embed objects that are constrained by embedded metadata schemas. The "Person" schema tells us that the property `"affiliation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#affiliation>`_ is actually expecting 1 to N embedded objects of type "Affiliation".
+
+If we check the constraints of the `"Affiliation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_, we learn that an instance of this type only requires the property `"memberOf" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html#memberof>`_ which requires a link to an instance of type "Consortium" or "Organization". Furthermore, we can check the constraints for the `"Consortium" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_ and `"Organization" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ and learn that both only require the property "fullName" defined through a single value of data type "string".
+
+In order to embed an object of type "Affiliation" into our "Person" instance we therefore have to first create at least one instance of type "Organization" or "Consortium":
+
+.. tabs:: instance-formatting
+
+   .. code-tab:: json
+      :caption: v1
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:heart-of-gold-crew",
+        "@type": "https://openminds.ebrains.eu/core/Consortium",
+        "fullName": "Heart of Gold Spacecraft Crew"
+      }
+
+   .. code-tab:: json
+      :caption: v2
+
+      {
+        "@context": {
+          "vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:heart-of-gold-crew",
+        "@type": "https://openminds.ebrains.eu/core/Consortium",
+        "vocab:fullName": "Heart of Gold Spacecraft Crew"
+      }
+
+   .. code-tab:: json
+      :caption: v3
+
+      {
+        "@id": "_:heart-of-gold-crew",
+        "@type": "https://openminds.ebrains.eu/core/Consortium",
+        "https://openminds.ebrains.eu/vocab/fullName": "Heart of Gold Spacecraft Crew"
+      }
+
+Before we can create a valid embedded "Affiliation" object inside our "Person" instance:
+
+.. tabs:: instance-formatting
+
+   .. code-tab:: json
+      :caption: v1
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "contactInformation": {
+          "@id": "_:zaphod-beeblebrox_email"
+        },
+        "familyName": "Beeblebrox",
+        "givenName": "Zaphod"
+      }
+
+   .. code-tab:: json
+      :caption: v2
+
+      {
+        "@context": {
+          "vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "vocab:affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "vocab:memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "vocab:contactInformation": {
+          "@id": "_:zaphod-beeblebrox_email"
+        },
+        "vocab:familyName": "Beeblebrox",
+        "vocab:givenName": "Zaphod"
+      }
+
+   .. code-tab:: json
+      :caption: v3
+
+      {
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "https://openminds.ebrains.eu/vocab/affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "https://openminds.ebrains.eu/vocab/memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "https://openminds.ebrains.eu/vocab/contactInformation": {
+          "@id": "_:zaphod-beeblebrox_email"
+        },
+        "https://openminds.ebrains.eu/vocab/familyName": "Beeblebrox",
+        "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
+      }
+
+.. note:: Within openMINDS, metadata are provided in embedded typed objects if the separated content structure is reusable in other contexts and if the embedded metadata have the same life cycle as the parent instance. This rule has two exceptions: information is stated in separate, linked instances if both instances need to be linked from other sources (1) or if these instances should be placed in environments that have different access control regulations (2).
+
