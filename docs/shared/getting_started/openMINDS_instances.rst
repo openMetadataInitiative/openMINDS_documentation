@@ -11,7 +11,7 @@ Let us start be creating a "Person" instance. For this, we first need to check t
 
 The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
-.. tabs:: instance-formatting
+.. tabs::
 
    .. code-tab:: json
       :caption: v1
@@ -67,7 +67,7 @@ Instances within a graph database are linked through their unique identifiers. T
 
 If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
-.. tabs:: instance-formatting
+.. tabs::
 
    .. code-tab:: json
       :caption: v1
@@ -103,7 +103,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
 
 Further let us extend our previous "Person" instance. This time with the additional optional properties (`"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_) which requires a simple string value and (`"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_) which requires a link to an instance of type "ContactInformation":
 
-.. tabs:: instance-formatting
+.. tabs::
 
    .. code-tab:: json
       :caption: v1
