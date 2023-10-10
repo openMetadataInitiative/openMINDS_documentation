@@ -12,7 +12,6 @@ Let us start be creating a "Person" instance. For this, we first need to check t
 The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
 .. tabs::
-   :caption: zaphod-beeblebrox.jsonld
 
    .. code-tab:: json
       :caption: v1
@@ -30,23 +29,28 @@ The "Person" schema demands only one required property, named `"givenName" <http
       :caption: v2
 
       {
+        "@context": {
+          "vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "vocab:givenName": "Zaphod"
+      }
+
+   .. code-tab:: json
+      :caption: v3
+
+      {
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.ebrains.eu/core/Person",
         "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
       }
 
-Let us explain the meaning of ``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"`` which are JSON-LD specific syntax keywords. 
+Let us explain the three versions for writing an openMINDS instance and the usage/meaning of JSON-LD specific syntax keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``), compact internationalized resource identifiers (IRIs), and blank node identifiers. 
 
-The ``"@context"`` JSON-LD keyword can be used to map shortcut terms to internationalized resource identifiers (IRIs). In openMINDS, we use it to define the prefix of the global vocabulary for properties. For this, we combine it with the ``"@vocab"`` JSON-LD keyword to set a common prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node identifier. A valid openMINDS JSON-LD can also be defined without stating ``"@context"`` and ``"@vocab"``, if all property names are expanded with the common vocabulary prefix. Our previously defined "Person" instance could therefore also look like this:
+``"@context"``: Can be used to map shortcut terms to internationalized resource identifiers (IRIs). In **v1** and **v2**, we use it to define the prefix of the global vocabulary for properties (in two different ways). In **v3**, we demonstrate how you can write a valid openMINDS instance without specifying the ``"@context"``.  
 
-.. code-block:: json
-   :caption: zaphod-beeblebrox.jsonld
-
-   {
-     "@id": "_:zaphod-beeblebrox",
-     "@type": "https://openminds.ebrains.eu/core/Person",
-     "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
-   }
+``"@vocab"``: Can be used to set a common prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node identifier. A valid openMINDS JSON-LD can also be defined without stating ``"@context"`` and ``"@vocab"``, if all property names are expanded with the common vocabulary prefix.
 
 The ``"@id"`` keyword is used to provide a unique, referable identifier for an instance (node) in a graph database. An ``"@id"`` has to be an IRI, a compact IRI or a blank node identifier. For your local openMINDS instances, we recommend to define a unique blank node identifier (prefix ``"_:"`` plus your identifier). For instances defined in the openMINDS libraries, we use openMINDS specific IRIs. Graph database management systems will typically use globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
