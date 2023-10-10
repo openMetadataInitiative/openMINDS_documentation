@@ -14,7 +14,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
 .. tabs::
    :caption: zaphod-beeblebrox.jsonld
 
-   .. code-block:: json
+   .. code-tab:: json
       :caption: v1
 
       {
@@ -26,7 +26,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
         "givenName": "Zaphod"
       }
 
-   .. code-block:: json
+   .. code-tab:: json
       :caption: v2
 
       {
