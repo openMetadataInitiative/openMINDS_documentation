@@ -11,17 +11,29 @@ Let us start be creating a "Person" instance. For this, we first need to check t
 
 The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
-.. code-block:: json
+.. tabs::
    :caption: zaphod-beeblebrox.jsonld
 
-   {
-     "@context": {
-       "@vocab": "https://openminds.ebrains.eu/vocab/"
-     },
-     "@id": "_:zaphod-beeblebrox",
-     "@type": "https://openminds.ebrains.eu/core/Person",
-     "givenName": "Zaphod"
-   }
+   .. code-block:: json
+      :caption: v1
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "givenName": "Zaphod"
+      }
+
+   .. code-block:: json
+      :caption: v2
+
+      {
+        "@id": "_:zaphod-beeblebrox",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
+      }
 
 Let us explain the meaning of ``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"`` which are JSON-LD specific syntax keywords. 
 
