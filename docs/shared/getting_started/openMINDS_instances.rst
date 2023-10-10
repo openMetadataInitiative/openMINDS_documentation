@@ -67,10 +67,6 @@ Instances within a graph database are linked through their unique identifiers. T
 
 If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
-.. code-block:: json
-   :caption: zaphod-beeblebrox_email.jsonld
-
-
 .. tabs:: instance-formatting
 
    .. code-tab:: json
