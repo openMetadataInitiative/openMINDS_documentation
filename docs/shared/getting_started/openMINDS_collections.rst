@@ -4,12 +4,95 @@ openMINDS collections
 
 An openMINDS metadata collection is composed of multiple linked instances. The instances of such a collection can either be stored in separate JSON-LD files in a dedicated directory or all together within one collection JSON-LD file. 
 
-In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minimal collection which included a "Person" instance linked to a "ContactInformation" instance and with an embedded "Affiliation" that links to a "Consortium" instance. Let us further extend this collection by adding more "Person" instances that are affiliated to the same "Consortium" instance:
+In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minimal collection which included a "Person" instance linked to a "ContactInformation" instance and with an embedded "Affiliation" that links to a "Consortium" instance. In the following we extended this initial collection by adding three more "Person" instances that are affiliated to the same "Consortium" instance.
+
+Dedicated directory
+###################
+
+The instances of the above stated collection could be stored in separate files:
 
 .. tabs::
 
    .. code-tab:: json
-      :caption: _:zaphod-beeblebrox (Person)
+      :caption: arthur-dent.jsonld
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:arthur-dent",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "familyName": "Dent",
+        "givenName": "Arthur"
+      }
+
+   .. code-tab:: json
+      :caption: ford-prefect.jsonld
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:ford-prefect",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "familyName": "Prefect",
+        "givenName": "Ford"
+      }
+
+   .. code-tab:: json
+      :caption: heart-of-gold-crew.jsonld
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:heart-of-gold-crew",
+        "@type": "https://openminds.ebrains.eu/core/Consortium",
+        "fullName": "Heart of Gold Spacecraft Crew"
+      }
+
+   .. code-tab:: json
+      :caption: tricia-marie-mcmillan.jsonld
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:tricia-marie-mcmillan",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "alternateName": [
+          "Trillian Astra"
+        ],
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "familyName": "McMillan",
+        "givenName": "Tricia Marie"
+      }
+
+   .. code-tab:: json
+      :caption: zaphod-beeblebrox.jsonld
 
       {
         "@context": {
@@ -33,7 +116,7 @@ In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minim
       }
 
    .. code-tab:: json
-      :caption: _:zaphod-beeblebrox_email (ContactInformation)
+      :caption: zaphod-beeblebrox_email.jsonld
 
       {
         "@context": {
@@ -44,85 +127,31 @@ In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minim
         "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
-   .. code-tab:: json
-      :caption: _:heart-of-gold-crew (Consortium)
+These separate files should be stored in a dedicated collection directory:
 
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:heart-of-gold-crew",
-        "@type": "https://openminds.ebrains.eu/core/Consortium",
-        "fullName": "Heart of Gold Spacecraft Crew"
-      }
+.. tabs::
 
-   .. code-tab:: json
-      :caption: _:arthur-dent (Person)
+   .. code-tab:: markdown
+      :caption: v1
 
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:arthur-dent",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "Dent",
-        "givenName": "Arthur"
-      }
+      myCollection
+      |-- arthur-dent.jsonld
+      |-- ford-prefect.jsonld
+      |-- heart-of-gold-crew.jsonld
+      |-- tricia-marie-mcmillan.jsonld
+      |-- zaphod-beeblebrox.jsonld
+      `-- zaphod-beeblebrox_email.jsonld
 
-   .. code-tab:: json
-      :caption: _:ford-prefect (Person)
+   .. code-tab:: markdown
+      :caption: v2
 
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:ford-prefect",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "Prefect",
-        "givenName": "Ford"
-      }
-
-   .. code-tab:: json
-      :caption: _:tricia-marie-mcmillan (Person)
-
-      {
-        "@context": {
-          "@vocab": "https://openminds.ebrains.eu/vocab/"
-        },
-        "@id": "_:marvin",
-        "@type": "https://openminds.ebrains.eu/core/Person",
-        "alternateName": [
-          "Trillian Astra"
-        ]
-        "affiliation": [
-          {
-            "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "memberOf": {
-              "@id": "_:heart-of-gold-crew"
-            }
-          }
-        ],
-        "familyName": "McMillan",
-        "givenName": "Tricia Marie"
-      }
-
-Dedicated directory
-###################
-
-In `"openMINDS instances" schema <openMINDS_instances.html>`_ 
+      myCollection
+      |-- consortia
+      |   `-- heart-of-gold-crew.jsonld
+      |-- contactInformations
+      |   `-- zaphod-beeblebrox_email.jsonld
+      |-- persons
+          |-- arthur-dent.jsonld
+          |-- ford-prefect.jsonld
+          |-- tricia-marie-mcmillan.jsonld
+          `-- zaphod-beeblebrox.jsonld
