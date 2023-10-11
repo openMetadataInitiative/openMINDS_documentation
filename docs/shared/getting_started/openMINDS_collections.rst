@@ -127,9 +127,9 @@ The instances of the above stated collection could be stored in separate files:
         "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
-These separate files should be stored in a dedicated collection directory:
+These separate files should be stored in a dedicated collection directory. The organization of files within such a directory is flexible. In our example we present the files as a flat list (**v1**) or grouped into subdirectories for each type (**v2**):
 
-.. tabs::
+.. tabs:: collection-directory
 
    .. code-tab:: markdown
       :caption: v1
@@ -150,8 +150,41 @@ These separate files should be stored in a dedicated collection directory:
       |   `-- heart-of-gold-crew.jsonld
       |-- contactInformations
       |   `-- zaphod-beeblebrox_email.jsonld
-      |-- persons
+      `-- persons
           |-- arthur-dent.jsonld
           |-- ford-prefect.jsonld
           |-- tricia-marie-mcmillan.jsonld
           `-- zaphod-beeblebrox.jsonld
+
+If the collection contains instances that contain sensitive information, these instances can be stored in a protected subdirectory. For our example directories above that could look like this:
+
+.. tabs:: collection-directory
+
+   .. code-tab:: markdown
+      :caption: v1
+
+      myCollection
+      |-- public
+      |   |-- arthur-dent.jsonld
+      |   |-- ford-prefect.jsonld
+      |   |-- heart-of-gold-crew.jsonld
+      |   |-- tricia-marie-mcmillan.jsonld
+      |   `-- zaphod-beeblebrox.jsonld
+      `-- private
+          `-- zaphod-beeblebrox_email.jsonld
+
+   .. code-tab:: markdown
+      :caption: v2
+
+      myCollection
+      |-- public
+      |   |-- consortia
+      |   |   `-- heart-of-gold-crew.jsonld
+      |   `-- persons
+      |       |-- arthur-dent.jsonld
+      |       |-- ford-prefect.jsonld
+      |       |-- tricia-marie-mcmillan.jsonld
+      |       `-- zaphod-beeblebrox.jsonld
+      `-- private
+          `-- contactInformations
+              `-- zaphod-beeblebrox_email.jsonld
