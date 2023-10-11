@@ -58,7 +58,7 @@ Let us explain the three versions for writing an openMINDS instance and the usag
 
 **compact IRI**: A compact IRI has the form of ``"prefix:suffix"`` and is used as a way of simplifying full IRI namespaces (e.g., of properties) that have a common prefix. The common IRI prefix and the shortcut term used for it in the compact IRI have to be defined under ``"@context"`` (cf. **v3**).
 
-**blank node ID**: A blank node ID has the form of ``"_:suffix"` and can be used to define a locally unique ``"@id"`` (cf. **v1**, **v2**, or **v3**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
+**blank node ID**: A blank node ID has the form of ``"_:suffix"`` and can be used to define a locally unique ``"@id"`` (cf. **v1**, **v2**, or **v3**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
 Link an instance with another instance
 ######################################
@@ -102,7 +102,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
         "https://openminds.ebrains.eu/vocab/email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
-Further let us extend our previous "Person" instance. This time with the additional optional properties (`"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_) which requires a simple string value and (`"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_) which requires a link to an instance of type "ContactInformation":
+Further let us extend our previous "Person" instance. This time with the additional optional properties `"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_ which requires a simple string value and `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_ which requires a link to an instance of type "ContactInformation":
 
 .. tabs:: instance-formatting
 
@@ -154,9 +154,9 @@ Further let us extend our previous "Person" instance. This time with the additio
 Embedding a typed object into an instance
 #########################################
 
-Instances within a graph database can also embed objects that are constrained by embedded metadata schemas. The "Person" schema tells us that the property `"affiliation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#affiliation>`_ is actually expecting 1 to N embedded objects of type "Affiliation".
+Instances within a graph database can also embed typed objects that are constrained by other metadata schemas than the one used for the parent instance. For our example, the "Person" schema tells us that the property `"affiliation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#affiliation>`_ is actually expecting 1 to N embedded objects of type "Affiliation".
 
-If we check the constraints of the `"Affiliation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_, we learn that an instance of this type only requires the property `"memberOf" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html#memberof>`_ which requires a link to an instance of type "Consortium" or "Organization". Furthermore, we can check the constraints for the `"Consortium" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_ and `"Organization" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ and learn that both only require the property "fullName" defined through a single value of data type "string".
+If we check the constraints of the `"Affiliation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_, we learn that an instance of this type only requires the property `"memberOf" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html#memberof>`_ which requires a link to an instance of type "Consortium" or "Organization". Furthermore, we can check the constraints for the `"Consortium" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_ and the `"Organization" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ and learn that both only require the property "fullName" defined through a single value of data type "string".
 
 In order to embed an object of type "Affiliation" into our "Person" instance we therefore have to first create at least one instance of type "Organization" or "Consortium":
 
@@ -195,7 +195,7 @@ In order to embed an object of type "Affiliation" into our "Person" instance we 
         "https://openminds.ebrains.eu/vocab/fullName": "Heart of Gold Spacecraft Crew"
       }
 
-Before we can create a valid embedded "Affiliation" object inside our "Person" instance:
+Afterwards we can create a valid embedded "Affiliation" object inside our "Person" instance:
 
 .. tabs:: instance-formatting
 
@@ -267,6 +267,3 @@ Before we can create a valid embedded "Affiliation" object inside our "Person" i
         "https://openminds.ebrains.eu/vocab/familyName": "Beeblebrox",
         "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
       }
-
-.. note:: Within openMINDS, metadata are provided in embedded typed objects if the separated content structure is reusable in other contexts and if the embedded metadata have the same life cycle as the parent instance. This rule has two exceptions: information is stated in separate, linked instances if both instances need to be linked from other sources (1) or if these instances should be placed in environments that have different access control regulations (2).
-
