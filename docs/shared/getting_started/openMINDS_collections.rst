@@ -57,13 +57,13 @@ In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minim
       }
 
    .. code-tab:: json
-      :caption: _:zaphod-beeblebrox (Person)
+      :caption: _:arthur-dent (Person)
 
       {
         "@context": {
           "@vocab": "https://openminds.ebrains.eu/vocab/"
         },
-        "@id": "_:zaphod-beeblebrox",
+        "@id": "_:arthur-dent",
         "@type": "https://openminds.ebrains.eu/core/Person",
         "affiliation": [
           {
@@ -73,8 +73,53 @@ In `"openMINDS instances" schema <openMINDS_instances.html>`_ we started a minim
             }
           }
         ],
-        "familyName": "Beeblebrox",
-        "givenName": "Zaphod"
+        "familyName": "Dent",
+        "givenName": "Arthur"
+      }
+
+   .. code-tab:: json
+      :caption: _:ford-prefect (Person)
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:ford-prefect",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "familyName": "Prefect",
+        "givenName": "Ford"
+      }
+
+   .. code-tab:: json
+      :caption: _:tricia-marie-mcmillan (Person)
+
+      {
+        "@context": {
+          "@vocab": "https://openminds.ebrains.eu/vocab/"
+        },
+        "@id": "_:marvin",
+        "@type": "https://openminds.ebrains.eu/core/Person",
+        "alternateName": [
+          "Trillian Astra"
+        ]
+        "affiliation": [
+          {
+            "@type": "https://openminds.ebrains.eu/core/Affiliation",
+            "memberOf": {
+              "@id": "_:heart-of-gold-crew"
+            }
+          }
+        ],
+        "familyName": "McMillan",
+        "givenName": "Tricia Marie"
       }
 
 Dedicated directory
