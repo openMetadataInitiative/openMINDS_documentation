@@ -1,2 +1,2 @@
 # openMINDS_documentation
-Read-The-Docs documentation for the openMINDS metadata framework.
+[ReadTheDocs](https://openminds-documentation.readthedocs.io) documentation for the openMINDS metadata framework.
