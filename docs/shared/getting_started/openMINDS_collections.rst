@@ -127,12 +127,12 @@ The instances of the above stated collection could be stored in separate files:
         "email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
-These separate files should be stored in a dedicated collection directory. The organization of files within such a directory is flexible. In our example we present the files as a flat list (**v1**) or grouped into subdirectories for each type (**v2**):
+These separate files should be stored in a dedicated collection directory. The organization of files within such a directory is flexible. In our example we present the files as a flat list (**flat**) or grouped into subdirectories for each type (**grouped**):
 
 .. tabs:: collection-directory
 
    .. code-tab:: markdown
-      :caption: v1
+      :caption: flat
 
       myCollection
       |-- arthur-dent.jsonld
@@ -143,7 +143,7 @@ These separate files should be stored in a dedicated collection directory. The o
       `-- zaphod-beeblebrox_email.jsonld
 
    .. code-tab:: markdown
-      :caption: v2
+      :caption: grouped
 
       myCollection
       |-- consortia
@@ -161,7 +161,7 @@ If the collection contains instances that contain sensitive information, these i
 .. tabs:: collection-directory
 
    .. code-tab:: markdown
-      :caption: v1
+      :caption: flat
 
       myCollection
       |-- private
@@ -175,7 +175,7 @@ If the collection contains instances that contain sensitive information, these i
 
 
    .. code-tab:: markdown
-      :caption: v2
+      :caption: grouped
 
       myCollection
       |-- private

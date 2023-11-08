@@ -14,7 +14,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
 .. tabs:: instance-formatting
 
    .. code-tab:: json
-      :caption: v1
+      :caption: compact-1
 
       {
         "@context": {
@@ -26,7 +26,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
       }
 
    .. code-tab:: json
-      :caption: v2
+      :caption: compact-1
 
       {
         "@context": {
@@ -38,7 +38,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
       }
 
    .. code-tab:: json
-      :caption: v3
+      :caption: expanded
 
       {
         "@id": "_:zaphod-beeblebrox",
@@ -48,7 +48,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
 
 Let us explain the three versions for writing an openMINDS instance and the usage/meaning of JSON-LD specific syntax keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``), compact internationalized resource identifier (**compact IRI**), and blank node identifier (**blank node ID**). 
 
-**"@context"**: The JSON-LD keyword ``"@context"`` can be used to map shortcut terms for internationalized resource identifiers (IRIs). In openMINDS, we use it to create a shortcut term for the common IRI prefix of the global vocabulary for properties by making use either of the JSON-LD keyword ``"@vocab"`` (cf. **v1**; preferred openMINDS formatting) or a compact IRI (cf. **v2**). You can also not make use of shortcut terms for the global vocabulary by explicitely stating the full namespace of each property (cf. **v3**).
+**"@context"**: The JSON-LD keyword ``"@context"`` can be used to map shortcut terms for internationalized resource identifiers (IRIs). In openMINDS, we use it to create a shortcut term for the common IRI prefix of the global vocabulary for properties by making use either of the JSON-LD keyword ``"@vocab"`` (cf. **compact-1**; preferred openMINDS formatting) or a compact IRI (cf. **compact-2**). You can also not make use of shortcut terms for the global vocabulary by explicitely stating the full namespace of each property (cf. **expanded**).
 
 **"@vocab"**: The JSON-LD keyword ``"@vocab"`` can be used to set a common IRI prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node ID.
 
@@ -56,9 +56,9 @@ Let us explain the three versions for writing an openMINDS instance and the usag
 
 **"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance (node) or a nested object within an instance, clearly identifying the metadata schema that should be used to validate the content of that instance or nested object.
 
-**compact IRI**: A compact IRI has the form of ``"prefix:suffix"`` and is used as a way of simplifying full IRI namespaces (e.g., of properties) that have a common prefix. The common IRI prefix and the shortcut term used for it in the compact IRI have to be defined under ``"@context"`` (cf. **v3**).
+**compact IRI**: A compact IRI has the form of ``"prefix:suffix"`` and is used as a way of simplifying full IRI namespaces (e.g., of properties) that have a common prefix. The common IRI prefix and the shortcut term used for it in the compact IRI have to be defined under ``"@context"`` (cf. **expanded**).
 
-**blank node ID**: A blank node ID has the form of ``"_:suffix"`` and can be used to define a locally unique ``"@id"`` (cf. **v1**, **v2**, or **v3**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
+**blank node ID**: A blank node ID has the form of ``"_:suffix"`` and can be used to define a locally unique ``"@id"`` (cf. **compact-1**, **compact-2**, or **expanded**). Note that blank node identifier are not persistent or portable. In graph database management systems they are going to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
 Link an instance with another instance
 ######################################
@@ -70,7 +70,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
 .. tabs:: instance-formatting
 
    .. code-tab:: json
-      :caption: v1
+      :caption: compact-1
 
       {
         "@context": {
@@ -82,7 +82,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
       }
 
    .. code-tab:: json
-      :caption: v2
+      :caption: compact-2
 
       {
         "@context": {
@@ -94,7 +94,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
       }
 
    .. code-tab:: json
-      :caption: v3
+      :caption: expanded
 
       {
         "@id": "_:zaphod-beeblebrox_email",
@@ -107,7 +107,7 @@ Further let us extend our previous "Person" instance. This time with the additio
 .. tabs:: instance-formatting
 
    .. code-tab:: json
-      :caption: v1
+      :caption: compact-1
 
       {
         "@context": {
@@ -123,7 +123,7 @@ Further let us extend our previous "Person" instance. This time with the additio
       }
 
    .. code-tab:: json
-      :caption: v2
+      :caption: compact-2
 
       {
         "@context": {
@@ -139,7 +139,7 @@ Further let us extend our previous "Person" instance. This time with the additio
       }
 
    .. code-tab:: json
-      :caption: v3
+      :caption: expanded
 
       {
         "@id": "_:zaphod-beeblebrox",
@@ -163,7 +163,7 @@ In order to embed an object of type "Affiliation" into our "Person" instance we 
 .. tabs:: instance-formatting
 
    .. code-tab:: json
-      :caption: v1
+      :caption: compact-1
 
       {
         "@context": {
@@ -175,7 +175,7 @@ In order to embed an object of type "Affiliation" into our "Person" instance we 
       }
 
    .. code-tab:: json
-      :caption: v2
+      :caption: compact-2
 
       {
         "@context": {
@@ -187,7 +187,7 @@ In order to embed an object of type "Affiliation" into our "Person" instance we 
       }
 
    .. code-tab:: json
-      :caption: v3
+      :caption: expanded
 
       {
         "@id": "_:heart-of-gold-crew",
@@ -200,7 +200,7 @@ Afterwards we can create a valid embedded "Affiliation" object inside our "Perso
 .. tabs:: instance-formatting
 
    .. code-tab:: json
-      :caption: v1
+      :caption: compact-1
 
       {
         "@context": {
@@ -224,7 +224,7 @@ Afterwards we can create a valid embedded "Affiliation" object inside our "Perso
       }
 
    .. code-tab:: json
-      :caption: v2
+      :caption: compact-2
 
       {
         "@context": {
@@ -248,7 +248,7 @@ Afterwards we can create a valid embedded "Affiliation" object inside our "Perso
       }
 
    .. code-tab:: json
-      :caption: v3
+      :caption: expanded
 
       {
         "@id": "_:zaphod-beeblebrox",
