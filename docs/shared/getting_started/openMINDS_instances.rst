@@ -26,7 +26,7 @@ The "Person" schema demands only one required property, named `"givenName" <http
       }
 
    .. code-tab:: json
-      :caption: compact-1
+      :caption: compact-2
 
       {
         "@context": {
