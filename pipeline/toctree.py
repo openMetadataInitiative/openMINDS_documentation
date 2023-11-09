@@ -28,8 +28,8 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
                     new_relative_path.append(sub_dir)
                     create_toc_tree_page(version, new_relative_path)
 
-        if heading == "Libraries":
-            doc.note(content="The instances of these libraries are continuously extended and optimized. You can "
+        if heading == "Instance libraries":
+            doc.note(content="The instance libraries are continuously extended and optimized. You can "
                              "request the registration of new instances or corrections\/extensions  of existing "
                              "instances by raising an issue on `openMINDS_instances "
                              "<https://github.com/openMetadataInitiative/openMINDS_documentation/issues>`_.")

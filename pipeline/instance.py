@@ -22,12 +22,12 @@ class InstancesDocBuilder(object):
 
             split_path = instance_file_path.split("sources_instances")[-1].split("/")
             if split_path[3] in ["contentTypes", "licenses"]:
-                relative_path = os.path.join("target", self.version, "docs", "libraries", split_path[3])
+                relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[3])
             elif split_path[3] == "graphStructures" and split_path[6].endswith(".jsonld"):
                 instance_shortName = instance_payload["shortName"]
-                relative_path = os.path.join("target", self.version, "docs", "libraries", split_path[4], instance_shortName)
+                relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[4], instance_shortName)
             elif split_path[3] == "terminologies":
-                relative_path = os.path.join("target", self.version, "docs", "libraries", split_path[3], split_path[4])
+                relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[3], split_path[4])
             else:
                 pass
 
@@ -42,11 +42,11 @@ class InstancesDocBuilder(object):
         term = term_id.split("/")[-1].replace(".", "-").casefold()
         name = self.instances_collection[term_id]["name"] if "name" in self.instances_collection[term_id] else self.instances_collection[term_id]["shortName"]
         if instanceType == "licenses":
-            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
         elif instanceType == "contentTypes":
-            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries")
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
         else:
-            linkdir = os.path.join(self.readthedocs_url, self.version, "libraries", "terminologies")
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "terminologies")
         link = os.path.join(linkdir, f"{instanceType}.html#{term}")
         return f"`{name} <{link}>`_"
 
@@ -68,7 +68,7 @@ class InstancesDocBuilder(object):
             title_mod = title.replace(' ', '%20')
             page = f"{title_mod}.html#version-{subtitle_url}"
             subdir = "brainAtlases" if "brainAtlasVersion" in version_id else "commonCoordinateSpaces"
-            link = os.path.join(self.readthedocs_url, self.version, "libraries", subdir, page)
+            link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", subdir, page)
             if include_shortName:
                 return f"`{title} (version {subtitle}) <{link}>`_" if subtitle != id_label else f"{id_label} \(TODO\)"
             else:
@@ -85,7 +85,7 @@ class InstancesDocBuilder(object):
     def _build_simple_instances(self, docpath:str, instances_ids:List, schemadir:str):
         title = os.path.basename(docpath)
         title_CamelCase = "".join([title[0].capitalize(), title[1:]])
-        schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", schemadir, f"{title}.html")
+        schema_link = os.path.join(self.readthedocs_url, self.version, "schema_specifications", schemadir, f"{title}.html")
         with open(f"{docpath}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{title_CamelCase}", char="#", overline=True)
@@ -146,7 +146,7 @@ class InstancesDocBuilder(object):
         atlas_data = self.instances_collection[instance_id]
         title = os.path.basename(docpath)
         title_CamelCase = "".join([title[0].capitalize(), title[1:]])
-        schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", f"{schemadir}.html")
+        schema_link = os.path.join(self.readthedocs_url, self.version, "schema_specifications", f"{schemadir}.html")
         with open(f"{docpath}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{title}", char="#", overline=True)
@@ -242,7 +242,7 @@ class InstancesDocBuilder(object):
         space_data = self.instances_collection[instance_id]
         title = os.path.basename(docpath)
         title_CamelCase = "".join([title[0].capitalize(), title[1:]])
-        schema_link = os.path.join(self.readthedocs_url, self.version, "specifications", f"{schemadir}.html")
+        schema_link = os.path.join(self.readthedocs_url, self.version, "schema_specifications", f"{schemadir}.html")
         with open(f"{docpath}.rst", "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{title}", char="#", overline=True)
