@@ -1,5 +1,5 @@
 #####################
-Schema_specifications
+Schema specifications
 #####################
 
 - `Chemicals <schema_specifications/chemicals.html>`_
