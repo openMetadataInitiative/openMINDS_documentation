@@ -1,0 +1,76 @@
+#################
+QuantitativeValue
+#################
+
+:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValue
+
+Structured information on a quantitative value.
+
+
+------------
+
+------------
+
+Properties
+##########
+
+:Required: `value <value_heading_>`_
+:Optional: `uncertainty <uncertainty_heading_>`_, `unit <unit_heading_>`_
+
+------------
+
+.. _uncertainty_heading:
+
+***********
+uncertainty
+***********
+
+Quantitative value range defining the uncertainty of a measurement.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/uncertainty
+   :value type: number array \(2-2\)
+   :instructions: Enter the measurement uncertainty of this quantitative value.
+
+`BACK TO TOP <QuantitativeValue_>`_
+
+------------
+
+.. _unit_heading:
+
+****
+unit
+****
+
+Determinate quantity adopted as a standard of measurement.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/unit
+   :value type: | linked object of type
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+   :instructions: Add the unit of measurement of this quantitative value.
+
+`BACK TO TOP <QuantitativeValue_>`_
+
+------------
+
+.. _value_heading:
+
+*****
+value
+*****
+
+Entry for a property.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/value
+   :value type: number
+   :instructions: Enter the measurement value of this quantitative value.
+
+`BACK TO TOP <QuantitativeValue_>`_
+
+------------
+
