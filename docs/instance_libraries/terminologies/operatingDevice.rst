@@ -1,0 +1,109 @@
+###############
+OperatingDevice
+###############
+
+Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`
+
+------------
+
+------------
+
+desktop
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: desktop
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56155
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+embeddedSystem
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: embedded system
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q193040
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+highPerformanceComputer
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: high-performance computer
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q121117
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+mobile
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: mobile
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q5082128
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+neuromorphicComputer
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
+   :name: neuromorphic computer
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56270917
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+server
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: server
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q64729893
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+
+web
+---
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
+   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :name: web
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q6368
+
+`BACK TO TOP <OperatingDevice_>`_
+
+------------
+

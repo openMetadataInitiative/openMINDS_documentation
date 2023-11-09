@@ -1,0 +1,192 @@
+##############
+TermSuggestion
+##############
+
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/TermSuggestion
+
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/termSuggestion.html>`_.
+
+------------
+
+------------
+
+Properties
+##########
+
+:Required: `name <name_heading_>`_
+:Optional: `addExistingTerminology <addExistingTerminology_heading_>`_, `definition <definition_heading_>`_, `description <description_heading_>`_, `interlexIdentifier <interlexIdentifier_heading_>`_, `knowledgeSpaceLink <knowledgeSpaceLink_heading_>`_, `preferredOntologyIdentifier <preferredOntologyIdentifier_heading_>`_, `suggestNewTerminology <suggestNewTerminology_heading_>`_, `synonym <synonym_heading_>`_
+
+------------
+
+.. _addExistingTerminology_heading:
+
+**********************
+addExistingTerminology
+**********************
+
+Reference to an existing terminology (distinct class to group related terms).
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/addExistingTerminology
+   :value type: | linked object of type
+                | `Terminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/terminology.html>`_
+   :instructions: Add an existing terminology in which the suggested term should be integrated in.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _definition_heading:
+
+**********
+definition
+**********
+
+Short, but precise statement of the meaning of a word, word group, sign or a symbol.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/definition
+   :value type: | string
+                | formatting: text/markdown; multiline
+   :instructions: Enter one sentence for defining this term.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _description_heading:
+
+***********
+description
+***********
+
+Longer statement or account giving the characteristics of someone or something.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :value type: | string
+                | formatting: text/markdown; multiline
+   :instructions: Enter a short text describing this term.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _interlexIdentifier_heading:
+
+******************
+interlexIdentifier
+******************
+
+Persistent identifier for a term registered in the InterLex project.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/interlexIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _knowledgeSpaceLink_heading:
+
+******************
+knowledgeSpaceLink
+******************
+
+Persistent link to an encyclopedia entry in the Knowledge Space project.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/knowledgeSpaceLink
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _name_heading:
+
+****
+name
+****
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Controlled term originating from a defined terminology.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _preferredOntologyIdentifier_heading:
+
+***************************
+preferredOntologyIdentifier
+***************************
+
+Persistent identifier of a preferred ontological term.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/preferredOntologyIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _suggestNewTerminology_heading:
+
+*********************
+suggestNewTerminology
+*********************
+
+Proposal of a new distinct class to group related terms.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/suggestNewTerminology
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Propose a name for a new terminology in which the suggested term should be integrated in.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
+.. _synonym_heading:
+
+*******
+synonym
+*******
+
+Words or expressions used in the same language that have the same or nearly the same meaning in some or all senses.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.
+
+`BACK TO TOP <TermSuggestion_>`_
+
+------------
+
