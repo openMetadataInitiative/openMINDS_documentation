@@ -1,5 +1,5 @@
 #####################
-Schema_specifications
+Schema specifications
 #####################
 
 - `ControlledTerms <schema_specifications/controlledTerms.html>`_
