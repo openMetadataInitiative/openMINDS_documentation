@@ -1,6 +1,6 @@
-#################
-How to contribute
-#################
+#######################
+Contribution guidelines
+#######################
 
 The openMINDS metadata framework is an open-source project and contributions from the community are highly appreciated. You can contribute by providing feedback and making suggestions through our issue trackers, or creating pull request for fixing issues and new developments.
 

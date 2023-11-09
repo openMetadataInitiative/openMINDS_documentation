@@ -7,9 +7,9 @@ openMINDS instances should be provided as JSON-LD documents (file extension: ``*
 Creating a minimal instance
 ###########################
 
-Let us start be creating a "Person" instance. For this, we first need to check the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html>`_.
+Let us start be creating a "Person" instance. For this, we first need to check the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_.
 
-The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
+The "Person" schema demands only one required property, named `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
 .. tabs:: instance-formatting
 
@@ -63,9 +63,9 @@ Let us explain the three versions for writing an openMINDS instance and the usag
 Link an instance with another instance
 ######################################
 
-Instances within a graph database are linked through their unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
+Instances within a graph database are linked through their unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
 
-If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
+If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
 .. tabs:: instance-formatting
 
@@ -102,7 +102,7 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
         "https://openminds.ebrains.eu/vocab/email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
-Further let us extend our previous "Person" instance. This time with the additional optional properties `"familyName" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#familyname>`_ which requires a simple string value and `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#contactInformation>`_ which requires a link to an instance of type "ContactInformation":
+Further let us extend our previous "Person" instance. This time with the additional optional properties `"familyName" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#familyname>`_ which requires a simple string value and `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactInformation>`_ which requires a link to an instance of type "ContactInformation":
 
 .. tabs:: instance-formatting
 
@@ -154,9 +154,9 @@ Further let us extend our previous "Person" instance. This time with the additio
 Embedding a typed object into an instance
 #########################################
 
-Instances within a graph database can also embed typed objects that are constrained by other metadata schemas than the one used for the parent instance. For our example, the "Person" schema tells us that the property `"affiliation" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/person.html#affiliation>`_ is actually expecting 1 to N embedded objects of type "Affiliation".
+Instances within a graph database can also embed typed objects that are constrained by other metadata schemas than the one used for the parent instance. For our example, the "Person" schema tells us that the property `"affiliation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#affiliation>`_ is actually expecting 1 to N embedded objects of type "Affiliation".
 
-If we check the constraints of the `"Affiliation" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html>`_, we learn that an instance of this type only requires the property `"memberOf" <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/affiliation.html#memberof>`_ which requires a link to an instance of type "Consortium" or "Organization". Furthermore, we can check the constraints for the `"Consortium" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/consortium.html>`_ and the `"Organization" schema <https://openminds-documentation.readthedocs.io/en/latest/specifications/core/actors/organization.html>`_ and learn that both only require the property "fullName" defined through a single value of data type "string".
+If we check the constraints of the `"Affiliation" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/affiliation.html>`_, we learn that an instance of this type only requires the property `"memberOf" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/affiliation.html#memberof>`_ which requires a link to an instance of type "Consortium" or "Organization". Furthermore, we can check the constraints for the `"Consortium" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_ and the `"Organization" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ and learn that both only require the property "fullName" defined through a single value of data type "string".
 
 In order to embed an object of type "Affiliation" into our "Person" instance we therefore have to first create at least one instance of type "Organization" or "Consortium":
 

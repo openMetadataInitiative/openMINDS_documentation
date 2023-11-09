@@ -4,8 +4,8 @@ Welcome to the openMINDS documentation!
 
 **openMINDS** is a metadata framework for graph database systems. The framework comprises:
 
-- `Schema specifications <specifications.html>`_ for multiple, interlocked metadata models
-- `Instance libraries <libraries.html>`_ for serviceable, well-defined terms and constructs
+- `Schema specifications <schema_specifications.html>`_ for multiple, interlocked metadata models
+- `Instance libraries <instance_libraries.html>`_ for serviceable, well-defined terms and constructs
 - `Supportive tooling <shared/supportive_tooling.html>`_ for handling openMINDS in Python or MATLAB
 
 Applying the openMINDS framework to your own data collection, requires you to design a graph representation of your data. What this means and how to approach this challenge is described in `Getting started <shared/getting_started.html>`_.
