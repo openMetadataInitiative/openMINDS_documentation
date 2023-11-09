@@ -45,7 +45,7 @@ class SchemaDocBuilder(object):
                 doc.newline()
             if schema_name in ["License", "ContentType"]:
                 library_subdir = f"{schema_name_camelCase}s.html"
-                library_link = os.path.join(self.readthedocs_url, self.version, "libraries", library_subdir)
+                library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", library_subdir)
                 doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
                 doc.newline()
             doc.content("------------")
