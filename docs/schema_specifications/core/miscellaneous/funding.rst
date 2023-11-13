@@ -25,7 +25,7 @@ Properties
 acknowledgement
 ***************
 
-Offical declaration or avowal of appreciation of an act or achievement.
+Official declaration or avowal of appreciation of an act or achievement.
 
 .. admonition:: schema_specifications
 
