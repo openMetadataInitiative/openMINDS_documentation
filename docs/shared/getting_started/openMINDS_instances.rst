@@ -9,7 +9,7 @@ Creating a minimal instance
 
 Let us start be creating a "Person" instance. For this, we first need to check the constraints defined in the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_.
 
-The "Person" schema demands only one required property, named `"givenName" <schema_specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
+The "Person" schema demands only one required property, named `"givenName" <../../schema_specifications/core/actors/person.html#givenname>`_. The schema states also that for the property "givenName" only a single value of data type "string" is expected. The remaining properties of the schema are optional. Based on these constraints, let us define a minimal "Person" instance:
 
 .. tabs:: instance-formatting
 
