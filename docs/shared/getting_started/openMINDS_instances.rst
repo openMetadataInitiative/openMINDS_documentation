@@ -30,11 +30,11 @@ The "Person" schema demands only one required property, named `"givenName" <http
 
       {
         "@context": {
-          "vocab": "https://openminds.ebrains.eu/vocab/"
+          "om": "https://openminds.ebrains.eu/vocab/"
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.ebrains.eu/core/Person",
-        "vocab:givenName": "Zaphod"
+        "om:givenName": "Zaphod"
       }
 
    .. code-tab:: json
@@ -86,11 +86,11 @@ If we check the constraints of the `"ContactInformation" schema <https://openmin
 
       {
         "@context": {
-          "vocab": "https://openminds.ebrains.eu/vocab/"
+          "om": "https://openminds.ebrains.eu/vocab/"
         },
         "@id": "_:zaphod-beeblebrox_email",
         "@type": "https://openminds.ebrains.eu/core/ContactInformation",
-        "vocab:email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
+        "om:email": "zaphod-beeblebrox@hitchhikers-guide.galaxy"
       }
 
    .. code-tab:: json
@@ -127,15 +127,15 @@ Further let us extend our previous "Person" instance. This time with the additio
 
       {
         "@context": {
-          "vocab": "https://openminds.ebrains.eu/vocab/"
+          "om": "https://openminds.ebrains.eu/vocab/"
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.ebrains.eu/core/Person",
-        "vocab:contactInformation": {
+        "om:contactInformation": {
           "@id": "_:zaphod-beeblebrox_email"
         },
-        "vocab:familyName": "Beeblebrox",
-        "vocab:givenName": "Zaphod"
+        "om:familyName": "Beeblebrox",
+        "om:givenName": "Zaphod"
       }
 
    .. code-tab:: json
@@ -179,11 +179,11 @@ In order to embed an object of type "Affiliation" into our "Person" instance we 
 
       {
         "@context": {
-          "vocab": "https://openminds.ebrains.eu/vocab/"
+          "om": "https://openminds.ebrains.eu/vocab/"
         },
         "@id": "_:heart-of-gold-crew",
         "@type": "https://openminds.ebrains.eu/core/Consortium",
-        "vocab:fullName": "Heart of Gold Spacecraft Crew"
+        "om:fullName": "Heart of Gold Spacecraft Crew"
       }
 
    .. code-tab:: json
@@ -228,23 +228,23 @@ Afterwards we can create a valid embedded "Affiliation" object inside our "Perso
 
       {
         "@context": {
-          "vocab": "https://openminds.ebrains.eu/vocab/"
+          "om": "https://openminds.ebrains.eu/vocab/"
         },
         "@id": "_:zaphod-beeblebrox",
         "@type": "https://openminds.ebrains.eu/core/Person",
-        "vocab:affiliation": [
+        "om:affiliation": [
           {
             "@type": "https://openminds.ebrains.eu/core/Affiliation",
-            "vocab:memberOf": {
+            "om:memberOf": {
               "@id": "_:heart-of-gold-crew"
             }
           }
         ],
-        "vocab:contactInformation": {
+        "om:contactInformation": {
           "@id": "_:zaphod-beeblebrox_email"
         },
-        "vocab:familyName": "Beeblebrox",
-        "vocab:givenName": "Zaphod"
+        "om:familyName": "Beeblebrox",
+        "om:givenName": "Zaphod"
       }
 
    .. code-tab:: json
