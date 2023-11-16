@@ -2,14 +2,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/docs/_static/openMINDS_documentation_logo_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="/docs/_static/openMINDS_documentation_logo_light.png">
-    <img alt="openMINDS documentation logo: created by U. Schlegel, L. Zehl, C. Hagen Blixhavn" src="/docs/_static/openMINDS_documentation_logo_light.png" title="openMINDS documentation" align="right" height="70">
+    <img alt="openMINDS documentation" src="/docs/_static/openMINDS_documentation_logo_light.png" title="Logo created by Schlegel, Zehl, and Hagen Blixhavn." align="right" height="70">
   </picture>
 </a>
 
 # openMINDS_documentation
 
-![GitHub][license-url]
-![GitHub contributors][contributors-url]
+[![GitHub][license-shield]][license-url]
+[![GitHub contributors][contributors-shield]][contributors-url]
 
 Repository for building the documentation for the openMINDS metadata framework on :arrow_right: [**ReadTheDocs**][docu-url].
 
@@ -23,4 +23,5 @@ If you want to contribute please follow our :arrow_right: [**contribution guidel
 [contribution-url]: https://openminds-documentation.readthedocs.io/en/latest/shared/contribution_guidelines.html
 [contributors-url]: https://img.shields.io/github/contributors/openMetadataInitiative/openMINDS_documentation
 [docu-url]: https://openminds-documentation.readthedocs.io
-[license-url]: https://img.shields.io/github/license/openMetadataInitiative/openMINDS_documentation
+[license-url]: https://raw.githubusercontent.com/openMetadataInitiative/openMINDS_documentation/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/openMetadataInitiative/openMINDS_documentation

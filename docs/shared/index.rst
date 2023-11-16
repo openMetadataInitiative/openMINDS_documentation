@@ -26,3 +26,4 @@ The framework also received support through the `Helmholtz International BigBrai
    schema_specifications
    instance_libraries
    shared/supportive_tooling
+   shared/glossary
