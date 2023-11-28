@@ -61,7 +61,7 @@ Digital or physical property determining a particular function, characteristic o
 relevantFor
 ***********
 
-Reference to what or whom something or someone bears siginificance.
+Reference to what or whom something or someone bears significance.
 
 .. admonition:: schema_specifications
 
