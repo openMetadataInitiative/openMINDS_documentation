@@ -63,7 +63,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 relevantFor
 ***********
 
-Reference to what or whom something or someone bears siginificance.
+Reference to what or whom something or someone bears significance.
 
 .. admonition:: schema_specifications
 
