@@ -16,7 +16,7 @@ AMPL
    :@id: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: AMPL
-   :ontologyIdentifier: https://www.wikidata.org/wiki/Q295250
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q295250
 
 `BACK TO TOP <ProgrammingLanguage_>`_
 

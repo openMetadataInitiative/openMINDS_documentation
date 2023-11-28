@@ -29,7 +29,7 @@ stereotactic
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
-   :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to loacte specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
+   :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to locate specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
    :name: stereotactic
 
 `BACK TO TOP <AnatomicalIdentificationType_>`_
