@@ -59,7 +59,7 @@ dataLocation
 relevantFor
 ***********
 
-Reference to what or whom something or someone bears siginificance.
+Reference to what or whom something or someone bears significance.
 
 .. admonition:: schema_specifications
 

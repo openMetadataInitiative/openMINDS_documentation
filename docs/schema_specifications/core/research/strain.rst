@@ -28,7 +28,7 @@ alternateIdentifier
    :semantic name: https://openminds.ebrains.eu/vocab/alternateIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
+   :instructions: Enter all identifiers for this strain, excluding its ontological identifiers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
 
 `BACK TO TOP <Strain_>`_
 
