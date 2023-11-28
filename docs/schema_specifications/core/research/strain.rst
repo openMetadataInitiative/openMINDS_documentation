@@ -263,7 +263,7 @@ Words or expressions used in the same language that have the same or nearly the 
    :semantic name: https://openminds.ebrains.eu/vocab/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter any synonyms (inlcuding abbreviations) of this strain.
+   :instructions: Enter any synonyms (including abbreviations) of this strain.
 
 `BACK TO TOP <Strain_>`_
 
