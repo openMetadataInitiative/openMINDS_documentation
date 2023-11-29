@@ -13,6 +13,6 @@ Before you continue we recommend reading through the terms in our `glossary <glo
    getting_started/openMINDS_instances
    getting_started/openMINDS_collections
    getting_started/research_products
-   getting_started/file_repositories
+   getting_started/research_data
    getting_started/studied_specimens
    getting_started/research_activities
