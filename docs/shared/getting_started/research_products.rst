@@ -26,7 +26,7 @@ openMINDS allows to register data at three levels of detail:
 
 **Level-02:** Registration of a file repository (cf. level-01) including the indexing of all data files that are part of this repository with individual file properties (e.g., storage size, name, format) and a specific file pointer (IRI).  
 
-**Level-03:** Registration of a general pointer to a file repository, individual pointers to all data files within this repository, and grouping of those data files into customized file bundles. 
+**Level-03:** Registration of a file repository and all contained data files (cf. level-02) with additional grouping of those data files into customized file bundles along or across the original hierarchical file organization within the repository. 
 
 Grouping of research products
 #############################
