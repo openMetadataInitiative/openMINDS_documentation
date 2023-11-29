@@ -2,7 +2,7 @@
 Research products
 #################
 
-openMINDS supports the representation of various research products (e.g., datasets from human, animal or simulation studies, computational models, software tools). All research products are versioned, have a common set of bibliographic properties, and (typically) link to a file repository pointing to the stored data.
+openMINDS supports the representation of various research products (e.g., datasets from human, animal or simulation studies, computational models, software tools). All research products are versioned, have a common set of bibliographic properties, and (typically) link to a file repository pointing to the stored data (cf. next chapter).
 
 Versioning of research products 
 ###############################
