@@ -11,7 +11,12 @@ openMINDS distinguishes between a conceptual (version-independent) research prod
 
 A **research product** is composed of properties that are typically valid across all versions (e.g., title, abstract, homepage) and has to link to at least one research product version.  
 
-A **research product version** can inherit or overwrite all version-independent properties. Additionally, it includes properties that are (usually) version-specific (e.g., studied specimen, used technique). If a research product is composed of multiple versions, these versions can refer to each other as updates or alternatives:
+A **research product version** can inherit or overwrite all version-independent properties. Additionally, it includes properties that are (usually) version-specific (e.g., studied specimen, used technique).
+
+.. note::
+   Although, inheritance and overwrite rules for version-independent properties are defined by openMINDS schemas, their enforcment has to be either performed manually or defined in an automated validation workflow. 
+
+If a research product is composed of multiple versions, these versions can refer to each other as updates or alternatives:
 
 If the usage of version **B** should be preferred over version **A**, version **B** **is** (the) **new version of** version **A**. For example, a software version could be preferred over another, because it includes more application features, or a dataset version could be preferred over another, because it studied a larger cohort.
 
