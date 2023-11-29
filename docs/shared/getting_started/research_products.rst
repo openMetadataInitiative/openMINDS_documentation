@@ -20,15 +20,15 @@ If the usage of version **A** and **B** depends on the users preference, the ver
 Registration of data
 ####################
 
-openMINDS allows to register data at three levels of detail: 
+A research product version should (typically) link to a file repository which is pointing to the stored data. In which level of detail those data are registered is user dependent: 
 
-**Level-01:** Registration of a file repository with generic properties (e.g., storage size, name, hosted by) and a pointer (internationalized resource identifier; IRI) to the main data folder.    
+As a first simple registration, only the file repository is described with generic properties (e.g., storage size, name, hosted by) and a pointer (internationalized resource identifier; IRI) to the main data folder. In case of access restrictions to the data, this registration might be the only solution to link metadata to data.    
 
-**Level-02:** Registration of a file repository (cf. level-01) including the indexing of all data files that are part of this repository with individual file properties (e.g., storage size, name, format) and a specific file pointer (IRI).  
+In case access restriction is not an issue, the registration could additionally index all data files that are part of the registered file repository with individual file properties (e.g., storage size, name, format) and a specific file pointer (IRI).  
 
-**Level-03:** Registration of a file repository and all contained data files (cf. level-02) with additional grouping of those data files into customized file bundles along or across the original hierarchical file organization within the repository. 
+Moreover, the indexed data files can be further grouped into customized file bundles along or across the original hierarchical organization within the file repository. 
 
 Grouping of research products
 #############################
 
-openMINDS supports the grouping of different research products into a joint research project (e.g. to capture collaborative work).  
+In addition to versioning of research products, openMINDS supports the grouping of research products and / or research product versions into a joint project. For example, a project could group multiple research products (with automatically all respective versions) of the same type (e.g., datasets), because they were collected as part of one research study. Alternatively, a project could group multiple research products or research product versions of different types (e.g., dataset, model, software, and a workflow recipe), because their data (including code) depend on each other. 
