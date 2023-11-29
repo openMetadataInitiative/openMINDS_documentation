@@ -4,8 +4,8 @@ Research products
 
 openMINDS supports the representation of various research products (e.g., datasets from human, animal or simulation studies, computational models, software tools). All research products are versioned, have a common set of bibliographic properties, and (typically) link to a file repository pointing to the stored data.
 
-Understanding research product versioning
-#########################################
+Versioning of research products 
+###############################
 
 openMINDS distinguishes between a conceptual (version-independent) research product and it's respective research product version(s). Both entities, research product and research product version, can be assigned with a unique, persistent digital identifier (e.g., a digital object identifier; DOI) which enables the citation of the overall concept (referring to all versions at once) or the explicit citation of a specific version.  
 
@@ -28,8 +28,7 @@ openMINDS allows to register data at three levels of detail:
 
 **Level-03:** Registration of a general pointer to a file repository, individual pointers to all data files within this repository, and grouping of those data files into customized file bundles. 
 
-
-Making use of research projects
-###############################
+Grouping of research products
+#############################
 
 openMINDS supports the grouping of different research products into a joint research project (e.g. to capture collaborative work).  
