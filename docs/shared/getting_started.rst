@@ -2,11 +2,10 @@
 Getting started
 ###############
 
-This chapter offers an overview of the openMINDS metadata framework from a practical perspective. 
-Please note that this overview will cover by no means the complete power of openMINDS.
-However, we hope we can provide you with a good starting point.
+This chapter will teach you fundamental knowledge for making use of the openMINDS metadata framework.
+We will dig into the concept of linked data using JSON-LD and provide you with a conceptual overview of how to represent your data in openMINDS.  
 
-Before you continue we recommend reading through the terms in our `glossary <glossary.html>`_.
+If you are already familiar with linked data, you can also directly jump to our practical introduction for applying openMINDS (cf. `supportive tooling <supportive_tooling.html>`_).
 
 
 .. toctree::
