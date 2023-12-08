@@ -39,6 +39,7 @@ With these assumptions we will create :
 * a unique set of "Consortium" instances based on the full name given under "memberOf" in all dictionaries in data
 * a "ContactInformation" instance based on "email" for each dictionary in data
 * a "Person" instance for each dictionary in data with:
+
   * the "givenName", "familyName", and "alternateName" (if available)
   * a link to the respective "ContactInformation" instance
   * a person-specific embedded "Affiliation" instance that links to the respective "Consortium" instance
