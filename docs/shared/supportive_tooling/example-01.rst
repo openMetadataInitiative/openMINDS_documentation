@@ -28,13 +28,19 @@ Let us start by importing the necessary packages, initiating an empty openMINDS 
        data = [row for row in csv_reader]
    f.close()
 
-Next let us map the data to the matching linked data instances. For this we will create for each dictionary in data:
-+ a "Person" instance with the provided "givenName" and "familyName"
-+ a "ContactInformation" instance with "email" (if provided) and link it to the respective "Person" instance
-+ an "Affiliation" instance which is embeded into the respective "Person" instance
-+ link in each "Affiliation" instance the respective "Consortium" instance which full name is provided in "memberOf" 
+"data" contains now a list of dictionaries that each contain the values of each cell in one row with the column header of each cell as keys. Next let us create from those data the representative linked data instances. 
 
-Note: we need to assume that the persons may be members of the same consortium, therefore we start creating a unique set of "Consortium" instances (following the logic: same full name, same consortium).
+Let us assume that "memberOf" provides the full name of a consortium each person is affiliated to.
+Since members might be affiliated to the same consortium we assume further that the same full name means the same consortium. 
+We can also assume that the "email" is unique for each person.
+
+With these assumptions we will create :
+* a unique set of "Consortium" instances based on the full name given under "memberOf" in all dictionaries in data
+* a "ContactInformation" instance based on "email" for each dictionary in data
+* a "Person" instance for each dictionary in data with:
+  * the "givenName", "familyName", and "alternateName" (if available)
+  * a link to the respective "ContactInformation" instance
+  * a person-specific embedded "Affiliation" instance that links to the respective "Consortium" instance
 
 .. code-block:: python
 
@@ -71,5 +77,16 @@ Note: we need to assume that the persons may be members of the same consortium, 
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
        ))
 
-   
+As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and safe the collection if the validation did not reveal any failures:
 
+.. code-block:: python
+
+   # adding instances to collection
+   # we only need to add the "Person" instances, because linked instances are added to the collection automatically
+   for p in persons: 
+       collection.add(p) 
+
+   failures = collection.validate()
+
+   if not failures:
+       collection.save("my_collection.jsonld")
