@@ -67,7 +67,7 @@ Note: we need to assume that the persons may be members of the same consortium, 
            given_name = d['givenName'],
            family_name = d['familyName'],
            alternate_name = d['alternateName'] if d['alternateName'] != '' else None,
-           contactInformation = contacts[d'email'],
+           contactInformation = contacts[d['email']],
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
        ))
 
