@@ -35,6 +35,7 @@ Since members might be affiliated to the same consortium we assume further that 
 We can also assume that the "email" is unique for each person.
 
 With these assumptions we will create :
+
 * a unique set of "Consortium" instances based on the full name given under "memberOf" in all dictionaries in data
 * a "ContactInformation" instance based on "email" for each dictionary in data
 * a "Person" instance for each dictionary in data with:
