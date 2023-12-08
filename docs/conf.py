@@ -38,7 +38,7 @@ epub_show_urls = 'footnote'
 # These folders are copied to the documentation's HTML output
 html_static_path = ['_static']
 
-html_logo = "_static/openMINDS_logo_dark.png"
+html_logo = "_static/openMINDS-logos/openMINDS_logo_dark.png"
 
 html_show_sphinx = False
 
