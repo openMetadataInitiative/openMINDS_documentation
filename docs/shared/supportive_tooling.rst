@@ -4,7 +4,7 @@ Supportive tooling
 
 The openMINDS framework develops and maintains a set of supportive tools that facilitate the usage of the metadata models and instance libraries for creating a linked data representation of your own research. 
 
-Within this chapter, we will teach you how to work with openMINDS from a practical perspective by making use of the available supportive tools:
+Within this chapter, we will teach you in multiple examples how to work with openMINDS from a practical perspective by making use of the available supportive tools:
 
 openMINDS MATLAB
 ################
@@ -30,6 +30,6 @@ For more information on the code, please checkout the `openMINDS Python GitHub r
 
 
 .. toctree::
-   supportive_tooling/matlab
-   supportive_tooling/python
+   supportive_tooling/example-01
+   supportive_tooling/example-02
 
