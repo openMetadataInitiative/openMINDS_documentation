@@ -82,7 +82,8 @@ As final step, we will add our linked data instances to the collection we initia
 .. code-block:: python
 
    # adding instances to collection
-   # we only need to add the "Person" instances, because linked instances are added to the collection automatically
+   # we only need to add the "Person" instances, because ...
+   # linked instances are added to the collection automatically
    for p in persons: 
        collection.add(p) 
 
