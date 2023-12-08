@@ -5,7 +5,7 @@ Let use pick up again the example we used in getting started and assume we local
 
 .. csv-table:: persons.csv
    :file: persons.csv
-   :widths: 30, 70
+   :widths: 10, 10, 10, 10, 10
    :header-rows: 1
 
 We will now guide you through the process of how to represent this data file as linked data in openMINDS using the openMINDS Python library.
