@@ -61,7 +61,7 @@ Note: we need to assume that the persons may be members of the same consortium, 
    # embed an "Affiliation" instance that links to the respective "Consortium" instance
    persons = []
    for d in data:
-       full_name = " ".join([d['givenName'], d['familyName']
+       full_name = " ".join([d['givenName'], d['familyName']])
        persons.append(omcore.Person(
            id = f"_:{full_name.replace(' ', '-').lower()}",
            given_name = d['givenName'],
@@ -69,7 +69,7 @@ Note: we need to assume that the persons may be members of the same consortium, 
            alternate_name = d['alternateName'] if d['alternateName'] != '' else None,
            contactInformation = contacts[d'email'],
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
-       )
+       ))
 
    
 
