@@ -74,8 +74,8 @@ With these assumptions we will create :
            id = f"_:{full_name.replace(' ', '-').lower()}",
            given_name = d['givenName'],
            family_name = d['familyName'],
-           alternate_name = d['alternateName'] if d['alternateName'] != '' else None,
-           contactInformation = contacts[d['email']],
+           alternate_names = d['alternateName'] if d['alternateName'] != '' else None,
+           contact_information = contacts[d['email']],
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
        ))
 
