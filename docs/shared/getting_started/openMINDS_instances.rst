@@ -50,7 +50,9 @@ Based on these constraints, a minimal "Person" instance could look like this:
 
 As you can see, you can use three syntaxes (**"compact-1"**, **"compact-2"**, and **"expanded"**) for an openMINDS_instance. In the following, we will explain these syntaxes together with their usage/meaning of the JSON-LD specific keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``). 
 
-**"@context"**: The JSON-LD keyword ``"@context"`` has to be specified when using one of the compact syntaxes (**"compact-1"** or **"compact-2"**) of a JSON-LD file. For these syntaxes, we define under ``"@context"`` a short cut for the common part of the semantic property names which are formatted as internationalized resource identifiers (IRIs) within the openMINDS schemas. How this common part is shortcutted depends on the compact syntax:
+**"@context"**: The JSON-LD keyword ``"@context"`` has to be specified when using one of the compact JSON-LD syntaxes (**"compact-1"** or **"compact-2"**). For these syntaxes, we define under ``"@context"`` a short cut for the common part of the semantic property names which are formatted as internationalized resource identifiers (IRIs) within the openMINDS schemas. 
+
+How the common part of the semantic property names is shortcutted depends on the compact syntax:
 
 * **compact-1** makes use of the JSON-LD keyword ``"@vocab"`` which can be used to set a common IRI prefix for all properties that do not match a JSON-LD keyword, an IRI, a compact IRI, or blank node identifier (ID). 
 * **compact-2** defines a customized short term for the common IRI prefix (here ``"om": "httpXXX"``). In this syntax the property names have to be specified as compact IRIs (here ``"om:givenName"``). 
@@ -64,7 +66,7 @@ Both compact syntaxes can be interpreted by any tool that is aware of the JSON-L
 
 Be aware that embedded typed objects (cf. `Embedded typed objects`_) within an instance do not receive an individual ``"@id"``. In accordance with the JSON-LD specifications, they are inseparable from their parent instance and are not individually referable. 
 
-**"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance or an embedded typed object within an instance. The instance type clearly identifies the metadata schema that should be used to validate the content of that instance or the embedded typed object.
+**"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance or an embedded typed object within an instance. The ``"@type"`` clearly identifies the metadata schema that should be used to validate the content of an instance or an embedded typed object.
 
 Linking instances
 #################
