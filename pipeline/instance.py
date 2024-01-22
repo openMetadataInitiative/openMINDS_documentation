@@ -90,7 +90,7 @@ class InstancesDocBuilder(object):
             doc = RstCloth(output_file, line_width=100000)
             doc.heading(f"{title_CamelCase}", char="#", overline=True)
             doc.newline()
-            doc.content(f"Related schema specification: `{title_CamelCase} <{schema_link}>`")
+            doc.content(f"Related schema specification: `{title_CamelCase} <{schema_link}>`_")
             doc.newline()
             doc.content("------------")
             doc.newline()
