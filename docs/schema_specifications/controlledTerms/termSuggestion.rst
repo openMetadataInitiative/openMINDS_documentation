@@ -5,7 +5,7 @@ TermSuggestion
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/TermSuggestion
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/termSuggestion.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/termSuggestion.html>`_.
 
 ------------
 

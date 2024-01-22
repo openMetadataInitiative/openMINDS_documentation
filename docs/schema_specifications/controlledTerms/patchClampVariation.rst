@@ -5,7 +5,7 @@ PatchClampVariation
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/patchClampVariation.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/patchClampVariation.html>`_.
 
 ------------
 

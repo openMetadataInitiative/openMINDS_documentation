@@ -5,7 +5,7 @@ CellCultureType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CellCultureType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/cellCultureType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/cellCultureType.html>`_.
 
 ------------
 

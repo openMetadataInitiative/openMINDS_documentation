@@ -5,7 +5,7 @@ OrganismSubstance
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/organismSubstance.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/organismSubstance.html>`_.
 
 ------------
 

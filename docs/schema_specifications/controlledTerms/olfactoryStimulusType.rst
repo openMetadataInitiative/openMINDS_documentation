@@ -5,7 +5,7 @@ OlfactoryStimulusType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/olfactoryStimulusType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/olfactoryStimulusType.html>`_.
 
 ------------
 

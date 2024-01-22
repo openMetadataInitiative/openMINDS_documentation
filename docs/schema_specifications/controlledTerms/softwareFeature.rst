@@ -5,7 +5,7 @@ SoftwareFeature
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/softwareFeature.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/softwareFeature.html>`_.
 
 ------------
 

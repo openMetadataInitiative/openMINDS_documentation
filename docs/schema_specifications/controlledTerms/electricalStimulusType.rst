@@ -5,7 +5,7 @@ ElectricalStimulusType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/libraries/terminologies/electricalStimulusType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/electricalStimulusType.html>`_.
 
 ------------
 
