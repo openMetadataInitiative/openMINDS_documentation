@@ -7,7 +7,7 @@ Language
 Structured information on the available language setting.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/language.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/language.html>`_.
 
 ------------
 

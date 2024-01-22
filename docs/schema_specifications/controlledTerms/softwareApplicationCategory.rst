@@ -7,7 +7,7 @@ SoftwareApplicationCategory
 Structured information on the category of the software application.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/softwareApplicationCategory.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/softwareApplicationCategory.html>`_.
 
 ------------
 

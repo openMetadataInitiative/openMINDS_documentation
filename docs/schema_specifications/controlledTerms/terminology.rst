@@ -5,7 +5,7 @@ Terminology
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Terminology
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/terminology.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/terminology.html>`_.
 
 ------------
 

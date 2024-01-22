@@ -7,7 +7,7 @@ UnitOfMeasurement
 Structured information on the unit of measurement.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/unitOfMeasurement.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/unitOfMeasurement.html>`_.
 
 ------------
 

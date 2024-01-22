@@ -7,7 +7,7 @@ ProgrammingLanguage
 Structured information on the programming language.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/libraries/terminologies/programmingLanguage.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/programmingLanguage.html>`_.
 
 ------------
 
