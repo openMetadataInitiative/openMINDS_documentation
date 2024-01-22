@@ -2,7 +2,7 @@
 QualitativeOverlap
 ##################
 
-Related schema specification: `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/qualitativeOverlap.html>`
+Related schema specification: `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
 
 ------------
 

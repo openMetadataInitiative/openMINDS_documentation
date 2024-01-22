@@ -2,7 +2,7 @@
 OperatingSystem
 ###############
 
-Related schema specification: `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingSystem.html>`
+Related schema specification: `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingSystem.html>`_
 
 ------------
 

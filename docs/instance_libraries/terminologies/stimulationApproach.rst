@@ -2,7 +2,7 @@
 StimulationApproach
 ###################
 
-Related schema specification: `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`
+Related schema specification: `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_
 
 ------------
 

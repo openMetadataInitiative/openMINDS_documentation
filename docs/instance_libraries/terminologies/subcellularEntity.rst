@@ -2,7 +2,7 @@
 SubcellularEntity
 #################
 
-Related schema specification: `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`
+Related schema specification: `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_
 
 ------------
 

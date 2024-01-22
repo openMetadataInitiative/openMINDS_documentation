@@ -2,7 +2,7 @@
 MeasuredQuantity
 ################
 
-Related schema specification: `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredQuantity.html>`
+Related schema specification: `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredQuantity.html>`_
 
 ------------
 

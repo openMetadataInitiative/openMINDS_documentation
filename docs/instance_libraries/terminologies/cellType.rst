@@ -2,7 +2,7 @@
 CellType
 ########
 
-Related schema specification: `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`
+Related schema specification: `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_
 
 ------------
 

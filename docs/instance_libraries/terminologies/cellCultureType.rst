@@ -2,7 +2,7 @@
 CellCultureType
 ###############
 
-Related schema specification: `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellCultureType.html>`
+Related schema specification: `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellCultureType.html>`_
 
 ------------
 

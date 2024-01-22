@@ -2,7 +2,7 @@
 Service
 #######
 
-Related schema specification: `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`
+Related schema specification: `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
 
 ------------
 

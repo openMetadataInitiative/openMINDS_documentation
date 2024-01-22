@@ -2,7 +2,7 @@
 GustatoryStimulusType
 #####################
 
-Related schema specification: `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/gustatoryStimulusType.html>`
+Related schema specification: `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 ExperimentalApproach
 ####################
 
-Related schema specification: `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/experimentalApproach.html>`
+Related schema specification: `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/experimentalApproach.html>`_
 
 ------------
 

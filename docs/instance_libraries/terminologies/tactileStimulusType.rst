@@ -2,7 +2,7 @@
 TactileStimulusType
 ###################
 
-Related schema specification: `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tactileStimulusType.html>`
+Related schema specification: `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tactileStimulusType.html>`_
 
 ------------
 

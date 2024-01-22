@@ -2,7 +2,7 @@
 FileBundleGrouping
 ##################
 
-Related schema specification: `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileBundleGrouping.html>`
+Related schema specification: `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
 
 ------------
 

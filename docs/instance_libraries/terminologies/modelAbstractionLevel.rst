@@ -2,7 +2,7 @@
 ModelAbstractionLevel
 #####################
 
-Related schema specification: `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelAbstractionLevel.html>`
+Related schema specification: `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelAbstractionLevel.html>`_
 
 ------------
 

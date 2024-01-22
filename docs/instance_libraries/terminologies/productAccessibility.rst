@@ -2,7 +2,7 @@
 ProductAccessibility
 ####################
 
-Related schema specification: `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/productAccessibility.html>`
+Related schema specification: `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/productAccessibility.html>`_
 
 ------------
 

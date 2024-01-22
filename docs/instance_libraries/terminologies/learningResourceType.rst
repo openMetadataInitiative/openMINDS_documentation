@@ -2,7 +2,7 @@
 LearningResourceType
 ####################
 
-Related schema specification: `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/learningResourceType.html>`
+Related schema specification: `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/learningResourceType.html>`_
 
 ------------
 

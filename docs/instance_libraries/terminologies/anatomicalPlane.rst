@@ -2,7 +2,7 @@
 AnatomicalPlane
 ###############
 
-Related schema specification: `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalPlane.html>`
+Related schema specification: `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalPlane.html>`_
 
 ------------
 

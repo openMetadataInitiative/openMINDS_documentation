@@ -2,7 +2,7 @@
 CriteriaQualityType
 ###################
 
-Related schema specification: `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/criteriaQualityType.html>`
+Related schema specification: `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/criteriaQualityType.html>`_
 
 ------------
 

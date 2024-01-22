@@ -2,7 +2,7 @@
 Handedness
 ##########
 
-Related schema specification: `Handedness <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/handedness.html>`
+Related schema specification: `Handedness <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/handedness.html>`_
 
 ------------
 

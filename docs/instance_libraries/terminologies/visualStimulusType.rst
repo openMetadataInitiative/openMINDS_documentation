@@ -2,7 +2,7 @@
 VisualStimulusType
 ##################
 
-Related schema specification: `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/visualStimulusType.html>`
+Related schema specification: `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/visualStimulusType.html>`_
 
 ------------
 

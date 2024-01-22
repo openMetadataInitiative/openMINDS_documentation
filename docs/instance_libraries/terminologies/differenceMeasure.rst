@@ -2,7 +2,7 @@
 DifferenceMeasure
 #################
 
-Related schema specification: `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/differenceMeasure.html>`
+Related schema specification: `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/differenceMeasure.html>`_
 
 ------------
 

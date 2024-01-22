@@ -2,7 +2,7 @@
 TypeOfUncertainty
 #################
 
-Related schema specification: `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`
+Related schema specification: `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
 
 ------------
 

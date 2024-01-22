@@ -2,7 +2,7 @@
 StimulationTechnique
 ####################
 
-Related schema specification: `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`
+Related schema specification: `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 Species
 #######
 
-Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`
+Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_
 
 ------------
 

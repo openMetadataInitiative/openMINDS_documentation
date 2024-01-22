@@ -2,7 +2,7 @@
 Organ
 #####
 
-Related schema specification: `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`
+Related schema specification: `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_
 
 ------------
 

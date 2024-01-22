@@ -2,7 +2,7 @@
 BiologicalSex
 #############
 
-Related schema specification: `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`
+Related schema specification: `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_
 
 ------------
 

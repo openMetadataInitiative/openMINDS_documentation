@@ -2,7 +2,7 @@
 FileUsageRole
 #############
 
-Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`
+Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`_
 
 ------------
 

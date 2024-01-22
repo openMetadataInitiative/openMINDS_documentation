@@ -2,7 +2,7 @@
 BiologicalOrder
 ###############
 
-Related schema specification: `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalOrder.html>`
+Related schema specification: `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalOrder.html>`_
 
 ------------
 

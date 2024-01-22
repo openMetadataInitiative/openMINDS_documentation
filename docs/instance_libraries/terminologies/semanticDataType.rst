@@ -2,7 +2,7 @@
 SemanticDataType
 ################
 
-Related schema specification: `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/semanticDataType.html>`
+Related schema specification: `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/semanticDataType.html>`_
 
 ------------
 

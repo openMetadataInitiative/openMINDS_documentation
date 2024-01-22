@@ -2,7 +2,7 @@
 EthicsAssessment
 ################
 
-Related schema specification: `EthicsAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ethicsAssessment.html>`
+Related schema specification: `EthicsAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ethicsAssessment.html>`_
 
 ------------
 

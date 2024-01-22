@@ -2,7 +2,7 @@
 BreedingType
 ############
 
-Related schema specification: `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/breedingType.html>`
+Related schema specification: `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/breedingType.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 ChemicalMixtureType
 ###################
 
-Related schema specification: `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/chemicalMixtureType.html>`
+Related schema specification: `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/chemicalMixtureType.html>`_
 
 ------------
 

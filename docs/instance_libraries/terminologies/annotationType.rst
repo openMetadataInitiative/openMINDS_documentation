@@ -2,7 +2,7 @@
 AnnotationType
 ##############
 
-Related schema specification: `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationType.html>`
+Related schema specification: `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationType.html>`_
 
 ------------
 

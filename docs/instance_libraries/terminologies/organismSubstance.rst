@@ -2,7 +2,7 @@
 OrganismSubstance
 #################
 
-Related schema specification: `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`
+Related schema specification: `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_
 
 ------------
 

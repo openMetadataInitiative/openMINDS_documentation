@@ -2,7 +2,7 @@
 FileRepositoryType
 ##################
 
-Related schema specification: `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileRepositoryType.html>`
+Related schema specification: `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileRepositoryType.html>`_
 
 ------------
 

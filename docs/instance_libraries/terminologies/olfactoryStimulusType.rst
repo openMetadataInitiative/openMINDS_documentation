@@ -2,7 +2,7 @@
 OlfactoryStimulusType
 #####################
 
-Related schema specification: `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/olfactoryStimulusType.html>`
+Related schema specification: `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_
 
 ------------
 

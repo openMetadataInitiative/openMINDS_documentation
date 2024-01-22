@@ -2,7 +2,7 @@
 UBERONParcellation
 ##################
 
-Related schema specification: `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`
+Related schema specification: `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
 
 ------------
 

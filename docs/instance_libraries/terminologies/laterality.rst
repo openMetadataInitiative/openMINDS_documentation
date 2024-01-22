@@ -2,7 +2,7 @@
 Laterality
 ##########
 
-Related schema specification: `Laterality <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/laterality.html>`
+Related schema specification: `Laterality <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/laterality.html>`_
 
 ------------
 

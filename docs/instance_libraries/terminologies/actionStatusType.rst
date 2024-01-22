@@ -2,7 +2,7 @@
 ActionStatusType
 ################
 
-Related schema specification: `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/actionStatusType.html>`
+Related schema specification: `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/actionStatusType.html>`_
 
 ------------
 

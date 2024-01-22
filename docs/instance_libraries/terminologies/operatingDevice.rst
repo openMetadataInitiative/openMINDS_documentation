@@ -2,7 +2,7 @@
 OperatingDevice
 ###############
 
-Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`
+Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`_
 
 ------------
 

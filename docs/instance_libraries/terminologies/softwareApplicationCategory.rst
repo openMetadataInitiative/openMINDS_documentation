@@ -2,7 +2,7 @@
 SoftwareApplicationCategory
 ###########################
 
-Related schema specification: `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareApplicationCategory.html>`
+Related schema specification: `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareApplicationCategory.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 GeneticStrainType
 #################
 
-Related schema specification: `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/geneticStrainType.html>`
+Related schema specification: `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/geneticStrainType.html>`_
 
 ------------
 

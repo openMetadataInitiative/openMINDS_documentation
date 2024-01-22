@@ -2,7 +2,7 @@
 SoftwareFeature
 ###############
 
-Related schema specification: `SoftwareFeature <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareFeature.html>`
+Related schema specification: `SoftwareFeature <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareFeature.html>`_
 
 ------------
 

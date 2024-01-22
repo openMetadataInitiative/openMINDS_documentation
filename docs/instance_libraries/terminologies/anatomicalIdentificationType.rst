@@ -2,7 +2,7 @@
 AnatomicalIdentificationType
 ############################
 
-Related schema specification: `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`
+Related schema specification: `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`_
 
 ------------
 

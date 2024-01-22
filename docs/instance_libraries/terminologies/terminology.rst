@@ -2,7 +2,7 @@
 Terminology
 ###########
 
-Related schema specification: `Terminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/terminology.html>`
+Related schema specification: `Terminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/terminology.html>`_
 
 ------------
 

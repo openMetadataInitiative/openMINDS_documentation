@@ -2,7 +2,7 @@
 SetupType
 #########
 
-Related schema specification: `SetupType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/setupType.html>`
+Related schema specification: `SetupType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/setupType.html>`_
 
 ------------
 

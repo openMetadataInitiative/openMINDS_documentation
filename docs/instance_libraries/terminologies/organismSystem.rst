@@ -2,7 +2,7 @@
 OrganismSystem
 ##############
 
-Related schema specification: `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`
+Related schema specification: `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_
 
 ------------
 

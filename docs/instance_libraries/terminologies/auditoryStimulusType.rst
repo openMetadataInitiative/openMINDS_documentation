@@ -2,7 +2,7 @@
 AuditoryStimulusType
 ####################
 
-Related schema specification: `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/auditoryStimulusType.html>`
+Related schema specification: `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/auditoryStimulusType.html>`_
 
 ------------
 

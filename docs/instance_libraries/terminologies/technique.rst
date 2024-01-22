@@ -2,7 +2,7 @@
 Technique
 #########
 
-Related schema specification: `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`
+Related schema specification: `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_
 
 ------------
 

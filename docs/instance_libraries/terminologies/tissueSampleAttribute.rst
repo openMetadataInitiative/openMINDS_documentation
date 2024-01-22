@@ -2,7 +2,7 @@
 TissueSampleAttribute
 #####################
 
-Related schema specification: `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleAttribute.html>`
+Related schema specification: `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleAttribute.html>`_
 
 ------------
 

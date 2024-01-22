@@ -2,7 +2,7 @@
 DeviceType
 ##########
 
-Related schema specification: `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`
+Related schema specification: `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_
 
 ------------
 

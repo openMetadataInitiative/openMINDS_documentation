@@ -2,7 +2,7 @@
 ModelScope
 ##########
 
-Related schema specification: `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelScope.html>`
+Related schema specification: `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelScope.html>`_
 
 ------------
 

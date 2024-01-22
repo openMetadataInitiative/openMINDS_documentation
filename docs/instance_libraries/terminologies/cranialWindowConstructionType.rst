@@ -2,7 +2,7 @@
 CranialWindowConstructionType
 #############################
 
-Related schema specification: `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowConstructionType.html>`
+Related schema specification: `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowConstructionType.html>`_
 
 ------------
 

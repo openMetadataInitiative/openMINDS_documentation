@@ -2,7 +2,7 @@
 AnnotationCriteriaType
 ######################
 
-Related schema specification: `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationCriteriaType.html>`
+Related schema specification: `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
 
 ------------
 

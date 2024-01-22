@@ -2,7 +2,7 @@
 ProgrammingLanguage
 ###################
 
-Related schema specification: `ProgrammingLanguage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/programmingLanguage.html>`
+Related schema specification: `ProgrammingLanguage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/programmingLanguage.html>`_
 
 ------------
 

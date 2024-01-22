@@ -2,7 +2,7 @@
 PreparationType
 ###############
 
-Related schema specification: `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`
+Related schema specification: `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 DataType
 ########
 
-Related schema specification: `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`
+Related schema specification: `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
 
 ------------
 

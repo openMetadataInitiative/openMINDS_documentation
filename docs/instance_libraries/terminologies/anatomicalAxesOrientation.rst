@@ -2,7 +2,7 @@
 AnatomicalAxesOrientation
 #########################
 
-Related schema specification: `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalAxesOrientation.html>`
+Related schema specification: `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalAxesOrientation.html>`_
 
 ------------
 

@@ -2,7 +2,7 @@
 UnitOfMeasurement
 #################
 
-Related schema specification: `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`
+Related schema specification: `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
 
 ------------
 

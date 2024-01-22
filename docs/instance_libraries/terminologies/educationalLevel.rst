@@ -2,7 +2,7 @@
 EducationalLevel
 ################
 
-Related schema specification: `EducationalLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/educationalLevel.html>`
+Related schema specification: `EducationalLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/educationalLevel.html>`_
 
 ------------
 

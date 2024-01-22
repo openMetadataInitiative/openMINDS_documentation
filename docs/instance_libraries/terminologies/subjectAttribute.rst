@@ -2,7 +2,7 @@
 SubjectAttribute
 ################
 
-Related schema specification: `SubjectAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subjectAttribute.html>`
+Related schema specification: `SubjectAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subjectAttribute.html>`_
 
 ------------
 

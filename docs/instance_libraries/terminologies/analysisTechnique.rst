@@ -2,7 +2,7 @@
 AnalysisTechnique
 #################
 
-Related schema specification: `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`
+Related schema specification: `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`_
 
 ------------
 

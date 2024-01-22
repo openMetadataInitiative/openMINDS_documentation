@@ -2,7 +2,7 @@
 Colormap
 ########
 
-Related schema specification: `Colormap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/colormap.html>`
+Related schema specification: `Colormap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/colormap.html>`_
 
 ------------
 

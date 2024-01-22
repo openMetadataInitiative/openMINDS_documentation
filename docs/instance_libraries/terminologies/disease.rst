@@ -2,7 +2,7 @@
 Disease
 #######
 
-Related schema specification: `Disease <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/disease.html>`
+Related schema specification: `Disease <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/disease.html>`_
 
 ------------
 

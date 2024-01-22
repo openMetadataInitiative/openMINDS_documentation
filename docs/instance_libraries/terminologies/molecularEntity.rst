@@ -2,7 +2,7 @@
 MolecularEntity
 ###############
 
-Related schema specification: `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`
+Related schema specification: `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
 
 ------------
 

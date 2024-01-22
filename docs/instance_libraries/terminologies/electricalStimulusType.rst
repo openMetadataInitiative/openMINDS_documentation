@@ -2,7 +2,7 @@
 ElectricalStimulusType
 ######################
 
-Related schema specification: `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`
+Related schema specification: `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`_
 
 ------------
 

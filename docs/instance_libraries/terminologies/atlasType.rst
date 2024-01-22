@@ -2,7 +2,7 @@
 AtlasType
 #########
 
-Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/atlasType.html>`
+Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/atlasType.html>`_
 
 ------------
 

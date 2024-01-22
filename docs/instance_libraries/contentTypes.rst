@@ -2,7 +2,7 @@
 ContentTypes
 ############
 
-Related schema specification: `ContentTypes <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType/contentTypes.html>`
+Related schema specification: `ContentTypes <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType/contentTypes.html>`_
 
 ------------
 

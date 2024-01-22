@@ -2,7 +2,7 @@
 CranialWindowReinforcementType
 ##############################
 
-Related schema specification: `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowReinforcementType.html>`
+Related schema specification: `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowReinforcementType.html>`_
 
 ------------
 

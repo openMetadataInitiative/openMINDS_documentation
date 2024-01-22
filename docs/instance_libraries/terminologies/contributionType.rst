@@ -2,7 +2,7 @@
 ContributionType
 ################
 
-Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/contributionType.html>`
+Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/contributionType.html>`_
 
 ------------
 

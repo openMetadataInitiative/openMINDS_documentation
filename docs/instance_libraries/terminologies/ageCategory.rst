@@ -2,7 +2,7 @@
 AgeCategory
 ###########
 
-Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ageCategory.html>`
+Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ageCategory.html>`_
 
 ------------
 
