@@ -7,7 +7,7 @@ Phenotype
 Structured information on the phenotype of a subject.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/phenotype.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/phenotype.html>`_.
 
 ------------
 

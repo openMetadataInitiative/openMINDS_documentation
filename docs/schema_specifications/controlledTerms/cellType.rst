@@ -5,7 +5,7 @@ CellType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CellType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/cellType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/cellType.html>`_.
 
 ------------
 

@@ -7,7 +7,7 @@ Laterality
 Structured information on the lateral direction.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/laterality.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/laterality.html>`_.
 
 ------------
 

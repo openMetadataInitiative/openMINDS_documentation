@@ -7,7 +7,7 @@ Modality
 Structured information on the modality.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/modality.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/modality.html>`_.
 
 ------------
 

@@ -5,7 +5,7 @@ productAccessibility
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/productAccessibility
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/productAccessibility.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/productAccessibility.html>`_.
 
 ------------
 

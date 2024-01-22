@@ -7,7 +7,7 @@ StudyTargetType
 Structured information on the general type of the study target.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/libraries/terminologies/studyTargetType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/studyTargetType.html>`_.
 
 ------------
 
