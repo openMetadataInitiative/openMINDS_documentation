@@ -7,7 +7,7 @@ CriteriaQualityType
 Structured information on the quality type of the defined criteria for a measurement.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/criteriaQualityType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/criteriaQualityType.html>`_.
 
 ------------
 

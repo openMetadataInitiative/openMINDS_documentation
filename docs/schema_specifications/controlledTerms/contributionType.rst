@@ -7,7 +7,7 @@ ContributionType
 Structured information on the type of contribution a person or organization performed.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/contributionType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/contributionType.html>`_.
 
 ------------
 

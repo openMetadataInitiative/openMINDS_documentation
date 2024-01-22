@@ -5,7 +5,7 @@ ChemicalMixtureType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/chemicalMixtureType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/chemicalMixtureType.html>`_.
 
 ------------
 

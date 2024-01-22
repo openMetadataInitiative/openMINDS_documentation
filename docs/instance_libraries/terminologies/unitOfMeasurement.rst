@@ -198,6 +198,21 @@ gram
 
 ------------
 
+hertz
+-----
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/hertz
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: Unit of frequency equivalent to one event per second
+   :name: hertz
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000106
+
+`BACK TO TOP <UnitOfMeasurement_>`_
+
+------------
+
 hour
 ----
 

@@ -7,7 +7,7 @@ Species
 Structured information on the species.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/species.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html>`_.
 
 ------------
 

@@ -5,7 +5,7 @@ SemanticDataType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/semanticDataType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/semanticDataType.html>`_.
 
 ------------
 

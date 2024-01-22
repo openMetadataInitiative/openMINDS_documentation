@@ -7,7 +7,7 @@ AnatomicalAxesOrientation
 Structured information on the anatomical directions of the X, Y, and Z axis.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/anatomicalAxesOrientation.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/anatomicalAxesOrientation.html>`_.
 
 ------------
 

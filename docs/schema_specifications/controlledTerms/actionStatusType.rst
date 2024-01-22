@@ -7,7 +7,7 @@ ActionStatusType
 Structured information about the status of an action.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/actionStatusType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/actionStatusType.html>`_.
 
 ------------
 

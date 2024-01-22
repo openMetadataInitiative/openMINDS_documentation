@@ -5,7 +5,7 @@ LearningResourceType
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/libraries/terminologies/learningResourceType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/learningResourceType.html>`_.
 
 ------------
 
