@@ -1,0 +1,6 @@
+"subject_ID", "species", "age_category", "imaged_while"
+"sub-01", "Mus musculus", "adult", "awake; asleep"
+"sub-02", "Rattus norvegicus", "adult", "awake; asleep"
+"sub-03", "Felis catus", "adult", "awake; asleep"
+"sub-04", "Macaca mulatta", "adult", "awake; asleep"
+"sub-05", "Ovis aries", "adult", "awake; asleep"
