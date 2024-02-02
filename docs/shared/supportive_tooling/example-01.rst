@@ -12,7 +12,8 @@ We will now guide you through the process of how to represent this data table as
 
 Let us start by importing the necessary packages, initiating an empty openMINDS linked data collection, and loading the rows of the data table as a list of Python dictionaries whose keys are given by the table header:
 
-.. code-block:: python
+.. ipython:: python
+   :suppress:
 
    # import packages
    from openminds import Collection
@@ -44,7 +45,8 @@ With these assumptions we will create :
   * a link to the respective "ContactInformation" instance
   * a person-specific embedded "Affiliation" instance that links to the respective "Consortium" instance
 
-.. code-block:: python
+.. ipython:: python
+   :suppress:
 
    # extract data to create dictionary with unique "Consortium" instances
    consortia = {}
@@ -81,7 +83,8 @@ With these assumptions we will create :
 
 As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and safe the collection if the validation did not reveal any failures:
 
-.. code-block:: python
+.. ipython:: python
+   :suppress:
 
    # adding instances to collection
    # we only need to add the "Person" instances, because ...
