@@ -10,7 +10,9 @@ For the first case scenario, we assume that five adult research subjects, each o
    :widths: 10, 10, 10, 10, 10
    :header-rows: 1
 
-Based on this information, we know that we will have to create five "Subject" instances and one to two "SubjectState" instances. In addition, we know that we will not have to create instances for defining the species, the age category or the subject attribute describing the state of the subject when it was imaged, because these instances are already available through the openMINDS libraries. Translating this tabular information into a graph structured openMINDS metadata collection using Python could look like this:
+Based on this information, we know that we will have to create five "Subject" instances and one to two "SubjectState" instances. In addition, we know that we will not have to create instances for defining the species, the age category or the subject attribute describing the state of the subject when it was imaged, because these instances are already available through the openMINDS libraries. 
+
+Translating this tabular information into a graph structured openMINDS metadata collection using Python could look like this:
 
 .. code-block:: python
 
@@ -52,7 +54,9 @@ For the second case scenario, we assume that another five adult research subject
    :widths: 10, 10, 10, 10, 10
    :header-rows: 1
 
-Based on this information, we know that we will have again to create five "Subject" instances, each with three "SubjectState" instances. In addition, we know that we will not have to create instances for defining the species, the age category or the unit of measurement of the subject's body weight, because these instances are already available through the openMINDS libraries. Translating this tabular information into a graph structured openMINDS metadata collection using Python could look like this:
+Based on this information, we know that we will have again to create five "Subject" instances, each with three "SubjectState" instances. In addition, we know that we will not have to create instances for defining the species, the age category or the unit of measurement of the subject's body weight, because these instances are already available through the openMINDS libraries. 
+
+Translating this tabular information into a graph structured openMINDS metadata collection using Python could look like this:
 
 .. code-block:: python
 
