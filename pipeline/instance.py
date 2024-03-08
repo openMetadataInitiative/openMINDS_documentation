@@ -21,12 +21,9 @@ class InstancesDocBuilder(object):
             instance_id = instance_payload["@id"]
 
             split_path = instance_file_path.split("sources_instances")[-1].split("/")
-            if split_path[3] in ["contentTypes", "licenses"]:
+            if split_path[3] in ["contentTypes", "licenses", "brainAtlases", "commonCoordinateSpaces"]:
                 relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[3])
-            elif split_path[3] == "graphStructures" and split_path[6].endswith(".jsonld"):
-                instance_shortName = instance_payload["shortName"]
-                relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[4], instance_shortName)
-            elif split_path[3] == "terminologies":
+            elif split_path[3] in ["terminologies", "brainAtlasVersions", "commonCoordinateSpaceVersions", "parcellationEntities", "parcellationEntityVersions"]:
                 relative_path = os.path.join("target", self.version, "docs", "instance_libraries", split_path[3], split_path[4])
             else:
                 pass
@@ -45,6 +42,18 @@ class InstancesDocBuilder(object):
             linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
         elif instanceType == "contentTypes":
             linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
+        elif instanceType == "brainAtlases":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
+        elif instanceType == "commonCoordinateSpaces":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries")
+        elif instanceType == "brainAtlasVersions":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "brainAtlasVersions")
+        elif instanceType == "commonCoordinateSpaceVersions":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "commonCoordinateSpaceVersions")
+        elif instanceType == "parcellationEntities":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "parcellationEntities")
+        elif instanceType == "parcellationEntityVersions":
+            linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "parcellationEntityVersions")
         else:
             linkdir = os.path.join(self.readthedocs_url, self.version, "instance_libraries", "terminologies")
         link = os.path.join(linkdir, f"{instanceType}.html#{term}")
