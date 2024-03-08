@@ -335,10 +335,10 @@ class InstancesDocBuilder(object):
             elif "licenses" in page_path:
                 self._build_simple_instances(page_path, instances_ids, "core/data/license")
             # build RST docu for each brain atlas
-            elif "brainAtlases" in page_path:
-                self._build_brain_atlas(page_path, instances_ids[0], "SANDS/atlas/brainAtlas")
-            # build RST docu for each brain atlas
-            elif "commonCoordinateSpaces" in page_path:
-                self._build_common_coordinate_space(page_path, instances_ids[0], "SANDS/atlas/commonCoordinateSpace")
+#            elif "brainAtlases" in page_path:
+#                self._build_brain_atlas(page_path, instances_ids[0], "SANDS/atlas/brainAtlas")
+#            # build RST docu for each brain atlas
+#            elif "commonCoordinateSpaces" in page_path:
+#                self._build_common_coordinate_space(page_path, instances_ids[0], "SANDS/atlas/commonCoordinateSpace")
             else:
                 pass
