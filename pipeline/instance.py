@@ -102,8 +102,9 @@ class InstancesDocBuilder(object):
                 doc.heading(subtitle, char="-")
                 doc.newline()
                 doc.directive(name="admonition", arg="metadata sheet")
-                doc.newline()
                 field_list_indent = 3
+                doc.content(":class: dropdown", indent=field_list_indent)
+                doc.newline()
                 for prop, value in sorted(instance_data.items()):
                     if type(value) == str:
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
