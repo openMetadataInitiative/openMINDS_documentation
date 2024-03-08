@@ -8,6 +8,23 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
+4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
+-------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) is a zwitterionic sulfonic acid buffering agent; one of the twenty Good's buffers. [adapted from W  ikipedia (https://en.wikipedia.org/wiki/HEPES)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0484759
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:42334#2-4-2-hydroxyethyl-piperazin-1-yl-ethanesulfonic-acid
+   :name: 4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_42334
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 5-HT1AReceptor
 --------------
 
@@ -103,6 +120,23 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000015189#sodium-dependent-serotonin-transporter
    :name: 5-HT transporter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015189
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: DNQX (6,7-dinitroquinoxaline-2,3-dione) is a competitive antagonist at AMPA and kainate receptors, two ionotropic glutamate receptor (iGluR) subfamilies. [adapted from Wikipedia (https://en.wikipedia.org/wiki/DNQX)]
+   :description: DNQX (6,7-dinitroquinoxaline-2,3-dione) is used in a variety of molecular biology subfields, notably neurophysiology, to assist researchers in determining the properties of various types of ion channels and their potential applications in medicine. [adapted from Wikipedia (https://en.wikipedia.org/wiki/DNQX)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103368
+   :name: 6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3899541
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -242,6 +276,23 @@ DAB
 
 ------------
 
+EgtazicAcid
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
+   :description: EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:30740#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
+   :name: egtazic acid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30740
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 Fluoro-Emerald
 --------------
 
@@ -347,6 +398,21 @@ GABAReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:1902710#gaba-receptor-complex
    :name: GABA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006001
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+Halothane
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
+   :name: halothane
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3562
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -626,6 +692,24 @@ calciumCalmodulinProteinKinaseIIAlphaChain
 
 ------------
 
+calciumChloride
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumChloride
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Calcium chloride is an inorganic compound, a salt with the chemical formula CaCl2. [adapted from wikipedia (https://en.wikipedia.org/wiki/Calcium_chloride)]
+   :description: CaCl2 is a white crystalline solid at room temperature, and it is highly soluble in water. It can be created by neutralising hydrochloric acid with calcium hydroxide. Calcium chloride is commonly encountered as a hydrated solid with generic formula CaCl2·nH2O, where n = 0, 1, 2, 4, and 6. These compounds are mainly used for de-icing and dust control. Because the anhydrous salt is hygroscopic and deliquescent, it is used as a desiccant. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Calcium_chloride)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101566
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:3312#calcium-dichloride
+   :name: calcium chloride
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_3312
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 calretinin
 ----------
 
@@ -643,6 +727,24 @@ calretinin
 
 ------------
 
+carbonDioxide
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A one-carbon compound with formula CO2 in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526)]
+   :description: Carbon dioxide is a chemical compound with the chemical formula CO2. It is made up of molecules that each have one carbon atom covalently double bonded to two oxygen atoms. It is found in the gas state at room temperature, and as the source of available carbon in the carbon cycle, atmospheric CO2 is the primary carbon source for life on Earth. In the air, carbon dioxide is transparent to visible light but absorbs infrared radiation, acting as a greenhouse gas. Carbon dioxide is soluble in water and is found in groundwater, lakes, ice caps, and seawater. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780969
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16526#carbon-dioxide
+   :name: carbon dioxide
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16526
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 cholecystokinin
 ---------------
 
@@ -654,6 +756,23 @@ cholecystokinin
    :interlexIdentifier: http://uri.interlex.org/ilx_0102124
    :name: cholecystokinin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5068
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+choline
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/choline
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Choline is a cation with the chemical formula [(CH3)3NCH2CH2OH]+. Choline forms various salts, for example choline chloride and choline bitartrate. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Choline)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102128
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15354#choline
+   :name: choline
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15354
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -687,6 +806,73 @@ cyclicAdenosineMonophosphate
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17489#3-5-cyclic-amp
    :name: cyclic adenosine monophosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17489
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+diboronTrioxide
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/diboronTrioxide
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Diboron trioxide or boron trioxide is the oxide of boron with the formula B2O3. [adapted from wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]
+   :description:  Diboron trioxide is a colorless transparent solid, almost always glassy (amorphous), which can be crystallized only with great difficulty. It is also called boric oxide or boria. It has many important industrial applications, chiefly in ceramics as a flux for glazes and enamels and in the production of glasses. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]
+   :name: diboron trioxide
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30163
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+dimethylSulfoxide
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/dimethylSulfoxide
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Dimethyl sulfoxide (DMSO) is an organosulfur compound with the formula (CH3)2SO. [adapted from wikipedia (https://en.wikipedia.org/wiki/Dimethyl_sulfoxide)]
+   :description: A highly polar organic liquid, that is used widely as a chemical solvent. Because of its ability to penetrate biological membranes, it is used as a vehicle for topical application of pharmaceuticals. It is also used to protect tissue during cryopreservation. Dimethyl sulfoxide shows a range of pharmacological activity including analgesia and anti-inflammation. (PubChem) Pharmacology: Dimethyl Sulfoxide may have anti-inflammatory, antioxidant and analgesic activities. Dimethyl Sulfoxide also readily penetrates cellular membranes. The membrane-penetrating ability of dimethyl sulfoxide may enhance diffusion of other substances through the skin. For this reason, mixtures of idoxuridine and dimethyl sulfoxide have been used for topical treatment of herpes zoster in the United Kingdom. Mechanism of action: The mechanism of dimethyl sulfoxide's actions is not well understood. Dimethyl sulfoxide has demonstrated antioxidant activity in certain biological settings. For example, the cardiovascular protective effect of dimethyl sulfoxide in copper-deficient rats is thought to occur by an antioxidant mechanism. It is also thought that dimethyl sulfoxide's possible anti-inflammatory activity is due to antioxidant action. [adapted from wikipedia (https://en.wikipedia.org/wiki/Dimethyl_sulfoxide)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103278
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:28262#dimethyl-sulfoxide
+   :name: dimethyl sulfoxide
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28262
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+dinitrogen
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/dinitrogen
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An elemental molecule consisting of two trivalently-bonded nitrogen atoms. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17997)]
+   :description: At standard temperature and pressure, two atoms of the element nitrogen bond to form N2, a colorless and odorless diatomic gas. N2 forms about 78% of Earth's atmosphere, making it the most abundant uncombined element in air. Because of the volatility of nitrogen compounds, nitrogen is relatively rare in the solid parts of the Earth. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Nitrogen)]
+   :name: dinitrogen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17997
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+dioxygen
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/dioxygen
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: The common allotrope of elemental oxygen on Earth, O2, is generally known as oxygen. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Allotropes_of_oxygen)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0398707
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15379#dioxygen
+   :name: dioxygen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15379
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -742,6 +928,23 @@ dynorphin
 
 ------------
 
+edeticAcid
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/edeticAcid
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Edetic Acid (Ethylenediaminetetraacetic acid, EDTA), also called edetic acid after its own abbreviation, is an aminopolycarboxylic acid with the formula [CH2N(CH2CO2H)2]2. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]
+   :description: This white, water-soluble solid is widely used to bind to iron (Fe2+/Fe3+) and calcium ions (Ca2+), forming water-soluble complexes even at neutral pH. It is thus used to dissolve Fe- and Ca-containing scale as well as to deliver iron ions under conditions where its oxides are insoluble. EDTA is available as several salts, notably disodium EDTA, sodium calcium edetate, and tetrasodium EDTA, but these all function similarly. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:4735#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
+   :name: edetic acid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_4735
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 enkephalin
 ----------
 
@@ -769,6 +972,24 @@ epibatidine
    :interlexIdentifier: http://uri.interlex.org/ilx_0103884
    :name: epibatidine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_chem_20090204
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+ethanol
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/ethanol
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Ethanol (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) is an organic compound with the chemical formula CH3CH2OH. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethanol)]
+   :description: Ethanol is an alcohol, with its formula also written as C2H5OH, C2H6O or EtOH, where Et stands for ethyl. Ethanol is a volatile, flammable, colorless liquid with a characteristic wine-like odor and pungent taste. It is a psychoactive recreational drug, and the active ingredient in alcoholic drinks. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethanol)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103948
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16236#ethanol
+   :name: ethanol
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16236
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -902,6 +1123,23 @@ fluorescentMicrospheres
 
 ------------
 
+formaldehyde
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/formaldehyde
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Formaldehyde is an organic compound with the formula CH2O and structure H-CHO. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Formaldehyde)]
+   :description: Formaldehyde is a pungent, colourless gas that polymerises spontaneously into paraformaldehyde . It is stored as aqueous solutions (formalin), which consists mainly of the hydrate CH2(OH)2. It is the simplest of the aldehydes (R-CHO). It is produced commercially as a precursor to many other materials and chemical compounds. In 2006, the global production rate of formaldehyde was estimated at 12 million tons per year. It is mainly used in the production of industrial resins, e.g., for particle board and coatings. Small amounts also occur naturally. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Formaldehyde)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:16842#formaldehyde
+   :name: formaldehyde
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16842
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 gabazine
 --------
 
@@ -930,6 +1168,40 @@ galanin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:5074#galanin
    :name: galanin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5074
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+gluconicAcid
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/gluconicAcid
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Gluconic acid is an organic compound with molecular formula C6H12O7 and condensed structural formula HOCH2(CHOH)4CO2H. [adapted from wikipedia (https://en.wikipedia.org/wiki/Gluconic_acid)]
+   :description: A white solid, it is forms the gluconate anion in neutral aqueous solution. The salts of gluconic acid are known as 'gluconates'. Gluconic acid, gluconate salts, and gluconate esters occur widely in nature because such species arise from the oxidation of glucose. Some drugs are injected in the form of gluconates. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Gluconic_acid)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0402003
+   :name: gluconic acid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_33198
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+glucose
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/glucose
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Glucose is a sugar with the molecular formula C6H12O6. Glucose is overall the most abundant monosaccharide, a subcategory of carbohydrates. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Glucose)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104670
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17234#glucose
+   :name: glucose
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17234
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -964,6 +1236,23 @@ glutamateTransporter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/SAO:1399894198#glutamate-transporter
    :name: glutamate transporter
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1399894198
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+glycerol
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycerol
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Glycerol is a triol with a structure of propane substituted at positions 1, 2 and 3 by hydroxy groups. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17754)]
+   :description: Glycerol, also called glycerine or glycerin, is a simple triol compound. It is a colorless, odorless, viscous liquid that is sweet-tasting and non-toxic. The glycerol backbone is found in lipids known as glycerides. Because it has antimicrobial and antiviral properties, it is widely used in wound and burn treatments approved by the U.S. Food and Drug Administration. Conversely, it is also used as a bacterial culture medium. Its presence in blood can be used as an effective marker to measure liver disease. It is also widely used as a sweetener in the food industry and as a humectant in pharmaceutical formulations. Because of its three hydroxyl groups, glycerol is miscible with water and is hygroscopic in nature. [adapted from wikipedia (https://en.wikipedia.org/wiki/Glycerol)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17754#glycerol
+   :name: glycerol
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17754
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -1081,6 +1370,23 @@ iperoxo
 
 ------------
 
+iron
+----
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/iron
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Iron is a chemical element; it has symbol Fe (from Latin ferrum 'iron') and atomic number 26. [adapted from wikipedia (https://en.wikipedia.org/wiki/Iron)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105721
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:24873#iron-molecular-entity
+   :name: iron
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24873
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 isoflurane
 ----------
 
@@ -1159,6 +1465,54 @@ luciferYellow
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0439021
    :name: lucifer yellow
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0068243
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+magnesiumATP
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
+   :name: magnesium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+magnesiumChloride
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumChloride
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A magnesium salt comprising of two chlorine atoms bound to a magnesium atom. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:6636)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:6636#magnesium-dichloride
+   :name: magnesium chloride
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_6636
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+magnesiumSulfate
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumSulfate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A magnesium salt with the formula MgSO4, consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions (SO4)2-. [adapted from wikipedia (https://en.wikipedia.org/wiki/Magnesium_sulfate)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106452
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32599#magnesium-sulfate
+   :name: magnesium sulfate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32599
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -1264,6 +1618,40 @@ metabotropicGlutamateReceptor5
 
 ------------
 
+methanol
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/methanol
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Methanol is an organic chemical and the simplest aliphatic alcohol, with the formula CH3OH (a methyl group linked to a hydroxyl group, often abbreviated as MeOH). [adapted from Wikipedia (https://en.wikipedia.org/wiki/Methanol)]
+   :description: Methanol is a light, volatile, colorless and flammable liquid with a distinctive alcoholic odour similar to that of ethanol (potable alcohol). Methanol acquired the name wood alcohol because it was once produced chiefly by the destructive distillation of wood. Today, methanol is mainly produced industrially by hydrogenation of carbon monoxide. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Methanol)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17790#methanol
+   :name: methanol
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17790
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+monosodiumPhosphate
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/monosodiumPhosphate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Monosodium phosphate (MSP), is an inorganic compound of sodium with a dihydrogen phosphate (H2PO4) anion. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monosodium_phosphate)]
+   :description: Monosodium phosphate, one of many sodium phosphates, it is a common industrial chemical. The salt exists in an anhydrous form, as well as mono- and dihydrates. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monosodium_phosphate)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:37585#sodium-dihydrogenphosphate
+   :name: monosodium phosphate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37585
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 muscimol
 --------
 
@@ -1344,6 +1732,22 @@ neurotrophicFactor
 
 ------------
 
+nickel
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/nickel
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Nickel is a chemical element; it has symbol Ni and atomic number 28.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107575
+   :name: nickel
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28112
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
 parvalbumin
 -----------
 
@@ -1356,6 +1760,203 @@ parvalbumin
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:6#parvalbumin
    :name: parvalbumin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+pentobarbital
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbital
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A member of the class of barbiturates, the structure of which is that of barbituric acid substituted at C-5 by ethyl and sec-pentyl groups.
+   :description: A short-acting barbiturate that is effective as a sedative and hypnotic (but not as an anti-anxiety) agent and is usually given orally. It is prescribed more frequently for sleep induction than for sedation but, like similar agents, may lose its effectiveness by the second week of continued administration. (From AMA Drug Evaluations Annual,1994, p236) Pharmacology: Pentobarbital, a barbiturate, is used for the treatment of short term insomnia. It belongs to a group of medicines called central nervous system (CNS) depressants that induce drowsiness and relieve tension or nervousness. Little analgesia is conferred by barbiturates; their use in the presence of pain may result in excitation. Mechanism of action: Pentobarbital binds at a distinct binding site associated with a Cl- ionopore at the GABAA receptor, increasing the duration of time for which the Cl- ionopore is open. The post-synaptic inhibitory effect of GABA in the thalamus is, therefore, prolonged. All of these effects are associated with marked decreases in GABA-sensitive neuronal calcium conductance (gCa). The net result of barbiturate action is acute potentiation of inhibitory GABAergic tone. Barbiturates also act through potent (if less well characterized) and direct inhibition of excitatory AMPA-type glutamate receptors, resulting in a profound suppression of glutamatergic neurotransmission. Drug type: Approved. Small Molecule. Drug category: Adjuvants, Anesthesia. Barbiturates. GABA Modulators. Hypnotics and Sedatives
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0108667
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:7983#pentobarbital
+   :name: pentobarbital
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7983
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+pentobarbitalSodium
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbitalSodium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Sodium salt of pentobarbital, which is most common form of pentobarbital.
+   :name: pentobarbital sodium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7984
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+potassiumChloride
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumChloride
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A metal chloride salt with a K(+) counterion.
+   :description: Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0109170
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32588#potassium-chloride
+   :name: potassium chloride
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32588
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+potassiumGluconate
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumGluconate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Potassium gluconate is the potassium salt of the conjugate base of gluconic acid.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32032#potassium-gluconate
+   :name: potassium gluconate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32032
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+propofol
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/propofol
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An intravenous anesthetic agent which has the advantage of a very rapid onset after infusion or bolus injection plus a very short recovery period of a couple of minutes. (From Smith and Reynard, Textbook of Pharmacology, 1992, 1st ed, p206)
+   :description: Pharmacology: Propofol a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). Mechanism of action: The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid(GABA) through GABA-A receptors. Drug type: Approved. Investigational. Small Molecule. Drug category: Anesthetics, Intravenous. Anticonvulsants. Antiemetics. Free Radical Scavengers. Hypnotics and Sedatives
+   :interlexIdentifier: http://uri.interlex.org/ilx_0109431
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:44915#propofol
+   :name: propofol
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_44915
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+siliconDioxide
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/siliconDioxide
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Silicon dioxide, also known as silica, is an oxide of silicon with the chemical formula SiO2, commonly found in nature as quartz.
+   :description: In many parts of the world, silica is the major constituent of sand. Silica is abundant as it comprises several minerals and as a synthetic products. All forms are white or colorless, although impure samples can be colored.  Silicon dioxide is a common fundamental constituent of glass.
+   :name: silicon dioxide
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30563
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+silverAmmonium
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverAmmonium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Silver ammonium is an inorganic compound with chemical formula AgNH4.
+   :name: Silver ammonium
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/57440423
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+silverNitrate
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverNitrate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Silver nitrate is an inorganic compound with chemical formula AgNO3.
+   :description: Silver nitrate is a versatile precursor to many other silver compounds, such as those used in photography. It is far less sensitive to light than the halides. It was once called lunar caustic because silver was called luna by ancient alchemists who associated silver with the moon. In solid silver nitrate, the silver ions are three-coordinated in a trigonal planar arrangement.
+   :name: Silver nitrate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32130
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+sodiumBicarbonate
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumBicarbonate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:32139#sodium-hydrogencarbonate
+   :name: sodium bicarbonate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32139
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+sodiumChloride
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumChloride
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Sodium chloride commonly known as table salt, is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chloride ions.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:26710#sodium-chloride
+   :name: sodium chloride
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26710
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+sucrose
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sucrose
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A nonreducing disaccharide composed of GLUCOSE and FRUCTOSE linked via their anomeric carbons. It is obtained commercially from SUGARCANE, sugar beet (BETA VULGARIS), and other plants and used extensively as a food and a sweetener.
+   :description: It is produced naturally in plants and is the main constituent of white sugar. It has the molecular formula C12H22O11. For human consumption, sucrose is extracted and refined from either sugarcane or sugar beet. Sugar mills – typically located in tropical regions near where sugarcane is grown – crush the cane and produce raw sugar which is shipped to other factories for refining into pure sucrose. Sugar beet factories are located in temperate climates where the beet is grown, and process the beets directly into refined sugar. The sugar-refining process involves washing the raw sugar crystals before dissolving them into a sugar syrup which is filtered and then passed over carbon to remove any residual colour. The sugar syrup is then concentrated by boiling under a vacuum and crystallized as the final purification process to produce crystals of pure sucrose that are clear, odorless, and sweet.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:17992#sucrose
+   :name: sucrose
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17992
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+tungsten
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/tungsten
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Tungsten (also called wolfram) is a chemical element; it has symbol W and atomic number 74.
+   :description: Tungsten is a rare metal found naturally on Earth almost exclusively as compounds with other elements. It was identified as a new element in 1781 and first isolated as a metal in 1783. Its important ores include scheelite and wolframite, the latter lending the element its alternate name. The free element is remarkable for its robustness, especially the fact that it has the highest melting point of all known elements, melting at 3,422 °C (6,192 °F; 3,695 K). It also has the highest boiling point, at 5,930 °C (10,706 °F; 6,203 K). Its density is 19.30 grams per cubic centimetre (0.697 lb/cu in), comparable with that of uranium and gold, and much higher (about 1.7 times) than that of lead. Polycrystalline tungsten is an intrinsically brittle and hard material (under standard conditions, when uncombined), making it difficult to work into metal. However, pure single-crystalline tungsten is more ductile and can be cut with a hard-steel hacksaw.
+   :name: tungsten
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_27998
 
 `BACK TO TOP <MolecularEntity_>`_
 
@@ -1420,6 +2021,24 @@ vesicularGlutamateTransporter3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000014964#vesicular-glutamate-transporter-3
    :name: vesicular glutamate transporter 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014964
+
+`BACK TO TOP <MolecularEntity_>`_
+
+------------
+
+water
+-----
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/water
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms.
+   :description: Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance, and it is the main constituent of Earth's hydrosphere and the fluids of all known living organisms (in which it acts as a solvent). It is vital for all known forms of life, despite not providing food energy or organic micronutrients. Its chemical formula, H2O, indicates that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds. The hydrogen atoms are attached to the oxygen atom at an angle of 104.45°. 'Water' is also the name of the liquid state of H2O at standard temperature and pressure. Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, liquid, and gas.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0782172
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15377#water
+   :name: water
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15377
 
 `BACK TO TOP <MolecularEntity_>`_
 
