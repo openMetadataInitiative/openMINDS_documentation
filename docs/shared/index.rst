@@ -11,7 +11,6 @@ Welcome to the openMINDS documentation!
 Applying the openMINDS framework to your own data collection, requires you to design a graph representation (linked data model) of your data. What this means and how to approach this challenge is described in `Getting started <shared/getting_started.html>`_.
 
 .. note::
-   :class: dropdown
 
    This project is under active development. As an open-source project community contributions are highly appreciated (cf. `contribution guidelines <shared/contribution_guidelines.html>`_). 
 
