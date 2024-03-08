@@ -12,6 +12,7 @@ Applying the openMINDS framework to your own data collection, requires you to de
 
 .. note::
    :class: dropdown
+
    This project is under active development. As an open-source project community contributions are highly appreciated (cf. `contribution guidelines <shared/contribution_guidelines.html>`_). 
 
 Funding and acknowledgements
