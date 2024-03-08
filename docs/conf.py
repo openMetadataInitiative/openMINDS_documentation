@@ -50,6 +50,8 @@ html_theme_options = {
   'titles_only': True
 }
 
+togglebutton_hint = "show more"
+togglebutton_hint_hide = "show less"
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
