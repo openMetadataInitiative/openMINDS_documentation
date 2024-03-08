@@ -12,6 +12,7 @@ derivedData
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/derivedData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
@@ -25,6 +26,7 @@ experimentalData
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
@@ -38,6 +40,7 @@ rawData
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/rawData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
@@ -51,6 +54,7 @@ simulatedData
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType

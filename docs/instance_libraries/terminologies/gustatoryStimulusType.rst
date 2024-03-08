@@ -12,6 +12,7 @@ bitterSubstance
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
@@ -26,6 +27,7 @@ saltySubstance
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
@@ -40,6 +42,7 @@ sourSubstance
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
@@ -54,6 +57,7 @@ sweetSubstance
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType

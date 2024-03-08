@@ -12,6 +12,7 @@ alzheimersDiseaseModel
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/alzheimersDiseaseModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -27,6 +28,7 @@ autismSpectrumDisorderModel
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/autismSpectrumDisorderModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -41,6 +43,7 @@ epilepsyModel
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -56,6 +59,7 @@ fragileXsyndromeModel
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/fragileXsyndromeModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -71,6 +75,7 @@ huntingtonsDiseaseModel
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/huntingtonsDiseaseModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -85,6 +90,7 @@ parkinsonsDiseaseModel
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/parkinsonsDiseaseModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -99,6 +105,7 @@ strokeModel
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/strokeModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
@@ -114,6 +121,7 @@ williamsBeurenSyndromeModel
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/diseaseModel/williamsBeurenSyndromeModel
    :@type: https://openminds.ebrains.eu/controlledTerms/DiseaseModel

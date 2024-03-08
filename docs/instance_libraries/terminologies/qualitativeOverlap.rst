@@ -12,6 +12,7 @@ isHomologousTo
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/qualitativeOverlap/isHomologousTo
    :@type: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
@@ -26,6 +27,7 @@ isIdenticalTo
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/qualitativeOverlap/isIdenticalTo
    :@type: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
@@ -40,6 +42,7 @@ isSubsetOf
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf
    :@type: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
@@ -54,6 +57,7 @@ isSupersetOf
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/qualitativeOverlap/isSupersetOf
    :@type: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
@@ -68,6 +72,7 @@ partiallyOverlapsWith
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith
    :@type: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap

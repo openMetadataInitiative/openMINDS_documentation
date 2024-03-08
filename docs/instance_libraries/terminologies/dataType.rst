@@ -12,6 +12,7 @@ Related schema specification: `DataType <https://openminds-documentation.readthe
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -27,6 +28,7 @@ associativeArray
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/associativeArray
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -42,6 +44,7 @@ eventSequence
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/eventSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -56,6 +59,7 @@ list
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/list
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -71,6 +75,7 @@ matrix
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/matrix
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -86,6 +91,7 @@ rasterGraphic
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/rasterGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -101,6 +107,7 @@ scalar
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/scalar
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -116,6 +123,7 @@ table
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/table
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -131,6 +139,7 @@ timeSeries
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/timeSeries
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -146,6 +155,7 @@ vectorGraphic
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/vectorGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -161,6 +171,7 @@ voxelData
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/voxelData
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType

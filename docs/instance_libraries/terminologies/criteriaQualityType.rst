@@ -12,6 +12,7 @@ asserted
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/criteriaQualityType/asserted
    :@type: https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType
@@ -26,6 +27,7 @@ processive
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/criteriaQualityType/processive
    :@type: https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType

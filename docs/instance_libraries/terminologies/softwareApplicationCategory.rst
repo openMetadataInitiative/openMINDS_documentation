@@ -12,6 +12,7 @@ application
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
@@ -26,6 +27,7 @@ library
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
@@ -40,6 +42,7 @@ middleware
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
@@ -54,6 +57,7 @@ module
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
@@ -68,6 +72,7 @@ notebook
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
@@ -82,6 +87,7 @@ plugin
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory

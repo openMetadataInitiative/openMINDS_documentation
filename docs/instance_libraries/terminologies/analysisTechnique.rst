@@ -12,6 +12,7 @@ Related schema specification: `AnalysisTechnique <https://openminds-documentatio
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/3DComputerGraphicModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -25,6 +26,7 @@ Related schema specification: `AnalysisTechnique <https://openminds-documentatio
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/4PointsCongruentSetsAlignment
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -39,6 +41,7 @@ DNAMethylationAnalysis
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/DNAMethylationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -54,6 +57,7 @@ DNASequencing
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/DNASequencing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -70,6 +74,7 @@ GrubbsTest
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/GrubbsTest
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -84,6 +89,7 @@ HPCSimulation
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/HPCSimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -97,6 +103,7 @@ ICABasedDenoisingTechnique
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/ICABasedDenoisingTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -111,6 +118,7 @@ MannWhitneyUTest
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/MannWhitneyUTest
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -125,6 +133,7 @@ RNASequencing
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/RNASequencing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -141,6 +150,7 @@ ShapiroWilkTest
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/ShapiroWilkTest
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -155,6 +165,7 @@ SpearmansRankOrderCorrelation
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/SpearmansRankOrderCorrelation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -169,6 +180,7 @@ WardClustering
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/WardClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
@@ -183,6 +195,7 @@ activationLikelihoodEstimation
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/activationLikelihoodEstimation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -197,6 +210,7 @@ affineImageRegistration
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/affineImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -211,6 +225,7 @@ affineTransformation
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/affineTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -225,6 +240,7 @@ anatomicalDelineationTechnique
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -238,6 +254,7 @@ averageLinkageClustering
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/averageLinkageClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -251,6 +268,7 @@ biasFieldCorrection
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/biasFieldCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -265,6 +283,7 @@ bootstrapping
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/bootstrapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -278,6 +297,7 @@ boundaryBasedRegistration
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/boundaryBasedRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -292,6 +312,7 @@ clusterAnalysis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/clusterAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -305,6 +326,7 @@ combinedVolumeSurfaceRegistration
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/combinedVolumeSurfaceRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -319,6 +341,7 @@ communicationProfiling
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/communicationProfiling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -332,6 +355,7 @@ conjunctionAnalysis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/conjunctionAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -345,6 +369,7 @@ connected-componentAnalysis
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/connected-componentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -359,6 +384,7 @@ connectivityBasedParcellationTechnique
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/connectivityBasedParcellationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -372,6 +398,7 @@ convolution
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/convolution
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -386,6 +413,7 @@ correlationAnalysis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/correlationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -399,6 +427,7 @@ covarianceAnalysis
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/covarianceAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -412,6 +441,7 @@ currentSourceDensityAnalysis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/currentSourceDensityAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -425,6 +455,7 @@ cytoarchitectonicMapping
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -439,6 +470,7 @@ deepLearning
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/deepLearning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -452,6 +484,7 @@ densityMeasurement
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/densityMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -465,6 +498,7 @@ dictionaryLearning
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/dictionaryLearning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -479,6 +513,7 @@ diffeomorphicRegistration
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/diffeomorphicRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -493,6 +528,7 @@ enzymeLinkedImmunosorbentAssay
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -510,6 +546,7 @@ eyeMovementTracking
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/eyeMovementTracking
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -526,6 +563,7 @@ geneExpressionMeasurement
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/geneExpressionMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -539,6 +577,7 @@ generalLinearModeling
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/generalLinearModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -552,6 +591,7 @@ geneticCorrelationAnalysis
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/geneticCorrelationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -565,6 +605,7 @@ geneticRiskScore
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/geneticRiskScore
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -580,6 +621,7 @@ genomeWideAssociationStudy
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -597,6 +639,7 @@ globalSignalRegression
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/globalSignalRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -611,6 +654,7 @@ hierarchicalAgglomerativeClustering
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/hierarchicalAgglomerativeClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -624,6 +668,7 @@ hierarchicalClustering
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/hierarchicalClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -637,6 +682,7 @@ hierarchicalDivisiveClustering
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/hierarchicalDivisiveClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -650,6 +696,7 @@ imageDistortionCorrection
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/imageDistortionCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -664,6 +711,7 @@ imageRegistration
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/imageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -678,6 +726,7 @@ independentComponentAnalysis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/independentComponentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -691,6 +740,7 @@ interSubjectAnalysis
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/interSubjectAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -704,6 +754,7 @@ interpolation
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/interpolation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -718,6 +769,7 @@ intraSubjectAnalysis
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intraSubjectAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -731,6 +783,7 @@ k-meansClustering
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/k-meansClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -745,6 +798,7 @@ linearImageRegistration
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/linearImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -759,6 +813,7 @@ linearRegression
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/linearRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -773,6 +828,7 @@ linearTransformation
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/linearTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -787,6 +843,7 @@ literatureMining
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/literatureMining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -800,6 +857,7 @@ manifoldLearning
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/manifoldLearning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -814,6 +872,7 @@ massUnivariateAnalysis
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/massUnivariateAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -828,6 +887,7 @@ maximumLikelihoodEstimation
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -842,6 +902,7 @@ maximumProbabilityProjection
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/maximumProbabilityProjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -855,6 +916,7 @@ metaAnalysis
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/metaAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -868,6 +930,7 @@ metaAnalyticConnectivityModeling
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/metaAnalyticConnectivityModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -881,6 +944,7 @@ metadataParsing
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/metadataParsing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -894,6 +958,7 @@ modelBasedStimulationArtifactCorrection
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/modelBasedStimulationArtifactCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -908,6 +973,7 @@ morphometricAnalysis
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/morphometricAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -921,6 +987,7 @@ morphometry
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/morphometry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -934,6 +1001,7 @@ motionCorrection
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/motionCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -948,6 +1016,7 @@ movementTracking
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/movementTracking
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -962,6 +1031,7 @@ multi-compartmentModeling
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -975,6 +1045,7 @@ multi-scaleIndividualComponentClustering
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multi-scaleIndividualComponentClustering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -989,6 +1060,7 @@ multiVoxelPatternAnalysis
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multiVoxelPatternAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1003,6 +1075,7 @@ multipleLinearRegression
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multipleLinearRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1017,6 +1090,7 @@ neuromorphicSimulation
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/neuromorphicSimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1030,6 +1104,7 @@ nonlinearImageRegistration
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonlinearImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1044,6 +1119,7 @@ nonlinearTransformation
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonlinearTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1058,6 +1134,7 @@ nonrigidImageRegistration
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonrigidImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1072,6 +1149,7 @@ nonrigidMotionCorrection
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonrigidMotionCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1085,6 +1163,7 @@ nonrigidTransformation
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nonrigidTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1099,6 +1178,7 @@ nuisanceRegression
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nuisanceRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1113,6 +1193,7 @@ pathwayAnalysis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/pathwayAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1129,6 +1210,7 @@ performanceProfiling
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/performanceProfiling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1142,6 +1224,7 @@ perturbationalComplexityIndexMeasurement
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/perturbationalComplexityIndexMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1155,6 +1238,7 @@ phaseSynchronizationAnalysis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/phaseSynchronizationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1169,6 +1253,7 @@ principalComponentAnalysis
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/principalComponentAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1183,6 +1268,7 @@ probabilisticAnatomicalParcellationTechnique
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/probabilisticAnatomicalParcellationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1196,6 +1282,7 @@ probabilisticDiffusionTractography
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/probabilisticDiffusionTractography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1209,6 +1296,7 @@ pupillometry
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/pupillometry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1223,6 +1311,7 @@ qualitativeAnalysis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/qualitativeAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1237,6 +1326,7 @@ quantification
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/quantification
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1250,6 +1340,7 @@ quantitativeAnalysis
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/quantitativeAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1263,6 +1354,7 @@ reconstructionTechnique
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/reconstructionTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1277,6 +1369,7 @@ reporterGeneBasedExpressionMeasurement
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1290,6 +1383,7 @@ reporterProteinBasedExpressionMeasurement
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1303,6 +1397,7 @@ rigidImageRegistration
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/rigidImageRegistration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1317,6 +1412,7 @@ rigidMotionCorrection
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/rigidMotionCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1330,6 +1426,7 @@ rigidTransformation
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/rigidTransformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1344,6 +1441,7 @@ rule-basedModeling
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/rule-basedModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1357,6 +1455,7 @@ seed-basedCorrelationAnalysis
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/seed-basedCorrelationAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1370,6 +1469,7 @@ semanticAnchoring
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/semanticAnchoring
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1383,6 +1483,7 @@ semiquantitativeAnalysis
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/semiquantitativeAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1397,6 +1498,7 @@ signalFilteringTechnique
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/signalFilteringTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1413,6 +1515,7 @@ signalProcessingTechnique
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/signalProcessingTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1429,6 +1532,7 @@ simulation
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/simulation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1442,6 +1546,7 @@ singleCellRNASequencing
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1455,6 +1560,7 @@ singleGeneAnalysis
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1469,6 +1575,7 @@ singleNucleotidePolymorphismDetection
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/singleNucleotidePolymorphismDetection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1485,6 +1592,7 @@ sliceTimingCorrection
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/sliceTimingCorrection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1499,6 +1607,7 @@ spectralPowerAutoSegmentationTechnique
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/spectralPowerAutoSegmentationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1513,6 +1622,7 @@ spikeSorting
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/spikeSorting
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1528,6 +1638,7 @@ stochasticOnlineMatrixFactorization
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/stochasticOnlineMatrixFactorization
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1542,6 +1653,7 @@ structuralCovarianceAnalysis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/structuralCovarianceAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1555,6 +1667,7 @@ supportVectorMachineClassifier
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/supportVectorMachineClassifier
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1569,6 +1682,7 @@ supportVectorMachineRegression
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/supportVectorMachineRegression
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1583,6 +1697,7 @@ surfaceProjection
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/surfaceProjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1596,6 +1711,7 @@ temporalFiltering
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/temporalFiltering
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1610,6 +1726,7 @@ tractTracing
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/tractTracing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1623,6 +1740,7 @@ tractography
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/tractography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1636,6 +1754,7 @@ transformation
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/transformation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1650,6 +1769,7 @@ video-oculography
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/video-oculography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1663,6 +1783,7 @@ videoAnnotation
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/videoAnnotation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1676,6 +1797,7 @@ voxel-basedMorphometry
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/voxel-basedMorphometry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1689,6 +1811,7 @@ wholeGenomeSequencing
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1705,6 +1828,7 @@ zScoreAnalysis
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/zScoreAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique

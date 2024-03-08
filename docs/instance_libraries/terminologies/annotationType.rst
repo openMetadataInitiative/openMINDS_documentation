@@ -12,6 +12,7 @@ annotationContourLine
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationType/annotationContourLine
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
@@ -26,6 +27,7 @@ annotationMask
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationType/annotationMask
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
@@ -40,6 +42,7 @@ annotationPoint
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationType/annotationPoint
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType
@@ -54,6 +57,7 @@ annotationSurface
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationType/annotationSurface
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationType

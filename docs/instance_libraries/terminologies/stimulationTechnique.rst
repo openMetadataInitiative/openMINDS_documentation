@@ -12,6 +12,7 @@ GestaltVisualStimulation
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -25,6 +26,7 @@ abstractImageVisualStimulation
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/abstractImageVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -39,6 +41,7 @@ checkerboardVisualStimulation
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/checkerboardVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -53,6 +56,7 @@ currentStepStimulation
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -67,6 +71,7 @@ driftingGratingVisualStimulation
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/driftingGratingVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -80,6 +85,7 @@ electricalStimulation
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -96,6 +102,7 @@ figure-groundVisualStimulation
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/figure-groundVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -109,6 +116,7 @@ microstimulation
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/microstimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -122,6 +130,7 @@ naturalImageVisualStimulation
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/naturalImageVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -136,6 +145,7 @@ naturalSoundAuditoryStimulation
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -149,6 +159,7 @@ optogeneticStimulation
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/optogeneticStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -163,6 +174,7 @@ photonStimulation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/photonStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -176,6 +188,7 @@ randomDotMotionStimulation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/randomDotMotionStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -190,6 +203,7 @@ singlePulseElectricalStimulation
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectricalStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -204,6 +218,7 @@ staticGratingVisualStimulation
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/staticGratingVisualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -217,6 +232,7 @@ transcranialMagneticStimulation
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/transcranialMagneticStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -230,6 +246,7 @@ whiskerStimulation
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationTechnique/whiskerStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -244,6 +261,7 @@ subliminalStimulation
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/subliminalStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique
@@ -258,6 +276,7 @@ subliminalVisualSimulation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/subliminalVisualSimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationTechnique

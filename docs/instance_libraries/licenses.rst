@@ -12,6 +12,7 @@ AMB-CCF
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/AMB-CCF
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -29,6 +30,7 @@ BigBrain
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -46,6 +48,7 @@ MEBRAINStemplate
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MEBRAINStemplate
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -62,6 +65,7 @@ MNI-Colin27
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-Colin27
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -80,6 +84,7 @@ MNI-ICBM152
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-ICBM152
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -97,6 +102,7 @@ WHSSD
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/WHSSD
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -114,6 +120,7 @@ fsLR
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsLR
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -130,6 +137,7 @@ fsaverage
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsaverage
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
@@ -145,6 +153,7 @@ DondersInstitute-DUA-RU-DI-HD-1-0
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/DondersInstitute-DUA-RU-DI-HD-1-0
    :@type: https://openminds.ebrains.eu/core/License
@@ -160,6 +169,7 @@ EBRAINS-DUA-4-HDG
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/EBRAINS-DUA-4-HDG
    :@type: https://openminds.ebrains.eu/core/License
@@ -175,6 +185,7 @@ EBRAINS-DUA-4-HDG-NC
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/EBRAINS-DUA-4-HDG-NC
    :@type: https://openminds.ebrains.eu/core/License
@@ -190,6 +201,7 @@ agpl3.0Only
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/agpl3.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -205,6 +217,7 @@ apache2.0
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/apache2.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -220,6 +233,7 @@ bsd2
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/bsd2
    :@type: https://openminds.ebrains.eu/core/License
@@ -235,6 +249,7 @@ bsd3
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/bsd3
    :@type: https://openminds.ebrains.eu/core/License
@@ -250,6 +265,7 @@ bsd4
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/bsd4
    :@type: https://openminds.ebrains.eu/core/License
@@ -265,6 +281,7 @@ ccBy4.0
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccBy4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -280,6 +297,7 @@ ccByNc4.0
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccByNc4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -295,6 +313,7 @@ ccByNcNd4.0
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccByNcNd4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -310,6 +329,7 @@ ccByNcSa4.0
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccByNcSa4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -325,6 +345,7 @@ ccByNd4.0
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccByNd4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -340,6 +361,7 @@ ccBySa4.0
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccBySa4.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -355,6 +377,7 @@ ccZero1.0
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/ccZero1.0
    :@type: https://openminds.ebrains.eu/core/License
@@ -370,6 +393,7 @@ cecill2.1
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/cecill2.1
    :@type: https://openminds.ebrains.eu/core/License
@@ -385,6 +409,7 @@ eupl1.2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/eupl1.2
    :@type: https://openminds.ebrains.eu/core/License
@@ -400,6 +425,7 @@ gpl1.0Only
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl1.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -415,6 +441,7 @@ gpl1.0OrLater
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl1.0OrLater
    :@type: https://openminds.ebrains.eu/core/License
@@ -430,6 +457,7 @@ gpl2.0Only
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl2.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -445,6 +473,7 @@ gpl2.0OrLater
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl2.0OrLater
    :@type: https://openminds.ebrains.eu/core/License
@@ -460,6 +489,7 @@ gpl3.0Only
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl3.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -475,6 +505,7 @@ gpl3.0OrLater
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/gpl3.0OrLater
    :@type: https://openminds.ebrains.eu/core/License
@@ -490,6 +521,7 @@ lgpl2.0Only
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -505,6 +537,7 @@ lgpl2.1Only
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.1Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -520,6 +553,7 @@ lgpl2.1OrLater
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.1OrLater
    :@type: https://openminds.ebrains.eu/core/License
@@ -535,6 +569,7 @@ lgpl3.0Only
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/lgpl3.0Only
    :@type: https://openminds.ebrains.eu/core/License
@@ -550,6 +585,7 @@ lgpl3.0OrLater
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/lgpl3.0OrLater
    :@type: https://openminds.ebrains.eu/core/License
@@ -565,6 +601,7 @@ mit
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/mit
    :@type: https://openminds.ebrains.eu/core/License
@@ -580,6 +617,7 @@ mpl2.0
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/licenses/mpl2.0
    :@type: https://openminds.ebrains.eu/core/License

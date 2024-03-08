@@ -12,6 +12,7 @@ conditionalKnockinReady
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockinReady
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -25,6 +26,7 @@ conditionalKnockoutReady
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -38,6 +40,7 @@ conditionalReady
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/conditionalReady
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -51,6 +54,7 @@ knockin
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/knockin
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -64,6 +68,7 @@ knockout
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/knockout
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -77,6 +82,7 @@ transgenic
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/transgenic
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
@@ -90,6 +96,7 @@ wildtype
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/geneticStrainType/wildtype
    :@type: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType

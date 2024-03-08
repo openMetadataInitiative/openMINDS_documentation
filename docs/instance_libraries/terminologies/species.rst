@@ -12,6 +12,7 @@ berghiaStephanieae
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/berghiaStephanieae
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -27,6 +28,7 @@ callithrixJacchus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/callithrixJacchus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -42,6 +44,7 @@ chlorocebusAethiopsSabaeus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -57,6 +60,7 @@ chlorocebusPygerythrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -72,6 +76,7 @@ danioRerio
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/danioRerio
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -89,6 +94,7 @@ felisCatus
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/felisCatus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -105,6 +111,7 @@ homoSapiens
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/homoSapiens
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -122,6 +129,7 @@ macacaFascicularis
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaFascicularis
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -138,6 +146,7 @@ macacaFuscata
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaFuscata
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -154,6 +163,7 @@ macacaMulatta
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaMulatta
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -170,6 +180,7 @@ monodelphisDomestica
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/monodelphisDomestica
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -185,6 +196,7 @@ musMusculus
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/musMusculus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -202,6 +214,7 @@ mustelaPutorius
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/mustelaPutorius
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -217,6 +230,7 @@ mustelaPutoriusFuro
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -233,6 +247,7 @@ ovisAries
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/ovisAries
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -248,6 +263,7 @@ rattusNorvegicus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/rattusNorvegicus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -265,6 +281,7 @@ susScrofaDomesticus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/susScrofaDomesticus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -282,6 +299,7 @@ trachemysScriptaElegans
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans
    :@type: https://openminds.ebrains.eu/controlledTerms/Species

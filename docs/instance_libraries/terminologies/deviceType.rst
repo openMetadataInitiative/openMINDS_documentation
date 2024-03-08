@@ -12,6 +12,7 @@ CTscanner
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/CTscanner
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -26,6 +27,7 @@ MRIscanner
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/MRIscanner
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -42,6 +44,7 @@ electronicAmplifier
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/electronicAmplifier
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -58,6 +61,7 @@ microscope
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/microscope
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -74,6 +78,7 @@ microtome
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/microtome
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -90,6 +95,7 @@ vibratingMicrotome
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType

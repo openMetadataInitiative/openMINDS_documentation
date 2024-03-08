@@ -12,6 +12,7 @@ CranialWindowConstructionType
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -26,6 +27,7 @@ CranialWindowReinforcementType
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -40,6 +42,7 @@ UBERONParcellation
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -53,6 +56,7 @@ actionStatusType
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/actionStatusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -66,6 +70,7 @@ ageCategory
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/ageCategory
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -81,6 +86,7 @@ analysisTechnique
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/analysisTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -94,6 +100,7 @@ anatomicalAxesOrientation
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -107,6 +114,7 @@ anatomicalIdentificationType
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -121,6 +129,7 @@ anatomicalPlane
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -137,6 +146,7 @@ annotationCriteriaType
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -151,6 +161,7 @@ annotationType
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/annotationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -165,6 +176,7 @@ atlasType
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/atlasType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -178,6 +190,7 @@ auditoryStimulusType
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -192,6 +205,7 @@ biologicalOrder
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/biologicalOrder
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -205,6 +219,7 @@ biologicalSex
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/biologicalSex
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -218,6 +233,7 @@ breedingType
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/breedingType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -232,6 +248,7 @@ cellCultureType
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/cellCultureType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -246,6 +263,7 @@ cellType
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/cellType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -259,6 +277,7 @@ chemicalMixtureType
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -273,6 +292,7 @@ colormap
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/colormap
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -287,6 +307,7 @@ contributionType
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/contributionType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -300,6 +321,7 @@ criteriaQualityType
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -313,6 +335,7 @@ dataType
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/dataType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -326,6 +349,7 @@ deviceType
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/deviceType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -339,6 +363,7 @@ differenceMeasure
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/differenceMeasure
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -354,6 +379,7 @@ disease
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/disease
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -367,6 +393,7 @@ diseaseModel
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/diseaseModel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -380,6 +407,7 @@ educationalLevel
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/educationalLevel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -394,6 +422,7 @@ electricalStimulusType
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -408,6 +437,7 @@ ethicsAssessment
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -421,6 +451,7 @@ experimentalApproach
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/experimentalApproach
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -434,6 +465,7 @@ fileBundleGrouping
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -447,6 +479,7 @@ fileRepositoryType
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -460,6 +493,7 @@ fileUsageRole
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/fileUsageRole
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -473,6 +507,7 @@ geneticStrainType
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/geneticStrainType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -487,6 +522,7 @@ gustatoryStimulusType
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -501,6 +537,7 @@ handedness
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/handedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -514,6 +551,7 @@ language
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/language
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -527,6 +565,7 @@ laterality
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/laterality
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -540,6 +579,7 @@ learningResourceType
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/learningResourceType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -554,6 +594,7 @@ measuredQuantity
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/measuredQuantity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -568,6 +609,7 @@ metaDataModelType
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/metaDataModelType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -581,6 +623,7 @@ modelAbstractionLevel
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -594,6 +637,7 @@ modelScope
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/modelScope
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -607,6 +651,7 @@ molecularEntity
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/molecularEntity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -624,6 +669,7 @@ olfactoryStimulusType
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -638,6 +684,7 @@ operatingDevice
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/operatingDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -651,6 +698,7 @@ operatingSystem
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/operatingSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -664,6 +712,7 @@ opticalStimulusType
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -678,6 +727,7 @@ organ
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/organ
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -694,6 +744,7 @@ organismSubstance
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/organismSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -709,6 +760,7 @@ organismSystem
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/organismSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -723,6 +775,7 @@ patchClampVariation
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/patchClampVariation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -737,6 +790,7 @@ preparationType
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/preparationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -750,6 +804,7 @@ productAccessibility
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/productAccessibility
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -763,6 +818,7 @@ programmingLanguage
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/programmingLanguage
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -776,6 +832,7 @@ qualitativeOverlap
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -789,6 +846,7 @@ semanticDataType
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/semanticDataType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -802,6 +860,7 @@ service
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/service
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -815,6 +874,7 @@ setupType
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/setupType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -829,6 +889,7 @@ softwareApplicationCategory
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -842,6 +903,7 @@ softwareFeature
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/softwareFeature
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -855,6 +917,7 @@ species
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/species
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -868,6 +931,7 @@ stimulationApproach
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/stimulationApproach
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -881,6 +945,7 @@ stimulationTechnique
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -894,6 +959,7 @@ subcellularEntity
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/subcellularEntity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -911,6 +977,7 @@ subjectAttribute
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/subjectAttribute
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -924,6 +991,7 @@ tactileStimulusType
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -938,6 +1006,7 @@ technique
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/technique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -951,6 +1020,7 @@ tissueSampleAttribute
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -964,6 +1034,7 @@ tissueSampleType
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/tissueSampleType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -977,6 +1048,7 @@ typeOfUncertainty
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -990,6 +1062,7 @@ unitOfMeasurement
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
@@ -1003,6 +1076,7 @@ visualStimulusType
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/terminology/visualStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology

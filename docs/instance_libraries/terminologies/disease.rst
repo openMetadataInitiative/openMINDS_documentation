@@ -12,6 +12,7 @@ acquiredBlindness
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/acquiredBlindness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -28,6 +29,7 @@ alzheimersDisease
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/alzheimersDisease
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -42,6 +44,7 @@ autismSpectrumDisorder
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -56,6 +59,7 @@ cerebralAtrophy
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/cerebralAtrophy
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -72,6 +76,7 @@ congenitalBlindness
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/congenitalBlindness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -86,6 +91,7 @@ disorderOfConsciousness
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/disorderOfConsciousness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -100,6 +106,7 @@ epilepsy
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/epilepsy
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -115,6 +122,7 @@ focalCerebralIschemia
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/focalCerebralIschemia
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -129,6 +137,7 @@ fragileXsyndrome
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/fragileXsyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -143,6 +152,7 @@ glioma
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/glioma
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -160,6 +170,7 @@ malignantNeoplasm
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/malignantNeoplasm
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -176,6 +187,7 @@ meningioma
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/meningioma
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -193,6 +205,7 @@ mentalDisorder
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/mentalDisorder
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -210,6 +223,7 @@ minimallyConsciousState
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/minimallyConsciousState
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -224,6 +238,7 @@ multipleSclerosis
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/multipleSclerosis
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -241,6 +256,7 @@ parkinsonsDisease
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/parkinsonsDisease
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -256,6 +272,7 @@ stroke
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/stroke
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -272,6 +289,7 @@ unresponsiveWakefulnessSyndrome
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/unresponsiveWakefulnessSyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
@@ -286,6 +304,7 @@ williamsBeurenSyndrome
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease

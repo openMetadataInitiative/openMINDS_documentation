@@ -12,6 +12,7 @@ clearedSkullCranialWindow
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/clearedSkullCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
@@ -26,6 +27,7 @@ thinnedSkullCranialWindow
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
@@ -40,6 +42,7 @@ transcranialWindow
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowConstructionType/transcranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType

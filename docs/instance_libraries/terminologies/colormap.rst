@@ -12,6 +12,7 @@ matplotlib.colormaps.Accent
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Accent
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -26,6 +27,7 @@ matplotlib.colormaps.Blues
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Blues
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -40,6 +42,7 @@ matplotlib.colormaps.BrBG
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BrBG
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -54,6 +57,7 @@ matplotlib.colormaps.BuGn
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuGn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -68,6 +72,7 @@ matplotlib.colormaps.BuPu
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.BuPu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -82,6 +87,7 @@ matplotlib.colormaps.CMRmap
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.CMRmap
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -96,6 +102,7 @@ matplotlib.colormaps.Dark2
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Dark2
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -110,6 +117,7 @@ matplotlib.colormaps.GnBu
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.GnBu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -124,6 +132,7 @@ matplotlib.colormaps.Greens
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greens
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -138,6 +147,7 @@ matplotlib.colormaps.Greys
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Greys
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -152,6 +162,7 @@ matplotlib.colormaps.OrRd
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.OrRd
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -166,6 +177,7 @@ matplotlib.colormaps.Oranges
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Oranges
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -180,6 +192,7 @@ matplotlib.colormaps.PRGn
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PRGn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -194,6 +207,7 @@ matplotlib.colormaps.Paired
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Paired
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -208,6 +222,7 @@ matplotlib.colormaps.Pastel1
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel1
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -222,6 +237,7 @@ matplotlib.colormaps.Pastel2
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Pastel2
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -236,6 +252,7 @@ matplotlib.colormaps.PiYG
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PiYG
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -250,6 +267,7 @@ matplotlib.colormaps.PuBu
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -264,6 +282,7 @@ matplotlib.colormaps.PuBuGn
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuBuGn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -278,6 +297,7 @@ matplotlib.colormaps.PuOr
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuOr
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -292,6 +312,7 @@ matplotlib.colormaps.PuRd
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuRd
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -306,6 +327,7 @@ matplotlib.colormaps.Purples
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Purples
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -320,6 +342,7 @@ matplotlib.colormaps.RdBu
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdBu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -334,6 +357,7 @@ matplotlib.colormaps.RdGy
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdGy
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -348,6 +372,7 @@ matplotlib.colormaps.RdPu
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdPu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -362,6 +387,7 @@ matplotlib.colormaps.RdYlBu
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlBu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -376,6 +402,7 @@ matplotlib.colormaps.RdYlGn
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.RdYlGn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -390,6 +417,7 @@ matplotlib.colormaps.Reds
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Reds
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -404,6 +432,7 @@ matplotlib.colormaps.Set1
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set1
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -418,6 +447,7 @@ matplotlib.colormaps.Set2
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set2
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -432,6 +462,7 @@ matplotlib.colormaps.Set3
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Set3
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -446,6 +477,7 @@ matplotlib.colormaps.Spectral
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Spectral
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -460,6 +492,7 @@ matplotlib.colormaps.Wistia
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.Wistia
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -474,6 +507,7 @@ matplotlib.colormaps.YlGn
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -488,6 +522,7 @@ matplotlib.colormaps.YlGnBu
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlGnBu
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -502,6 +537,7 @@ matplotlib.colormaps.YlOrBr
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrBr
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -516,6 +552,7 @@ matplotlib.colormaps.YlOrRd
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.YlOrRd
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -530,6 +567,7 @@ matplotlib.colormaps.afmhot
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.afmhot
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -544,6 +582,7 @@ matplotlib.colormaps.autumn
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.autumn
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -558,6 +597,7 @@ matplotlib.colormaps.binary
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.binary
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -572,6 +612,7 @@ matplotlib.colormaps.bone
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bone
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -586,6 +627,7 @@ matplotlib.colormaps.brg
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.brg
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -600,6 +642,7 @@ matplotlib.colormaps.bwr
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.bwr
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -614,6 +657,7 @@ matplotlib.colormaps.cividis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cividis
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -628,6 +672,7 @@ matplotlib.colormaps.cool
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cool
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -642,6 +687,7 @@ matplotlib.colormaps.coolwarm
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.coolwarm
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -656,6 +702,7 @@ matplotlib.colormaps.copper
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.copper
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -670,6 +717,7 @@ matplotlib.colormaps.cubehelix
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.cubehelix
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -684,6 +732,7 @@ matplotlib.colormaps.flag
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.flag
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -698,6 +747,7 @@ matplotlib.colormaps.gist_earth
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_earth
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -712,6 +762,7 @@ matplotlib.colormaps.gist_gray
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_gray
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -726,6 +777,7 @@ matplotlib.colormaps.gist_heat
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_heat
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -740,6 +792,7 @@ matplotlib.colormaps.gist_ncar
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_ncar
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -754,6 +807,7 @@ matplotlib.colormaps.gist_rainbow
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_rainbow
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -768,6 +822,7 @@ matplotlib.colormaps.gist_stern
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_stern
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -782,6 +837,7 @@ matplotlib.colormaps.gist_yarg
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_yarg
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -796,6 +852,7 @@ matplotlib.colormaps.gnuplot
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -810,6 +867,7 @@ matplotlib.colormaps.gnuplot2
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gnuplot2
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -824,6 +882,7 @@ matplotlib.colormaps.gray
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gray
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -838,6 +897,7 @@ matplotlib.colormaps.hot
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hot
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -852,6 +912,7 @@ matplotlib.colormaps.hsv
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hsv
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -866,6 +927,7 @@ matplotlib.colormaps.inferno
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.inferno
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -880,6 +942,7 @@ matplotlib.colormaps.jet
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.jet
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -894,6 +957,7 @@ matplotlib.colormaps.magma
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.magma
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -908,6 +972,7 @@ matplotlib.colormaps.nipy_spectral
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.nipy_spectral
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -922,6 +987,7 @@ matplotlib.colormaps.ocean
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.ocean
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -936,6 +1002,7 @@ matplotlib.colormaps.pink
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.pink
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -950,6 +1017,7 @@ matplotlib.colormaps.plasma
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.plasma
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -964,6 +1032,7 @@ matplotlib.colormaps.prism
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.prism
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -978,6 +1047,7 @@ matplotlib.colormaps.rainbow
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.rainbow
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -992,6 +1062,7 @@ matplotlib.colormaps.seismic
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.seismic
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1006,6 +1077,7 @@ matplotlib.colormaps.spring
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.spring
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1020,6 +1092,7 @@ matplotlib.colormaps.summer
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.summer
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1034,6 +1107,7 @@ matplotlib.colormaps.tab10
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab10
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1048,6 +1122,7 @@ matplotlib.colormaps.tab20
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1062,6 +1137,7 @@ matplotlib.colormaps.tab20b
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20b
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1076,6 +1152,7 @@ matplotlib.colormaps.tab20c
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab20c
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1090,6 +1167,7 @@ matplotlib.colormaps.terrain
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.terrain
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1104,6 +1182,7 @@ matplotlib.colormaps.turbo
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.turbo
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1118,6 +1197,7 @@ matplotlib.colormaps.twilight
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1132,6 +1212,7 @@ matplotlib.colormaps.twilight_shifted
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.twilight_shifted
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1146,6 +1227,7 @@ matplotlib.colormaps.viridis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.viridis
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap
@@ -1160,6 +1242,7 @@ matplotlib.colormaps.winter
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.winter
    :@type: https://openminds.ebrains.eu/controlledTerms/Colormap

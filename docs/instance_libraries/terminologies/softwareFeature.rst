@@ -12,6 +12,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -26,6 +27,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -39,6 +41,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -52,6 +55,7 @@ augmentedReality
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -66,6 +70,7 @@ commandlineInterface
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -80,6 +85,7 @@ control
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/control
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -94,6 +100,7 @@ dataAcquisition
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -107,6 +114,7 @@ dataProcessing
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -121,6 +129,7 @@ desktopEnvironment
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -135,6 +144,7 @@ graphDataTypes
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -149,6 +159,7 @@ graphicalUserInterface
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -163,6 +174,7 @@ heterogeneousArchitecture
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -177,6 +189,7 @@ interactiveAnalysis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -190,6 +203,7 @@ matrixDataTypes
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -204,6 +218,7 @@ metadataDataTypes
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -218,6 +233,7 @@ mobileDevice
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -232,6 +248,7 @@ modelling
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/modelling
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -246,6 +263,7 @@ parallelProgramming
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -260,6 +278,7 @@ performanceMeasurement
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -274,6 +293,7 @@ positionalDataTypes
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -288,6 +308,7 @@ presentationVisualisation
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -302,6 +323,7 @@ profiling
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/profiling
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -316,6 +338,7 @@ provenance
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/provenance
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -330,6 +353,7 @@ rasterImageDataTypes
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -344,6 +368,7 @@ scriptingInterface
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -357,6 +382,7 @@ simulation
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/simulation
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -371,6 +397,7 @@ statisticalDataTypes
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -385,6 +412,7 @@ tensorDataTypes
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -399,6 +427,7 @@ tiledDisplayWall
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -412,6 +441,7 @@ timeSeriesDataTypes
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -426,6 +456,7 @@ vectorImageDataTypes
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
@@ -440,6 +471,7 @@ virtualReality
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature

@@ -12,6 +12,7 @@ Android
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Android
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -26,6 +27,7 @@ Linux
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -40,6 +42,7 @@ MacOS
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -54,6 +57,7 @@ Solaris
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -68,6 +72,7 @@ Unix
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Unix
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -82,6 +87,7 @@ Windows
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -96,6 +102,7 @@ WindowsPhone
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -110,6 +117,7 @@ iOS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/iOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
@@ -124,6 +132,7 @@ platformIndependent
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem

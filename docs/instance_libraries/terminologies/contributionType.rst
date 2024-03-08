@@ -12,6 +12,7 @@ coordination
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -25,6 +26,7 @@ dataCollection
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -38,6 +40,7 @@ dataManagment
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagment
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -51,6 +54,7 @@ dataProcessing
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -64,6 +68,7 @@ informationTechnologySupport
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -77,6 +82,7 @@ laboratoryAssistance
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -90,6 +96,7 @@ marketing
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/marketing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
@@ -103,6 +110,7 @@ metadataManagment
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType

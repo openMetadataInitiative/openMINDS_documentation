@@ -12,6 +12,7 @@ texturedSurface
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface
    :@type: https://openminds.ebrains.eu/controlledTerms/TactileStimulusType
@@ -25,6 +26,7 @@ vibratingObject
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject
    :@type: https://openminds.ebrains.eu/controlledTerms/TactileStimulusType
@@ -38,6 +40,7 @@ vibratingSurface
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingSurface
    :@type: https://openminds.ebrains.eu/controlledTerms/TactileStimulusType

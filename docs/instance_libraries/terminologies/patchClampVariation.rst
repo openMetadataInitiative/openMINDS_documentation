@@ -12,6 +12,7 @@ cellAttachedPatch
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/cellAttachedPatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
@@ -27,6 +28,7 @@ insideOutPatch
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/insideOutPatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
@@ -42,6 +44,7 @@ loosePatch
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/loosePatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
@@ -57,6 +60,7 @@ outsideOutPatch
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/outsideOutPatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
@@ -72,6 +76,7 @@ perforatedPatch
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/perforatedPatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
@@ -87,6 +92,7 @@ wholeCellPatch
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/patchClampVariation/wholeCellPatch
    :@type: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation

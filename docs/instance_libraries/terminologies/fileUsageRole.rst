@@ -12,6 +12,7 @@ dataDescriptor
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
    :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
@@ -26,6 +27,7 @@ logo
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileUsageRole/logo
    :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
@@ -40,6 +42,7 @@ preview
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileUsageRole/preview
    :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
@@ -54,6 +57,7 @@ screenshot
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
    :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole

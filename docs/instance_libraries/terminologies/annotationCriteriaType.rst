@@ -12,6 +12,7 @@ deterministicAnnotation
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationCriteriaType/deterministicAnnotation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType
@@ -26,6 +27,7 @@ probabalisticAnnotation
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/annotationCriteriaType/probabalisticAnnotation
    :@type: https://openminds.ebrains.eu/controlledTerms/AnnotationCriteriaType

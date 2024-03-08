@@ -12,6 +12,7 @@ primary
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/primary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType
@@ -28,6 +29,7 @@ secondary
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/secondary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType

@@ -12,6 +12,7 @@ AMPL
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -26,6 +27,7 @@ Bash
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -40,6 +42,7 @@ C
 -
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -54,6 +57,7 @@ C#
 --
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C#
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -68,6 +72,7 @@ C++
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C++
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -82,6 +87,7 @@ Fortran
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -96,6 +102,7 @@ GLSL
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -110,6 +117,7 @@ HTML
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -124,6 +132,7 @@ Java
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Java
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -138,6 +147,7 @@ JavaScript
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -152,6 +162,7 @@ MATLAB
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -166,6 +177,7 @@ PHP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -180,6 +192,7 @@ Pascal
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -194,6 +207,7 @@ Python
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Python
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -208,6 +222,7 @@ R
 -
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/R
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -222,6 +237,7 @@ Ruby
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -236,6 +252,7 @@ Scala
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -250,6 +267,7 @@ T-SQL
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -264,6 +282,7 @@ TypeScript
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
@@ -278,6 +297,7 @@ shell
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/shell
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage

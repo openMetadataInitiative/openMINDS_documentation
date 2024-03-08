@@ -12,6 +12,7 @@ floralOdor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/olfactoryStimulusType/floralOdor
    :@type: https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType

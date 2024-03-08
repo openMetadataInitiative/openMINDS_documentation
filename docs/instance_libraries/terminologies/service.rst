@@ -12,6 +12,7 @@ AllenInstituteCellTypesDataPortal
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/AllenInstituteCellTypesDataPortal
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -27,6 +28,7 @@ EBRAINSCollaboratoryLab
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSCollaboratoryLab
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -42,6 +44,7 @@ EBRAINSKnowledgeGraphSearchUI
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSKnowledgeGraphSearchUI
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -57,6 +60,7 @@ EBRAINSModelCatalog
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSModelCatalog
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -72,6 +76,7 @@ ERBAINSCollaboratoryWiki
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/ERBAINSCollaboratoryWiki
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -87,6 +92,7 @@ LocaliZoom
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/LocaliZoom
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -102,6 +108,7 @@ ModelDB
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/ModelDB
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -117,6 +124,7 @@ Multi-Image-OSd
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/Multi-Image-OSd
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -132,6 +140,7 @@ NeuroMorphoDotOrg
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/NeuroMorphoDotOrg
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -147,6 +156,7 @@ Neuroglancer
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/Neuroglancer
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -162,6 +172,7 @@ Zenodo
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/Zenodo
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
@@ -177,6 +188,7 @@ siibraExplorer
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/service/siibraExplorer
    :@type: https://openminds.ebrains.eu/controlledTerms/Service

@@ -12,6 +12,7 @@ asymmetricSynapse
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/asymmetricSynapse
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -26,6 +27,7 @@ axon
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/axon
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -42,6 +44,7 @@ axonTerminal
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/axonTerminal
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -60,6 +63,7 @@ dendrite
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/dendrite
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -76,6 +80,7 @@ dendriticSpine
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/dendriticSpine
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -92,6 +97,7 @@ mitochondrion
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/mitochondrion
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -108,6 +114,7 @@ nerveFiber
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/nerveFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -125,6 +132,7 @@ neurite
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/neurite
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -139,6 +147,7 @@ neurofilament
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/neurofilament
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -155,6 +164,7 @@ nucleus
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/nucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -171,6 +181,7 @@ symmetricSynapse
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/symmetricSynapse
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -185,6 +196,7 @@ synapticBouton
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticBouton
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -201,6 +213,7 @@ synapticProtein
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticProtein
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -217,6 +230,7 @@ synapticVesicle
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticVesicle
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity

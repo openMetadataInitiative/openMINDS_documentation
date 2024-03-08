@@ -12,6 +12,7 @@ alert
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/alert
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -26,6 +27,7 @@ alive
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/alive
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -40,6 +42,7 @@ anaesthetized
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/anaesthetized
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -54,6 +57,7 @@ asleep
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/asleep
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -68,6 +72,7 @@ awake
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/awake
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -82,6 +87,7 @@ comatose
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/comatose
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -96,6 +102,7 @@ control
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/control
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -110,6 +117,7 @@ deceased
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/deceased
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -124,6 +132,7 @@ drugged
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/drugged
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -138,6 +147,7 @@ freelyMoving
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/freelyMoving
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -152,6 +162,7 @@ hasImplantedDevice
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/hasImplantedDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -166,6 +177,7 @@ hasInsertedDevice
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -180,6 +192,7 @@ headRestrained
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/headRestrained
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -194,6 +207,7 @@ knockin
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/knockin
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -208,6 +222,7 @@ knockout
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/knockout
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -222,6 +237,7 @@ postoperative
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/postoperative
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -236,6 +252,7 @@ preoperative
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/preoperative
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -250,6 +267,7 @@ restrained
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/restrained
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -264,6 +282,7 @@ treated
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/treated
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
@@ -278,6 +297,7 @@ untreated
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subjectAttribute/untreated
    :@type: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute

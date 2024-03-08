@@ -12,6 +12,7 @@ carnivora
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -28,6 +29,7 @@ cypriniformes
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -44,6 +46,7 @@ didelphimorphia
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -58,6 +61,7 @@ nudibranchia
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -74,6 +78,7 @@ primates
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/primates
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -90,6 +95,7 @@ rodentia
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder

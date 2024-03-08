@@ -12,6 +12,7 @@ infraredNeuralStimulus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/opticalStimulusType/infraredNeuralStimulus
    :@type: https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType

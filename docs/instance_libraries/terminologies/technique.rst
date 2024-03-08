@@ -12,6 +12,7 @@ Related schema specification: `Technique <https://openminds-documentation.readth
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -26,6 +27,7 @@ Related schema specification: `Technique <https://openminds-documentation.readth
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/3DScanning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -39,6 +41,7 @@ CLARITY_TDE
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/CLARITY_TDE
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -52,6 +55,7 @@ DABStaining
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/DABStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -66,6 +70,7 @@ DAPiStaining
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/DAPiStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -81,6 +86,7 @@ GolgiStaining
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/GolgiStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -97,6 +103,7 @@ HEStaining
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/HEStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -111,6 +118,7 @@ HoechstStaining
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/HoechstStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -126,6 +134,7 @@ NisslStaining
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/NisslStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -140,6 +149,7 @@ SDSDigestedFreezeFractureReplicaLabeling
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/SDSDigestedFreezeFractureReplicaLabeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -153,6 +163,7 @@ SWITCHImmunohistochemistry
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/SWITCHImmunohistochemistry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -166,6 +177,7 @@ T1PulseSequence
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/T1PulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -180,6 +192,7 @@ T2PulseSequence
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/T2PulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -194,6 +207,7 @@ TDEClearing
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/TDEClearing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -207,6 +221,7 @@ TimmsStaining
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/TimmsStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -224,6 +239,7 @@ activityModulationTechnique
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/activityModulationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -237,6 +253,7 @@ anaesthesiaAdministration
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/anaesthesiaAdministration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -250,6 +267,7 @@ anaesthesiaMonitoring
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/anaesthesiaMonitoring
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -263,6 +281,7 @@ anaesthesiaTechnique
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/anaesthesiaTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -276,6 +295,7 @@ anterogradeTracing
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/anterogradeTracing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -291,6 +311,7 @@ autoradiography
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/autoradiography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -306,6 +327,7 @@ avidinBiotinComplexStaining
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/avidinBiotinComplexStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -319,6 +341,7 @@ beta-galactosidaseStaining
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/beta-galactosidaseStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -332,6 +355,7 @@ biocytinStaining
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/biocytinStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -347,6 +371,7 @@ bloodSampling
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/bloodSampling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -363,6 +388,7 @@ brightfieldMicroscopy
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/brightfieldMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -379,6 +405,7 @@ calciumImaging
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/calciumImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -392,6 +419,7 @@ callosotomy
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/callosotomy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -405,6 +433,7 @@ cellAttachedPatchClamp
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -420,6 +449,7 @@ computerTomography
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/computerTomography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -434,6 +464,7 @@ confocalMicroscopy
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/confocalMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -451,6 +482,7 @@ contrastAgentAdministration
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/contrastAgentAdministration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -465,6 +497,7 @@ contrastEnhancement
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/contrastEnhancement
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -478,6 +511,7 @@ cortico-corticalEvokedPotentialMapping
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/cortico-corticalEvokedPotentialMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -492,6 +526,7 @@ craniotomy
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/craniotomy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -505,6 +540,7 @@ cryosectioning
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/cryosectioning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -519,6 +555,7 @@ currentClamp
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/currentClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -533,6 +570,7 @@ diffusionFixationTechnique
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/diffusionFixationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -547,6 +585,7 @@ diffusionTensorImaging
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/diffusionTensorImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -560,6 +599,7 @@ diffusionWeightedImaging
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/diffusionWeightedImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -573,6 +613,7 @@ dualViewInvertedSelectivePlaneIlluminationMicroscopy
 ----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -587,6 +628,7 @@ echoPlanarPulseSequence
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -601,6 +643,7 @@ electrocardiography
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electrocardiography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -615,6 +658,7 @@ electrocorticography
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electrocorticography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -629,6 +673,7 @@ electroencephalography
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -642,6 +687,7 @@ electromyography
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electromyography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -655,6 +701,7 @@ electronMicroscopy
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -671,6 +718,7 @@ electronTomography
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electronTomography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -687,6 +735,7 @@ electrooculography
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electrooculography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -700,6 +749,7 @@ electroporation
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/electroporation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -717,6 +767,7 @@ epidermalElectrophysiologyTechnique
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/epidermalElectrophysiologyTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -731,6 +782,7 @@ epiduralElectrocorticography
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -744,6 +796,7 @@ epifluorescentMicroscopy
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/epifluorescentMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -760,6 +813,7 @@ extracellularElectrophysiology
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -774,6 +828,7 @@ fixationTechnique
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/fixationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -790,6 +845,7 @@ fluorescenceMicroscopy
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/fluorescenceMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -806,6 +862,7 @@ focusedIonBeamScanningElectronMicroscopy
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/focusedIonBeamScanningElectronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -822,6 +879,7 @@ functionalMagneticResonanceImaging
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -835,6 +893,7 @@ geneKnockin
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/geneKnockin
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -848,6 +907,7 @@ geneKnockout
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/geneKnockout
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -861,6 +921,7 @@ gradientEchoPulseSequence
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -875,6 +936,7 @@ heavyMetalNegativeStaining
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -889,6 +951,7 @@ high-resolutionScanning
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/high-resolutionScanning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -902,6 +965,7 @@ high-speedVideoRecording
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/high-speedVideoRecording
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -915,6 +979,7 @@ highDensityElectroencephalography
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/highDensityElectroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -928,6 +993,7 @@ highFieldFunctionalMagneticResonanceImaging
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -941,6 +1007,7 @@ highFieldMagneticResonanceImaging
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/highFieldMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -954,6 +1021,7 @@ highThroughputScanning
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/highThroughputScanning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -968,6 +1036,7 @@ histochemistry
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/histochemistry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -981,6 +1050,7 @@ immunohistochemistry
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/immunohistochemistry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -995,6 +1065,7 @@ immunoprecipitation
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/immunoprecipitation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1008,6 +1079,7 @@ implantSurgery
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/implantSurgery
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1021,6 +1093,7 @@ inSituHybridisation
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/inSituHybridisation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1034,6 +1107,7 @@ infraredDifferentialInterferenceContrastVideoMicroscopy
 -------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/infraredDifferentialInterferenceContrastVideoMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1049,6 +1123,7 @@ injection
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/injection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1062,6 +1137,7 @@ intracellularElectrophysiology
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1079,6 +1155,7 @@ intracellularInjection
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intracellularInjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1092,6 +1169,7 @@ intracranialElectroencephalography
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intracranialElectroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1105,6 +1183,7 @@ intraperitonealInjection
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intraperitonealInjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1119,6 +1198,7 @@ intravenousInjection
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/intravenousInjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1133,6 +1213,7 @@ iontophoresis
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/iontophoresis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1146,6 +1227,7 @@ iontophoreticMicroinjection
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/iontophoreticMicroinjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1159,6 +1241,7 @@ lightMicroscopy
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/lightMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1175,6 +1258,7 @@ lightSheetFluorescenceMicroscopy
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/lightSheetFluorescenceMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1191,6 +1275,7 @@ magneticResonanceImaging
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/magneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1206,6 +1291,7 @@ magneticResonanceSpectroscopy
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/magneticResonanceSpectroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1219,6 +1305,7 @@ magnetoencephalography
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/magnetoencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1235,6 +1322,7 @@ massSpectrometry
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/massSpectrometry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1248,6 +1336,7 @@ microtomeSectioning
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/microtomeSectioning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1265,6 +1354,7 @@ multiElectrodeExtracellularElectrophysiology
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1278,6 +1368,7 @@ multipleWholeCellPatchClamp
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/multipleWholeCellPatchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1291,6 +1382,7 @@ myelinStaining
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/myelinStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1307,6 +1399,7 @@ nucleicAcidExtraction
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/nucleicAcidExtraction
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1321,6 +1414,7 @@ optogeneticInhibition
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/optogeneticInhibition
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1335,6 +1429,7 @@ oralAdministration
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/oralAdministration
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1349,6 +1444,7 @@ organExtraction
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/organExtraction
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1362,6 +1458,7 @@ patchClamp
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/patchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1375,6 +1472,7 @@ perfusionFixationTechnique
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1389,6 +1487,7 @@ perfusionTechnique
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/perfusionTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1404,6 +1503,7 @@ phaseContrastXRayComputedTomography
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1418,6 +1518,7 @@ phaseContrastXRayImaging
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/phaseContrastXRayImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1432,6 +1533,7 @@ photoactivation
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/photoactivation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1445,6 +1547,7 @@ photoinactivation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/photoinactivation
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1458,6 +1561,7 @@ photoplethysmography
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/photoplethysmography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1474,6 +1578,7 @@ polarizedLightMicroscopy
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/polarizedLightMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1490,6 +1595,7 @@ populationReceptiveFieldMapping
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/populationReceptiveFieldMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1503,6 +1609,7 @@ positronEmissionTomography
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/positronEmissionTomography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1516,6 +1623,7 @@ pressureInjection
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/pressureInjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1530,6 +1638,7 @@ primaryAntibodyStaining
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/primaryAntibodyStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1543,6 +1652,7 @@ pseudoContinuousArterialSpinLabeling
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/pseudoContinuousArterialSpinLabeling
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1556,6 +1666,7 @@ psychologicalTesting
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/psychologicalTesting
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1570,6 +1681,7 @@ quantitativeMagneticResonanceImaging
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1583,6 +1695,7 @@ receptiveFieldMapping
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/receptiveFieldMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1597,6 +1710,7 @@ retinotopicMapping
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/retinotopicMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1611,6 +1725,7 @@ retrogradeTracing
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/retrogradeTracing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1626,6 +1741,7 @@ scanningElectronMicroscopy
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/scanningElectronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1642,6 +1758,7 @@ scatteredLightImaging
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/scatteredLightImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1655,6 +1772,7 @@ secondaryAntibodyStaining
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/secondaryAntibodyStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1668,6 +1786,7 @@ serialBlockFaceScanningElectronMicroscopy
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/serialBlockFaceScanningElectronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1682,6 +1801,7 @@ serialSectionTransmissionElectronMicroscopy
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/serialSectionTransmissionElectronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1696,6 +1816,7 @@ sharpElectrodeIntracellularElectrophysiology
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/sharpElectrodeIntracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1713,6 +1834,7 @@ silverStaining
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/silverStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1730,6 +1852,7 @@ singleElectrodeExtracellularElectrophysiology
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/singleElectrodeExtracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1743,6 +1866,7 @@ singleElectrodeJuxtacellularElectrophysiology
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1756,6 +1880,7 @@ sodiumMRI
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/sodiumMRI
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1770,6 +1895,7 @@ sonography
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/sonography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1783,6 +1909,7 @@ spinEchoPulseSequence
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/spinEchoPulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1797,6 +1924,7 @@ stereoelectroencephalography
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1811,6 +1939,7 @@ stereology
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/stereology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1827,6 +1956,7 @@ stereotacticSurgery
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/stereotacticSurgery
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1840,6 +1970,7 @@ structuralNeuroimaging
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/structuralNeuroimaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1853,6 +1984,7 @@ subcutaneousInjection
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/subcutaneousInjection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1867,6 +1999,7 @@ subduralElectrocorticography
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/subduralElectrocorticography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1880,6 +2013,7 @@ tetrodeExtracellularElectrophysiology
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/tetrodeExtracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1893,6 +2027,7 @@ time-of-flightMagneticResonanceAngiography
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/time-of-flightMagneticResonanceAngiography
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1907,6 +2042,7 @@ tissueClearing
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/tissueClearing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1920,6 +2056,7 @@ transcardialPerfusionFixationTechnique
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/transcardialPerfusionFixationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1934,6 +2071,7 @@ transcardialPerfusionTechnique
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/transcardialPerfusionTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1950,6 +2088,7 @@ transmissionElectronMicroscopy
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/transmissionElectronMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1964,6 +2103,7 @@ twoPhotonFluorescenceMicroscopy
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/twoPhotonFluorescenceMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1980,6 +2120,7 @@ ultraHighFieldFunctionalMagneticResonanceImaging
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -1994,6 +2135,7 @@ ultraHighFieldMagneticResonanceImaging
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2008,6 +2150,7 @@ ultraHighFieldMagneticResonanceSpectroscopy
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceSpectroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2022,6 +2165,7 @@ vibratomeSectioning
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/vibratomeSectioning
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2035,6 +2179,7 @@ videoTracking
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/videoTracking
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2048,6 +2193,7 @@ virus-mediatedTransfection
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/virus-mediatedTransfection
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2061,6 +2207,7 @@ voltageClamp
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/voltageClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2075,6 +2222,7 @@ voltageSensitiveDyeImaging
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2089,6 +2237,7 @@ weightedCorrelationNetworkAnalysis
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/weightedCorrelationNetworkAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2103,6 +2252,7 @@ wholeCellPatchClamp
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/wholeCellPatchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
@@ -2117,6 +2267,7 @@ widefieldFluorescenceMicroscopy
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique

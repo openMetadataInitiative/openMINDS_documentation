@@ -12,6 +12,7 @@ ampere
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/ampere
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -27,6 +28,7 @@ arcdegree
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -41,6 +43,7 @@ bit
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/bit
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -54,6 +57,7 @@ byte
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/byte
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -67,6 +71,7 @@ centimeter
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/centimeter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -80,6 +85,7 @@ coreHour
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/coreHour
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -94,6 +100,7 @@ day
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/day
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -107,6 +114,7 @@ degreeCelsius
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -121,6 +129,7 @@ degreeFahrenheit
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeFahrenheit
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -135,6 +144,7 @@ degreeRankine
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeRankine
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -149,6 +159,7 @@ embryonicDay
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/embryonicDay
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -163,6 +174,7 @@ gigabyte
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigabyte
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -176,6 +188,7 @@ gigaohm
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gigaohm
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -189,6 +202,7 @@ gram
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/gram
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -202,6 +216,7 @@ hertz
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/hertz
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -217,6 +232,7 @@ hour
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/hour
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -230,6 +246,7 @@ kilobyte
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilobyte
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -243,6 +260,7 @@ kilogram
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilogram
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -256,6 +274,7 @@ liter
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/liter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -269,6 +288,7 @@ megabyte
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/megabyte
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -282,6 +302,7 @@ megaohm
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/megaohm
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -295,6 +316,7 @@ meter
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/meter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -308,6 +330,7 @@ microampere
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -323,6 +346,7 @@ microgramPerMilliliter
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/microgramPerMilliliter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -336,6 +360,7 @@ micrometer
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/micrometer
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -349,6 +374,7 @@ micromolar
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/micromolar
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -363,6 +389,7 @@ milligramPerKilogramBodyWeight
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerKilogramBodyWeight
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -377,6 +404,7 @@ milligramPerMilliliter
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milligramPerMilliliter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -390,6 +418,7 @@ milliliter
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/milliliter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -403,6 +432,7 @@ millimeter
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimeter
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -416,6 +446,7 @@ millimolar
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millimolar
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -430,6 +461,7 @@ millisecond
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisecond
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -443,6 +475,7 @@ millisiemens
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -458,6 +491,7 @@ millivolt
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/millivolt
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -473,6 +507,7 @@ minute
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/minute
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -486,6 +521,7 @@ molar
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/molar
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -500,6 +536,7 @@ month
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/month
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -513,6 +550,7 @@ nanoampere
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanoampere
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -527,6 +565,7 @@ nanomolar
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/nanomolar
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -541,6 +580,7 @@ ohm
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/ohm
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -555,6 +595,7 @@ percentage
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -569,6 +610,7 @@ picoampere
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/picoampere
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -584,6 +626,7 @@ radian
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/radian
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -599,6 +642,7 @@ second
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/second
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -612,6 +656,7 @@ siemens
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -627,6 +672,7 @@ terabyte
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/terabyte
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -640,6 +686,7 @@ volt
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/volt
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -655,6 +702,7 @@ volumePerVolumePercentage
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/volumePerVolumePercentage
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -669,6 +717,7 @@ waferHour
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/waferHour
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -684,6 +733,7 @@ week
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/week
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -697,6 +747,7 @@ weightPerVolumePercentage
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -711,6 +762,7 @@ weightPerWeightPercentage
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerWeightPercentage
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
@@ -725,6 +777,7 @@ year
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/year
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement

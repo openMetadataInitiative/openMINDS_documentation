@@ -12,6 +12,7 @@ algorithm
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -26,6 +27,7 @@ cognitiveModelling
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -40,6 +42,7 @@ populationModelling
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -54,6 +57,7 @@ populationModelling-neuralField
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -68,6 +72,7 @@ populationModelling-neuralMass
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -82,6 +87,7 @@ proteinStructure
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -96,6 +102,7 @@ rateNeurons
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -110,6 +117,7 @@ spikingNeurons
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -124,6 +132,7 @@ spikingNeurons-biophysical
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -138,6 +147,7 @@ spikingNeurons-pointNeuron
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -152,6 +162,7 @@ statisticalModel
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -166,6 +177,7 @@ systemsBiology
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -180,6 +192,7 @@ systemsBiology-continuous
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -194,6 +207,7 @@ systemsBiology-discrete
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
@@ -208,6 +222,7 @@ systemsBiology-fluxBalance
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel

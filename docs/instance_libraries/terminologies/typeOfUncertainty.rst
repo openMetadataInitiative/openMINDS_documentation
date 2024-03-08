@@ -12,6 +12,7 @@ standardDeviation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
    :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
@@ -25,6 +26,7 @@ standardError
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
    :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty

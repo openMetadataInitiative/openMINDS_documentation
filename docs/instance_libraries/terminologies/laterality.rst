@@ -12,6 +12,7 @@ left
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/laterality/left
    :@type: https://openminds.ebrains.eu/controlledTerms/Laterality
@@ -25,6 +26,7 @@ right
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/laterality/right
    :@type: https://openminds.ebrains.eu/controlledTerms/Laterality

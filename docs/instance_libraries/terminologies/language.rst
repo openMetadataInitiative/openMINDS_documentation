@@ -12,6 +12,7 @@ dutch
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/dutch
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -25,6 +26,7 @@ english
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/english
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -38,6 +40,7 @@ french
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/french
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -51,6 +54,7 @@ german
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/german
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -64,6 +68,7 @@ greek
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/greek
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -77,6 +82,7 @@ italian
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/italian
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -90,6 +96,7 @@ norwegian
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/norwegian
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -103,6 +110,7 @@ spanish
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/spanish
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
@@ -116,6 +124,7 @@ swedish
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/language/swedish
    :@type: https://openminds.ebrains.eu/controlledTerms/Language

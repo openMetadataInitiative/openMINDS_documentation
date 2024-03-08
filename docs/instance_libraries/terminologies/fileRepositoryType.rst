@@ -12,6 +12,7 @@ ftp
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/ftp
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -26,6 +27,7 @@ git
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/git
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -40,6 +42,7 @@ gitAnnex
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/gitAnnex
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -54,6 +57,7 @@ gpfs
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/gpfs
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -68,6 +72,7 @@ s3
 --
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/s3
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -82,6 +87,7 @@ seafile
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/seafile
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
@@ -96,6 +102,7 @@ swift
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileRepositoryType/swift
    :@type: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType

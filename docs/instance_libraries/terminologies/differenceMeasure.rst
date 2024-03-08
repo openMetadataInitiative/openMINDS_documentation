@@ -12,6 +12,7 @@ chiSquaredStatistic
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
@@ -26,6 +27,7 @@ kolmogorovSmirnovStatistic
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
@@ -40,6 +42,7 @@ kullbackLeiblerDivergence
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
@@ -54,6 +57,7 @@ meanSquaredError
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
@@ -68,6 +72,7 @@ t_statistic
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
@@ -82,6 +87,7 @@ z_score
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure

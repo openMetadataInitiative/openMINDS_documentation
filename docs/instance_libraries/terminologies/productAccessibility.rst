@@ -12,6 +12,7 @@ controlledAccess
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
@@ -26,6 +27,7 @@ freeAccess
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/freeAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
@@ -40,6 +42,7 @@ restrictedAccess
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
@@ -54,6 +57,7 @@ underEmbargo
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility

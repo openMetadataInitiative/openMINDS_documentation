@@ -12,6 +12,7 @@ landmarkBased
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
@@ -26,6 +27,7 @@ stereotactic
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType

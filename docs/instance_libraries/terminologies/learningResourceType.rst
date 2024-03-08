@@ -12,6 +12,7 @@ developerDocumentation
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
@@ -26,6 +27,7 @@ interactiveTutorial
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
@@ -40,6 +42,7 @@ slideDeck
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
@@ -54,6 +57,7 @@ userDocumentation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
@@ -68,6 +72,7 @@ videoPresentation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
@@ -82,6 +87,7 @@ videoTutorial
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType

@@ -12,6 +12,7 @@ GRINLensBasedCranialWindow
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
@@ -26,6 +27,7 @@ crystallineBasedCranialWindow
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
@@ -40,6 +42,7 @@ glassCoverslipCranialWindow
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
@@ -54,6 +57,7 @@ polymerBasedCranialWindow
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
@@ -68,6 +72,7 @@ prismBasedCranialWindow
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType

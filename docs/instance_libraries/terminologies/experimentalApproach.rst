@@ -12,6 +12,7 @@ anatomy
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/anatomy
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -28,6 +29,7 @@ behavior
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/behavior
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -44,6 +46,7 @@ biophysics
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/biophysics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -59,6 +62,7 @@ cellBiology
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -75,6 +79,7 @@ cellMorphology
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellMorphology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -91,6 +96,7 @@ cellPopulationCharacterization
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharacterization
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -107,6 +113,7 @@ cellPopulationImaging
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -123,6 +130,7 @@ cellPopulationManipulation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipulation
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -139,6 +147,7 @@ chemogenetics
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -153,6 +162,7 @@ clinicalResearch
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -169,6 +179,7 @@ computationalModeling
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/computationalModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -185,6 +196,7 @@ developmentalBiology
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -201,6 +213,7 @@ ecology
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/ecology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -217,6 +230,7 @@ electrophysiology
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -233,6 +247,7 @@ epidemiology
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/epidemiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -249,6 +264,7 @@ epigenomics
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -265,6 +281,7 @@ ethology
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/ethology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -281,6 +298,7 @@ evolutionaryBiology
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -297,6 +315,7 @@ expression
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/expression
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -313,6 +332,7 @@ expressionCharacterization
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacterization
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -329,6 +349,7 @@ genetics
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/genetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -343,6 +364,7 @@ genomics
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/genomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -359,6 +381,7 @@ histology
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/histology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -375,6 +398,7 @@ informatics
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/informatics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -389,6 +413,7 @@ metabolomics
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -405,6 +430,7 @@ microscopy
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/microscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -421,6 +447,7 @@ morphology
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/morphology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -437,6 +464,7 @@ multimodalResearch
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -453,6 +481,7 @@ multiomics
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/multiomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -469,6 +498,7 @@ neuralConnectivity
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -485,6 +515,7 @@ neuroimaging
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -501,6 +532,7 @@ omics
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/omics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -517,6 +549,7 @@ optogenetics
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -531,6 +564,7 @@ pharmacology
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -547,6 +581,7 @@ physiology
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/physiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -563,6 +598,7 @@ proteomics
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/proteomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -579,6 +615,7 @@ radiology
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/radiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -595,6 +632,7 @@ spatialTranscriptomics
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -611,6 +649,7 @@ transcriptomics
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach

@@ -12,6 +12,7 @@ brain
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/brain
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -30,6 +31,7 @@ heart
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/heart
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -48,6 +50,7 @@ liver
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/liver
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -66,6 +69,7 @@ muscle
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/muscle
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -83,6 +87,7 @@ skin
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/skin
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ

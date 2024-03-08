@@ -12,6 +12,7 @@ arterialBlood
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/arterialBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
@@ -30,6 +31,7 @@ blood
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/blood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
@@ -48,6 +50,7 @@ venousBlood
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/venousBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance

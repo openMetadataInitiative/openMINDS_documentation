@@ -12,6 +12,7 @@ behavioralProtocol
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralProtocol
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -25,6 +26,7 @@ coordinateSpace
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/coordinateSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -38,6 +40,7 @@ protocol
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/protocol
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -51,6 +54,7 @@ studyTarget
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -64,6 +68,7 @@ subject
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/subject
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -77,6 +82,7 @@ subjectGroup
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/subjectGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -90,6 +96,7 @@ technique
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/technique
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -103,6 +110,7 @@ tissueSample
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
@@ -116,6 +124,7 @@ tissueSampleCollection
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSampleCollection
    :@type: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping

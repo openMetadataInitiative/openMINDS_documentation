@@ -12,6 +12,7 @@ cardiovascularSystem
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -29,6 +30,7 @@ centralNervousSystem
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -47,6 +49,7 @@ cholinergicSystem
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -64,6 +67,7 @@ digestiveSystem
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -81,6 +85,7 @@ gabaergicSystem
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -98,6 +103,7 @@ glutamatergicSystem
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -114,6 +120,7 @@ musculoskeletalSystem
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -132,6 +139,7 @@ noradrenergicSystem
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -149,6 +157,7 @@ serotonergicSystem
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -166,6 +175,7 @@ vascularSystem
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem

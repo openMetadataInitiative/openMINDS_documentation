@@ -12,6 +12,7 @@ CA1Alveus
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -30,6 +31,7 @@ CA1FieldOfHippocampus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -48,6 +50,7 @@ CA1StratumLacunosumMoleculare
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -66,6 +69,7 @@ CA1StratumOriens
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumOriens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -84,6 +88,7 @@ CA1StratumRadiatum
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -102,6 +107,7 @@ CA2FieldOfHippocampus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -119,6 +125,7 @@ CA2StratumRadiatum
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -137,6 +144,7 @@ CA3Alveus
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -155,6 +163,7 @@ CA3FieldOfHippocampus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -172,6 +181,7 @@ CA3StratumRadiatum
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -190,6 +200,7 @@ abducensNucleus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -208,6 +219,7 @@ accessoryAbducensNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryAbducensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -226,6 +238,7 @@ accessoryBasalAmygdaloidNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -244,6 +257,7 @@ accessoryCuneateNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -262,6 +276,7 @@ accessoryMedullaryLaminaOfGlobusPallidus
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -280,6 +295,7 @@ accessoryNerveFiberBundle
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -298,6 +314,7 @@ accessoryNerveRoot
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -316,6 +333,7 @@ adenohypophysis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -334,6 +352,7 @@ aggregateRegionalPartOfBrain
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -352,6 +371,7 @@ alarCentralLobule
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -370,6 +390,7 @@ allocortex
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -388,6 +409,7 @@ amiculumOfDentateNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -406,6 +428,7 @@ ammonsHorn
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -424,6 +447,7 @@ amygdala
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -442,6 +466,7 @@ angularGyrus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/angularGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -460,6 +485,7 @@ annectantGyrus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/annectantGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -478,6 +504,7 @@ ansaLenticularis
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -496,6 +523,7 @@ ansiformLobuleCrusI
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -512,6 +540,7 @@ ansiformLobuleCrusII
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -528,6 +557,7 @@ anteriorAmygdaloidArea
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -546,6 +576,7 @@ anteriorCalcarineSulcus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -563,6 +594,7 @@ anteriorCingulateCortex
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -581,6 +613,7 @@ anteriorCingulateGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -599,6 +632,7 @@ anteriorColumnOfFornix
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -617,6 +651,7 @@ anteriorCommissure
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -635,6 +670,7 @@ anteriorCommissureAnteriorPart
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissureAnteriorPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -653,6 +689,7 @@ anteriorHornOfLateralVentricle
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -671,6 +708,7 @@ anteriorHypothalamicRegion
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -689,6 +727,7 @@ anteriorLimbOfInternalCapsule
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -707,6 +746,7 @@ anteriorLobeOfCerebellum
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLobeOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -724,6 +764,7 @@ anteriorMedianEminence
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -742,6 +783,7 @@ anteriorMedianOculomotorNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -760,6 +802,7 @@ anteriorNuclearGroup
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -778,6 +821,7 @@ anteriorNucleusOfHypothalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -796,6 +840,7 @@ anteriorNucleusOfHypothalamusCentralPart
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -814,6 +859,7 @@ anteriorNucleusOfHypothalamusDorsalPart
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -832,6 +878,7 @@ anteriorNucleusOfHypothalamusPosteriorPart
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -850,6 +897,7 @@ anteriorOlfactoryNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -868,6 +916,7 @@ anteriorParietooccipitalSulcus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParietooccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -885,6 +934,7 @@ anteriorPerforatedSubstance
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -903,6 +953,7 @@ anteriorPretectalNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -921,6 +972,7 @@ anteriorQuadrangularLobule
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -938,6 +990,7 @@ anteriorThalamicRadiation
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -956,6 +1009,7 @@ anteriorTransverseTemporalGyrus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -974,6 +1028,7 @@ anterodorsalNucleusOfMedialGeniculateBody
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -992,6 +1047,7 @@ anterodorsalNucleusOfThalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1010,6 +1066,7 @@ anteromedialNucleusOfThalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1028,6 +1085,7 @@ anteroventralCochlearNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1046,6 +1104,7 @@ anteroventralNucleusOfThalamus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1064,6 +1123,7 @@ anteroventralPreopticNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1082,6 +1142,7 @@ arcopallium
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1100,6 +1161,7 @@ arcuateFasciculus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1118,6 +1180,7 @@ arcuateNucleusOfHypothalamus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1136,6 +1199,7 @@ arcuateNucleusOfMedulla
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1154,6 +1218,7 @@ areaPostrema
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1172,6 +1237,7 @@ areaXOfBasalGanglion
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1190,6 +1256,7 @@ areaXOfVentralLateralNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1208,6 +1275,7 @@ arthropodOpticLobe
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1226,6 +1294,7 @@ auditoryCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1244,6 +1313,7 @@ banksOfSuperiorTemporalSulcus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1262,6 +1332,7 @@ barrelCortex
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1280,6 +1351,7 @@ basalAmygdaloidNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1298,6 +1370,7 @@ basalForebrain
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1316,6 +1389,7 @@ basalGanglion
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1334,6 +1408,7 @@ basalNuclearComplex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1352,6 +1427,7 @@ basalNucleusOfTelencephalon
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1370,6 +1446,7 @@ basalPartOfPons
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1388,6 +1465,7 @@ basolateralAmygdaloidNuclearComplex
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1406,6 +1484,7 @@ bedNucleusOfStriaTerminalis
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bedNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1424,6 +1503,7 @@ bloodcerebrospinalFluidBarrier
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1442,6 +1522,7 @@ bodyOfCaudateNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1460,6 +1541,7 @@ bodyOfCorpusCallosum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1478,6 +1560,7 @@ bodyOfFornix
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1496,6 +1579,7 @@ bodyOfLateralVentricle
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1514,6 +1598,7 @@ brachiumOfInferiorColliculus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1532,6 +1617,7 @@ brachiumOfSuperiorColliculus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1550,6 +1636,7 @@ brainBloodVessel
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1567,6 +1654,7 @@ brainEndothelium
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1585,6 +1673,7 @@ brainEpendyma
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1603,6 +1692,7 @@ brainGrayMatter
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1620,6 +1710,7 @@ brainMarginalZone
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1638,6 +1729,7 @@ brainMeninx
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1655,6 +1747,7 @@ brainVentricle
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1672,6 +1765,7 @@ brainVentriclechoroidPlexus
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentriclechoroidPlexus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1689,6 +1783,7 @@ brainWhiteMatter
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1707,6 +1802,7 @@ brainstem
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1725,6 +1821,7 @@ calcarineSulcus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1743,6 +1840,7 @@ calcifiedStructureOfBrain
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1760,6 +1858,7 @@ capsuleOfMedialGeniculateBody
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1778,6 +1877,7 @@ capsuleOfRedNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1796,6 +1896,7 @@ caudalAnteriorCingulateCortex
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1814,6 +1915,7 @@ caudalCentralOculomotorNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCentralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1832,6 +1934,7 @@ caudalMiddleFrontalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1850,6 +1953,7 @@ caudalPartOfSpinalTrigeminalNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1868,6 +1972,7 @@ caudalPartOfVentralLateralNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1886,6 +1991,7 @@ caudalPartOfVentralPosterolateralNucleusOfThalamus
 --------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1904,6 +2010,7 @@ caudalPontineReticularNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPontineReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1922,6 +2029,7 @@ caudateNucleus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1940,6 +2048,7 @@ caudateputamen
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1958,6 +2067,7 @@ centralAmygdaloidNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1976,6 +2086,7 @@ centralCervicalSpinocerebellarTract
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralCervicalSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -1994,6 +2105,7 @@ centralDorsalNucleusOfThalamus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2012,6 +2124,7 @@ centralGraySubstanceOfMedulla
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2030,6 +2143,7 @@ centralGraySubstanceOfMidbrain
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2048,6 +2162,7 @@ centralGraySubstanceOfPons
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2066,6 +2181,7 @@ centralLateralNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2084,6 +2200,7 @@ centralLobule
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2102,6 +2219,7 @@ centralMedialNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2120,6 +2238,7 @@ centralNucleusOfInferiorColliculus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2138,6 +2257,7 @@ centralOculomotorNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2156,6 +2276,7 @@ centralSulcus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2174,6 +2295,7 @@ centralTegmentalTractOfMidbrain
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2192,6 +2314,7 @@ centralTegmentalTractOfPons
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2210,6 +2333,7 @@ centromedianNucleusOfThalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centromedianNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2228,6 +2352,7 @@ cephalopodOpticLobe
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2246,6 +2371,7 @@ cerebellarCortex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2264,6 +2390,7 @@ cerebellarLayer
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2281,6 +2408,7 @@ cerebellarNuclearComplex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2299,6 +2427,7 @@ cerebellarPlate
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2317,6 +2446,7 @@ cerebellarVermis
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2334,6 +2464,7 @@ cerebellum
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2352,6 +2483,7 @@ cerebellumFissure
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2370,6 +2502,7 @@ cerebellumGloboseNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2388,6 +2521,7 @@ cerebellumHemisphericLobuleX
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2405,6 +2539,7 @@ cerebellumIntermediateZone
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2423,6 +2558,7 @@ cerebellumInterpositusNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInterpositusNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2441,6 +2577,7 @@ cerebellumMarginalLayer
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2458,6 +2595,7 @@ cerebellumVasculature
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2476,6 +2614,7 @@ cerebellumVermisCulmen
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisCulmen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2493,6 +2632,7 @@ cerebellumVermisLobule
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2511,6 +2651,7 @@ cerebellumVermisLobuleI
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2527,6 +2668,7 @@ cerebellumVermisLobuleIX
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2545,6 +2687,7 @@ cerebellumVermisLobuleX
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2561,6 +2704,7 @@ cerebralBloodVessel
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2579,6 +2723,7 @@ cerebralCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2597,6 +2742,7 @@ cerebralCortexMarginalLayer
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2615,6 +2761,7 @@ cerebralCrus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2633,6 +2780,7 @@ cerebralHemisphere
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2651,6 +2799,7 @@ cerebralHemisphereWhiteMatter
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2669,6 +2818,7 @@ cerebralPeduncle
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2687,6 +2837,7 @@ cerebralSubcortex
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2705,6 +2856,7 @@ cerebrospinalFluid
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebrospinalFluid
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2723,6 +2875,7 @@ chemoarchitecturalPartOfBrain
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2741,6 +2894,7 @@ chemoarchitecturalPartOfStriatum
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2758,6 +2912,7 @@ choroidPlexus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2776,6 +2931,7 @@ choroidPlexusCorporaArenacea
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusCorporaArenacea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2794,6 +2950,7 @@ choroidPlexusEpithelium
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2812,6 +2969,7 @@ choroidPlexusOfFourthVentricle
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2830,6 +2988,7 @@ choroidPlexusOfLateralVentricle
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2848,6 +3007,7 @@ choroidPlexusOfThirdVentricle
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2866,6 +3026,7 @@ choroidPlexusStroma
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2884,6 +3045,7 @@ cingulateCortex
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2902,6 +3064,7 @@ cingulateGyrus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2920,6 +3083,7 @@ cingulateSulcus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2938,6 +3102,7 @@ cingulumOfBrain
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2956,6 +3121,7 @@ circularSulcusOfInsula
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2973,6 +3139,7 @@ circumventricularOrgan
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circumventricularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -2991,6 +3158,7 @@ claustralAmygdaloidArea
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3009,6 +3177,7 @@ claustrumOfBrain
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3027,6 +3196,7 @@ cochlearNuclearComplex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3045,6 +3215,7 @@ collateralSulcus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3063,6 +3234,7 @@ collectionOfBasalGanglia
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3080,6 +3252,7 @@ commissuralNucleusOfTheSolitaryTract
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3098,6 +3271,7 @@ commissuralNucleusOfVagusNerve
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3116,6 +3290,7 @@ compositePartSpanningMultipleBaseRegionalPartsOfBrain
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3134,6 +3309,7 @@ copulaPyramidis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/copulaPyramidis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3152,6 +3328,7 @@ coreOfNucleusAccumbens
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3170,6 +3347,7 @@ coronaRadiataOfNeuraxis
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coronaRadiataOfNeuraxis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3188,6 +3366,7 @@ corpusCallosum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3206,6 +3385,7 @@ corpusStriatum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3224,6 +3404,7 @@ corticalAmygdaloidNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3242,6 +3423,7 @@ corticalLayerI
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3259,6 +3441,7 @@ corticalLayerII
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3276,6 +3459,7 @@ corticalLayerIII
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3293,6 +3477,7 @@ corticalLayerIV
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3310,6 +3495,7 @@ corticalLayerV
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3327,6 +3513,7 @@ corticalLayerVI
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerVI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3344,6 +3531,7 @@ corticomedialNuclearComplex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3362,6 +3550,7 @@ corticospinalTract
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3379,6 +3568,7 @@ corticotectalTract
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3397,6 +3587,7 @@ cranialNerveII
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3414,6 +3605,7 @@ cuneateFasciculusOfMedulla
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3432,6 +3624,7 @@ cuneiformNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3450,6 +3643,7 @@ cuneocerebellarTract
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3468,6 +3662,7 @@ cuneusCortex
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3486,6 +3681,7 @@ cytoarchitecturalPartOfDentateGyrus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3504,6 +3700,7 @@ decussationOfSuperiorCerebellarPeduncle
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3522,6 +3719,7 @@ decussationOfTrochlearNerve
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfTrochlearNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3540,6 +3738,7 @@ densocellularPartOfMedialDorsalNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3558,6 +3757,7 @@ dentateGyrusGranuleCellLayer
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3576,6 +3776,7 @@ dentateGyrusMolecularLayer
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3594,6 +3795,7 @@ dentateGyrusOfHippocampalFormation
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3612,6 +3814,7 @@ dentateNucleus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3630,6 +3833,7 @@ dentatothalamicTract
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3648,6 +3852,7 @@ diagonalBandOfBroca
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3666,6 +3871,7 @@ diencephalon
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3684,6 +3890,7 @@ diffuseReticularNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diffuseReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3702,6 +3909,7 @@ dorsalAccessoryInferiorOlivaryNucleus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3720,6 +3928,7 @@ dorsalAcousticStria
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3738,6 +3947,7 @@ dorsalCapOfKooy
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCapOfKooy
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3756,6 +3966,7 @@ dorsalCochlearNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3774,6 +3985,7 @@ dorsalColumnNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3792,6 +4004,7 @@ dorsalExternalArcuateFiberBundle
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3810,6 +4023,7 @@ dorsalHypothalamicArea
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3828,6 +4042,7 @@ dorsalLongitudinalFasciculus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3846,6 +4061,7 @@ dorsalLongitudinalFasciculusOfHypothalamus
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3864,6 +4080,7 @@ dorsalLongitudinalFasciculusOfMedulla
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3882,6 +4099,7 @@ dorsalLongitudinalFasciculusOfMidbrain
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3900,6 +4118,7 @@ dorsalLongitudinalFasciculusOfPons
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3918,6 +4137,7 @@ dorsalMotorNucleusOfVagusNerve
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3936,6 +4156,7 @@ dorsalNucleusOfLateralLemniscus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3954,6 +4175,7 @@ dorsalNucleusOfMedialGeniculateBody
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3972,6 +4194,7 @@ dorsalNucleusOfTrapezoidBody
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -3990,6 +4213,7 @@ dorsalOculomotorNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4008,6 +4232,7 @@ dorsalPallidum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4026,6 +4251,7 @@ dorsalParamedianReticularNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalParamedianReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4044,6 +4270,7 @@ dorsalPlusVentralThalamus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPlusVentralThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4062,6 +4289,7 @@ dorsalRapheNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4080,6 +4308,7 @@ dorsalSeptalNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4098,6 +4327,7 @@ dorsalStriatum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4116,6 +4346,7 @@ dorsalTegmentalDecussation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalDecussation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4133,6 +4364,7 @@ dorsalTegmentalNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4151,6 +4383,7 @@ dorsalTegmentalNucleusParsDorsalis
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4169,6 +4402,7 @@ dorsalTegmentalNucleusParsVentralis
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4187,6 +4421,7 @@ dorsalTrigeminalTract
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4205,6 +4440,7 @@ dorsolateralFasciculusOfMedulla
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4223,6 +4459,7 @@ dorsolateralPrefrontalCortex
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4241,6 +4478,7 @@ dorsomedialNucleusOfHypothalamus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4259,6 +4497,7 @@ emboliformNucleus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4277,6 +4516,7 @@ endopiriformNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endopiriformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4295,6 +4535,7 @@ entorhinalCortex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4313,6 +4554,7 @@ entorhinalCortexLayer2
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4331,6 +4573,7 @@ entorhinalCortexLayer3
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4349,6 +4592,7 @@ entorhinalCortexLayer5
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4367,6 +4611,7 @@ entorhinalCortexLayer6
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4385,6 +4630,7 @@ epithalamus
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4403,6 +4649,7 @@ externalCapsuleOfTelencephalon
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalCapsuleOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4421,6 +4668,7 @@ externalNucleusOfInferiorColliculus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4439,6 +4687,7 @@ extrastriateCortex
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4457,6 +4706,7 @@ extremeCapsule
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extremeCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4475,6 +4725,7 @@ facialMotorNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4493,6 +4744,7 @@ facialNerveRoot
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4511,6 +4763,7 @@ fasciculusOfBrain
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4529,6 +4782,7 @@ fasciolarGyrus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4547,6 +4801,7 @@ fastigialNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4565,6 +4820,7 @@ flocculonodularLobe
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4583,6 +4839,7 @@ flocculonodularLobeHemispherePortion
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4599,6 +4856,7 @@ flocculus
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4617,6 +4875,7 @@ forebrain
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4635,6 +4894,7 @@ forebrainmidbrainBoundary
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4653,6 +4913,7 @@ fornixOfBrain
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4671,6 +4932,7 @@ fourthVentricle
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4689,6 +4951,7 @@ fourthVentricleAperture
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4707,6 +4970,7 @@ fourthVentricleChoroidPlexusEpithelium
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4724,6 +4988,7 @@ fourthVentricleChoroidPlexusStroma
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4742,6 +5007,7 @@ fourthVentricleEpendyma
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4759,6 +5025,7 @@ frontalCortex
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4777,6 +5044,7 @@ frontalLobe
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4795,6 +5063,7 @@ frontalOperculum
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4813,6 +5082,7 @@ frontalPole
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalPole
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4831,6 +5101,7 @@ frontoorbitalGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontoorbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4849,6 +5120,7 @@ functionalPartOfBrain
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/functionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4867,6 +5139,7 @@ fundusStriati
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4885,6 +5158,7 @@ fusiformGyrus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4903,6 +5177,7 @@ futureHindbrainMeninx
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureHindbrainMeninx
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4921,6 +5196,7 @@ futureMetencephalon
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4939,6 +5215,7 @@ futureMyelencephalon
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMyelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4957,6 +5234,7 @@ genuOfCorpusCallosum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/genuOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4975,6 +5253,7 @@ globusPallidus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -4993,6 +5272,7 @@ glossopharyngealNerveFiberBundle
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5011,6 +5291,7 @@ glossopharyngealNerveRoot
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5028,6 +5309,7 @@ gracileFasciculus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5046,6 +5328,7 @@ gracileFasciculusOfMedulla
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5064,6 +5347,7 @@ grayMatterOfHindbrain
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5081,6 +5365,7 @@ grossAnatomicalPartsOfTheCerebellum
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5098,6 +5383,7 @@ gyrusRectus
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gyrusRectus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5116,6 +5402,7 @@ habenula
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5134,6 +5421,7 @@ habenularCommissure
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5152,6 +5440,7 @@ habenulointerpeduncularTractOfDiencephalon
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5170,6 +5459,7 @@ habenulointerpeduncularTractOfMidbrain
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5188,6 +5478,7 @@ headOfCaudateNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/headOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5206,6 +5497,7 @@ hilumOfDentateNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5224,6 +5516,7 @@ hilusOfDentateGyrus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5242,6 +5535,7 @@ hindbrain
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5260,6 +5554,7 @@ hindbrainCommissure
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5278,6 +5573,7 @@ hindbrainCorticalIntermediateZone
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5295,6 +5591,7 @@ hindbrainMarginalLayer
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5312,6 +5609,7 @@ hindbrainNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5330,6 +5628,7 @@ hindbrainSubarachnoidSpace
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5347,6 +5646,7 @@ hindbrainVenousSystem
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5365,6 +5665,7 @@ hippocampalCommissure
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5382,6 +5683,7 @@ hippocampalFormation
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5400,6 +5702,7 @@ hippocampusAlveus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5418,6 +5721,7 @@ hippocampusFimbria
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5436,6 +5740,7 @@ horizontalLimbOfTheDiagonalBand
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5454,6 +5759,7 @@ hypoglossalNerveRoot
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5472,6 +5778,7 @@ hypothalamus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5490,6 +5797,7 @@ induseumGriseum
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/induseumGriseum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5508,6 +5816,7 @@ inferiorCentralNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5526,6 +5835,7 @@ inferiorCerebellarPeduncle
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5544,6 +5854,7 @@ inferiorColliculus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5562,6 +5873,7 @@ inferiorFrontalGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5580,6 +5892,7 @@ inferiorHornOfTheLateralVentricle
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5598,6 +5911,7 @@ inferiorLongitudinalFasciculus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5616,6 +5930,7 @@ inferiorOccipitalGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5634,6 +5949,7 @@ inferiorOccipitofrontalFasciculus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5652,6 +5968,7 @@ inferiorOlivaryComplex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5670,6 +5987,7 @@ inferiorParietalCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5688,6 +6006,7 @@ inferiorRostralGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5706,6 +6025,7 @@ inferiorTemporalGyrus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5724,6 +6044,7 @@ inferiorTransverseFrontopolarGyrus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5742,6 +6063,7 @@ inferiorVestibularNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5760,6 +6082,7 @@ insectProtocerebrum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5777,6 +6100,7 @@ insectSupraesophagealGanglion
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5794,6 +6118,7 @@ insula
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5812,6 +6137,7 @@ interanterodorsalNucleusOfTheThalamus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5830,6 +6156,7 @@ intercalatedAmygdaloidNuclei
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intercalatedAmygdaloidNuclei
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5848,6 +6175,7 @@ intergeniculateLeafletOfTheLateralGeniculateComplex
 ---------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5866,6 +6194,7 @@ intermediateAcousticStria
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5884,6 +6213,7 @@ intermediateHypothalamicRegion
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5902,6 +6232,7 @@ intermediateOculomotorNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5919,6 +6250,7 @@ intermediateOrbitalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5937,6 +6269,7 @@ intermediatePartOfHypophysis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePartOfHypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5955,6 +6288,7 @@ intermediatePeriventricularNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5973,6 +6307,7 @@ internalArcuateFiberBundle
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -5991,6 +6326,7 @@ internalCapsuleOfTelencephalon
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6009,6 +6345,7 @@ internalMedullaryLaminaOfThalamus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6027,6 +6364,7 @@ interpeduncularNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6045,6 +6383,7 @@ interpolarPartOfSpinalTrigeminalNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6063,6 +6402,7 @@ interstitialNucleusOfCajal
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6081,6 +6421,7 @@ interthalamicAdhesion
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6099,6 +6440,7 @@ intralaminarNuclearGroup
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6117,6 +6459,7 @@ intraparietalSulcus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6135,6 +6478,7 @@ islaMagnaOfCalleja
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6153,6 +6497,7 @@ islandOfCalleja
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6171,6 +6516,7 @@ islandsOfCallejaOfOlfactoryTubercle
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6189,6 +6535,7 @@ isthmusOfCingulateGyrus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6207,6 +6554,7 @@ juxtarestiformBody
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/juxtarestiformBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6225,6 +6573,7 @@ laminaOfSeptumPellucidum
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/laminaOfSeptumPellucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6243,6 +6592,7 @@ lateralAmygdaloidNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6261,6 +6611,7 @@ lateralAmygdaloidNucleusDorsolateralPart
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6279,6 +6630,7 @@ lateralAmygdaloidNucleusVentrolateralPart
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6297,6 +6649,7 @@ lateralAmygdaloidNucleusVentromedialPart
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6315,6 +6668,7 @@ lateralCervicalNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6333,6 +6687,7 @@ lateralEminenceOfFourthVentricle
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6350,6 +6705,7 @@ lateralEminenceOfHypophysis
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6367,6 +6723,7 @@ lateralGeniculateBody
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6385,6 +6742,7 @@ lateralGlobusPallidus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6403,6 +6761,7 @@ lateralHabenularNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6421,6 +6780,7 @@ lateralHypothalamicArea
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6439,6 +6799,7 @@ lateralHypothalamicNucleus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6457,6 +6818,7 @@ lateralLemniscus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6475,6 +6837,7 @@ lateralMammillaryNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6493,6 +6856,7 @@ lateralMedullaryLaminaOfGlobusPallidus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6511,6 +6875,7 @@ lateralNuclearGroupOfThalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6529,6 +6894,7 @@ lateralNucleusOfStriaTerminalis
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6547,6 +6913,7 @@ lateralOccipitalCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6565,6 +6932,7 @@ lateralOlfactoryStria
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6583,6 +6951,7 @@ lateralOrbitalFrontalCortex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6601,6 +6970,7 @@ lateralOrbitalGyrus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6619,6 +6989,7 @@ lateralParabrachialNucleus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6637,6 +7008,7 @@ lateralParagigantocellularNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6655,6 +7027,7 @@ lateralPartOfBasalAmygdaloidNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6673,6 +7046,7 @@ lateralPartOfMedialMammillaryNucleus
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6691,6 +7065,7 @@ lateralPericuneateNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6709,6 +7084,7 @@ lateralPesLemniscus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6727,6 +7103,7 @@ lateralPreopticNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6745,6 +7122,7 @@ lateralPulvinarNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6763,6 +7141,7 @@ lateralRecessOfFourthVentricle
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6781,6 +7160,7 @@ lateralReticularNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6799,6 +7179,7 @@ lateralSeptalComplex
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6817,6 +7198,7 @@ lateralSeptalNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6835,6 +7217,7 @@ lateralSpinalNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6853,6 +7236,7 @@ lateralSulcus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6871,6 +7255,7 @@ lateralSuperiorOlivaryNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6889,6 +7274,7 @@ lateralTuberalNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6907,6 +7293,7 @@ lateralVestibularNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6925,6 +7312,7 @@ layerOfHippocampus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6943,6 +7331,7 @@ lenticularFasciculus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6961,6 +7350,7 @@ lentiformNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6979,6 +7369,7 @@ limbicLobe
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -6997,6 +7388,7 @@ limenOfInsula
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7015,6 +7407,7 @@ limitansNucleus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7033,6 +7426,7 @@ linearNucleus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7050,6 +7444,7 @@ lingualGyrus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lingualGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7068,6 +7463,7 @@ lobeOfCerebralHemisphere
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7086,6 +7482,7 @@ locusCeruleus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7104,6 +7501,7 @@ longitudinalPontineFibers
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7122,6 +7520,7 @@ lowerRhombicLip
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7140,6 +7539,7 @@ magnocellularNucleusOfMedialGeniculateBody
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7158,6 +7558,7 @@ magnocellularPartOfMedialDorsalNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7176,6 +7577,7 @@ magnocellularPartOfRedNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7194,6 +7596,7 @@ magnocellularPartOfVentralAnteriorNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7212,6 +7615,7 @@ magnocellularPreopticNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7230,6 +7634,7 @@ mammillaryBody
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7248,6 +7653,7 @@ mammillaryPeduncle
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7266,6 +7672,7 @@ mammillothalamicTractOfHypothalamus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7284,6 +7691,7 @@ matrixCompartment
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7302,6 +7710,7 @@ matrixCompartmentOfCaudateNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7320,6 +7729,7 @@ matrixCompartmentOfPutamen
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7337,6 +7747,7 @@ matrixPartOfHeadOfCaudateNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7355,6 +7766,7 @@ matrixPartOfTailOfCaudateNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7373,6 +7785,7 @@ medialAccessoryOlive
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7391,6 +7804,7 @@ medialAmygdaloidNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7408,6 +7822,7 @@ medialDorsalNucleusOfThalamus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7426,6 +7841,7 @@ medialEntorhinalCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7444,6 +7860,7 @@ medialForebrainBundle
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7462,6 +7879,7 @@ medialGeniculateBody
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7480,6 +7898,7 @@ medialGlobusPallidus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7498,6 +7917,7 @@ medialLemniscusOfMedulla
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7516,6 +7936,7 @@ medialLemniscusOfMidbrain
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7534,6 +7955,7 @@ medialLemniscusOfPons
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7552,6 +7974,7 @@ medialLongitudinalFasciculus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7570,6 +7993,7 @@ medialLongitudinalFasciculusOfMedulla
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7588,6 +8012,7 @@ medialLongitudinalFasciculusOfMidbrain
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7606,6 +8031,7 @@ medialLongitudinalFasciculusOfPons
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7624,6 +8050,7 @@ medialMammillaryNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7642,6 +8069,7 @@ medialMedullaryLaminaOfGlobusPallidus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7660,6 +8088,7 @@ medialNucleusOfStriaTerminalis
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7678,6 +8107,7 @@ medialNucleusOfTrapezoidBody
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7696,6 +8126,7 @@ medialOculomotorNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7714,6 +8145,7 @@ medialOlfactoryGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7732,6 +8164,7 @@ medialOrbitalFrontalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7750,6 +8183,7 @@ medialOrbitalGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7768,6 +8202,7 @@ medialParabrachialNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7786,6 +8221,7 @@ medialPartOfBasalAmygdaloidNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7804,6 +8240,7 @@ medialPartOfMedialMammillaryNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7822,6 +8259,7 @@ medialPartOfVentralLateralNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7840,6 +8278,7 @@ medialPericuneateNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7858,6 +8297,7 @@ medialPesLemniscus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7876,6 +8316,7 @@ medialPreopticNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7894,6 +8335,7 @@ medialPulvinarNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7912,6 +8354,7 @@ medialSeptalNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7930,6 +8373,7 @@ medialSubnucleusOfSolitaryTract
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7948,6 +8392,7 @@ medialSuperiorOlivaryNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7966,6 +8411,7 @@ medialTransverseFrontopolarGyrus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -7984,6 +8430,7 @@ medialVentralTegmentalArea
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8002,6 +8449,7 @@ medialVestibularNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8020,6 +8468,7 @@ medianEminenceOfNeurohypophysis
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8037,6 +8486,7 @@ medianPreopticNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8055,6 +8505,7 @@ medianRapheNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8073,6 +8524,7 @@ medullaOblongata
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8091,6 +8543,7 @@ medullaryAnteriorHorn
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8109,6 +8562,7 @@ medullaryRapheNuclearComplex
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8127,6 +8581,7 @@ medullaryReticularFormation
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8145,6 +8600,7 @@ meninxOfHindbrain
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8162,6 +8618,7 @@ mesencephalicNucleusOfTrigeminalNerve
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8180,6 +8637,7 @@ mesencephalicTractOfTrigeminalNerve
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8198,6 +8656,7 @@ metathalamus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8216,6 +8675,7 @@ metencephalon
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8234,6 +8694,7 @@ metencephalonSulcusLimitans
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8252,6 +8713,7 @@ midbrain
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8270,6 +8732,7 @@ midbrainCerebralAqueduct
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8288,6 +8751,7 @@ midbrainRapheNuclei
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8306,6 +8770,7 @@ midbrainReticularFormation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8324,6 +8789,7 @@ midbrainTectum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8342,6 +8808,7 @@ midbrainTegmentum
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8360,6 +8827,7 @@ midbrainhindbrainBoundary
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainhindbrainBoundary
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8378,6 +8846,7 @@ middleCerebellarPeduncle
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8396,6 +8865,7 @@ middleFrontalGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8414,6 +8884,7 @@ middleTemporalGyrus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8432,6 +8903,7 @@ midlineNuclearGroup
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8450,6 +8922,7 @@ motorNucleusOfTrigeminalNerve
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8468,6 +8941,7 @@ motorRootOfTrigeminalNerve
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8486,6 +8960,7 @@ mushroomBody
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8504,6 +8979,7 @@ myelencephalonSulcusLimitans
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8522,6 +8998,7 @@ neocortex
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8540,6 +9017,7 @@ neodentatePartOfDentateNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8558,6 +9036,7 @@ neuralLobeOfNeurohypophysis
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8576,6 +9055,7 @@ neuralNucleus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8594,6 +9074,7 @@ neurohypophysis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8612,6 +9093,7 @@ nucleusAccumbens
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8630,6 +9112,7 @@ nucleusAmbiguus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8648,6 +9131,7 @@ nucleusIncertus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8666,6 +9150,7 @@ nucleusIntercalatus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8684,6 +9169,7 @@ nucleusOfAnteriorCommissure
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8701,6 +9187,7 @@ nucleusOfBrain
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8719,6 +9206,7 @@ nucleusOfCerebellarNuclearComplex
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8737,6 +9225,7 @@ nucleusOfDiagonalBand
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8755,6 +9244,7 @@ nucleusOfLateralOlfactoryTract
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8772,6 +9262,7 @@ nucleusOfMedialEminence
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8790,6 +9281,7 @@ nucleusOfOpticTract
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8808,6 +9300,7 @@ nucleusOfPosteriorCommissure
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8826,6 +9319,7 @@ nucleusOfSolitaryTract
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8844,6 +9338,7 @@ nucleusOfTheBrachiumOfTheInferiorColliculus
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8862,6 +9357,7 @@ nucleusOfTrapezoidBody
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8880,6 +9376,7 @@ nucleusPrepositus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8898,6 +9395,7 @@ nucleusRaphePallidus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8916,6 +9414,7 @@ nucleusSubceruleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8933,6 +9432,7 @@ occipitalCortex
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8951,6 +9451,7 @@ occipitalGyrus
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8969,6 +9470,7 @@ occipitalLobe
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -8987,6 +9489,7 @@ occipitotemporalSulcus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9004,6 +9507,7 @@ oculomotorNerveRoot
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9022,6 +9526,7 @@ oculomotorNuclearComplex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9040,6 +9545,7 @@ olfactoryBulb
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9058,6 +9564,7 @@ olfactoryBulbGranuleCellLayer
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9076,6 +9583,7 @@ olfactoryBulbMainGlomerularLayer
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9094,6 +9602,7 @@ olfactoryBulbMitralCellLayer
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMitralCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9112,6 +9621,7 @@ olfactoryBulbOuterNerveLayer
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9130,6 +9640,7 @@ olfactoryCortex
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9148,6 +9659,7 @@ olfactoryEntorhinalCortex
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9166,6 +9678,7 @@ olfactoryTract
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9184,6 +9697,7 @@ olfactoryTrigone
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTrigone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9202,6 +9716,7 @@ olfactoryTubercle
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTubercle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9220,6 +9735,7 @@ olivaryPretectalNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9238,6 +9754,7 @@ opercularPartOfInferiorFrontalGyrus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9256,6 +9773,7 @@ opticChiasma
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9274,6 +9792,7 @@ opticRecessOfThirdVentricle
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticRecessOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9292,6 +9811,7 @@ opticTract
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9310,6 +9830,7 @@ oralPartOfSpinalTrigeminalNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9328,6 +9849,7 @@ oralPartOfVentralLateralNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9346,6 +9868,7 @@ oralPartOfVentralPosterolateralNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9364,6 +9887,7 @@ oralPontineReticularNucleus
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9382,6 +9906,7 @@ oralPulvinarNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9400,6 +9925,7 @@ orbitalGyriComplex
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyriComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9418,6 +9944,7 @@ orbitalPartOfInferiorFrontalGyrus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9436,6 +9963,7 @@ orbitofrontalCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9454,6 +9982,7 @@ ovalNucleusOfStriaTerminalis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9472,6 +10001,7 @@ paleocortex
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9490,6 +10020,7 @@ paleodentateOfDentateNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9508,6 +10039,7 @@ pallidotegmentalFasciculus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9526,6 +10058,7 @@ pallidum
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9544,6 +10077,7 @@ pallium
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9562,6 +10096,7 @@ parabigeminalNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9580,6 +10115,7 @@ parabrachialNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9598,6 +10134,7 @@ parabrachialPigmentalNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9616,6 +10153,7 @@ paracentralLobule
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9634,6 +10172,7 @@ paraflocculus
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9651,6 +10190,7 @@ parahippocampalGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9669,6 +10209,7 @@ paralaminarPartOfMedialDorsalNucleus
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9687,6 +10228,7 @@ paramedianReticularNucleus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9705,6 +10247,7 @@ parasolitaryNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasolitaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9723,6 +10266,7 @@ parasubiculum
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9741,6 +10285,7 @@ paratenialNucleus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9759,6 +10304,7 @@ paraterminalGyrus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9777,6 +10323,7 @@ paraventricularNucleusOfThalamus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9795,6 +10342,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivision
 ---------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9813,6 +10361,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
 ----------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9831,6 +10380,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPar
 ---------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9849,6 +10399,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPart
 -------------------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9867,6 +10418,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivision
 ------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9885,6 +10437,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellula
 -------------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9903,6 +10456,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularP
 -----------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9921,6 +10475,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 --------------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9939,6 +10494,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 -------------------------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9957,6 +10513,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 ------------------------------------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9975,6 +10532,7 @@ paraventricularNucleusOfTheHypothalamusParvicellularDivision
 ------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -9993,6 +10551,7 @@ paravermicLobuleX
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10010,6 +10569,7 @@ paravermisLobuleArea
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10027,6 +10587,7 @@ paravermisPartsOfTheCerebellarCortex
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10044,6 +10605,7 @@ parietalCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10062,6 +10624,7 @@ parietalLobe
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10080,6 +10643,7 @@ parietooccipitalSulcus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietooccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10098,6 +10662,7 @@ parsDistalisOfAdenohypophysis
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsDistalisOfAdenohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10116,6 +10681,7 @@ parsIntercerebralis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10134,6 +10700,7 @@ parsPostremaOfVentralLateralNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10152,6 +10719,7 @@ parvicellularPartOfMedialDorsalNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10170,6 +10738,7 @@ parvicellularPartOfVentralAnteriorNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10188,6 +10757,7 @@ parvicellularPartOfVentralPosteromedialNucleus
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10206,6 +10776,7 @@ parvocellularOculomotorNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10224,6 +10795,7 @@ parvocellularPartOfRedNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10242,6 +10814,7 @@ pedunculopontineTegmentalNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pedunculopontineTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10260,6 +10833,7 @@ periamygdaloidArea
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10278,6 +10852,7 @@ periamygdaloidCortex
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10296,6 +10871,7 @@ pericalcarineCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10314,6 +10890,7 @@ pericentralNucleusOfInferiorColliculus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10332,6 +10909,7 @@ periolivaryNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10350,6 +10928,7 @@ peripeduncularNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10368,6 +10947,7 @@ perirhinalCortex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10386,6 +10966,7 @@ peritrigeminalNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peritrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10404,6 +10985,7 @@ pinealBody
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10422,6 +11004,7 @@ piriformCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10440,6 +11023,7 @@ piriformCortexLayer1a
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10458,6 +11042,7 @@ piriformCortexLayer1b
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1b
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10476,6 +11061,7 @@ pituitaryGland
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10494,6 +11080,7 @@ pituitaryStalk
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10512,6 +11099,7 @@ planumPolare
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/planumPolare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10530,6 +11118,7 @@ pons
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10548,6 +11137,7 @@ pontineNuclearGroup
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10566,6 +11156,7 @@ pontineRapheNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10584,6 +11175,7 @@ pontineReticularFormation
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10602,6 +11194,7 @@ pontineTegmentum
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10620,6 +11213,7 @@ pontobulbarNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontobulbarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10638,6 +11232,7 @@ postcentralGyrus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10656,6 +11251,7 @@ postcentralSulcusOfParietalLobe
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10673,6 +11269,7 @@ postcommissuralFornixOfBrain
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10691,6 +11288,7 @@ posteriorCingulateCortex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10709,6 +11307,7 @@ posteriorCingulateGyrus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10727,6 +11326,7 @@ posteriorColumnOfFornix
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10745,6 +11345,7 @@ posteriorCommissure
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10763,6 +11364,7 @@ posteriorHornLateralVentricle
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10781,6 +11383,7 @@ posteriorHypothalamicRegion
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10799,6 +11402,7 @@ posteriorLimbOfInternalCapsule
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLimbOfInternalCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10817,6 +11421,7 @@ posteriorLobeOfCerebellum
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLobeOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10834,6 +11439,7 @@ posteriorMedianEminence
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10852,6 +11458,7 @@ posteriorNuclearComplexOfThalamus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10870,6 +11477,7 @@ posteriorNucleusOfHypothalamus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10888,6 +11496,7 @@ posteriorNucleusOfThalamus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10906,6 +11515,7 @@ posteriorOrbitalGyrus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10924,6 +11534,7 @@ posteriorParahippocampalGyrus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10942,6 +11553,7 @@ posteriorPartOfAnteriorCommissure
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10960,6 +11572,7 @@ posteriorPeriventricularNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10978,6 +11591,7 @@ posteriorThalamicRadiation
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorThalamicRadiation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -10996,6 +11610,7 @@ posteriorTransverseTemporalGyrus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11014,6 +11629,7 @@ posterodorsalNucleusOfMedialGeniculateBody
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11032,6 +11648,7 @@ posteroventralCochlearNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteroventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11050,6 +11667,7 @@ postnatalSubventricularZone
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postnatalSubventricularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11068,6 +11686,7 @@ postsubiculum
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postsubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11086,6 +11705,7 @@ precentralGyrus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11104,6 +11724,7 @@ precentralOperculum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11122,6 +11743,7 @@ precommissuralFornixOfForebrain
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11140,6 +11762,7 @@ precuneusCortex
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11158,6 +11781,7 @@ predorsalBundle
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/predorsalBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11176,6 +11800,7 @@ prefrontalCortex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11194,6 +11819,7 @@ premammillaryNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11212,6 +11838,7 @@ premotorCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11230,6 +11857,7 @@ preoccipitalNotch
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11248,6 +11876,7 @@ preolivaryNucleus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preolivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11266,6 +11895,7 @@ preopticArea
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11284,6 +11914,7 @@ preopticPeriventricularNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11302,6 +11933,7 @@ presubiculum
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11320,6 +11952,7 @@ pretectalNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11338,6 +11971,7 @@ pretectalRegion
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11356,6 +11990,7 @@ primaryMotorCortex
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11374,6 +12009,7 @@ primaryOlfactoryCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11392,6 +12028,7 @@ primarySomatosensoryAreaBarrelFieldLayer1
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11410,6 +12047,7 @@ primarySomatosensoryAreaBarrelFieldLayer4
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11428,6 +12066,7 @@ primarySomatosensoryAreaBarrelFieldLayer5
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11446,6 +12085,7 @@ primarySomatosensoryAreaBarrelFieldLayer6a
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11464,6 +12104,7 @@ primarySomatosensoryAreaBarrelFieldLayer6b
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11482,6 +12123,7 @@ primarySomatosensoryCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11500,6 +12142,7 @@ primarySomatosensoryCortexLayer6
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11518,6 +12161,7 @@ primarySuperiorOlive
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySuperiorOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11536,6 +12180,7 @@ primaryVisualCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11554,6 +12199,7 @@ principalAnteriorDivisionOfSupraopticNucleus
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11572,6 +12218,7 @@ principalPartOfVentralPosteromedialNucleus
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11590,6 +12237,7 @@ principalPretectalNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11608,6 +12256,7 @@ principalSensoryNucleusOfTrigeminalNerve
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11626,6 +12275,7 @@ putamen
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/putamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11644,6 +12294,7 @@ pyramidalLayerOfCA1
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11662,6 +12313,7 @@ pyramidalLayerOfCA2
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11680,6 +12332,7 @@ radiationOfThalamus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/radiationOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11698,6 +12351,7 @@ redNucleus
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11716,6 +12370,7 @@ regionalPartOfBrain
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11734,6 +12389,7 @@ regionalPartOfCerebellarCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11751,6 +12407,7 @@ reticularFormation
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11769,6 +12426,7 @@ reticulotegmentalNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulotegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11787,6 +12445,7 @@ retrochiasmaticArea
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11804,6 +12463,7 @@ retrorubralAreaOfMidbrainReticularNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11822,6 +12482,7 @@ retrotrapezoidNucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrotrapezoidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11840,6 +12501,7 @@ reuniensNucleus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11858,6 +12520,7 @@ rhinalSulcus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11876,6 +12539,7 @@ rhombicLip
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11894,6 +12558,7 @@ rhomboidalNucleus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhomboidalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11912,6 +12577,7 @@ rootOfAbducensNerve
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11930,6 +12596,7 @@ rootOfOlfactoryNerve
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11947,6 +12614,7 @@ rootOfOpticNerve
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11964,6 +12632,7 @@ rootOfTrochlearNerve
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11982,6 +12651,7 @@ rootOfVagusNerve
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -11999,6 +12669,7 @@ rostralAnteriorCingulateCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12017,6 +12688,7 @@ rostralInterstitialNucleusOfMedialLongitudinalFasciculus
 --------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12035,6 +12707,7 @@ rostralIntralaminarNuclearGroup
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12053,6 +12726,7 @@ rostralLinearNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralLinearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12071,6 +12745,7 @@ rostralMiddleFrontalGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12089,6 +12764,7 @@ rostralMigratoryStream
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12107,6 +12783,7 @@ rostralPortionOfTheMedialAccessoryOlive
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12125,6 +12802,7 @@ rostralSpinocerebellarTract
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12143,6 +12821,7 @@ rostrumOfCorpusCallosum
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12161,6 +12840,7 @@ secondaryOlfactoryCortex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12179,6 +12859,7 @@ secondaryVisualCortex
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12197,6 +12878,7 @@ segmentalSubdivisionOfHindbrain
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12214,6 +12896,7 @@ septalNuclearComplex
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12232,6 +12915,7 @@ septofimbrialNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septofimbrialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12250,6 +12934,7 @@ septohippocampalNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12268,6 +12953,7 @@ septumOfTelencephalon
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12285,6 +12971,7 @@ septumPellucidum
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumPellucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12303,6 +12990,7 @@ shellOfNucleusAccumbens
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/shellOfNucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12321,6 +13009,7 @@ somatosensoryCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12338,6 +13027,7 @@ sommersSector
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sommersSector
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12356,6 +13046,7 @@ spinalTrigeminalTractOfMedulla
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12374,6 +13065,7 @@ spinalTrigeminalTractOfPons
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12392,6 +13084,7 @@ spinocerebellum
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12410,6 +13103,7 @@ spinothalamicTract
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12428,6 +13122,7 @@ spinothalamicTractOfMedulla
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12446,6 +13141,7 @@ spinothalamicTractOfMidbrain
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12464,6 +13160,7 @@ spinothalamicTractOfPons
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12482,6 +13179,7 @@ spleniumOfTheCorpusCallosum
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12500,6 +13198,7 @@ stratumZonaleOfThalamus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12518,6 +13217,7 @@ striaMedullaris
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12536,6 +13236,7 @@ striaTerminalis
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12554,6 +13255,7 @@ striatum
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12572,6 +13274,7 @@ striosomalPartOfBodyOfCaudateNucleus
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12589,6 +13292,7 @@ striosomalPartOfCaudateNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12607,6 +13311,7 @@ striosomalPartOfPutamen
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12625,6 +13330,7 @@ subarachnoidFissure
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12642,6 +13348,7 @@ subarachnoidSpace
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12660,6 +13367,7 @@ subarachnoidSulcus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12677,6 +13385,7 @@ subbrachialNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12695,6 +13404,7 @@ subcallosalArea
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12713,6 +13423,7 @@ subcommissuralOrgan
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12731,6 +13442,7 @@ subcuneiformNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12748,6 +13460,7 @@ subfascicularNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subfascicularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12766,6 +13479,7 @@ subicularComplex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12784,6 +13498,7 @@ subiculum
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12802,6 +13517,7 @@ sublentiformNucleus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12820,6 +13536,7 @@ submedialNucleusOfThalamus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12838,6 +13555,7 @@ substantiaGelatinosa
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosa
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12856,6 +13574,7 @@ substantiaInnominata
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12874,6 +13593,7 @@ substantiaNigra
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12892,6 +13612,7 @@ substantiaNigraParsCompacta
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsCompacta
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12910,6 +13631,7 @@ substantiaNigraParsLateralis
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12928,6 +13650,7 @@ substantiaNigraParsReticulata
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12946,6 +13669,7 @@ sulcusLimitansOfFourthVentricle
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12964,6 +13688,7 @@ sulcusOfBrain
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -12982,6 +13707,7 @@ superficialFeaturePartOfOccipitalLobe
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13000,6 +13726,7 @@ superficialFeaturePartOfTheCerebellum
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13017,6 +13744,7 @@ superiorCerebellarPeduncle
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13035,6 +13763,7 @@ superiorCerebellarPeduncleOfMidbrain
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13053,6 +13782,7 @@ superiorCerebellarPeduncleOfPons
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13071,6 +13801,7 @@ superiorColliculus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13089,6 +13820,7 @@ superiorFrontalGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13107,6 +13839,7 @@ superiorMedullaryVelum
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMedullaryVelum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13125,6 +13858,7 @@ superiorOccipitalGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOccipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13143,6 +13877,7 @@ superiorOlivaryComplex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13161,6 +13896,7 @@ superiorParietalCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13179,6 +13915,7 @@ superiorRostralGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13197,6 +13934,7 @@ superiorSalivatoryNucleus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13215,6 +13953,7 @@ superiorTemporalGyrus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13233,6 +13972,7 @@ superiorTemporalSulcus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13251,6 +13991,7 @@ superiorTransverseFrontopolarGyrus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13269,6 +14010,7 @@ supracallosalGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supracallosalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13287,6 +14029,7 @@ suprachiasmaticNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13305,6 +14048,7 @@ suprachiasmaticNucleusDorsomedialPart
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13323,6 +14067,7 @@ suprachiasmaticNucleusVentrolateralPart
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13341,6 +14086,7 @@ suprageniculateNucleusOfThalamus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprageniculateNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13359,6 +14105,7 @@ supramammillaryNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13377,6 +14124,7 @@ supramarginalGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramarginalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13395,6 +14143,7 @@ supraopticNucleus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13413,6 +14162,7 @@ supraspinalNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13431,6 +14181,7 @@ taeniaTectumOfBrain
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/taeniaTectumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13449,6 +14200,7 @@ tailOfCaudateNucleus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13467,6 +14219,7 @@ tectobulbarTract
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13485,6 +14238,7 @@ tectopontineTract
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13503,6 +14257,7 @@ telaChoroideaOfFourthVentricle
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13521,6 +14276,7 @@ telencephalicVentricle
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13539,6 +14295,7 @@ telencephalon
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13557,6 +14314,7 @@ temporalCortex
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13575,6 +14333,7 @@ temporalCortexCingulum
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13593,6 +14352,7 @@ temporalLobe
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13611,6 +14371,7 @@ temporalOperculum
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13629,6 +14390,7 @@ temporalPole
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalPole
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13647,6 +14409,7 @@ temporoparietalJunction
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13665,6 +14428,7 @@ thalamicComplex
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13683,6 +14447,7 @@ thalamicFiberTract
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13699,6 +14464,7 @@ thalamicReticularNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13717,6 +14483,7 @@ thirdVentricle
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13735,6 +14502,7 @@ tractOfBrain
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13753,6 +14521,7 @@ transverseFrontopolarGyriComplex
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseFrontopolarGyriComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13771,6 +14540,7 @@ transverseGyrusOfHeschl
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseGyrusOfHeschl
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13789,6 +14559,7 @@ transversePontineFibers
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13807,6 +14578,7 @@ trapezoidBody
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13825,6 +14597,7 @@ triangularPartOfInferiorFrontalGyrus
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13843,6 +14616,7 @@ triangularSeptalNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13861,6 +14635,7 @@ trigeminalNerveFibers
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13879,6 +14654,7 @@ trigeminalNerveRoot
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13897,6 +14673,7 @@ trochlearNucleus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13915,6 +14692,7 @@ tuberCinereum
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13933,6 +14711,7 @@ tuberalSupraopticNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13951,6 +14730,7 @@ tuberomammillaryNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13969,6 +14749,7 @@ tuberomammillaryNucleusDorsalPart
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -13987,6 +14768,7 @@ tuberomammillaryNucleusVentralPart
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14005,6 +14787,7 @@ uncinateFasciculus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14023,6 +14806,7 @@ uncinateFasciculusOfTheForebrain
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14041,6 +14825,7 @@ upperRhombicLip
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14059,6 +14844,7 @@ vagalNerveFiberBundle
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14077,6 +14863,7 @@ valvulaCerebelli
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14095,6 +14882,7 @@ vasculatureOfBrain
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14113,6 +14901,7 @@ venousSystemOfBrain
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14130,6 +14919,7 @@ ventralAcousticStria
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14148,6 +14938,7 @@ ventralAmygdalofugalProjection
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAmygdalofugalProjection
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14166,6 +14957,7 @@ ventralAnteriorNucleusOfThalamus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14184,6 +14976,7 @@ ventralCochlearNucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14202,6 +14995,7 @@ ventralExternalArcuateFiberBundle
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralExternalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14220,6 +15014,7 @@ ventralLateralGeniculateNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14238,6 +15033,7 @@ ventralLateralNucleusOfThalamus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14256,6 +15052,7 @@ ventralNuclearGroup
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14274,6 +15071,7 @@ ventralNucleusOfLateralLemniscus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14292,6 +15090,7 @@ ventralNucleusOfMedialGeniculateBody
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14310,6 +15109,7 @@ ventralNucleusOfPosteriorCommissure
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14328,6 +15128,7 @@ ventralNucleusOfTrapezoidBody
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14346,6 +15147,7 @@ ventralOculomotorNucleus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14364,6 +15166,7 @@ ventralPallidum
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14382,6 +15185,7 @@ ventralPosteriorNucleusOfThalamus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14400,6 +15204,7 @@ ventralPosteroinferiorNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14418,6 +15223,7 @@ ventralPosterolateralNucleus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosterolateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14436,6 +15242,7 @@ ventralPosteromedialNucleusOfThalamus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14454,6 +15261,7 @@ ventralStriatum
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14472,6 +15280,7 @@ ventralTegmentalArea
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14490,6 +15299,7 @@ ventralTegmentalDecussation
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14507,6 +15317,7 @@ ventralTegmentalNucleus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14525,6 +15336,7 @@ ventralThalamus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14543,6 +15355,7 @@ ventralTrigeminalTract
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14561,6 +15374,7 @@ ventricularSystemOfBrain
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14578,6 +15392,7 @@ ventricularZone
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14596,6 +15411,7 @@ ventromedialNucleusOfHypothalamus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14614,6 +15430,7 @@ vermisOfTheFlocculonodularLobeOfTheCerebellum
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14632,6 +15449,7 @@ verticalLimbOfTheDiagonalBand
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14650,6 +15468,7 @@ vessel
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14668,6 +15487,7 @@ vestibularNuclearComplex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14686,6 +15506,7 @@ vestibulocerebellarTract
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14704,6 +15525,7 @@ vestibulocerebellum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14722,6 +15544,7 @@ vestibulocochlearNerveRoot
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14740,6 +15563,7 @@ whiteMatterLaminaOfCerebellum
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14758,6 +15582,7 @@ whiteMatterOfCerebellum
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14775,6 +15600,7 @@ whiteMatterOfHindbrain
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14793,6 +15619,7 @@ whiteMatterOfMedullaOblongata
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMedullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14811,6 +15638,7 @@ whiteMatterOfTheCerebellarCortex
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
@@ -14829,6 +15657,7 @@ zonaIncerta
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/zonaIncerta
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation

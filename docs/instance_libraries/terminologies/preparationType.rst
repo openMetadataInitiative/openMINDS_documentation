@@ -12,6 +12,7 @@ exVivo
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/exVivo
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
@@ -28,6 +29,7 @@ inSilico
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/inSilico
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
@@ -44,6 +46,7 @@ inSitu
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/inSitu
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
@@ -60,6 +63,7 @@ inUtero
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/inUtero
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
@@ -76,6 +80,7 @@ inVitro
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/inVitro
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
@@ -92,6 +97,7 @@ inVivo
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/preparationType/inVivo
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType

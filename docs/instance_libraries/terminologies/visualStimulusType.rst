@@ -12,6 +12,7 @@ movingCheckerboard
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -25,6 +26,7 @@ movingGrating
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -38,6 +40,7 @@ movingSymbol
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -51,6 +54,7 @@ naturalMovie
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -64,6 +68,7 @@ naturalScene
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -77,6 +82,7 @@ staticCheckerboard
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -90,6 +96,7 @@ staticGrating
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
@@ -103,6 +110,7 @@ staticSymbol
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType

@@ -12,6 +12,7 @@ axialPlane
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/axialPlane
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
@@ -26,6 +27,7 @@ frontalPlane
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/frontalPlane
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane
@@ -40,6 +42,7 @@ longitudinalPlane
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalPlane/longitudinalPlane
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane

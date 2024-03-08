@@ -12,6 +12,7 @@ chlorideReversalPotential
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -26,6 +27,7 @@ compensationCurrent
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -40,6 +42,7 @@ holdingPotential
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -54,6 +57,7 @@ inputResistance
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -68,6 +72,7 @@ liquidJunctionPotential
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -82,6 +87,7 @@ membranePotential
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -98,6 +104,7 @@ sealResistance
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
@@ -112,6 +119,7 @@ seriesResistance
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity

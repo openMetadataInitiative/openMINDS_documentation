@@ -12,6 +12,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -29,6 +30,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -46,6 +48,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -63,6 +66,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -80,6 +84,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -96,6 +101,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -113,6 +119,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -129,6 +136,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -146,6 +154,7 @@ A1Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -162,6 +171,7 @@ A2AReceptor
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -179,6 +189,7 @@ AMPAReceptor
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -196,6 +207,7 @@ AlexaFluor594
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -212,6 +224,7 @@ Beta-Amyloid40
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -229,6 +242,7 @@ D1Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -246,6 +260,7 @@ D2Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -263,6 +278,7 @@ DAB
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/DAB
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -280,6 +296,7 @@ EgtazicAcid
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -297,6 +314,7 @@ Fluoro-Emerald
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -311,6 +329,7 @@ Fluoro-Gold
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -328,6 +347,7 @@ Fluoro-Ruby
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -345,6 +365,7 @@ BZ
 --
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -359,6 +380,7 @@ GABA-AReceptor
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -374,6 +396,7 @@ GABA-BReceptor
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -390,6 +413,7 @@ GABAReceptor
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -407,6 +431,7 @@ Halothane
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -422,6 +447,7 @@ JNKMapKinaseScaffoldProtein2
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProtein2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -438,6 +464,7 @@ M1Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -455,6 +482,7 @@ M2Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -472,6 +500,7 @@ M3Receptor
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -489,6 +518,7 @@ NMDAReceptor
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -506,6 +536,7 @@ acetylcholine
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -522,6 +553,7 @@ alpha-1Receptor
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -536,6 +568,7 @@ alpha-2Receptor
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -550,6 +583,7 @@ alpha-4Beta-2Receptor
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -566,6 +600,7 @@ anterogradeTracer
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -582,6 +617,7 @@ biomarker
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biomarker
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -598,6 +634,7 @@ biotinylatedDextranAmine
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -614,6 +651,7 @@ brainDerivedNeurotrophicFactor
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -630,6 +668,7 @@ c-FOS
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/c-FOS
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -646,6 +685,7 @@ calbindin
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calbindin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -663,6 +703,7 @@ calciumCalmodulinProteinKinaseII
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -680,6 +721,7 @@ calciumCalmodulinProteinKinaseIIAlphaChain
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -696,6 +738,7 @@ calciumChloride
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -714,6 +757,7 @@ calretinin
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calretinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -731,6 +775,7 @@ carbonDioxide
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -749,6 +794,7 @@ cholecystokinin
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -765,6 +811,7 @@ choline
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/choline
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -782,6 +829,7 @@ cholineAcetyltransferase
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -798,6 +846,7 @@ cyclicAdenosineMonophosphate
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -815,6 +864,7 @@ diboronTrioxide
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/diboronTrioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -831,6 +881,7 @@ dimethylSulfoxide
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dimethylSulfoxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -849,6 +900,7 @@ dinitrogen
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dinitrogen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -865,6 +917,7 @@ dioxygen
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dioxygen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -882,6 +935,7 @@ dopamine
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -899,6 +953,7 @@ dopamineTransporter
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -916,6 +971,7 @@ dynorphin
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dynorphin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -932,6 +988,7 @@ edeticAcid
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/edeticAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -949,6 +1006,7 @@ enkephalin
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/enkephalin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -965,6 +1023,7 @@ epibatidine
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/epibatidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -981,6 +1040,7 @@ ethanol
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ethanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -999,6 +1059,7 @@ excitatoryAminoAcidTransporter
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1013,6 +1074,7 @@ excitatoryAminoAcidTransporter1
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1030,6 +1092,7 @@ excitatoryAminoAcidTransporter2
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1047,6 +1110,7 @@ excitatoryAminoAcidTransporter3
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1064,6 +1128,7 @@ excitatoryAminoAcidTransporter4
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1081,6 +1146,7 @@ excitatoryAminoAcidTransporter5
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1097,6 +1163,7 @@ flumazenil
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/flumazenil
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1113,6 +1180,7 @@ fluorescentMicrospheres
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1127,6 +1195,7 @@ formaldehyde
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/formaldehyde
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1144,6 +1213,7 @@ gabazine
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gabazine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1160,6 +1230,7 @@ galanin
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/galanin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1177,6 +1248,7 @@ gluconicAcid
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gluconicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1194,6 +1266,7 @@ glucose
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glucose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1211,6 +1284,7 @@ glutamate
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1228,6 +1302,7 @@ glutamateTransporter
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1245,6 +1320,7 @@ glycerol
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycerol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1262,6 +1338,7 @@ glycineTransporter2
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1278,6 +1355,7 @@ growthFactor
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/growthFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1294,6 +1372,7 @@ histamine
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/histamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1311,6 +1390,7 @@ insulinLikeGrowthFactor1
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1327,6 +1407,7 @@ intrabody
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/intrabody
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1341,6 +1422,7 @@ ionotropicGlutamateReceptor
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1358,6 +1440,7 @@ iperoxo
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iperoxo
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1374,6 +1457,7 @@ iron
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iron
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1391,6 +1475,7 @@ isoflurane
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/isoflurane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1408,6 +1493,7 @@ kainateReceptor
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1425,6 +1511,7 @@ kallikrein-relatedPeptidase8
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptidase8
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1441,6 +1528,7 @@ ketamine
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ketamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1458,6 +1546,7 @@ luciferYellow
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1474,6 +1563,7 @@ magnesiumATP
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1489,6 +1579,7 @@ magnesiumChloride
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1505,6 +1596,7 @@ magnesiumSulfate
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumSulfate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1522,6 +1614,7 @@ medetomidine
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/medetomidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1539,6 +1632,7 @@ metabotropicGlutamateReceptor
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1556,6 +1650,7 @@ metabotropicGlutamateReceptor1
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1572,6 +1667,7 @@ metabotropicGlutamateReceptor2
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1589,6 +1685,7 @@ metabotropicGlutamateReceptor3
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1606,6 +1703,7 @@ metabotropicGlutamateReceptor5
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1622,6 +1720,7 @@ methanol
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/methanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1639,6 +1738,7 @@ monosodiumPhosphate
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/monosodiumPhosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1656,6 +1756,7 @@ muscimol
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/muscimol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1672,6 +1773,7 @@ neurobiotin
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1689,6 +1791,7 @@ neuroligin-3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1706,6 +1809,7 @@ neuronalNuclearAntigen
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1722,6 +1826,7 @@ neurotrophicFactor
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1736,6 +1841,7 @@ nickel
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/nickel
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1752,6 +1858,7 @@ parvalbumin
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1769,6 +1876,7 @@ pentobarbital
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbital
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1787,6 +1895,7 @@ pentobarbitalSodium
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbitalSodium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1802,6 +1911,7 @@ potassiumChloride
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1820,6 +1930,7 @@ potassiumGluconate
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumGluconate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1836,6 +1947,7 @@ propofol
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/propofol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1854,6 +1966,7 @@ siliconDioxide
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/siliconDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1870,6 +1983,7 @@ silverAmmonium
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverAmmonium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1885,6 +1999,7 @@ silverNitrate
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverNitrate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1901,6 +2016,7 @@ sodiumBicarbonate
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumBicarbonate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1917,6 +2033,7 @@ sodiumChloride
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1933,6 +2050,7 @@ sucrose
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sucrose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1950,6 +2068,7 @@ tungsten
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/tungsten
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1966,6 +2085,7 @@ vesicularGlutamateTransporter
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1980,6 +2100,7 @@ vesicularGlutamateTransporter1
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1997,6 +2118,7 @@ vesicularGlutamateTransporter2
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2014,6 +2136,7 @@ vesicularGlutamateTransporter3
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2030,6 +2153,7 @@ water
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/water
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity

@@ -12,6 +12,7 @@ realSpokenWord
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/auditoryStimulusType/realSpokenWord
    :@type: https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType

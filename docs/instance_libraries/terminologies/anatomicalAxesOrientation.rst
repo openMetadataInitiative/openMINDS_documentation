@@ -12,6 +12,7 @@ AIL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -26,6 +27,7 @@ AIR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -40,6 +42,7 @@ ALI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -54,6 +57,7 @@ ALS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -68,6 +72,7 @@ ARI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -82,6 +87,7 @@ ARS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -96,6 +102,7 @@ ASL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -110,6 +117,7 @@ ASR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -124,6 +132,7 @@ IAL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -138,6 +147,7 @@ IAR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -152,6 +162,7 @@ ILA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -166,6 +177,7 @@ ILP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -180,6 +192,7 @@ IPL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -194,6 +207,7 @@ IPR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -208,6 +222,7 @@ IRA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -222,6 +237,7 @@ IRP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -236,6 +252,7 @@ LAI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -250,6 +267,7 @@ LAS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -264,6 +282,7 @@ LIA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -278,6 +297,7 @@ LIP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -292,6 +312,7 @@ LPI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -306,6 +327,7 @@ LPS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -320,6 +342,7 @@ LSA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -334,6 +357,7 @@ LSP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -348,6 +372,7 @@ PIL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -362,6 +387,7 @@ PIR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -376,6 +402,7 @@ PLI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -390,6 +417,7 @@ PLS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -404,6 +432,7 @@ PRI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -418,6 +447,7 @@ PRS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -432,6 +462,7 @@ PSL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -446,6 +477,7 @@ PSR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -460,6 +492,7 @@ RAI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -474,6 +507,7 @@ RAS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -488,6 +522,7 @@ RIA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -502,6 +537,7 @@ RIP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -516,6 +552,7 @@ RPI
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -530,6 +567,7 @@ RPS
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -544,6 +582,7 @@ RSA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -558,6 +597,7 @@ RSP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -572,6 +612,7 @@ SAL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -586,6 +627,7 @@ SAR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -600,6 +642,7 @@ SLA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -614,6 +657,7 @@ SLP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -628,6 +672,7 @@ SPL
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -642,6 +687,7 @@ SPR
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -656,6 +702,7 @@ SRA
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
@@ -670,6 +717,7 @@ SRP
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation

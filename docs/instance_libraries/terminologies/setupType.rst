@@ -12,6 +12,7 @@ acquisitionSystem
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/SetupType
@@ -26,6 +27,7 @@ computingSystem
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/setupType/computingSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/SetupType
@@ -40,6 +42,7 @@ stimulationSystem
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/SetupType

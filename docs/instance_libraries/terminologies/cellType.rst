@@ -12,6 +12,7 @@ D1ReceptorExpressingNeuron
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/D1ReceptorExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -26,6 +27,7 @@ D2ReceptorExpressingNeuron
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -40,6 +42,7 @@ PurkinjeCell
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/PurkinjeCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -56,6 +59,7 @@ aromataseExpressingNeuron
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/aromataseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -70,6 +74,7 @@ astrocyte
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/astrocyte
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -85,6 +90,7 @@ basketCell
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/basketCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -99,6 +105,7 @@ calbindinExpressingNeuron
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/calbindinExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -113,6 +120,7 @@ calretininExpressingNeuron
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/calretininExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -127,6 +135,7 @@ cerebellarInterneuron
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cerebellarInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -140,6 +149,7 @@ cerebellumBasketCell
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumBasketCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -157,6 +167,7 @@ cerebellumGolgiCell
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumGolgiCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -174,6 +185,7 @@ cerebellumGranuleCell
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumGranuleCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -191,6 +203,7 @@ cerebellumStellateNeuron
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cerebellumStellateNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -208,6 +221,7 @@ cholecystokininExpressingNeuron
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -222,6 +236,7 @@ cholineAcetyltransferaseExpressingNeuron
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -236,6 +251,7 @@ cholinergicInterneuron
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cholinergicInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -250,6 +266,7 @@ cholinergicNeuron
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/cholinergicNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -267,6 +284,7 @@ corticalBasketCell
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/corticalBasketCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -284,6 +302,7 @@ corticalInterneuron
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/corticalInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -297,6 +316,7 @@ dopaminergicNeuron
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/dopaminergicNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -314,6 +334,7 @@ excitatoryNeuron
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/excitatoryNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -328,6 +349,7 @@ fastSpikingInterneuron
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/fastSpikingInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -342,6 +364,7 @@ glialCell
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/glialCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -357,6 +380,7 @@ granuleNeuron
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/granuleNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -371,6 +395,7 @@ hippocampusCA1PyramidalNeuron
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/hippocampusCA1PyramidalNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -388,6 +413,7 @@ inhibitoryNeuron
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/inhibitoryNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -402,6 +428,7 @@ interneuron
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/interneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -416,6 +443,7 @@ macroglialCell
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/macroglialCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -431,6 +459,7 @@ microglialCell
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/microglialCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -446,6 +475,7 @@ motorNeuron
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/motorNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -459,6 +489,7 @@ neocortexLayer2-3PyramidalNeuron
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neocortexLayer2-3PyramidalNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -476,6 +507,7 @@ neocortexLayer5TuftedPyramidalNeuron
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neocortexLayer5TuftedPyramidalNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -491,6 +523,7 @@ neostriatumCholinergicInterneuron
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumCholinergicInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -508,6 +541,7 @@ neostriatumDirectPathwaySpinyNeuron
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumDirectPathwaySpinyNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -524,6 +558,7 @@ neostriatumIndirectPathwaySpinyNeuron
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neostriatumIndirectPathwaySpinyNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -540,6 +575,7 @@ neuron
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -555,6 +591,7 @@ neuropeptideYExpressingNeuron
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/neuropeptideYExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -569,6 +606,7 @@ nitricOxideSynthaseExpressingNeuron
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/nitricOxideSynthaseExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -583,6 +621,7 @@ parvalbuminExpressingNeuron
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/parvalbuminExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -597,6 +636,7 @@ postmitoticCell
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/postmitoticCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -611,6 +651,7 @@ progenitorCell
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/progenitorCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -625,6 +666,7 @@ pyramidalNeuron
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/pyramidalNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -639,6 +681,7 @@ sensoryNeuron
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/sensoryNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -652,6 +695,7 @@ somatostatinExpressingNeuron
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/somatostatinExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -666,6 +710,7 @@ spinalInterneuron
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/spinalInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -679,6 +724,7 @@ spinyNeuron
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/spinyNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -695,6 +741,7 @@ stellateNeuron
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/stellateNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -709,6 +756,7 @@ striatalInterneuron
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/striatalInterneuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -722,6 +770,7 @@ striatumMediumSpinyNeuron
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/striatumMediumSpinyNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -738,6 +787,7 @@ vascularEndothelialCell
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/vascularEndothelialCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -755,6 +805,7 @@ vascularSmoothMuscleCell
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/vascularSmoothMuscleCell
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType
@@ -770,6 +821,7 @@ vasoactiveIntestinalPeptideExpressingNeuron
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpressingNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/CellType

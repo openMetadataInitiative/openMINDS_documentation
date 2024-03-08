@@ -12,6 +12,7 @@ application_4-mat
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_4-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -25,6 +26,7 @@ application_5-mat
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_5-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -38,6 +40,7 @@ application_dicom
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_dicom
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -52,6 +55,7 @@ application_json
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -66,6 +70,7 @@ application_ld+json
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_ld+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -80,6 +85,7 @@ application_octet-stream
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_octet-stream
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -94,6 +100,7 @@ application_pdf
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_pdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -109,6 +116,7 @@ application_sbml+xml
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_sbml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -123,6 +131,7 @@ application_schema+json
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_schema+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -137,6 +146,7 @@ application_vnd.3i.slidebook
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.3i.slidebook
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -150,6 +160,7 @@ application_vnd.ANTEEProbe
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ANTEEProbe
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -163,6 +174,7 @@ application_vnd.abberior.imspector
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.abberior.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -177,6 +189,7 @@ application_vnd.afni
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.afni
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -190,6 +203,7 @@ application_vnd.alicona
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alicona
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -203,6 +217,7 @@ application_vnd.alphaomega-eng
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alphaomega-eng
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -216,6 +231,7 @@ application_vnd.amiramesh
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amiramesh
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -229,6 +245,7 @@ application_vnd.amnis-flowsight
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amnis-flowsight
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -242,6 +259,7 @@ application_vnd.analysisservices
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analysisservices
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -255,6 +273,7 @@ application_vnd.analyze.analyze75
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyze75
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -268,6 +287,7 @@ application_vnd.analyze.analyzeavw
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyzeavw
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -281,6 +301,7 @@ application_vnd.andor.andorsif
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.andor.andorsif
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -294,6 +315,7 @@ application_vnd.ansysfluent
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ansysfluent
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -307,6 +329,7 @@ application_vnd.ant.eeprobe
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ant.eeprobe
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -320,6 +343,7 @@ application_vnd.ants.linearTransform+mat
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.linearTransform+mat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -333,6 +357,7 @@ application_vnd.ants.nonlinearTransform+hdf5
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.nonlinearTransform+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -346,6 +371,7 @@ application_vnd.anywave
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.anywave
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -359,6 +385,7 @@ application_vnd.applied-precision.cellworx
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.applied-precision.cellworx
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -372,6 +399,7 @@ application_vnd.arbor-simulator+python
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.arbor-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -385,6 +413,7 @@ application_vnd.asciidoc
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.asciidoc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -398,6 +427,7 @@ application_vnd.autodesk.3ds-max.3d-studio-mesh
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.autodesk.3ds-max.3d-studio-mesh
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -411,6 +441,7 @@ application_vnd.avs.ucd
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.avs.ucd
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -424,6 +455,7 @@ application_vnd.axograph
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.axograph
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -437,6 +469,7 @@ application_vnd.bbp.bluron
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.bluron
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -450,6 +483,7 @@ application_vnd.bbp.simulation.blueconfig
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.simulation.blueconfig
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -463,6 +497,7 @@ application_vnd.bci2000
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bci2000
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -476,6 +511,7 @@ application_vnd.bd-biosciences.bdpathway
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bd-biosciences.bdpathway
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -489,6 +525,7 @@ application_vnd.becker-hickl.spcfifo
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcfifo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -502,6 +539,7 @@ application_vnd.becker-hickl.spcimage
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -515,6 +553,7 @@ application_vnd.bids
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -528,6 +567,7 @@ application_vnd.bids.electrodesformat
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids.electrodesformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -541,6 +581,7 @@ application_vnd.bigdataviewer
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -554,6 +595,7 @@ application_vnd.bigdataviewer+h5
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer+h5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -567,6 +609,7 @@ application_vnd.bio-rad.gel
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.gel
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -580,6 +623,7 @@ application_vnd.bio-rad.pic
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.pic
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -593,6 +637,7 @@ application_vnd.bio-rad.scn
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -606,6 +651,7 @@ application_vnd.bionetgen
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bionetgen
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -619,6 +665,7 @@ application_vnd.blackrockmicrosystems.neuralevents
 --------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralevents
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -633,6 +680,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.1
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.1
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -647,6 +695,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.2
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -661,6 +710,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.3
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.3
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -675,6 +725,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.4
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.4
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -689,6 +740,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.5
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -703,6 +755,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.6
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.6
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -717,6 +770,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.7
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.7
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -731,6 +785,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.8
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.8
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -745,6 +800,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.9
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.9
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -759,6 +815,7 @@ application_vnd.blackrockmicrosystems.parallelrecordings
 --------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.parallelrecordings
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -772,6 +829,7 @@ application_vnd.blk
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blk
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -785,6 +843,7 @@ application_vnd.bluebrainproject.bluepyopt
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bluebrainproject.bluepyopt
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -798,6 +857,7 @@ application_vnd.brain-innovation.brainvoyager
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brain-innovation.brainvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -811,6 +871,7 @@ application_vnd.brainnetviewer
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainnetviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -824,6 +885,7 @@ application_vnd.brainproducts
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainproducts
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -837,6 +899,7 @@ application_vnd.brains2
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brains2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -850,6 +913,7 @@ application_vnd.brainvision.binary
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.binary
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -863,6 +927,7 @@ application_vnd.brainvision.header
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.header
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -876,6 +941,7 @@ application_vnd.brainvision.marker
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -889,6 +955,7 @@ application_vnd.bsc
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -902,6 +969,7 @@ application_vnd.bsc.paraver.configurationfile
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc.paraver.configurationfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -915,6 +983,7 @@ application_vnd.burleigh-instruments.burleigh
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.burleigh-instruments.burleigh
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -928,6 +997,7 @@ application_vnd.byu
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.byu
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -941,6 +1011,7 @@ application_vnd.canon.canondng
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.canon.canondng
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -954,6 +1025,7 @@ application_vnd.cell-sens-vsi
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cell-sens-vsi
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -967,6 +1039,7 @@ application_vnd.cellh5+hdf5
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cellh5+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -980,6 +1053,7 @@ application_vnd.commonworkflowlanguage.cmdline
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.cmdline
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -993,6 +1067,7 @@ application_vnd.commonworkflowlanguage.workflow
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.workflow
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1006,6 +1081,7 @@ application_vnd.connectomics-lab.connectome
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.connectomics-lab.connectome
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1019,6 +1095,7 @@ application_vnd.ctf
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ctf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1032,6 +1109,7 @@ application_vnd.cytiva.deltavision
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cytiva.deltavision
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1045,6 +1123,7 @@ application_vnd.ebrains.image-service.deepzoom
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.deepzoom
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1059,6 +1138,7 @@ application_vnd.ebrains.image-service.neuroglancer.precomputed
 --------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1073,6 +1153,7 @@ application_vnd.edf
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1086,6 +1167,7 @@ application_vnd.edf+
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf+
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1099,6 +1181,7 @@ application_vnd.eeglab
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.eeglab
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1112,6 +1195,7 @@ application_vnd.egi
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1125,6 +1209,7 @@ application_vnd.egi.mff
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi.mff
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1138,6 +1223,7 @@ application_vnd.elan.continuous-data
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.continuous-data
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1151,6 +1237,7 @@ application_vnd.elan.event
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.event
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1164,6 +1251,7 @@ application_vnd.elekta
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elekta
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1177,6 +1265,7 @@ application_vnd.elphy
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elphy
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1190,6 +1279,7 @@ application_vnd.enhancedswc
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enhancedswc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1203,6 +1293,7 @@ application_vnd.ensight
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ensight
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1216,6 +1307,7 @@ application_vnd.enzo.amr+hdf5
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enzo.amr+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1229,6 +1321,7 @@ application_vnd.espina.seg+zip
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.seg+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1242,6 +1335,7 @@ application_vnd.exodusII
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.exodusII
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1255,6 +1349,7 @@ application_vnd.faconstructor.3d-pli
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1268,6 +1363,7 @@ application_vnd.faconstructor.3d-pli+hdf5
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1281,6 +1377,7 @@ application_vnd.fei
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fei
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1294,6 +1391,7 @@ application_vnd.fmri.cifti.2
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fmri.cifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1307,6 +1405,7 @@ application_vnd.freesurfer
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1320,6 +1419,7 @@ application_vnd.freesurfer.annotation
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer.annotation
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1334,6 +1434,7 @@ application_vnd.g-node.nix+hdf5
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1347,6 +1448,7 @@ application_vnd.g-node.nix.neo
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix.neo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1360,6 +1462,7 @@ application_vnd.g-node.odml
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.odml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1374,6 +1477,7 @@ application_vnd.gatan.digitalmicrograph2
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gatan.digitalmicrograph2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1387,6 +1491,7 @@ application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
 --------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1401,6 +1506,7 @@ application_vnd.ge-healthcare.incell.1000-2000
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.1000-2000
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1414,6 +1520,7 @@ application_vnd.ge-healthcare.incell.3000
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.3000
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1427,6 +1534,7 @@ application_vnd.ge-healthcare.microct
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.microct
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1440,6 +1548,7 @@ application_vnd.geomview.oogl
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.geomview.oogl
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1453,6 +1562,7 @@ application_vnd.gifti
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gifti
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1466,6 +1576,7 @@ application_vnd.hamamatsu.aquacosmos
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.aquacosmos
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1479,6 +1590,7 @@ application_vnd.hamamatsu.his
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.his
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1492,6 +1604,7 @@ application_vnd.hamamatsu.ndpi
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.ndpi
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1505,6 +1618,7 @@ application_vnd.hamamatsu.vms
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.vms
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1518,6 +1632,7 @@ application_vnd.hitachi.s-4800
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hitachi.s-4800
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1531,6 +1646,7 @@ application_vnd.hyland.brainwaredam
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaredam
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1544,6 +1660,7 @@ application_vnd.hyland.brainwaref32
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaref32
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1557,6 +1674,7 @@ application_vnd.hyland.brainwaresrc
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaresrc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1570,6 +1688,7 @@ application_vnd.ics
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ics
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1583,6 +1702,7 @@ application_vnd.igorpro
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1596,6 +1716,7 @@ application_vnd.imacon
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imacon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1609,6 +1730,7 @@ application_vnd.imagepro.sequence
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.sequence
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1622,6 +1744,7 @@ application_vnd.imagepro.workspace
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.workspace
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1635,6 +1758,7 @@ application_vnd.imagic
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagic
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1648,6 +1772,7 @@ application_vnd.imod
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imod
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1661,6 +1786,7 @@ application_vnd.improvision.openlab
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.improvision.openlab
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1674,6 +1800,7 @@ application_vnd.indec-biosystems.axonrawformat
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.indec-biosystems.axonrawformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1687,6 +1814,7 @@ application_vnd.intan.technology
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intan.technology
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1700,6 +1828,7 @@ application_vnd.intranat+csv
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1713,6 +1842,7 @@ application_vnd.intranat+txt
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+txt
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1726,6 +1856,7 @@ application_vnd.inveon
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.inveon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1739,6 +1870,7 @@ application_vnd.iplab
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.iplab
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1752,6 +1884,7 @@ application_vnd.itk
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.itk
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1765,6 +1898,7 @@ application_vnd.ivision
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ivision
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1778,6 +1912,7 @@ application_vnd.jeol
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.jeol
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1791,6 +1926,7 @@ application_vnd.keller-lab.block
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.keller-lab.block
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1804,6 +1940,7 @@ application_vnd.khoros.viff.bitmap
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.khoros.viff.bitmap
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1817,6 +1954,7 @@ application_vnd.kitware.paraview.pvt
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kitware.paraview.pvt
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1830,6 +1968,7 @@ application_vnd.klustakwik
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.klustakwik
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1843,6 +1982,7 @@ application_vnd.kodak.bip
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kodak.bip
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1856,6 +1996,7 @@ application_vnd.kwik
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kwik
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1869,6 +2010,7 @@ application_vnd.laboratory-imaging.nikon
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.laboratory-imaging.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1882,6 +2024,7 @@ application_vnd.lambert-instruments.flim
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lambert-instruments.flim
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1895,6 +2038,7 @@ application_vnd.lavision.imspector
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lavision.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1908,6 +2052,7 @@ application_vnd.leica-biosystems.aperio
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperio
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1921,6 +2066,7 @@ application_vnd.leica-biosystems.aperiosvstiff
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperiosvstiff
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1934,6 +2080,7 @@ application_vnd.leica.las.af.lif
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.las.af.lif
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1947,6 +2094,7 @@ application_vnd.leica.lcs.lei
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.lcs.lei
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1960,6 +2108,7 @@ application_vnd.leica.scn
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1973,6 +2122,7 @@ application_vnd.li-cor.l2d
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.li-cor.l2d
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1986,6 +2136,7 @@ application_vnd.libreoffice
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.libreoffice
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -1999,6 +2150,7 @@ application_vnd.ls-dyna
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ls-dyna
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2012,6 +2164,7 @@ application_vnd.mathworks.live-script+zip
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mathworks.live-script+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2026,6 +2179,7 @@ application_vnd.mbf.neurolucida
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mbf.neurolucida
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2039,6 +2193,7 @@ application_vnd.mcid
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mcid
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2052,6 +2207,7 @@ application_vnd.mearec
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mearec
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2065,6 +2221,7 @@ application_vnd.metamorph.stack
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metamorph.stack
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2078,6 +2235,7 @@ application_vnd.metaxpress
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metaxpress
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2091,6 +2249,7 @@ application_vnd.micro-manager
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micro-manager
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2104,6 +2263,7 @@ application_vnd.micromed
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromed
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2117,6 +2277,7 @@ application_vnd.micromedgroup
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromedgroup
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2130,6 +2291,7 @@ application_vnd.microsoft.deepzoom.collection+xml
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.collection+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2144,6 +2306,7 @@ application_vnd.microsoft.deepzoom.image+xml
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.image+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2158,6 +2321,7 @@ application_vnd.minc
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2171,6 +2335,7 @@ application_vnd.minds+json
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minds+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2184,6 +2349,7 @@ application_vnd.minolta
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minolta
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2197,6 +2363,7 @@ application_vnd.mitk.fiber
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mitk.fiber
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2210,6 +2377,7 @@ application_vnd.molecular-imaging
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.molecular-imaging
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2223,6 +2391,7 @@ application_vnd.moleculardevices.axon
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.moleculardevices.axon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2236,6 +2405,7 @@ application_vnd.mrc
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2249,6 +2419,7 @@ application_vnd.mrtrix.imageformat
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.imageformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2262,6 +2433,7 @@ application_vnd.mrtrix.legacysparseformat
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.legacysparseformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2275,6 +2447,7 @@ application_vnd.ms-excel
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ms-excel
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2289,6 +2462,7 @@ application_vnd.neo.ascii.image
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.image
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2302,6 +2476,7 @@ application_vnd.neo.ascii.signal
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.signal
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2315,6 +2490,7 @@ application_vnd.neo.ascii.spiketrain
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.spiketrain
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2328,6 +2504,7 @@ application_vnd.nest
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2341,6 +2518,7 @@ application_vnd.nest-simulator+python
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2354,6 +2532,7 @@ application_vnd.netpbm.portableanymap
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.netpbm.portableanymap
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2367,6 +2546,7 @@ application_vnd.neuralensemble
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2380,6 +2560,7 @@ application_vnd.neuralensemble.pynn
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2393,6 +2574,7 @@ application_vnd.neuralynx
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralynx
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2406,6 +2588,7 @@ application_vnd.neuroglancer.precomputed
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2420,6 +2603,7 @@ application_vnd.neuroglancer.precomputed.info+json
 --------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.info+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2434,6 +2618,7 @@ application_vnd.neuroglancer.precomputed.raw
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.raw
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2448,6 +2633,7 @@ application_vnd.neuroml
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2461,6 +2647,7 @@ application_vnd.neuron-simulator+hoc
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+hoc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2474,6 +2661,7 @@ application_vnd.neuron-simulator+python
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2487,6 +2675,7 @@ application_vnd.neuron.mod
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron.mod
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2500,6 +2689,7 @@ application_vnd.neuroscope
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroscope
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2513,6 +2703,7 @@ application_vnd.neuroshareapi
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroshareapi
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2526,6 +2717,7 @@ application_vnd.nexstim.nbs-system.data
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nexstim.nbs-system.data
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2539,6 +2731,7 @@ application_vnd.nfsim
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nfsim
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2552,6 +2745,7 @@ application_vnd.nifti.1
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.1
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2565,6 +2759,7 @@ application_vnd.nifti.2
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2578,6 +2773,7 @@ application_vnd.nikon
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2591,6 +2787,7 @@ application_vnd.nikon.nef
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nef
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2604,6 +2801,7 @@ application_vnd.nikon.nis-elements
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nis-elements
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2617,6 +2815,7 @@ application_vnd.nineml
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nineml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2630,6 +2829,7 @@ application_vnd.nrrd
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nrrd
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2643,6 +2843,7 @@ application_vnd.nsdf
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nsdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2656,6 +2857,7 @@ application_vnd.nutil.parameters
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.parameters
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2669,6 +2871,7 @@ application_vnd.nutil.quantifier+json
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.quantifier+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2683,6 +2886,7 @@ application_vnd.nutil.results+csv
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.results+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2696,6 +2900,7 @@ application_vnd.nwb.nwbn+hdf
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nwb.nwbn+hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2709,6 +2914,7 @@ application_vnd.olympus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2722,6 +2928,7 @@ application_vnd.olympus.cellr-apl
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.cellr-apl
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2735,6 +2942,7 @@ application_vnd.olympus.fluoview.fv1000
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.fluoview.fv1000
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2748,6 +2956,7 @@ application_vnd.olympus.scanr
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.scanr
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2761,6 +2970,7 @@ application_vnd.ome.tiff
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2774,6 +2984,7 @@ application_vnd.ome.xml
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2787,6 +2998,7 @@ application_vnd.opendx
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.opendx
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2800,6 +3012,7 @@ application_vnd.openephys
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2813,6 +3026,7 @@ application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 -----------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2827,6 +3041,7 @@ application_vnd.openxmlformats-officedocument.wordprocessingml.document
 -----------------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.wordprocessingml.document
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2841,6 +3056,7 @@ application_vnd.oxford-instruments
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2854,6 +3070,7 @@ application_vnd.oxford-instruments.bitplaneimaris
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments.bitplaneimaris
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2867,6 +3084,7 @@ application_vnd.pco.pcoraw
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pco.pcoraw
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2880,6 +3098,7 @@ application_vnd.perkinelmer.columbus
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.columbus
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2893,6 +3112,7 @@ application_vnd.perkinelmer.densitometer
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.densitometer
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2906,6 +3126,7 @@ application_vnd.perkinelmer.evotec
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.evotec
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2919,6 +3140,7 @@ application_vnd.perkinelmer.nuance
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.nuance
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2932,6 +3154,7 @@ application_vnd.perkinelmer.operetta
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.operetta
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2945,6 +3168,7 @@ application_vnd.perkinelmer.ultraview
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.ultraview
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2958,6 +3182,7 @@ application_vnd.perkinelmer.vectra
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.vectra
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2971,6 +3196,7 @@ application_vnd.perkinelmer.volocity
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocity
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2984,6 +3210,7 @@ application_vnd.perkinelmer.volocitylibraryclipping
 ---------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocitylibraryclipping
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -2997,6 +3224,7 @@ application_vnd.pickle
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pickle
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3010,6 +3238,7 @@ application_vnd.picoquant
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.picoquant
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3023,6 +3252,7 @@ application_vnd.pixar.renderman.interface-bytestream
 ----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pixar.renderman.interface-bytestream
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3036,6 +3266,7 @@ application_vnd.plexon
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3049,6 +3280,7 @@ application_vnd.plexon.neuroexplorer
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon.neuroexplorer
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3062,6 +3294,7 @@ application_vnd.plot3d
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plot3d
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3075,6 +3308,7 @@ application_vnd.pov-ray.densityfile
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pov-ray.densityfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3088,6 +3322,7 @@ application_vnd.prairie-technologies
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.prairie-technologies
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3101,6 +3336,7 @@ application_vnd.princeton-instruments
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.princeton-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3114,6 +3350,7 @@ application_vnd.quesant
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quesant
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3127,6 +3364,7 @@ application_vnd.quicknii+json
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3141,6 +3379,7 @@ application_vnd.quicknii+xml
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3155,6 +3394,7 @@ application_vnd.quicknii.flat
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii.flat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3168,6 +3408,7 @@ application_vnd.raw.binarysignal
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.binarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3181,6 +3422,7 @@ application_vnd.raw.mcs
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.mcs
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3194,6 +3436,7 @@ application_vnd.rawbinarysignal
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rawbinarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3207,6 +3450,7 @@ application_vnd.rhk
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rhk
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3220,6 +3464,7 @@ application_vnd.rochedigitaldiagnostics.ventana
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rochedigitaldiagnostics.ventana
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3233,6 +3478,7 @@ application_vnd.sbtab
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sbtab
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3246,6 +3492,7 @@ application_vnd.scalasca.cube3
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube3
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3259,6 +3506,7 @@ application_vnd.scalasca.cube4
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube4
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3272,6 +3520,7 @@ application_vnd.sciunit.model
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.model
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3285,6 +3534,7 @@ application_vnd.sciunit.test
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.test
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3298,6 +3548,7 @@ application_vnd.score-p.filter
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.filter
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3311,6 +3562,7 @@ application_vnd.score-p.log
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.log
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3324,6 +3576,7 @@ application_vnd.score-p.score
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.score
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3337,6 +3590,7 @@ application_vnd.seiko
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.seiko
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3350,6 +3604,7 @@ application_vnd.siemens.ecat7
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.siemens.ecat7
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3363,6 +3618,7 @@ application_vnd.sivic
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sivic
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3376,6 +3632,7 @@ application_vnd.snakemake.snakefile
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.snakemake.snakefile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3389,6 +3646,7 @@ application_vnd.sonata
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3402,6 +3660,7 @@ application_vnd.sonata.nest
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3415,6 +3674,7 @@ application_vnd.sonata.neuron
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.neuron
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3428,6 +3688,7 @@ application_vnd.sonata.pynn
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3441,6 +3702,7 @@ application_vnd.spike2.sonpy.son
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2.sonpy.son
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3454,6 +3716,7 @@ application_vnd.spikeglx.system
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spikeglx.system
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3467,6 +3730,7 @@ application_vnd.spm
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spm
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3480,6 +3744,7 @@ application_vnd.spmfile
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spmfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3493,6 +3758,7 @@ application_vnd.stimfit
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimfit
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3506,6 +3772,7 @@ application_vnd.stimulate
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimulate
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3519,6 +3786,7 @@ application_vnd.structuredatafile
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.structuredatafile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3532,6 +3800,7 @@ application_vnd.tdt
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tdt
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3545,6 +3814,7 @@ application_vnd.tecplot
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tecplot
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3558,6 +3828,7 @@ application_vnd.thermo-fisher-scientific.cellomics
 --------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thermo-fisher-scientific.cellomics
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3571,6 +3842,7 @@ application_vnd.thevirtualbrain
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3584,6 +3856,7 @@ application_vnd.thevirtualbrain.metadata+tsv
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain.metadata+tsv
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3597,6 +3870,7 @@ application_vnd.tillphotonics.tillvision
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tillphotonics.tillvision
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3610,6 +3884,7 @@ application_vnd.traces+xml
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.traces+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3623,6 +3898,7 @@ application_vnd.trackscalarfile
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackscalarfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3636,6 +3912,7 @@ application_vnd.tracksfileformat
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tracksfileformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3649,6 +3926,7 @@ application_vnd.trackvis.trackfile
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackvis.trackfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3662,6 +3940,7 @@ application_vnd.treslte
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.treslte
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3675,6 +3954,7 @@ application_vnd.ubm
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ubm
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3688,6 +3968,7 @@ application_vnd.unicore.workflow+json
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unicore.workflow+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3701,6 +3982,7 @@ application_vnd.unisoku
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unisoku
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3714,6 +3996,7 @@ application_vnd.vaa3d.apo
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.apo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3727,6 +4010,7 @@ application_vnd.vaa3d.marker
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3740,6 +4024,7 @@ application_vnd.vaa3d.rawfile
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.rawfile
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3753,6 +4038,7 @@ application_vnd.vaa3d.surfaceformat
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.surfaceformat
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3766,6 +4052,7 @@ application_vnd.varianfdf
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.varianfdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3779,6 +4066,7 @@ application_vnd.veeco
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veeco
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3792,6 +4080,7 @@ application_vnd.veecoafm
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veecoafm
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3805,6 +4094,7 @@ application_vnd.vfgen
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vfgen
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3818,6 +4108,7 @@ application_vnd.vgsam
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vgsam
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3831,6 +4122,7 @@ application_vnd.visitechinternational.xys
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visitechinternational.xys
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3844,6 +4136,7 @@ application_vnd.visualign+json
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visualign+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3858,6 +4151,7 @@ application_vnd.voluba.v1.landmarkPairs+json
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.landmarkPairs+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3871,6 +4165,7 @@ application_vnd.voluba.v1.linearTransform+json
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3884,6 +4179,7 @@ application_vnd.volumeproperty
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.volumeproperty
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3897,6 +4193,7 @@ application_vnd.vtb
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtb
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3910,6 +4207,7 @@ application_vnd.vth
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vth
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3923,6 +4221,7 @@ application_vnd.vthb
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vthb
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3936,6 +4235,7 @@ application_vnd.vti
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vti
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3949,6 +4249,7 @@ application_vnd.vtm
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtm
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3962,6 +4263,7 @@ application_vnd.vtmb
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtmb
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3975,6 +4277,7 @@ application_vnd.vtp
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtp
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -3988,6 +4291,7 @@ application_vnd.vtr
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtr
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4001,6 +4305,7 @@ application_vnd.vts
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vts
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4014,6 +4319,7 @@ application_vnd.vtu
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtu
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4027,6 +4333,7 @@ application_vnd.wadsworthcenter.spider
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wadsworthcenter.spider
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4040,6 +4347,7 @@ application_vnd.watechnology.wa-top
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.watechnology.wa-top
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4053,6 +4361,7 @@ application_vnd.wavefronttechnologies
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4067,6 +4376,7 @@ application_vnd.wavefronttechnologies.mtl
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies.mtl
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4081,6 +4391,7 @@ application_vnd.wavemetrics.igorpro
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavemetrics.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4094,6 +4405,7 @@ application_vnd.winedr
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winedr
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4107,6 +4419,7 @@ application_vnd.winwcp
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winwcp
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4120,6 +4433,7 @@ application_vnd.woolz
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.woolz
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4133,6 +4447,7 @@ application_vnd.x-matlab-data
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.x-matlab-data
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4146,6 +4461,7 @@ application_vnd.xdmf
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.xdmf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4159,6 +4475,7 @@ application_vnd.yokogawa.cv7000
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.yokogawa.cv7000
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4172,6 +4489,7 @@ application_vnd.zarr
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zarr
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4185,6 +4503,7 @@ application_vnd.zeiss
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4198,6 +4517,7 @@ application_vnd.zeiss.axio-csm
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-csm
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4211,6 +4531,7 @@ application_vnd.zeiss.axio-vision
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-vision
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4224,6 +4545,7 @@ application_vnd.zeiss.leo
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.leo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4237,6 +4559,7 @@ application_vnd.zeiss.lsm-510
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.lsm-510
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4250,6 +4573,7 @@ application_x-blender
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-blender
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4263,6 +4587,7 @@ application_x-font-speedo
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-font-speedo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4276,6 +4601,7 @@ application_x-hdf
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4289,6 +4615,7 @@ application_x-ipynb+json
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-ipynb+json
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4303,6 +4630,7 @@ application_x-kseg
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-kseg
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4316,6 +4644,7 @@ application_x-latex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-latex
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4329,6 +4658,7 @@ application_x-netcdf
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-netcdf
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4342,6 +4672,7 @@ application_x-tgif
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-tgif
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4355,6 +4686,7 @@ application_xml
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4369,6 +4701,7 @@ application_yaml
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_yaml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4382,6 +4715,7 @@ application_zip
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_zip
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4397,6 +4731,7 @@ image_bmp
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_bmp
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4411,6 +4746,7 @@ image_jp2
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jp2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4424,6 +4760,7 @@ image_jpeg
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jpeg
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4437,6 +4774,7 @@ image_png
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_png
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4451,6 +4789,7 @@ image_tiff
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4465,6 +4804,7 @@ image_tiff.andor.abd
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.andor.abd
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4478,6 +4818,7 @@ image_tiff.improvision
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.improvision
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4491,6 +4832,7 @@ image_tiff.ionpath.mibi
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.ionpath.mibi
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4504,6 +4846,7 @@ image_tiff.metamorph.75
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.metamorph.75
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4517,6 +4860,7 @@ image_tiff.mias
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mias
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4530,6 +4874,7 @@ image_tiff.mikroscan
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mikroscan
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4543,6 +4888,7 @@ image_tiff.multichannel
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multichannel
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4556,6 +4902,7 @@ image_tiff.multipage
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multipage
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4569,6 +4916,7 @@ image_tiff.nikon.elements
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.elements
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4582,6 +4930,7 @@ image_tiff.nikon.ez-c1
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.ez-c1
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4595,6 +4944,7 @@ image_tiff.olympus.fluoview
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.fluoview
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4608,6 +4958,7 @@ image_tiff.olympus.sis
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.sis
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4621,6 +4972,7 @@ image_tiff.photoshop
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4634,6 +4986,7 @@ image_tiff.yokogawa.cellvoyager
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.yokogawa.cellvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4647,6 +5000,7 @@ image_vnd.adobe.photoshop
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.adobe.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4660,6 +5014,7 @@ image_vnd.compix.simplepcihcimage
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.compix.simplepcihcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4673,6 +5028,7 @@ image_vnd.silicongraphicsimage
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.silicongraphicsimage
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4686,6 +5042,7 @@ image_x-eps
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-eps
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4699,6 +5056,7 @@ image_x-panasonic-rw
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-panasonic-rw
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4712,6 +5070,7 @@ image_x-targa
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-targa
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4725,6 +5084,7 @@ text_cfg
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_cfg
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4738,6 +5098,7 @@ text_csv
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_csv
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4752,6 +5113,7 @@ text_html
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_html
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4766,6 +5128,7 @@ text_markdown
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_markdown
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4780,6 +5143,7 @@ text_plain
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_plain
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4793,6 +5157,7 @@ text_prs.fallenstein.rst
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_prs.fallenstein.rst
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4806,6 +5171,7 @@ text_semicolon-separated-values
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_semicolon-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4819,6 +5185,7 @@ text_tab-separated-values
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_tab-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4833,6 +5200,7 @@ text_x-cml+xml
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-cml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4847,6 +5215,7 @@ text_x-matlab
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-matlab
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4860,6 +5229,7 @@ text_x-objcsrc
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-objcsrc
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4873,6 +5243,7 @@ text_x-python
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4886,6 +5257,7 @@ text_x-python.2
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4899,6 +5271,7 @@ text_x-python.2.7
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2.7
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4912,6 +5285,7 @@ text_x-python.3
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4925,6 +5299,7 @@ text_x-python.3.6
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4938,6 +5313,7 @@ text_x-python.3.6.5
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6.5
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4951,6 +5327,7 @@ text_x-python.3.7
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.7
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4964,6 +5341,7 @@ text_x-python.3.8
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.8
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4977,6 +5355,7 @@ text_x-python.3.9
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.9
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -4990,6 +5369,7 @@ video_mp4
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_mp4
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -5004,6 +5384,7 @@ video_quicktime
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_quicktime
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -5017,6 +5398,7 @@ video_x-msvideo
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_x-msvideo
    :@type: https://openminds.ebrains.eu/core/ContentType
@@ -5030,6 +5412,7 @@ AAL1_ACIN
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_ACIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5045,6 +5428,7 @@ AAL1_AG
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_AG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5060,6 +5444,7 @@ AAL1_AMYG
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_AMYG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5075,6 +5460,7 @@ AAL1_CAU
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_CAU
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5090,6 +5476,7 @@ AAL1_F1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5105,6 +5492,7 @@ AAL1_F1M
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5120,6 +5508,7 @@ AAL1_F1MO
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1MO
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5135,6 +5524,7 @@ AAL1_F1O
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5150,6 +5540,7 @@ AAL1_F2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5165,6 +5556,7 @@ AAL1_F2O
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F2O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5180,6 +5572,7 @@ AAL1_F3O
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5195,6 +5588,7 @@ AAL1_F3OP
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3OP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5210,6 +5604,7 @@ AAL1_F3T
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3T
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5225,6 +5620,7 @@ AAL1_FUSI
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_FUSI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5240,6 +5636,7 @@ AAL1_GR
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_GR
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5255,6 +5652,7 @@ AAL1_HES
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_HES
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5270,6 +5668,7 @@ AAL1_HIP
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_HIP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5285,6 +5684,7 @@ AAL1_IN
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_IN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5300,6 +5700,7 @@ AAL1_LING
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_LING
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5315,6 +5716,7 @@ AAL1_MCIN
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_MCIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5330,6 +5732,7 @@ AAL1_O1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5345,6 +5748,7 @@ AAL1_O2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5360,6 +5764,7 @@ AAL1_O3
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5375,6 +5780,7 @@ AAL1_OC
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_OC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5390,6 +5796,7 @@ AAL1_P1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_P1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5405,6 +5812,7 @@ AAL1_P2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_P2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5420,6 +5828,7 @@ AAL1_PAL
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PAL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5435,6 +5844,7 @@ AAL1_PCIN
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PCIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5450,6 +5860,7 @@ AAL1_PCL
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PCL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5465,6 +5876,7 @@ AAL1_PHIP
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PHIP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5480,6 +5892,7 @@ AAL1_POST
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_POST
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5495,6 +5908,7 @@ AAL1_PQ
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PQ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5510,6 +5924,7 @@ AAL1_PRE
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PRE
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5525,6 +5940,7 @@ AAL1_PUT
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PUT
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5540,6 +5956,7 @@ AAL1_Q
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_Q
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5555,6 +5972,7 @@ AAL1_RO
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_RO
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5570,6 +5988,7 @@ AAL1_SMA
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_SMA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5585,6 +6004,7 @@ AAL1_SMG
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_SMG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5600,6 +6020,7 @@ AAL1_T1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5615,6 +6036,7 @@ AAL1_T1P
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T1P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5630,6 +6052,7 @@ AAL1_T2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5645,6 +6068,7 @@ AAL1_T2P
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T2P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5660,6 +6084,7 @@ AAL1_T3
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5675,6 +6100,7 @@ AAL1_THA
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_THA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5690,6 +6116,7 @@ AAL1_V1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_V1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5705,6 +6132,7 @@ AAL1_brain
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5719,6 +6147,7 @@ AAL1_centralRegion
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_centralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5733,6 +6162,7 @@ AAL1_frontalLobe
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5747,6 +6177,7 @@ AAL1_limbicLobe
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_limbicLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5761,6 +6192,7 @@ AAL1_occipitalLobe
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5775,6 +6207,7 @@ AAL1_parietalLobe
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5789,6 +6222,7 @@ AAL1_subcorticalGrayNuclei
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_subcorticalGrayNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5803,6 +6237,7 @@ AAL1_temporalLobe
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_temporalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5817,6 +6252,7 @@ AsegAtlas_accumbensArea
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_accumbensArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5831,6 +6267,7 @@ AsegAtlas_amygdala
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_amygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5845,6 +6282,7 @@ AsegAtlas_brainStem
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_brainStem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5859,6 +6297,7 @@ AsegAtlas_caudate
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_caudate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5873,6 +6312,7 @@ AsegAtlas_cerebellumCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebellumCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5887,6 +6327,7 @@ AsegAtlas_cerebellumWhiteMatter
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebellumWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5901,6 +6342,7 @@ AsegAtlas_cerebralCortex
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5915,6 +6357,7 @@ AsegAtlas_cerebralWhiteMatter
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebralWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5929,6 +6372,7 @@ AsegAtlas_cerebrospinalFluid
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebrospinalFluid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5943,6 +6387,7 @@ AsegAtlas_fourthVentricle
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_fourthVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5957,6 +6402,7 @@ AsegAtlas_hippocampus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_hippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5971,6 +6417,7 @@ AsegAtlas_inferiorLateralVentricle
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_inferiorLateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5985,6 +6432,7 @@ AsegAtlas_lateralVentricle
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_lateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -5999,6 +6447,7 @@ AsegAtlas_lesion
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_lesion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6013,6 +6462,7 @@ AsegAtlas_pallidum
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_pallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6027,6 +6477,7 @@ AsegAtlas_putamen
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_putamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6041,6 +6492,7 @@ AsegAtlas_thalamus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6055,6 +6507,7 @@ AsegAtlas_thirdVentricle
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_thirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6069,6 +6522,7 @@ AsegAtlas_unknown
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_unknown
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6083,6 +6537,7 @@ AsegAtlas_ventralDiencephalon
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_ventralDiencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6097,6 +6552,7 @@ AsegAtlas_vessel
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_vessel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6111,6 +6567,7 @@ BA-human_BA1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6126,6 +6583,7 @@ BA-human_BA10
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA10
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6141,6 +6599,7 @@ BA-human_BA11
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA11
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6156,6 +6615,7 @@ BA-human_BA12
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA12
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6171,6 +6631,7 @@ BA-human_BA13
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6186,6 +6647,7 @@ BA-human_BA14
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6201,6 +6663,7 @@ BA-human_BA15
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA15
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6216,6 +6679,7 @@ BA-human_BA16
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6231,6 +6695,7 @@ BA-human_BA17
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA17
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6246,6 +6711,7 @@ BA-human_BA18
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA18
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6261,6 +6727,7 @@ BA-human_BA19
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA19
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6276,6 +6743,7 @@ BA-human_BA2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6291,6 +6759,7 @@ BA-human_BA20
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA20
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6306,6 +6775,7 @@ BA-human_BA21
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA21
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6321,6 +6791,7 @@ BA-human_BA22
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA22
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6336,6 +6807,7 @@ BA-human_BA23
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA23
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6351,6 +6823,7 @@ BA-human_BA24
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA24
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6366,6 +6839,7 @@ BA-human_BA25
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA25
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6381,6 +6855,7 @@ BA-human_BA26
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA26
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6396,6 +6871,7 @@ BA-human_BA27
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA27
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6411,6 +6887,7 @@ BA-human_BA28
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA28
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6426,6 +6903,7 @@ BA-human_BA29
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6441,6 +6919,7 @@ BA-human_BA3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6456,6 +6935,7 @@ BA-human_BA30
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6471,6 +6951,7 @@ BA-human_BA31
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA31
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6486,6 +6967,7 @@ BA-human_BA32
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6501,6 +6983,7 @@ BA-human_BA33
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA33
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6516,6 +6999,7 @@ BA-human_BA34
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA34
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6531,6 +7015,7 @@ BA-human_BA35
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA35
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6546,6 +7031,7 @@ BA-human_BA36
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA36
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6561,6 +7047,7 @@ BA-human_BA37
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA37
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6576,6 +7063,7 @@ BA-human_BA38
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA38
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6591,6 +7079,7 @@ BA-human_BA39
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA39
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6606,6 +7095,7 @@ BA-human_BA4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6621,6 +7111,7 @@ BA-human_BA40
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA40
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6636,6 +7127,7 @@ BA-human_BA41
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA41
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6651,6 +7143,7 @@ BA-human_BA42
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA42
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6666,6 +7159,7 @@ BA-human_BA43
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA43
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6681,6 +7175,7 @@ BA-human_BA44
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA44
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6696,6 +7191,7 @@ BA-human_BA45
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA45
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6711,6 +7207,7 @@ BA-human_BA46
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA46
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6726,6 +7223,7 @@ BA-human_BA47
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA47
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6741,6 +7239,7 @@ BA-human_BA48
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA48
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6756,6 +7255,7 @@ BA-human_BA5
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6771,6 +7271,7 @@ BA-human_BA52
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA52
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6786,6 +7287,7 @@ BA-human_BA6
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6801,6 +7303,7 @@ BA-human_BA7
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6816,6 +7319,7 @@ BA-human_BA8
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6831,6 +7335,7 @@ BA-human_BA8a
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA8a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6846,6 +7351,7 @@ BA-human_BA9
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6861,6 +7367,7 @@ BA-human_cerebralCortex
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6876,6 +7383,7 @@ DKA_anteriorCingulateCortex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_anteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6890,6 +7398,7 @@ DKA_banksOfSuperiorTemporalSulcus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_banksOfSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6904,6 +7413,7 @@ DKA_banksSuperiorTemporalSulcus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_banksSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6918,6 +7428,7 @@ DKA_caudalAnteriorCingulateCortex
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_caudalAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6932,6 +7443,7 @@ DKA_caudalMiddleFrontalGyrus
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_caudalMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6946,6 +7458,7 @@ DKA_cerebralCortex
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6960,6 +7473,7 @@ DKA_cingulateCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6974,6 +7488,7 @@ DKA_corpusCallosum
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_corpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -6988,6 +7503,7 @@ DKA_cuneusCortex
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cuneusCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7002,6 +7518,7 @@ DKA_entorhinalCortex
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_entorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7016,6 +7533,7 @@ DKA_frontalLobe
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7030,6 +7548,7 @@ DKA_frontalPole
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_frontalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7044,6 +7563,7 @@ DKA_fusiformGyrus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_fusiformGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7058,6 +7578,7 @@ DKA_inferiorFrontalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7072,6 +7593,7 @@ DKA_inferiorParietalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorParietalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7086,6 +7608,7 @@ DKA_inferiorTemporalGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7100,6 +7623,7 @@ DKA_insula
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_insula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7114,6 +7638,7 @@ DKA_isthmusOfCingulateCortex
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_isthmusOfCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7128,6 +7653,7 @@ DKA_lateralOccipitalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7142,6 +7668,7 @@ DKA_lateralOrbitalFrontalCortex
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lateralOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7156,6 +7683,7 @@ DKA_lingualGyrus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lingualGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7170,6 +7698,7 @@ DKA_medialOrbitalFrontalCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_medialOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7184,6 +7713,7 @@ DKA_middleFrontalGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7198,6 +7728,7 @@ DKA_middleTemporalGyrus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_middleTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7212,6 +7743,7 @@ DKA_occipitalLobe
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7226,6 +7758,7 @@ DKA_orbitofrontalCortex
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7240,6 +7773,7 @@ DKA_paracentralLobule
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_paracentralLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7254,6 +7788,7 @@ DKA_parahippocampalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7268,6 +7803,7 @@ DKA_parietalLobe
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7282,6 +7818,7 @@ DKA_parsOpercularis
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsOpercularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7296,6 +7833,7 @@ DKA_parsOrbitalis
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsOrbitalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7310,6 +7848,7 @@ DKA_parsTriangularis
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsTriangularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7324,6 +7863,7 @@ DKA_pericalcarineCortex
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_pericalcarineCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7338,6 +7878,7 @@ DKA_postcentralGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_postcentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7352,6 +7893,7 @@ DKA_posteriorCingulateCortex
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_posteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7366,6 +7908,7 @@ DKA_precentralGyrus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_precentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7380,6 +7923,7 @@ DKA_precuneusCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_precuneusCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7394,6 +7938,7 @@ DKA_rostralAnteriorCingulateCortex
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_rostralAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7408,6 +7953,7 @@ DKA_rostralMiddleFrontalGyrus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_rostralMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7422,6 +7968,7 @@ DKA_superiorFrontalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7436,6 +7983,7 @@ DKA_superiorParietalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorParietalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7450,6 +7998,7 @@ DKA_superiorTemporalGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7464,6 +8013,7 @@ DKA_supramarginalGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_supramarginalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7478,6 +8028,7 @@ DKA_temporalLobe
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7492,6 +8043,7 @@ DKA_temporalLobe_lateralAspect
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe_lateralAspect
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7506,6 +8058,7 @@ DKA_temporalLobe_medialAspect
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe_medialAspect
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7520,6 +8073,7 @@ DKA_temporalPole
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7534,6 +8088,7 @@ DKA_transverseTemporalCortex
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_transverseTemporalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7548,6 +8103,7 @@ DWMA_anteriorSegementOfArcuateFasciculus
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_anteriorSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7562,6 +8118,7 @@ DWMA_arcuateFasciculus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_arcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7576,6 +8133,7 @@ DWMA_cingulum
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_cingulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7590,6 +8148,7 @@ DWMA_corticospinalTract
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_corticospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7604,6 +8163,7 @@ DWMA_deepWhiteMatter
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_deepWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7618,6 +8178,7 @@ DWMA_directSegementOfArcuateFasciculus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_directSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7632,6 +8193,7 @@ DWMA_fornix
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_fornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7646,6 +8208,7 @@ DWMA_inferiorFronto-occipitalFasciculus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_inferiorFronto-occipitalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7660,6 +8223,7 @@ DWMA_inferiorLongitudinalFasciculus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_inferiorLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7674,6 +8238,7 @@ DWMA_longCingulateFibres
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_longCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7688,6 +8253,7 @@ DWMA_posteriorSegementOfArcuateFasciculus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_posteriorSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7702,6 +8268,7 @@ DWMA_shortCingulateFibres
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_shortCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7716,6 +8283,7 @@ DWMA_temporalCingulateFibres
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_temporalCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7730,6 +8298,7 @@ DWMA_uncinateFasciculus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DWMA_uncinateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7744,6 +8313,7 @@ JBA_AcbL
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7758,6 +8328,7 @@ JBA_AcbM
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7772,6 +8343,7 @@ JBA_Area-1
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7786,6 +8358,7 @@ JBA_Area-2
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7800,6 +8373,7 @@ JBA_Area-25
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7814,6 +8388,7 @@ JBA_Area-25.25a
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7828,6 +8403,7 @@ JBA_Area-25.25p
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25p
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7842,6 +8418,7 @@ JBA_Area-33
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-33
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7856,6 +8433,7 @@ JBA_Area-3a
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7870,6 +8448,7 @@ JBA_Area-3b
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7884,6 +8463,7 @@ JBA_Area-44
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-44
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7898,6 +8478,7 @@ JBA_Area-45
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-45
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7912,6 +8493,7 @@ JBA_Area-4a
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7926,6 +8508,7 @@ JBA_Area-4p
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4p
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7940,6 +8523,7 @@ JBA_Area-5Ci
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5Ci
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7954,6 +8538,7 @@ JBA_Area-5L
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5L
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7968,6 +8553,7 @@ JBA_Area-5M
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7982,6 +8568,7 @@ JBA_Area-6d1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -7996,6 +8583,7 @@ JBA_Area-6d2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8010,6 +8598,7 @@ JBA_Area-6d3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8024,6 +8613,7 @@ JBA_Area-6ma
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6ma
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8038,6 +8628,7 @@ JBA_Area-6mp
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6mp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8052,6 +8643,7 @@ JBA_Area-7A
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7A
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8066,6 +8658,7 @@ JBA_Area-7M
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8080,6 +8673,7 @@ JBA_Area-7P
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8094,6 +8688,7 @@ JBA_Area-7PC
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7PC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8108,6 +8703,7 @@ JBA_Area-8d1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8122,6 +8718,7 @@ JBA_Area-8d2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8136,6 +8733,7 @@ JBA_Area-8v1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8150,6 +8748,7 @@ JBA_Area-8v2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8164,6 +8763,7 @@ JBA_Area-CoS1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-CoS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8178,6 +8778,7 @@ JBA_Area-FG1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8192,6 +8793,7 @@ JBA_Area-FG2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8206,6 +8808,7 @@ JBA_Area-FG3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8220,6 +8823,7 @@ JBA_Area-FG4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8234,6 +8838,7 @@ JBA_Area-Fo1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8248,6 +8853,7 @@ JBA_Area-Fo2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8262,6 +8868,7 @@ JBA_Area-Fo3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8276,6 +8883,7 @@ JBA_Area-Fo4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8290,6 +8898,7 @@ JBA_Area-Fo5
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8304,6 +8913,7 @@ JBA_Area-Fo6
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8318,6 +8928,7 @@ JBA_Area-Fo7
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8332,6 +8943,7 @@ JBA_Area-Fp1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8346,6 +8958,7 @@ JBA_Area-Fp2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8360,6 +8973,7 @@ JBA_Area-IFJ1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8374,6 +8988,7 @@ JBA_Area-IFJ2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8388,6 +9003,7 @@ JBA_Area-IFS1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8402,6 +9018,7 @@ JBA_Area-IFS2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8416,6 +9033,7 @@ JBA_Area-IFS3
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8430,6 +9048,7 @@ JBA_Area-IFS4
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8444,6 +9063,7 @@ JBA_Area-Ia
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8458,6 +9078,7 @@ JBA_Area-Ia1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8472,6 +9093,7 @@ JBA_Area-Ia2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8486,6 +9108,7 @@ JBA_Area-Ia3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8500,6 +9123,7 @@ JBA_Area-Id1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8514,6 +9138,7 @@ JBA_Area-Id10
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id10
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8528,6 +9153,7 @@ JBA_Area-Id2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8542,6 +9168,7 @@ JBA_Area-Id3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8556,6 +9183,7 @@ JBA_Area-Id4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8570,6 +9198,7 @@ JBA_Area-Id5
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8584,6 +9213,7 @@ JBA_Area-Id6
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8598,6 +9228,7 @@ JBA_Area-Id7
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8612,6 +9243,7 @@ JBA_Area-Id8
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8626,6 +9258,7 @@ JBA_Area-Id9
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8640,6 +9273,7 @@ JBA_Area-Ig1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8654,6 +9288,7 @@ JBA_Area-Ig2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8668,6 +9303,7 @@ JBA_Area-Ig3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8682,6 +9318,7 @@ JBA_Area-MFG1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8696,6 +9333,7 @@ JBA_Area-MFG2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8710,6 +9348,7 @@ JBA_Area-OP1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8724,6 +9363,7 @@ JBA_Area-OP2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8738,6 +9378,7 @@ JBA_Area-OP3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8752,6 +9393,7 @@ JBA_Area-OP4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8766,6 +9408,7 @@ JBA_Area-OP5
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8780,6 +9423,7 @@ JBA_Area-OP6
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8794,6 +9438,7 @@ JBA_Area-OP7
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8808,6 +9453,7 @@ JBA_Area-OP8
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8822,6 +9468,7 @@ JBA_Area-OP9
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8836,6 +9483,7 @@ JBA_Area-PF
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8850,6 +9498,7 @@ JBA_Area-PFcm
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFcm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8864,6 +9513,7 @@ JBA_Area-PFm
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8878,6 +9528,7 @@ JBA_Area-PFop
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFop
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8892,6 +9543,7 @@ JBA_Area-PFt
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFt
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8906,6 +9558,7 @@ JBA_Area-PGa
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGa
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8920,6 +9573,7 @@ JBA_Area-PGp
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8934,6 +9588,7 @@ JBA_Area-Ph1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8948,6 +9603,7 @@ JBA_Area-Ph2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8962,6 +9618,7 @@ JBA_Area-Ph3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8976,6 +9633,7 @@ JBA_Area-SFS1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -8990,6 +9648,7 @@ JBA_Area-SFS2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9004,6 +9663,7 @@ JBA_Area-STS1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9018,6 +9678,7 @@ JBA_Area-STS2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9032,6 +9693,7 @@ JBA_Area-TE-1.0
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9046,6 +9708,7 @@ JBA_Area-TE-1.1
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9060,6 +9723,7 @@ JBA_Area-TE-1.2
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9074,6 +9738,7 @@ JBA_Area-TE-2.1
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9088,6 +9753,7 @@ JBA_Area-TE-2.2
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9102,6 +9768,7 @@ JBA_Area-TE-3
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9116,6 +9783,7 @@ JBA_Area-TI
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9130,6 +9798,7 @@ JBA_Area-TPJ
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TPJ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9144,6 +9813,7 @@ JBA_Area-TeI
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TeI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9158,6 +9828,7 @@ JBA_Area-a29
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9172,6 +9843,7 @@ JBA_Area-a30
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9186,6 +9858,7 @@ JBA_Area-hIP1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9200,6 +9873,7 @@ JBA_Area-hIP2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9214,6 +9888,7 @@ JBA_Area-hIP3
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9228,6 +9903,7 @@ JBA_Area-hIP4
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9242,6 +9918,7 @@ JBA_Area-hIP5
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9256,6 +9933,7 @@ JBA_Area-hIP6
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9270,6 +9948,7 @@ JBA_Area-hIP7
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9284,6 +9963,7 @@ JBA_Area-hIP8
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9298,6 +9978,7 @@ JBA_Area-hOc1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9312,6 +9993,7 @@ JBA_Area-hOc2
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9326,6 +10008,7 @@ JBA_Area-hOc3d
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3d
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9340,6 +10023,7 @@ JBA_Area-hOc3v
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3v
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9354,6 +10038,7 @@ JBA_Area-hOc4d
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4d
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9368,6 +10053,7 @@ JBA_Area-hOc4la
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4la
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9382,6 +10068,7 @@ JBA_Area-hOc4lp
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4lp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9396,6 +10083,7 @@ JBA_Area-hOc4v
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4v
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9410,6 +10098,7 @@ JBA_Area-hOc5
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9424,6 +10113,7 @@ JBA_Area-hOc6
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9438,6 +10128,7 @@ JBA_Area-hPO1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hPO1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9452,6 +10143,7 @@ JBA_Area-i29
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9466,6 +10158,7 @@ JBA_Area-i30
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9480,6 +10173,7 @@ JBA_Area-p24ab
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9494,6 +10188,7 @@ JBA_Area-p24ab.p24a
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9508,6 +10203,7 @@ JBA_Area-p24ab.p24b
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9522,6 +10218,7 @@ JBA_Area-p24c
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9536,6 +10233,7 @@ JBA_Area-p24c.pd24cd
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9550,6 +10248,7 @@ JBA_Area-p24c.pd24cv
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cv
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9564,6 +10263,7 @@ JBA_Area-p24c.pv24c
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pv24c
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9578,6 +10278,7 @@ JBA_Area-p29
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9592,6 +10293,7 @@ JBA_Area-p30
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9606,6 +10308,7 @@ JBA_Area-p32
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9620,6 +10323,7 @@ JBA_Area-s24
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9634,6 +10338,7 @@ JBA_Area-s24.s24a
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9648,6 +10353,7 @@ JBA_Area-s24.s24b
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9662,6 +10368,7 @@ JBA_Area-s32
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9676,6 +10383,7 @@ JBA_BST
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_BST
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9690,6 +10398,7 @@ JBA_CA
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9704,6 +10413,7 @@ JBA_CA1
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9718,6 +10428,7 @@ JBA_CA2
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9732,6 +10443,7 @@ JBA_CA3
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9746,6 +10458,7 @@ JBA_CGL
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9760,6 +10473,7 @@ JBA_CGL.lam1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9774,6 +10488,7 @@ JBA_CGL.lam2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9788,6 +10503,7 @@ JBA_CGL.lam3
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9802,6 +10518,7 @@ JBA_CGL.lam4
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9816,6 +10533,7 @@ JBA_CGL.lam5
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9830,6 +10548,7 @@ JBA_CGL.lam6
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9844,6 +10563,7 @@ JBA_CGM
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9858,6 +10578,7 @@ JBA_CGM.CGMd
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9872,6 +10593,7 @@ JBA_CGM.CGMm
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9886,6 +10608,7 @@ JBA_CGM.CGMv
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMv
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9900,6 +10623,7 @@ JBA_CM
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9914,6 +10638,7 @@ JBA_CM.AAA
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.AAA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9928,6 +10653,7 @@ JBA_CM.Ce
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Ce
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9942,6 +10668,7 @@ JBA_CM.Me
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Me
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9956,6 +10683,7 @@ JBA_Ch-123
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-123
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9970,6 +10698,7 @@ JBA_Ch-4
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9984,6 +10713,7 @@ JBA_DG
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_DG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -9998,6 +10728,7 @@ JBA_Dorsal-Dentate-Nucleus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Dorsal-Dentate-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10012,6 +10743,7 @@ JBA_Entorhinal-Cortex
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Entorhinal-Cortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10026,6 +10758,7 @@ JBA_Fastigial-Nucleus
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Fastigial-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10040,6 +10773,7 @@ JBA_Frontal-I
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-I
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10054,6 +10788,7 @@ JBA_Frontal-II
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-II
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10068,6 +10803,7 @@ JBA_Frontal-to-Occipital
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Occipital
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10082,6 +10818,7 @@ JBA_Frontal-to-Temporal
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10096,6 +10833,7 @@ JBA_Frontal-to-Temporal-I
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-I
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10110,6 +10848,7 @@ JBA_Frontal-to-Temporal-II
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-II
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10124,6 +10863,7 @@ JBA_FuCd
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuCd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10138,6 +10878,7 @@ JBA_FuP
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10152,6 +10893,7 @@ JBA_HATA
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HATA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10166,6 +10908,7 @@ JBA_HC-Transsubiculum
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HC-Transsubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10180,6 +10923,7 @@ JBA_HeschlsGyrus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HeschlsGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10194,6 +10938,7 @@ JBA_IF
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10208,6 +10953,7 @@ JBA_IF.ice
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ice
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10222,6 +10968,7 @@ JBA_IF.iol
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.iol
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10236,6 +10983,7 @@ JBA_IF.ld
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ld
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10250,6 +10998,7 @@ JBA_Interposed-Nucleus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Interposed-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10264,6 +11013,7 @@ JBA_LB
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10278,6 +11028,7 @@ JBA_LB.Bl
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10292,6 +11043,7 @@ JBA_LB.Bm
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10306,6 +11058,7 @@ JBA_LB.La
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.La
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10320,6 +11073,7 @@ JBA_LB.Pl
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Pl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10334,6 +11088,7 @@ JBA_MF
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10348,6 +11103,7 @@ JBA_MF.icm
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.icm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10362,6 +11118,7 @@ JBA_MF.lm
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.lm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10376,6 +11133,7 @@ JBA_SF
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10390,6 +11148,7 @@ JBA_SF.AHi
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.AHi
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10404,6 +11163,7 @@ JBA_SF.APir
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.APir
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10418,6 +11178,7 @@ JBA_SF.VCo
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.VCo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10432,6 +11193,7 @@ JBA_STN
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_STN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10446,6 +11208,7 @@ JBA_Subiculum
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10460,6 +11223,7 @@ JBA_Subiculum.PaS
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PaS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10474,6 +11238,7 @@ JBA_Subiculum.PreS
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PreS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10488,6 +11253,7 @@ JBA_Subiculum.ProS
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.ProS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10502,6 +11268,7 @@ JBA_Subiculum.Sub
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.Sub
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10516,6 +11283,7 @@ JBA_Temporal-to-Parietal
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Temporal-to-Parietal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10530,6 +11298,7 @@ JBA_Terminal-islands
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Terminal-islands
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10544,6 +11313,7 @@ JBA_Tuberculum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Tuberculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10558,6 +11328,7 @@ JBA_VP
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10572,6 +11343,7 @@ JBA_VTM
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VTM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10586,6 +11358,7 @@ JBA_Ventral-Dentate-Nucleus
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ventral-Dentate-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10600,6 +11373,7 @@ JBA_agranularInsula
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_agranularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10614,6 +11388,7 @@ JBA_amygdala
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10628,6 +11403,7 @@ JBA_amygdaloidGroups
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdaloidGroups
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10642,6 +11418,7 @@ JBA_basalForebrain
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalForebrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10656,6 +11433,7 @@ JBA_basalGanglia
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10670,6 +11448,7 @@ JBA_brain
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10684,6 +11463,7 @@ JBA_cerebellarNuclei
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10698,6 +11478,7 @@ JBA_cerebellum
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10712,6 +11493,7 @@ JBA_cerebralCortex
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10726,6 +11508,7 @@ JBA_cerebralNuclei
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10740,6 +11523,7 @@ JBA_cingulateGyrus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cingulateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10754,6 +11538,7 @@ JBA_collateralSulcus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_collateralSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10768,6 +11553,7 @@ JBA_dentateNucleus
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dentateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10782,6 +11568,7 @@ JBA_diencephalon
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_diencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10796,6 +11583,7 @@ JBA_dorsalOccipitalCortex
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10810,6 +11598,7 @@ JBA_dorsalPrecentralGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalPrecentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10824,6 +11613,7 @@ JBA_dysgranularInsula
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dysgranularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10838,6 +11628,7 @@ JBA_fiberMasses
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fiberMasses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10852,6 +11643,7 @@ JBA_frontalCingulateGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalCingulateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10866,6 +11658,7 @@ JBA_frontalLobe
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10880,6 +11673,7 @@ JBA_frontalOperculum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalOperculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10894,6 +11688,7 @@ JBA_frontalPole
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10908,6 +11703,7 @@ JBA_fronto-marginalSulcus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fronto-marginalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10922,6 +11718,7 @@ JBA_fusiformGyrus
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fusiformGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10936,6 +11733,7 @@ JBA_granularInsula
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_granularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10950,6 +11748,7 @@ JBA_hippocampalFormation
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_hippocampalFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10964,6 +11763,7 @@ JBA_inferiorFrontalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10978,6 +11778,7 @@ JBA_inferiorFrontalSulcus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -10992,6 +11793,7 @@ JBA_inferiorParietalLobule
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorParietalLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11006,6 +11808,7 @@ JBA_insula
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_insula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11020,6 +11823,7 @@ JBA_intraparietalSulcus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_intraparietalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11034,6 +11838,7 @@ JBA_lateralOccipitalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11048,6 +11853,7 @@ JBA_lateralOrbitofrontalCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11062,6 +11868,7 @@ JBA_limbicLobe
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_limbicLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11076,6 +11883,7 @@ JBA_magnocellularGroup
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_magnocellularGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11090,6 +11898,7 @@ JBA_medialOrbitofrontalCortex
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_medialOrbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11104,6 +11913,7 @@ JBA_mesialPrecentralGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_mesialPrecentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11118,6 +11928,7 @@ JBA_metathalamus
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metathalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11132,6 +11943,7 @@ JBA_metencephalon
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11146,6 +11958,7 @@ JBA_middleFrontalGyrus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11160,6 +11973,7 @@ JBA_occipitalCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11174,6 +11988,7 @@ JBA_occipitalLobe
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11188,6 +12003,7 @@ JBA_olfactoryCortex
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_olfactoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11202,6 +12018,7 @@ JBA_parahippocampalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11216,6 +12033,7 @@ JBA_parietalLobe
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11230,6 +12048,7 @@ JBA_parietalOperculum
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalOperculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11244,6 +12063,7 @@ JBA_parieto-occipitalSulcus
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parieto-occipitalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11258,6 +12078,7 @@ JBA_postcentralGyrus
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_postcentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11272,6 +12093,7 @@ JBA_posteriorMedialSuperiorFrontalGyrus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_posteriorMedialSuperiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11286,6 +12108,7 @@ JBA_precentralGyrus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_precentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11300,6 +12123,7 @@ JBA_retrosplenialPart
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_retrosplenialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11314,6 +12138,7 @@ JBA_sublenticularPart
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_sublenticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11328,6 +12153,7 @@ JBA_subthalamus
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_subthalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11342,6 +12168,7 @@ JBA_superiorFrontalGyrus
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11356,6 +12183,7 @@ JBA_superiorFrontalSulcus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11370,6 +12198,7 @@ JBA_superiorParietalLobule
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorParietalLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11384,6 +12213,7 @@ JBA_superiorTemporalGyrus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11398,6 +12228,7 @@ JBA_superiorTemporalSulcus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11412,6 +12243,7 @@ JBA_telencephalon
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_telencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11426,6 +12258,7 @@ JBA_temporalInsula
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporalInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11440,6 +12273,7 @@ JBA_temporo-parietalJunction
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporo-parietalJunction
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11454,6 +12288,7 @@ JBA_thalamus
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11468,6 +12303,7 @@ JBA_ventralOccipitalCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11482,6 +12318,7 @@ JBA_ventralStriatum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11496,6 +12333,7 @@ WHSSDatlas_4thVentricle
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_4thVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11510,6 +12348,7 @@ WHSSDatlas_acousticStriae
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_acousticStriae
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11524,6 +12363,7 @@ WHSSDatlas_agranularInsularCortex
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_agranularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11538,6 +12378,7 @@ WHSSDatlas_agranularInsularCortexDorsalArea
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_agranularInsularCortexDorsalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11552,6 +12393,7 @@ WHSSDatlas_agranularInsularCortexPosteriorArea
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_agranularInsularCortexPosteriorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11566,6 +12408,7 @@ WHSSDatlas_agranularInsularCortexVentralArea
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_agranularInsularCortexVentralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11580,6 +12423,7 @@ WHSSDatlas_alveusOfTheHippocampus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_alveusOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11594,6 +12438,7 @@ WHSSDatlas_amygdaloidAreaUnspecified
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_amygdaloidAreaUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11608,6 +12453,7 @@ WHSSDatlas_angularThalamicNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_angularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11622,6 +12468,7 @@ WHSSDatlas_anteriorCommissure
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11636,6 +12483,7 @@ WHSSDatlas_anteriorCommissureAnteriorLimb
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteriorCommissureAnteriorLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11650,6 +12498,7 @@ WHSSDatlas_anteriorCommissureIntrabulbarPart
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteriorCommissureIntrabulbarPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11664,6 +12513,7 @@ WHSSDatlas_anteriorCommissurePosteriorLimb
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteriorCommissurePosteriorLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11678,6 +12528,7 @@ WHSSDatlas_anteriorNucleiOfTheDorsalThalamus
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteriorNucleiOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11692,6 +12543,7 @@ WHSSDatlas_anterodorsalThalamicNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anterodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11706,6 +12558,7 @@ WHSSDatlas_anteromedialThalamicNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11720,6 +12573,7 @@ WHSSDatlas_anteroventralThalamicNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteroventralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11734,6 +12588,7 @@ WHSSDatlas_anteroventralThalamicNucleusDorsomedialPart
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteroventralThalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11748,6 +12603,7 @@ WHSSDatlas_anteroventralThalamicNucleusVentrolateralPart
 --------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_anteroventralThalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11762,6 +12618,7 @@ WHSSDatlas_ascendingFibersOfTheFacialNerve
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ascendingFibersOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11776,6 +12633,7 @@ WHSSDatlas_auditoryCortex
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_auditoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11790,6 +12648,7 @@ WHSSDatlas_basalForebrainRegion
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_basalForebrainRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11804,6 +12663,7 @@ WHSSDatlas_basalForebrainRegionUnspecified
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_basalForebrainRegionUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11818,6 +12678,7 @@ WHSSDatlas_bedNucleusOfTheStriaTerminalis
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_bedNucleusOfTheStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11832,6 +12693,7 @@ WHSSDatlas_brachiumOfTheSuperiorColliculus
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11846,6 +12708,7 @@ WHSSDatlas_brain
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11860,6 +12723,7 @@ WHSSDatlas_brainstem
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_brainstem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11874,6 +12738,7 @@ WHSSDatlas_brainstemUnspecified
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_brainstemUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11888,6 +12753,7 @@ WHSSDatlas_caudalEntorhinalField
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_caudalEntorhinalField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11902,6 +12768,7 @@ WHSSDatlas_caudatePutamen
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_caudatePutamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11916,6 +12783,7 @@ WHSSDatlas_centralCanal
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_centralCanal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11930,6 +12798,7 @@ WHSSDatlas_centralLateralThalamicNucleus
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_centralLateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11944,6 +12813,7 @@ WHSSDatlas_centralMedialThalamicNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_centralMedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11958,6 +12828,7 @@ WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11972,6 +12843,7 @@ WHSSDatlas_cerebellum
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -11986,6 +12858,7 @@ WHSSDatlas_cerebellumUnspecified
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebellumUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12000,6 +12873,7 @@ WHSSDatlas_cerebralCortex
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12014,6 +12888,7 @@ WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus
 ---------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12028,6 +12903,7 @@ WHSSDatlas_cerebralNuclei
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebralNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12042,6 +12918,7 @@ WHSSDatlas_cerebrum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cerebrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12056,6 +12933,7 @@ WHSSDatlas_cingulateArea1
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cingulateArea1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12070,6 +12948,7 @@ WHSSDatlas_cingulateArea2
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cingulateArea2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12084,6 +12963,7 @@ WHSSDatlas_cingulateCortex
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12098,6 +12978,7 @@ WHSSDatlas_cingulateRegion
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cingulateRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12112,6 +12993,7 @@ WHSSDatlas_claustrum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_claustrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12126,6 +13008,7 @@ WHSSDatlas_cochlea
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cochlea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12140,6 +13023,7 @@ WHSSDatlas_cochlearNerve
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12154,6 +13038,7 @@ WHSSDatlas_cochlearNucleusDorsalPart
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cochlearNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12168,6 +13053,7 @@ WHSSDatlas_cochlearNucleusVentralPart
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cochlearNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12182,6 +13068,7 @@ WHSSDatlas_commissuralStriaTerminalis
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_commissuralStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12196,6 +13083,7 @@ WHSSDatlas_commissureOfTheSuperiorColliculus
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_commissureOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12210,6 +13098,7 @@ WHSSDatlas_cornuAmmonis
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cornuAmmonis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12224,6 +13113,7 @@ WHSSDatlas_cornuAmmonis1
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cornuAmmonis1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12238,6 +13128,7 @@ WHSSDatlas_cornuAmmonis2
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cornuAmmonis2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12252,6 +13143,7 @@ WHSSDatlas_cornuAmmonis3
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_cornuAmmonis3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12266,6 +13158,7 @@ WHSSDatlas_corpusCallosumAndAssociatedSubcorticalWhiteMatter
 ------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_corpusCallosumAndAssociatedSubcorticalWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12280,6 +13173,7 @@ WHSSDatlas_corticalPlate
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_corticalPlate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12294,6 +13188,7 @@ WHSSDatlas_corticalSubplate
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_corticalSubplate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12308,6 +13203,7 @@ WHSSDatlas_corticofugalPathways
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_corticofugalPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12322,6 +13218,7 @@ WHSSDatlas_corticofugalTractAndCoronaRadiata
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_corticofugalTractAndCoronaRadiata
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12336,6 +13233,7 @@ WHSSDatlas_deeperLayersOfTheSuperiorColliculus
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_deeperLayersOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12350,6 +13248,7 @@ WHSSDatlas_dentateGyrus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12364,6 +13263,7 @@ WHSSDatlas_diencephalon
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_diencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12378,6 +13278,7 @@ WHSSDatlas_dorsalCochlearNucleusDeepCore
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusDeepCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12392,6 +13293,7 @@ WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer
 -------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusFusiformAndGranuleLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12406,6 +13308,7 @@ WHSSDatlas_dorsalCochlearNucleusMolecularLayer
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalCochlearNucleusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12420,6 +13323,7 @@ WHSSDatlas_dorsalLateralGeniculateNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalLateralGeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12434,6 +13338,7 @@ WHSSDatlas_dorsalThalamus
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12448,6 +13353,7 @@ WHSSDatlas_dorsalcaudalMidlineGroupOfTheDorsalThalamus
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalcaudalMidlineGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12462,6 +13368,7 @@ WHSSDatlas_dorsalintermediateEntorhinalArea
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsalintermediateEntorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12476,6 +13383,7 @@ WHSSDatlas_dorsallateralEntorhinalArea
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsallateralEntorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12490,6 +13398,7 @@ WHSSDatlas_dorsolateralOrbitalArea
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dorsolateralOrbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12504,6 +13413,7 @@ WHSSDatlas_dysgranularInsularCortex
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_dysgranularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12518,6 +13428,7 @@ WHSSDatlas_endopiriformNucleus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_endopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12532,6 +13443,7 @@ WHSSDatlas_entopeduncularNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_entopeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12546,6 +13458,7 @@ WHSSDatlas_entorhinalCortex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_entorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12560,6 +13473,7 @@ WHSSDatlas_epithalamus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_epithalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12574,6 +13488,7 @@ WHSSDatlas_ethmoidLimitansNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ethmoidLimitansNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12588,6 +13503,7 @@ WHSSDatlas_externalMedullaryLamina
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_externalMedullaryLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12602,6 +13518,7 @@ WHSSDatlas_externalMedullaryLaminaAuditoryRadiation
 ---------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaAuditoryRadiation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12616,6 +13533,7 @@ WHSSDatlas_externalMedullaryLaminaUnspecified
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_externalMedullaryLaminaUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12630,6 +13548,7 @@ WHSSDatlas_facialNerve
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_facialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12644,6 +13563,7 @@ WHSSDatlas_facialNerveUnspecified
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_facialNerveUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12658,6 +13578,7 @@ WHSSDatlas_fasciculusRetroflexus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_fasciculusRetroflexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12672,6 +13593,7 @@ WHSSDatlas_fasciolaCinereum
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_fasciolaCinereum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12686,6 +13608,7 @@ WHSSDatlas_fieldsOfForel
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_fieldsOfForel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12700,6 +13623,7 @@ WHSSDatlas_fimbriaOfTheHippocampus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_fimbriaOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12714,6 +13638,7 @@ WHSSDatlas_fornix
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_fornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12728,6 +13653,7 @@ WHSSDatlas_frontalAssociationArea3
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_frontalAssociationArea3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12742,6 +13668,7 @@ WHSSDatlas_frontalAssociationCortex
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_frontalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12756,6 +13683,7 @@ WHSSDatlas_frontalRegion
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_frontalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12770,6 +13698,7 @@ WHSSDatlas_genuOfTheFacialNerve
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_genuOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12784,6 +13713,7 @@ WHSSDatlas_globusPallidusExternal
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_globusPallidusExternal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12798,6 +13728,7 @@ WHSSDatlas_globusPallidusExternalLateralPart
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_globusPallidusExternalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12812,6 +13743,7 @@ WHSSDatlas_globusPallidusExternalMedialPart
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_globusPallidusExternalMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12826,6 +13758,7 @@ WHSSDatlas_glomerularLayerOfTheAccessoryOlfactoryBulb
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_glomerularLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12840,6 +13773,7 @@ WHSSDatlas_glomerularLayerOfTheOlfactoryBulb
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_glomerularLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12854,6 +13788,7 @@ WHSSDatlas_granularInsularCortex
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_granularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12868,6 +13803,7 @@ WHSSDatlas_grayMatter
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_grayMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12882,6 +13818,7 @@ WHSSDatlas_habenularCommissure
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_habenularCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12896,6 +13833,7 @@ WHSSDatlas_hindbrain
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hindbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12910,6 +13848,7 @@ WHSSDatlas_hippocampalFormation
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hippocampalFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12924,6 +13863,7 @@ WHSSDatlas_hippocampalFormationUnspecified
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hippocampalFormationUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12938,6 +13878,7 @@ WHSSDatlas_hippocampalRegion
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hippocampalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12952,6 +13893,7 @@ WHSSDatlas_hippocampalWhiteMatter
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hippocampalWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12966,6 +13908,7 @@ WHSSDatlas_hypothalamicRegionUnspecified
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hypothalamicRegionUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12980,6 +13923,7 @@ WHSSDatlas_hypothalamus
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_hypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -12994,6 +13938,7 @@ WHSSDatlas_inferiorCerebellarPeduncle
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13008,6 +13953,7 @@ WHSSDatlas_inferiorColliculus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13022,6 +13968,7 @@ WHSSDatlas_inferiorColliculusBrachium
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculusBrachium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13036,6 +13983,7 @@ WHSSDatlas_inferiorColliculusCentralNucleus
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculusCentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13050,6 +13998,7 @@ WHSSDatlas_inferiorColliculusCommissure
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13064,6 +14013,7 @@ WHSSDatlas_inferiorColliculusDorsalCortex
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculusDorsalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13078,6 +14028,7 @@ WHSSDatlas_inferiorColliculusExternalCortex
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorColliculusExternalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13092,6 +14043,7 @@ WHSSDatlas_inferiorOlive
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_inferiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13106,6 +14058,7 @@ WHSSDatlas_infralimbicArea
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_infralimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13120,6 +14073,7 @@ WHSSDatlas_innerEar
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_innerEar
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13134,6 +14088,7 @@ WHSSDatlas_insularRegion
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_insularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13148,6 +14103,7 @@ WHSSDatlas_interanteromedialThalamicNucleus
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_interanteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13162,6 +14118,7 @@ WHSSDatlas_interbrain
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_interbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13176,6 +14133,7 @@ WHSSDatlas_intergeniculateLeaflet
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_intergeniculateLeaflet
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13190,6 +14148,7 @@ WHSSDatlas_intermediodorsalThalamicNucleus
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_intermediodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13204,6 +14163,7 @@ WHSSDatlas_internalMedullaryLamina
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_internalMedullaryLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13218,6 +14178,7 @@ WHSSDatlas_interpeduncularNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13232,6 +14193,7 @@ WHSSDatlas_intralaminarNucleiOfTheDorsalThalamus
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_intralaminarNucleiOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13246,6 +14208,7 @@ WHSSDatlas_intramedullaryThalamicArea
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_intramedullaryThalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13260,6 +14223,7 @@ WHSSDatlas_isocortex
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_isocortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13274,6 +14238,7 @@ WHSSDatlas_laminatedPallium
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_laminatedPallium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13288,6 +14253,7 @@ WHSSDatlas_lateralEntorhinalCortex
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13302,6 +14268,7 @@ WHSSDatlas_lateralHabenularNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralHabenularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13316,6 +14283,7 @@ WHSSDatlas_lateralLemniscus
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13330,6 +14298,7 @@ WHSSDatlas_lateralLemniscusCommissure
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13344,6 +14313,7 @@ WHSSDatlas_lateralLemniscusDorsalNucleus
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscusDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13358,6 +14328,7 @@ WHSSDatlas_lateralLemniscusIntermediateNucleus
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscusIntermediateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13372,6 +14343,7 @@ WHSSDatlas_lateralLemniscusUnspecified
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscusUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13386,6 +14358,7 @@ WHSSDatlas_lateralLemniscusVentralNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralLemniscusVentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13400,6 +14373,7 @@ WHSSDatlas_lateralOlfactoryTract
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13414,6 +14388,7 @@ WHSSDatlas_lateralOrbitalArea
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralOrbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13428,6 +14403,7 @@ WHSSDatlas_lateralPosteriorPulvinarComplexOfTheDorsalThalamus
 -------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralPosteriorPulvinarComplexOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13442,6 +14418,7 @@ WHSSDatlas_lateralPosteriorThalamicNucleusLateralPart
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralPosteriorThalamicNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13456,6 +14433,7 @@ WHSSDatlas_lateralPosteriorThalamicNucleusMediocaudalPart
 ---------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralPosteriorThalamicNucleusMediocaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13470,6 +14448,7 @@ WHSSDatlas_lateralPosteriorThalamicNucleusMediorostralPart
 ----------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralPosteriorThalamicNucleusMediorostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13484,6 +14463,7 @@ WHSSDatlas_lateralSuperiorOlive
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_lateralSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13498,6 +14478,7 @@ WHSSDatlas_laterodorsalThalamicNucleiOfTheDorsalThalamus
 --------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleiOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13512,6 +14493,7 @@ WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13526,6 +14508,7 @@ WHSSDatlas_laterodorsalThalamicNucleusVentrolateralPart
 -------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_laterodorsalThalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13540,6 +14523,7 @@ WHSSDatlas_mammillotegmentalTract
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mammillotegmentalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13554,6 +14538,7 @@ WHSSDatlas_medialEntorhinalCortex
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13568,6 +14553,7 @@ WHSSDatlas_medialEntorhinalField
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialEntorhinalField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13582,6 +14568,7 @@ WHSSDatlas_medialGeniculateBodyDorsalDivision
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyDorsalDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13596,6 +14583,7 @@ WHSSDatlas_medialGeniculateBodyMarginalZone
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyMarginalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13610,6 +14598,7 @@ WHSSDatlas_medialGeniculateBodyMedialDivision
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13624,6 +14613,7 @@ WHSSDatlas_medialGeniculateBodySuprageniculateNucleus
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodySuprageniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13638,6 +14628,7 @@ WHSSDatlas_medialGeniculateBodyVentralDivision
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateBodyVentralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13652,6 +14643,7 @@ WHSSDatlas_medialGeniculateComplexOfTheDorsalThalamus
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialGeniculateComplexOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13666,6 +14658,7 @@ WHSSDatlas_medialHabenularNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialHabenularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13680,6 +14673,7 @@ WHSSDatlas_medialLemniscus
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13694,6 +14688,7 @@ WHSSDatlas_medialLemniscusDecussation
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialLemniscusDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13708,6 +14703,7 @@ WHSSDatlas_medialLemniscusUnspecified
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialLemniscusUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13722,6 +14718,7 @@ WHSSDatlas_medialOrbitalArea
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialOrbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13736,6 +14733,7 @@ WHSSDatlas_medialSuperiorOlive
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medialSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13750,6 +14748,7 @@ WHSSDatlas_mediodorsalNucleusOfTheDorsalThalamus
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mediodorsalNucleusOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13764,6 +14763,7 @@ WHSSDatlas_mediodorsalThalamicNucleusCentralPart
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mediodorsalThalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13778,6 +14778,7 @@ WHSSDatlas_mediodorsalThalamicNucleusLateralPart
 ------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mediodorsalThalamicNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13792,6 +14793,7 @@ WHSSDatlas_mediodorsalThalamicNucleusMedialPart
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mediodorsalThalamicNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13806,6 +14808,7 @@ WHSSDatlas_mediofrontalCortex
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mediofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13820,6 +14823,7 @@ WHSSDatlas_medullaOblongata
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_medullaOblongata
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13834,6 +14838,7 @@ WHSSDatlas_mesencephalon
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_mesencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13848,6 +14853,7 @@ WHSSDatlas_metencephalon
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_metencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13862,6 +14868,7 @@ WHSSDatlas_midbrain
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_midbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13876,6 +14883,7 @@ WHSSDatlas_middleCerebellarPeduncle
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13890,6 +14898,7 @@ WHSSDatlas_molecularCellLayerOfTheCerebellum
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_molecularCellLayerOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13904,6 +14913,7 @@ WHSSDatlas_motorCortex
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_motorCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13918,6 +14928,7 @@ WHSSDatlas_myelencephalon
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_myelencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13932,6 +14943,7 @@ WHSSDatlas_neocortexUnspecified
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_neocortexUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13946,6 +14958,7 @@ WHSSDatlas_nonlaminatedPallium
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nonlaminatedPallium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13960,6 +14973,7 @@ WHSSDatlas_nucleiOfTheLateralLemniscus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleiOfTheLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13974,6 +14988,7 @@ WHSSDatlas_nucleusAccumbens
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusAccumbens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -13988,6 +15003,7 @@ WHSSDatlas_nucleusAccumbensCore
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusAccumbensCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14002,6 +15018,7 @@ WHSSDatlas_nucleusAccumbensShell
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusAccumbensShell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14016,6 +15033,7 @@ WHSSDatlas_nucleusOfTheLateralOlfactoryTract
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusOfTheLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14030,6 +15048,7 @@ WHSSDatlas_nucleusOfTheStriaMedullaris
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusOfTheStriaMedullaris
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14044,6 +15063,7 @@ WHSSDatlas_nucleusOfTheTrapezoidBody
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14058,6 +15078,7 @@ WHSSDatlas_nucleusSagulum
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_nucleusSagulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14072,6 +15093,7 @@ WHSSDatlas_occipitalRegion
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_occipitalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14086,6 +15108,7 @@ WHSSDatlas_olfactoryBulb
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_olfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14100,6 +15123,7 @@ WHSSDatlas_olfactoryBulbUnspecified
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_olfactoryBulbUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14114,6 +15138,7 @@ WHSSDatlas_olfactoryWhiteMatter
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_olfactoryWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14128,6 +15153,7 @@ WHSSDatlas_opticFiberSystemAndSupraopticDecussation
 ---------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_opticFiberSystemAndSupraopticDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14142,6 +15168,7 @@ WHSSDatlas_opticNerve
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_opticNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14156,6 +15183,7 @@ WHSSDatlas_opticTractAndOpticChiasm
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_opticTractAndOpticChiasm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14170,6 +15198,7 @@ WHSSDatlas_orbitofrontalCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14184,6 +15213,7 @@ WHSSDatlas_pallidum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14198,6 +15228,7 @@ WHSSDatlas_paracentralThalamicNucleus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_paracentralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14212,6 +15243,7 @@ WHSSDatlas_parafascicularThalamicNucleus
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parafascicularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14226,6 +15258,7 @@ WHSSDatlas_parahippocampalRegion
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parahippocampalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14240,6 +15273,7 @@ WHSSDatlas_parasubiculum
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parasubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14254,6 +15288,7 @@ WHSSDatlas_parataenialThalamicNucleus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parataenialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14268,6 +15303,7 @@ WHSSDatlas_paraventricularThalamicNucleiAnteriorAndPosterior
 ------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_paraventricularThalamicNucleiAnteriorAndPosterior
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14282,6 +15318,7 @@ WHSSDatlas_parietalAssociationCortexLateralArea
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parietalAssociationCortexLateralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14296,6 +15333,7 @@ WHSSDatlas_parietalAssociationCortexMedialArea
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parietalAssociationCortexMedialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14310,6 +15348,7 @@ WHSSDatlas_parietalAssociationCortexPosteriorArea
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parietalAssociationCortexPosteriorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14324,6 +15363,7 @@ WHSSDatlas_parietalRegion
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_parietalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14338,6 +15378,7 @@ WHSSDatlas_periaqueductalGray
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_periaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14352,6 +15393,7 @@ WHSSDatlas_peripeduncularNucleus
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14366,6 +15408,7 @@ WHSSDatlas_perirhinalArea35
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_perirhinalArea35
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14380,6 +15423,7 @@ WHSSDatlas_perirhinalArea36
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_perirhinalArea36
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14394,6 +15438,7 @@ WHSSDatlas_perirhinalCortex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_perirhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14408,6 +15453,7 @@ WHSSDatlas_periventricularGray
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_periventricularGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14422,6 +15468,7 @@ WHSSDatlas_pinealGland
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pinealGland
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14436,6 +15483,7 @@ WHSSDatlas_piriformCortex
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_piriformCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14450,6 +15498,7 @@ WHSSDatlas_piriformCortexLayer1
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_piriformCortexLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14464,6 +15513,7 @@ WHSSDatlas_piriformCortexLayer2
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_piriformCortexLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14478,6 +15528,7 @@ WHSSDatlas_piriformCortexLayer3
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_piriformCortexLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14492,6 +15543,7 @@ WHSSDatlas_pons
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14506,6 +15558,7 @@ WHSSDatlas_pontineNuclei
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pontineNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14520,6 +15573,7 @@ WHSSDatlas_posteriorCommissure
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14534,6 +15588,7 @@ WHSSDatlas_posteriorComplexOfTheDorsalThalamus
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorComplexOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14548,6 +15603,7 @@ WHSSDatlas_posteriorIntralaminarNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorIntralaminarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14562,6 +15618,7 @@ WHSSDatlas_posteriorParietalCortex
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorParietalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14576,6 +15633,7 @@ WHSSDatlas_posteriorThalamicNuclearGroupTriangularPart
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorThalamicNuclearGroupTriangularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14590,6 +15648,7 @@ WHSSDatlas_posteriorThalamicNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_posteriorThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14604,6 +15663,7 @@ WHSSDatlas_postrhinalCortex
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_postrhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14618,6 +15678,7 @@ WHSSDatlas_pregeniculateNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pregeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14632,6 +15693,7 @@ WHSSDatlas_prelimbicArea
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_prelimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14646,6 +15708,7 @@ WHSSDatlas_presubiculum
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_presubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14660,6 +15723,7 @@ WHSSDatlas_pretectalRegion
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pretectalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14674,6 +15738,7 @@ WHSSDatlas_pretectothalamicLamina
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pretectothalamicLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14688,6 +15753,7 @@ WHSSDatlas_pretectum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pretectum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14702,6 +15768,7 @@ WHSSDatlas_prethalamus
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_prethalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14716,6 +15783,7 @@ WHSSDatlas_primaryAuditoryArea
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primaryAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14730,6 +15798,7 @@ WHSSDatlas_primaryMotorArea
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primaryMotorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14744,6 +15813,7 @@ WHSSDatlas_primarySomatosensoryAreaBarrelField
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaBarrelField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14758,6 +15828,7 @@ WHSSDatlas_primarySomatosensoryAreaDysgranularZone
 --------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaDysgranularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14772,6 +15843,7 @@ WHSSDatlas_primarySomatosensoryAreaFaceRepresentation
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaFaceRepresentation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14786,6 +15858,7 @@ WHSSDatlas_primarySomatosensoryAreaForelimbRepresentation
 ---------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaForelimbRepresentation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14800,6 +15873,7 @@ WHSSDatlas_primarySomatosensoryAreaHindlimbRepresentation
 ---------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaHindlimbRepresentation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14814,6 +15888,7 @@ WHSSDatlas_primarySomatosensoryAreaTrunkRepresentation
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryAreaTrunkRepresentation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14828,6 +15903,7 @@ WHSSDatlas_primarySomatosensoryCortex
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14842,6 +15918,7 @@ WHSSDatlas_primaryVisualArea
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_primaryVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14856,6 +15933,7 @@ WHSSDatlas_pyramidalDecussation
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_pyramidalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14870,6 +15948,7 @@ WHSSDatlas_reticularPrethalamicNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_reticularPrethalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14884,6 +15963,7 @@ WHSSDatlas_reticularPrethalamicNucleusAuditorySegment
 -----------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_reticularPrethalamicNucleusAuditorySegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14898,6 +15978,7 @@ WHSSDatlas_reticularPrethalamicNucleusUnspecified
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_reticularPrethalamicNucleusUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14912,6 +15993,7 @@ WHSSDatlas_retroreuniensThalamicNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_retroreuniensThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14926,6 +16008,7 @@ WHSSDatlas_retrosplenialCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_retrosplenialCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14940,6 +16023,7 @@ WHSSDatlas_retrosplenialDysgranularArea
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_retrosplenialDysgranularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14954,6 +16038,7 @@ WHSSDatlas_retrosplenialGranularArea
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_retrosplenialGranularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14968,6 +16053,7 @@ WHSSDatlas_reuniensThalamicNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_reuniensThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14982,6 +16068,7 @@ WHSSDatlas_rhombencephalon
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_rhombencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -14996,6 +16083,7 @@ WHSSDatlas_rhomboidThalamicNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_rhomboidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15010,6 +16098,7 @@ WHSSDatlas_secondaryAuditoryArea
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15024,6 +16113,7 @@ WHSSDatlas_secondaryAuditoryAreaDorsalPart
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryAuditoryAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15038,6 +16128,7 @@ WHSSDatlas_secondaryAuditoryAreaVentralPart
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryAuditoryAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15052,6 +16143,7 @@ WHSSDatlas_secondaryMotorArea
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryMotorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15066,6 +16158,7 @@ WHSSDatlas_secondarySomatosensoryArea
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondarySomatosensoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15080,6 +16173,7 @@ WHSSDatlas_secondaryVisualAreaLateralPart
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryVisualAreaLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15094,6 +16188,7 @@ WHSSDatlas_secondaryVisualAreaMedialPart
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryVisualAreaMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15108,6 +16203,7 @@ WHSSDatlas_secondaryVisualCortex
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_secondaryVisualCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15122,6 +16218,7 @@ WHSSDatlas_septalRegion
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_septalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15136,6 +16233,7 @@ WHSSDatlas_somatosensoryCortex
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_somatosensoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15150,6 +16248,7 @@ WHSSDatlas_spinalCord
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_spinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15164,6 +16263,7 @@ WHSSDatlas_spinalTrigeminalNucleus
 ----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_spinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15178,6 +16278,7 @@ WHSSDatlas_spinalTrigeminalTract
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_spinalTrigeminalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15192,6 +16293,7 @@ WHSSDatlas_spiralGanglion
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_spiralGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15206,6 +16308,7 @@ WHSSDatlas_striaMedullarisThalami
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_striaMedullarisThalami
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15220,6 +16323,7 @@ WHSSDatlas_striaTerminalis
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_striaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15234,6 +16338,7 @@ WHSSDatlas_striatum
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_striatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15248,6 +16353,7 @@ WHSSDatlas_subgeniculateNucleus
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_subgeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15262,6 +16368,7 @@ WHSSDatlas_subiculum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15276,6 +16383,7 @@ WHSSDatlas_submediusThalamicNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_submediusThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15290,6 +16398,7 @@ WHSSDatlas_subpallium
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_subpallium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15304,6 +16413,7 @@ WHSSDatlas_subparafascicularNucleus
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_subparafascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15318,6 +16428,7 @@ WHSSDatlas_substantiaNigra
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_substantiaNigra
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15332,6 +16443,7 @@ WHSSDatlas_substantiaNigraCompactPart
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_substantiaNigraCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15346,6 +16458,7 @@ WHSSDatlas_substantiaNigraLateralPart
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_substantiaNigraLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15360,6 +16473,7 @@ WHSSDatlas_substantiaNigraReticularPart
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_substantiaNigraReticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15374,6 +16488,7 @@ WHSSDatlas_subthalamicNucleus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_subthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15388,6 +16503,7 @@ WHSSDatlas_superficialGrayLayerOfTheSuperiorColliculus
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superficialGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15402,6 +16518,7 @@ WHSSDatlas_superiorCerebellarPeduncleAndPrerubralField
 ------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superiorCerebellarPeduncleAndPrerubralField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15416,6 +16533,7 @@ WHSSDatlas_superiorColliculus
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15430,6 +16548,7 @@ WHSSDatlas_superiorOlivaryComplex
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15444,6 +16563,7 @@ WHSSDatlas_superiorParaolivaryNucleus
 -------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superiorParaolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15458,6 +16578,7 @@ WHSSDatlas_superiorPeriolivaryRegion
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_superiorPeriolivaryRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15472,6 +16593,7 @@ WHSSDatlas_supraopticDecussation
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_supraopticDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15486,6 +16608,7 @@ WHSSDatlas_tectum
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_tectum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15500,6 +16623,7 @@ WHSSDatlas_tegmentum
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_tegmentum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15514,6 +16638,7 @@ WHSSDatlas_telencephalon
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_telencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15528,6 +16653,7 @@ WHSSDatlas_temporalAssociationCortex
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_temporalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15542,6 +16668,7 @@ WHSSDatlas_temporalRegion
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_temporalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15556,6 +16683,7 @@ WHSSDatlas_thalamicTracts
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_thalamicTracts
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15570,6 +16698,7 @@ WHSSDatlas_thalamus
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15584,6 +16713,7 @@ WHSSDatlas_thalamusUnspecified
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_thalamusUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15598,6 +16728,7 @@ WHSSDatlas_transverseFibersOfThePons
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_transverseFibersOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15612,6 +16743,7 @@ WHSSDatlas_trapezoidBody
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_trapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15626,6 +16758,7 @@ WHSSDatlas_ventralAnteriorThalamicNucleus
 -----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralAnteriorThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15640,6 +16773,7 @@ WHSSDatlas_ventralCochlearNucleusAnteriorPart
 ---------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15654,6 +16788,7 @@ WHSSDatlas_ventralCochlearNucleusCapArea
 ----------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusCapArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15668,6 +16803,7 @@ WHSSDatlas_ventralCochlearNucleusGranuleCellLayer
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15682,6 +16818,7 @@ WHSSDatlas_ventralCochlearNucleusPosteriorPart
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15696,6 +16833,7 @@ WHSSDatlas_ventralHippocampalCommissure
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15710,6 +16848,7 @@ WHSSDatlas_ventralMidlineGroupOfTheDorsalThalamus
 -------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralMidlineGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15724,6 +16863,7 @@ WHSSDatlas_ventralNucleiOfTheDorsalThalamus
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralNucleiOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15738,6 +16878,7 @@ WHSSDatlas_ventralOrbitalArea
 -----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralOrbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15752,6 +16893,7 @@ WHSSDatlas_ventralPallidum
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15766,6 +16908,7 @@ WHSSDatlas_ventralPeriolivaryNuclei
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPeriolivaryNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15780,6 +16923,7 @@ WHSSDatlas_ventralPosteriorNucleusOfTheThalamusParvicellularPart
 ----------------------------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPosteriorNucleusOfTheThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15794,6 +16938,7 @@ WHSSDatlas_ventralPosteriorThalamicNucleus
 ------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPosteriorThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15808,6 +16953,7 @@ WHSSDatlas_ventralPosterolateralThalamicNucleus
 -----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPosterolateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15822,6 +16968,7 @@ WHSSDatlas_ventralPosteromedialThalamicNucleus
 ----------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralPosteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15836,6 +16983,7 @@ WHSSDatlas_ventralStriatalRegionUnspecified
 -------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralStriatalRegionUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15850,6 +16998,7 @@ WHSSDatlas_ventralTegmentalArea
 -------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15864,6 +17013,7 @@ WHSSDatlas_ventralintermediateEntorhinalArea
 --------------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventralintermediateEntorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15878,6 +17028,7 @@ WHSSDatlas_ventricularSystem
 ----------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventricularSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15892,6 +17043,7 @@ WHSSDatlas_ventricularSystemUnspecified
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventricularSystemUnspecified
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15906,6 +17058,7 @@ WHSSDatlas_ventrolateralOrbitalArea
 -----------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventrolateralOrbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15920,6 +17073,7 @@ WHSSDatlas_ventrolateralThalamicNucleus
 ---------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventrolateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15934,6 +17088,7 @@ WHSSDatlas_ventromedialThalamicNucleus
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_ventromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15948,6 +17103,7 @@ WHSSDatlas_vestibularApparatus
 ------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_vestibularApparatus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15962,6 +17118,7 @@ WHSSDatlas_vestibularNerve
 --------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_vestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15976,6 +17133,7 @@ WHSSDatlas_visualCortex
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_visualCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -15990,6 +17148,7 @@ WHSSDatlas_whiteMatter
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_whiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16004,6 +17163,7 @@ WHSSDatlas_whiteMatterOfTheBrainstem
 ------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheBrainstem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16018,6 +17178,7 @@ WHSSDatlas_whiteMatterOfTheTectum
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_whiteMatterOfTheTectum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16032,6 +17193,7 @@ WHSSDatlas_xiphoidThalamicNucleus
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_xiphoidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16046,6 +17208,7 @@ WHSSDatlas_zonaIncerta
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncerta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16060,6 +17223,7 @@ WHSSDatlas_zonaIncertaA11DopamineCells
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaA11DopamineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16074,6 +17238,7 @@ WHSSDatlas_zonaIncertaA13DopamineCells
 --------------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaA13DopamineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16088,6 +17253,7 @@ WHSSDatlas_zonaIncertaCaudalPart
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16102,6 +17268,7 @@ WHSSDatlas_zonaIncertaDorsalPart
 --------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16116,6 +17283,7 @@ WHSSDatlas_zonaIncertaRostralPart
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16130,6 +17298,7 @@ WHSSDatlas_zonaIncertaVentralPart
 ---------------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/WHSSDatlas_zonaIncertaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16144,6 +17313,7 @@ SWMA_CAC-PoCi_0
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CAC-PoCi_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16158,6 +17328,7 @@ SWMA_CAC-PrCu_0
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CAC-PrCu_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16172,6 +17343,7 @@ SWMA_CMF-Op_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-Op_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16186,6 +17358,7 @@ SWMA_CMF-PoC_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-PoC_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16200,6 +17373,7 @@ SWMA_CMF-PrC_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-PrC_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16214,6 +17388,7 @@ SWMA_CMF-PrC_1
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-PrC_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16228,6 +17403,7 @@ SWMA_CMF-RMF_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-RMF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16242,6 +17418,7 @@ SWMA_CMF-SF_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16256,6 +17433,7 @@ SWMA_CMF-SF_1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_CMF-SF_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16270,6 +17448,7 @@ SWMA_Cu-Li_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Cu-Li_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16284,6 +17463,7 @@ SWMA_Fu-LO_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Fu-LO_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16298,6 +17478,7 @@ SWMA_Fu-LO_1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Fu-LO_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16312,6 +17493,7 @@ SWMA_IC-PrCu_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IC-PrCu_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16326,6 +17508,7 @@ SWMA_IP-IT_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-IT_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16340,6 +17523,7 @@ SWMA_IP-LO_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-LO_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16354,6 +17538,7 @@ SWMA_IP-LO_1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-LO_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16368,6 +17553,7 @@ SWMA_IP-MT_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-MT_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16382,6 +17568,7 @@ SWMA_IP-SM_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-SM_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16396,6 +17583,7 @@ SWMA_IP-SP_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-SP_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16410,6 +17598,7 @@ SWMA_IP-SP_1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IP-SP_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16424,6 +17613,7 @@ SWMA_IT-MT_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IT-MT_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16438,6 +17628,7 @@ SWMA_IT-MT_1
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IT-MT_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16452,6 +17643,7 @@ SWMA_IT-MT_2
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_IT-MT_2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16466,6 +17658,7 @@ SWMA_LO-SP_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LO-SP_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16480,6 +17673,7 @@ SWMA_LOF-MOF_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LOF-MOF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16494,6 +17688,7 @@ SWMA_LOF-Or_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LOF-Or_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16508,6 +17703,7 @@ SWMA_LOF-RMF_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LOF-RMF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16522,6 +17718,7 @@ SWMA_LOF-RMF_1
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LOF-RMF_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16536,6 +17733,7 @@ SWMA_LOF-ST_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_LOF-ST_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16550,6 +17748,7 @@ SWMA_MOF-ST_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_MOF-ST_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16564,6 +17763,7 @@ SWMA_MT-SM_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_MT-SM_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16578,6 +17778,7 @@ SWMA_MT-ST_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_MT-ST_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16592,6 +17793,7 @@ SWMA_Op-Ins_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Op-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16606,6 +17808,7 @@ SWMA_Op-PrC_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Op-PrC_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16620,6 +17823,7 @@ SWMA_Op-SF_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Op-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16634,6 +17838,7 @@ SWMA_Op-Tr_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Op-Tr_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16648,6 +17853,7 @@ SWMA_Or-Ins_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Or-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16662,6 +17868,7 @@ SWMA_PoC-Ins_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16676,6 +17883,7 @@ SWMA_PoC-PrC_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-PrC_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16690,6 +17898,7 @@ SWMA_PoC-PrC_1
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-PrC_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16704,6 +17913,7 @@ SWMA_PoC-PrC_2
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-PrC_2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16718,6 +17928,7 @@ SWMA_PoC-PrC_3
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-PrC_3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16732,6 +17943,7 @@ SWMA_PoC-SM_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-SM_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16746,6 +17958,7 @@ SWMA_PoC-SM_1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-SM_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16760,6 +17973,7 @@ SWMA_PoC-SP_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-SP_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16774,6 +17988,7 @@ SWMA_PoC-SP_1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoC-SP_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16788,6 +18003,7 @@ SWMA_PoCi-PrCu_0
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16802,6 +18018,7 @@ SWMA_PoCi-PrCu_1
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16816,6 +18033,7 @@ SWMA_PoCi-PrCu_2
 ----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoCi-PrCu_2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16830,6 +18048,7 @@ SWMA_PoCi-RAC_0
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoCi-RAC_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16844,6 +18063,7 @@ SWMA_PoCi-SF_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PoCi-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16858,6 +18078,7 @@ SWMA_PrC-Ins_0
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PrC-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16872,6 +18093,7 @@ SWMA_PrC-SF_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PrC-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16886,6 +18108,7 @@ SWMA_PrC-SM_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PrC-SM_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16900,6 +18123,7 @@ SWMA_PrC-SP_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_PrC-SP_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16914,6 +18138,7 @@ SWMA_RAC-SF_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_RAC-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16928,6 +18153,7 @@ SWMA_RAC-SF_1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_RAC-SF_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16942,6 +18168,7 @@ SWMA_RMF-SF_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_RMF-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16956,6 +18183,7 @@ SWMA_RMF-SF_1
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_RMF-SF_1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16970,6 +18198,7 @@ SWMA_SM-Ins_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_SM-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16984,6 +18213,7 @@ SWMA_SP-SM_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_SP-SM_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -16998,6 +18228,7 @@ SWMA_ST-Ins_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_ST-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -17012,6 +18243,7 @@ SWMA_ST-TT_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_ST-TT_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -17026,6 +18258,7 @@ SWMA_Tr-Ins_0
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Tr-Ins_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -17040,6 +18273,7 @@ SWMA_Tr-SF_0
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_Tr-SF_0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
@@ -17054,6 +18288,7 @@ SWMA_superficialWhiteMatter
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SWMA_superficialWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity

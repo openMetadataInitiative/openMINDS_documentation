@@ -12,6 +12,7 @@ fixated
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/fixated
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -26,6 +27,7 @@ freeFloating
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/freeFloating
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -40,6 +42,7 @@ labeled
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/labeled
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -54,6 +57,7 @@ mounted
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -68,6 +72,7 @@ stained
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -82,6 +87,7 @@ unstained
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/unstained
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
@@ -96,6 +102,7 @@ untreated
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute

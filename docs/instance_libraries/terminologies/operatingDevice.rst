@@ -12,6 +12,7 @@ desktop
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -26,6 +27,7 @@ embeddedSystem
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -40,6 +42,7 @@ highPerformanceComputer
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -54,6 +57,7 @@ mobile
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -68,6 +72,7 @@ neuromorphicComputer
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -83,6 +88,7 @@ server
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -97,6 +103,7 @@ web
 ---
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice

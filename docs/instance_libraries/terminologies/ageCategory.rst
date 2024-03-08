@@ -12,6 +12,7 @@ adolescent
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/adolescent
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -26,6 +27,7 @@ adult
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/adult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -42,6 +44,7 @@ embryo
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/embryo
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -58,6 +61,7 @@ infant
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/infant
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -74,6 +78,7 @@ juvenile
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/juvenile
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -90,6 +95,7 @@ lateAdult
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -106,6 +112,7 @@ neonate
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/neonate
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -122,6 +129,7 @@ perinatal
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/perinatal
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -138,6 +146,7 @@ primeAdult
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/primeAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -154,6 +163,7 @@ youngAdult
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory

@@ -12,6 +12,7 @@ ambidextrousHandedness
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/handedness/ambidextrousHandedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Handedness
@@ -26,6 +27,7 @@ ambilevousHandedness
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Handedness
@@ -40,6 +42,7 @@ leftHandedness
 --------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/handedness/leftHandedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Handedness
@@ -54,6 +57,7 @@ mixedHandedness
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/handedness/mixedHandedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Handedness
@@ -68,6 +72,7 @@ rightHandedness
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/handedness/rightHandedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Handedness

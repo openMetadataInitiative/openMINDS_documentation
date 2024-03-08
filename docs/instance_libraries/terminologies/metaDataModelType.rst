@@ -12,6 +12,7 @@ commonDataElements
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/metaDataModelType/commonDataElements
    :@type: https://openminds.ebrains.eu/controlledTerms/MetaDataModelType
@@ -26,6 +27,7 @@ dataRepositoryModel
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel
    :@type: https://openminds.ebrains.eu/controlledTerms/MetaDataModelType
@@ -40,6 +42,7 @@ graphMetadataModel
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/metaDataModelType/graphMetadataModel
    :@type: https://openminds.ebrains.eu/controlledTerms/MetaDataModelType
@@ -54,6 +57,7 @@ relationalMetadataModel
 -----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel
    :@type: https://openminds.ebrains.eu/controlledTerms/MetaDataModelType

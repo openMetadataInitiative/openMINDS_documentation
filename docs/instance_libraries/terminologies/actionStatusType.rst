@@ -12,6 +12,7 @@ active
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/active
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -27,6 +28,7 @@ completed
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/completed
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -42,6 +44,7 @@ failed
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/failed
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -57,6 +60,7 @@ inactive
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/inactive
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -71,6 +75,7 @@ paused
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/paused
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -85,6 +90,7 @@ pending
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/pending
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
@@ -99,6 +105,7 @@ potential
 ---------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/actionStatusType/potential
    :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType

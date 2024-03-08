@@ -12,6 +12,7 @@ advanced
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/advanced
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
@@ -26,6 +27,7 @@ beginner
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/beginner
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
@@ -40,6 +42,7 @@ intermediate
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/intermediate
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel

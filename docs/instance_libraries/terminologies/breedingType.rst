@@ -12,6 +12,7 @@ coisogenic
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/coisogenic
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
@@ -26,6 +27,7 @@ congenic
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/congenic
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
@@ -40,6 +42,7 @@ hybrid
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/hybrid
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
@@ -54,6 +57,7 @@ inbred
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/inbred
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
@@ -68,6 +72,7 @@ outbred
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/outbred
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType
@@ -82,6 +87,7 @@ selectiveInbred
 ---------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/breedingType/selectiveInbred
    :@type: https://openminds.ebrains.eu/controlledTerms/BreedingType

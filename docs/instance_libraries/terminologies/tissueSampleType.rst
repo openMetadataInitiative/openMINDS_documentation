@@ -12,6 +12,7 @@ biopsySample
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/biopsySample
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -28,6 +29,7 @@ fluidSpecimen
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/fluidSpecimen
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -42,6 +44,7 @@ hemisphere
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/hemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -56,6 +59,7 @@ heterogeneousCellPopulation
 ---------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/heterogeneousCellPopulation
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -70,6 +74,7 @@ homogeneousCellPopulation
 -------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulation
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -84,6 +89,7 @@ nerve
 -----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/nerve
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -98,6 +104,7 @@ singleCell
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/singleCell
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -112,6 +119,7 @@ tissueBlock
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/tissueBlock
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -126,6 +134,7 @@ tissueSlice
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
@@ -140,6 +149,7 @@ wholeOrgan
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleType

@@ -12,6 +12,7 @@ EUCompliant
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
@@ -27,6 +28,7 @@ EUCompliant+
 ------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
@@ -42,6 +44,7 @@ notRequired
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment

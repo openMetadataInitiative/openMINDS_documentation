@@ -12,6 +12,7 @@ colloid
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
@@ -27,6 +28,7 @@ solution
 --------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
@@ -42,6 +44,7 @@ suspension
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType

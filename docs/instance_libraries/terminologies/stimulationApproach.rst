@@ -12,6 +12,7 @@ auditoryStimulation
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -29,6 +30,7 @@ gustatoryStimulation
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -46,6 +48,7 @@ interoceptiveStimulation
 ------------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -63,6 +66,7 @@ olfactoryStimulation
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -80,6 +84,7 @@ tactileStimulation
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -97,6 +102,7 @@ visualStimulation
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach

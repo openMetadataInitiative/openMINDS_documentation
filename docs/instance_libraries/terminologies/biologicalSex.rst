@@ -12,6 +12,7 @@ female
 ------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/female
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -29,6 +30,7 @@ hermaphrodite
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -46,6 +48,7 @@ male
 ----
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/male
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -63,6 +66,7 @@ notDetectable
 -------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex

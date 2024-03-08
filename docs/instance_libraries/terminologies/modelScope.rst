@@ -12,6 +12,7 @@ network
 -------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/network
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -26,6 +27,7 @@ network-brainRegion
 -------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -40,6 +42,7 @@ network-microcircuit
 --------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -54,6 +57,7 @@ network-wholeBrain
 ------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -68,6 +72,7 @@ singleCell
 ----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/singleCell
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -82,6 +87,7 @@ subcellular
 -----------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -96,6 +102,7 @@ subcellular-ionChannel
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -110,6 +117,7 @@ subcellular-molecular
 ---------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -124,6 +132,7 @@ subcellular-signalling
 ----------------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
@@ -138,6 +147,7 @@ subcellular-spine
 -----------------
 
 .. admonition:: metadata sheet
+   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
