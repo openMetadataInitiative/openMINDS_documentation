@@ -79,3 +79,7 @@ html.writer-html5 .rst-content dl.citation > dt, html.writer-html5 .rst-content 
      width:100%;
     }
 }
+
+button.toggle-button {
+  color: red;
+}
