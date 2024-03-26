@@ -7,7 +7,7 @@ openMINDS metadata instances should be provided as JSON-LD documents (file exten
 Creating a minimal instance
 ###########################
 
-Let us start, by looking at a simple "Person" instance which has to be designed according to the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_.
+Let us start by looking at a simple "Person" instance which has to be designed according to the `"Person" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_.
 
 If you inspect the "Person" schema, you learn that only the property `"givenName" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#givenname>`_ is required. Furthermore, the schema demands that the property "givenName" can only state a single value of data type "string". The remaining properties of the schema are optional. 
 
@@ -50,7 +50,7 @@ Based on these constraints, a minimal "Person" instance could look like this:
 
 As you can see, you can use three syntaxes (**"compact-1"**, **"compact-2"**, and **"expanded"**) for an openMINDS_instance. In the following, we will explain these syntaxes together with their usage/meaning of the JSON-LD specific keywords (``"@context"``, ``"@vocab"``, ``"@id"``, and ``"@type"``). 
 
-**"@context"**: The JSON-LD keyword ``"@context"`` has to be specified when using one of the compact JSON-LD syntaxes (**"compact-1"** or **"compact-2"**). For these syntaxes, we define under ``"@context"`` a short cut for the common part of the semantic property names which are formatted as internationalized resource identifiers (IRIs) within the openMINDS schemas. 
+**"@context"**: The JSON-LD keyword ``"@context"`` has to be specified when using one of the compact JSON-LD syntaxes (**"compact-1"** or **"compact-2"**). For these syntaxes, we define under ``"@context"`` a shortcut for the common part of the semantic property names which are formatted as internationalized resource identifiers (IRIs) within the openMINDS schemas. 
 
 How the common part of the semantic property names is shortcutted depends on the compact syntax:
 
@@ -64,14 +64,12 @@ Both compact syntaxes can be interpreted by any tool that is aware of the JSON-L
 - For a local metadata collection the ``"@id"`` of instances can be defined as blank node ID. A blank node ID has the form of ``"_:suffix"``. The suffix can either be a unique human-readable label or a numerical identifier. Be aware that blank node identifier are not persistent or portable. 
 - For a portable metadata collection the ``"@id"`` of instances have to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
 
-Be aware that embedded typed objects (cf. `Embedded typed objects`_) within an instance do not receive an individual ``"@id"``. In accordance with the JSON-LD specifications, they are inseparable from their parent instance and are not individually referable. 
-
 **"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance or an embedded typed object within an instance. The ``"@type"`` clearly identifies the metadata schema that should be used to validate the content of an instance or an embedded typed object.
 
 Linking instances
 #################
 
-Connections between instances of a linked metadata collection are formed by refering to instances unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
+Connections between instances of a linked metadata collection are formed by refering to instance's unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
 
 If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
@@ -275,3 +273,5 @@ Afterwards we can create a valid embedded "Affiliation" object inside our "Perso
         "https://openminds.ebrains.eu/vocab/familyName": "Beeblebrox",
         "https://openminds.ebrains.eu/vocab/givenName": "Zaphod"
       }
+
+Note that embedded typed objects within an instance do not receive an individual ``"@id"``. In accordance with the JSON-LD specifications, they are inseparable from their parent instance and are not individually referable. 

@@ -2,7 +2,7 @@
 Studied specimens
 #################
 
-openMINDS supports the representation of two explicit types of specimens: **subject** (referring to a whole organism) and **tissue sample** (referring to an extracted or artifically grown tissue). Moreover, openMINDS supports the additional or alternative representation of individual specimens as respective sets, referred to as **subject group** and **tissue sample collection**. 
+openMINDS supports the representation of two explicit types of specimens: `"Subject" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subject.html>`_ (referring to a whole organism) and `"TissueSample" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSample.html>`_ (referring to an extracted or artifically grown tissue). Moreover, openMINDS supports the additional or alternative representation of individual specimens as respective sets, referred to as `"SubjectGroup" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroup.html>`_ and `"TissueSampleCollection" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleCollection.html#>`_. 
 
 Time dependencies of specimen properties
 ########################################
