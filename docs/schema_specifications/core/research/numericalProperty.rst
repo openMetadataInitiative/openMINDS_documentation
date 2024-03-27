@@ -4,6 +4,8 @@ NumericalProperty
 
 :Semantic name: https://openminds.ebrains.eu/core/NumericalProperty
 
+:Display as: Numerical property
+
 Structured information about a property of some entity or process whose value is a number.
 
 

@@ -4,6 +4,8 @@ LaunchConfiguration
 
 :Semantic name: https://openminds.ebrains.eu/computation/LaunchConfiguration
 
+:Display as: Launch configuration
+
 Structured information about the launch of a computational process.
 
 

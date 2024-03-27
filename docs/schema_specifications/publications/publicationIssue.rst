@@ -4,6 +4,8 @@ PublicationIssue
 
 :Semantic name: https://openminds.ebrains.eu/publications/PublicationIssue
 
+:Display as: Publication issue
+
 
 ------------
 

@@ -4,6 +4,8 @@ ViewerSpecification
 
 :Semantic name: https://openminds.ebrains.eu/sands/ViewerSpecification
 
+:Display as: Viewer specification
+
 
 ------------
 

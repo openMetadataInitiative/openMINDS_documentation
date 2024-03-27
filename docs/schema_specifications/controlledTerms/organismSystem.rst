@@ -4,8 +4,8 @@ OrganismSystem
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
 
+:Display as: Organism system
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/organismSystem.html>`_.
 
 ------------
 

@@ -4,6 +4,8 @@ TissueSampleCollection
 
 :Semantic name: https://openminds.ebrains.eu/core/TissueSampleCollection
 
+:Display as: Tissue sample collection
+
 
 ------------
 

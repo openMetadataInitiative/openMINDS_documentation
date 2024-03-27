@@ -4,6 +4,8 @@ IdentifiersDotOrgID
 
 :Semantic name: https://openminds.ebrains.eu/core/IdentifiersDotOrgID
 
+:Display as: Identifiers dot org id
+
 
 ------------
 

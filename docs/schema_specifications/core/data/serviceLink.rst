@@ -4,6 +4,8 @@ ServiceLink
 
 :Semantic name: https://openminds.ebrains.eu/core/ServiceLink
 
+:Display as: Service link
+
 
 ------------
 

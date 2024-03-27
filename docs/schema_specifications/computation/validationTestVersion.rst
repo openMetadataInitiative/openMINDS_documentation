@@ -4,6 +4,8 @@ ValidationTestVersion
 
 :Semantic name: https://openminds.ebrains.eu/computation/ValidationTestVersion
 
+:Display as: Validation test version
+
 Structured information about a specific implementation of a validation test.
 
 

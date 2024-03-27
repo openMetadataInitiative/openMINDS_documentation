@@ -4,6 +4,8 @@ LocalFile
 
 :Semantic name: https://openminds.ebrains.eu/computation/LocalFile
 
+:Display as: Local file
+
 Structured information about a file that is not accessible via a URL.
 
 

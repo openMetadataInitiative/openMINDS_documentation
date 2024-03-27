@@ -4,6 +4,8 @@ Consortium
 
 :Semantic name: https://openminds.ebrains.eu/core/Consortium
 
+:Display as: Consortium
+
 Structured information about an association of two or more persons or organizations, with the objective of participating in a common activity.
 
 

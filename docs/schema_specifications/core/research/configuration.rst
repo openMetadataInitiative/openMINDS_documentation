@@ -4,6 +4,8 @@ Configuration
 
 :Semantic name: https://openminds.ebrains.eu/core/Configuration
 
+:Display as: Configuration
+
 Structured information about the properties or parameters of an entity or process.
 
 

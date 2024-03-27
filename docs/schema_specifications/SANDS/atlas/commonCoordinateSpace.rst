@@ -4,6 +4,8 @@ CommonCoordinateSpace
 
 :Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
 
+:Display as: Common coordinate space
+
 
 ------------
 

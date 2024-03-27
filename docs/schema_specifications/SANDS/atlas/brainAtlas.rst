@@ -4,6 +4,8 @@ BrainAtlas
 
 :Semantic name: https://openminds.ebrains.eu/sands/BrainAtlas
 
+:Display as: Brain atlas
+
 Structured information on a brain atlas (concept level).
 
 

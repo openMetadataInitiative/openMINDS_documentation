@@ -4,6 +4,8 @@ CustomCoordinateSpace
 
 :Semantic name: https://openminds.ebrains.eu/sands/CustomCoordinateSpace
 
+:Display as: Custom coordinate space
+
 
 ------------
 

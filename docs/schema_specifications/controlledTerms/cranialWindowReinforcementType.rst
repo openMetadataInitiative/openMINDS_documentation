@@ -4,8 +4,8 @@ CranialWindowReinforcementType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
 
+:Display as: Cranial window reinforcement type
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/cranialWindowReinforcementType.html>`_.
 
 ------------
 

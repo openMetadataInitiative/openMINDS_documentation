@@ -4,6 +4,8 @@ CommonCoordinateSpaceVersion
 
 :Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
 
+:Display as: Common coordinate space version
+
 
 ------------
 

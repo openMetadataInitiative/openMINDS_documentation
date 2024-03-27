@@ -4,6 +4,8 @@ StringProperty
 
 :Semantic name: https://openminds.ebrains.eu/core/StringProperty
 
+:Display as: String property
+
 
 ------------
 

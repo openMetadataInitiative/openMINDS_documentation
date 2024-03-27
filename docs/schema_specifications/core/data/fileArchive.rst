@@ -4,6 +4,8 @@ FileArchive
 
 :Semantic name: https://openminds.ebrains.eu/core/FileArchive
 
+:Display as: File archive
+
 
 ------------
 

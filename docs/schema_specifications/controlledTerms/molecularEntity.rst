@@ -4,8 +4,8 @@ MolecularEntity
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
 
+:Display as: Molecular entity
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/molecularEntity.html>`_.
 
 ------------
 

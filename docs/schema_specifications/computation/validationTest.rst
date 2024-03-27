@@ -4,6 +4,8 @@ ValidationTest
 
 :Semantic name: https://openminds.ebrains.eu/computation/ValidationTest
 
+:Display as: Validation test
+
 Structured information about the definition of a process for validating a computational model.
 
 

@@ -4,6 +4,8 @@ ModelVersion
 
 :Semantic name: https://openminds.ebrains.eu/core/ModelVersion
 
+:Display as: Model version
+
 Structured information on a computational model (version level).
 
 

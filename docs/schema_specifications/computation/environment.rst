@@ -4,6 +4,8 @@ Environment
 
 :Semantic name: https://openminds.ebrains.eu/computation/Environment
 
+:Display as: Environment
+
 Structured information on the computer system or set of systems in which a computation is deployed and executed.
 
 

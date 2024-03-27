@@ -4,6 +4,8 @@ StimulationActivity
 
 :Semantic name: https://openminds.ebrains.eu/stimulation/StimulationActivity
 
+:Display as: Stimulation activity
+
 
 ------------
 

@@ -4,6 +4,8 @@ MetaDataModelVersion
 
 :Semantic name: https://openminds.ebrains.eu/core/MetaDataModelVersion
 
+:Display as: Meta data model version
+
 
 ------------
 

@@ -4,6 +4,8 @@ WebServiceVersion
 
 :Semantic name: https://openminds.ebrains.eu/core/WebServiceVersion
 
+:Display as: Web service version
+
 
 ------------
 

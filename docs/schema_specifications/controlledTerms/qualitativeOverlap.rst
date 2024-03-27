@@ -4,8 +4,8 @@ QualitativeOverlap
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
 
+:Display as: Qualitative overlap
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/qualitativeOverlap.html>`_.
 
 ------------
 

@@ -4,6 +4,8 @@ RecordingActivity
 
 :Semantic name: https://openminds.ebrains.eu/ephys/RecordingActivity
 
+:Display as: Recording activity
+
 
 ------------
 

@@ -4,6 +4,8 @@ ScholarlyArticle
 
 :Semantic name: https://openminds.ebrains.eu/publications/ScholarlyArticle
 
+:Display as: Scholarly article
+
 
 ------------
 

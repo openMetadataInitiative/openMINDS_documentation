@@ -4,8 +4,8 @@ AuditoryStimulusType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType
 
+:Display as: Auditory stimulus type
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/auditoryStimulusType.html>`_.
 
 ------------
 

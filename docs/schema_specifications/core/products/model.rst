@@ -4,6 +4,8 @@ Model
 
 :Semantic name: https://openminds.ebrains.eu/core/Model
 
+:Display as: Model
+
 Structured information on a computational model (concept level).
 
 

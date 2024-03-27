@@ -4,6 +4,8 @@ WorkflowRecipe
 
 :Semantic name: https://openminds.ebrains.eu/computation/WorkflowRecipe
 
+:Display as: Workflow recipe
+
 Structured information about the description of a prospective workflow.
 
 

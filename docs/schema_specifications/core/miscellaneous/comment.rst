@@ -4,6 +4,8 @@ Comment
 
 :Semantic name: https://openminds.ebrains.eu/core/Comment
 
+:Display as: Comment
+
 Structured information about a short text expressing an opinion on, or giving information about some entity.
 
 

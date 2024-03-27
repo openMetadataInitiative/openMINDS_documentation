@@ -4,6 +4,8 @@ ParcellationTerminologyVersion
 
 :Semantic name: https://openminds.ebrains.eu/sands/ParcellationTerminologyVersion
 
+:Display as: Parcellation terminology version
+
 
 ------------
 

@@ -4,6 +4,8 @@ MetaDataModel
 
 :Semantic name: https://openminds.ebrains.eu/core/MetaDataModel
 
+:Display as: Meta data model
+
 
 ------------
 

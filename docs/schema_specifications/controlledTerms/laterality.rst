@@ -4,10 +4,10 @@ Laterality
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Laterality
 
+:Display as: Laterality
+
 Structured information on the lateral direction.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/laterality.html>`_.
 
 ------------
 

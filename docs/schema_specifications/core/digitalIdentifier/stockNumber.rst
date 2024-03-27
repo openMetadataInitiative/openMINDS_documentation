@@ -4,6 +4,8 @@ StockNumber
 
 :Semantic name: https://openminds.ebrains.eu/core/StockNumber
 
+:Display as: Stock number
+
 
 ------------
 

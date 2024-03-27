@@ -4,6 +4,8 @@ Ellipse
 
 :Semantic name: https://openminds.ebrains.eu/sands/Ellipse
 
+:Display as: Ellipse
+
 
 ------------
 

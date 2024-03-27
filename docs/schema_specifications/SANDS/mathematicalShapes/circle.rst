@@ -4,6 +4,8 @@ Circle
 
 :Semantic name: https://openminds.ebrains.eu/sands/Circle
 
+:Display as: Circle
+
 
 ------------
 

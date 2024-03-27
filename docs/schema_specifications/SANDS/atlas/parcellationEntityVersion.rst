@@ -4,6 +4,8 @@ ParcellationEntityVersion
 
 :Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
 
+:Display as: Parcellation entity version
+
 
 ------------
 

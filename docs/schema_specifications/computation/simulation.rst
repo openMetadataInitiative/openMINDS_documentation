@@ -4,6 +4,8 @@ Simulation
 
 :Semantic name: https://openminds.ebrains.eu/computation/Simulation
 
+:Display as: Simulation
+
 Structured information about a process of running simulations of a computational model.
 
 

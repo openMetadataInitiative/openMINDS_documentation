@@ -4,6 +4,8 @@ CranialWindowPreparation
 
 :Semantic name: https://openminds.ebrains.eu/specimenPrep/CranialWindowPreparation
 
+:Display as: Cranial window preparation
+
 
 ------------
 

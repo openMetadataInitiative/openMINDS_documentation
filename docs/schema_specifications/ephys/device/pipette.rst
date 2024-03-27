@@ -4,6 +4,8 @@ Pipette
 
 :Semantic name: https://openminds.ebrains.eu/ephys/Pipette
 
+:Display as: Pipette
+
 
 ------------
 

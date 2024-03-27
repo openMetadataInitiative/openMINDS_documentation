@@ -4,6 +4,8 @@ Recording
 
 :Semantic name: https://openminds.ebrains.eu/ephys/Recording
 
+:Display as: Recording
+
 
 ------------
 

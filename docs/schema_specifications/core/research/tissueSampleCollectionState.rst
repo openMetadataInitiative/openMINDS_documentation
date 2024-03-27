@@ -4,6 +4,8 @@ TissueSampleCollectionState
 
 :Semantic name: https://openminds.ebrains.eu/core/TissueSampleCollectionState
 
+:Display as: Tissue sample collection state
+
 
 ------------
 

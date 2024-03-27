@@ -4,6 +4,8 @@ FilePathPattern
 
 :Semantic name: https://openminds.ebrains.eu/core/FilePathPattern
 
+:Display as: File path pattern
+
 
 ------------
 

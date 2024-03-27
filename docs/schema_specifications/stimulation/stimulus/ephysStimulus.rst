@@ -4,6 +4,8 @@ EphysStimulus
 
 :Semantic name: https://openminds.ebrains.eu/stimulation/EphysStimulus
 
+:Display as: Ephys stimulus
+
 
 ------------
 

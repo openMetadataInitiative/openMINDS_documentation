@@ -4,6 +4,8 @@ TissueSample
 
 :Semantic name: https://openminds.ebrains.eu/core/TissueSample
 
+:Display as: Tissue sample
+
 Structured information on a tissue sample.
 
 

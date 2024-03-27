@@ -4,6 +4,8 @@ SubjectGroupState
 
 :Semantic name: https://openminds.ebrains.eu/core/SubjectGroupState
 
+:Display as: Subject group state
+
 
 ------------
 
