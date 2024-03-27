@@ -1,6 +1,6 @@
-###############
-OperatingDevice
-###############
+######################################
+Terminologies: OperatingDevice library
+######################################
 
 Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`_
 
@@ -12,14 +12,13 @@ desktop
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: desktop
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56155
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -27,14 +26,13 @@ embeddedSystem
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: embedded system
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q193040
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -42,14 +40,13 @@ highPerformanceComputer
 -----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: high-performance computer
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q121117
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -57,14 +54,13 @@ mobile
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: mobile
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q5082128
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -72,7 +68,6 @@ neuromorphicComputer
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
@@ -80,7 +75,7 @@ neuromorphicComputer
    :name: neuromorphic computer
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56270917
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -88,14 +83,13 @@ server
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: server
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q64729893
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 
@@ -103,14 +97,13 @@ web
 ---
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: web
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q6368
 
-`BACK TO TOP <OperatingDevice_>`_
+`BACK TO TOP <Terminologies: OperatingDevice library_>`_
 
 ------------
 

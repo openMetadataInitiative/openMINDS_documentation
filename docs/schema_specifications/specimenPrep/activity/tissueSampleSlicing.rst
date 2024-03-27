@@ -4,6 +4,8 @@ TissueSampleSlicing
 
 :Semantic name: https://openminds.ebrains.eu/specimenPrep/TissueSampleSlicing
 
+:Display as: Tissue sample slicing
+
 
 ------------
 

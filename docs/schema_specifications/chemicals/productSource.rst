@@ -4,6 +4,8 @@ ProductSource
 
 :Semantic name: https://openminds.ebrains.eu/chemicals/ProductSource
 
+:Display as: Product source
+
 Structured information about the source of a chemical substance or mixture.
 
 

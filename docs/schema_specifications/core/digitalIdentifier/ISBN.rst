@@ -4,6 +4,8 @@ ISBN
 
 :Semantic name: https://openminds.ebrains.eu/core/ISBN
 
+:Display as: Isbn
+
 An International Standard Book Number of the International ISBN Agency.
 
 

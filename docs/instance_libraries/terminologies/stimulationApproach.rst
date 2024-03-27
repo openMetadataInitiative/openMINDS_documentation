@@ -1,6 +1,6 @@
-###################
-StimulationApproach
-###################
+##########################################
+Terminologies: StimulationApproach library
+##########################################
 
 Related schema specification: `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_
 
@@ -12,7 +12,6 @@ auditoryStimulation
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -22,7 +21,7 @@ auditoryStimulation
    :name: auditory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 
@@ -30,7 +29,6 @@ gustatoryStimulation
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -40,7 +38,7 @@ gustatoryStimulation
    :name: gustatory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00123
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 
@@ -48,7 +46,6 @@ interoceptiveStimulation
 ------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -58,7 +55,7 @@ interoceptiveStimulation
    :name: interoceptive stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00128
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 
@@ -66,7 +63,6 @@ olfactoryStimulation
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -76,7 +72,7 @@ olfactoryStimulation
    :name: olfactory stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00130
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 
@@ -84,7 +80,6 @@ tactileStimulation
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -94,7 +89,7 @@ tactileStimulation
    :name: tactile stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00131
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 
@@ -102,7 +97,6 @@ visualStimulation
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
@@ -112,7 +106,7 @@ visualStimulation
    :name: visual stimulation
    :preferredOntologyIdentifier: http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00132
 
-`BACK TO TOP <StimulationApproach_>`_
+`BACK TO TOP <Terminologies: StimulationApproach library_>`_
 
 ------------
 

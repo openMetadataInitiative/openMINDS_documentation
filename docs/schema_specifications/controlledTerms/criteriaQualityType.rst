@@ -4,6 +4,8 @@ CriteriaQualityType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType
 
+:Display as: Criteria quality type
+
 Structured information on the quality type of the defined criteria for a measurement.
 
 

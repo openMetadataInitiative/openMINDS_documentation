@@ -1,6 +1,6 @@
-#####
-Organ
-#####
+############################
+Terminologies: Organ library
+############################
 
 Related schema specification: `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_
 
@@ -12,7 +12,6 @@ brain
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/brain
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -23,7 +22,7 @@ brain
    :name: brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000955
 
-`BACK TO TOP <Organ_>`_
+`BACK TO TOP <Terminologies: Organ library_>`_
 
 ------------
 
@@ -31,7 +30,6 @@ heart
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/heart
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -42,7 +40,7 @@ heart
    :name: heart
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000948
 
-`BACK TO TOP <Organ_>`_
+`BACK TO TOP <Terminologies: Organ library_>`_
 
 ------------
 
@@ -50,7 +48,6 @@ liver
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/liver
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -61,7 +58,7 @@ liver
    :name: liver
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002107
 
-`BACK TO TOP <Organ_>`_
+`BACK TO TOP <Terminologies: Organ library_>`_
 
 ------------
 
@@ -69,7 +66,6 @@ muscle
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/muscle
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -79,7 +75,7 @@ muscle
    :name: muscle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001630
 
-`BACK TO TOP <Organ_>`_
+`BACK TO TOP <Terminologies: Organ library_>`_
 
 ------------
 
@@ -87,7 +83,6 @@ skin
 ----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organ/skin
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
@@ -97,7 +92,7 @@ skin
    :name: skin
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002097
 
-`BACK TO TOP <Organ_>`_
+`BACK TO TOP <Terminologies: Organ library_>`_
 
 ------------
 

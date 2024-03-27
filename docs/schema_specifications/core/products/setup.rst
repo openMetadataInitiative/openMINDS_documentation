@@ -4,6 +4,8 @@ Setup
 
 :Semantic name: https://openminds.ebrains.eu/core/Setup
 
+:Display as: Setup
+
 
 ------------
 

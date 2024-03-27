@@ -1,6 +1,6 @@
-#######
-Species
-#######
+##############################
+Terminologies: Species library
+##############################
 
 Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_
 
@@ -12,7 +12,6 @@ berghiaStephanieae
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/berghiaStephanieae
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -20,7 +19,7 @@ berghiaStephanieae
    :name: Berghia stephanieae
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_1287507
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -28,7 +27,6 @@ callithrixJacchus
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/callithrixJacchus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -36,7 +34,7 @@ callithrixJacchus
    :name: Callithrix jacchus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9483
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -44,7 +42,6 @@ chlorocebusAethiopsSabaeus
 --------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -52,7 +49,7 @@ chlorocebusAethiopsSabaeus
    :name: Chlorocebus aethiops sabaeus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60711
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -60,7 +57,6 @@ chlorocebusPygerythrus
 ----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -68,7 +64,7 @@ chlorocebusPygerythrus
    :name: Chlorocebus pygerythrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60710
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -76,7 +72,6 @@ danioRerio
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/danioRerio
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -86,7 +81,7 @@ danioRerio
    :name: Danio rerio
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7955
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -94,7 +89,6 @@ felisCatus
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/felisCatus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -103,7 +97,7 @@ felisCatus
    :name: Felis catus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9685
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -111,7 +105,6 @@ homoSapiens
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/homoSapiens
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -121,7 +114,7 @@ homoSapiens
    :name: Homo sapiens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -129,7 +122,6 @@ macacaFascicularis
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaFascicularis
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -138,7 +130,7 @@ macacaFascicularis
    :name: Macaca fascicularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9541
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -146,7 +138,6 @@ macacaFuscata
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaFuscata
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -155,7 +146,7 @@ macacaFuscata
    :name: Macaca fuscata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9542
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -163,7 +154,6 @@ macacaMulatta
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/macacaMulatta
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -172,7 +162,7 @@ macacaMulatta
    :name: Macaca mulatta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -180,7 +170,6 @@ monodelphisDomestica
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/monodelphisDomestica
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -188,7 +177,7 @@ monodelphisDomestica
    :name: Monodelphis domestica
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_13616
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -196,7 +185,6 @@ musMusculus
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/musMusculus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -206,7 +194,7 @@ musMusculus
    :name: Mus musculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -214,7 +202,6 @@ mustelaPutorius
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/mustelaPutorius
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -222,7 +209,7 @@ mustelaPutorius
    :name: Mustela putorius
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9668
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -230,7 +217,6 @@ mustelaPutoriusFuro
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -239,7 +225,7 @@ mustelaPutoriusFuro
    :name: Mustela putorius furo
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9669
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -247,7 +233,6 @@ ovisAries
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/ovisAries
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -255,7 +240,7 @@ ovisAries
    :name: Ovis aries
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9940
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -263,7 +248,6 @@ rattusNorvegicus
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/rattusNorvegicus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -273,7 +257,7 @@ rattusNorvegicus
    :name: Rattus norvegicus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -281,7 +265,6 @@ susScrofaDomesticus
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/susScrofaDomesticus
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -291,7 +274,7 @@ susScrofaDomesticus
    :name: Sus scrofa domesticus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9825
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 
@@ -299,7 +282,6 @@ trachemysScriptaElegans
 -----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans
    :@type: https://openminds.ebrains.eu/controlledTerms/Species
@@ -307,7 +289,7 @@ trachemysScriptaElegans
    :name: Trachemys scripta elegans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_31138
 
-`BACK TO TOP <Species_>`_
+`BACK TO TOP <Terminologies: Species library_>`_
 
 ------------
 

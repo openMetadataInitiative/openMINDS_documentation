@@ -4,6 +4,8 @@ ChemicalSubstance
 
 :Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
 
+:Display as: Chemical substance
+
 Structured information about a chemical substance.
 
 

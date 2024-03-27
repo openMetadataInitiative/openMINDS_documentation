@@ -1,6 +1,6 @@
-################
-ContributionType
-################
+#######################################
+Terminologies: ContributionType library
+#######################################
 
 Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/contributionType.html>`_
 
@@ -12,13 +12,12 @@ coordination
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: coordination
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
@@ -26,27 +25,25 @@ dataCollection
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data collection
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
-dataManagment
--------------
+dataManagement
+--------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagment
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data management
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
@@ -54,13 +51,12 @@ dataProcessing
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data processing
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
@@ -68,13 +64,12 @@ informationTechnologySupport
 ----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: information technology support
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
@@ -82,13 +77,12 @@ laboratoryAssistance
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: laboratory assistance
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
@@ -96,27 +90,25 @@ marketing
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/marketing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: marketing
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 
-metadataManagment
------------------
+metadataManagement
+------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: metadata management
 
-`BACK TO TOP <ContributionType_>`_
+`BACK TO TOP <Terminologies: ContributionType library_>`_
 
 ------------
 

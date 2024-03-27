@@ -4,6 +4,8 @@ AnatomicalTargetPosition
 
 :Semantic name: https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
 
+:Display as: Anatomical target position
+
 
 ------------
 

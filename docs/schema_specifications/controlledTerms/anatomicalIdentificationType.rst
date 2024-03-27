@@ -4,6 +4,8 @@ AnatomicalIdentificationType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
 
+:Display as: Anatomical identification type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/anatomicalIdentificationType.html>`_.
 

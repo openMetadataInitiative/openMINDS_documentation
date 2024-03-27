@@ -4,6 +4,8 @@ Rectangle
 
 :Semantic name: https://openminds.ebrains.eu/sands/Rectangle
 
+:Display as: Rectangle
+
 
 ------------
 

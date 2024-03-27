@@ -4,6 +4,8 @@ PipetteUsage
 
 :Semantic name: https://openminds.ebrains.eu/ephys/PipetteUsage
 
+:Display as: Pipette usage
+
 
 ------------
 

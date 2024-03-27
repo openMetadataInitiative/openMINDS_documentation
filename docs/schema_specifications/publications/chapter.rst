@@ -4,6 +4,8 @@ Chapter
 
 :Semantic name: https://openminds.ebrains.eu/publications/Chapter
 
+:Display as: Chapter
+
 
 ------------
 

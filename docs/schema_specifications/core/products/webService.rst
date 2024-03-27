@@ -4,6 +4,8 @@ WebService
 
 :Semantic name: https://openminds.ebrains.eu/core/WebService
 
+:Display as: Web service
+
 
 ------------
 

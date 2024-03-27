@@ -4,6 +4,8 @@ ModelAbstractionLevel
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
 
+:Display as: Model abstraction level
+
 Structured information on abstraction level of the computational model.
 
 

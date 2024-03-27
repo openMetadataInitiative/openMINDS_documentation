@@ -4,6 +4,8 @@ FileRepositoryType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
 
+:Display as: File repository type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/fileRepositoryType.html>`_.
 

@@ -1,6 +1,6 @@
-###########
-AgeCategory
-###########
+##################################
+Terminologies: AgeCategory library
+##################################
 
 Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ageCategory.html>`_
 
@@ -12,14 +12,13 @@ adolescent
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/adolescent
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.
    :name: adolescent
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -27,7 +26,6 @@ adult
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/adult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -36,7 +34,7 @@ adult
    :name: adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000113
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -44,7 +42,6 @@ embryo
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/embryo
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -53,7 +50,7 @@ embryo
    :name: embryo
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000068
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -61,7 +58,6 @@ infant
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/infant
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -70,7 +66,7 @@ infant
    :name: infant
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034920
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -78,7 +74,6 @@ juvenile
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/juvenile
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -87,7 +82,7 @@ juvenile
    :name: juvenile
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034919
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -95,7 +90,6 @@ lateAdult
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -104,7 +98,7 @@ lateAdult
    :name: late adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007222
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -112,7 +106,6 @@ neonate
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/neonate
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -121,7 +114,7 @@ neonate
    :name: neonate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007221
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -129,7 +122,6 @@ perinatal
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/perinatal
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -138,7 +130,7 @@ perinatal
    :name: perinatal
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012101
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -146,7 +138,6 @@ primeAdult
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/primeAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
@@ -155,7 +146,7 @@ primeAdult
    :name: prime adult
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018241
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 
@@ -163,14 +154,13 @@ youngAdult
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
    :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
    :name: young adult
 
-`BACK TO TOP <AgeCategory_>`_
+`BACK TO TOP <Terminologies: AgeCategory library_>`_
 
 ------------
 

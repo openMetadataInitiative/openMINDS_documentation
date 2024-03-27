@@ -4,6 +4,8 @@ License
 
 :Semantic name: https://openminds.ebrains.eu/core/License
 
+:Display as: License
+
 Structured information on a used license.
 
 

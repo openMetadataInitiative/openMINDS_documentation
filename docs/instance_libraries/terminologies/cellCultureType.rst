@@ -1,6 +1,6 @@
-###############
-CellCultureType
-###############
+######################################
+Terminologies: CellCultureType library
+######################################
 
 Related schema specification: `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellCultureType.html>`_
 
@@ -12,7 +12,6 @@ primary
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/primary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType
@@ -21,7 +20,7 @@ primary
    :name: primary cell culture
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0452904
 
-`BACK TO TOP <CellCultureType_>`_
+`BACK TO TOP <Terminologies: CellCultureType library_>`_
 
 ------------
 
@@ -29,7 +28,6 @@ secondary
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/secondary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType
@@ -38,7 +36,7 @@ secondary
    :name: secondary cell culture
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0001905
 
-`BACK TO TOP <CellCultureType_>`_
+`BACK TO TOP <Terminologies: CellCultureType library_>`_
 
 ------------
 

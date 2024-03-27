@@ -1,6 +1,6 @@
-###############
-BiologicalOrder
-###############
+######################################
+Terminologies: BiologicalOrder library
+######################################
 
 Related schema specification: `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalOrder.html>`_
 
@@ -12,7 +12,6 @@ carnivora
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -21,7 +20,7 @@ carnivora
    :name: Carnivora
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_33554
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 
@@ -29,7 +28,6 @@ cypriniformes
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -38,7 +36,7 @@ cypriniformes
    :name: Cypriniformes
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0005508
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 
@@ -46,14 +44,13 @@ didelphimorphia
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).
    :name: Didelphimorphia
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 
@@ -61,7 +58,6 @@ nudibranchia
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -70,7 +66,7 @@ nudibranchia
    :name: Nudibranchia
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_70849
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 
@@ -78,7 +74,6 @@ primates
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/primates
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -87,7 +82,7 @@ primates
    :name: Primates
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0017579
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 
@@ -95,7 +90,6 @@ rodentia
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
@@ -104,7 +98,7 @@ rodentia
    :name: Rodentia
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9989
 
-`BACK TO TOP <BiologicalOrder_>`_
+`BACK TO TOP <Terminologies: BiologicalOrder library_>`_
 
 ------------
 

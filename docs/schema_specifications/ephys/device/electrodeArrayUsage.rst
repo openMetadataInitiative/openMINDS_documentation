@@ -4,6 +4,8 @@ ElectrodeArrayUsage
 
 :Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
 
+:Display as: Electrode array usage
+
 
 ------------
 

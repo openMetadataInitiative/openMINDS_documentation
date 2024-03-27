@@ -4,6 +4,8 @@ Disease
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Disease
 
+:Display as: Disease
+
 Structured information on a disease.
 
 

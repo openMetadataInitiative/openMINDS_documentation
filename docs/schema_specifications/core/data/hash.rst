@@ -4,6 +4,8 @@ Hash
 
 :Semantic name: https://openminds.ebrains.eu/core/Hash
 
+:Display as: Hash
+
 Structured information on a hash.
 
 

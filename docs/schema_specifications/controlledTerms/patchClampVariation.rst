@@ -4,6 +4,8 @@ PatchClampVariation
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
 
+:Display as: Patch clamp variation
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/patchClampVariation.html>`_.
 

@@ -4,6 +4,8 @@ Funding
 
 :Semantic name: https://openminds.ebrains.eu/core/Funding
 
+:Display as: Funding
+
 Structured information on used funding.
 
 

@@ -4,6 +4,8 @@ WebResource
 
 :Semantic name: https://openminds.ebrains.eu/core/WebResource
 
+:Display as: Web resource
+
 
 ------------
 

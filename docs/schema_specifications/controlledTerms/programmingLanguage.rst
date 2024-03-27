@@ -4,6 +4,8 @@ ProgrammingLanguage
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
 
+:Display as: Programming language
+
 Structured information on the programming language.
 
 

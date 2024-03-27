@@ -4,6 +4,8 @@ SlicingDeviceUsage
 
 :Semantic name: https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
 
+:Display as: Slicing device usage
+
 
 ------------
 

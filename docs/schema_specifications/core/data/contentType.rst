@@ -4,6 +4,8 @@ ContentType
 
 :Semantic name: https://openminds.ebrains.eu/core/ContentType
 
+:Display as: Content type
+
 Structured information on the content type of a file instance, bundle or repository.
 
 

@@ -4,6 +4,8 @@ LivePaper
 
 :Semantic name: https://openminds.ebrains.eu/publications/LivePaper
 
+:Display as: Live paper
+
 
 ------------
 

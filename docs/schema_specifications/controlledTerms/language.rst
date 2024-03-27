@@ -4,6 +4,8 @@ Language
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Language
 
+:Display as: Language
+
 Structured information on the available language setting.
 
 

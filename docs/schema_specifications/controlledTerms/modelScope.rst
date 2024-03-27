@@ -4,6 +4,8 @@ ModelScope
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ModelScope
 
+:Display as: Model scope
+
 Structured information on the scope of the computational model.
 
 

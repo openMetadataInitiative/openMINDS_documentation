@@ -1,6 +1,6 @@
-#############
-BiologicalSex
-#############
+####################################
+Terminologies: BiologicalSex library
+####################################
 
 Related schema specification: `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_
 
@@ -12,7 +12,6 @@ female
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/female
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -22,7 +21,7 @@ female
    :name: female
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0000383
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <Terminologies: BiologicalSex library_>`_
 
 ------------
 
@@ -30,7 +29,6 @@ hermaphrodite
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -40,7 +38,7 @@ hermaphrodite
    :name: hermaphrodite
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0001340
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <Terminologies: BiologicalSex library_>`_
 
 ------------
 
@@ -48,7 +46,6 @@ male
 ----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/male
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
@@ -58,7 +55,7 @@ male
    :name: male
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PATO_0000384
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <Terminologies: BiologicalSex library_>`_
 
 ------------
 
@@ -66,14 +63,13 @@ notDetectable
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Can be stated if the biological sex in visually not detectable at a specific point in time.
    :name: not detectable
 
-`BACK TO TOP <BiologicalSex_>`_
+`BACK TO TOP <Terminologies: BiologicalSex library_>`_
 
 ------------
 

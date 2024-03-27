@@ -1,6 +1,6 @@
-##########
-DeviceType
-##########
+#################################
+Terminologies: DeviceType library
+#################################
 
 Related schema specification: `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_
 
@@ -12,14 +12,13 @@ CTscanner
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/CTscanner
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
    :definition: A 'CT scanner' is an x-ray machine that creates and combines serial two-dimensional x-ray images (sections) with the aid of a computer to generate cross-sectional views and/or three-dimensional images of internal body structures (e.g., bones, blood vessels or soft tissues).
    :name: CT scanner
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
@@ -27,7 +26,6 @@ MRIscanner
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/MRIscanner
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -36,7 +34,7 @@ MRIscanner
    :name: MRI scanner
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2100
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
@@ -44,7 +42,6 @@ electronicAmplifier
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/electronicAmplifier
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -53,7 +50,7 @@ electronicAmplifier
    :name: electronic amplifier
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_27076
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
@@ -61,7 +58,6 @@ microscope
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/microscope
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -70,7 +66,7 @@ microscope
    :name: microscope
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_2106
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
@@ -78,7 +74,6 @@ microtome
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/microtome
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -87,7 +82,7 @@ microtome
    :name: microtome
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0400168
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 
@@ -95,7 +90,6 @@ vibratingMicrotome
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome
    :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
@@ -103,7 +97,7 @@ vibratingMicrotome
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0780522
    :name: vibrating microtome
 
-`BACK TO TOP <DeviceType_>`_
+`BACK TO TOP <Terminologies: DeviceType library_>`_
 
 ------------
 

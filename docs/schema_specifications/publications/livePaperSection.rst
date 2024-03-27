@@ -4,6 +4,8 @@ LivePaperSection
 
 :Semantic name: https://openminds.ebrains.eu/publications/LivePaperSection
 
+:Display as: Live paper section
+
 
 ------------
 

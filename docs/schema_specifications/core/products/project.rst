@@ -4,6 +4,8 @@ Project
 
 :Semantic name: https://openminds.ebrains.eu/core/Project
 
+:Display as: Project
+
 Structured information on a research project.
 
 

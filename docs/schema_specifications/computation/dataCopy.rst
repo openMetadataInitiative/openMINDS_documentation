@@ -4,6 +4,8 @@ DataCopy
 
 :Semantic name: https://openminds.ebrains.eu/computation/DataCopy
 
+:Display as: Data copy
+
 
 ------------
 

@@ -4,6 +4,8 @@ SoftwareApplicationCategory
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
 
+:Display as: Software application category
+
 Structured information on the category of the software application.
 
 

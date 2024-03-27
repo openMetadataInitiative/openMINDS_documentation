@@ -4,6 +4,8 @@ EthicsAssessment
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
 
+:Display as: Ethics assessment
+
 Structured information on the ethics assessment of a dataset.
 
 

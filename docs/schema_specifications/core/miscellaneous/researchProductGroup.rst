@@ -4,6 +4,8 @@ ResearchProductGroup
 
 :Semantic name: https://openminds.ebrains.eu/core/ResearchProductGroup
 
+:Display as: Research product group
+
 
 ------------
 

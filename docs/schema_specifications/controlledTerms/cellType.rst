@@ -4,6 +4,8 @@ CellType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CellType
 
+:Display as: Cell type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/cellType.html>`_.
 

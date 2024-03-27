@@ -4,6 +4,8 @@ AgeCategory
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/AgeCategory
 
+:Display as: Age category
+
 Structured information on the life cycle (semantic term) of a specific age group.
 
 

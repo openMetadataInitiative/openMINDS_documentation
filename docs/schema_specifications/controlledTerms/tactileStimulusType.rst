@@ -4,6 +4,8 @@ TactileStimulusType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/TactileStimulusType
 
+:Display as: Tactile stimulus type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/tactileStimulusType.html>`_.
 

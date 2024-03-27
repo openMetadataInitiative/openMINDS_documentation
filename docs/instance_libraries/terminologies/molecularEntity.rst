@@ -1,6 +1,6 @@
-###############
-MolecularEntity
-###############
+######################################
+Terminologies: MolecularEntity library
+######################################
 
 Related schema specification: `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
 
@@ -8,11 +8,10 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
-4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
+4-(2-Hydroxyethyl)-1-piperazineEthanesulfonicAcid
 -------------------------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -22,7 +21,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 4-(2-hydroxyethyl)-1-piperazine ethanesulfonic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_42334
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -30,7 +29,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -40,7 +38,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT1A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5890
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -48,7 +46,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -58,7 +55,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT1B receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6386
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -66,7 +63,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -76,7 +72,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT2A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6741
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -84,7 +80,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -93,7 +88,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT2 receptor
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0018621
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -101,7 +96,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -111,7 +105,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT4 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6151
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -119,7 +113,6 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -128,15 +121,14 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 5-HT transporter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015189
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
-6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
+6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione
 --------------------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -146,7 +138,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
    :name: 6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3899541
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -154,7 +146,6 @@ A1Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -163,7 +154,7 @@ A1Receptor
    :name: A1 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5717
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -171,7 +162,6 @@ A2AReceptor
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -181,7 +171,7 @@ A2AReceptor
    :name: A2A receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_7727
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -189,7 +179,6 @@ AMPAReceptor
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -199,7 +188,7 @@ AMPAReceptor
    :name: AMPA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5251
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -207,7 +196,6 @@ AlexaFluor594
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -216,7 +204,7 @@ AlexaFluor594
    :name: Alexa Fluor 594
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_51248
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -224,7 +212,6 @@ Beta-Amyloid40
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -234,7 +221,7 @@ Beta-Amyloid40
    :name: Beta-Amyloid 40
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_13181
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -242,7 +229,6 @@ D1Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -252,7 +238,7 @@ D1Receptor
    :name: D1 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5845
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -260,7 +246,6 @@ D2Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -270,7 +255,7 @@ D2Receptor
    :name: D2 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5833
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -278,7 +263,6 @@ DAB
 ---
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/DAB
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -288,25 +272,7 @@ DAB
    :name: DAB
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_90994
 
-`BACK TO TOP <MolecularEntity_>`_
-
-------------
-
-EgtazicAcid
------------
-
-.. admonition:: metadata sheet
-   :class: dropdown
-
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
-   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
-   :description: EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:30740#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
-   :name: egtazic acid
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30740
-
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -314,14 +280,13 @@ Fluoro-Emerald
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluoro-Emerald is a fluorescent dextran derivative (dextran, fluorescein, 10,000 MW) used for tracing studies in the nervous system.
    :name: Fluoro-Emerald
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -329,7 +294,6 @@ Fluoro-Gold
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -339,7 +303,7 @@ Fluoro-Gold
    :name: Fluoro-Gold
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_30125
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -347,7 +311,6 @@ Fluoro-Ruby
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -357,22 +320,7 @@ Fluoro-Ruby
    :name: Fluoro-Ruby
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_65982
 
-`BACK TO TOP <MolecularEntity_>`_
-
-------------
-
-BZ
---
-
-.. admonition:: metadata sheet
-   :class: dropdown
-
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
-   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
-   :name: GABA-A/BZ
-
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -380,7 +328,6 @@ GABA-AReceptor
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -388,7 +335,21 @@ GABA-AReceptor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/GO:1902711#gaba-a-receptor-complex
    :name: GABA-A receptor
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+GABA-A_BZ
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
+   :name: GABA-A/BZ
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -396,7 +357,6 @@ GABA-BReceptor
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -405,7 +365,7 @@ GABA-BReceptor
    :name: GABA-B receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_090801
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -413,7 +373,6 @@ GABAReceptor
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -423,23 +382,7 @@ GABAReceptor
    :name: GABA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006001
 
-`BACK TO TOP <MolecularEntity_>`_
-
-------------
-
-Halothane
----------
-
-.. admonition:: metadata sheet
-   :class: dropdown
-
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
-   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
-   :name: halothane
-   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3562
-
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -447,7 +390,6 @@ JNKMapKinaseScaffoldProtein2
 ----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProtein2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -456,7 +398,7 @@ JNKMapKinaseScaffoldProtein2
    :name: JNK MAP kinase scaffold protein 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000010161
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -464,7 +406,6 @@ M1Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -474,7 +415,7 @@ M1Receptor
    :name: M1 receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000001613
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -482,7 +423,6 @@ M2Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -492,7 +432,7 @@ M2Receptor
    :name: M2 receptor
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000001614
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -500,7 +440,6 @@ M3Receptor
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -510,7 +449,22 @@ M3Receptor
    :name: M3 receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6131
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+MagnesiumATP
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
+   :name: magnesium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -518,7 +472,6 @@ NMDAReceptor
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -528,7 +481,7 @@ NMDAReceptor
    :name: NMDA receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5250
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -536,7 +489,6 @@ acetylcholine
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -545,7 +497,7 @@ acetylcholine
    :name: acetylcholine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao185580330
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -553,14 +505,13 @@ alpha-1Receptor
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-1 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :name: alpha-1 receptor
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -568,14 +519,13 @@ alpha-2Receptor
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-2 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
    :name: alpha-2 receptor
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -583,7 +533,6 @@ alpha-4Beta-2Receptor
 ---------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -592,7 +541,7 @@ alpha-4Beta-2Receptor
    :name: alpha-4 beta-2 receptor
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0356600
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -600,7 +549,6 @@ anterogradeTracer
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -609,7 +557,7 @@ anterogradeTracer
    :name: anterograde tracer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NLXMOL_1012002
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -617,7 +565,6 @@ biomarker
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biomarker
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -626,7 +573,7 @@ biomarker
    :name: biomarker
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090517
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -634,7 +581,6 @@ biotinylatedDextranAmine
 ------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -643,7 +589,7 @@ biotinylatedDextranAmine
    :name: biotinylated dextran amine
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0205506
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -651,7 +597,6 @@ brainDerivedNeurotrophicFactor
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -660,7 +605,7 @@ brainDerivedNeurotrophicFactor
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXMOL:20090401#bdnf
    :name: brain-derived neurotrophic factor
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -668,7 +613,6 @@ c-FOS
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/c-FOS
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -677,7 +621,7 @@ c-FOS
    :name: c-FOS
    :preferredOntologyIdentifier: https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0314702
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -685,7 +629,6 @@ calbindin
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calbindin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -695,7 +638,7 @@ calbindin
    :name: calbindin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006006
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -703,7 +646,6 @@ calciumCalmodulinProteinKinaseII
 --------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -713,7 +655,7 @@ calciumCalmodulinProteinKinaseII
    :name: calcium calmodulin protein kinase II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000003197
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -721,7 +663,6 @@ calciumCalmodulinProteinKinaseIIAlphaChain
 ------------------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -730,7 +671,7 @@ calciumCalmodulinProteinKinaseIIAlphaChain
    :name: calcium calmodulin protein kinase II alpha chain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000003199
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -738,7 +679,6 @@ calciumChloride
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -749,7 +689,7 @@ calciumChloride
    :name: calcium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_3312
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -757,7 +697,6 @@ calretinin
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calretinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -767,7 +706,7 @@ calretinin
    :name: calretinin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5717
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -775,7 +714,6 @@ carbonDioxide
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -786,7 +724,7 @@ carbonDioxide
    :name: carbon dioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16526
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -794,7 +732,6 @@ cholecystokinin
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -803,7 +740,7 @@ cholecystokinin
    :name: cholecystokinin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5068
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -811,7 +748,6 @@ choline
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/choline
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -821,7 +757,7 @@ choline
    :name: choline
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15354
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -829,7 +765,6 @@ cholineAcetyltransferase
 ------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -838,7 +773,7 @@ cholineAcetyltransferase
    :name: choline acetyltransferase
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao722953401
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -846,7 +781,6 @@ cyclicAdenosineMonophosphate
 ----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -856,7 +790,7 @@ cyclicAdenosineMonophosphate
    :name: cyclic adenosine monophosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17489
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -864,7 +798,6 @@ diboronTrioxide
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/diboronTrioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -873,7 +806,7 @@ diboronTrioxide
    :name: diboron trioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30163
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -881,7 +814,6 @@ dimethylSulfoxide
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dimethylSulfoxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -892,7 +824,7 @@ dimethylSulfoxide
    :name: dimethyl sulfoxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28262
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -900,7 +832,6 @@ dinitrogen
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dinitrogen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -909,7 +840,7 @@ dinitrogen
    :name: dinitrogen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17997
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -917,7 +848,6 @@ dioxygen
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dioxygen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -927,7 +857,7 @@ dioxygen
    :name: dioxygen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15379
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -935,7 +865,6 @@ dopamine
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -945,7 +874,7 @@ dopamine
    :name: dopamine
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_18243
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -953,7 +882,6 @@ dopamineTransporter
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -963,7 +891,7 @@ dopamineTransporter
    :name: dopamine transporter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015188
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -971,7 +899,6 @@ dynorphin
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dynorphin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -980,7 +907,7 @@ dynorphin
    :name: dynorphin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5097
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -988,7 +915,6 @@ edeticAcid
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/edeticAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -998,7 +924,24 @@ edeticAcid
    :name: edetic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_4735
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+egtazicAcid
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
+   :description: EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:30740#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid
+   :name: egtazic acid
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30740
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1006,7 +949,6 @@ enkephalin
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/enkephalin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1015,7 +957,7 @@ enkephalin
    :name: enkephalin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5096
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1023,7 +965,6 @@ epibatidine
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/epibatidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1032,7 +973,7 @@ epibatidine
    :name: epibatidine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_chem_20090204
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1040,7 +981,6 @@ ethanol
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ethanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1051,7 +991,7 @@ ethanol
    :name: ethanol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16236
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1059,14 +999,13 @@ excitatoryAminoAcidTransporter
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporters are a subclass of glutamate transporters that remove glutamate from the synaptic cleft and extrasynaptic sites via glutamate reuptake into glial cells and neurons.
    :name: excitatory amino acid transporter
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1074,7 +1013,6 @@ excitatoryAminoAcidTransporter1
 -------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1084,7 +1022,7 @@ excitatoryAminoAcidTransporter1
    :name: excitatory amino acid transporter 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_0000149744
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1092,7 +1030,6 @@ excitatoryAminoAcidTransporter2
 -------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1102,7 +1039,7 @@ excitatoryAminoAcidTransporter2
    :name: excitatory amino acid transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014973
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1110,7 +1047,6 @@ excitatoryAminoAcidTransporter3
 -------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1120,7 +1056,7 @@ excitatoryAminoAcidTransporter3
    :name: excitatory amino acid transporter 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014972
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1128,7 +1064,6 @@ excitatoryAminoAcidTransporter4
 -------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1138,7 +1073,7 @@ excitatoryAminoAcidTransporter4
    :name: excitatory amino acid transporter 4
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014977
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1146,7 +1081,6 @@ excitatoryAminoAcidTransporter5
 -------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1155,7 +1089,7 @@ excitatoryAminoAcidTransporter5
    :name: excitatory amino acid transporter 5
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014978
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1163,7 +1097,6 @@ flumazenil
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/flumazenil
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1172,7 +1105,7 @@ flumazenil
    :name: flumazenil
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_5103
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1180,14 +1113,13 @@ fluorescentMicrospheres
 -----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluorescent microspheres are non-toxic, non-biologically reactive small polymers embedded with fluorescent dye which are used in medical imaging, as markers for fluorescent microscopy and as standards for flow cytometry fluorescent cell sorting.
    :name: fluorescent microspheres
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1195,7 +1127,6 @@ formaldehyde
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/formaldehyde
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1205,7 +1136,7 @@ formaldehyde
    :name: formaldehyde
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_16842
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1213,7 +1144,6 @@ gabazine
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gabazine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1222,7 +1152,7 @@ gabazine
    :name: gabazine
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0142643
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1230,7 +1160,6 @@ galanin
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/galanin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1240,7 +1169,7 @@ galanin
    :name: galanin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5074
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1248,7 +1177,6 @@ gluconicAcid
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gluconicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1258,7 +1186,7 @@ gluconicAcid
    :name: gluconic acid
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_33198
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1266,7 +1194,6 @@ glucose
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glucose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1276,7 +1203,7 @@ glucose
    :name: glucose
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17234
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1284,7 +1211,6 @@ glutamate
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1294,7 +1220,7 @@ glutamate
    :name: glutamate
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1744435799
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1302,7 +1228,6 @@ glutamateTransporter
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1312,7 +1237,7 @@ glutamateTransporter
    :name: glutamate transporter
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1399894198
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1320,7 +1245,6 @@ glycerol
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycerol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1330,7 +1254,7 @@ glycerol
    :name: glycerol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17754
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1338,7 +1262,6 @@ glycineTransporter2
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1347,7 +1270,7 @@ glycineTransporter2
    :name: glycine transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000015190
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1355,7 +1278,6 @@ growthFactor
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/growthFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1364,7 +1286,22 @@ growthFactor
    :name: growth factor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1671627152
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+halothane
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
+   :name: halothane
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/3562
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1372,7 +1309,6 @@ histamine
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/histamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1382,7 +1318,7 @@ histamine
    :name: histamine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5016
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1390,7 +1326,6 @@ insulinLikeGrowthFactor1
 ------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1399,7 +1334,7 @@ insulinLikeGrowthFactor1
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/PR:000009182#insulin-like-growth-factor-i
    :name: insulin-like growth factor 1
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1407,14 +1342,13 @@ intrabody
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/intrabody
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.
    :name: intrabody
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1422,7 +1356,6 @@ ionotropicGlutamateReceptor
 ---------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1432,7 +1365,7 @@ ionotropicGlutamateReceptor
    :name: ionotropic glutamate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090501
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1440,7 +1373,6 @@ iperoxo
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iperoxo
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1449,7 +1381,7 @@ iperoxo
    :name: iperoxo
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000598130
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1457,7 +1389,6 @@ iron
 ----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iron
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1467,7 +1398,7 @@ iron
    :name: iron
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24873
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1475,7 +1406,6 @@ isoflurane
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/isoflurane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1485,7 +1415,7 @@ isoflurane
    :name: isoflurane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_6015
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1493,7 +1423,6 @@ kainateReceptor
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1503,7 +1432,7 @@ kainateReceptor
    :name: kainate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_5252
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1511,7 +1440,6 @@ kallikrein-relatedPeptidase8
 ----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptidase8
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1520,7 +1448,7 @@ kallikrein-relatedPeptidase8
    :name: kallikrein-related peptidase 8
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000009614
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1528,7 +1456,6 @@ ketamine
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ketamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1538,7 +1465,7 @@ ketamine
    :name: ketamine
    :preferredOntologyIdentifier: https://www.drugbank.ca/drugs/DB01221
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1546,7 +1473,6 @@ luciferYellow
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1555,23 +1481,7 @@ luciferYellow
    :name: lucifer yellow
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0068243
 
-`BACK TO TOP <MolecularEntity_>`_
-
-------------
-
-magnesiumATP
-------------
-
-.. admonition:: metadata sheet
-   :class: dropdown
-
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
-   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
-   :name: magnesium ATP
-   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
-
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1579,7 +1489,6 @@ magnesiumChloride
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1588,7 +1497,7 @@ magnesiumChloride
    :name: magnesium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_6636
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1596,7 +1505,6 @@ magnesiumSulfate
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumSulfate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1606,7 +1514,7 @@ magnesiumSulfate
    :name: magnesium sulfate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32599
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1614,7 +1522,6 @@ medetomidine
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/medetomidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1624,7 +1531,7 @@ medetomidine
    :name: medetomidine
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_48552
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1632,7 +1539,6 @@ metabotropicGlutamateReceptor
 -----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1642,7 +1548,7 @@ metabotropicGlutamateReceptor
    :name: metabotropic glutamate receptor
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090503
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1650,7 +1556,6 @@ metabotropicGlutamateReceptor1
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1659,7 +1564,7 @@ metabotropicGlutamateReceptor1
    :name: metabotropic glutamate receptor 1
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090504
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1667,7 +1572,6 @@ metabotropicGlutamateReceptor2
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1677,7 +1581,7 @@ metabotropicGlutamateReceptor2
    :name: metabotropic glutamate receptor 2
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090505
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1685,7 +1589,6 @@ metabotropicGlutamateReceptor3
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1695,7 +1598,7 @@ metabotropicGlutamateReceptor3
    :name: metabotropic glutamate receptor 3
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090506
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1703,7 +1606,6 @@ metabotropicGlutamateReceptor5
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1712,7 +1614,7 @@ metabotropicGlutamateReceptor5
    :name: metabotropic glutamate receptor 5
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090508
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1720,7 +1622,6 @@ methanol
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/methanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1730,7 +1631,7 @@ methanol
    :name: methanol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17790
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1738,7 +1639,6 @@ monosodiumPhosphate
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/monosodiumPhosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1748,7 +1648,7 @@ monosodiumPhosphate
    :name: monosodium phosphate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37585
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1756,7 +1656,6 @@ muscimol
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/muscimol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1765,7 +1664,7 @@ muscimol
    :name: muscimol
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0014231
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1773,7 +1672,6 @@ neurobiotin
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1783,7 +1681,7 @@ neurobiotin
    :name: neurobiotin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_157299
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1791,7 +1689,6 @@ neuroligin-3
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1801,7 +1698,7 @@ neuroligin-3
    :name: neuroligin-3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000011256
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1809,7 +1706,6 @@ neuronalNuclearAntigen
 ----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1818,7 +1714,7 @@ neuronalNuclearAntigen
    :name: neuronal nuclear antigen
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_152221
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1826,14 +1722,13 @@ neurotrophicFactor
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'neurotrophic factor' is a family of biomolecules that support growth, survival, and differentiation of both developing and mature neurons.
    :name: neurotrophic factor
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1841,7 +1736,6 @@ nickel
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/nickel
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1850,7 +1744,7 @@ nickel
    :name: nickel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28112
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1858,7 +1752,6 @@ parvalbumin
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1868,7 +1761,7 @@ parvalbumin
    :name: parvalbumin
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_6
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1876,7 +1769,6 @@ pentobarbital
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbital
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1887,7 +1779,7 @@ pentobarbital
    :name: pentobarbital
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7983
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1895,7 +1787,6 @@ pentobarbitalSodium
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbitalSodium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1903,7 +1794,7 @@ pentobarbitalSodium
    :name: pentobarbital sodium
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_7984
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1911,7 +1802,6 @@ potassiumChloride
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1922,7 +1812,7 @@ potassiumChloride
    :name: potassium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32588
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1930,7 +1820,6 @@ potassiumGluconate
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumGluconate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1939,7 +1828,7 @@ potassiumGluconate
    :name: potassium gluconate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32032
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1947,7 +1836,6 @@ propofol
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/propofol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1958,7 +1846,7 @@ propofol
    :name: propofol
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_44915
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1966,7 +1854,6 @@ siliconDioxide
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/siliconDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1975,7 +1862,7 @@ siliconDioxide
    :name: silicon dioxide
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_30563
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1983,7 +1870,6 @@ silverAmmonium
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverAmmonium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -1991,7 +1877,7 @@ silverAmmonium
    :name: Silver ammonium
    :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/57440423
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -1999,7 +1885,6 @@ silverNitrate
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverNitrate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2008,7 +1893,7 @@ silverNitrate
    :name: Silver nitrate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32130
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2016,7 +1901,6 @@ sodiumBicarbonate
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumBicarbonate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2025,7 +1909,7 @@ sodiumBicarbonate
    :name: sodium bicarbonate
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_32139
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2033,7 +1917,6 @@ sodiumChloride
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2042,7 +1925,7 @@ sodiumChloride
    :name: sodium chloride
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_26710
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2050,7 +1933,6 @@ sucrose
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sucrose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2060,7 +1942,7 @@ sucrose
    :name: sucrose
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_17992
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2068,7 +1950,6 @@ tungsten
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/tungsten
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2077,7 +1958,7 @@ tungsten
    :name: tungsten
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_27998
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2085,14 +1966,13 @@ vesicularGlutamateTransporter
 -----------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporters are a subclass of glutamate transporters that move glutamate from the cell cytoplasm into synaptic vesicles.
    :name: vesicular glutamate transporter
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2100,7 +1980,6 @@ vesicularGlutamateTransporter1
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2110,7 +1989,7 @@ vesicularGlutamateTransporter1
    :name: vesicular glutamate transporter 1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014963
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2118,7 +1997,6 @@ vesicularGlutamateTransporter2
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2128,7 +2006,7 @@ vesicularGlutamateTransporter2
    :name: vesicular glutamate transporter 2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014962
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2136,7 +2014,6 @@ vesicularGlutamateTransporter3
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2145,7 +2022,7 @@ vesicularGlutamateTransporter3
    :name: vesicular glutamate transporter 3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/PR_000014964
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 
@@ -2153,7 +2030,6 @@ water
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/water
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
@@ -2164,7 +2040,7 @@ water
    :name: water
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15377
 
-`BACK TO TOP <MolecularEntity_>`_
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
 ------------
 

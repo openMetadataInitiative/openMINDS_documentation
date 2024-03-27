@@ -4,8 +4,10 @@ UBERONParcellation
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
 
+:Display as: Uberonparcellation
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/uBERONParcellation.html>`_.
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html>`_.
 
 ------------
 

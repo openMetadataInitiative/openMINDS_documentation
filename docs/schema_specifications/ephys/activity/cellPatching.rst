@@ -4,6 +4,8 @@ CellPatching
 
 :Semantic name: https://openminds.ebrains.eu/ephys/CellPatching
 
+:Display as: Cell patching
+
 
 ------------
 

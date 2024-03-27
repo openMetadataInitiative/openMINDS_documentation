@@ -4,6 +4,8 @@ Channel
 
 :Semantic name: https://openminds.ebrains.eu/ephys/Channel
 
+:Display as: Channel
+
 
 ------------
 

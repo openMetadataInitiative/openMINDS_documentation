@@ -4,6 +4,8 @@ Periodical
 
 :Semantic name: https://openminds.ebrains.eu/publications/Periodical
 
+:Display as: Periodical
+
 
 ------------
 

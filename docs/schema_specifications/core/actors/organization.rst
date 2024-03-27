@@ -4,6 +4,8 @@ Organization
 
 :Semantic name: https://openminds.ebrains.eu/core/Organization
 
+:Display as: Organization
+
 Structured information on an organization.
 
 

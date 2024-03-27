@@ -1,6 +1,6 @@
-#########
-AtlasType
-#########
+################################
+Terminologies: AtlasType library
+################################
 
 Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/atlasType.html>`_
 
@@ -12,14 +12,13 @@ deterministicAtlas
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
    :definition: A 'deterministic atlas' is an anatomical or anatomopathological atlases based on a definite composite of a single specimen.
    :name: deterministic atlas
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <Terminologies: AtlasType library_>`_
 
 ------------
 
@@ -27,7 +26,6 @@ parcellationScheme
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/atlasType/parcellationScheme
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
@@ -36,7 +34,7 @@ parcellationScheme
    :name: parcellation scheme
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_144019
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <Terminologies: AtlasType library_>`_
 
 ------------
 
@@ -44,14 +42,13 @@ probabilisticAtlas
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
    :definition: A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.
    :name: probabilistic atlas
 
-`BACK TO TOP <AtlasType_>`_
+`BACK TO TOP <Terminologies: AtlasType library_>`_
 
 ------------
 

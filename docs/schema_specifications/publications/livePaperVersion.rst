@@ -4,6 +4,8 @@ LivePaperVersion
 
 :Semantic name: https://openminds.ebrains.eu/publications/LivePaperVersion
 
+:Display as: Live paper version
+
 
 ------------
 

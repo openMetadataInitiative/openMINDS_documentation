@@ -1,6 +1,6 @@
-########
-DataType
-########
+###############################
+Terminologies: DataType library
+###############################
 
 Related schema specification: `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
 
@@ -12,7 +12,6 @@ Related schema specification: `DataType <https://openminds-documentation.readthe
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -20,7 +19,7 @@ Related schema specification: `DataType <https://openminds-documentation.readthe
    :name: 3D computer graphic
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189177
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -28,7 +27,6 @@ associativeArray
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/associativeArray
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -36,7 +34,7 @@ associativeArray
    :name: associative array
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q80585
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -44,14 +42,13 @@ eventSequence
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/eventSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: An 'event sequence' is a list or matrix, where elements are ordered in not equally spaced points in time.
    :name: event sequence
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -59,7 +56,6 @@ list
 ----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/list
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -67,7 +63,7 @@ list
    :name: list
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q12139612
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -75,7 +71,6 @@ matrix
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/matrix
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -83,7 +78,7 @@ matrix
    :name: matrix
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q44337
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -91,7 +86,6 @@ rasterGraphic
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/rasterGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -99,7 +93,7 @@ rasterGraphic
    :name: raster graphic
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q182270
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -107,7 +101,6 @@ scalar
 ------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/scalar
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -115,7 +108,7 @@ scalar
    :name: scalar
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1289248
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -123,7 +116,6 @@ table
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/table
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -131,7 +123,7 @@ table
    :name: table
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q496946
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -139,7 +131,6 @@ timeSeries
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/timeSeries
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -147,7 +138,7 @@ timeSeries
    :name: time series
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q186588
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -155,7 +146,6 @@ vectorGraphic
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/vectorGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
@@ -163,7 +153,7 @@ vectorGraphic
    :name: vector graphic
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q170130
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 
@@ -171,14 +161,13 @@ voxelData
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/dataType/voxelData
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: 'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.
    :name: voxel data
 
-`BACK TO TOP <DataType_>`_
+`BACK TO TOP <Terminologies: DataType library_>`_
 
 ------------
 

@@ -4,6 +4,8 @@ Affiliation
 
 :Semantic name: https://openminds.ebrains.eu/core/Affiliation
 
+:Display as: Affiliation
+
 Structured information about a relationship between two entities, such as a person and their employer.
 
 

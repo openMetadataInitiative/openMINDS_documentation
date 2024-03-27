@@ -4,6 +4,8 @@ LearningResource
 
 :Semantic name: https://openminds.ebrains.eu/publications/LearningResource
 
+:Display as: Learning resource
+
 
 ------------
 

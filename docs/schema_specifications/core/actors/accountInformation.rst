@@ -4,6 +4,8 @@ AccountInformation
 
 :Semantic name: https://openminds.ebrains.eu/core/AccountInformation
 
+:Display as: Account information
+
 Structured information about a user account for a web service.
 
 

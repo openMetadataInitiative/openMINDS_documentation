@@ -4,6 +4,8 @@ FileUsageRole
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
 
+:Display as: File usage role
+
 Structured information on the usage role of a file instance or bundle.
 
 

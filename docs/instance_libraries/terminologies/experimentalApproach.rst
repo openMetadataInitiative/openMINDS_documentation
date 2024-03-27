@@ -1,6 +1,6 @@
-####################
-ExperimentalApproach
-####################
+###########################################
+Terminologies: ExperimentalApproach library
+###########################################
 
 Related schema specification: `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/experimentalApproach.html>`_
 
@@ -12,7 +12,6 @@ anatomy
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/anatomy
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -21,7 +20,7 @@ anatomy
    :name: anatomy
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Anatomy
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -29,7 +28,6 @@ behavior
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/behavior
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -38,7 +36,7 @@ behavior
    :name: behavior
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Behavior
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -46,7 +44,6 @@ biophysics
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/biophysics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -54,7 +51,7 @@ biophysics
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0793772
    :name: biophysics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -62,7 +59,6 @@ cellBiology
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -71,7 +67,7 @@ cellBiology
    :name: cell biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Cellular
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -79,7 +75,6 @@ cellMorphology
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellMorphology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -88,7 +83,7 @@ cellMorphology
    :name: cell morphology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/CellMorphology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -96,7 +91,6 @@ cellPopulationCharacterization
 ------------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationCharacterization
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -105,7 +99,7 @@ cellPopulationCharacterization
    :name: cell population characterization
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/CellPopulationCharachterization
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -113,7 +107,6 @@ cellPopulationImaging
 ---------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -122,7 +115,7 @@ cellPopulationImaging
    :name: cell population imaging
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/CellPopulationImaging
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -130,7 +123,6 @@ cellPopulationManipulation
 --------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/cellPopulationManipulation
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -139,7 +131,7 @@ cellPopulationManipulation
    :name: cell population manipulation
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/CellPopulationManipulation
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -147,14 +139,13 @@ chemogenetics
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
    :definition: Any experimental approach focused on using genetically encoded chemically sensitive proteins in combination with a specific agonist delivered systemically in order to manipulate the behavior of populations of cells.
    :name: chemogenetics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -162,7 +153,6 @@ clinicalResearch
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/clinicalResearch
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -171,7 +161,7 @@ clinicalResearch
    :name: clinical research
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Clinical
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -179,7 +169,6 @@ computationalModeling
 ---------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/computationalModeling
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -188,7 +177,7 @@ computationalModeling
    :name: computational modeling
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/ComputationalModelling
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -196,7 +185,6 @@ developmentalBiology
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/developmentalBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -205,7 +193,7 @@ developmentalBiology
    :name: developmental biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Developmental
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -213,7 +201,6 @@ ecology
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/ecology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -222,7 +209,7 @@ ecology
    :name: ecology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Ecology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -230,7 +217,6 @@ electrophysiology
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/electrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -239,7 +225,7 @@ electrophysiology
    :name: electrophysiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Electrophysiology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -247,7 +233,6 @@ epidemiology
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/epidemiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -256,7 +241,7 @@ epidemiology
    :name: epidemiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Epidemiology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -264,7 +249,6 @@ epigenomics
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/epigenomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -273,7 +257,7 @@ epigenomics
    :name: epigenomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Epigenomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -281,7 +265,6 @@ ethology
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/ethology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -290,7 +273,7 @@ ethology
    :name: ethology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Ethology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -298,7 +281,6 @@ evolutionaryBiology
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/evolutionaryBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -307,7 +289,7 @@ evolutionaryBiology
    :name: evolutionary biology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Evolution
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -315,7 +297,6 @@ expression
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/expression
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -324,7 +305,7 @@ expression
    :name: expression
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Expression
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -332,7 +313,6 @@ expressionCharacterization
 --------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/expressionCharacterization
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -341,7 +321,7 @@ expressionCharacterization
    :name: expression characterization
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/ExpressionCharachterization
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -349,14 +329,13 @@ genetics
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/genetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
    :definition: Experimental approach that measures or manipulates some aspect of the genetic material of an organism.
    :name: genetics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -364,7 +343,6 @@ genomics
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/genomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -373,7 +351,7 @@ genomics
    :name: genomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Genomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -381,7 +359,6 @@ histology
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/histology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -390,7 +367,7 @@ histology
    :name: histology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Histology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -398,14 +375,13 @@ informatics
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/informatics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
    :definition: Any experimental approach focused on collection, classification, storage, retrieval, analysis, visualization, and dissemination of recorded knowledge in computational systems.
    :name: informatics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -413,7 +389,6 @@ metabolomics
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/metabolomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -422,7 +397,7 @@ metabolomics
    :name: metabolomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Metabolomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -430,7 +405,6 @@ microscopy
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/microscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -439,7 +413,7 @@ microscopy
    :name: microscopy
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Microscopy
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -447,7 +421,6 @@ morphology
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/morphology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -456,7 +429,7 @@ morphology
    :name: morphology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Morphology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -464,7 +437,6 @@ multimodalResearch
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/multimodalResearch
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -473,7 +445,7 @@ multimodalResearch
    :name: multimodal research
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Multimodal
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -481,7 +453,6 @@ multiomics
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/multiomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -490,7 +461,7 @@ multiomics
    :name: multiomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Multiomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -498,7 +469,6 @@ neuralConnectivity
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/neuralConnectivity
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -507,7 +477,7 @@ neuralConnectivity
    :name: neural connectivity
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Connectivity
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -515,7 +485,6 @@ neuroimaging
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/neuroimaging
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -524,7 +493,7 @@ neuroimaging
    :name: neuroimaging
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Neuroimaging
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -532,7 +501,6 @@ omics
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/omics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -541,7 +509,7 @@ omics
    :name: omics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Omics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -549,14 +517,13 @@ optogenetics
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
    :definition: Any experimental approach focused on using genetically encoded light-sensitive proteins in combination with targeted delivery of light in order to manipulate the behavior of populations of cells.
    :name: optogenetics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -564,7 +531,6 @@ pharmacology
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -573,7 +539,7 @@ pharmacology
    :name: pharmacology
    :preferredOntologyIdentifier: http://edamontology.org/topic_0202
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -581,7 +547,6 @@ physiology
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/physiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -590,7 +555,7 @@ physiology
    :name: physiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Physiology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -598,7 +563,6 @@ proteomics
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/proteomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -607,7 +571,7 @@ proteomics
    :name: proteomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Proteomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -615,7 +579,6 @@ radiology
 ---------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/radiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -624,7 +587,7 @@ radiology
    :name: radiology
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Radiology
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -632,7 +595,6 @@ spatialTranscriptomics
 ----------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/spatialTranscriptomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -641,7 +603,7 @@ spatialTranscriptomics
    :name: spatial transcriptomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/SpatialTranscriptomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 
@@ -649,7 +611,6 @@ transcriptomics
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/transcriptomics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
@@ -658,7 +619,7 @@ transcriptomics
    :name: transcriptomics
    :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/modality/Transcriptomics
 
-`BACK TO TOP <ExperimentalApproach_>`_
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
 
 ------------
 

@@ -4,6 +4,8 @@ AnalysisTechnique
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
 
+:Display as: Analysis technique
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/analysisTechnique.html>`_.
 

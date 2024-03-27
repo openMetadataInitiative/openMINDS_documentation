@@ -4,6 +4,8 @@ AmountOfChemical
 
 :Semantic name: https://openminds.ebrains.eu/chemicals/AmountOfChemical
 
+:Display as: Amount of chemical
+
 Structured information about the amount of a given chemical that was used.
 
 

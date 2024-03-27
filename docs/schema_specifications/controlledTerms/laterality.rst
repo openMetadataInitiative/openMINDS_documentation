@@ -4,6 +4,8 @@ Laterality
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Laterality
 
+:Display as: Laterality
+
 Structured information on the lateral direction.
 
 

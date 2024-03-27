@@ -4,6 +4,8 @@ ContentTypePattern
 
 :Semantic name: https://openminds.ebrains.eu/core/ContentTypePattern
 
+:Display as: Content type pattern
+
 
 ------------
 

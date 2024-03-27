@@ -4,6 +4,8 @@ SubjectState
 
 :Semantic name: https://openminds.ebrains.eu/core/SubjectState
 
+:Display as: Subject state
+
 Structured information on a temporary state of a subject.
 
 

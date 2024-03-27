@@ -4,6 +4,8 @@ Electrode
 
 :Semantic name: https://openminds.ebrains.eu/ephys/Electrode
 
+:Display as: Electrode
+
 
 ------------
 

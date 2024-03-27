@@ -4,6 +4,8 @@ WorkflowRecipeVersion
 
 :Semantic name: https://openminds.ebrains.eu/computation/WorkflowRecipeVersion
 
+:Display as: Workflow recipe version
+
 Structured information about a specific implemented version of a workflow recipe.
 
 

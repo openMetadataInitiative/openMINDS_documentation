@@ -4,6 +4,8 @@ DataType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/DataType
 
+:Display as: Data type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/dataType.html>`_.
 

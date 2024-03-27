@@ -4,6 +4,8 @@ CustomAnnotation
 
 :Semantic name: https://openminds.ebrains.eu/sands/CustomAnnotation
 
+:Display as: Custom annotation
+
 
 ------------
 

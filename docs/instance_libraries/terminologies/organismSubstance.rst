@@ -1,6 +1,6 @@
-#################
-OrganismSubstance
-#################
+########################################
+Terminologies: OrganismSubstance library
+########################################
 
 Related schema specification: `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_
 
@@ -12,7 +12,6 @@ arterialBlood
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/arterialBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
@@ -23,7 +22,7 @@ arterialBlood
    :name: arterial blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013755
 
-`BACK TO TOP <OrganismSubstance_>`_
+`BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
 ------------
 
@@ -31,7 +30,6 @@ blood
 -----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/blood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
@@ -42,7 +40,7 @@ blood
    :name: blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000178
 
-`BACK TO TOP <OrganismSubstance_>`_
+`BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
 ------------
 
@@ -50,7 +48,6 @@ venousBlood
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/venousBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
@@ -61,7 +58,7 @@ venousBlood
    :name: venous blood
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013756
 
-`BACK TO TOP <OrganismSubstance_>`_
+`BACK TO TOP <Terminologies: OrganismSubstance library_>`_
 
 ------------
 

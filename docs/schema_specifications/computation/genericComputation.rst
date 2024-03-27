@@ -4,6 +4,8 @@ GenericComputation
 
 :Semantic name: https://openminds.ebrains.eu/computation/GenericComputation
 
+:Display as: Generic computation
+
 Structured information about a computation whose type is unknown or unspecified.
 
 

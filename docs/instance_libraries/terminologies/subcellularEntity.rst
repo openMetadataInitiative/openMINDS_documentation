@@ -1,6 +1,6 @@
-#################
-SubcellularEntity
-#################
+########################################
+Terminologies: SubcellularEntity library
+########################################
 
 Related schema specification: `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_
 
@@ -12,14 +12,13 @@ asymmetricSynapse
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/asymmetricSynapse
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
    :definition: An 'asymmetric synapse' is characterized by rounded vesicles in the presynaptic cell and a prominent postsynaptic density. Asymmetric synapses are typically excitatory.
    :name: asymmetric synapse
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -27,7 +26,6 @@ axon
 ----
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/axon
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -36,7 +34,7 @@ axon
    :name: axon
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1770195789
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -44,7 +42,6 @@ axonTerminal
 ------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/axonTerminal
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -55,7 +52,7 @@ axonTerminal
    :name: axon terminal
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao2007137787
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -63,7 +60,6 @@ dendrite
 --------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/dendrite
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -72,7 +68,7 @@ dendrite
    :name: dendrite
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1211023249
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -80,7 +76,6 @@ dendriticSpine
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/dendriticSpine
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -89,7 +84,7 @@ dendriticSpine
    :name: dendritic spine
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1799103720
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -97,7 +92,6 @@ mitochondrion
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/mitochondrion
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -106,7 +100,7 @@ mitochondrion
    :name: mitochondrion
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1860313010
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -114,7 +108,6 @@ nerveFiber
 ----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/nerveFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -124,7 +117,7 @@ nerveFiber
    :name: nerve fiber
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006134
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -132,14 +125,13 @@ neurite
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/neurite
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
    :definition: A 'neurite' is a small neuronal process on developing neurons that ultimately grow out into axons or dendrites under the control of growth stimulating or inhibiting factors from their direct extracellular environment.
    :name: neurite
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -147,7 +139,6 @@ neurofilament
 -------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/neurofilament
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -156,7 +147,7 @@ neurofilament
    :name: neurofilament
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1316272517
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -164,7 +155,6 @@ nucleus
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/nucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -173,7 +163,7 @@ nucleus
    :name: nucleus
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1702920020
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -181,14 +171,13 @@ symmetricSynapse
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/symmetricSynapse
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
    :definition: A 'symmetric synapse' has flattened or elongated vesicles, and does not contain a prominent postsynaptic density. Symmetric synapses are typically inhibitory.
    :name: symmetric synapse
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -196,7 +185,6 @@ synapticBouton
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticBouton
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -205,7 +193,7 @@ synapticBouton
    :name: synaptic bouton
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao187426937
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -213,7 +201,6 @@ synapticProtein
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticProtein
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -222,7 +209,7 @@ synapticProtein
    :name: synaptic protein
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao936599761
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 
@@ -230,7 +217,6 @@ synapticVesicle
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/subcellularEntity/synapticVesicle
    :@type: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
@@ -239,7 +225,7 @@ synapticVesicle
    :name: synaptic vesicle
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/sao1071221672
 
-`BACK TO TOP <SubcellularEntity_>`_
+`BACK TO TOP <Terminologies: SubcellularEntity library_>`_
 
 ------------
 

@@ -4,6 +4,8 @@ HardwareSystem
 
 :Semantic name: https://openminds.ebrains.eu/computation/HardwareSystem
 
+:Display as: Hardware system
+
 Structured information about computing hardware.
 
 

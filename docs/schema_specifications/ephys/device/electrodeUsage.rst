@@ -4,6 +4,8 @@ ElectrodeUsage
 
 :Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeUsage
 
+:Display as: Electrode usage
+
 
 ------------
 

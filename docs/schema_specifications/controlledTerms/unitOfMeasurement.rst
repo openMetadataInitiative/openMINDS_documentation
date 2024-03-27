@@ -4,6 +4,8 @@ UnitOfMeasurement
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
 
+:Display as: Unit of measurement
+
 Structured information on the unit of measurement.
 
 

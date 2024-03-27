@@ -4,6 +4,8 @@ ContributionType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ContributionType
 
+:Display as: Contribution type
+
 Structured information on the type of contribution a person or organization performed.
 
 

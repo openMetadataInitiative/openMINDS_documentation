@@ -4,6 +4,8 @@ QuantitativeRelationAssessment
 
 :Semantic name: https://openminds.ebrains.eu/sands/QuantitativeRelationAssessment
 
+:Display as: Quantitative relation assessment
+
 
 ------------
 

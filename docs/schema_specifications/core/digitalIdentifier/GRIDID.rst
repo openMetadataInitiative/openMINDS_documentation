@@ -4,6 +4,8 @@ GRIDID
 
 :Semantic name: https://openminds.ebrains.eu/core/GRIDID
 
+:Display as: Gridid
+
 A GRID (Global Research Identifier Database) identifier.
 
 

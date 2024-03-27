@@ -4,6 +4,8 @@ LivePaperResourceItem
 
 :Semantic name: https://openminds.ebrains.eu/publications/LivePaperResourceItem
 
+:Display as: Live paper resource item
+
 
 ------------
 

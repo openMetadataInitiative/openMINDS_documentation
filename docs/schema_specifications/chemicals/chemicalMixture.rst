@@ -4,6 +4,8 @@ ChemicalMixture
 
 :Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalMixture
 
+:Display as: Chemical mixture
+
 Structured information about a mixture of chemical substances.
 
 

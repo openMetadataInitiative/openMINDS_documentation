@@ -1,6 +1,6 @@
-#################
-DifferenceMeasure
-#################
+########################################
+Terminologies: DifferenceMeasure library
+########################################
 
 Related schema specification: `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/differenceMeasure.html>`_
 
@@ -12,14 +12,13 @@ chiSquaredStatistic
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: Test statistic resulting from a chi-squared test.
    :name: chi-squared statistic
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 
@@ -27,14 +26,13 @@ kolmogorovSmirnovStatistic
 --------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
    :name: Kolmogorov-Smirnov statistic
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 
@@ -42,14 +40,13 @@ kullbackLeiblerDivergence
 -------------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
    :name: Kullback-Leibler divergence
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 
@@ -57,14 +54,13 @@ meanSquaredError
 ----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The mean squared difference between two series of values.
    :name: mean squared error
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 
@@ -72,14 +68,13 @@ t_statistic
 -----------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
    :name: t-statistic
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 
@@ -87,14 +82,13 @@ z_score
 -------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The number of standard deviations by which an observed value is above or below the mean value.
    :name: z-score
 
-`BACK TO TOP <DifferenceMeasure_>`_
+`BACK TO TOP <Terminologies: DifferenceMeasure library_>`_
 
 ------------
 

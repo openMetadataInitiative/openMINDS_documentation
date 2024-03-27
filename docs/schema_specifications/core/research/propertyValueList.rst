@@ -4,6 +4,8 @@ PropertyValueList
 
 :Semantic name: https://openminds.ebrains.eu/core/PropertyValueList
 
+:Display as: Property value list
+
 An identifiable list of property-value pairs.
 
 

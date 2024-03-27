@@ -4,6 +4,8 @@ StimulationApproach
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
 
+:Display as: Stimulation approach
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/stimulationApproach.html>`_.
 

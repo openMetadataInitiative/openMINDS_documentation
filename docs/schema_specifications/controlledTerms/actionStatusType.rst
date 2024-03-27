@@ -4,6 +4,8 @@ ActionStatusType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
 
+:Display as: Action status type
+
 Structured information about the status of an action.
 
 

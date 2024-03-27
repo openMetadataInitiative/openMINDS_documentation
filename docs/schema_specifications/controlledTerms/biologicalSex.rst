@@ -4,6 +4,8 @@ BiologicalSex
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
 
+:Display as: Biological sex
+
 Structured information on the biological sex of a subject.
 
 

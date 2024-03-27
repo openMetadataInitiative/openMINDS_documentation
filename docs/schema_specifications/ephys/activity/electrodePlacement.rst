@@ -4,6 +4,8 @@ ElectrodePlacement
 
 :Semantic name: https://openminds.ebrains.eu/ephys/ElectrodePlacement
 
+:Display as: Electrode placement
+
 
 ------------
 

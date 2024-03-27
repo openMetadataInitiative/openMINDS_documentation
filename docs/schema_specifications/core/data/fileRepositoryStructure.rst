@@ -4,6 +4,8 @@ FileRepositoryStructure
 
 :Semantic name: https://openminds.ebrains.eu/core/FileRepositoryStructure
 
+:Display as: File repository structure
+
 
 ------------
 

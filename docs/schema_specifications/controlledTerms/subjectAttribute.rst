@@ -4,6 +4,8 @@ SubjectAttribute
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SubjectAttribute
 
+:Display as: Subject attribute
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/subjectAttribute.html>`_.
 

@@ -4,6 +4,8 @@ OperatingSystem
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
 
+:Display as: Operating system
+
 Structured information on the operating system.
 
 

@@ -1,6 +1,6 @@
-##############
-OrganismSystem
-##############
+#####################################
+Terminologies: OrganismSystem library
+#####################################
 
 Related schema specification: `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_
 
@@ -12,7 +12,6 @@ cardiovascularSystem
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -22,7 +21,7 @@ cardiovascularSystem
    :name: cardiovascular system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004535
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -30,7 +29,6 @@ centralNervousSystem
 --------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -41,7 +39,7 @@ centralNervousSystem
    :name: central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001017
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -49,7 +47,6 @@ cholinergicSystem
 -----------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -59,7 +56,7 @@ cholinergicSystem
    :name: cholinergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204http://purl.obolibrary.org/obo/UBERON_0025595
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -67,7 +64,6 @@ digestiveSystem
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -77,7 +73,7 @@ digestiveSystem
    :name: digestive system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001007
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -85,7 +81,6 @@ gabaergicSystem
 ---------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -95,7 +90,7 @@ gabaergicSystem
    :name: gabaergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025591
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -103,7 +98,6 @@ glutamatergicSystem
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -112,7 +106,7 @@ glutamatergicSystem
    :name: glutamatergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025592
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -120,7 +114,6 @@ musculoskeletalSystem
 ---------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -131,7 +124,7 @@ musculoskeletalSystem
    :name: musculoskeletal system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002204
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -139,7 +132,6 @@ noradrenergicSystem
 -------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -149,7 +141,7 @@ noradrenergicSystem
    :name: noradrenergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027225
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -157,7 +149,6 @@ serotonergicSystem
 ------------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -167,7 +158,7 @@ serotonergicSystem
    :name: serotonergic system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025593
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 
@@ -175,7 +166,6 @@ vascularSystem
 --------------
 
 .. admonition:: metadata sheet
-   :class: dropdown
 
    :@id: https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
@@ -185,7 +175,7 @@ vascularSystem
    :name: vascular system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007798
 
-`BACK TO TOP <OrganismSystem_>`_
+`BACK TO TOP <Terminologies: OrganismSystem library_>`_
 
 ------------
 

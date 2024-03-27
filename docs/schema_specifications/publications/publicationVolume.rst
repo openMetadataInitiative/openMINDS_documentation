@@ -4,6 +4,8 @@ PublicationVolume
 
 :Semantic name: https://openminds.ebrains.eu/publications/PublicationVolume
 
+:Display as: Publication volume
+
 
 ------------
 

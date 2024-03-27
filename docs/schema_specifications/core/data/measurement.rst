@@ -4,6 +4,8 @@ Measurement
 
 :Semantic name: https://openminds.ebrains.eu/core/Measurement
 
+:Display as: Measurement
+
 Structured information about a measurement performed during a scientific experiment.
 
 

@@ -4,6 +4,8 @@ Optimization
 
 :Semantic name: https://openminds.ebrains.eu/computation/Optimization
 
+:Display as: Optimization
+
 Structured information about a process of optimizing a model or a piece of code.
 
 

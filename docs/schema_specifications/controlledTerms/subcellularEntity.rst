@@ -4,6 +4,8 @@ SubcellularEntity
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
 
+:Display as: Subcellular entity
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/subcellularEntity.html>`_.
 

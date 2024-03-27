@@ -4,6 +4,10 @@ CommonCoordinateSpaceVersion
 
 :Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
 
+:Display as: Common coordinate space version
+
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateSpaceVersions.html>`_.
 
 ------------
 

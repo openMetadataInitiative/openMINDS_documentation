@@ -4,6 +4,8 @@ Species
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Species
 
+:Display as: Species
+
 Structured information on the species.
 
 

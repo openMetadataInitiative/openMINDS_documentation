@@ -4,6 +4,10 @@ ParcellationEntity
 
 :Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntity
 
+:Display as: Parcellation entity
+
+
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities.html>`_.
 
 ------------
 

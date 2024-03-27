@@ -4,6 +4,8 @@ CranialWindowConstructionType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType
 
+:Display as: Cranial window construction type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/cranialWindowConstructionType.html>`_.
 

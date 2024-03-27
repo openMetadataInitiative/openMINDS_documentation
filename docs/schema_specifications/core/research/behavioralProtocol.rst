@@ -4,6 +4,8 @@ BehavioralProtocol
 
 :Semantic name: https://openminds.ebrains.eu/core/BehavioralProtocol
 
+:Display as: Behavioral protocol
+
 Structured information about a protocol used in an experiment studying human or animal behavior.
 
 

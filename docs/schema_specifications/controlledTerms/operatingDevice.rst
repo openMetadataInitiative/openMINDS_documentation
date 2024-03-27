@@ -4,6 +4,8 @@ OperatingDevice
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
 
+:Display as: Operating device
+
 Structured information on the operating device.
 
 

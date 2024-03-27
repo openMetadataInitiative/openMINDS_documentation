@@ -4,6 +4,8 @@ ElectrodeArray
 
 :Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeArray
 
+:Display as: Electrode array
+
 
 ------------
 

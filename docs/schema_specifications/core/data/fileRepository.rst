@@ -4,6 +4,8 @@ FileRepository
 
 :Semantic name: https://openminds.ebrains.eu/core/FileRepository
 
+:Display as: File repository
+
 Structured information on a file repository.
 
 

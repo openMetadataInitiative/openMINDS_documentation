@@ -4,6 +4,8 @@ DataAnalysis
 
 :Semantic name: https://openminds.ebrains.eu/computation/DataAnalysis
 
+:Display as: Data analysis
+
 Structured information on inspecting, cleansing, transforming, and modelling data.
 
 

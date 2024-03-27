@@ -4,6 +4,8 @@ TissueSampleType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
 
+:Display as: Tissue sample type
+
 Structured information on the general type of the tissue sample.
 
 

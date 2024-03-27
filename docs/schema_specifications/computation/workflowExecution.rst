@@ -4,6 +4,8 @@ WorkflowExecution
 
 :Semantic name: https://openminds.ebrains.eu/computation/WorkflowExecution
 
+:Display as: Workflow execution
+
 Structured information about an execution of a computational workflow.
 
 

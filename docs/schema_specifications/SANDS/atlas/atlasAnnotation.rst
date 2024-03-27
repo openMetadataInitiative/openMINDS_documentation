@@ -4,6 +4,8 @@ AtlasAnnotation
 
 :Semantic name: https://openminds.ebrains.eu/sands/AtlasAnnotation
 
+:Display as: Atlas annotation
+
 
 ------------
 

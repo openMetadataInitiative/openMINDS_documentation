@@ -4,6 +4,8 @@ Technique
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Technique
 
+:Display as: Technique
+
 Structured information on the technique.
 
 

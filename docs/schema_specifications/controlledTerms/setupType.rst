@@ -4,6 +4,8 @@ SetupType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SetupType
 
+:Display as: Setup type
+
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/setupType.html>`_.
 

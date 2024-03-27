@@ -1,0 +1,4223 @@
+#################################
+ParcellationEntities: JBA library
+#################################
+
+Related schema specification: `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
+
+------------
+
+------------
+
+JBA_AcbL
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbL
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventralstriatum>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_AcbL_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_acbl_pm-v5.2>`_, `JBA_v3.0.2-Colin27_AcbL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_acbl_pm-v5.0>`_, `JBA_v3.0.2-MNI152_AcbL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_acbl_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_AcbL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_acbl_pm-v5.0>`_
+   :lookupLabel: JBA_AcbL
+   :name: AcbL (Lateral Accumbens, Ventral Striatum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_AcbM
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbM
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventralstriatum>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_AcbM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_acbm_pm-v5.0>`_, `JBA_v3.0.2-Colin27_AcbM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_acbm_pm-v5.0>`_, `JBA_v3.0.2-MNI152_AcbM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_acbm_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_AcbM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_acbm_pm-v5.0>`_
+   :lookupLabel: JBA_AcbM
+   :name: AcbM (Medial Accumbens, Ventral Striatum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-1
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_postcentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-1_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-1_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-1_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-1_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-1_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-1_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-1_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-1_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-1_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-1_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-1_pm-v10.0>`_, `JBA_v2.5-MNI152_Area-1_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-1_pm-v10.0>`_, `JBA_v2.6-MNI152_Area-1_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-1_pm-v10.0>`_, `JBA_v2.9-BigBrain_Area-1_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-1_pm-v10.0>`_, `JBA_v2.9-Colin27_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-1_pm-v12.1>`_, `JBA_v2.9-MNI152_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-1_pm-v12.1>`_, `JBA_v2.9-fsaverage_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-1_pm-v12.1>`_, `JBA_v3.0.2-BigBrain_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-1_pm-v12.1>`_, `JBA_v3.0.2-Colin27_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-1_pm-v12.1>`_, `JBA_v3.0.2-MNI152_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-1_pm-v12.1>`_, `JBA_v3.0.2-fsaverage_Area-1_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-1_pm-v12.1>`_
+   :lookupLabel: JBA_Area-1
+   :name: Area 1 (PostCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-2
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_postcentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-2_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-2_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-2_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-2_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-2_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-2_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-2_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-2_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-2_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-2_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-2_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-2_pm-v7.1>`_, `JBA_v2.9-MNI152_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-2_pm-v7.1>`_, `JBA_v2.9-fsaverage_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-2_pm-v7.1>`_, `JBA_v3.0.2-BigBrain_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-2_pm-v7.1>`_, `JBA_v3.0.2-Colin27_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-2_pm-v7.1>`_, `JBA_v3.0.2-MNI152_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-2_pm-v7.1>`_, `JBA_v3.0.2-fsaverage_Area-2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-2_pm-v7.1>`_
+   :lookupLabel: JBA_Area-2
+   :name: Area 2 (PostCS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-25.25a
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25a
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-25 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-25>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-25.25a_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-25.25a_pm-v8.2>`_, `JBA_v3.0.2-Colin27_Area-25.25a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-25.25a_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-25.25a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-25.25a_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-25.25a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-25.25a_pm-v20.1>`_
+   :lookupLabel: JBA_Area-25.25a
+   :name: Area 25.25a (sACC
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-25.25p
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25p
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-25 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-25>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-25.25p_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-25.25p_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-25.25p_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-25.25p_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-25.25p_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-25.25p_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-25.25p_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-25.25p_pm-v20.1>`_
+   :lookupLabel: JBA_Area-25.25p
+   :name: Area 25.25p (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-25
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-25_PM-v16.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-25_pm-v16.0>`_, `JBA_v1.18-Colin27_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-25_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-25_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-25_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-25_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-25_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-25_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-25_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-25_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-25_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-25_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-25_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-25_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-25_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-25_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-25_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-25_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-25_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-25_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-25_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-25_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-25_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-25_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-25_pm-v20.1>`_
+   :lookupLabel: JBA_Area-25
+   :name: Area 25 (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-33
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-33
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-33_PM-v16.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-33_pm-v16.0>`_, `JBA_v1.18-Colin27_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-33_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-33_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-33_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-33_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-33_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-33_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-33_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-33_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-33_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-33_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-33_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-33_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-33_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-33_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-33_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-33_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-33_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-33_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-33_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-33_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-33_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-33_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-33_pm-v20.1>`_
+   :lookupLabel: JBA_Area-33
+   :name: Area 33 (ACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-3a
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3a
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_postcentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-3a_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-3a_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-3a_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-3a_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-3a_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-3a_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-3a_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-3a_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-3a_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-3a_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-3a_pm-v10.0>`_, `JBA_v2.5-MNI152_Area-3a_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-3a_pm-v10.0>`_, `JBA_v2.6-MNI152_Area-3a_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-3a_pm-v10.0>`_, `JBA_v2.9-BigBrain_Area-3a_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-3a_pm-v10.0>`_, `JBA_v2.9-Colin27_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-3a_pm-v12.1>`_, `JBA_v2.9-MNI152_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-3a_pm-v12.1>`_, `JBA_v2.9-fsaverage_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-3a_pm-v12.1>`_, `JBA_v3.0.2-BigBrain_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-3a_pm-v12.1>`_, `JBA_v3.0.2-Colin27_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-3a_pm-v12.1>`_, `JBA_v3.0.2-MNI152_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-3a_pm-v12.1>`_, `JBA_v3.0.2-fsaverage_Area-3a_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-3a_pm-v12.1>`_
+   :lookupLabel: JBA_Area-3a
+   :name: Area 3a (PostCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-3b
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3b
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_postcentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-3b_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-3b_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-3b_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-3b_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-3b_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-3b_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-3b_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-3b_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-3b_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-3b_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-3b_pm-v10.0>`_, `JBA_v2.5-MNI152_Area-3b_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-3b_pm-v10.0>`_, `JBA_v2.6-MNI152_Area-3b_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-3b_pm-v10.0>`_, `JBA_v2.9-BigBrain_Area-3b_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-3b_pm-v10.0>`_, `JBA_v2.9-Colin27_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-3b_pm-v12.1>`_, `JBA_v2.9-MNI152_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-3b_pm-v12.1>`_, `JBA_v2.9-fsaverage_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-3b_pm-v12.1>`_, `JBA_v3.0.2-BigBrain_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-3b_pm-v12.1>`_, `JBA_v3.0.2-Colin27_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-3b_pm-v12.1>`_, `JBA_v3.0.2-MNI152_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-3b_pm-v12.1>`_, `JBA_v3.0.2-fsaverage_Area-3b_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-3b_pm-v12.1>`_
+   :lookupLabel: JBA_Area-3b
+   :name: Area 3b (PostCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-44
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-44
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-44_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-44_pm-v7.2>`_, `JBA_v1.18-Colin27_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-44_pm-v7.4>`_, `JBA_v1.18-MNI152_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-44_pm-v7.4>`_, `JBA_v2.2-Colin27_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-44_pm-v7.4>`_, `JBA_v2.2-MNI152_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-44_pm-v7.4>`_, `JBA_v2.4-Colin27_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-44_pm-v7.4>`_, `JBA_v2.4-MNI152_Area-44_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-44_pm-v7.4>`_, `JBA_v2.5-Colin27_Area-44_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-44_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-44_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-44_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-44_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-44_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-44_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-44_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-44_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-44_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-44_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-44_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-44_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-44_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-44_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-44_pm-v9.2>`_
+   :lookupLabel: JBA_Area-44
+   :name: Area 44 (IFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-45
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-45
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-45_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-45_pm-v7.2>`_, `JBA_v1.18-Colin27_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-45_pm-v7.4>`_, `JBA_v1.18-MNI152_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-45_pm-v7.4>`_, `JBA_v2.2-Colin27_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-45_pm-v7.4>`_, `JBA_v2.2-MNI152_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-45_pm-v7.4>`_, `JBA_v2.4-Colin27_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-45_pm-v7.4>`_, `JBA_v2.4-MNI152_Area-45_PM-v7.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-45_pm-v7.4>`_, `JBA_v2.5-Colin27_Area-45_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-45_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-45_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-45_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-45_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-45_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-45_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-45_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-45_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-45_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-45_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-45_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-45_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-45_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-45_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-45_pm-v9.2>`_
+   :lookupLabel: JBA_Area-45
+   :name: Area 45 (IFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-4a
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4a
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_precentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-4a_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-4a_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-4a_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-4a_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-4a_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-4a_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-4a_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-4a_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-4a_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-4a_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-4a_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-4a_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-4a_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-4a_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-4a_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-4a_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-4a_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-4a_pm-v13.1>`_, `JBA_v2.9-MNI152_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-4a_pm-v13.1>`_, `JBA_v2.9-fsaverage_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-4a_pm-v13.1>`_, `JBA_v3.0.2-BigBrain_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-4a_pm-v13.1>`_, `JBA_v3.0.2-Colin27_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-4a_pm-v13.1>`_, `JBA_v3.0.2-MNI152_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-4a_pm-v13.1>`_, `JBA_v3.0.2-fsaverage_Area-4a_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-4a_pm-v13.1>`_
+   :lookupLabel: JBA_Area-4a
+   :name: Area 4a (PreCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-4p
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4p
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_precentralgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-4p_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-4p_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-4p_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-4p_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-4p_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-4p_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-4p_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-4p_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-4p_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-4p_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-4p_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-4p_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-4p_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-4p_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-4p_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-4p_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-4p_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-4p_pm-v13.1>`_, `JBA_v2.9-MNI152_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-4p_pm-v13.1>`_, `JBA_v2.9-fsaverage_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-4p_pm-v13.1>`_, `JBA_v3.0.2-BigBrain_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-4p_pm-v13.1>`_, `JBA_v3.0.2-Colin27_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-4p_pm-v13.1>`_, `JBA_v3.0.2-MNI152_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-4p_pm-v13.1>`_, `JBA_v3.0.2-fsaverage_Area-4p_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-4p_pm-v13.1>`_
+   :lookupLabel: JBA_Area-4p
+   :name: Area 4p (PreCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-5Ci
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5Ci
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-5Ci_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-5ci_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-5ci_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-5ci_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-5ci_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-5ci_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-5ci_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-5Ci_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-5ci_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-5Ci_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-5ci_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-5Ci_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-5ci_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-5Ci_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-5ci_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-5Ci_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-5ci_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-5ci_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-5ci_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-5ci_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-5ci_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-5ci_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-5ci_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-5Ci_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-5ci_pm-v9.2>`_
+   :lookupLabel: JBA_Area-5Ci
+   :name: Area 5Ci (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-5L
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5L
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-5L_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-5l_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-5l_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-5l_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-5l_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-5l_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-5l_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-5L_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-5l_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-5L_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-5l_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-5L_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-5l_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-5L_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-5l_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-5L_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-5l_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-5l_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-5l_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-5l_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-5l_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-5l_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-5l_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-5L_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-5l_pm-v9.2>`_
+   :lookupLabel: JBA_Area-5L
+   :name: Area 5L (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-5M
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5M
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-5M_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-5m_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-5m_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-5m_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-5m_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-5m_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-5m_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-5M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-5m_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-5M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-5m_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-5M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-5m_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-5M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-5m_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-5M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-5m_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-5m_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-5m_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-5m_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-5m_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-5m_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-5m_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-5M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-5m_pm-v9.2>`_
+   :lookupLabel: JBA_Area-5M
+   :name: Area 5M (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-6d1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dorsalprecentralgyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-6d1_pm-v4.1>`_, `JBA_v1.18-MNI152_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-6d1_pm-v4.1>`_, `JBA_v2.2-Colin27_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-6d1_pm-v4.1>`_, `JBA_v2.2-MNI152_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-6d1_pm-v4.1>`_, `JBA_v2.4-Colin27_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-6d1_pm-v4.1>`_, `JBA_v2.4-MNI152_Area-6d1_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-6d1_pm-v4.1>`_, `JBA_v2.5-Colin27_Area-6d1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-6d1_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-6d1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-6d1_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-6d1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-6d1_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-6d1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-6d1_int>`_, `JBA_v2.9-Colin27_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-6d1_pm-v7.1>`_, `JBA_v2.9-MNI152_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-6d1_pm-v7.1>`_, `JBA_v2.9-fsaverage_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-6d1_pm-v7.1>`_, `JBA_v3.0.2-BigBrain_Area-6d1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-6d1_int>`_, `JBA_v3.0.2-Colin27_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-6d1_pm-v7.1>`_, `JBA_v3.0.2-MNI152_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-6d1_pm-v7.1>`_, `JBA_v3.0.2-fsaverage_Area-6d1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-6d1_pm-v7.1>`_
+   :lookupLabel: JBA_Area-6d1
+   :name: Area 6d1 (PreCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-6d2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dorsalprecentralgyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-6d2_pm-v4.1>`_, `JBA_v1.18-MNI152_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-6d2_pm-v4.1>`_, `JBA_v2.2-Colin27_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-6d2_pm-v4.1>`_, `JBA_v2.2-MNI152_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-6d2_pm-v4.1>`_, `JBA_v2.4-Colin27_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-6d2_pm-v4.1>`_, `JBA_v2.4-MNI152_Area-6d2_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-6d2_pm-v4.1>`_, `JBA_v2.5-Colin27_Area-6d2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-6d2_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-6d2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-6d2_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-6d2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-6d2_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-6d2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-6d2_int>`_, `JBA_v2.9-Colin27_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-6d2_pm-v7.1>`_, `JBA_v2.9-MNI152_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-6d2_pm-v7.1>`_, `JBA_v2.9-fsaverage_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-6d2_pm-v7.1>`_, `JBA_v3.0.2-BigBrain_Area-6d2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-6d2_int>`_, `JBA_v3.0.2-Colin27_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-6d2_pm-v7.1>`_, `JBA_v3.0.2-MNI152_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-6d2_pm-v7.1>`_, `JBA_v3.0.2-fsaverage_Area-6d2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-6d2_pm-v7.1>`_
+   :lookupLabel: JBA_Area-6d2
+   :name: Area 6d2 (PreCG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-6d3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorfrontalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-6d3_pm-v4.1>`_, `JBA_v1.18-MNI152_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-6d3_pm-v4.1>`_, `JBA_v2.2-Colin27_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-6d3_pm-v4.1>`_, `JBA_v2.2-MNI152_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-6d3_pm-v4.1>`_, `JBA_v2.4-Colin27_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-6d3_pm-v4.1>`_, `JBA_v2.4-MNI152_Area-6d3_PM-v4.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-6d3_pm-v4.1>`_, `JBA_v2.5-Colin27_Area-6d3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-6d3_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-6d3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-6d3_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-6d3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-6d3_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-6d3_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-6d3_int>`_, `JBA_v2.9-Colin27_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-6d3_pm-v7.1>`_, `JBA_v2.9-MNI152_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-6d3_pm-v7.1>`_, `JBA_v2.9-fsaverage_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-6d3_pm-v7.1>`_, `JBA_v3.0.2-BigBrain_Area-6d3_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-6d3_int>`_, `JBA_v3.0.2-Colin27_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-6d3_pm-v7.1>`_, `JBA_v3.0.2-MNI152_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-6d3_pm-v7.1>`_, `JBA_v3.0.2-fsaverage_Area-6d3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-6d3_pm-v7.1>`_
+   :lookupLabel: JBA_Area-6d3
+   :name: Area 6d3 (SFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-6ma
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6ma
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_posteriorMedialSuperiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_posteriormedialsuperiorfrontalgyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-6ma_pm-v9.1>`_, `JBA_v1.18-MNI152_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-6ma_pm-v9.1>`_, `JBA_v2.2-Colin27_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-6ma_pm-v9.1>`_, `JBA_v2.2-MNI152_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-6ma_pm-v9.1>`_, `JBA_v2.4-Colin27_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-6ma_pm-v9.1>`_, `JBA_v2.4-MNI152_Area-6ma_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-6ma_pm-v9.1>`_, `JBA_v2.5-Colin27_Area-6ma_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-6ma_pm-v10.0>`_, `JBA_v2.5-MNI152_Area-6ma_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-6ma_pm-v10.0>`_, `JBA_v2.6-MNI152_Area-6ma_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-6ma_pm-v10.0>`_, `JBA_v2.9-BigBrain_Area-6ma_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-6ma_int>`_, `JBA_v2.9-Colin27_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-6ma_pm-v12.1>`_, `JBA_v2.9-MNI152_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-6ma_pm-v12.1>`_, `JBA_v2.9-fsaverage_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-6ma_pm-v12.1>`_, `JBA_v3.0.2-BigBrain_Area-6ma_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-6ma_int>`_, `JBA_v3.0.2-Colin27_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-6ma_pm-v12.1>`_, `JBA_v3.0.2-MNI152_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-6ma_pm-v12.1>`_, `JBA_v3.0.2-fsaverage_Area-6ma_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-6ma_pm-v12.1>`_
+   :lookupLabel: JBA_Area-6ma
+   :name: Area 6ma (preSMA, mesial SFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-6mp
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6mp
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_mesialPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_mesialprecentralgyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-6mp_pm-v9.1>`_, `JBA_v1.18-MNI152_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-6mp_pm-v9.1>`_, `JBA_v2.2-Colin27_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-6mp_pm-v9.1>`_, `JBA_v2.2-MNI152_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-6mp_pm-v9.1>`_, `JBA_v2.4-Colin27_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-6mp_pm-v9.1>`_, `JBA_v2.4-MNI152_Area-6mp_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-6mp_pm-v9.1>`_, `JBA_v2.5-Colin27_Area-6mp_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-6mp_pm-v10.0>`_, `JBA_v2.5-MNI152_Area-6mp_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-6mp_pm-v10.0>`_, `JBA_v2.6-MNI152_Area-6mp_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-6mp_pm-v10.0>`_, `JBA_v2.9-BigBrain_Area-6mp_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-6mp_pm-v10.0>`_, `JBA_v2.9-Colin27_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-6mp_pm-v12.1>`_, `JBA_v2.9-MNI152_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-6mp_pm-v12.1>`_, `JBA_v2.9-fsaverage_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-6mp_pm-v12.1>`_, `JBA_v3.0.2-BigBrain_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-6mp_pm-v12.1>`_, `JBA_v3.0.2-Colin27_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-6mp_pm-v12.1>`_, `JBA_v3.0.2-MNI152_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-6mp_pm-v12.1>`_, `JBA_v3.0.2-fsaverage_Area-6mp_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-6mp_pm-v12.1>`_
+   :lookupLabel: JBA_Area-6mp
+   :name: Area 6mp (SMA, mesial SFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-7A
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7A
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-7A_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-7a_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-7a_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-7a_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-7a_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-7a_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-7a_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-7A_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-7a_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-7A_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-7a_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-7A_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-7a_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-7A_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-7a_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-7A_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-7a_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-7a_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-7a_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-7a_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-7a_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-7a_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-7a_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-7A_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-7a_pm-v9.2>`_
+   :lookupLabel: JBA_Area-7A
+   :name: Area 7A (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-7M
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7M
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-7M_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-7m_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-7M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-7m_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-7M_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-7m_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-7M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-7m_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-7M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-7m_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-7M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-7m_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-7M_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-7m_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-7m_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-7m_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-7m_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-7m_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-7m_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-7m_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-7M_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-7m_pm-v9.2>`_
+   :lookupLabel: JBA_Area-7M
+   :name: Area 7M (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-7P
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7P
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-7P_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-7p_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-7p_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-7p_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-7p_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-7p_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-7p_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-7P_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-7p_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-7P_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-7p_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-7P_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-7p_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-7P_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-7p_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-7P_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-7p_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-7p_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-7p_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-7p_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-7p_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-7p_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-7p_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-7P_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-7p_pm-v9.2>`_
+   :lookupLabel: JBA_Area-7P
+   :name: Area 7P (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-7PC
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7PC
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-7PC_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-7pc_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-7pc_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-7pc_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-7pc_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-7pc_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-7pc_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-7PC_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-7pc_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-7PC_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-7pc_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-7PC_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-7pc_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-7PC_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-7pc_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-7PC_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-7pc_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-7pc_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-7pc_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-7pc_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-7pc_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-7pc_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-7pc_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-7PC_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-7pc_pm-v9.2>`_
+   :lookupLabel: JBA_Area-7PC
+   :name: Area 7PC (SPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-8d1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorfrontalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-8d1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-8d1_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-8d1_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-8d1_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-8d1_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-8d1_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-8d1_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-8d1_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-8d1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-8d1_pm-v4.2>`_
+   :lookupLabel: JBA_Area-8d1
+   :name: Area 8d1 (SFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-8d2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorfrontalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-8d2_pm-v4.2>`_, `JBA_v2.9-Colin27_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-8d2_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-8d2_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-8d2_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-8d2_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-8d2_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-8d2_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-8d2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-8d2_pm-v4.2>`_
+   :lookupLabel: JBA_Area-8d2
+   :name: Area 8d2 (SFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-8v1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_middlefrontalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-8v1_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-8v1_pm-v8.2>`_, `JBA_v2.9-Colin27_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-8v1_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-8v1_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-8v1_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-8v1_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-8v1_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-8v1_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-8v1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-8v1_pm-v4.2>`_
+   :lookupLabel: JBA_Area-8v1
+   :name: Area 8v1 (MFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-8v2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_middlefrontalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-8v2_pm-v4.2>`_, `JBA_v2.9-Colin27_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-8v2_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-8v2_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-8v2_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-8v2_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-8v2_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-8v2_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-8v2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-8v2_pm-v4.2>`_
+   :lookupLabel: JBA_Area-8v2
+   :name: Area 8v2 (MFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-CoS1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-CoS1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_collateralSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_collateralsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-CoS1_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-cos1_pm-v8.2>`_, `JBA_v2.9-Colin27_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-cos1_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-cos1_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-cos1_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-cos1_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-cos1_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-cos1_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-CoS1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-cos1_pm-v7.2>`_
+   :lookupLabel: JBA_Area-CoS1
+   :name: Area CoS1 (CoS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-FG1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fusiformgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-FG1_PM-v1.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fg1_pm-v1.2>`_, `JBA_v1.18-Colin27_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fg1_pm-v1.4>`_, `JBA_v1.18-MNI152_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fg1_pm-v1.4>`_, `JBA_v2.2-Colin27_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fg1_pm-v1.4>`_, `JBA_v2.2-MNI152_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fg1_pm-v1.4>`_, `JBA_v2.4-Colin27_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fg1_pm-v1.4>`_, `JBA_v2.4-MNI152_Area-FG1_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fg1_pm-v1.4>`_, `JBA_v2.5-Colin27_Area-FG1_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fg1_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-FG1_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fg1_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-FG1_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fg1_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-FG1_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fg1_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fg1_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fg1_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fg1_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fg1_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fg1_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fg1_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-FG1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fg1_pm-v3.2>`_
+   :lookupLabel: JBA_Area-FG1
+   :name: Area FG1 (FusG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-FG2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fusiformgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-FG2_PM-v1.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fg2_pm-v1.2>`_, `JBA_v1.18-Colin27_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fg2_pm-v1.4>`_, `JBA_v1.18-MNI152_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fg2_pm-v1.4>`_, `JBA_v2.2-Colin27_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fg2_pm-v1.4>`_, `JBA_v2.2-MNI152_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fg2_pm-v1.4>`_, `JBA_v2.4-Colin27_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fg2_pm-v1.4>`_, `JBA_v2.4-MNI152_Area-FG2_PM-v1.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fg2_pm-v1.4>`_, `JBA_v2.5-Colin27_Area-FG2_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fg2_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-FG2_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fg2_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-FG2_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fg2_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-FG2_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fg2_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fg2_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fg2_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fg2_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fg2_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fg2_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fg2_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-FG2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fg2_pm-v3.2>`_
+   :lookupLabel: JBA_Area-FG2
+   :name: Area FG2 (FusG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-FG3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fusiformgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-FG3_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fg3_pm-v6.0>`_, `JBA_v1.18-Colin27_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fg3_pm-v6.1>`_, `JBA_v1.18-MNI152_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fg3_pm-v6.1>`_, `JBA_v2.2-Colin27_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fg3_pm-v6.1>`_, `JBA_v2.2-MNI152_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fg3_pm-v6.1>`_, `JBA_v2.4-Colin27_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fg3_pm-v6.1>`_, `JBA_v2.4-MNI152_Area-FG3_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fg3_pm-v6.1>`_, `JBA_v2.5-Colin27_Area-FG3_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fg3_pm-v7.0>`_, `JBA_v2.5-MNI152_Area-FG3_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fg3_pm-v7.0>`_, `JBA_v2.6-MNI152_Area-FG3_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fg3_pm-v7.0>`_, `JBA_v2.9-BigBrain_Area-FG3_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fg3_pm-v7.0>`_, `JBA_v2.9-Colin27_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fg3_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fg3_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fg3_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fg3_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fg3_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fg3_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-FG3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fg3_pm-v7.2>`_
+   :lookupLabel: JBA_Area-FG3
+   :name: Area FG3 (FusG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-FG4
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fusiformgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-FG4_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fg4_pm-v6.0>`_, `JBA_v1.18-Colin27_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fg4_pm-v6.1>`_, `JBA_v1.18-MNI152_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fg4_pm-v6.1>`_, `JBA_v2.2-Colin27_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fg4_pm-v6.1>`_, `JBA_v2.2-MNI152_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fg4_pm-v6.1>`_, `JBA_v2.4-Colin27_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fg4_pm-v6.1>`_, `JBA_v2.4-MNI152_Area-FG4_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fg4_pm-v6.1>`_, `JBA_v2.5-Colin27_Area-FG4_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fg4_pm-v7.0>`_, `JBA_v2.5-MNI152_Area-FG4_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fg4_pm-v7.0>`_, `JBA_v2.6-MNI152_Area-FG4_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fg4_pm-v7.0>`_, `JBA_v2.9-BigBrain_Area-FG4_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fg4_pm-v7.0>`_, `JBA_v2.9-Colin27_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fg4_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fg4_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fg4_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fg4_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fg4_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fg4_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-FG4_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fg4_pm-v7.2>`_
+   :lookupLabel: JBA_Area-FG4
+   :name: Area FG4 (FusG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_medialorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Fo1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fo1_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo1_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo1_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo1_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo1_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo1_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-Fo1_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo1_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-Fo1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo1_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-Fo1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo1_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-Fo1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo1_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-Fo1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo1_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo1_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo1_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo1_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo1_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo1_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo1_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo1_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo1_pm-v5.2>`_
+   :lookupLabel: JBA_Area-Fo1
+   :name: Area Fo1 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_medialorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Fo2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fo2_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo2_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo2_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo2_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo2_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo2_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-Fo2_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo2_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-Fo2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo2_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-Fo2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo2_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-Fo2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo2_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-Fo2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo2_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo2_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo2_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo2_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo2_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo2_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo2_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo2_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo2_pm-v5.2>`_
+   :lookupLabel: JBA_Area-Fo2
+   :name: Area Fo2 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_medialorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Fo3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fo3_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo3_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo3_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo3_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo3_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo3_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-Fo3_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo3_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-Fo3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo3_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-Fo3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo3_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-Fo3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo3_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-Fo3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo3_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo3_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo3_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo3_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo3_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo3_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo3_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo3_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo3_pm-v5.2>`_
+   :lookupLabel: JBA_Area-Fo3
+   :name: Area Fo3 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo4
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateralorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo4_pm-v2.1>`_, `JBA_v1.18-MNI152_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo4_pm-v2.1>`_, `JBA_v2.2-Colin27_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo4_pm-v2.1>`_, `JBA_v2.2-MNI152_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo4_pm-v2.1>`_, `JBA_v2.4-Colin27_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo4_pm-v2.1>`_, `JBA_v2.4-MNI152_Area-Fo4_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo4_pm-v2.1>`_, `JBA_v2.5-Colin27_Area-Fo4_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo4_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-Fo4_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo4_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-Fo4_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo4_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-Fo4_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo4_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo4_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo4_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo4_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo4_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo4_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo4_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo4_pm-v3.2>`_
+   :lookupLabel: JBA_Area-Fo4
+   :name: Area Fo4 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo5
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateralorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo5_pm-v2.1>`_, `JBA_v1.18-MNI152_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo5_pm-v2.1>`_, `JBA_v2.2-Colin27_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo5_pm-v2.1>`_, `JBA_v2.2-MNI152_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo5_pm-v2.1>`_, `JBA_v2.4-Colin27_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo5_pm-v2.1>`_, `JBA_v2.4-MNI152_Area-Fo5_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo5_pm-v2.1>`_, `JBA_v2.5-Colin27_Area-Fo5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo5_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-Fo5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo5_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-Fo5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo5_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-Fo5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo5_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo5_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo5_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo5_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo5_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo5_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo5_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo5_pm-v3.2>`_
+   :lookupLabel: JBA_Area-Fo5
+   :name: Area Fo5 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo6
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateralorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo6_pm-v2.1>`_, `JBA_v1.18-MNI152_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo6_pm-v2.1>`_, `JBA_v2.2-Colin27_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo6_pm-v2.1>`_, `JBA_v2.2-MNI152_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo6_pm-v2.1>`_, `JBA_v2.4-Colin27_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo6_pm-v2.1>`_, `JBA_v2.4-MNI152_Area-Fo6_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo6_pm-v2.1>`_, `JBA_v2.5-Colin27_Area-Fo6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo6_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-Fo6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo6_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-Fo6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo6_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-Fo6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo6_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo6_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo6_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo6_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo6_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo6_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo6_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo6_pm-v3.2>`_
+   :lookupLabel: JBA_Area-Fo6
+   :name: Area Fo6 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fo7
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo7
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateralorbitofrontalcortex>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fo7_pm-v2.1>`_, `JBA_v1.18-MNI152_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fo7_pm-v2.1>`_, `JBA_v2.2-Colin27_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fo7_pm-v2.1>`_, `JBA_v2.2-MNI152_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fo7_pm-v2.1>`_, `JBA_v2.4-Colin27_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fo7_pm-v2.1>`_, `JBA_v2.4-MNI152_Area-Fo7_PM-v2.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fo7_pm-v2.1>`_, `JBA_v2.5-Colin27_Area-Fo7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fo7_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-Fo7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fo7_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-Fo7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fo7_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-Fo7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fo7_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fo7_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fo7_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fo7_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fo7_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fo7_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fo7_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-Fo7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fo7_pm-v3.2>`_
+   :lookupLabel: JBA_Area-Fo7
+   :name: Area Fo7 (OFC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fp1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalpole>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Fp1_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fp1_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fp1_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fp1_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fp1_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fp1_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fp1_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-Fp1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fp1_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-Fp1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fp1_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Fp1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fp1_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Fp1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fp1_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Fp1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fp1_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fp1_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fp1_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fp1_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fp1_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fp1_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fp1_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Fp1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fp1_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Fp1
+   :name: Area Fp1 (FPole)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Fp2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalpole>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Fp2_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-fp2_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-fp2_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-fp2_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-fp2_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-fp2_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-fp2_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-Fp2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-fp2_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-Fp2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-fp2_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Fp2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-fp2_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Fp2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-fp2_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Fp2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-fp2_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-fp2_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-fp2_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-fp2_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-fp2_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-fp2_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-fp2_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Fp2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-fp2_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Fp2
+   :name: Area Fp2 (FPole)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFJ1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFJ1_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifj1_pm-v9.2>`_, `JBA_v2.9-Colin27_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifj1_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifj1_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifj1_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifj1_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifj1_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifj1_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFJ1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifj1_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFJ1
+   :name: Area IFJ1 (IFS,PreCS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFJ2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifj2_pm-v3.2>`_, `JBA_v2.9-Colin27_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifj2_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifj2_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifj2_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifj2_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifj2_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifj2_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFJ2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifj2_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFJ2
+   :name: Area IFJ2 (IFS,PreCS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFS1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifs1_pm-v3.2>`_, `JBA_v2.9-Colin27_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifs1_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifs1_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifs1_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifs1_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifs1_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifs1_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFS1_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifs1_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFS1
+   :name: Area IFS1 (IFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFS2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifs2_pm-v3.2>`_, `JBA_v2.9-Colin27_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifs2_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifs2_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifs2_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifs2_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifs2_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifs2_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFS2_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifs2_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFS2
+   :name: Area IFS2 (IFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFS3
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifs3_pm-v3.2>`_, `JBA_v2.9-Colin27_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifs3_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifs3_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifs3_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifs3_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifs3_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifs3_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFS3_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifs3_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFS3
+   :name: Area IFS3 (IFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-IFS4
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorfrontalsulcus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ifs4_pm-v3.2>`_, `JBA_v2.9-Colin27_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ifs4_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ifs4_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ifs4_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ifs4_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ifs4_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ifs4_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-IFS4_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ifs4_pm-v3.2>`_
+   :lookupLabel: JBA_Area-IFS4
+   :name: Area IFS4 (IFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ia
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_agranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-ia_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-ia_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-ia_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-ia_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-ia_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-Ia_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-ia_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-Ia_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-ia_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Ia_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-ia_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Ia_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-ia_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Ia
+   :name: Area Ia (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ia1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_agranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ia1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ia1_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ia1_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ia1_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ia1_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ia1_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ia1_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ia1_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Ia1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ia1_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Ia1
+   :name: Area Ia1 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ia2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_agranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ia2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ia2_pm-v5.1>`_, `JBA_v2.9-Colin27_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ia2_pm-v4.0>`_, `JBA_v2.9-MNI152_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ia2_pm-v4.0>`_, `JBA_v2.9-fsaverage_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ia2_pm-v4.0>`_, `JBA_v3.0.2-BigBrain_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ia2_pm-v4.0>`_, `JBA_v3.0.2-Colin27_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ia2_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ia2_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Area-Ia2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ia2_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Ia2
+   :name: Area Ia2 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ia3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_agranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ia3_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ia3_pm-v4.0>`_, `JBA_v2.9-MNI152_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ia3_pm-v4.0>`_, `JBA_v2.9-fsaverage_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ia3_pm-v4.0>`_, `JBA_v3.0.2-BigBrain_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ia3_pm-v4.0>`_, `JBA_v3.0.2-Colin27_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ia3_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ia3_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Area-Ia3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ia3_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Ia3
+   :name: Area Ia3 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Id1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-id1_pm-v11.0>`_, `JBA_v1.18-Colin27_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id1_pm-v13.1>`_, `JBA_v1.18-MNI152_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id1_pm-v13.1>`_, `JBA_v2.2-Colin27_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id1_pm-v13.1>`_, `JBA_v2.2-MNI152_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id1_pm-v13.1>`_, `JBA_v2.4-Colin27_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id1_pm-v13.1>`_, `JBA_v2.4-MNI152_Area-Id1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id1_pm-v13.1>`_, `JBA_v2.5-Colin27_Area-Id1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id1_pm-v14.0>`_, `JBA_v2.5-MNI152_Area-Id1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id1_pm-v14.0>`_, `JBA_v2.6-MNI152_Area-Id1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id1_pm-v14.0>`_, `JBA_v2.9-BigBrain_Area-Id1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id1_pm-v14.0>`_, `JBA_v2.9-Colin27_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id1_pm-v14.2>`_, `JBA_v2.9-MNI152_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id1_pm-v14.2>`_, `JBA_v2.9-fsaverage_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id1_pm-v14.2>`_, `JBA_v3.0.2-BigBrain_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id1_pm-v14.2>`_, `JBA_v3.0.2-Colin27_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id1_pm-v14.2>`_, `JBA_v3.0.2-MNI152_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id1_pm-v14.2>`_, `JBA_v3.0.2-fsaverage_Area-Id1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id1_pm-v14.2>`_
+   :lookupLabel: JBA_Area-Id1
+   :name: Area Id1 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id10
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id10
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Id10_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id10_pm-v14.2>`_, `JBA_v2.9-Colin27_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id10_pm-v4.0>`_, `JBA_v2.9-MNI152_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id10_pm-v4.0>`_, `JBA_v2.9-fsaverage_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id10_pm-v4.0>`_, `JBA_v3.0.2-BigBrain_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id10_pm-v4.0>`_, `JBA_v3.0.2-Colin27_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id10_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id10_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Area-Id10_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id10_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Id10
+   :name: Area Id10 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id2_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id2_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id2_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id2_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id2_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-Id2_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id2_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-Id2_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id2_pm-v8.0>`_, `JBA_v2.5-MNI152_Area-Id2_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id2_pm-v8.0>`_, `JBA_v2.6-MNI152_Area-Id2_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id2_pm-v8.0>`_, `JBA_v2.9-BigBrain_Area-Id2_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id2_pm-v8.0>`_, `JBA_v2.9-Colin27_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id2_pm-v9.1>`_, `JBA_v2.9-MNI152_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id2_pm-v9.1>`_, `JBA_v2.9-fsaverage_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id2_pm-v9.1>`_, `JBA_v3.0.2-BigBrain_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id2_pm-v9.1>`_, `JBA_v3.0.2-Colin27_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id2_pm-v9.1>`_, `JBA_v3.0.2-MNI152_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id2_pm-v9.1>`_, `JBA_v3.0.2-fsaverage_Area-Id2_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id2_pm-v9.1>`_
+   :lookupLabel: JBA_Area-Id2
+   :name: Area Id2 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id3_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id3_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id3_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id3_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id3_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-Id3_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id3_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-Id3_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id3_pm-v8.0>`_, `JBA_v2.5-MNI152_Area-Id3_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id3_pm-v8.0>`_, `JBA_v2.6-MNI152_Area-Id3_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id3_pm-v8.0>`_, `JBA_v2.9-BigBrain_Area-Id3_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id3_pm-v8.0>`_, `JBA_v2.9-Colin27_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id3_pm-v9.1>`_, `JBA_v2.9-MNI152_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id3_pm-v9.1>`_, `JBA_v2.9-fsaverage_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id3_pm-v9.1>`_, `JBA_v3.0.2-BigBrain_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id3_pm-v9.1>`_, `JBA_v3.0.2-Colin27_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id3_pm-v9.1>`_, `JBA_v3.0.2-MNI152_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id3_pm-v9.1>`_, `JBA_v3.0.2-fsaverage_Area-Id3_PM-v9.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id3_pm-v9.1>`_
+   :lookupLabel: JBA_Area-Id3
+   :name: Area Id3 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id4
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id4_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id4_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id4_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id4_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id4_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-Id4_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id4_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-Id4_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id4_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Id4_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id4_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Id4_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id4_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Id4_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id4_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id4_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id4_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id4_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id4_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id4_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id4_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Id4_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id4_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Id4
+   :name: Area Id4 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id5
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id5_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id5_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id5_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id5_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id5_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-Id5_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id5_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-Id5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id5_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Id5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id5_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Id5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id5_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Id5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id5_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id5_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id5_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id5_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id5_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id5_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id5_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Id5_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id5_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Id5
+   :name: Area Id5 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id6
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id6_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id6_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id6_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id6_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id6_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-Id6_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id6_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-Id6_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id6_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Id6_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id6_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Id6_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id6_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Id6_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id6_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id6_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id6_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id6_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id6_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id6_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id6_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Id6_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id6_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Id6
+   :name: Area Id6 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id7
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id7
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-id7_pm-v6.1>`_, `JBA_v1.18-MNI152_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-id7_pm-v6.1>`_, `JBA_v2.2-Colin27_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-id7_pm-v6.1>`_, `JBA_v2.2-MNI152_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-id7_pm-v6.1>`_, `JBA_v2.4-Colin27_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-id7_pm-v6.1>`_, `JBA_v2.4-MNI152_Area-Id7_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-id7_pm-v6.1>`_, `JBA_v2.5-Colin27_Area-Id7_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-id7_pm-v7.0>`_, `JBA_v2.5-MNI152_Area-Id7_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-id7_pm-v7.0>`_, `JBA_v2.6-MNI152_Area-Id7_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-id7_pm-v7.0>`_, `JBA_v2.9-BigBrain_Area-Id7_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id7_pm-v7.0>`_, `JBA_v2.9-Colin27_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id7_pm-v8.1>`_, `JBA_v2.9-MNI152_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id7_pm-v8.1>`_, `JBA_v2.9-fsaverage_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id7_pm-v8.1>`_, `JBA_v3.0.2-BigBrain_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id7_pm-v8.1>`_, `JBA_v3.0.2-Colin27_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id7_pm-v8.1>`_, `JBA_v3.0.2-MNI152_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id7_pm-v8.1>`_, `JBA_v3.0.2-fsaverage_Area-Id7_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id7_pm-v8.1>`_
+   :lookupLabel: JBA_Area-Id7
+   :name: Area Id7 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id8
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id8
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Id8_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id8_pm-v8.1>`_, `JBA_v2.9-Colin27_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id8_pm-v4.0>`_, `JBA_v2.9-MNI152_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id8_pm-v4.0>`_, `JBA_v2.9-fsaverage_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id8_pm-v4.0>`_, `JBA_v3.0.2-BigBrain_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id8_pm-v4.0>`_, `JBA_v3.0.2-Colin27_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id8_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id8_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Area-Id8_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id8_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Id8
+   :name: Area Id8 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Id9
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id9
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dysgranularinsula>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-id9_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-id9_pm-v4.0>`_, `JBA_v2.9-MNI152_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-id9_pm-v4.0>`_, `JBA_v2.9-fsaverage_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-id9_pm-v4.0>`_, `JBA_v3.0.2-BigBrain_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-id9_pm-v4.0>`_, `JBA_v3.0.2-Colin27_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-id9_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-id9_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Area-Id9_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-id9_pm-v4.0>`_
+   :lookupLabel: JBA_Area-Id9
+   :name: Area Id9 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ig1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_granularinsula>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Ig1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-ig1_pm-v11.0>`_, `JBA_v1.18-Colin27_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-ig1_pm-v13.1>`_, `JBA_v1.18-MNI152_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-ig1_pm-v13.1>`_, `JBA_v2.2-Colin27_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-ig1_pm-v13.1>`_, `JBA_v2.2-MNI152_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-ig1_pm-v13.1>`_, `JBA_v2.4-Colin27_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-ig1_pm-v13.1>`_, `JBA_v2.4-MNI152_Area-Ig1_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-ig1_pm-v13.1>`_, `JBA_v2.5-Colin27_Area-Ig1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-ig1_pm-v14.0>`_, `JBA_v2.5-MNI152_Area-Ig1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-ig1_pm-v14.0>`_, `JBA_v2.6-MNI152_Area-Ig1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-ig1_pm-v14.0>`_, `JBA_v2.9-BigBrain_Area-Ig1_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ig1_pm-v14.0>`_, `JBA_v2.9-Colin27_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ig1_pm-v14.2>`_, `JBA_v2.9-MNI152_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ig1_pm-v14.2>`_, `JBA_v2.9-fsaverage_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ig1_pm-v14.2>`_, `JBA_v3.0.2-BigBrain_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ig1_pm-v14.2>`_, `JBA_v3.0.2-Colin27_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ig1_pm-v14.2>`_, `JBA_v3.0.2-MNI152_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ig1_pm-v14.2>`_, `JBA_v3.0.2-fsaverage_Area-Ig1_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ig1_pm-v14.2>`_
+   :lookupLabel: JBA_Area-Ig1
+   :name: Area Ig1 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ig2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_granularinsula>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-Ig2_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-ig2_pm-v11.0>`_, `JBA_v1.18-Colin27_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-ig2_pm-v13.1>`_, `JBA_v1.18-MNI152_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-ig2_pm-v13.1>`_, `JBA_v2.2-Colin27_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-ig2_pm-v13.1>`_, `JBA_v2.2-MNI152_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-ig2_pm-v13.1>`_, `JBA_v2.4-Colin27_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-ig2_pm-v13.1>`_, `JBA_v2.4-MNI152_Area-Ig2_PM-v13.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-ig2_pm-v13.1>`_, `JBA_v2.5-Colin27_Area-Ig2_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-ig2_pm-v14.0>`_, `JBA_v2.5-MNI152_Area-Ig2_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-ig2_pm-v14.0>`_, `JBA_v2.6-MNI152_Area-Ig2_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-ig2_pm-v14.0>`_, `JBA_v2.9-BigBrain_Area-Ig2_PM-v14.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ig2_pm-v14.0>`_, `JBA_v2.9-Colin27_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ig2_pm-v14.2>`_, `JBA_v2.9-MNI152_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ig2_pm-v14.2>`_, `JBA_v2.9-fsaverage_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ig2_pm-v14.2>`_, `JBA_v3.0.2-BigBrain_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ig2_pm-v14.2>`_, `JBA_v3.0.2-Colin27_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ig2_pm-v14.2>`_, `JBA_v3.0.2-MNI152_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ig2_pm-v14.2>`_, `JBA_v3.0.2-fsaverage_Area-Ig2_PM-v14.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ig2_pm-v14.2>`_
+   :lookupLabel: JBA_Area-Ig2
+   :name: Area Ig2 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ig3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_granularinsula>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-ig3_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-ig3_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-ig3_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-ig3_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-ig3_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-Ig3_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-ig3_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-Ig3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-ig3_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-Ig3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-ig3_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-Ig3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-ig3_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-Ig3_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ig3_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ig3_pm-v5.1>`_, `JBA_v2.9-MNI152_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ig3_pm-v5.1>`_, `JBA_v2.9-fsaverage_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ig3_pm-v5.1>`_, `JBA_v3.0.2-BigBrain_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ig3_pm-v5.1>`_, `JBA_v3.0.2-Colin27_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ig3_pm-v5.1>`_, `JBA_v3.0.2-MNI152_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ig3_pm-v5.1>`_, `JBA_v3.0.2-fsaverage_Area-Ig3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ig3_pm-v5.1>`_
+   :lookupLabel: JBA_Area-Ig3
+   :name: Area Ig3 (Insula)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-MFG1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_middlefrontalgyrus>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-MFG1_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-mfg1_deep>`_, `JBA_v3.0.2-Colin27_Area-MFG1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-mfg1_pm-v9.0>`_, `JBA_v3.0.2-MNI152_Area-MFG1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-mfg1_pm-v9.0>`_, `JBA_v3.0.2-fsaverage_Area-MFG1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-mfg1_pm-v9.0>`_
+   :lookupLabel: JBA_Area-MFG1
+   :name: Area MFG1 (MFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-MFG2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fronto-marginalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fronto-marginalsulcus>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-MFG2_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-mfg2_deep>`_, `JBA_v3.0.2-Colin27_Area-MFG2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-mfg2_pm-v9.0>`_, `JBA_v3.0.2-MNI152_Area-MFG2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-mfg2_pm-v9.0>`_, `JBA_v3.0.2-fsaverage_Area-MFG2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-mfg2_pm-v9.0>`_
+   :lookupLabel: JBA_Area-MFG2
+   :name: Area MFG2 (MFG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietaloperculum>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-OP1_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-op1_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-OP1_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op1_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-OP1_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op1_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-OP1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op1_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-OP1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op1_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-OP1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op1_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-OP1_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op1_pm-v11.0>`_, `JBA_v2.5-Colin27_Area-OP1_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op1_pm-v12.0>`_, `JBA_v2.5-MNI152_Area-OP1_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op1_pm-v12.0>`_, `JBA_v2.6-MNI152_Area-OP1_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op1_pm-v12.0>`_, `JBA_v2.9-BigBrain_Area-OP1_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op1_pm-v12.0>`_, `JBA_v2.9-Colin27_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op1_pm-v12.2>`_, `JBA_v2.9-MNI152_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op1_pm-v12.2>`_, `JBA_v2.9-fsaverage_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op1_pm-v12.2>`_, `JBA_v3.0.2-BigBrain_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op1_pm-v12.2>`_, `JBA_v3.0.2-Colin27_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op1_pm-v12.2>`_, `JBA_v3.0.2-MNI152_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op1_pm-v12.2>`_, `JBA_v3.0.2-fsaverage_Area-OP1_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op1_pm-v12.2>`_
+   :lookupLabel: JBA_Area-OP1
+   :name: Area OP1 (POperc)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietaloperculum>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-OP2_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-op2_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-OP2_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op2_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-OP2_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op2_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-OP2_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op2_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-OP2_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op2_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-OP2_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op2_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-OP2_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op2_pm-v11.0>`_, `JBA_v2.5-Colin27_Area-OP2_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op2_pm-v12.0>`_, `JBA_v2.5-MNI152_Area-OP2_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op2_pm-v12.0>`_, `JBA_v2.6-MNI152_Area-OP2_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op2_pm-v12.0>`_, `JBA_v2.9-BigBrain_Area-OP2_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op2_pm-v12.0>`_, `JBA_v2.9-Colin27_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op2_pm-v12.2>`_, `JBA_v2.9-MNI152_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op2_pm-v12.2>`_, `JBA_v2.9-fsaverage_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op2_pm-v12.2>`_, `JBA_v3.0.2-BigBrain_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op2_pm-v12.2>`_, `JBA_v3.0.2-Colin27_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op2_pm-v12.2>`_, `JBA_v3.0.2-MNI152_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op2_pm-v12.2>`_, `JBA_v3.0.2-fsaverage_Area-OP2_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op2_pm-v12.2>`_
+   :lookupLabel: JBA_Area-OP2
+   :name: Area OP2 (POperc)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietaloperculum>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-OP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-op3_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-OP3_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op3_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-OP3_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op3_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-OP3_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op3_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-OP3_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op3_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-OP3_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op3_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-OP3_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op3_pm-v11.0>`_, `JBA_v2.5-Colin27_Area-OP3_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op3_pm-v12.0>`_, `JBA_v2.5-MNI152_Area-OP3_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op3_pm-v12.0>`_, `JBA_v2.6-MNI152_Area-OP3_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op3_pm-v12.0>`_, `JBA_v2.9-BigBrain_Area-OP3_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op3_pm-v12.0>`_, `JBA_v2.9-Colin27_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op3_pm-v12.2>`_, `JBA_v2.9-MNI152_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op3_pm-v12.2>`_, `JBA_v2.9-fsaverage_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op3_pm-v12.2>`_, `JBA_v3.0.2-BigBrain_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op3_pm-v12.2>`_, `JBA_v3.0.2-Colin27_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op3_pm-v12.2>`_, `JBA_v3.0.2-MNI152_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op3_pm-v12.2>`_, `JBA_v3.0.2-fsaverage_Area-OP3_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op3_pm-v12.2>`_
+   :lookupLabel: JBA_Area-OP3
+   :name: Area OP3 (POperc)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP4
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietaloperculum>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-OP4_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-op4_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-OP4_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op4_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-OP4_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op4_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-OP4_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op4_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-OP4_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op4_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-OP4_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op4_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-OP4_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op4_pm-v11.0>`_, `JBA_v2.5-Colin27_Area-OP4_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op4_pm-v12.0>`_, `JBA_v2.5-MNI152_Area-OP4_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op4_pm-v12.0>`_, `JBA_v2.6-MNI152_Area-OP4_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op4_pm-v12.0>`_, `JBA_v2.9-BigBrain_Area-OP4_PM-v12.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op4_pm-v12.0>`_, `JBA_v2.9-Colin27_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op4_pm-v12.2>`_, `JBA_v2.9-MNI152_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op4_pm-v12.2>`_, `JBA_v2.9-fsaverage_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op4_pm-v12.2>`_, `JBA_v3.0.2-BigBrain_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op4_pm-v12.2>`_, `JBA_v3.0.2-Colin27_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op4_pm-v12.2>`_, `JBA_v3.0.2-MNI152_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op4_pm-v12.2>`_, `JBA_v3.0.2-fsaverage_Area-OP4_PM-v12.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op4_pm-v12.2>`_
+   :lookupLabel: JBA_Area-OP4
+   :name: Area OP4 (POperc)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP5
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontaloperculum>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-OP5_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op5_pm-v2.0>`_, `JBA_v2.2-MNI152_Area-OP5_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op5_pm-v2.0>`_, `JBA_v2.4-Colin27_Area-OP5_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op5_pm-v2.0>`_, `JBA_v2.4-MNI152_Area-OP5_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op5_pm-v2.0>`_, `JBA_v2.5-Colin27_Area-OP5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op5_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-OP5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op5_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-OP5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op5_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-OP5_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op5_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op5_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op5_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op5_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op5_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op5_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op5_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-OP5_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op5_pm-v3.2>`_
+   :lookupLabel: JBA_Area-OP5
+   :name: Area Op5 (Frontal Operculum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP6
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontaloperculum>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-OP6_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op6_pm-v2.0>`_, `JBA_v2.2-MNI152_Area-OP6_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op6_pm-v2.0>`_, `JBA_v2.4-Colin27_Area-OP6_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op6_pm-v2.0>`_, `JBA_v2.4-MNI152_Area-OP6_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op6_pm-v2.0>`_, `JBA_v2.5-Colin27_Area-OP6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op6_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-OP6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op6_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-OP6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op6_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-OP6_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op6_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op6_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op6_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op6_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op6_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op6_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op6_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-OP6_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op6_pm-v3.2>`_
+   :lookupLabel: JBA_Area-OP6
+   :name: Area Op6 (Frontal Operculum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP7
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP7
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontaloperculum>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-OP7_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op7_pm-v2.0>`_, `JBA_v2.2-MNI152_Area-OP7_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op7_pm-v2.0>`_, `JBA_v2.4-Colin27_Area-OP7_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op7_pm-v2.0>`_, `JBA_v2.4-MNI152_Area-OP7_PM-v2.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op7_pm-v2.0>`_, `JBA_v2.5-Colin27_Area-OP7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op7_pm-v3.0>`_, `JBA_v2.5-MNI152_Area-OP7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op7_pm-v3.0>`_, `JBA_v2.6-MNI152_Area-OP7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op7_pm-v3.0>`_, `JBA_v2.9-BigBrain_Area-OP7_PM-v3.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op7_pm-v3.0>`_, `JBA_v2.9-Colin27_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op7_pm-v3.2>`_, `JBA_v2.9-MNI152_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op7_pm-v3.2>`_, `JBA_v2.9-fsaverage_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op7_pm-v3.2>`_, `JBA_v3.0.2-BigBrain_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op7_pm-v3.2>`_, `JBA_v3.0.2-Colin27_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op7_pm-v3.2>`_, `JBA_v3.0.2-MNI152_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op7_pm-v3.2>`_, `JBA_v3.0.2-fsaverage_Area-OP7_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op7_pm-v3.2>`_
+   :lookupLabel: JBA_Area-OP7
+   :name: Area Op7 (Frontal Operculum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP8
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP8
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontaloperculum>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op8_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op8_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op8_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op8_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op8_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-OP8_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op8_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-OP8_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op8_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-OP8_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op8_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-OP8_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op8_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-OP8_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op8_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op8_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op8_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op8_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op8_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op8_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op8_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-OP8_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op8_pm-v6.2>`_
+   :lookupLabel: JBA_Area-OP8
+   :name: Area Op8 (Frontal Operculum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-OP9
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP9
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontaloperculum>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-op9_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-op9_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-op9_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-op9_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-op9_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-OP9_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-op9_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-OP9_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-op9_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-OP9_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-op9_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-OP9_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-op9_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-OP9_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-op9_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-op9_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-op9_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-op9_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-op9_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-op9_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-op9_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-OP9_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-op9_pm-v6.2>`_
+   :lookupLabel: JBA_Area-OP9
+   :name: Area Op9 (Frontal Operculum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PF
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PF
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PF_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pf_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pf_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pf_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pf_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pf_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pf_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PF_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pf_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PF_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pf_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PF_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pf_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PF_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pf_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PF_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pf_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pf_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pf_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pf_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pf_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pf_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pf_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PF_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pf_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PF
+   :name: Area PF (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PFcm
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFcm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PFcm_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pfcm_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pfcm_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pfcm_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pfcm_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pfcm_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pfcm_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PFcm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pfcm_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PFcm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pfcm_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PFcm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pfcm_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PFcm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pfcm_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PFcm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pfcm_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pfcm_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pfcm_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pfcm_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pfcm_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pfcm_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pfcm_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PFcm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pfcm_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PFcm
+   :name: Area PFcm (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PFm
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PFm_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pfm_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pfm_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pfm_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pfm_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pfm_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pfm_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PFm_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pfm_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PFm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pfm_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PFm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pfm_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PFm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pfm_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PFm_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pfm_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pfm_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pfm_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pfm_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pfm_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pfm_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pfm_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PFm_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pfm_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PFm
+   :name: Area PFm (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PFop
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFop
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PFop_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pfop_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pfop_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pfop_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pfop_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pfop_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pfop_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PFop_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pfop_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PFop_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pfop_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PFop_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pfop_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PFop_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pfop_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PFop_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pfop_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pfop_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pfop_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pfop_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pfop_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pfop_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pfop_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PFop_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pfop_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PFop
+   :name: Area PFop (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PFt
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFt
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PFt_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pft_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pft_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pft_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pft_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pft_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pft_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PFt_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pft_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PFt_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pft_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PFt_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pft_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PFt_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pft_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PFt_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pft_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pft_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pft_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pft_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pft_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pft_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pft_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PFt_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pft_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PFt
+   :name: Area PFt (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PGa
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGa
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PGa_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pga_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pga_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pga_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pga_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pga_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pga_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PGa_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pga_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PGa_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pga_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PGa_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pga_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PGa_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pga_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PGa_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pga_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pga_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pga_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pga_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pga_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pga_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pga_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PGa_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pga_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PGa
+   :name: Area PGa (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-PGp
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGp
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_inferiorparietallobule>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-PGp_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-pgp_pm-v9.2>`_, `JBA_v1.18-Colin27_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-pgp_pm-v9.4>`_, `JBA_v1.18-MNI152_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-pgp_pm-v9.4>`_, `JBA_v2.2-Colin27_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-pgp_pm-v9.4>`_, `JBA_v2.2-MNI152_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-pgp_pm-v9.4>`_, `JBA_v2.4-Colin27_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-pgp_pm-v9.4>`_, `JBA_v2.4-MNI152_Area-PGp_PM-v9.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-pgp_pm-v9.4>`_, `JBA_v2.5-Colin27_Area-PGp_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-pgp_pm-v11.0>`_, `JBA_v2.5-MNI152_Area-PGp_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-pgp_pm-v11.0>`_, `JBA_v2.6-MNI152_Area-PGp_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-pgp_pm-v11.0>`_, `JBA_v2.9-BigBrain_Area-PGp_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-pgp_pm-v11.0>`_, `JBA_v2.9-Colin27_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-pgp_pm-v11.2>`_, `JBA_v2.9-MNI152_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-pgp_pm-v11.2>`_, `JBA_v2.9-fsaverage_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-pgp_pm-v11.2>`_, `JBA_v3.0.2-BigBrain_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-pgp_pm-v11.2>`_, `JBA_v3.0.2-Colin27_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-pgp_pm-v11.2>`_, `JBA_v3.0.2-MNI152_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-pgp_pm-v11.2>`_, `JBA_v3.0.2-fsaverage_Area-PGp_PM-v11.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-pgp_pm-v11.2>`_
+   :lookupLabel: JBA_Area-PGp
+   :name: Area PGp (IPL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ph1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parahippocampalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ph1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ph1_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ph1_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ph1_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ph1_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ph1_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ph1_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ph1_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-Ph1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ph1_pm-v7.2>`_
+   :lookupLabel: JBA_Area-Ph1
+   :name: Area Ph1 (PhG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ph2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parahippocampalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ph2_pm-v7.2>`_, `JBA_v2.9-Colin27_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ph2_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ph2_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ph2_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ph2_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ph2_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ph2_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-Ph2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ph2_pm-v7.2>`_
+   :lookupLabel: JBA_Area-Ph2
+   :name: Area Ph2 (PhG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-Ph3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parahippocampalgyrus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ph3_pm-v7.2>`_, `JBA_v2.9-Colin27_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ph3_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ph3_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ph3_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ph3_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ph3_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ph3_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-Ph3_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ph3_pm-v7.2>`_
+   :lookupLabel: JBA_Area-Ph3
+   :name: Area Ph3 (PhG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-SFS1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorfrontalsulcus>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-SFS1_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-sfs1_deep>`_, `JBA_v3.0.2-Colin27_Area-SFS1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-sfs1_pm-v9.0>`_, `JBA_v3.0.2-MNI152_Area-SFS1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-sfs1_pm-v9.0>`_, `JBA_v3.0.2-fsaverage_Area-SFS1_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-sfs1_pm-v9.0>`_
+   :lookupLabel: JBA_Area-SFS1
+   :name: Area SFS1 (SFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-SFS2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiorfrontalsulcus>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-SFS2_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-sfs2_deep>`_, `JBA_v3.0.2-Colin27_Area-SFS2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-sfs2_pm-v9.0>`_, `JBA_v3.0.2-MNI152_Area-SFS2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-sfs2_pm-v9.0>`_, `JBA_v3.0.2-fsaverage_Area-SFS2_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-sfs2_pm-v9.0>`_
+   :lookupLabel: JBA_Area-SFS2
+   :name: Area SFS2 (SFS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-STS1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiortemporalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-sts1_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-sts1_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-sts1_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-sts1_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-sts1_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-STS1_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-sts1_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-STS1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-sts1_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-STS1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-sts1_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-STS1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-sts1_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-STS1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-sts1_int>`_, `JBA_v2.9-Colin27_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-sts1_pm-v5.3>`_, `JBA_v2.9-MNI152_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-sts1_pm-v5.3>`_, `JBA_v2.9-fsaverage_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-sts1_pm-v5.3>`_, `JBA_v3.0.2-BigBrain_Area-STS1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-sts1_int>`_, `JBA_v3.0.2-Colin27_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-sts1_pm-v5.3>`_, `JBA_v3.0.2-MNI152_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-sts1_pm-v5.3>`_, `JBA_v3.0.2-fsaverage_Area-STS1_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-sts1_pm-v5.3>`_
+   :lookupLabel: JBA_Area-STS1
+   :name: Area STS1 (STS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-STS2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiortemporalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-sts2_pm-v3.1>`_, `JBA_v1.18-MNI152_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-sts2_pm-v3.1>`_, `JBA_v2.2-Colin27_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-sts2_pm-v3.1>`_, `JBA_v2.2-MNI152_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-sts2_pm-v3.1>`_, `JBA_v2.4-Colin27_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-sts2_pm-v3.1>`_, `JBA_v2.4-MNI152_Area-STS2_PM-v3.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-sts2_pm-v3.1>`_, `JBA_v2.5-Colin27_Area-STS2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-sts2_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-STS2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-sts2_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-STS2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-sts2_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-STS2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-sts2_int>`_, `JBA_v2.9-Colin27_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-sts2_pm-v5.3>`_, `JBA_v2.9-MNI152_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-sts2_pm-v5.3>`_, `JBA_v2.9-fsaverage_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-sts2_pm-v5.3>`_, `JBA_v3.0.2-BigBrain_Area-STS2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-sts2_int>`_, `JBA_v3.0.2-Colin27_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-sts2_pm-v5.3>`_, `JBA_v3.0.2-MNI152_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-sts2_pm-v5.3>`_, `JBA_v3.0.2-fsaverage_Area-STS2_PM-v5.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-sts2_pm-v5.3>`_
+   :lookupLabel: JBA_Area-STS2
+   :name: Area STS2 (STS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-1.0
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.0
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_heschlsgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-TE-1.0_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-te-1.0_pm-v5.0>`_, `JBA_v1.18-Colin27_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-te-1.0_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-te-1.0_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-1.0_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-1.0_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-1.0_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-1.0_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-1.0_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-1.0_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-1.0_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-1.0_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-1.0_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-1.0_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-1.0_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-1.0_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-1.0_int>`_, `JBA_v2.9-Colin27_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-1.0_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-1.0_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-1.0_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-1.0_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-1.0_int>`_, `JBA_v3.0.2-Colin27_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-1.0_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-1.0_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-1.0_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-1.0_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-1.0
+   :name: Area TE 1.0 (HESCHL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-1.1
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_heschlsgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-TE-1.1_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-te-1.1_pm-v5.0>`_, `JBA_v1.18-Colin27_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-te-1.1_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-te-1.1_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-1.1_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-1.1_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-1.1_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-1.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-1.1_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-1.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-1.1_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-1.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-1.1_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-1.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-1.1_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-1.1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-1.1_int>`_, `JBA_v2.9-Colin27_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-1.1_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-1.1_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-1.1_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-1.1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-1.1_int>`_, `JBA_v3.0.2-Colin27_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-1.1_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-1.1_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-1.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-1.1_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-1.1
+   :name: Area TE 1.1 (HESCHL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-1.2
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_heschlsgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-TE-1.2_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-te-1.2_pm-v5.0>`_, `JBA_v1.18-Colin27_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-te-1.2_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-te-1.2_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-1.2_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-1.2_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-1.2_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-1.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-1.2_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-1.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-1.2_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-1.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-1.2_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-1.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-1.2_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-1.2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-1.2_int>`_, `JBA_v2.9-Colin27_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-1.2_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-1.2_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-1.2_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-1.2_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-1.2_int>`_, `JBA_v3.0.2-Colin27_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-1.2_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-1.2_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-1.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-1.2_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-1.2
+   :name: Area TE 1.2 (HESCHL)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-2.1
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiortemporalgyrus>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-TE-2.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-2.1_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-2.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-2.1_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-2.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-2.1_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-2.1_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-2.1_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-2.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-2.1_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-2.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-2.1_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-2.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-2.1_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-2.1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-2.1_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-2.1_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-2.1_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-2.1_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-2.1_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-2.1_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-2.1_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-2.1_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-2.1_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-2.1
+   :name: Area TE 2.1 (STG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-2.2
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiortemporalgyrus>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-TE-2.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-2.2_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-2.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-2.2_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-2.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-2.2_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-2.2_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-2.2_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-2.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-2.2_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-2.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-2.2_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-2.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-2.2_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-2.2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-2.2_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-2.2_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-2.2_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-2.2_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-2.2_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-2.2_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-2.2_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-2.2_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-2.2_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-2.2
+   :name: Area TE 2.2 (STG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TE-3
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_superiortemporalgyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-TE-3_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-te-3_pm-v5.0>`_, `JBA_v1.18-Colin27_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-te-3_pm-v5.1>`_, `JBA_v1.18-MNI152_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-te-3_pm-v5.1>`_, `JBA_v2.2-Colin27_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-te-3_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-te-3_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-te-3_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TE-3_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-te-3_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TE-3_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-te-3_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TE-3_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-te-3_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TE-3_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-te-3_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TE-3_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-te-3_int>`_, `JBA_v2.9-Colin27_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-te-3_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-te-3_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-te-3_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TE-3_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-te-3_int>`_, `JBA_v3.0.2-Colin27_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-te-3_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-te-3_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TE-3_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-te-3_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TE-3
+   :name: Area TE 3 (STG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TI
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TI
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporalinsula>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-TI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-ti_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-ti_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-ti_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-ti_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-ti_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-ti_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-ti_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-ti_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-ti_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-ti_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-ti_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-ti_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-ti_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-ti_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-ti_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TI
+   :name: Area TI (STG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TPJ
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TPJ
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporo-parietalJunction <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporo-parietaljunction>`_
+   :hasVersion: `JBA_v2.9-BigBrain_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-tpj_pm-v6.2>`_, `JBA_v2.9-Colin27_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-tpj_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-tpj_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-tpj_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-tpj_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-tpj_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-tpj_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TPJ_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-tpj_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TPJ
+   :name: Area TPJ (STG/SMG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-TeI
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TeI
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalInsula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporalinsula>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-TeI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-tei_pm-v5.1>`_, `JBA_v2.2-MNI152_Area-TeI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-tei_pm-v5.1>`_, `JBA_v2.4-Colin27_Area-TeI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-tei_pm-v5.1>`_, `JBA_v2.4-MNI152_Area-TeI_PM-v5.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-tei_pm-v5.1>`_, `JBA_v2.5-Colin27_Area-TeI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-tei_pm-v6.0>`_, `JBA_v2.5-MNI152_Area-TeI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-tei_pm-v6.0>`_, `JBA_v2.6-MNI152_Area-TeI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-tei_pm-v6.0>`_, `JBA_v2.9-BigBrain_Area-TeI_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-tei_pm-v6.0>`_, `JBA_v2.9-Colin27_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-tei_pm-v6.2>`_, `JBA_v2.9-MNI152_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-tei_pm-v6.2>`_, `JBA_v2.9-fsaverage_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-tei_pm-v6.2>`_, `JBA_v3.0.2-BigBrain_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-tei_pm-v6.2>`_, `JBA_v3.0.2-Colin27_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-tei_pm-v6.2>`_, `JBA_v3.0.2-MNI152_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-tei_pm-v6.2>`_, `JBA_v3.0.2-fsaverage_Area-TeI_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-tei_pm-v6.2>`_
+   :lookupLabel: JBA_Area-TeI
+   :name: Area TeI (STG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-a29
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a29
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-a29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-a29_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-a29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-a29_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-a29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-a29_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-a29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-a29_pm-v11.0>`_
+   :lookupLabel: JBA_Area-a29
+   :name: Area a29 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-a30
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a30
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-a30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-a30_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-a30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-a30_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-a30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-a30_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-a30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-a30_pm-v11.0>`_
+   :lookupLabel: JBA_Area-a30
+   :name: Area a30 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hIP1_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hip1_pm-v6.0>`_, `JBA_v1.18-Colin27_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip1_pm-v6.1>`_, `JBA_v1.18-MNI152_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip1_pm-v6.1>`_, `JBA_v2.2-Colin27_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip1_pm-v6.1>`_, `JBA_v2.2-MNI152_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip1_pm-v6.1>`_, `JBA_v2.4-Colin27_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip1_pm-v6.1>`_, `JBA_v2.4-MNI152_Area-hIP1_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip1_pm-v6.1>`_, `JBA_v2.5-Colin27_Area-hIP1_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip1_pm-v7.0>`_, `JBA_v2.5-MNI152_Area-hIP1_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip1_pm-v7.0>`_, `JBA_v2.6-MNI152_Area-hIP1_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip1_pm-v7.0>`_, `JBA_v2.9-BigBrain_Area-hIP1_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip1_pm-v7.0>`_, `JBA_v2.9-Colin27_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip1_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip1_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip1_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip1_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip1_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip1_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-hIP1_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip1_pm-v7.2>`_
+   :lookupLabel: JBA_Area-hIP1
+   :name: Area hIP1 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hIP2_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hip2_pm-v6.0>`_, `JBA_v1.18-Colin27_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip2_pm-v6.1>`_, `JBA_v1.18-MNI152_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip2_pm-v6.1>`_, `JBA_v2.2-Colin27_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip2_pm-v6.1>`_, `JBA_v2.2-MNI152_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip2_pm-v6.1>`_, `JBA_v2.4-Colin27_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip2_pm-v6.1>`_, `JBA_v2.4-MNI152_Area-hIP2_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip2_pm-v6.1>`_, `JBA_v2.5-Colin27_Area-hIP2_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip2_pm-v7.0>`_, `JBA_v2.5-MNI152_Area-hIP2_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip2_pm-v7.0>`_, `JBA_v2.6-MNI152_Area-hIP2_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip2_pm-v7.0>`_, `JBA_v2.9-BigBrain_Area-hIP2_PM-v7.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip2_pm-v7.0>`_, `JBA_v2.9-Colin27_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip2_pm-v7.2>`_, `JBA_v2.9-MNI152_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip2_pm-v7.2>`_, `JBA_v2.9-fsaverage_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip2_pm-v7.2>`_, `JBA_v3.0.2-BigBrain_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip2_pm-v7.2>`_, `JBA_v3.0.2-Colin27_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip2_pm-v7.2>`_, `JBA_v3.0.2-MNI152_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip2_pm-v7.2>`_, `JBA_v3.0.2-fsaverage_Area-hIP2_PM-v7.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip2_pm-v7.2>`_
+   :lookupLabel: JBA_Area-hIP2
+   :name: Area hIP2 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP3
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hIP3_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hip3_pm-v8.2>`_, `JBA_v1.18-Colin27_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip3_pm-v8.4>`_, `JBA_v1.18-MNI152_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip3_pm-v8.4>`_, `JBA_v2.2-Colin27_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip3_pm-v8.4>`_, `JBA_v2.2-MNI152_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip3_pm-v8.4>`_, `JBA_v2.4-Colin27_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip3_pm-v8.4>`_, `JBA_v2.4-MNI152_Area-hIP3_PM-v8.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip3_pm-v8.4>`_, `JBA_v2.5-Colin27_Area-hIP3_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip3_pm-v9.0>`_, `JBA_v2.5-MNI152_Area-hIP3_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip3_pm-v9.0>`_, `JBA_v2.6-MNI152_Area-hIP3_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip3_pm-v9.0>`_, `JBA_v2.9-BigBrain_Area-hIP3_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip3_pm-v9.0>`_, `JBA_v2.9-Colin27_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip3_pm-v9.2>`_, `JBA_v2.9-MNI152_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip3_pm-v9.2>`_, `JBA_v2.9-fsaverage_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip3_pm-v9.2>`_, `JBA_v3.0.2-BigBrain_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip3_pm-v9.2>`_, `JBA_v3.0.2-Colin27_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip3_pm-v9.2>`_, `JBA_v3.0.2-MNI152_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip3_pm-v9.2>`_, `JBA_v3.0.2-fsaverage_Area-hIP3_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip3_pm-v9.2>`_
+   :lookupLabel: JBA_Area-hIP3
+   :name: Area hIP3 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP4
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip4_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip4_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip4_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip4_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip4_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip4_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip4_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip4_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hIP4_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip4_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hIP4_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip4_int>`_, `JBA_v2.9-Colin27_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip4_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip4_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip4_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hIP4_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip4_int>`_, `JBA_v3.0.2-Colin27_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip4_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip4_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hIP4_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip4_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hIP4
+   :name: Area hIP4 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP5
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip5_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip5_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip5_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip5_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip5_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip5_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip5_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip5_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hIP5_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip5_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hIP5_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip5_int>`_, `JBA_v2.9-Colin27_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip5_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip5_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip5_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hIP5_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip5_int>`_, `JBA_v3.0.2-Colin27_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip5_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip5_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hIP5_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip5_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hIP5
+   :name: Area hIP5 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP6
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip6_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip6_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip6_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip6_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip6_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip6_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip6_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip6_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hIP6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip6_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hIP6_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip6_int>`_, `JBA_v2.9-Colin27_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip6_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip6_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip6_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hIP6_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip6_int>`_, `JBA_v3.0.2-Colin27_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip6_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip6_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hIP6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip6_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hIP6
+   :name: Area hIP6 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP7
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP7
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip7_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip7_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip7_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip7_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip7_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip7_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip7_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip7_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hIP7_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip7_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hIP7_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip7_int>`_, `JBA_v2.9-Colin27_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip7_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip7_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip7_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hIP7_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip7_int>`_, `JBA_v3.0.2-Colin27_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip7_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip7_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hIP7_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip7_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hIP7
+   :name: Area hIP7 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hIP8
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP8
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_intraparietalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hip8_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hip8_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hip8_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hip8_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hip8_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hip8_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hip8_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hip8_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hIP8_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hip8_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hIP8_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hip8_int>`_, `JBA_v2.9-Colin27_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hip8_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hip8_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hip8_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hIP8_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hip8_int>`_, `JBA_v3.0.2-Colin27_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hip8_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hip8_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hIP8_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hip8_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hIP8
+   :name: Area hIP8 (IPS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc1_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc1_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc1_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc1_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc1_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc1_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc1_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-hOc1_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc1_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-hOc1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc1_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-hOc1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc1_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-hOc1_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc1_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-hOc1_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc1_deep>`_, `JBA_v2.9-Colin27_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc1_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc1_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc1_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc1_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc1_deep>`_, `JBA_v3.0.2-Colin27_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc1_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc1_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc1_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc1_pm-v4.2>`_
+   :lookupLabel: JBA_Area-hOc1
+   :name: Area hOc1 (V1, 17, CalcS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc2
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc2_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc2_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc2_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc2_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc2_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc2_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc2_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-hOc2_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc2_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-hOc2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc2_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-hOc2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc2_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-hOc2_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc2_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-hOc2_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc2_deep>`_, `JBA_v2.9-Colin27_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc2_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc2_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc2_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc2_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc2_deep>`_, `JBA_v3.0.2-Colin27_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc2_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc2_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc2_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc2_pm-v4.2>`_
+   :lookupLabel: JBA_Area-hOc2
+   :name: Area hOc2 (V2, 18)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc3d
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3d
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dorsaloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc3d_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc3d_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc3d_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc3d_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc3d_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc3d_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc3d_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-hOc3d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc3d_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-hOc3d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc3d_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-hOc3d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc3d_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-hOc3d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc3d_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-hOc3d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc3d_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc3d_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc3d_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc3d_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc3d_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc3d_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc3d_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc3d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc3d_pm-v4.2>`_
+   :lookupLabel: JBA_Area-hOc3d
+   :name: Area hOc3d (Cuneus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc3v
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3v
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventraloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc3v_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc3v_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc3v_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc3v_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc3v_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc3v_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc3v_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-hOc3v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc3v_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-hOc3v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc3v_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-hOc3v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc3v_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-hOc3v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc3v_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-hOc3v_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc3v_deep>`_, `JBA_v2.9-Colin27_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc3v_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc3v_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc3v_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc3v_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc3v_deep>`_, `JBA_v3.0.2-Colin27_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc3v_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc3v_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc3v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc3v_pm-v5.2>`_
+   :lookupLabel: JBA_Area-hOc3v
+   :name: Area hOc3v (LingG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc4d
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4d
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dorsaloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc4d_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc4d_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc4d_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc4d_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc4d_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc4d_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc4d_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-hOc4d_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc4d_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-hOc4d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc4d_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-hOc4d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc4d_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-hOc4d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc4d_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-hOc4d_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc4d_pm-v4.0>`_, `JBA_v2.9-Colin27_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc4d_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc4d_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc4d_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc4d_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc4d_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc4d_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc4d_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc4d_pm-v4.2>`_
+   :lookupLabel: JBA_Area-hOc4d
+   :name: Area hOc4d (Cuneus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc4la
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4la
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateraloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc4la_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc4la_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc4la_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc4la_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc4la_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc4la_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc4la_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-hOc4la_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc4la_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-hOc4la_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc4la_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-hOc4la_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc4la_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-hOc4la_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc4la_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-hOc4la_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc4la_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc4la_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc4la_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc4la_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc4la_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc4la_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc4la_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc4la_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc4la_pm-v5.2>`_
+   :lookupLabel: JBA_Area-hOc4la
+   :name: Area hOc4la (LOC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc4lp
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4lp
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateraloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc4lp_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc4lp_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc4lp_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc4lp_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc4lp_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc4lp_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc4lp_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-hOc4lp_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc4lp_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-hOc4lp_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc4lp_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-hOc4lp_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc4lp_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-hOc4lp_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc4lp_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-hOc4lp_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc4lp_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc4lp_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc4lp_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc4lp_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc4lp_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc4lp_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc4lp_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc4lp_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc4lp_pm-v5.2>`_
+   :lookupLabel: JBA_Area-hOc4lp
+   :name: Area hOc4lp (LOC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc4v
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4v
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventraloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc4v_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc4v_pm-v3.2>`_, `JBA_v1.18-Colin27_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc4v_pm-v3.4>`_, `JBA_v1.18-MNI152_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc4v_pm-v3.4>`_, `JBA_v2.2-Colin27_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc4v_pm-v3.4>`_, `JBA_v2.2-MNI152_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc4v_pm-v3.4>`_, `JBA_v2.4-Colin27_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc4v_pm-v3.4>`_, `JBA_v2.4-MNI152_Area-hOc4v_PM-v3.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc4v_pm-v3.4>`_, `JBA_v2.5-Colin27_Area-hOc4v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc4v_pm-v5.0>`_, `JBA_v2.5-MNI152_Area-hOc4v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc4v_pm-v5.0>`_, `JBA_v2.6-MNI152_Area-hOc4v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc4v_pm-v5.0>`_, `JBA_v2.9-BigBrain_Area-hOc4v_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc4v_pm-v5.0>`_, `JBA_v2.9-Colin27_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc4v_pm-v5.2>`_, `JBA_v2.9-MNI152_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc4v_pm-v5.2>`_, `JBA_v2.9-fsaverage_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc4v_pm-v5.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc4v_pm-v5.2>`_, `JBA_v3.0.2-Colin27_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc4v_pm-v5.2>`_, `JBA_v3.0.2-MNI152_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc4v_pm-v5.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc4v_PM-v5.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc4v_pm-v5.2>`_
+   :lookupLabel: JBA_Area-hOc4v
+   :name: Area hOc4v (LingG)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc5
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lateraloccipitalcortex>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-hOc5_PM-v2.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-hoc5_pm-v2.2>`_, `JBA_v1.18-Colin27_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc5_pm-v2.4>`_, `JBA_v1.18-MNI152_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc5_pm-v2.4>`_, `JBA_v2.2-Colin27_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc5_pm-v2.4>`_, `JBA_v2.2-MNI152_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc5_pm-v2.4>`_, `JBA_v2.4-Colin27_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc5_pm-v2.4>`_, `JBA_v2.4-MNI152_Area-hOc5_PM-v2.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc5_pm-v2.4>`_, `JBA_v2.5-Colin27_Area-hOc5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc5_pm-v4.0>`_, `JBA_v2.5-MNI152_Area-hOc5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc5_pm-v4.0>`_, `JBA_v2.6-MNI152_Area-hOc5_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc5_pm-v4.0>`_, `JBA_v2.9-BigBrain_Area-hOc5_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc5_deep>`_, `JBA_v2.9-Colin27_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc5_pm-v4.2>`_, `JBA_v2.9-MNI152_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc5_pm-v4.2>`_, `JBA_v2.9-fsaverage_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc5_pm-v4.2>`_, `JBA_v3.0.2-BigBrain_Area-hOc5_deep <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc5_deep>`_, `JBA_v3.0.2-Colin27_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc5_pm-v4.2>`_, `JBA_v3.0.2-MNI152_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc5_pm-v4.2>`_, `JBA_v3.0.2-fsaverage_Area-hOc5_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc5_pm-v4.2>`_
+   :lookupLabel: JBA_Area-hOc5
+   :name: Area hOc5 (LOC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hOc6
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dorsaloccipitalcortex>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hoc6_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hoc6_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hoc6_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hoc6_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hoc6_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hoc6_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hoc6_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hoc6_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hOc6_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hoc6_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hOc6_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hoc6_int>`_, `JBA_v2.9-Colin27_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hoc6_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hoc6_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hoc6_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hOc6_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hoc6_int>`_, `JBA_v3.0.2-Colin27_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hoc6_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hoc6_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hOc6_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hoc6_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hOc6
+   :name: Area hOc6 (POS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-hPO1
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hPO1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parieto-occipitalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parieto-occipitalsulcus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-hpo1_pm-v7.1>`_, `JBA_v1.18-MNI152_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-hpo1_pm-v7.1>`_, `JBA_v2.2-Colin27_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-hpo1_pm-v7.1>`_, `JBA_v2.2-MNI152_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-hpo1_pm-v7.1>`_, `JBA_v2.4-Colin27_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-hpo1_pm-v7.1>`_, `JBA_v2.4-MNI152_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-hpo1_pm-v7.1>`_, `JBA_v2.5-Colin27_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-hpo1_pm-v7.1>`_, `JBA_v2.5-MNI152_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-hpo1_pm-v7.1>`_, `JBA_v2.6-MNI152_Area-hPO1_PM-v7.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-hpo1_pm-v7.1>`_, `JBA_v2.9-BigBrain_Area-hPO1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-hpo1_int>`_, `JBA_v2.9-Colin27_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-hpo1_pm-v7.3>`_, `JBA_v2.9-MNI152_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-hpo1_pm-v7.3>`_, `JBA_v2.9-fsaverage_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-hpo1_pm-v7.3>`_, `JBA_v3.0.2-BigBrain_Area-hPO1_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-hpo1_int>`_, `JBA_v3.0.2-Colin27_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-hpo1_pm-v7.3>`_, `JBA_v3.0.2-MNI152_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-hpo1_pm-v7.3>`_, `JBA_v3.0.2-fsaverage_Area-hPO1_PM-v7.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-hpo1_pm-v7.3>`_
+   :lookupLabel: JBA_Area-hPO1
+   :name: Area hPO1 (POS)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-i29
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i29
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-i29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-i29_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-i29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-i29_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-i29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-i29_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-i29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-i29_pm-v11.0>`_
+   :lookupLabel: JBA_Area-i29
+   :name: Area i29 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-i30
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i30
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-i30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-i30_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-i30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-i30_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-i30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-i30_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-i30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-i30_pm-v11.0>`_
+   :lookupLabel: JBA_Area-i30
+   :name: Area i30 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24ab
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-p24ab_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-p24ab_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-p24ab_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-p24ab_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-p24ab_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-p24ab_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-p24ab_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-p24ab_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-p24ab_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-p24ab_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-p24ab_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-p24ab_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-p24ab_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-p24ab_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-p24ab_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-p24ab_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-p24ab_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-p24ab_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24ab_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24ab_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24ab_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24ab_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24ab_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24ab
+   :name: Area p24ab (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24ab.p24a
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24a
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-p24ab <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-p24ab>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-p24ab.p24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24ab.p24a_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24ab.p24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24ab.p24a_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24ab.p24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24ab.p24a_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24ab.p24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24ab.p24a_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24ab.p24a
+   :name: Area p24ab.p24a (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24ab.p24b
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24b
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-p24ab <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-p24ab>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-p24ab.p24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24ab.p24b_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24ab.p24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24ab.p24b_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24ab.p24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24ab.p24b_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24ab.p24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24ab.p24b_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24ab.p24b
+   :name: Area p24ab.p24b (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24c
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-p24c_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-p24c_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-p24c_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-p24c_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-p24c_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-p24c_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-p24c_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-p24c_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-p24c_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-p24c_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-p24c_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-p24c_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-p24c_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-p24c_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-p24c_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-p24c_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-p24c_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-p24c_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24c_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24c_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24c_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24c_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24c
+   :name: Area p24c (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24c.pd24cd
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cd
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-p24c>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-p24c.pd24cd_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24c.pd24cd_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24c.pd24cd_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24c.pd24cd_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24c.pd24cd_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24c.pd24cd_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24c.pd24cd_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24c.pd24cd_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24c.pd24cd
+   :name: Area p24c.pd24cd (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24c.pd24cv
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cv
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-p24c>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-p24c.pd24cv_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24c.pd24cv_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24c.pd24cv_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24c.pd24cv_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24c.pd24cv_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24c.pd24cv_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24c.pd24cv_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24c.pd24cv_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24c.pd24cv
+   :name: Area p24c.pd24cv (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p24c.pv24c
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pv24c
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-p24c>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-p24c.pv24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p24c.pv24c_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p24c.pv24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p24c.pv24c_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p24c.pv24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p24c.pv24c_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p24c.pv24c_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p24c.pv24c_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p24c.pv24c
+   :name: Area p24c.pv24c (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p29
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p29
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-p29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-p29_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-p29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-p29_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-p29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-p29_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-p29_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-p29_pm-v11.0>`_
+   :lookupLabel: JBA_Area-p29
+   :name: Area p29 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p30
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p30
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_retrosplenialpart>`_
+   :hasVersion: `JBA_v2.2-Colin27_Area-p30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-p30_pm-v11.0>`_, `JBA_v2.2-MNI152_Area-p30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-p30_pm-v11.0>`_, `JBA_v2.4-Colin27_Area-p30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-p30_pm-v11.0>`_, `JBA_v2.4-MNI152_Area-p30_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-p30_pm-v11.0>`_
+   :lookupLabel: JBA_Area-p30
+   :name: Area p30 (retrosplenial)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-p32
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p32
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.18-Colin27_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-p32_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-p32_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-p32_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-p32_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-p32_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-p32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-p32_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-p32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-p32_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-p32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-p32_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-p32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-p32_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-p32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-p32_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-p32_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-p32_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-p32_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-p32_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-p32_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-p32_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-p32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-p32_pm-v20.1>`_
+   :lookupLabel: JBA_Area-p32
+   :name: Area p32 (pACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-s24
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-s24_PM-v16.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-s24_pm-v16.0>`_, `JBA_v1.18-Colin27_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-s24_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-s24_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-s24_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-s24_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-s24_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-s24_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-s24_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-s24_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-s24_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-s24_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-s24_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-s24_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-s24_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-s24_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-s24_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-s24_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-s24_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-s24_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-s24_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-s24_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-s24_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-s24_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-s24_pm-v20.1>`_
+   :lookupLabel: JBA_Area-s24
+   :name: Area s24 (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-s24.s24a
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24a
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-s24 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-s24>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-s24.s24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-s24.s24a_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-s24.s24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-s24.s24a_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-s24.s24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-s24.s24a_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-s24.s24a_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-s24.s24a_pm-v20.1>`_
+   :lookupLabel: JBA_Area-s24.s24a
+   :name: Area s24.s24a (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-s24.s24b
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24b
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Area-s24 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_area-s24>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Area-s24.s24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-s24.s24b_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-s24.s24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-s24.s24b_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-s24.s24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-s24.s24b_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-s24.s24b_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-s24.s24b_pm-v20.1>`_
+   :lookupLabel: JBA_Area-s24.s24b
+   :name: Area s24.s24b (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Area-s32
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s32
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontalcingulategyrus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Area-s32_PM-v16.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_area-s32_pm-v16.0>`_, `JBA_v1.18-Colin27_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_area-s32_pm-v16.1>`_, `JBA_v1.18-MNI152_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_area-s32_pm-v16.1>`_, `JBA_v2.2-Colin27_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_area-s32_pm-v16.1>`_, `JBA_v2.2-MNI152_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_area-s32_pm-v16.1>`_, `JBA_v2.4-Colin27_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_area-s32_pm-v16.1>`_, `JBA_v2.4-MNI152_Area-s32_PM-v16.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_area-s32_pm-v16.1>`_, `JBA_v2.5-Colin27_Area-s32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_area-s32_pm-v18.0>`_, `JBA_v2.5-MNI152_Area-s32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_area-s32_pm-v18.0>`_, `JBA_v2.6-MNI152_Area-s32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_area-s32_pm-v18.0>`_, `JBA_v2.9-BigBrain_Area-s32_PM-v18.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_area-s32_pm-v18.0>`_, `JBA_v2.9-Colin27_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_area-s32_pm-v20.1>`_, `JBA_v2.9-MNI152_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_area-s32_pm-v20.1>`_, `JBA_v2.9-fsaverage_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_area-s32_pm-v20.1>`_, `JBA_v3.0.2-BigBrain_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_area-s32_pm-v20.1>`_, `JBA_v3.0.2-Colin27_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_area-s32_pm-v20.1>`_, `JBA_v3.0.2-MNI152_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_area-s32_pm-v20.1>`_, `JBA_v3.0.2-fsaverage_Area-s32_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_area-s32_pm-v20.1>`_
+   :lookupLabel: JBA_Area-s32
+   :name: Area s32 (sACC)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_BST
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_BST
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_basalforebrain>`_
+   :hasVersion: `JBA_v2.9-BigBrain_BST_PM-v20.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_bst_pm-v20.1>`_, `JBA_v2.9-Colin27_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_bst_pm-v6.1>`_, `JBA_v2.9-MNI152_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_bst_pm-v6.1>`_, `JBA_v2.9-fsaverage_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_bst_pm-v6.1>`_, `JBA_v3.0.2-BigBrain_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_bst_pm-v6.1>`_, `JBA_v3.0.2-Colin27_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_bst_pm-v6.1>`_, `JBA_v3.0.2-MNI152_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_bst_pm-v6.1>`_, `JBA_v3.0.2-fsaverage_BST_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_bst_pm-v6.1>`_
+   :lookupLabel: JBA_BST
+   :name: BST (Bed Nucleus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CA
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.18-Colin27_CA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_ca_pm-v11.1>`_, `JBA_v1.18-MNI152_CA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_ca_pm-v11.1>`_
+   :lookupLabel: JBA_CA
+   :name: CA (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CA1
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_CA1_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ca1_pm-v11b.0>`_, `JBA_v2.2-Colin27_CA1_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ca1_pm-v11.1>`_, `JBA_v2.2-MNI152_CA1_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ca1_pm-v11.1>`_, `JBA_v2.4-Colin27_CA1_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ca1_pm-v11.1>`_, `JBA_v2.4-MNI152_CA1_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ca1_pm-v11.1>`_, `JBA_v2.5-Colin27_CA1_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ca1_pm-v13.0>`_, `JBA_v2.5-MNI152_CA1_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ca1_pm-v13.0>`_, `JBA_v2.6-MNI152_CA1_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ca1_pm-v13.0>`_, `JBA_v2.9-BigBrain_CA1_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ca1_pm-v13.0>`_, `JBA_v2.9-Colin27_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ca1_pm-v13.2>`_, `JBA_v2.9-MNI152_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ca1_pm-v13.2>`_, `JBA_v2.9-fsaverage_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ca1_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ca1_pm-v13.2>`_, `JBA_v3.0.2-Colin27_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ca1_pm-v13.2>`_, `JBA_v3.0.2-MNI152_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ca1_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_CA1_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ca1_pm-v13.2>`_
+   :lookupLabel: JBA_CA1
+   :name: CA1 (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CA2
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_CA2_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ca2_pm-v11b.0>`_, `JBA_v2.2-Colin27_CA2_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ca2_pm-v11.1>`_, `JBA_v2.2-MNI152_CA2_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ca2_pm-v11.1>`_, `JBA_v2.4-Colin27_CA2_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ca2_pm-v11.1>`_, `JBA_v2.4-MNI152_CA2_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ca2_pm-v11.1>`_, `JBA_v2.5-Colin27_CA2_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ca2_pm-v13.0>`_, `JBA_v2.5-MNI152_CA2_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ca2_pm-v13.0>`_, `JBA_v2.6-MNI152_CA2_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ca2_pm-v13.0>`_, `JBA_v2.9-BigBrain_CA2_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ca2_pm-v13.0>`_, `JBA_v2.9-Colin27_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ca2_pm-v13.2>`_, `JBA_v2.9-MNI152_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ca2_pm-v13.2>`_, `JBA_v2.9-fsaverage_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ca2_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ca2_pm-v13.2>`_, `JBA_v3.0.2-Colin27_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ca2_pm-v13.2>`_, `JBA_v3.0.2-MNI152_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ca2_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_CA2_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ca2_pm-v13.2>`_
+   :lookupLabel: JBA_CA2
+   :name: CA2 (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CA3
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_CA3_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ca3_pm-v11b.0>`_, `JBA_v2.2-Colin27_CA3_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ca3_pm-v11.1>`_, `JBA_v2.2-MNI152_CA3_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ca3_pm-v11.1>`_, `JBA_v2.4-Colin27_CA3_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ca3_pm-v11.1>`_, `JBA_v2.4-MNI152_CA3_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ca3_pm-v11.1>`_, `JBA_v2.5-Colin27_CA3_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ca3_pm-v13.0>`_, `JBA_v2.5-MNI152_CA3_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ca3_pm-v13.0>`_, `JBA_v2.6-MNI152_CA3_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ca3_pm-v13.0>`_, `JBA_v2.9-BigBrain_CA3_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ca3_pm-v13.0>`_, `JBA_v2.9-Colin27_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ca3_pm-v13.2>`_, `JBA_v2.9-MNI152_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ca3_pm-v13.2>`_, `JBA_v2.9-fsaverage_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ca3_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ca3_pm-v13.2>`_, `JBA_v3.0.2-Colin27_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ca3_pm-v13.2>`_, `JBA_v3.0.2-MNI152_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ca3_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_CA3_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ca3_pm-v13.2>`_
+   :lookupLabel: JBA_CA3
+   :name: CA3 (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_metathalamus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_metathalamus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_CGL_PM-v12.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_cgl_pm-v12.1>`_, `JBA_v2.9-Colin27_CGL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_cgl_pm-v5.0>`_, `JBA_v2.9-MNI152_CGL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_cgl_pm-v5.0>`_, `JBA_v2.9-fsaverage_CGL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_cgl_pm-v5.0>`_, `JBA_v3.0.2-BigBrain_CGL_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cgl_pm-v5.0>`_, `JBA_v3.0.2-Colin27_CGL_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cgl_pm-v10.0>`_, `JBA_v3.0.2-MNI152_CGL_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cgl_pm-v10.0>`_, `JBA_v3.0.2-fsaverage_CGL_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cgl_pm-v10.0>`_
+   :lookupLabel: JBA_CGL
+   :name: CGL (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam1
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam1
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam1
+   :name: CGL.lam1 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam2
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam2
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam2
+   :name: CGL.lam2 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam3
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam3
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam3
+   :name: CGL.lam3 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam4
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam4
+   :name: CGL.lam4 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam5
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam5
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam5
+   :name: CGL.lam5 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGL.lam6
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam6
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgl>`_
+   :lookupLabel: JBA_CGL.lam6
+   :name: CGL.lam6 (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGM.CGMd
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMd
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgm>`_
+   :lookupLabel: JBA_CGM.CGMd
+   :name: CGM.CGMd (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGM.CGMm
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgm>`_
+   :lookupLabel: JBA_CGM.CGMm
+   :name: CGM.CGMm (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGM.CGMv
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMv
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cgm>`_
+   :lookupLabel: JBA_CGM.CGMv
+   :name: CGM.CGMv (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CGM
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_metathalamus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_metathalamus>`_
+   :hasVersion: `JBA_v2.9-BigBrain_CGM_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_cgm_pm-v10.0>`_, `JBA_v2.9-Colin27_CGM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_cgm_pm-v5.0>`_, `JBA_v2.9-MNI152_CGM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_cgm_pm-v5.0>`_, `JBA_v2.9-fsaverage_CGM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_cgm_pm-v5.0>`_, `JBA_v3.0.2-BigBrain_CGM_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cgm_pm-v5.0>`_, `JBA_v3.0.2-Colin27_CGM_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cgm_pm-v10.0>`_, `JBA_v3.0.2-MNI152_CGM_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cgm_pm-v10.0>`_, `JBA_v3.0.2-fsaverage_CGM_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cgm_pm-v10.0>`_
+   :lookupLabel: JBA_CGM
+   :name: CGM (Metathalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CM.AAA
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.AAA
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cm>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_CM.AAA_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cm.aaa_pm-v11.4>`_, `JBA_v3.0.2-Colin27_CM.AAA_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cm.aaa_pm-v8.2>`_, `JBA_v3.0.2-MNI152_CM.AAA_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cm.aaa_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_CM.AAA_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cm.aaa_pm-v8.2>`_
+   :lookupLabel: JBA_CM.AAA
+   :name: CM.AAA (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CM.Ce
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Ce
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cm>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_CM.Ce_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cm.ce_pm-v8.2>`_, `JBA_v3.0.2-Colin27_CM.Ce_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cm.ce_pm-v8.2>`_, `JBA_v3.0.2-MNI152_CM.Ce_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cm.ce_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_CM.Ce_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cm.ce_pm-v8.2>`_
+   :lookupLabel: JBA_CM.Ce
+   :name: CM.Ce (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CM.Me
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Me
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cm>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_CM.Me_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cm.me_pm-v8.2>`_, `JBA_v3.0.2-Colin27_CM.Me_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cm.me_pm-v8.2>`_, `JBA_v3.0.2-MNI152_CM.Me_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cm.me_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_CM.Me_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cm.me_pm-v8.2>`_
+   :lookupLabel: JBA_CM.Me
+   :name: CM.Me (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_CM
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_amygdaloidgroups>`_
+   :hasVersion: `JBA_v1.13-Colin27_CM_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_cm_pm-v6.1>`_, `JBA_v1.18-Colin27_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_cm_pm-v6.4>`_, `JBA_v1.18-MNI152_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_cm_pm-v6.4>`_, `JBA_v2.2-Colin27_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_cm_pm-v6.4>`_, `JBA_v2.2-MNI152_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_cm_pm-v6.4>`_, `JBA_v2.4-Colin27_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_cm_pm-v6.4>`_, `JBA_v2.4-MNI152_CM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_cm_pm-v6.4>`_, `JBA_v2.5-Colin27_CM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_cm_pm-v8.0>`_, `JBA_v2.5-MNI152_CM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_cm_pm-v8.0>`_, `JBA_v2.6-MNI152_CM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_cm_pm-v8.0>`_, `JBA_v2.9-BigBrain_CM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_cm_pm-v8.0>`_, `JBA_v2.9-Colin27_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_cm_pm-v8.2>`_, `JBA_v2.9-MNI152_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_cm_pm-v8.2>`_, `JBA_v2.9-fsaverage_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_cm_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_cm_pm-v8.2>`_, `JBA_v3.0.2-Colin27_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_cm_pm-v8.2>`_, `JBA_v3.0.2-MNI152_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_cm_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_CM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_cm_pm-v8.2>`_
+   :lookupLabel: JBA_CM
+   :name: CM (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Ch-123
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-123
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_magnocellularGroup <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_magnocellulargroup>`_
+   :hasVersion: `JBA_v1.13-Colin27_Ch-123_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ch-123_pm-v4.0>`_, `JBA_v1.18-Colin27_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_ch-123_pm-v4.2>`_, `JBA_v1.18-MNI152_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_ch-123_pm-v4.2>`_, `JBA_v2.2-Colin27_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ch-123_pm-v4.2>`_, `JBA_v2.2-MNI152_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ch-123_pm-v4.2>`_, `JBA_v2.4-Colin27_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ch-123_pm-v4.2>`_, `JBA_v2.4-MNI152_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ch-123_pm-v4.2>`_, `JBA_v2.5-Colin27_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ch-123_pm-v4.2>`_, `JBA_v2.5-MNI152_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ch-123_pm-v4.2>`_, `JBA_v2.6-MNI152_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ch-123_pm-v4.2>`_, `JBA_v2.9-BigBrain_Ch-123_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ch-123_pm-v4.2>`_, `JBA_v2.9-Colin27_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ch-123_pm-v4.3>`_, `JBA_v2.9-MNI152_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ch-123_pm-v4.3>`_, `JBA_v2.9-fsaverage_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ch-123_pm-v4.3>`_, `JBA_v3.0.2-BigBrain_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ch-123_pm-v4.3>`_, `JBA_v3.0.2-Colin27_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ch-123_pm-v4.3>`_, `JBA_v3.0.2-MNI152_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ch-123_pm-v4.3>`_, `JBA_v3.0.2-fsaverage_Ch-123_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ch-123_pm-v4.3>`_
+   :lookupLabel: JBA_Ch-123
+   :name: Ch 123 (Basal Forebrain)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Ch-4
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-4
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_sublenticularBasalForebrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_sublenticularbasalforebrain>`_
+   :hasVersion: `JBA_v1.13-Colin27_Ch-4_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ch-4_pm-v4.0>`_, `JBA_v1.18-Colin27_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_ch-4_pm-v4.2>`_, `JBA_v1.18-MNI152_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_ch-4_pm-v4.2>`_, `JBA_v2.2-Colin27_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ch-4_pm-v4.2>`_, `JBA_v2.2-MNI152_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ch-4_pm-v4.2>`_, `JBA_v2.4-Colin27_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ch-4_pm-v4.2>`_, `JBA_v2.4-MNI152_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ch-4_pm-v4.2>`_, `JBA_v2.5-Colin27_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ch-4_pm-v4.2>`_, `JBA_v2.5-MNI152_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ch-4_pm-v4.2>`_, `JBA_v2.6-MNI152_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ch-4_pm-v4.2>`_, `JBA_v2.9-BigBrain_Ch-4_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ch-4_pm-v4.2>`_, `JBA_v2.9-Colin27_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ch-4_pm-v4.3>`_, `JBA_v2.9-MNI152_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ch-4_pm-v4.3>`_, `JBA_v2.9-fsaverage_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ch-4_pm-v4.3>`_, `JBA_v3.0.2-BigBrain_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ch-4_pm-v4.3>`_, `JBA_v3.0.2-Colin27_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ch-4_pm-v4.3>`_, `JBA_v3.0.2-MNI152_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ch-4_pm-v4.3>`_, `JBA_v3.0.2-fsaverage_Ch-4_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ch-4_pm-v4.3>`_
+   :lookupLabel: JBA_Ch-4
+   :name: Ch 4 (Basal Forebrain)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_DG
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_DG
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_DG_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_dg_pm-v11b.0>`_, `JBA_v1.18-Colin27_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_dg_pm-v11.1>`_, `JBA_v1.18-MNI152_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_dg_pm-v11.1>`_, `JBA_v2.2-Colin27_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_dg_pm-v11.1>`_, `JBA_v2.2-MNI152_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_dg_pm-v11.1>`_, `JBA_v2.4-Colin27_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_dg_pm-v11.1>`_, `JBA_v2.4-MNI152_DG_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_dg_pm-v11.1>`_, `JBA_v2.5-Colin27_DG_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_dg_pm-v13.0>`_, `JBA_v2.5-MNI152_DG_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_dg_pm-v13.0>`_, `JBA_v2.6-MNI152_DG_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_dg_pm-v13.0>`_, `JBA_v2.9-BigBrain_DG_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_dg_pm-v13.0>`_, `JBA_v2.9-Colin27_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_dg_pm-v13.2>`_, `JBA_v2.9-MNI152_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_dg_pm-v13.2>`_, `JBA_v2.9-fsaverage_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_dg_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_dg_pm-v13.2>`_, `JBA_v3.0.2-Colin27_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_dg_pm-v13.2>`_, `JBA_v3.0.2-MNI152_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_dg_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_DG_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_dg_pm-v13.2>`_
+   :lookupLabel: JBA_DG
+   :name: DG (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Dorsal-Dentate-Nucleus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Dorsal-Dentate-Nucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dentatenucleus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Dorsal-Dentate-Nucleus_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_dorsal-dentate-nucleus_pm-v6.0>`_, `JBA_v1.18-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v1.18-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.2-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.2-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.4-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.4-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.5-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.5-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.6-MNI152_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.9-BigBrain_Dorsal-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_dorsal-dentate-nucleus_pm-v6.2>`_, `JBA_v2.9-Colin27_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v2.9-MNI152_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v2.9-fsaverage_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-BigBrain_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-Colin27_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-MNI152_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_dorsal-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-fsaverage_Dorsal-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_dorsal-dentate-nucleus_pm-v6.3>`_
+   :lookupLabel: JBA_Dorsal-Dentate-Nucleus
+   :name: Dorsal Dentate Nucleus (Cerebellum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Entorhinal-Cortex
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Entorhinal-Cortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_Entorhinal-Cortex_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_entorhinal-cortex_pm-v11b.0>`_, `JBA_v1.18-Colin27_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_entorhinal-cortex_pm-v11.1>`_, `JBA_v1.18-MNI152_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_entorhinal-cortex_pm-v11.1>`_, `JBA_v2.2-Colin27_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_entorhinal-cortex_pm-v11.1>`_, `JBA_v2.2-MNI152_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_entorhinal-cortex_pm-v11.1>`_, `JBA_v2.4-Colin27_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_entorhinal-cortex_pm-v11.1>`_, `JBA_v2.4-MNI152_Entorhinal-Cortex_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_entorhinal-cortex_pm-v11.1>`_, `JBA_v2.5-Colin27_Entorhinal-Cortex_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_entorhinal-cortex_pm-v13.0>`_, `JBA_v2.5-MNI152_Entorhinal-Cortex_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_entorhinal-cortex_pm-v13.0>`_, `JBA_v2.6-MNI152_Entorhinal-Cortex_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_entorhinal-cortex_pm-v13.0>`_, `JBA_v2.9-BigBrain_Entorhinal-Cortex_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_entorhinal-cortex_int>`_, `JBA_v2.9-Colin27_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_entorhinal-cortex_pm-v13.2>`_, `JBA_v2.9-MNI152_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_entorhinal-cortex_pm-v13.2>`_, `JBA_v2.9-fsaverage_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_entorhinal-cortex_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_Entorhinal-Cortex_int <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_entorhinal-cortex_int>`_, `JBA_v3.0.2-Colin27_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_entorhinal-cortex_pm-v13.2>`_, `JBA_v3.0.2-MNI152_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_entorhinal-cortex_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_Entorhinal-Cortex_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_entorhinal-cortex_pm-v13.2>`_
+   :lookupLabel: JBA_Entorhinal-Cortex
+   :name: Entorhinal Cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Fastigial-Nucleus
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Fastigial-Nucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebellarnuclei>`_
+   :hasVersion: `JBA_v1.13-Colin27_Fastigial-Nucleus_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_fastigial-nucleus_pm-v6.0>`_, `JBA_v1.18-Colin27_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_fastigial-nucleus_pm-v6.2>`_, `JBA_v1.18-MNI152_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.2-Colin27_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.2-MNI152_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.4-Colin27_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.4-MNI152_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.5-Colin27_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.5-MNI152_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.6-MNI152_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.9-BigBrain_Fastigial-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_fastigial-nucleus_pm-v6.2>`_, `JBA_v2.9-Colin27_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_fastigial-nucleus_pm-v6.3>`_, `JBA_v2.9-MNI152_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_fastigial-nucleus_pm-v6.3>`_, `JBA_v2.9-fsaverage_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_fastigial-nucleus_pm-v6.3>`_, `JBA_v3.0.2-BigBrain_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_fastigial-nucleus_pm-v6.3>`_, `JBA_v3.0.2-Colin27_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_fastigial-nucleus_pm-v6.3>`_, `JBA_v3.0.2-MNI152_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_fastigial-nucleus_pm-v6.3>`_, `JBA_v3.0.2-fsaverage_Fastigial-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_fastigial-nucleus_pm-v6.3>`_
+   :lookupLabel: JBA_Fastigial-Nucleus
+   :name: Fastigial Nucleus (Cerebellum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-I
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-I
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :hasVersion: `JBA_v2.2-Colin27_Frontal-I_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_frontal-i_pm-v9.0>`_, `JBA_v2.2-MNI152_Frontal-I_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_frontal-i_pm-v9.0>`_, `JBA_v2.4-Colin27_Frontal-I_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_frontal-i_pm-v9.2>`_, `JBA_v2.4-MNI152_Frontal-I_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_frontal-i_pm-v9.2>`_, `JBA_v2.5-Colin27_Frontal-I_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_frontal-i_pm-v10.0>`_, `JBA_v2.5-MNI152_Frontal-I_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_frontal-i_pm-v10.0>`_, `JBA_v2.6-MNI152_Frontal-I_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_frontal-i_pm-v10.0>`_, `JBA_v2.9-Colin27_Frontal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_frontal-i_pm-v11.3>`_, `JBA_v2.9-MNI152_Frontal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_frontal-i_pm-v11.3>`_, `JBA_v2.9-fsaverage_Frontal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_frontal-i_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Frontal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_frontal-i_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Frontal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_frontal-i_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Frontal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_frontal-i_pm-v11.4>`_
+   :lookupLabel: JBA_Frontal-I
+   :name: Frontal-I (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-II
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-II
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :hasVersion: `JBA_v2.2-Colin27_Frontal-II_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_frontal-ii_pm-v9.0>`_, `JBA_v2.2-MNI152_Frontal-II_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_frontal-ii_pm-v9.0>`_, `JBA_v2.4-Colin27_Frontal-II_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_frontal-ii_pm-v9.2>`_, `JBA_v2.4-MNI152_Frontal-II_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_frontal-ii_pm-v9.2>`_, `JBA_v2.5-Colin27_Frontal-II_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_frontal-ii_pm-v10.0>`_, `JBA_v2.5-MNI152_Frontal-II_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_frontal-ii_pm-v10.0>`_, `JBA_v2.6-MNI152_Frontal-II_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_frontal-ii_pm-v10.0>`_, `JBA_v2.9-Colin27_Frontal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_frontal-ii_pm-v11.3>`_, `JBA_v2.9-MNI152_Frontal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_frontal-ii_pm-v11.3>`_, `JBA_v2.9-fsaverage_Frontal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_frontal-ii_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Frontal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_frontal-ii_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Frontal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_frontal-ii_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Frontal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_frontal-ii_pm-v11.4>`_
+   :lookupLabel: JBA_Frontal-II
+   :name: Frontal-II (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-to-Occipital
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Occipital
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :hasVersion: `JBA_v2.2-Colin27_Frontal-to-Occipital_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_frontal-to-occipital_pm-v9.0>`_, `JBA_v2.2-MNI152_Frontal-to-Occipital_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_frontal-to-occipital_pm-v9.0>`_, `JBA_v2.4-Colin27_Frontal-to-Occipital_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_frontal-to-occipital_pm-v9.2>`_, `JBA_v2.4-MNI152_Frontal-to-Occipital_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_frontal-to-occipital_pm-v9.2>`_, `JBA_v2.5-Colin27_Frontal-to-Occipital_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_frontal-to-occipital_pm-v10.0>`_, `JBA_v2.5-MNI152_Frontal-to-Occipital_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_frontal-to-occipital_pm-v10.0>`_, `JBA_v2.6-MNI152_Frontal-to-Occipital_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_frontal-to-occipital_pm-v10.0>`_, `JBA_v2.9-Colin27_Frontal-to-Occipital_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_frontal-to-occipital_pm-v11.3>`_, `JBA_v2.9-MNI152_Frontal-to-Occipital_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_frontal-to-occipital_pm-v11.3>`_, `JBA_v2.9-fsaverage_Frontal-to-Occipital_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_frontal-to-occipital_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Frontal-to-Occipital_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_frontal-to-occipital_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Frontal-to-Occipital_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_frontal-to-occipital_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Frontal-to-Occipital_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_frontal-to-occipital_pm-v11.4>`_
+   :lookupLabel: JBA_Frontal-to-Occipital
+   :name: Frontal-to-Occipital (GapMap
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-to-Temporal-I
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-I
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Frontal-to-Temporal <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontal-to-temporal>`_
+   :hasVersion: `JBA_v2.9-Colin27_Frontal-to-Temporal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_frontal-to-temporal-i_pm-v11.3>`_, `JBA_v2.9-MNI152_Frontal-to-Temporal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_frontal-to-temporal-i_pm-v11.3>`_, `JBA_v2.9-fsaverage_Frontal-to-Temporal-I_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_frontal-to-temporal-i_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Frontal-to-Temporal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_frontal-to-temporal-i_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Frontal-to-Temporal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_frontal-to-temporal-i_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Frontal-to-Temporal-I_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_frontal-to-temporal-i_pm-v11.4>`_
+   :lookupLabel: JBA_Frontal-to-Temporal-I
+   :name: Frontal-to-Temporal-I (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-to-Temporal-II
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-II
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Frontal-to-Temporal <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontal-to-temporal>`_
+   :hasVersion: `JBA_v2.9-Colin27_Frontal-to-Temporal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_frontal-to-temporal-ii_pm-v11.3>`_, `JBA_v2.9-MNI152_Frontal-to-Temporal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_frontal-to-temporal-ii_pm-v11.3>`_, `JBA_v2.9-fsaverage_Frontal-to-Temporal-II_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_frontal-to-temporal-ii_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Frontal-to-Temporal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_frontal-to-temporal-ii_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Frontal-to-Temporal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_frontal-to-temporal-ii_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Frontal-to-Temporal-II_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_frontal-to-temporal-ii_pm-v11.4>`_
+   :lookupLabel: JBA_Frontal-to-Temporal-II
+   :name: Frontal-to-Temporal-II (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Frontal-to-Temporal
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :hasVersion: `JBA_v2.2-Colin27_Frontal-to-Temporal_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_frontal-to-temporal_pm-v9.0>`_, `JBA_v2.2-MNI152_Frontal-to-Temporal_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_frontal-to-temporal_pm-v9.0>`_, `JBA_v2.4-Colin27_Frontal-to-Temporal_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_frontal-to-temporal_pm-v9.2>`_, `JBA_v2.4-MNI152_Frontal-to-Temporal_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_frontal-to-temporal_pm-v9.2>`_, `JBA_v2.5-Colin27_Frontal-to-Temporal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_frontal-to-temporal_pm-v10.0>`_, `JBA_v2.5-MNI152_Frontal-to-Temporal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_frontal-to-temporal_pm-v10.0>`_, `JBA_v2.6-MNI152_Frontal-to-Temporal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_frontal-to-temporal_pm-v10.0>`_
+   :lookupLabel: JBA_Frontal-to-Temporal
+   :name: Frontal-to-Temporal (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_FuCd
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuCd
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventralstriatum>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_FuCd_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_fucd_pm-v5.0>`_, `JBA_v3.0.2-Colin27_FuCd_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_fucd_pm-v5.0>`_, `JBA_v3.0.2-MNI152_FuCd_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_fucd_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_FuCd_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_fucd_pm-v5.0>`_
+   :lookupLabel: JBA_FuCd
+   :name: FuCd (Fundus of Caudate Nucleus, Ventral Striatum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_FuP
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuP
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_ventralstriatum>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_FuP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_fup_pm-v5.0>`_, `JBA_v3.0.2-Colin27_FuP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_fup_pm-v5.0>`_, `JBA_v3.0.2-MNI152_FuP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_fup_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_FuP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_fup_pm-v5.0>`_
+   :lookupLabel: JBA_FuP
+   :name: FuP (Fundus of Putamen, Ventral Striatum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_HATA
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HATA
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_HATA_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_hata_pm-v11b.0>`_, `JBA_v1.18-Colin27_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_hata_pm-v11.1>`_, `JBA_v1.18-MNI152_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_hata_pm-v11.1>`_, `JBA_v2.2-Colin27_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_hata_pm-v11.1>`_, `JBA_v2.2-MNI152_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_hata_pm-v11.1>`_, `JBA_v2.4-Colin27_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_hata_pm-v11.1>`_, `JBA_v2.4-MNI152_HATA_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_hata_pm-v11.1>`_, `JBA_v2.5-Colin27_HATA_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_hata_pm-v13.0>`_, `JBA_v2.5-MNI152_HATA_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_hata_pm-v13.0>`_, `JBA_v2.6-MNI152_HATA_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_hata_pm-v13.0>`_, `JBA_v2.9-BigBrain_HATA_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_hata_pm-v13.0>`_, `JBA_v2.9-Colin27_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_hata_pm-v13.2>`_, `JBA_v2.9-MNI152_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_hata_pm-v13.2>`_, `JBA_v2.9-fsaverage_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_hata_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_hata_pm-v13.2>`_, `JBA_v3.0.2-Colin27_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_hata_pm-v13.2>`_, `JBA_v3.0.2-MNI152_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_hata_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_HATA_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_hata_pm-v13.2>`_
+   :lookupLabel: JBA_HATA
+   :name: HATA (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_HC-Transsubiculum
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HC-Transsubiculum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v2.5-Colin27_HC-Transsubiculum_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_hc-transsubiculum_pm-v13.0>`_, `JBA_v2.5-MNI152_HC-Transsubiculum_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_hc-transsubiculum_pm-v13.0>`_, `JBA_v2.6-MNI152_HC-Transsubiculum_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_hc-transsubiculum_pm-v13.0>`_, `JBA_v2.9-BigBrain_HC-Transsubiculum_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_hc-transsubiculum_pm-v13.0>`_, `JBA_v2.9-Colin27_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_hc-transsubiculum_pm-v13.2>`_, `JBA_v2.9-MNI152_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_hc-transsubiculum_pm-v13.2>`_, `JBA_v2.9-fsaverage_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_hc-transsubiculum_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_hc-transsubiculum_pm-v13.2>`_, `JBA_v3.0.2-Colin27_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_hc-transsubiculum_pm-v13.2>`_, `JBA_v3.0.2-MNI152_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_hc-transsubiculum_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_HC-Transsubiculum_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_hc-transsubiculum_pm-v13.2>`_
+   :lookupLabel: JBA_HC-Transsubiculum
+   :name: HC-Transsubiculum (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_HeschlsGyrus
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HeschlsGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_HeschlsGyrus
+   :name: Heschl’s gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_IF.ice
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ice
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_if>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_IF.ice_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_if.ice_pm-v13.2>`_, `JBA_v3.0.2-Colin27_IF.ice_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_if.ice_pm-v8.2>`_, `JBA_v3.0.2-MNI152_IF.ice_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_if.ice_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_IF.ice_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_if.ice_pm-v8.2>`_
+   :lookupLabel: JBA_IF.ice
+   :name: IF.ice (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_IF.iol
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.iol
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_if>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_IF.iol_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_if.iol_pm-v8.2>`_, `JBA_v3.0.2-Colin27_IF.iol_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_if.iol_pm-v8.2>`_, `JBA_v3.0.2-MNI152_IF.iol_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_if.iol_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_IF.iol_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_if.iol_pm-v8.2>`_
+   :lookupLabel: JBA_IF.iol
+   :name: IF.iol (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_IF
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fibermasses>`_
+   :hasVersion: `JBA_v1.13-Colin27_IF_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_if_pm-v6.1>`_, `JBA_v1.18-Colin27_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_if_pm-v6.4>`_, `JBA_v1.18-MNI152_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_if_pm-v6.4>`_, `JBA_v2.2-Colin27_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_if_pm-v6.4>`_, `JBA_v2.2-MNI152_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_if_pm-v6.4>`_, `JBA_v2.4-Colin27_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_if_pm-v6.4>`_, `JBA_v2.4-MNI152_IF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_if_pm-v6.4>`_, `JBA_v2.5-Colin27_IF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_if_pm-v8.1>`_, `JBA_v2.5-MNI152_IF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_if_pm-v8.1>`_, `JBA_v2.6-MNI152_IF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_if_pm-v8.1>`_, `JBA_v2.9-BigBrain_IF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_if_pm-v8.1>`_, `JBA_v2.9-Colin27_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_if_pm-v8.2>`_, `JBA_v2.9-MNI152_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_if_pm-v8.2>`_, `JBA_v2.9-fsaverage_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_if_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_if_pm-v8.2>`_, `JBA_v3.0.2-Colin27_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_if_pm-v8.2>`_, `JBA_v3.0.2-MNI152_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_if_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_IF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_if_pm-v8.2>`_
+   :lookupLabel: JBA_IF
+   :name: IF (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_IF.ld
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ld
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_if>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_IF.ld_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_if.ld_pm-v8.2>`_, `JBA_v3.0.2-Colin27_IF.ld_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_if.ld_pm-v8.2>`_, `JBA_v3.0.2-MNI152_IF.ld_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_if.ld_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_IF.ld_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_if.ld_pm-v8.2>`_
+   :lookupLabel: JBA_IF.ld
+   :name: IF.ld (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Interposed-Nucleus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Interposed-Nucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebellarnuclei>`_
+   :hasVersion: `JBA_v1.13-Colin27_Interposed-Nucleus_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_interposed-nucleus_pm-v6.0>`_, `JBA_v1.18-Colin27_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_interposed-nucleus_pm-v6.2>`_, `JBA_v1.18-MNI152_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_interposed-nucleus_pm-v6.2>`_, `JBA_v2.2-Colin27_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_interposed-nucleus_pm-v6.2>`_, `JBA_v2.2-MNI152_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_interposed-nucleus_pm-v6.2>`_, `JBA_v2.4-Colin27_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_interposed-nucleus_pm-v6.2>`_, `JBA_v2.4-MNI152_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_interposed-nucleus_pm-v6.2>`_, `JBA_v2.5-Colin27_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_interposed-nucleus_pm-v6.2>`_, `JBA_v2.5-MNI152_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_interposed-nucleus_pm-v6.2>`_, `JBA_v2.6-MNI152_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_interposed-nucleus_pm-v6.2>`_, `JBA_v2.9-BigBrain_Interposed-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_interposed-nucleus_pm-v6.2>`_, `JBA_v2.9-Colin27_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_interposed-nucleus_pm-v6.3>`_, `JBA_v2.9-MNI152_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_interposed-nucleus_pm-v6.3>`_, `JBA_v2.9-fsaverage_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_interposed-nucleus_pm-v6.3>`_, `JBA_v3.0.2-BigBrain_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_interposed-nucleus_pm-v6.3>`_, `JBA_v3.0.2-Colin27_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_interposed-nucleus_pm-v6.3>`_, `JBA_v3.0.2-MNI152_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_interposed-nucleus_pm-v6.3>`_, `JBA_v3.0.2-fsaverage_Interposed-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_interposed-nucleus_pm-v6.3>`_
+   :lookupLabel: JBA_Interposed-Nucleus
+   :name: Interposed Nucleus (Cerebellum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_LB.Bl
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bl
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lb>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_LB.Bl_PM-v3.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_lb.bl_pm-v3.2>`_, `JBA_v3.0.2-Colin27_LB.Bl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_lb.bl_pm-v8.2>`_, `JBA_v3.0.2-MNI152_LB.Bl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_lb.bl_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_LB.Bl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_lb.bl_pm-v8.2>`_
+   :lookupLabel: JBA_LB.Bl
+   :name: LB.Bl (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_LB.Bm
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lb>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_LB.Bm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_lb.bm_pm-v8.2>`_, `JBA_v3.0.2-Colin27_LB.Bm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_lb.bm_pm-v8.2>`_, `JBA_v3.0.2-MNI152_LB.Bm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_lb.bm_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_LB.Bm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_lb.bm_pm-v8.2>`_
+   :lookupLabel: JBA_LB.Bm
+   :name: LB.Bm (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_LB.La
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.La
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lb>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_LB.La_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_lb.la_pm-v8.2>`_, `JBA_v3.0.2-Colin27_LB.La_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_lb.la_pm-v8.2>`_, `JBA_v3.0.2-MNI152_LB.La_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_lb.la_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_LB.La_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_lb.la_pm-v8.2>`_
+   :lookupLabel: JBA_LB.La
+   :name: LB.La (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_LB.Pl
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Pl
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_lb>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_LB.Pl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_lb.pl_pm-v8.2>`_, `JBA_v3.0.2-Colin27_LB.Pl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_lb.pl_pm-v8.2>`_, `JBA_v3.0.2-MNI152_LB.Pl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_lb.pl_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_LB.Pl_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_lb.pl_pm-v8.2>`_
+   :lookupLabel: JBA_LB.Pl
+   :name: LB.Pl (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_LB
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_amygdaloidgroups>`_
+   :hasVersion: `JBA_v1.13-Colin27_LB_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_lb_pm-v6.1>`_, `JBA_v1.18-Colin27_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_lb_pm-v6.4>`_, `JBA_v1.18-MNI152_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_lb_pm-v6.4>`_, `JBA_v2.2-Colin27_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_lb_pm-v6.4>`_, `JBA_v2.2-MNI152_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_lb_pm-v6.4>`_, `JBA_v2.4-Colin27_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_lb_pm-v6.4>`_, `JBA_v2.4-MNI152_LB_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_lb_pm-v6.4>`_, `JBA_v2.5-Colin27_LB_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_lb_pm-v8.0>`_, `JBA_v2.5-MNI152_LB_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_lb_pm-v8.0>`_, `JBA_v2.6-MNI152_LB_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_lb_pm-v8.0>`_, `JBA_v2.9-BigBrain_LB_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_lb_pm-v8.0>`_, `JBA_v2.9-Colin27_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_lb_pm-v8.2>`_, `JBA_v2.9-MNI152_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_lb_pm-v8.2>`_, `JBA_v2.9-fsaverage_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_lb_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_lb_pm-v8.2>`_, `JBA_v3.0.2-Colin27_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_lb_pm-v8.2>`_, `JBA_v3.0.2-MNI152_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_lb_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_LB_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_lb_pm-v8.2>`_
+   :lookupLabel: JBA_LB
+   :name: LB (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_MF.icm
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.icm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_MF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_mf>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_MF.icm_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_mf.icm_pm-v10.0>`_, `JBA_v3.0.2-Colin27_MF.icm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_mf.icm_pm-v8.2>`_, `JBA_v3.0.2-MNI152_MF.icm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_mf.icm_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_MF.icm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_mf.icm_pm-v8.2>`_
+   :lookupLabel: JBA_MF.icm
+   :name: MF.icm (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_MF
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fibermasses>`_
+   :hasVersion: `JBA_v1.13-Colin27_MF_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_mf_pm-v6.1>`_, `JBA_v1.18-Colin27_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_mf_pm-v6.4>`_, `JBA_v1.18-MNI152_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_mf_pm-v6.4>`_, `JBA_v2.2-Colin27_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_mf_pm-v6.4>`_, `JBA_v2.2-MNI152_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_mf_pm-v6.4>`_, `JBA_v2.4-Colin27_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_mf_pm-v6.4>`_, `JBA_v2.4-MNI152_MF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_mf_pm-v6.4>`_, `JBA_v2.5-Colin27_MF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_mf_pm-v8.1>`_, `JBA_v2.5-MNI152_MF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_mf_pm-v8.1>`_, `JBA_v2.6-MNI152_MF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_mf_pm-v8.1>`_, `JBA_v2.9-BigBrain_MF_PM-v8.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_mf_pm-v8.1>`_, `JBA_v2.9-Colin27_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_mf_pm-v8.2>`_, `JBA_v2.9-MNI152_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_mf_pm-v8.2>`_, `JBA_v2.9-fsaverage_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_mf_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_mf_pm-v8.2>`_, `JBA_v3.0.2-Colin27_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_mf_pm-v8.2>`_, `JBA_v3.0.2-MNI152_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_mf_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_MF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_mf_pm-v8.2>`_
+   :lookupLabel: JBA_MF
+   :name: MF (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_MF.lm
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.lm
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_MF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_mf>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_MF.lm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_mf.lm_pm-v8.2>`_, `JBA_v3.0.2-Colin27_MF.lm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_mf.lm_pm-v8.2>`_, `JBA_v3.0.2-MNI152_MF.lm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_mf.lm_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_MF.lm_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_mf.lm_pm-v8.2>`_
+   :lookupLabel: JBA_MF.lm
+   :name: MF.lm (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_SF.AHi
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.AHi
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_sf>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_SF.AHi_PM-v11.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_sf.ahi_pm-v11.0>`_, `JBA_v3.0.2-Colin27_SF.AHi_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_sf.ahi_pm-v8.2>`_, `JBA_v3.0.2-MNI152_SF.AHi_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_sf.ahi_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_SF.AHi_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_sf.ahi_pm-v8.2>`_
+   :lookupLabel: JBA_SF.AHi
+   :name: SF.AHi (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_SF.APir
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.APir
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_sf>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_SF.APir_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_sf.apir_pm-v8.2>`_, `JBA_v3.0.2-Colin27_SF.APir_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_sf.apir_pm-v8.2>`_, `JBA_v3.0.2-MNI152_SF.APir_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_sf.apir_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_SF.APir_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_sf.apir_pm-v8.2>`_
+   :lookupLabel: JBA_SF.APir
+   :name: SF.APir (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_SF.VCo
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.VCo
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_sf>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_SF.VCo_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_sf.vco_pm-v8.2>`_, `JBA_v3.0.2-Colin27_SF.VCo_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_sf.vco_pm-v8.2>`_, `JBA_v3.0.2-MNI152_SF.VCo_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_sf.vco_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_SF.VCo_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_sf.vco_pm-v8.2>`_
+   :lookupLabel: JBA_SF.VCo
+   :name: SF.VCo (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_SF
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_amygdaloidgroups>`_
+   :hasVersion: `JBA_v1.13-Colin27_SF_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_sf_pm-v6.1>`_, `JBA_v1.18-Colin27_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_sf_pm-v6.4>`_, `JBA_v1.18-MNI152_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_sf_pm-v6.4>`_, `JBA_v2.2-Colin27_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_sf_pm-v6.4>`_, `JBA_v2.2-MNI152_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_sf_pm-v6.4>`_, `JBA_v2.4-Colin27_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_sf_pm-v6.4>`_, `JBA_v2.4-MNI152_SF_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_sf_pm-v6.4>`_, `JBA_v2.5-Colin27_SF_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_sf_pm-v8.0>`_, `JBA_v2.5-MNI152_SF_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_sf_pm-v8.0>`_, `JBA_v2.6-MNI152_SF_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_sf_pm-v8.0>`_, `JBA_v2.9-BigBrain_SF_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_sf_pm-v8.0>`_, `JBA_v2.9-Colin27_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_sf_pm-v8.2>`_, `JBA_v2.9-MNI152_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_sf_pm-v8.2>`_, `JBA_v2.9-fsaverage_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_sf_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_sf_pm-v8.2>`_, `JBA_v3.0.2-Colin27_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_sf_pm-v8.2>`_, `JBA_v3.0.2-MNI152_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_sf_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_SF_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_sf_pm-v8.2>`_
+   :lookupLabel: JBA_SF
+   :name: SF (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_STN
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_STN
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_subthalamus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_subthalamus>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_STN_PM-v4.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_stn_pm-v4.3>`_, `JBA_v3.0.2-Colin27_STN_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_stn_pm-v5.0>`_, `JBA_v3.0.2-MNI152_STN_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_stn_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_STN_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_stn_pm-v5.0>`_
+   :lookupLabel: JBA_STN
+   :name: STN (Subthalamus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Subiculum.PaS
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PaS
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_subiculum>`_
+   :hasVersion: `JBA_v2.5-Colin27_Subiculum.PaS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_subiculum.pas_pm-v13.0>`_, `JBA_v2.5-MNI152_Subiculum.PaS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_subiculum.pas_pm-v13.0>`_, `JBA_v2.6-MNI152_Subiculum.PaS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_subiculum.pas_pm-v13.0>`_, `JBA_v2.9-BigBrain_Subiculum.PaS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_subiculum.pas_pm-v13.0>`_, `JBA_v2.9-Colin27_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_subiculum.pas_pm-v13.2>`_, `JBA_v2.9-MNI152_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_subiculum.pas_pm-v13.2>`_, `JBA_v2.9-fsaverage_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_subiculum.pas_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_subiculum.pas_pm-v13.2>`_, `JBA_v3.0.2-Colin27_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_subiculum.pas_pm-v13.2>`_, `JBA_v3.0.2-MNI152_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_subiculum.pas_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_Subiculum.PaS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_subiculum.pas_pm-v13.2>`_
+   :lookupLabel: JBA_Subiculum.PaS
+   :name: Subiculum.PaS (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Subiculum.PreS
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PreS
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_subiculum>`_
+   :hasVersion: `JBA_v2.5-Colin27_Subiculum.PreS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_subiculum.pres_pm-v13.0>`_, `JBA_v2.5-MNI152_Subiculum.PreS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_subiculum.pres_pm-v13.0>`_, `JBA_v2.6-MNI152_Subiculum.PreS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_subiculum.pres_pm-v13.0>`_, `JBA_v2.9-BigBrain_Subiculum.PreS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_subiculum.pres_pm-v13.0>`_, `JBA_v2.9-Colin27_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_subiculum.pres_pm-v13.2>`_, `JBA_v2.9-MNI152_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_subiculum.pres_pm-v13.2>`_, `JBA_v2.9-fsaverage_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_subiculum.pres_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_subiculum.pres_pm-v13.2>`_, `JBA_v3.0.2-Colin27_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_subiculum.pres_pm-v13.2>`_, `JBA_v3.0.2-MNI152_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_subiculum.pres_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_Subiculum.PreS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_subiculum.pres_pm-v13.2>`_
+   :lookupLabel: JBA_Subiculum.PreS
+   :name: Subiculum.PreS (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Subiculum.ProS
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.ProS
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_subiculum>`_
+   :hasVersion: `JBA_v2.5-Colin27_Subiculum.ProS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_subiculum.pros_pm-v13.0>`_, `JBA_v2.5-MNI152_Subiculum.ProS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_subiculum.pros_pm-v13.0>`_, `JBA_v2.6-MNI152_Subiculum.ProS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_subiculum.pros_pm-v13.0>`_, `JBA_v2.9-BigBrain_Subiculum.ProS_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_subiculum.pros_pm-v13.0>`_, `JBA_v2.9-Colin27_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_subiculum.pros_pm-v13.2>`_, `JBA_v2.9-MNI152_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_subiculum.pros_pm-v13.2>`_, `JBA_v2.9-fsaverage_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_subiculum.pros_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_subiculum.pros_pm-v13.2>`_, `JBA_v3.0.2-Colin27_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_subiculum.pros_pm-v13.2>`_, `JBA_v3.0.2-MNI152_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_subiculum.pros_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_Subiculum.ProS_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_subiculum.pros_pm-v13.2>`_
+   :lookupLabel: JBA_Subiculum.ProS
+   :name: Subiculum.ProS (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Subiculum.Sub
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.Sub
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_subiculum>`_
+   :hasVersion: `JBA_v2.5-Colin27_Subiculum.Sub_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_subiculum.sub_pm-v13.0>`_, `JBA_v2.5-MNI152_Subiculum.Sub_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_subiculum.sub_pm-v13.0>`_, `JBA_v2.6-MNI152_Subiculum.Sub_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_subiculum.sub_pm-v13.0>`_, `JBA_v2.9-BigBrain_Subiculum.Sub_PM-v13.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_subiculum.sub_pm-v13.0>`_, `JBA_v2.9-Colin27_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_subiculum.sub_pm-v13.2>`_, `JBA_v2.9-MNI152_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_subiculum.sub_pm-v13.2>`_, `JBA_v2.9-fsaverage_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_subiculum.sub_pm-v13.2>`_, `JBA_v3.0.2-BigBrain_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_subiculum.sub_pm-v13.2>`_, `JBA_v3.0.2-Colin27_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_subiculum.sub_pm-v13.2>`_, `JBA_v3.0.2-MNI152_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_subiculum.sub_pm-v13.2>`_, `JBA_v3.0.2-fsaverage_Subiculum.Sub_PM-v13.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_subiculum.sub_pm-v13.2>`_
+   :lookupLabel: JBA_Subiculum.Sub
+   :name: Subiculum.Sub (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Subiculum
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_hippocampalformation>`_
+   :hasVersion: `JBA_v1.13-Colin27_Subiculum_PM-v11b.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_subiculum_pm-v11b.0>`_, `JBA_v1.18-Colin27_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_subiculum_pm-v11.1>`_, `JBA_v1.18-MNI152_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_subiculum_pm-v11.1>`_, `JBA_v2.2-Colin27_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_subiculum_pm-v11.1>`_, `JBA_v2.2-MNI152_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_subiculum_pm-v11.1>`_, `JBA_v2.4-Colin27_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_subiculum_pm-v11.1>`_, `JBA_v2.4-MNI152_Subiculum_PM-v11.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_subiculum_pm-v11.1>`_
+   :lookupLabel: JBA_Subiculum
+   :name: Subiculum (Hippocampus)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Temporal-to-Parietal
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Temporal-to-Parietal
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :hasVersion: `JBA_v2.2-Colin27_Temporal-to-Parietal_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_temporal-to-parietal_pm-v9.0>`_, `JBA_v2.2-MNI152_Temporal-to-Parietal_PM-v9.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_temporal-to-parietal_pm-v9.0>`_, `JBA_v2.4-Colin27_Temporal-to-Parietal_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_temporal-to-parietal_pm-v9.2>`_, `JBA_v2.4-MNI152_Temporal-to-Parietal_PM-v9.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_temporal-to-parietal_pm-v9.2>`_, `JBA_v2.5-Colin27_Temporal-to-Parietal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_temporal-to-parietal_pm-v10.0>`_, `JBA_v2.5-MNI152_Temporal-to-Parietal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_temporal-to-parietal_pm-v10.0>`_, `JBA_v2.6-MNI152_Temporal-to-Parietal_PM-v10.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_temporal-to-parietal_pm-v10.0>`_, `JBA_v2.9-Colin27_Temporal-to-Parietal_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_temporal-to-parietal_pm-v11.3>`_, `JBA_v2.9-MNI152_Temporal-to-Parietal_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_temporal-to-parietal_pm-v11.3>`_, `JBA_v2.9-fsaverage_Temporal-to-Parietal_PM-v11.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_temporal-to-parietal_pm-v11.3>`_, `JBA_v3.0.2-Colin27_Temporal-to-Parietal_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_temporal-to-parietal_pm-v11.4>`_, `JBA_v3.0.2-MNI152_Temporal-to-Parietal_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_temporal-to-parietal_pm-v11.4>`_, `JBA_v3.0.2-fsaverage_Temporal-to-Parietal_PM-v11.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_temporal-to-parietal_pm-v11.4>`_
+   :lookupLabel: JBA_Temporal-to-Parietal
+   :name: Temporal-to-Parietal (GapMap)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Terminal-islands
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Terminal-islands
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_olfactoryCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_olfactorycortex>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_Terminal-islands_PM-v4.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_terminal-islands_pm-v4.2>`_, `JBA_v3.0.2-Colin27_Terminal-islands_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_terminal-islands_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Terminal-islands_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_terminal-islands_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Terminal-islands_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_terminal-islands_pm-v4.0>`_
+   :lookupLabel: JBA_Terminal-islands
+   :name: Terminal islands (Basal Forebrain)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Tuberculum
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Tuberculum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_olfactoryCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_olfactorycortex>`_
+   :hasVersion: `JBA_v3.0.2-Colin27_Tuberculum_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_tuberculum_pm-v4.0>`_, `JBA_v3.0.2-MNI152_Tuberculum_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_tuberculum_pm-v4.0>`_, `JBA_v3.0.2-fsaverage_Tuberculum_PM-v4.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_tuberculum_pm-v4.0>`_
+   :lookupLabel: JBA_Tuberculum
+   :name: Tuberculum (Basal Forebrain)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_VP
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VP
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_basalGanglia <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_basalganglia>`_
+   :hasVersion: `JBA_v3.0.2-BigBrain_VP_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_vp_pm-v6.1>`_, `JBA_v3.0.2-Colin27_VP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_vp_pm-v5.0>`_, `JBA_v3.0.2-MNI152_VP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_vp_pm-v5.0>`_, `JBA_v3.0.2-fsaverage_VP_PM-v5.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_vp_pm-v5.0>`_
+   :lookupLabel: JBA_VP
+   :name: VP (Ventral Pallidum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_VTM
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VTM
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_fibermasses>`_
+   :hasVersion: `JBA_v1.13-Colin27_VTM_PM-v6.1 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_vtm_pm-v6.1>`_, `JBA_v1.18-Colin27_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_vtm_pm-v6.4>`_, `JBA_v1.18-MNI152_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_vtm_pm-v6.4>`_, `JBA_v2.2-Colin27_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_vtm_pm-v6.4>`_, `JBA_v2.2-MNI152_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_vtm_pm-v6.4>`_, `JBA_v2.4-Colin27_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_vtm_pm-v6.4>`_, `JBA_v2.4-MNI152_VTM_PM-v6.4 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_vtm_pm-v6.4>`_, `JBA_v2.5-Colin27_VTM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_vtm_pm-v8.0>`_, `JBA_v2.5-MNI152_VTM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_vtm_pm-v8.0>`_, `JBA_v2.6-MNI152_VTM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_vtm_pm-v8.0>`_, `JBA_v2.9-BigBrain_VTM_PM-v8.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_vtm_pm-v8.0>`_, `JBA_v2.9-Colin27_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_vtm_pm-v8.2>`_, `JBA_v2.9-MNI152_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_vtm_pm-v8.2>`_, `JBA_v2.9-fsaverage_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_vtm_pm-v8.2>`_, `JBA_v3.0.2-BigBrain_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_vtm_pm-v8.2>`_, `JBA_v3.0.2-Colin27_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_vtm_pm-v8.2>`_, `JBA_v3.0.2-MNI152_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_vtm_pm-v8.2>`_, `JBA_v3.0.2-fsaverage_VTM_PM-v8.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_vtm_pm-v8.2>`_
+   :lookupLabel: JBA_VTM
+   :name: VTM (Amygdala)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_Ventral-Dentate-Nucleus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ventral-Dentate-Nucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_dentatenucleus>`_
+   :hasVersion: `JBA_v1.13-Colin27_Ventral-Dentate-Nucleus_PM-v6.0 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.13-colin27.html#jba_v1.13-colin27_ventral-dentate-nucleus_pm-v6.0>`_, `JBA_v1.18-Colin27_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-colin27.html#jba_v1.18-colin27_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v1.18-MNI152_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v1.18-mni152.html#jba_v1.18-mni152_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.2-Colin27_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-colin27.html#jba_v2.2-colin27_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.2-MNI152_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.2-mni152.html#jba_v2.2-mni152_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.4-Colin27_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-colin27.html#jba_v2.4-colin27_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.4-MNI152_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.4-mni152.html#jba_v2.4-mni152_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.5-Colin27_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-colin27.html#jba_v2.5-colin27_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.5-MNI152_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.5-mni152.html#jba_v2.5-mni152_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.6-MNI152_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.6-mni152.html#jba_v2.6-mni152_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.9-BigBrain_Ventral-Dentate-Nucleus_PM-v6.2 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-bigbrain.html#jba_v2.9-bigbrain_ventral-dentate-nucleus_pm-v6.2>`_, `JBA_v2.9-Colin27_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-colin27.html#jba_v2.9-colin27_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v2.9-MNI152_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-mni152.html#jba_v2.9-mni152_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v2.9-fsaverage_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v2.9-fsaverage.html#jba_v2.9-fsaverage_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-BigBrain_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-bigbrain.html#jba_v3.0.2-bigbrain_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-Colin27_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-colin27.html#jba_v3.0.2-colin27_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-MNI152_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-mni152.html#jba_v3.0.2-mni152_ventral-dentate-nucleus_pm-v6.3>`_, `JBA_v3.0.2-fsaverage_Ventral-Dentate-Nucleus_PM-v6.3 <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/jba_v3.0.2-fsaverage.html#jba_v3.0.2-fsaverage_ventral-dentate-nucleus_pm-v6.3>`_
+   :lookupLabel: JBA_Ventral-Dentate-Nucleus
+   :name: Ventral Dentate Nucleus (Cerebellum)
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_agranularInsula
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_agranularInsula
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_insula>`_
+   :lookupLabel: JBA_agranularInsula
+   :name: agranular insula
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_amygdala
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdala
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralnuclei>`_
+   :lookupLabel: JBA_amygdala
+   :name: amygdala
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_amygdaloidGroups
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdaloidGroups
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_amygdala <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_amygdala>`_
+   :lookupLabel: JBA_amygdaloidGroups
+   :name: amygdaloid groups
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_basalForebrain
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalForebrain
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralnuclei>`_
+   :lookupLabel: JBA_basalForebrain
+   :name: basal forebrain
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_basalGanglia
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalGanglia
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralnuclei>`_
+   :lookupLabel: JBA_basalGanglia
+   :name: basal ganglia
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_brain
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_brain
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :lookupLabel: JBA_brain
+   :name: brain
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_cerebellarNuclei
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellarNuclei
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebellum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebellum>`_
+   :lookupLabel: JBA_cerebellarNuclei
+   :name: cerebellar nuclei
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_cerebellum
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_metencephalon <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_metencephalon>`_
+   :lookupLabel: JBA_cerebellum
+   :name: cerebellum
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_cerebralCortex
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_telencephalon <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_telencephalon>`_
+   :lookupLabel: JBA_cerebralCortex
+   :name: cerebral cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_cerebralNuclei
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralNuclei
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_telencephalon <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_telencephalon>`_
+   :lookupLabel: JBA_cerebralNuclei
+   :name: cerebral nuclei
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_cingulateGyrus
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cingulateGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_limbiclobe>`_
+   :lookupLabel: JBA_cingulateGyrus
+   :name: cingulate gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_collateralSulcus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_collateralSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_collateralSulcus
+   :name: collateral sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_dentateNucleus
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dentateNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebellarnuclei>`_
+   :lookupLabel: JBA_dentateNucleus
+   :name: dentate nucleus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_diencephalon
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_diencephalon
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_brain>`_
+   :lookupLabel: JBA_diencephalon
+   :name: diencephalon
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_dorsalOccipitalCortex
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalOccipitalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitallobe>`_
+   :lookupLabel: JBA_dorsalOccipitalCortex
+   :name: dorsal occipital cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_dorsalPrecentralGyrus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalPrecentralGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_dorsalPrecentralGyrus
+   :name: dorsal precentral gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_dysgranularInsula
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dysgranularInsula
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_insula>`_
+   :lookupLabel: JBA_dysgranularInsula
+   :name: dysgranular insula
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_fiberMasses
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fiberMasses
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_amygdala <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_amygdala>`_
+   :lookupLabel: JBA_fiberMasses
+   :name: fiber masses
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_frontalCingulateGyrus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalCingulateGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cingulategyrus>`_
+   :lookupLabel: JBA_frontalCingulateGyrus
+   :name: frontal cingulate
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_frontalLobe
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :lookupLabel: JBA_frontalLobe
+   :name: frontal lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_frontalOperculum
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalOperculum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_frontalOperculum
+   :name: frontal operculum
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_frontalPole
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalPole
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_frontalPole
+   :name: frontal pole
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_fronto-marginalSulcus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fronto-marginalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_fronto-marginalSulcus
+   :name: fronto-marginal sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_fusiformGyrus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fusiformGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_fusiformGyrus
+   :name: fusiform gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_granularInsula
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_granularInsula
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_insula>`_
+   :lookupLabel: JBA_granularInsula
+   :name: granular insula
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_hippocampalFormation
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_hippocampalFormation
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_limbiclobe>`_
+   :lookupLabel: JBA_hippocampalFormation
+   :name: hippocampal formation
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_inferiorFrontalGyrus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_inferiorFrontalGyrus
+   :name: inferior frontal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_inferiorFrontalSulcus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_inferiorFrontalSulcus
+   :name: inferior frontal sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_inferiorParietalLobule
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorParietalLobule
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_inferiorParietalLobule
+   :name: inferior parietal lobule
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_insula
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_insula
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :lookupLabel: JBA_insula
+   :name: insula
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_intraparietalSulcus
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_intraparietalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_intraparietalSulcus
+   :name: intraparietal sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_lateralOccipitalCortex
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOccipitalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitallobe>`_
+   :lookupLabel: JBA_lateralOccipitalCortex
+   :name: lateral occipital cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_lateralOrbitofrontalCortex
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_lateralOrbitofrontalCortex
+   :name: lateral orbitofrontal cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_limbicLobe
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_limbicLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :lookupLabel: JBA_limbicLobe
+   :name: limbic lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_magnocellularGroup
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_magnocellularGroup
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_basalforebrain>`_
+   :lookupLabel: JBA_magnocellularGroup
+   :name: magnocellular group
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_medialOrbitofrontalCortex
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_medialOrbitofrontalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_medialOrbitofrontalCortex
+   :name: medial orbitofrontal cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_mesialPrecentralGyrus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_mesialPrecentralGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_mesialPrecentralGyrus
+   :name: mesial precentral gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_metathalamus
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metathalamus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_thalamus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_thalamus>`_
+   :lookupLabel: JBA_metathalamus
+   :name: metathalamus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_metencephalon
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metencephalon
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_brain>`_
+   :lookupLabel: JBA_metencephalon
+   :name: metencephalon
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_middleFrontalGyrus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_middleFrontalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_middleFrontalGyrus
+   :name: middle frontal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_occipitalCortex
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitallobe>`_
+   :lookupLabel: JBA_occipitalCortex
+   :name: occipital cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_occipitalLobe
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :lookupLabel: JBA_occipitalLobe
+   :name: occipital lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_olfactoryCortex
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_olfactoryCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_limbiclobe>`_
+   :lookupLabel: JBA_olfactoryCortex
+   :name: olfactory cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_parahippocampalGyrus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parahippocampalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_parahippocampalGyrus
+   :name: parahippocampal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_parietalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cerebralcortex>`_
+   :lookupLabel: JBA_parietalLobe
+   :name: parietal lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_parietalOperculum
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalOperculum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_parietalOperculum
+   :name: parietal operculum
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_parieto-occipitalSulcus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parieto-occipitalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_parieto-occipitalSulcus
+   :name: parieto-occipital sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_postcentralGyrus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_postcentralGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_postcentralGyrus
+   :name: postcentral gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_posteriorMedialSuperiorFrontalGyrus
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_posteriorMedialSuperiorFrontalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_posteriorMedialSuperiorFrontalGyrus
+   :name: posterior medial superior frontal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_precentralGyrus
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_precentralGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_precentralGyrus
+   :name: precentral gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_retrosplenialPart
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_retrosplenialPart
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_cingulategyrus>`_
+   :lookupLabel: JBA_retrosplenialPart
+   :name: retrosplenial part
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_sublenticularPart
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_sublenticularPart
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_basalforebrain>`_
+   :lookupLabel: JBA_sublenticularPart
+   :name: sublenticular part
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_subthalamus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_subthalamus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_diencephalon <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_diencephalon>`_
+   :lookupLabel: JBA_subthalamus
+   :name: subthalamus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_superiorFrontalGyrus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_superiorFrontalGyrus
+   :name: superior frontal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_superiorFrontalSulcus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_frontallobe>`_
+   :lookupLabel: JBA_superiorFrontalSulcus
+   :name: superior frontal sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_superiorParietalLobule
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorParietalLobule
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_parietallobe>`_
+   :lookupLabel: JBA_superiorParietalLobule
+   :name: superior parietal lobule
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_superiorTemporalGyrus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalGyrus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_superiorTemporalGyrus
+   :name: superior temporal gyrus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_superiorTemporalSulcus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalSulcus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_superiorTemporalSulcus
+   :name: superior temporal sulcus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_telencephalon
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_telencephalon
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_brain>`_
+   :lookupLabel: JBA_telencephalon
+   :name: telencephalon
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_temporalInsula
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporalInsula
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_temporalInsula
+   :name: temporal insula
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_temporo-parietalJunction
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporo-parietalJunction
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_temporallobe>`_
+   :lookupLabel: JBA_temporo-parietalJunction
+   :name: temporo-parietal junction
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_thalamus
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_thalamus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_diencephalon <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_diencephalon>`_
+   :lookupLabel: JBA_thalamus
+   :name: thalamus
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_ventralOccipitalCortex
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralOccipitalCortex
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_occipitallobe>`_
+   :lookupLabel: JBA_ventralOccipitalCortex
+   :name: ventral occipital cortex
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
+JBA_ventralStriatum
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralStriatum
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_basalGanglia <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/jba.html#jba_basalganglia>`_
+   :lookupLabel: JBA_ventralStriatum
+   :name: ventral striatum
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
