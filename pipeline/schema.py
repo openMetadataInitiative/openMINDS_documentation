@@ -7,28 +7,31 @@ from rstcloth import RstCloth
 
 class SchemaDocBuilder(object):
 
-    def __init__(self, schema_file_path:str, root_path:str, relative_path_by_schema:Dict):
-        _relative_path_without_extension = schema_file_path[len(root_path)+1:].replace(".schema.omi.json", "").split("/")
-        self.version = _relative_path_without_extension[0]
-        self.relative_path_without_extension = _relative_path_without_extension[1:]
-        self.relative_path_by_schema = relative_path_by_schema
-        self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
+    def __init__(self, schema_file_path:str, schema_name:str, version:str, relative_paths_for_schema_docu:Dict, instancelib_docu_path_for_schema:Optional[str]):
+        # load schema payload
         with open(schema_file_path, "r") as schema_f:
             self._schema_payload = json.load(schema_f)
+        # set version, name, and paths
+        self.version = version
+        self.schema_name = schema_name
+        self.schema_relative_path = relative_paths_for_schema_docu[schema_name]
+        self.relative_paths_for_schema_docu = relative_paths_for_schema_docu
+        self.instancelib_docu_path_for_schema = instancelib_docu_path_for_schema
+        self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
 
     def _target_file_without_extension(self) -> str:
-        return os.path.join(self.version, "docs", "schema_specifications", "/".join(self.relative_path_without_extension))
+        return os.path.join(self.version, "docs", "schema_specifications", self.schema_relative_path)
 
     def build(self):
         target_file = os.path.join("target", f"{self._target_file_without_extension()}.rst")
         os.makedirs(os.path.dirname(target_file), exist_ok=True)
         with open(target_file, "w") as output_file:
             doc = RstCloth(output_file, line_width=100000)
-            schema_name = self._schema_payload["name"]
-            schema_name_camelCase = "".join([schema_name[0].lower(), schema_name[1:]])
-            doc.heading(schema_name, char="#", overline=True)
+            doc.heading(self.schema_name, char="#", overline=True)
             doc.newline()
             doc.field(name="Semantic name", value=self._schema_payload["_type"])
+            doc.newline()
+            doc.field(name="Display as", value=self._schema_payload["label"])
             doc.newline()
             if "description" in self._schema_payload and self._schema_payload["description"]:
                 doc.content(self._schema_payload["description"])
@@ -38,15 +41,9 @@ class SchemaDocBuilder(object):
                 doc.field(name="Semantic equivalents", value=semantic_equivalent)
                 doc.newline()
             doc.newline()
-            if "controlledTerms" in self._schema_payload["_type"]:
-                library_subdir = f"terminologies/{schema_name_camelCase}.html"
-                library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", library_subdir)
-                doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
-                doc.newline()
-            if schema_name in ["License", "ContentType"]:
-                library_subdir = f"{schema_name_camelCase}s.html"
-                library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", library_subdir)
-                doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}>`_.")
+            if self.instancelib_docu_path_for_schema:
+                library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", self.instancelib_docu_path_for_schema)
+                doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}.html>`_.")
                 doc.newline()
             doc.content("------------")
             doc.newline()
@@ -85,7 +82,7 @@ class SchemaDocBuilder(object):
                         doc.content(value_specs[1], indent=multiline_indent)
                     doc.field(name="instructions", value=p_info["_instruction"], indent=field_list_indent)
                     doc.newline()
-                    doc.content(f"`BACK TO TOP <{schema_name}_>`_")
+                    doc.content(f"`BACK TO TOP <{self.schema_name}_>`_")
                     doc.newline()
                     doc.content("------------")
                     doc.newline()
@@ -143,8 +140,8 @@ class SchemaDocBuilder(object):
             object_name_list = []
             for object in object_list:
                 object_name = object.split('/')[-1]
-                if object_name in self.relative_path_by_schema:
-                    object_html_path = f"{self.readthedocs_url}{self.version}/schema_specifications/{self.relative_path_by_schema[object_name]}.html"
+                if object_name in self.relative_paths_for_schema_docu:
+                    object_html_path = f"{self.readthedocs_url}{self.version}/schema_specifications/{self.relative_paths_for_schema_docu[object_name]}.html"
                     object_name_list.append(f"`{object_name} <{object_html_path}>`_")
                 else:
                     object_name_list.append(f"{object_name} \[TYPE_ERROR\]")
