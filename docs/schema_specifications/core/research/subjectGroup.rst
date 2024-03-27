@@ -4,6 +4,8 @@ SubjectGroup
 
 :Semantic name: https://openminds.ebrains.eu/core/SubjectGroup
 
+:Display as: Subject group
+
 
 ------------
 

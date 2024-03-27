@@ -4,6 +4,8 @@ Annotation
 
 :Semantic name: https://openminds.ebrains.eu/sands/Annotation
 
+:Display as: Annotation
+
 Structured information on an image annotation.
 
 

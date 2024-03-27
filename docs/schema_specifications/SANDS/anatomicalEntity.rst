@@ -4,6 +4,8 @@ AnatomicalEntity
 
 :Semantic name: https://openminds.ebrains.eu/sands/AnatomicalEntity
 
+:Display as: Anatomical entity
+
 Structured information on an anatomical entity.
 
 

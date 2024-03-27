@@ -4,6 +4,8 @@ QuantitativeValue
 
 :Semantic name: https://openminds.ebrains.eu/core/QuantitativeValue
 
+:Display as: Quantitative value
+
 Structured information on a quantitative value.
 
 

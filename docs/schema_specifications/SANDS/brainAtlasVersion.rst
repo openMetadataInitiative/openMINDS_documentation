@@ -4,6 +4,8 @@ BrainAtlasVersion
 
 :Semantic name: https://openminds.ebrains.eu/sands/BrainAtlasVersion
 
+:Display as: Brain atlas version
+
 Structured information on a brain atlas (version level).
 
 

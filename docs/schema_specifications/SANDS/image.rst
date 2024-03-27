@@ -4,6 +4,8 @@ Image
 
 :Semantic name: https://openminds.ebrains.eu/sands/Image
 
+:Display as: Image
+
 Structured information on an image.
 
 

@@ -4,6 +4,8 @@ ParameterSetting
 
 :Semantic name: https://openminds.ebrains.eu/core/ParameterSetting
 
+:Display as: Parameter setting
+
 Structured information on a used parameter setting.
 
 

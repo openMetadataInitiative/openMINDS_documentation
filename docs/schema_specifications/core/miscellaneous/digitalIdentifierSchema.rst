@@ -4,6 +4,8 @@ DigitalIdentifierSchema
 
 :Semantic name: https://openminds.ebrains.eu/core/DigitalIdentifierSchema
 
+:Display as: Digital identifier schema
+
 Structured information on a digital identifier schema.
 
 

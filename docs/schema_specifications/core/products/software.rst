@@ -4,6 +4,8 @@ Software
 
 :Semantic name: https://openminds.ebrains.eu/core/Software
 
+:Display as: Software
+
 Structured information on a software tool (concept level).
 
 

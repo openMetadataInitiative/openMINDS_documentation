@@ -4,6 +4,8 @@ DigitalIdentifier
 
 :Semantic name: https://openminds.ebrains.eu/core/DigitalIdentifier
 
+:Display as: Digital identifier
+
 Structured information on a digital identifier.
 
 

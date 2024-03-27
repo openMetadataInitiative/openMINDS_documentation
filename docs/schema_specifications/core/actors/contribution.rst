@@ -4,6 +4,8 @@ Contribution
 
 :Semantic name: https://openminds.ebrains.eu/core/Contribution
 
+:Display as: Contribution
+
 Structured information on the contribution made to a research product.
 
 

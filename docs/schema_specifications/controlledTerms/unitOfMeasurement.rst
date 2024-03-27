@@ -4,10 +4,10 @@ UnitOfMeasurement
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
 
+:Display as: Unit of measurement
+
 Structured information on the unit of measurement.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/unitOfMeasurement.html>`_.
 
 ------------
 

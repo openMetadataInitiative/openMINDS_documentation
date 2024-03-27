@@ -1,11 +1,11 @@
 ####################
-productAccessibility
+ProductAccessibility
 ####################
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/productAccessibility
 
+:Display as: Product accessibility
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/productAccessibility.html>`_.
 
 ------------
 
@@ -34,7 +34,7 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
                 | formatting: text/markdown; multiline
    :instructions: Enter one sentence for defining this term.
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
@@ -53,7 +53,7 @@ Longer statement or account giving the characteristics of someone or something.
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this term.
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
@@ -72,7 +72,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
                 | formatting: text/plain; singleline
    :instructions: Controlled term originating from a defined terminology.
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 
@@ -91,7 +91,7 @@ Term or code used to identify something or someone registered within a particula
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the related ontological term.
 
-`BACK TO TOP <productAccessibility_>`_
+`BACK TO TOP <ProductAccessibility_>`_
 
 ------------
 

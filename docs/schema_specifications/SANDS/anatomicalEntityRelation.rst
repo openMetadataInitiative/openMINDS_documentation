@@ -4,6 +4,8 @@ AnatomicalEntityRelation
 
 :Semantic name: https://openminds.ebrains.eu/sands/AnatomicalEntityRelation
 
+:Display as: Anatomical entity relation
+
 Structured information on the relation between one anatomical entity and another.
 
 

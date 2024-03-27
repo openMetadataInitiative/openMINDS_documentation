@@ -4,6 +4,8 @@ FileBundle
 
 :Semantic name: https://openminds.ebrains.eu/core/FileBundle
 
+:Display as: File bundle
+
 Structured information on a bundle of file instances.
 
 

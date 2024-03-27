@@ -4,6 +4,8 @@ FileInstance
 
 :Semantic name: https://openminds.ebrains.eu/core/FileInstance
 
+:Display as: File instance
+
 Structured information on a file instances.
 
 

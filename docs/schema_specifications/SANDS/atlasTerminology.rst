@@ -4,6 +4,8 @@ AtlasTerminology
 
 :Semantic name: https://openminds.ebrains.eu/sands/AtlasTerminology
 
+:Display as: Atlas terminology
+
 
 ------------
 

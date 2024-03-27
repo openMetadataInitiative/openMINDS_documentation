@@ -4,10 +4,10 @@ DatasetType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/DatasetType
 
+:Display as: Dataset type
+
 Structured information on the provided data type.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/datasetType.html>`_.
 
 ------------
 

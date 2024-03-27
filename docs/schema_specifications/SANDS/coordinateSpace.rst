@@ -4,6 +4,8 @@ CoordinateSpace
 
 :Semantic name: https://openminds.ebrains.eu/sands/CoordinateSpace
 
+:Display as: Coordinate space
+
 Structured information on a coordinate space.
 
 

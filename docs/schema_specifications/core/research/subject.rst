@@ -4,6 +4,8 @@ Subject
 
 :Semantic name: https://openminds.ebrains.eu/core/Subject
 
+:Display as: Subject
+
 Structured information on a subject.
 
 

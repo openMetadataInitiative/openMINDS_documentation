@@ -4,8 +4,8 @@ DiseaseModel
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/DiseaseModel
 
+:Display as: Disease model
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/diseaseModel.html>`_.
 
 ------------
 

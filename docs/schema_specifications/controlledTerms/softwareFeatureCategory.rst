@@ -4,10 +4,10 @@ SoftwareFeatureCategory
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory
 
+:Display as: Software feature category
+
 Structured information on the category of the software feature.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v1.0/instance_libraries/terminologies/softwareFeatureCategory.html>`_.
 
 ------------
 

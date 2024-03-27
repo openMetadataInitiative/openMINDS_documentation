@@ -4,6 +4,8 @@ TissueSampleState
 
 :Semantic name: https://openminds.ebrains.eu/core/TissueSampleState
 
+:Display as: Tissue sample state
+
 Structured information on a temporary state of a tissue sample.
 
 

@@ -4,6 +4,8 @@ ElectrodeArray
 
 :Semantic name: https://openminds.ebrains.eu/sands/ElectrodeArray
 
+:Display as: Electrode array
+
 Structured information on an electrode array.
 
 

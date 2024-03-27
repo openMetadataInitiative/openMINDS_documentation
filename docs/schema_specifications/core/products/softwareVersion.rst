@@ -4,6 +4,8 @@ SoftwareVersion
 
 :Semantic name: https://openminds.ebrains.eu/core/SoftwareVersion
 
+:Display as: Software version
+
 
 ------------
 

@@ -4,6 +4,8 @@ CoordinatePoint
 
 :Semantic name: https://openminds.ebrains.eu/sands/CoordinatePoint
 
+:Display as: Coordinate point
+
 Structured information on a coordinate point.
 
 
