@@ -4,6 +4,8 @@ ParcellationEntity
 
 :Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntity
 
+:Display as: Parcellation entity
+
 
 ------------
 

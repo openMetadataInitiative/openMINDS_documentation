@@ -4,6 +4,8 @@ Person
 
 :Semantic name: https://openminds.ebrains.eu/core/Person
 
+:Display as: Person
+
 Structured information on a person.
 
 :Semantic equivalents: https://schema.org/Person

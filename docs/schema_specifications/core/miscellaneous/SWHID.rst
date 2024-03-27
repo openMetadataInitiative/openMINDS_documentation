@@ -4,6 +4,8 @@ SWHID
 
 :Semantic name: https://openminds.ebrains.eu/core/SWHID
 
+:Display as: Swhid
+
 
 ------------
 

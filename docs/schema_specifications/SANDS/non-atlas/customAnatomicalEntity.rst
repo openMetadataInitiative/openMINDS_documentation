@@ -4,6 +4,8 @@ CustomAnatomicalEntity
 
 :Semantic name: https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
 
+:Display as: Custom anatomical entity
+
 
 ------------
 

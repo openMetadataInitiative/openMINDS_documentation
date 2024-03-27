@@ -4,6 +4,8 @@ Protocol
 
 :Semantic name: https://openminds.ebrains.eu/core/Protocol
 
+:Display as: Protocol
+
 Structured information on a research project.
 
 

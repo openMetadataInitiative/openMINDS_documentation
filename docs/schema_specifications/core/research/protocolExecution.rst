@@ -4,6 +4,8 @@ ProtocolExecution
 
 :Semantic name: https://openminds.ebrains.eu/core/ProtocolExecution
 
+:Display as: Protocol execution
+
 Structured information on a protocol execution.
 
 

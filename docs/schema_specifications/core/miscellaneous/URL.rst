@@ -4,6 +4,8 @@ URL
 
 :Semantic name: https://openminds.ebrains.eu/core/URL
 
+:Display as: Url
+
 
 ------------
 

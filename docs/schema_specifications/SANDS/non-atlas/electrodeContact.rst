@@ -4,6 +4,8 @@ ElectrodeContact
 
 :Semantic name: https://openminds.ebrains.eu/sands/ElectrodeContact
 
+:Display as: Electrode contact
+
 Structured information on an electrode contact.
 
 

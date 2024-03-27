@@ -4,10 +4,10 @@ FileBundleGrouping
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping
 
+:Display as: File bundle grouping
+
 Structured information on the grouping mechanism of a file bundle.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/fileBundleGrouping.html>`_.
 
 ------------
 

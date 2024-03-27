@@ -4,6 +4,8 @@ Electrode
 
 :Semantic name: https://openminds.ebrains.eu/sands/Electrode
 
+:Display as: Electrode
+
 Structured information on an electrode.
 
 

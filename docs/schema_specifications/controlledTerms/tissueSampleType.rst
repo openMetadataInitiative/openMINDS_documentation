@@ -4,10 +4,10 @@ TissueSampleType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/TissueSampleType
 
+:Display as: Tissue sample type
+
 Structured information on the general type of the tissue sample.
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/tissueSampleType.html>`_.
 
 ------------
 

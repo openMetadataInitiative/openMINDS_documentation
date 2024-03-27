@@ -4,6 +4,8 @@ ParameterSet
 
 :Semantic name: https://openminds.ebrains.eu/core/ParameterSet
 
+:Display as: Parameter set
+
 Structured information on a used parameter set.
 
 

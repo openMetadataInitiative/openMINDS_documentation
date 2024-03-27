@@ -4,8 +4,8 @@ PreparationType
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/PreparationType
 
+:Display as: Preparation type
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/preparationType.html>`_.
 
 ------------
 

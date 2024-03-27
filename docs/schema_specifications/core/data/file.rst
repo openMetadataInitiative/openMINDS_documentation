@@ -4,6 +4,8 @@ File
 
 :Semantic name: https://openminds.ebrains.eu/core/File
 
+:Display as: File
+
 Structured information on a file instance that is accessible via a URL.
 
 

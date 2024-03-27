@@ -4,6 +4,8 @@ NumericalParameter
 
 :Semantic name: https://openminds.ebrains.eu/core/NumericalParameter
 
+:Display as: Numerical parameter
+
 
 ------------
 

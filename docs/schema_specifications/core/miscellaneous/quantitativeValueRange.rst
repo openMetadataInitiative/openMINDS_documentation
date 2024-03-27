@@ -4,6 +4,8 @@ QuantitativeValueRange
 
 :Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueRange
 
+:Display as: Quantitative value range
+
 A representation of a range of quantitative values.
 
 

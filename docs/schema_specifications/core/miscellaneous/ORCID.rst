@@ -4,6 +4,8 @@ ORCID
 
 :Semantic name: https://openminds.ebrains.eu/core/ORCID
 
+:Display as: Orcid
+
 A persistent identifier for a researcher provided by Open Researcher and Contributor ID, Inc.
 
 

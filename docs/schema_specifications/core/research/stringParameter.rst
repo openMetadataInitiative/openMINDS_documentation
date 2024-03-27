@@ -4,6 +4,8 @@ StringParameter
 
 :Semantic name: https://openminds.ebrains.eu/core/StringParameter
 
+:Display as: String parameter
+
 
 ------------
 

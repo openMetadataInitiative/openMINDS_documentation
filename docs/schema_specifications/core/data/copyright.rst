@@ -4,6 +4,8 @@ Copyright
 
 :Semantic name: https://openminds.ebrains.eu/core/Copyright
 
+:Display as: Copyright
+
 Structured information on the copyright.
 
 

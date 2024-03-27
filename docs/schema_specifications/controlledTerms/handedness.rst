@@ -4,8 +4,8 @@ Handedness
 
 :Semantic name: https://openminds.ebrains.eu/controlledTerms/Handedness
 
+:Display as: Handedness
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v2.0/instance_libraries/terminologies/handedness.html>`_.
 
 ------------
 
