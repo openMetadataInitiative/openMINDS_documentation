@@ -10,7 +10,7 @@ openMINDS syntax
 The openMINDS metadata schemas are first developed as templates and then automatically interpreted and extended with the centrally maintained openMINDS vocabulary to complete metadata schemas through the openMINDS pipeline. Both schema templates (``*.schema.tpl.json``) and complete schemas (``*.schema.omi.json``) are written in an openMINDS-specific syntax. This syntax is loosely based on JSON-Schema, but tailored to facilitate implementation, readability, and maintainability. The openMINDS syntax for templates, vocabulary and complete schemas is explained in the following.
 
 **********
-Essentials 
+Essentials
 **********
 The following code block sketches the most simple implementation of an openMINDS schema template.
 
@@ -44,3 +44,26 @@ Development guidelines
 #. Within a schema, only properties that can be expected for all respected real-world entities should be made required.
 #. If properties of a real-world entity contains potentially sensitive information (e.g., personal data), these properties should be specified in a separate schema.
 #. Schema properties should be consistently reduced to a minimum, meaning the reuse of a property name across schemas is highly recommended, if the definition of that property name remains the same.
+
+Current schemas
+###############
+
+- core_
+- SANDS_
+- controlledTerms_
+- computation_
+- specimenPrep_
+- ephys_
+- stimulation_
+- publication_
+
+The central repository that pulls everything together is at https://github.com/openMetadataInitiative/openMINDS.
+
+.. _core: https://github.com/openMetadataInitiative/openMINDS_core
+.. _SANDS: https://github.com/openMetadataInitiative/openMINDS_SANDS
+.. _controlledTerms: https://github.com/openMetadataInitiative/openMINDS_controlledTerms
+.. _computation: https://github.com/openMetadataInitiative/openMINDS_computation
+.. _specimenPrep: https://github.com/openMetadataInitiative/openMINDS_specimenPrep
+.. _ephys: https://github.com/openMetadataInitiative/openMINDS_ephys
+.. _stimulation: https://github.com/openMetadataInitiative/openMINDS_stimulation
+.. _publication: https://github.com/openMetadataInitiative/openMINDS_publication
