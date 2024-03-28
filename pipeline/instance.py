@@ -51,7 +51,7 @@ class InstancesDocBuilder(object):
         # get instance identity and create instance heading
         instance_id = instanceReference["@id"]
         instance_type = instance_id.split("/")[4]
-        instance_heading = instance_id.split("/")[-1].casefold()
+        instance_heading = instance_id.split("/")[-1]
 
         # build type plurals
         instance_type_plural = self._build_plurals(instance_type)
@@ -71,7 +71,8 @@ class InstancesDocBuilder(object):
             page_heading = instance_type
 
         # create link and return RST hyperlink
-        link = os.path.join(link_dir, f"{page_heading}.html#{self._replace_multi(instance_heading, ['_', '.'], '-')}")
+        instance_heading = self._replace_multi(instance_heading, ['_', '.'], '-').casefold()
+        link = os.path.join(link_dir, f"{page_heading}.html#{instance_heading}")
         return f"`{instance_id.split('/')[-1]} <{link}>`_"
 
     def _build_multi_instance_links(self, instanceReferenceList:List) -> str:
