@@ -44,7 +44,7 @@ class InstancesDocBuilder(object):
 
     def _replace_multi(self, term:str, old:List[str], new:str) -> str:
         for letter in old:
-            term.replace(letter, new)
+            term = term.replace(letter, new)
         return term
 
     def _build_single_instance_link(self, instanceReference:Dict) -> str:
