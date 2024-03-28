@@ -42,6 +42,11 @@ class InstancesDocBuilder(object):
         else:
             return f"{term}s"
 
+    def _replace_multi(self, term:str, old:List[str], new:str) -> str:
+        for letter in old:
+            term.replace(letter, new)
+        return term
+
     def _build_single_instance_link(self, instanceReference:Dict) -> str:
         # get instance identity and create instance heading
         instance_id = instanceReference["@id"]
@@ -66,7 +71,7 @@ class InstancesDocBuilder(object):
             page_heading = instance_type
 
         # create link and return RST hyperlink
-        link = os.path.join(link_dir, f"{page_heading}.html#{instance_heading}")
+        link = os.path.join(link_dir, f"{page_heading}.html#{self._replace_multi(instance_heading, ['_', '.'], '-')}")
         return f"`{instance_id.split('/')[-1]} <{link}>`_"
 
     def _build_multi_instance_links(self, instanceReferenceList:List) -> str:
