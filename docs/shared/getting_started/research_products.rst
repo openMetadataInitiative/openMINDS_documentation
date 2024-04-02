@@ -14,7 +14,7 @@ A **research product** is composed of properties that are typically valid across
 A **research product version** can inherit or overwrite all version-independent properties. Additionally, it includes properties that are (usually) version-specific (e.g., studied specimen, used technique).
 
 .. note::
-   Although, inheritance and overwrite rules for version-independent properties are defined by openMINDS schemas, their enforcment has to be either performed manually or defined in an automated validation workflow. 
+   Although inheritance and overwrite rules for version-independent properties are defined by openMINDS schemas, their enforcment has to be either performed manually or defined in an automated validation workflow. 
 
 If a research product is composed of multiple versions, these versions can refer to each other as updates or alternatives:
 
