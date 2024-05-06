@@ -45,25 +45,7 @@ Development guidelines
 #. If properties of a real-world entity contains potentially sensitive information (e.g., personal data), these properties should be specified in a separate schema.
 #. Schema properties should be consistently reduced to a minimum, meaning the reuse of a property name across schemas is highly recommended, if the definition of that property name remains the same.
 
-Current schemas
-###############
+Schema contributions
+####################
 
-- core_
-- SANDS_
-- controlledTerms_
-- computation_
-- specimenPrep_
-- ephys_
-- stimulation_
-- publication_
-
-The central repository that pulls everything together is at https://github.com/openMetadataInitiative/openMINDS.
-
-.. _core: https://github.com/openMetadataInitiative/openMINDS_core
-.. _SANDS: https://github.com/openMetadataInitiative/openMINDS_SANDS
-.. _controlledTerms: https://github.com/openMetadataInitiative/openMINDS_controlledTerms
-.. _computation: https://github.com/openMetadataInitiative/openMINDS_computation
-.. _specimenPrep: https://github.com/openMetadataInitiative/openMINDS_specimenPrep
-.. _ephys: https://github.com/openMetadataInitiative/openMINDS_ephys
-.. _stimulation: https://github.com/openMetadataInitiative/openMINDS_stimulation
-.. _publication: https://github.com/openMetadataInitiative/openMINDS_publication
+For issues or contributions around the openMINDS metadata schemas, please raise first an issue on the `main openMINDS GitHub <https://github.com/openMetadataInitiative/openMINDS>`_.
