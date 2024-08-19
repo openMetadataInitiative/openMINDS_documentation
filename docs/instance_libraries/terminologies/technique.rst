@@ -8,6 +8,19 @@ Related schema specification: `Technique <https://openminds-documentation.readth
 
 ------------
 
+3DComputerGraphicModeling
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/3DComputerGraphicModeling
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: 3D computer graphic modeling
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 3DPolarizedLightImaging
 -----------------------
 
@@ -77,6 +90,37 @@ DAPiStaining
 
 ------------
 
+DNAMethylationAnalysis
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/DNAMethylationAnalysis
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A 'DNA methylation analysis' studies chromosomal patterns of DNA or histone modification by methyl groups ([modified from Nature.com](https://www.nature.com/subjects/methylation-analysis)).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0779582
+   :name: DNA methylation analysis
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+DNASequencing
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/DNASequencing
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0783031
+   :name: DNA sequencing
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0000626
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 GolgiStaining
 -------------
 
@@ -102,6 +146,19 @@ HEStaining
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: An 'H&E staining' combines the two histological stains hematoxylin and eosin which highlight a large portion of microscopic anatomy in a tissue. It is therefore the most widely used stain in medical and histopathological diagnosis.
    :name: H&E staining
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+HPCSimulation
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/HPCSimulation
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: HPC simulation
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -136,6 +193,36 @@ NisslStaining
 
 ------------
 
+RNASequencing
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/RNASequencing
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'RNA sequencing' refers to a group of techniques that are used to (directly or indirectly) determine the order of nucleotides (nucleic acid sequence) in RNA.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0782092
+   :name: RNA sequencing
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0001177
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+RamanSpectroscopy
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/RamanSpectroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A spectroscopic technique where scattered light is used to measure the vibrational energy modes of a sample. It relies upon inelastic scattering of photons (Raman scattering) and can provide both chemical and structural information.
+   :name: Raman spectroscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 SDSDigestedFreezeFractureReplicaLabeling
 ----------------------------------------
 
@@ -157,34 +244,6 @@ SWITCHImmunohistochemistry
    :@id: https://openminds.ebrains.eu/instances/technique/SWITCHImmunohistochemistry
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: SWITCH immunohistochemistry
-
-`BACK TO TOP <Terminologies: Technique library_>`_
-
-------------
-
-T1PulseSequence
----------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/technique/T1PulseSequence
-   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: In magnetic resonance imaging, a 'T1 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to recover (spin-lattice relaxation) before measuring the magnetic resonance signal by changing the repetition time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
-   :name: T1 pulse sequence
-
-`BACK TO TOP <Terminologies: Technique library_>`_
-
-------------
-
-T2PulseSequence
----------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/technique/T2PulseSequence
-   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: In magnetic resonance imaging, a 'T2 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to decay (spin-spin relaxation) before measuring the magnetic resonance signal by changing the echo time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
-   :name: T2 pulse sequence
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -267,6 +326,22 @@ anaesthesiaTechnique
    :@id: https://openminds.ebrains.eu/instances/technique/anaesthesiaTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: anaesthesia technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+angiography
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/angiography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Imaging technique for anatomical and structural details of the vascular system [adapted from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK557477/)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739420
+   :name: angiography
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/87
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -416,6 +491,34 @@ cellAttachedPatchClamp
 
 ------------
 
+coherentAntiStokesRamanSpectroscopy
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/coherentAntiStokesRamanSpectroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A nonlinear Raman spectroscopy technique that employs multiple photons to address molecular vibrations, and produces a coherent signal. It uses a Stokes frequency stimulation beam and an anti-Stokes frequency beam is observed [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Coherent_anti-Stokes_Raman_spectroscopy)].
+   :name: coherent anti-Stokes Raman spectroscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+coherentStokesRamanSpectroscopy
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/coherentStokesRamanSpectroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A nonlinear Raman spectroscopy technique that employs multiple photons to address molecular vibrations, and produces a coherent signal. It uses an anti-Stokes frequency stimulation beam and a Stokes frequency beam is observed [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Coherent_anti-Stokes_Raman_spectroscopy)].
+   :name: coherent Stokes Raman spectroscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 computerTomography
 ------------------
 
@@ -529,6 +632,37 @@ currentClamp
 
 ------------
 
+darkfieldMicroscopy
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/darkfieldMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Darkfield microscopy is an optical microscopy technique in which illumination light is transmitted through the sample so that it does not directly enter the optics and contrast is generated by the differential scattering of light within the specimen.
+   :description: Darkfield microscopy is an optical microscopy technique that generates contrast by differentially filtering scatter and unscattered light. Specifically it transmits scattered light and blocks unscattered light. The effect is to make the areas of a transparent sample that scatter light appear brighter than those that do not scatter light. A dark background is used (i.e. the light source is not directly behind the sample in the optical path) so that unscattered light does not overwhelm the scattered light.
+   :name: darkfield microscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+differentialInterferenceContrastMicroscopy
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/differentialInterferenceContrastMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: An optical microscopy technique, used to enhance the contrast in unstained, transparent samples [taken from [Wikipedia](https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739494
+   :name: differential interference contrast microscopy
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/IRDIC
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 diffusionFixationTechnique
 --------------------------
 
@@ -578,20 +712,6 @@ dualViewInvertedSelectivePlaneIlluminationMicroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: Dual-view inverted selective plane illumination microscopy is a specialized light sheet microscopy technique that allows for dual views of the samples while mounted on an inverted microscope.
    :name: dual-view inverted selective plane illumination microscopy
-
-`BACK TO TOP <Terminologies: Technique library_>`_
-
-------------
-
-echoPlanarPulseSequence
------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/technique/echoPlanarPulseSequence
-   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: In magnetic resonance imaging, a 'echo-planar pulse sequence' is a contrasting technique where each radio frequency field (RF) excitation is followed by a train of gradient echoes with different spatial encoding allowing for very rapid scanning. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Physics_of_magnetic_resonance_imaging#Echo-planar_imaging)]
-   :name: echo planar pulse sequence
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -713,6 +833,23 @@ electroporation
 
 ------------
 
+enzymeLinkedImmunosorbentAssay
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: The 'enzyme-linked immunosorbent assay' is a commonly used analytical biochemistry assay for the quantitative determination of antibodies, first described by [Engvall and Perlmann (1972)](https://www.jimmunol.org/content/109/1/129.abstract). [adapted from [wikipedia](https://en.wikipedia.org/wiki/ELISA)]
+   :description: This immunoassay utilizes an antibody labeled with an enzyme marker such as horseradish peroxidase. While either the enzyme or the antibody is bound to an immunosorbent substrate, they both retain their biologic activity; the change in enzyme activity as a result of the enzyme-antibody-antigen reaction is proportional to the concentration of the antigen and can be measured spectrophotometrically or with the naked eye. Many variations of the method have been developed.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0484188
+   :name: enzyme-linked immunosorbent assay
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0007526
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 epidermalElectrophysiologyTechnique
 -----------------------------------
 
@@ -765,6 +902,22 @@ extracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: In 'extracellular electrophysiology' electrodes are inserted into living tissue, but remain outside the cells in the extracellular environment to measure or stimulate electrical activity coming from adjacent cells, usually neurons.
    :name: extracellular electrophysiology
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+eyeMovementTracking
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/eyeMovementTracking
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'Eye movement tracking' refers to a group of techniques used to record the eye movement and/or position of a living specimen over a given period of time.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0417680
+   :name: eye movement tracking
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0493574
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -831,6 +984,19 @@ functionalMagneticResonanceImaging
 
 ------------
 
+geneExpressionMeasurement
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/geneExpressionMeasurement
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: gene expression measurement
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 geneKnockin
 -----------
 
@@ -857,15 +1023,18 @@ geneKnockout
 
 ------------
 
-gradientEchoPulseSequence
--------------------------
+genomeWideAssociationStudy
+--------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence
+   :@id: https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: In magnetic resonance imaging, a 'gradient-echo pulse sequence' is a contrast generation technique that rapidly induces bulk changes in the spin magnetization of a sample by applying a series of carefully constructed pulses so that the change in the gradient of the magnetic field is maximized, trading contrast for speed (cf. [Hargreaves (2012)](https://doi.org/10.1002/jmri.23742)).
-   :name: gradient-echo pulse sequence
+   :definition: A 'genome-wide association study' is an analysis technique comparing the allele frequencies of all available (or a whole genome representative set of) polymorphic markers in unrelated individuals with a specific symptom or disease condition, and those of healthy controls to identify markers associated with a specific disease or condition.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104603
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies
+   :name: genome-wide association study
+   :preferredOntologyIdentifier: http://edamontology.org/topic_3517
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1215,6 +1384,20 @@ magneticResonanceSpectroscopy
 
 ------------
 
+magnetizationTransferImaging
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/magnetizationTransferImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that exploits the contrast between tissues where 1H protons are (i) bound to macromolecules, (ii) in free water, and (iii) in water of hydration layer between macromolecules and free water.
+   :name: magnetization transfer imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 magnetoencephalography
 ----------------------
 
@@ -1244,6 +1427,22 @@ massSpectrometry
 
 ------------
 
+microComputedTomography
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/microComputedTomography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'Micro computed tomography' uses X-rays to create cross-sections of physical objects with resolution in the micrometer range that can be used to recreate 3-dimensional models [adapted from [Wikipedia](https://en.wikipedia.org/wiki/X-ray_microtomography)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0489243
+   :name: micro computed tomography
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0514122
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 microtomeSectioning
 -------------------
 
@@ -1261,6 +1460,33 @@ microtomeSectioning
 
 ------------
 
+motionCapture
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/motionCapture
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'Motion capture' refers to a group of techniques used to measure the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.
+   :name: motion capture
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+multi-compartmentModeling
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/multi-compartmentModeling
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: multi-compartment modeling
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 multiElectrodeExtracellularElectrophysiology
 --------------------------------------------
 
@@ -1269,6 +1495,20 @@ multiElectrodeExtracellularElectrophysiology
    :@id: https://openminds.ebrains.eu/instances/technique/multiElectrodeExtracellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: multi-electrode extracellular electrophysiology
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+multiPhotonFluorescenceMicroscopy
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/multiPhotonFluorescenceMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Multi photon fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two or more photons with longer wavelength than the emitted light.
+   :name: multi photon fluorescence microscopy
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1303,6 +1543,65 @@ myelinStaining
 
 ------------
 
+myelinWaterImaging
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/myelinWaterImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that provides in vivo measurement of myelin.
+   :name: myelin water imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+nearInfraredSpectroscopy
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/nearInfraredSpectroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A noninvasive technique that uses the differential absorption properties of hemoglobin and myoglobin to evaluate tissue oxygenation and indirectly can measure regional hemodynamics and blood flow [taken from [Interlex](http://uri.interlex.org/base/ilx_0488397)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0488397
+   :name: near infrared spectroscopy
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0028692
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+neuromorphicSimulation
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/neuromorphicSimulation
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: neuromorphic simulation
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+nonlinearOpticalMicroscopy
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/nonlinearOpticalMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Microscopic imaging techniques that utilize nonlinear responses of light-matter interactions which occur with high-intensity illumination, such as from lasers, and specialized light signal detection instrumentation to produce images without the need for dyes or fluorescent labels. [taken from [Interlex](http://uri.interlex.org/base/ilx_0436517)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0436517
+   :name: nonlinear optical microscopy
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000623844
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 nucleicAcidExtraction
 ---------------------
 
@@ -1312,6 +1611,34 @@ nucleicAcidExtraction
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: 'Nucleic acid extraction' refers to a group of techniques that all separate nucleic acids from proteins and lipids using three major processes: isolation, purification, and concentration.
    :name: nucleic acid extraction
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+opticalCoherenceTomography
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/opticalCoherenceTomography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Imaging technique that combines interferometry with short-coherence-length light to obtain micrometer-level depth resolution. Transverse scanning of the light beam is used to form two- and three-dimensional images, reflected from biological tissue or scattering media [Adapted from [Wikipedia](https://en.wikipedia.org/wiki/Optical_coherence_tomography)].
+   :name: optical coherence tomography
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+opticalCoherenceTomographyAngiography
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/opticalCoherenceTomographyAngiography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Imaging technique that uses laser light reflectance of the surface from moving red blood cells to create detailed images of blood vessels over time [Adapted from [EyeWiki](https://eyewiki.aao.org/Optical_Coherence_Tomography_Angiography)].
+   :name: optical coherence tomography angiography
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1395,6 +1722,35 @@ perfusionTechnique
    :definition: Perfusion is a technique to distribute fluid through the circulatory system or lymphatic system to an organ or a tissue.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739602
    :name: perfusion technique
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+perturbationalComplexityIndexMeasurement
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/perturbationalComplexityIndexMeasurement
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: perturbational complexity index measurement
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+phaseContrastMicroscopy
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/phaseContrastMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Optical microscopy technique that converts phase shifts in light passing through a transparent specimen to brightness changes in the image [taken from [Wikipedia](https://en.wikipedia.org/wiki/Phase-contrast_microscopy)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739510
+   :name: phase contrast microscopy
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/158
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1566,6 +1922,33 @@ psychologicalTesting
 
 ------------
 
+pupillometry
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/pupillometry
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Pupillometry is the measurement of minute fluctuations in pupil diameter in response to a stimulus.
+   :name: pupillometry
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+quantification
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/quantification
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: quantification
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 quantitativeMagneticResonanceImaging
 ------------------------------------
 
@@ -1574,6 +1957,20 @@ quantitativeMagneticResonanceImaging
    :@id: https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: quantitative magnetic resonance imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+quantitativeSusceptibilityMapping
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/quantitativeSusceptibilityMapping
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: MRI technique, where the voxel intensity is linear proportional to the underlying tissue [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Quantitative_susceptibility_mapping)].
+   :name: quantitative susceptibility mapping
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1588,6 +1985,32 @@ receptiveFieldMapping
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: In 'receptive field mapping' a distinct set of physiological stimuli is used to evoke a sensory neuronal response in specific organisms to define its respective sensory space (receptive field).
    :name: receptive field mapping
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+reporterGeneBasedExpressionMeasurement
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/reporterGeneBasedExpressionMeasurement
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: reporter gene based expression measurement
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+reporterProteinBasedExpressionMeasurement
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/reporterProteinBasedExpressionMeasurement
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: reporter protein based expression measurement
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1617,6 +2040,19 @@ retrogradeTracing
    :definition: Retrograde tracing is a technique used to trace neural connections from their point of termination (the synapse) to their source (the cell body).
    :description: In 'retrograde tracing' a tracer substance is taken up by synaptic terminals (and sometimes by axons) of neurons in the region where it is injected. Retrograde tracing techniques allow for a detailed assessment of neuronal connections between a target population of neurons and their inputs throughout the nervous system.
    :name: retrograde tracing
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+rule-basedModeling
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/rule-basedModeling
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: rule-based modeling
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1726,6 +2162,32 @@ silverStaining
 
 ------------
 
+simulation
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/simulation
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: simulation
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+singleCellRNASequencing
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/singleCellRNASequencing
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: single cell RNA sequencing
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 singleElectrodeExtracellularElectrophysiology
 ---------------------------------------------
 
@@ -1747,6 +2209,36 @@ singleElectrodeJuxtacellularElectrophysiology
    :@id: https://openminds.ebrains.eu/instances/technique/singleElectrodeJuxtacellularElectrophysiology
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: single electrode juxtacellular electrophysiology
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+singleGeneAnalysis
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A 'single gene analysis' is a genetic test (sequencing technique) to check for any genetic changes in a specific gene.
+   :name: single gene analysis
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+singleNucleotidePolymorphismDetection
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/singleNucleotidePolymorphismDetection
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'Single nucleotide polymorphism detection' refers to a group of techniques that are used to scan for new polymorphisms and to determine the allele(s) of a known polymorphism in target sequences (adapted from [Kwok and Chen, 2003](https://doi.org/10.21775/cimb.005.043)).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780321
+   :name: single nucleotide polymorphism detection
+   :preferredOntologyIdentifier: http://edamontology.org/operation_0484
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1779,15 +2271,17 @@ sonography
 
 ------------
 
-spinEchoPulseSequence
----------------------
+standardization
+---------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/technique/spinEchoPulseSequence
+   :@id: https://openminds.ebrains.eu/instances/technique/standardization
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: In magnetic resonance imaging, a 'spin echo pulse sequence' is a contrast generation technique that induces bulk changes in the spin magnetization of a sample by applying sequential pulses of resonant electromagnetic waves at different angles (cf. [Fonseca (2013)](https://doi.org/10.5772/53693)).
-   :name: spin echo pulse sequence
+   :definition: 'Standardization' is the process of providing (meta)data according to a consensus of different parties (e.g., firms, users, interest groups, organizations and governments).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0479520
+   :name: standardization
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0018674
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -1836,6 +2330,20 @@ stereotacticSurgery
 
 ------------
 
+structuralMagneticResonanceImaging
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/structuralMagneticResonanceImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images with static information of the scanned body.
+   :name: structural magnetic resonance imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 structuralNeuroimaging
 ----------------------
 
@@ -1876,6 +2384,36 @@ subduralElectrocorticography
 
 ------------
 
+superResolutionMicroscopy
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/superResolutionMicroscopy
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Techniques in optical microscopy that allow images to have resolutions higher than those imposed by the diffraction limit, due to the diffraction of light [taken from [Wikipedia](https://en.wikipedia.org/wiki/Super-resolution_microscopy)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739445
+   :name: super resolution microscopy
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/218
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+susceptibilityWeightedImaging
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/susceptibilityWeightedImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: MRI sequence, used with fully flow compensated, long echo, gradient recalled echo (GRE) pulse sequence. Acquires images sensitive to venous blood, hemorrhage and iron storage. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Susceptibility_weighted_imaging)].
+   :name: susceptibility weighted imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 tetrodeExtracellularElectrophysiology
 -------------------------------------
 
@@ -1911,6 +2449,19 @@ tissueClearing
    :@id: https://openminds.ebrains.eu/instances/technique/tissueClearing
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :name: tissue clearing
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+tractTracing
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/tractTracing
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: tract tracing
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2031,6 +2582,19 @@ vibratomeSectioning
 
 ------------
 
+video-oculography
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/video-oculography
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :name: video-oculography
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
 videoTracking
 -------------
 
@@ -2108,6 +2672,22 @@ wholeCellPatchClamp
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: 'Whole cell patch clamp' is a patch clamp technique where the pipette is sealed onto a cell membrane applying enough suction to rupture the membrane patch in order to provide access from the interior of the pipette to the intracellular space of the cell.
    :name: whole cell patch clamp
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+wholeGenomeSequencing
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: 'Whole genome sequencing' is a genetic test (sequencing technique) to determine the entire, or nearly the entire, DNA sequence of an organism's genome at a single time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0492452
+   :name: whole genome sequencing
+   :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M000621306
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 

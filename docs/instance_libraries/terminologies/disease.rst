@@ -8,6 +8,22 @@ Related schema specification: `Disease <https://openminds-documentation.readthed
 
 ------------
 
+COVID-19
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/disease/COVID-19
+   :@type: https://openminds.ebrains.eu/controlledTerms/Disease
+   :definition: A coronavirus infectious disease that is characterized by fever, cough and shortness of breath and caused by the coronavirus strain SARS-CoV-2.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739370
+   :name: COVID-19
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080600
+
+`BACK TO TOP <Terminologies: Disease library_>`_
+
+------------
+
 acquiredBlindness
 -----------------
 
@@ -151,6 +167,22 @@ glioma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
    :name: glioma
    :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_12618
+
+`BACK TO TOP <Terminologies: Disease library_>`_
+
+------------
+
+longCOVID
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/disease/longCOVID
+   :@type: https://openminds.ebrains.eu/controlledTerms/Disease
+   :definition: A long-term disease originally caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with symptoms persisting beyond three to four weeks.
+   :description: A Coronavirus infectious disease that is characterized by long-term persistent and fluctuating symptoms, in individuals with COVID-19, persisting beyond three to four weeks, including the loss of the ability to smell and taste, breathlessness, fatigue, difficulty in breathing, difficulty concentrating, memory loss, confusion, headache, heart palpitations, chest pain, pain with deep breaths, dizziness, and tachycardia.
+   :name: long COVID
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080848
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 

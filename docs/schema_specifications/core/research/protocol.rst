@@ -32,7 +32,7 @@ describedIn
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object of type
                 | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
-   :instructions: Add a publication or file in which this behavioral protocol is (originally) described in detail.
+   :instructions: Add a publication or file in which this protocol is (originally) described in detail.
 
 `BACK TO TOP <Protocol_>`_
 
@@ -105,7 +105,7 @@ Method of accomplishing a desired aim.
 
    :semantic name: https://openminds.ebrains.eu/vocab/technique
    :value type: | linked object array \(1-N\) of type
-                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_
+                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`_, `MRIPulseSequence <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/MRIPulseSequence.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_
    :instructions: Add all techniques (including stimulation approaches and/or techniques) that were used in this protocol.
 
 `BACK TO TOP <Protocol_>`_

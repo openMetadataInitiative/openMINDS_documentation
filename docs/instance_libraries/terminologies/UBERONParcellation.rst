@@ -2701,24 +2701,6 @@ cerebralSubcortex
 
 ------------
 
-cerebrospinalFluid
-------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebrospinalFluid
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'cerebrospinal fluid' is a clear, colorless, bodily fluid, that occupies the subarachnoid space and the ventricular system around and inside the brain and spinal cord [WP, modified]. [http://en.wikipedia.org/wiki/Cerebrospinal_fluid]
-   :description: The fluid that is contained within the brain ventricles, the subarachnoid space and the central canal of the spinal cord (NCI). Transudate contained in the subarachnoid space (UWDA). Clear colorless liquid secreted by the choroid plexus of the lateral, third, and fourth ventricles, and contained within the ventricular system of the brain and spinal cord and within the subarachnoid space (CSP).
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101997
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/#cerebral-spinal-fluid
-   :name: cerebrospinal fluid
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001359
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
 chemoarchitecturalPartOfBrain
 -----------------------------
 
@@ -9786,6 +9768,24 @@ paraventricularNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001920#paraventricular-nucleus-of-thalamus-1
    :name: paraventricular nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001920
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paraventricularNucleusOfTheHypothalamus
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930) ('is_a' and 'relationship')]
+   :description: Nucleus in the anterior part of the hypothalamus. One of the magnocellular hypothalamic nuclei, an elongated plate of large, deeply staining cells located close to the third ventricle in the anterior hypothalamic area; major source of oxytocin and to a lesser extent, of antidiuretic hormone, neurohormones, which are carried to the neurohypophysis along the paraventriculohypophysial tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0108501
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001930#paraventricular-nucleus-of-hypothalamus-1
+   :name: paraventricular nucleus of the hypothalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001930
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 

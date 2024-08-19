@@ -1592,6 +1592,46 @@ application_vnd.igorpro
 
 ------------
 
+application_vnd.ilastik.object-features+csv
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.object-features+csv
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.ilastik.object-features+csv
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/csv
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.ilastik.object-features+hdf5
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.object-features+hdf5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.ilastik.object-features+hdf5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.ilastik.project+hdf5
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.project+hdf5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.ilastik.project+hdf5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.imacon
 ----------------------
 
@@ -1995,6 +2035,19 @@ application_vnd.libreoffice
 
 ------------
 
+application_vnd.localizoom.lz
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.localizoom.lz
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.localizoom.lz
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.ls-dyna
 -----------------------
 
@@ -2056,6 +2109,21 @@ application_vnd.mearec
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mearec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mearec
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.meshview+json
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.meshview+json
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)
+   :name: application_vnd.meshview+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -2337,6 +2405,32 @@ application_vnd.nest-simulator+python
 
 ------------
 
+application_vnd.nest-simulator.model+python
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator.model+python
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.nest-simulator.model+python
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.nest-simulator.recording
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator.recording
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.nest-simulator.recording
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.nest
 --------------------
 
@@ -2345,6 +2439,19 @@ application_vnd.nest
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.nestml
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nestml
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.nestml
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3110,6 +3217,20 @@ application_vnd.princeton-instruments
 
 ------------
 
+application_vnd.qcalign+json
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.qcalign+json
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.qcalign+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.quesant
 -----------------------
 
@@ -3854,6 +3975,19 @@ application_vnd.visualign+json
 
 ------------
 
+application_vnd.visualign.flat
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visualign.flat
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: application/vnd.visualign.flat
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.voluba.v1.landmarkPairs+json
 --------------------------------------------
 
@@ -4407,6 +4541,19 @@ image_bmp
 
 ------------
 
+image_gif
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_gif
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/gif
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 image_jp2
 ---------
 
@@ -4669,6 +4816,97 @@ image_vnd.compix.simplepcihcimage
 
 ------------
 
+image_vnd.ilastik.pixelclassification+hdf5
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+hdf5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.pixelclassification+hdf5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.pixelclassification+n5
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+n5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.pixelclassification+n5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.pixelclassification+neuroglancer.precomputed
+--------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+neuroglancer.precomputed
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.pixelclassification+neuroglancer.precomputed
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.segmentation+dzi
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+dzi
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.segmentation+dzi
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.segmentation+dzip
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+dzip
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.segmentation+dzip
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.segmentation+n5
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+n5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.segmentation+n5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_vnd.ilastik.segmentation+neuroglancer.precomputed
+-------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+neuroglancer.precomputed
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik.segmentation+neuroglancer.precomputed
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 image_vnd.silicongraphicsimage
 ------------------------------
 
@@ -4690,6 +4928,19 @@ image_x-eps
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-eps
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-eps
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_x-hdf
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-hdf
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/x-hdf
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -4824,6 +5075,34 @@ text_tab-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/tab-separated-values
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/tab-separated-values
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+text_vnd.fsl.bval
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.fsl.bval
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: The FSL bval format is an ASCII text file that contains a list of b-values applied during each volume acquisition. The b-values are assumed to be in s/mm^2 units. The order of entries in this file must match the order of volumes in the diffusion weighted input data (4D NIFTI file) and entries in the gradient directions text file (FSL bvec format).
+   :name: text/vnd.fsl.bval
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+text_vnd.fsl.bvec
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.fsl.bvec
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: The FSL bvec format is an ASCII text file that contains a list of gradient directions applied during diffusion weighted imaging. The values are listed in three rows, representing the x, y, and z axis. The order of entries in this file must match the order of volumes in the input data (4D NIFTI file).
+   :name: text/vnd.fsl.bvec
 
 `BACK TO TOP <ContentTypes library_>`_
 

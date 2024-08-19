@@ -252,6 +252,20 @@ kilogram
 
 ------------
 
+kilohertz
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/unitOfMeasurement/kilohertz
+   :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+   :definition: Unit of frequency equivalent to one thousand events per second
+   :name: kilohertz
+
+`BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
+
+------------
+
 liter
 -----
 

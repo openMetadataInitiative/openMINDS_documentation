@@ -38,6 +38,20 @@ MRIscanner
 
 ------------
 
+closedBoreMRIScanner
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/deviceType/closedBoreMRIScanner
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: 'Closed-bore MRI scanners' are high-field scanners which feature a magnet surrounding the patient creating a capsule-like space (standard or wide) where the patient lies on.
+   :name: closed-bore MRI scanner
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
 electronicAmplifier
 -------------------
 
@@ -86,6 +100,34 @@ microtome
 
 ------------
 
+openBoreMRIScanner
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/deviceType/openBoreMRIScanner
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: 'Open-bore MRI scanners' are low-field scanners which have a magnetic top and bottom, but are otherwise open, increasing patient's comfort and unobstructed view of the scanning area.
+   :name: open-bore MRI scanner
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+standardBoreMRIScanner
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/deviceType/standardBoreMRIScanner
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: A 'standard-bore MRI scanner' is a closed high-field scanner which features a magnet surrounding the patient creating a capsule-like space where the patient lies on.
+   :name: standard-bore MRI scanner
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
 vibratingMicrotome
 ------------------
 
@@ -96,6 +138,20 @@ vibratingMicrotome
    :definition: A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments for further treatment and ultimately microscopic or histologic examination.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0780522
    :name: vibrating microtome
+
+`BACK TO TOP <Terminologies: DeviceType library_>`_
+
+------------
+
+wideBoreMRIScanner
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/deviceType/wideBoreMRIScanner
+   :@type: https://openminds.ebrains.eu/controlledTerms/DeviceType
+   :definition: A 'wide-bore MRI scanner' is a closed high-field scanner which features a widened bore compared to the standard-bore MRI scanner.
+   :name: wide-bore MRI scanner
 
 `BACK TO TOP <Terminologies: DeviceType library_>`_
 

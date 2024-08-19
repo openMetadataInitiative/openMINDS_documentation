@@ -103,6 +103,42 @@ MNI-ICBM152
 
 ------------
 
+PW-RBSC-corT
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/PW-RBSC-corT
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :abbreviation: PW-RBSC-corT
+   :description: Stereotactic coordinate space of the coronal plane.
+   :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateSpaceVersions/PW-RBSC-corT.html>`_
+   :shortName: Paxinos and Watson's Stereotaxic Coronal Template (Rat Brain)
+   :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
+SwansonSRB
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/SwansonSRB
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :abbreviation: SwansonSRB
+   :description: Stereotactic coordinate system derived from the atlas by Paxinos and Watson (1986; ISBN: 0-12-547621-3).
+   :fullName: Swanson's Stereotactic Brain of the Sprague Dawley Rat
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateSpaceVersions/SwansonSRB.html>`_
+   :shortName: Swanson's Stereotactic Rat Brain
+   :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
 WHSSD
 -----
 

@@ -138,6 +138,25 @@ JBA
 
 ------------
 
+PW-RBSC-cor
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/PW-RBSC-cor
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :abbreviation: PW-RBSC-cor
+   :description: Paxinos and Watson's stereotaxic rat brain atlases are based on the study of 130 adult male Wistar rats. The atlases have a stereotactic reference system, in a flat-skull position with bregma and lambda as reference points, photographs of rat brain sections in the coronal plane, and contain diagrams showing delineated brain structures based on the previously mentioned photographs.
+   :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
+   :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/PW-RBSC-cor.html>`_
+   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/PW-RBSC-cor.html>`_
+   :shortName: Paxinos and Watson's Stereotaxic Rat Brain Atlas (Coronal)
+   :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
+
+`BACK TO TOP <BrainAtlases library_>`_
+
+------------
+
 SWMA
 ----
 
@@ -170,6 +189,26 @@ Schaefer-400p
    :homepage: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal
    :shortName: Schaefer Atlas (400p)
    :usedSpecies: `homoSapiens <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#homosapiens>`_
+
+`BACK TO TOP <BrainAtlases library_>`_
+
+------------
+
+SwansonBM
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/SwansonBM
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :abbreviation: SwansonBM
+   :description: Swanson's Brain Maps atlases are open access, stereotaxic rat brain atlases of an adult Sprague Dawley rat. These atlases contain spatially aligned maps for 3D reconstruction, hierarchical nomenclature and flatmaps.
+   :fullName: Swanson's Brain Maps: Structure of the Rat Brain
+   :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SwansonBM.html>`_
+   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/SwansonBM.html>`_
+   :homepage: https://larrywswanson.com/
+   :shortName: Swanson's Brain Maps
+   :usedSpecies: `rattusNorvegicus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html#rattusnorvegicus>`_
 
 `BACK TO TOP <BrainAtlases library_>`_
 

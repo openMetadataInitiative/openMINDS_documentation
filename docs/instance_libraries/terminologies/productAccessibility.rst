@@ -15,7 +15,7 @@ controlledAccess
 
    :@id: https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
-   :definition: With 'controlled access' selected, data and metadata are both released, but data are only available for users after they logged in and authenticated themselves.
+   :definition: With 'controlled access' selected, data and metadata are both released and available free of charge, but users must logged in and authenticated themselves to access the data.
    :name: controlled access
 
 `BACK TO TOP <Terminologies: ProductAccessibility library_>`_
@@ -36,6 +36,20 @@ freeAccess
 
 ------------
 
+paidAccess
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/paidAccess
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
+   :definition: With 'paid access' selected, data and metadata are both released, but users paid to gain access to the data (e.g., a one-time fee).
+   :name: paid access
+
+`BACK TO TOP <Terminologies: ProductAccessibility library_>`_
+
+------------
+
 restrictedAccess
 ----------------
 
@@ -45,6 +59,20 @@ restrictedAccess
    :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
    :definition: With 'restricted access' selected, metadata are released, but data remain on an access restricted server.
    :name: restricted access
+
+`BACK TO TOP <Terminologies: ProductAccessibility library_>`_
+
+------------
+
+retracted
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/productAccessibility/retracted
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
+   :definition: With 'retracted' selected, metadata are released, but data are retracted.
+   :name: retracted
 
 `BACK TO TOP <Terminologies: ProductAccessibility library_>`_
 

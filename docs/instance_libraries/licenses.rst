@@ -8,6 +8,201 @@ Related schema specification: `License <https://openminds-documentation.readthed
 
 ------------
 
+AGPL-3.0-only
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/AGPL-3.0-only
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: GNU Affero General Public License v3.0 only
+   :legalCode: https://www.gnu.org/licenses/agpl-3.0.txt
+   :shortName: AGPL-3.0-only
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+Apache-2.0
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/Apache-2.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Apache License 2.0
+   :legalCode: https://www.apache.org/licenses/LICENSE-2.0.txt
+   :shortName: Apache-2.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+BSD-2-Clause
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/BSD-2-Clause
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: BSD 2-Clause 'Simplified' License
+   :legalCode: https://spdx.org/licenses/BSD-2-Clause.html
+   :shortName: BSD-2-Clause
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+BSD-3-Clause
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/BSD-3-Clause
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: BSD 3-Clause 'New' or 'Revised' License
+   :legalCode: https://spdx.org/licenses/BSD-3-Clause.html
+   :shortName: BSD-3-Clause
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+BSD-4-Clause
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/BSD-4-Clause
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: BSD 4-Clause 'Original' or 'Old' License
+   :legalCode: https://spdx.org/licenses/BSD-4-Clause.html
+   :shortName: BSD-4-Clause
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-4.0
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by/4.0/legalcode
+   :shortName: CC-BY-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-NC-4.0
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-NC-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution Non Commercial 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+   :shortName: CC-BY-NC-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-NC-ND-4.0
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-NC-ND-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+   :shortName: CC-BY-NC-ND-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-NC-SA-4.0
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-NC-SA-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution Non Commercial Share Alike 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+   :shortName: CC-BY-NC-SA-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-ND-4.0
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-ND-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution No Derivatives 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by-nd/4.0/legalcode
+   :shortName: CC-BY-ND-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC-BY-SA-4.0
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC-BY-SA-4.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Attribution Share Alike 4.0 International
+   :legalCode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+   :shortName: CC-BY-SA-4.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CC0-1.0
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CC0-1.0
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Creative Commons Zero v1.0 Universal
+   :legalCode: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+   :shortName: CC0-1.0
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
+CECILL-2.1
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/CECILL-2.1
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: CeCILL Free Software License Agreement v2.1
+   :legalCode: https://spdx.org/licenses/CECILL-2.1.html
+   :shortName: CECILL-2.1
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
 DondersInstitute-DUA-RU-DI-HD-1-0
 ---------------------------------
 
@@ -53,207 +248,12 @@ EBRAINS-DUA-4-HDG
 
 ------------
 
-agpl3_0Only
------------
+EUPL-1.2
+--------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/agpl3.0Only
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: GNU Affero General Public License v3.0 only
-   :legalCode: https://www.gnu.org/licenses/agpl-3.0.txt
-   :shortName: AGPL-3.0-only
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-apache2_0
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/apache2.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Apache License, Version 2.0
-   :legalCode: https://www.apache.org/licenses/LICENSE-2.0.txt
-   :shortName: Apache-2.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-bsd2
-----
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/bsd2
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: The 2-Clause BSD License
-   :legalCode: https://spdx.org/licenses/BSD-2-Clause.html
-   :shortName: BSD-2-Clause
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-bsd3
-----
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/bsd3
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: The 3-Clause BSD License
-   :legalCode: https://spdx.org/licenses/BSD-3-Clause.html
-   :shortName: BSD-3-Clause
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-bsd4
-----
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/bsd4
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: The 4-Clause BSD License
-   :legalCode: https://spdx.org/licenses/BSD-4-Clause.html
-   :shortName: BSD-4-Clause
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccBy4_0
--------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccBy4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by/4.0/legalcode
-   :shortName: CC BY 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccByNc4_0
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccByNc4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution-NonCommercial 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by-nc/4.0/legalcode
-   :shortName: CC BY-NC 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccByNcNd4_0
------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccByNcNd4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-   :shortName: CC BY-NC-ND 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccByNcSa4_0
------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccByNcSa4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-   :shortName: CC BY-NC-SA 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccByNd4_0
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccByNd4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution-NoDerivatives 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by-nd/4.0/legalcode
-   :shortName: CC BY-ND 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccBySa4_0
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccBySa4.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Attribution-ShareAlike 4.0 International
-   :legalCode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-   :shortName: CC BY-SA 4.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-ccZero1_0
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/ccZero1.0
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: Creative Commons Zero 1.0 Universal
-   :legalCode: https://creativecommons.org/publicdomain/zero/1.0/legalcode
-   :shortName: CC0 1.0
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-cecill2_1
----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/cecill2.1
-   :@type: https://openminds.ebrains.eu/core/License
-   :fullName: CeCILL Free Software License Agreement v2.1
-   :legalCode: https://spdx.org/licenses/CECILL-2.1.html
-   :shortName: CECILL-2.1
-
-`BACK TO TOP <Licenses library_>`_
-
-------------
-
-eupl1_2
--------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/licenses/eupl1.2
+   :@id: https://openminds.ebrains.eu/instances/licenses/EUPL-1.2
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: European Union Public License 1.2
    :legalCode: https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_en.pdf
@@ -263,12 +263,12 @@ eupl1_2
 
 ------------
 
-gpl1_0Only
-----------
+GPL-1.0-only
+------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl1.0Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-1.0-only
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v1.0 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html
@@ -278,12 +278,12 @@ gpl1_0Only
 
 ------------
 
-gpl1_0OrLater
--------------
+GPL-1.0-or-later
+----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl1.0OrLater
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-1.0-or-later
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v1.0 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html
@@ -293,12 +293,12 @@ gpl1_0OrLater
 
 ------------
 
-gpl2_0Only
-----------
+GPL-2.0-only
+------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl2.0Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-2.0-only
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v2.0 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
@@ -308,12 +308,12 @@ gpl2_0Only
 
 ------------
 
-gpl2_0OrLater
--------------
+GPL-2.0-or-later
+----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl2.0OrLater
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-2.0-or-later
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v2.0 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
@@ -323,12 +323,12 @@ gpl2_0OrLater
 
 ------------
 
-gpl3_0Only
-----------
+GPL-3.0-only
+------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl3.0Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-3.0-only
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v3.0 only
    :legalCode: https://www.gnu.org/licenses/gpl-3.0-standalone.html
@@ -338,12 +338,12 @@ gpl3_0Only
 
 ------------
 
-gpl3_0OrLater
--------------
+GPL-3.0-or-later
+----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/gpl3.0OrLater
+   :@id: https://openminds.ebrains.eu/instances/licenses/GPL-3.0-or-later
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU General Public License v3.0 or later
    :legalCode: https://www.gnu.org/licenses/gpl-3.0-standalone.html
@@ -353,14 +353,14 @@ gpl3_0OrLater
 
 ------------
 
-lgpl2_0Only
------------
+LGPL-2.0-only
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.0Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/LGPL-2.0-only
    :@type: https://openminds.ebrains.eu/core/License
-   :fullName: GNU Library General Public License v2.0 only
+   :fullName: GNU Library General Public License v2 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html
    :shortName: LGPL-2.0-only
 
@@ -368,12 +368,12 @@ lgpl2_0Only
 
 ------------
 
-lgpl2_1Only
------------
+LGPL-2.1-only
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.1Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/LGPL-2.1-only
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU Lesser General Public License v2.1 only
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
@@ -383,12 +383,12 @@ lgpl2_1Only
 
 ------------
 
-lgpl2_1OrLater
---------------
+LGPL-2.1-or-later
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/lgpl2.1OrLater
+   :@id: https://openminds.ebrains.eu/instances/licenses/LGPL-2.1-or-later
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU Lesser General Public License v2.1 or later
    :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html
@@ -398,12 +398,12 @@ lgpl2_1OrLater
 
 ------------
 
-lgpl3_0Only
------------
+LGPL-3.0-only
+-------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/lgpl3.0Only
+   :@id: https://openminds.ebrains.eu/instances/licenses/LGPL-3.0-only
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU Lesser General Public License v3.0 only
    :legalCode: https://www.gnu.org/licenses/lgpl-3.0-standalone.html
@@ -413,12 +413,12 @@ lgpl3_0Only
 
 ------------
 
-lgpl3_0OrLater
---------------
+LGPL-3.0-or-later
+-----------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/lgpl3.0OrLater
+   :@id: https://openminds.ebrains.eu/instances/licenses/LGPL-3.0-or-later
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: GNU Lesser General Public License v3.0 or later
    :legalCode: https://www.gnu.org/licenses/lgpl-3.0-standalone.html
@@ -428,14 +428,14 @@ lgpl3_0OrLater
 
 ------------
 
-mit
+MIT
 ---
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/mit
+   :@id: https://openminds.ebrains.eu/instances/licenses/MIT
    :@type: https://openminds.ebrains.eu/core/License
-   :fullName: The MIT license
+   :fullName: MIT License
    :legalCode: https://spdx.org/licenses/MIT.html
    :shortName: MIT
 
@@ -443,12 +443,12 @@ mit
 
 ------------
 
-mpl2_0
-------
+MPL-2.0
+-------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/licenses/mpl2.0
+   :@id: https://openminds.ebrains.eu/instances/licenses/MPL-2.0
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: Mozilla Public License 2.0
    :legalCode: https://www.mozilla.org/MPL/2.0/

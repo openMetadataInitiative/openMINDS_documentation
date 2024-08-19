@@ -8,6 +8,20 @@ Related schema specification: `Terminology <https://openminds-documentation.read
 
 ------------
 
+MRIPulseSequence
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/terminology/MRIPulseSequence
+   :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
+   :definition: An 'MRI pulse sequence' is a particular setting of pulse sequences and pulsed field gradients, resulting in a particular image appearance [adapted from [Wikipedia](https://en.wikipedia.org/wiki/MRI_pulse_sequence)].
+   :name: MRI pulse sequence
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 UBERONParcellation
 ------------------
 

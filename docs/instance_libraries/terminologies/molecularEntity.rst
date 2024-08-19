@@ -386,6 +386,21 @@ GABAReceptor
 
 ------------
 
+GTPDisodiumSalt
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GTPDisodiumSalt
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: A GTP (guanosine 5'-triphosphate) molecule bonded with two sodium ions (Na+), forming a salt hydrate.
+   :name: GTP, disodium salt
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/135818278
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 JNKMapKinaseScaffoldProtein2
 ----------------------------
 

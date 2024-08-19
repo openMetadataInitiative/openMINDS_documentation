@@ -9,6 +9,8 @@ CommonCoordinateSpaceVersions
 - `MEBRAINStemplate <commonCoordinateSpaceVersions/MEBRAINStemplate.html>`_
 - `MNI-Colin27 <commonCoordinateSpaceVersions/MNI-Colin27.html>`_
 - `MNI-ICBM152 <commonCoordinateSpaceVersions/MNI-ICBM152.html>`_
+- `PW-RBSC-corT <commonCoordinateSpaceVersions/PW-RBSC-corT.html>`_
+- `SwansonSRB <commonCoordinateSpaceVersions/SwansonSRB.html>`_
 - `WHSSD <commonCoordinateSpaceVersions/WHSSD.html>`_
 
 .. toctree::
@@ -20,4 +22,6 @@ CommonCoordinateSpaceVersions
    commonCoordinateSpaceVersions/MEBRAINStemplate
    commonCoordinateSpaceVersions/MNI-Colin27
    commonCoordinateSpaceVersions/MNI-ICBM152
+   commonCoordinateSpaceVersions/PW-RBSC-corT
+   commonCoordinateSpaceVersions/SwansonSRB
    commonCoordinateSpaceVersions/WHSSD

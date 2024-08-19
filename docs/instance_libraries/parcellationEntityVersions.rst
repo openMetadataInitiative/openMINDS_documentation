@@ -37,6 +37,13 @@ ParcellationEntityVersions
 - `JBA_v3.0.3-Colin27 <parcellationEntityVersions/JBA_v3.0.3-Colin27.html>`_
 - `JBA_v3.0.3-fsaverage <parcellationEntityVersions/JBA_v3.0.3-fsaverage.html>`_
 - `JBA_v3.0.3-MNI152 <parcellationEntityVersions/JBA_v3.0.3-MNI152.html>`_
+- `PW-RBSC-cor_6th-ed <parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
+- `SwansonBM_3rd-ed <parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
+- `WHSSDatlas_v1.01 <parcellationEntityVersions/WHSSDatlas_v1.01.html>`_
+- `WHSSDatlas_v2 <parcellationEntityVersions/WHSSDatlas_v2.html>`_
+- `WHSSDatlas_v3.01 <parcellationEntityVersions/WHSSDatlas_v3.01.html>`_
+- `WHSSDatlas_v3 <parcellationEntityVersions/WHSSDatlas_v3.html>`_
+- `WHSSDatlas_v4 <parcellationEntityVersions/WHSSDatlas_v4.html>`_
 
 .. toctree::
 
@@ -75,3 +82,10 @@ ParcellationEntityVersions
    parcellationEntityVersions/JBA_v3.0.3-Colin27
    parcellationEntityVersions/JBA_v3.0.3-fsaverage
    parcellationEntityVersions/JBA_v3.0.3-MNI152
+   parcellationEntityVersions/PW-RBSC-cor_6th-ed
+   parcellationEntityVersions/SwansonBM_3rd-ed
+   parcellationEntityVersions/WHSSDatlas_v1.01
+   parcellationEntityVersions/WHSSDatlas_v2
+   parcellationEntityVersions/WHSSDatlas_v3.01
+   parcellationEntityVersions/WHSSDatlas_v3
+   parcellationEntityVersions/WHSSDatlas_v4
