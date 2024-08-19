@@ -83,6 +83,8 @@ class InstancesDocBuilder(object):
 
     def _build_instance_library_link(self, instanceReferenceList:List[Dict]) -> str:
         # this function assumes that all instances in list have the same type
+        if "@id" not in instanceReferenceList[0]:
+            raise ValueError(f"Was not able to find id of instance {json.dumps(instanceReferenceList[0], indent=2)}")
         instance_example_id = instanceReferenceList[0]["@id"]
         instance_example_type = instance_example_id.split("/")[4]
         instance_type_plural = self._build_plurals(instance_example_type)
