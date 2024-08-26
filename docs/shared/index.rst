@@ -19,6 +19,8 @@ Funding and acknowledgements
 
 The openMINDS metadata framework development started in the `Human Brain Project (HBP) <https://www.humanbrainproject.eu>`_, funded from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under Specific Grant Agreement (SGA) `No. 720270 <https://doi.org/10.3030/720270>`_, `No. 785907 <https://doi.org/10.3030/785907>`_, and `No. 945539 <https://doi.org/10.3030/945539>`_. 
 
+The framework currently receives funding from the European Union's Research and Innovation Program Horizon Europe under Grant Agreement `No. 101147319 <https://doi.org/10.3030/101147319>`_ (EBRAINS 2.0 project).
+
 The framework also receives support from the `Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL) <https://bigbrainproject.org/hiball.html>`_.
 
 Collaboration partners
