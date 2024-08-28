@@ -22,6 +22,20 @@ MRIPulseSequence
 
 ------------
 
+MRIWeighting
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/terminology/MRIWeighting
+   :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
+   :definition: Class of imaging techniques where the image contrast is generated from a specific intrinsic tissue parameter (T1, T2, etc.).
+   :name: MRI weighting
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 UBERONParcellation
 ------------------
 

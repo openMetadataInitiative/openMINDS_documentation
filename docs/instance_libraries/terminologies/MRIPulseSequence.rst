@@ -8,34 +8,6 @@ Related schema specification: `MRIPulseSequence <https://openminds-documentation
 
 ------------
 
-T1PulseSequence
----------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/MRIPulseSequence/T1PulseSequence
-   :@type: https://openminds.ebrains.eu/controlledTerms/MRIPulseSequence
-   :definition: In magnetic resonance imaging, a 'T1 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to recover (spin-lattice relaxation) before measuring the magnetic resonance signal by changing the repetition time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
-   :name: T1 pulse sequence
-
-`BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
-
-------------
-
-T2PulseSequence
----------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/MRIPulseSequence/T2PulseSequence
-   :@type: https://openminds.ebrains.eu/controlledTerms/MRIPulseSequence
-   :definition: In magnetic resonance imaging, a 'T2 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to decay (spin-spin relaxation) before measuring the magnetic resonance signal by changing the echo time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]
-   :name: T2 pulse sequence
-
-`BACK TO TOP <Terminologies: MRIPulseSequence library_>`_
-
-------------
-
 echoPlanarPulseSequence
 -----------------------
 
