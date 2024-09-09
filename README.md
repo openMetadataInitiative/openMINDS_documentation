@@ -1,8 +1,8 @@
-<a href="/docs/_static/openMINDS_documentation_logo_light.png">
+<a href="docs/_static/openMINDS-logos/openMINDS_documentation_logo_light.png">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/docs/_static/openMINDS_documentation_logo_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="/docs/_static/openMINDS_documentation_logo_light.png">
-    <img alt="openMINDS documentation" src="/docs/_static/openMINDS_documentation_logo_light.png" title="Logo created by Schlegel, Zehl, and Hagen Blixhavn." align="right" height="70">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/_static/openMINDS-logos/openMINDS_documentation_logo_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/_static/openMINDS-logos/openMINDS_documentation_logo_light.png">
+    <img alt="openMINDS documentation" src="docs/_static/openMINDS-logos/openMINDS_documentation_logo_light.png" title="Logo created by Schlegel, Zehl, and Hagen Blixhavn." align="right" height="70">
   </picture>
 </a>
 
