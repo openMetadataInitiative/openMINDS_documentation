@@ -2,11 +2,9 @@
 UnitOfMeasurement
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
+:Semantic name: controlledTerms:UnitOfMeasurement
 
-:Display as: Unit of measurement
-
-Structured information on the unit of measurement.
+:Display as: Controlled terms:unit of measurement
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/unitOfMeasurement.html>`_.

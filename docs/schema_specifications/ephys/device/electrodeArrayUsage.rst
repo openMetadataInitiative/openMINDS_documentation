@@ -2,9 +2,9 @@
 ElectrodeArrayUsage
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeArrayUsage
+:Semantic name: ephys:ElectrodeArrayUsage
 
-:Display as: Electrode array usage
+:Display as: Ephys:electrode array usage
 
 
 ------------
@@ -29,7 +29,7 @@ anatomicalLocationOfArray
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocationOfArray
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add all anatomical entities that semantically best describe the overall anatomical location of the electrode array.
 
 `BACK TO TOP <ElectrodeArrayUsage_>`_
@@ -46,7 +46,7 @@ anatomicalLocationOfElectrodes
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocationOfElectrodes
    :value type: | linked object array \(2-N\) of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add all anatomical entities that semantically best describe the anatomical location of each electrode contact of this array during its use, in the same order that the electrode identifiers for this electrode array have been specified.
 
 `BACK TO TOP <ElectrodeArrayUsage_>`_
@@ -63,7 +63,7 @@ contactResistances
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactResistances
    :value type: | embedded object array \(2-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the contact resistance for each electrode of this array during its use, in the same order that the electrode identifiers for this electrode array have been specified.
 
 `BACK TO TOP <ElectrodeArrayUsage_>`_
@@ -82,7 +82,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArray.html>`_
+                | ephys:ElectrodeArray \[TYPE_ERROR\]
    :instructions: Add the electrode array used.
 
 `BACK TO TOP <ElectrodeArrayUsage_>`_

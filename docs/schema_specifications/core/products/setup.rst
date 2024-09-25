@@ -48,7 +48,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `Setup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDevice.html>`_
+                | ephys:Electrode \[TYPE_ERROR\], ephys:ElectrodeArray \[TYPE_ERROR\], ephys:Pipette \[TYPE_ERROR\], `Setup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_ or specimenPrep:SlicingDevice \[TYPE_ERROR\]
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_

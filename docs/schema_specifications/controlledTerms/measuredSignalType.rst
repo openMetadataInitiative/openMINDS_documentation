@@ -2,9 +2,9 @@
 MeasuredSignalType
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType
+:Semantic name: controlledTerms:MeasuredSignalType
 
-:Display as: Measured signal type
+:Display as: Controlled terms:measured signal type
 
 
 ------------

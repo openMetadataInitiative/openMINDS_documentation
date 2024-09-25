@@ -2,9 +2,9 @@
 Channel
 #######
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Channel
+:Semantic name: ephys:Channel
 
-:Display as: Channel
+:Display as: Ephys:channel
 
 
 ------------
@@ -50,7 +50,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
    :instructions: Add the unit of measurement for this channel.
 
 `BACK TO TOP <Channel_>`_

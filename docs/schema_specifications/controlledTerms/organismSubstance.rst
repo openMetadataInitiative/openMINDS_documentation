@@ -2,9 +2,9 @@
 OrganismSubstance
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
+:Semantic name: controlledTerms:OrganismSubstance
 
-:Display as: Organism substance
+:Display as: Controlled terms:organism substance
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/organismSubstance.html>`_.

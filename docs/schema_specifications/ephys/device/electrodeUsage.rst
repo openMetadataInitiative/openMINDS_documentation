@@ -2,9 +2,9 @@
 ElectrodeUsage
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/ephys/ElectrodeUsage
+:Semantic name: ephys:ElectrodeUsage
 
-:Display as: Electrode usage
+:Display as: Ephys:electrode usage
 
 
 ------------
@@ -29,7 +29,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
    :value type: | linked object of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the electrode contact.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -46,7 +46,7 @@ contactResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the contact resistance of this electrode during its use.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -65,7 +65,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `Electrode <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrode.html>`_
+                | ephys:Electrode \[TYPE_ERROR\]
    :instructions: Add the electrode used.
 
 `BACK TO TOP <ElectrodeUsage_>`_

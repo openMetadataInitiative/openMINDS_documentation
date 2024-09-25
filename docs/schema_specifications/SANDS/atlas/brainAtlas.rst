@@ -2,11 +2,9 @@
 BrainAtlas
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/sands/BrainAtlas
+:Semantic name: sands:BrainAtlas
 
-:Display as: Brain atlas
-
-Structured information on a brain atlas (concept level).
+:Display as: Sands:brain atlas
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlases.html>`_.
@@ -109,7 +107,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | core:DOI \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\] or core:RRID \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -145,7 +143,7 @@ hasTerminology
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasTerminology
    :value type: | embedded object of type
-                | `ParcellationTerminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationTerminology.html>`_
+                | sands:ParcellationTerminology \[TYPE_ERROR\]
    :instructions: Enter the parcellation terminology of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -164,7 +162,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
+                | sands:BrainAtlasVersion \[TYPE_ERROR\]
    :instructions: Add versions of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -257,7 +255,7 @@ usedSpecies
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecies
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_
+                | controlledTerms:Species \[TYPE_ERROR\]
    :instructions: Add the species that was used for the creation of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_

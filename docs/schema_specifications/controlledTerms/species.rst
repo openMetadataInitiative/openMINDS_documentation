@@ -2,11 +2,9 @@
 Species
 #######
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Species
+:Semantic name: controlledTerms:Species
 
-:Display as: Species
-
-Structured information on the species.
+:Display as: Controlled terms:species
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/species.html>`_.

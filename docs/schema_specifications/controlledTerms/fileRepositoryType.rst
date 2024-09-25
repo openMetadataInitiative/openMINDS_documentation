@@ -2,9 +2,9 @@
 FileRepositoryType
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/FileRepositoryType
+:Semantic name: controlledTerms:FileRepositoryType
 
-:Display as: File repository type
+:Display as: Controlled terms:file repository type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/fileRepositoryType.html>`_.

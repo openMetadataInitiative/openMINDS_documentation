@@ -2,9 +2,9 @@
 SoftwareFeature
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
+:Semantic name: controlledTerms:SoftwareFeature
 
-:Display as: Software feature
+:Display as: Controlled terms:software feature
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/softwareFeature.html>`_.

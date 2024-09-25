@@ -2,9 +2,9 @@
 MeasuredQuantity
 ################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
+:Semantic name: controlledTerms:MeasuredQuantity
 
-:Display as: Measured quantity
+:Display as: Controlled terms:measured quantity
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/measuredQuantity.html>`_.

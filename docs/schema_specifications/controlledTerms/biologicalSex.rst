@@ -2,11 +2,9 @@
 BiologicalSex
 #############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
+:Semantic name: controlledTerms:BiologicalSex
 
-:Display as: Biological sex
-
-Structured information on the biological sex of a subject.
+:Display as: Controlled terms:biological sex
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/biologicalSex.html>`_.

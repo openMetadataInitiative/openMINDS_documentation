@@ -2,11 +2,9 @@
 Laterality
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Laterality
+:Semantic name: controlledTerms:Laterality
 
-:Display as: Laterality
-
-Structured information on the lateral direction.
+:Display as: Controlled terms:laterality
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/laterality.html>`_.

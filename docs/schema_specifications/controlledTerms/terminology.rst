@@ -2,9 +2,9 @@
 Terminology
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Terminology
+:Semantic name: controlledTerms:Terminology
 
-:Display as: Terminology
+:Display as: Controlled terms:terminology
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/terminology.html>`_.

@@ -2,9 +2,9 @@
 SubcellularEntity
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/SubcellularEntity
+:Semantic name: controlledTerms:SubcellularEntity
 
-:Display as: Subcellular entity
+:Display as: Controlled terms:subcellular entity
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/subcellularEntity.html>`_.

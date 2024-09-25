@@ -2,9 +2,9 @@
 PatchClampVariation
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/PatchClampVariation
+:Semantic name: controlledTerms:PatchClampVariation
 
-:Display as: Patch clamp variation
+:Display as: Controlled terms:patch clamp variation
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/patchClampVariation.html>`_.

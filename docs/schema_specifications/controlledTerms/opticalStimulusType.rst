@@ -2,9 +2,9 @@
 OpticalStimulusType
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/OpticalStimulusType
+:Semantic name: controlledTerms:OpticalStimulusType
 
-:Display as: Optical stimulus type
+:Display as: Controlled terms:optical stimulus type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/opticalStimulusType.html>`_.

@@ -2,11 +2,9 @@
 Technique
 #########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Technique
+:Semantic name: controlledTerms:Technique
 
-:Display as: Technique
-
-Structured information on the technique.
+:Display as: Controlled terms:technique
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/technique.html>`_.

@@ -2,11 +2,9 @@
 AgeCategory
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+:Semantic name: controlledTerms:AgeCategory
 
-:Display as: Age category
-
-Structured information on the life cycle (semantic term) of a specific age group.
+:Display as: Controlled terms:age category
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/ageCategory.html>`_.

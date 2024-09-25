@@ -2,9 +2,9 @@
 Pipette
 #######
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Pipette
+:Semantic name: ephys:Pipette
 
-:Display as: Pipette
+:Display as: Ephys:pipette
 
 
 ------------
@@ -84,7 +84,7 @@ externalDiameter
 
    :semantic name: https://openminds.ebrains.eu/vocab/externalDiameter
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the external diameter of the pipette.
 
 `BACK TO TOP <Pipette_>`_
@@ -101,7 +101,7 @@ internalDiameter
 
    :semantic name: https://openminds.ebrains.eu/vocab/internalDiameter
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the internal diameter of the pipette.
 
 `BACK TO TOP <Pipette_>`_
@@ -171,7 +171,7 @@ material
 
    :semantic name: https://openminds.ebrains.eu/vocab/material
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
    :instructions: Add the material that the pipette is made of.
 
 `BACK TO TOP <Pipette_>`_

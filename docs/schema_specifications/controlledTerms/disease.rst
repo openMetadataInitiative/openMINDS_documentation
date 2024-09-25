@@ -2,11 +2,9 @@
 Disease
 #######
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Disease
+:Semantic name: controlledTerms:Disease
 
-:Display as: Disease
-
-Structured information on a disease.
+:Display as: Controlled terms:disease
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/disease.html>`_.

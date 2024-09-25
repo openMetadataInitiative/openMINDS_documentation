@@ -2,9 +2,9 @@
 AnatomicalIdentificationType
 ############################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
+:Semantic name: controlledTerms:AnatomicalIdentificationType
 
-:Display as: Anatomical identification type
+:Display as: Controlled terms:anatomical identification type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/anatomicalIdentificationType.html>`_.

@@ -2,9 +2,9 @@
 BiologicalProcess
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/BiologicalProcess
+:Semantic name: controlledTerms:BiologicalProcess
 
-:Display as: Biological process
+:Display as: Controlled terms:biological process
 
 
 ------------

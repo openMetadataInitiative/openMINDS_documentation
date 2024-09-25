@@ -2,9 +2,9 @@
 PublicationVolume
 #################
 
-:Semantic name: https://openminds.ebrains.eu/publications/PublicationVolume
+:Semantic name: publications:PublicationVolume
 
-:Display as: Publication volume
+:Display as: Publications:publication volume
 
 
 ------------
@@ -31,7 +31,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `Periodical <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/periodical.html>`_
+                | publications:Periodical \[TYPE_ERROR\]
    :instructions: Add the periodical this publication volume is part of.
 
 `BACK TO TOP <PublicationVolume_>`_

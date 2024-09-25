@@ -2,11 +2,9 @@
 ModelAbstractionLevel
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
+:Semantic name: controlledTerms:ModelAbstractionLevel
 
-:Display as: Model abstraction level
-
-Structured information on abstraction level of the computational model.
+:Display as: Controlled terms:model abstraction level
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/modelAbstractionLevel.html>`_.

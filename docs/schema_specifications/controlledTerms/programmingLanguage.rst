@@ -2,11 +2,9 @@
 ProgrammingLanguage
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+:Semantic name: controlledTerms:ProgrammingLanguage
 
-:Display as: Programming language
-
-Structured information on the programming language.
+:Display as: Controlled terms:programming language
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/programmingLanguage.html>`_.

@@ -2,9 +2,9 @@
 ProductAccessibility
 ####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
+:Semantic name: controlledTerms:ProductAccessibility
 
-:Display as: Product accessibility
+:Display as: Controlled terms:product accessibility
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/productAccessibility.html>`_.

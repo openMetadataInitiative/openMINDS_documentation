@@ -2,9 +2,9 @@
 VisualStimulusType
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+:Semantic name: controlledTerms:VisualStimulusType
 
-:Display as: Visual stimulus type
+:Display as: Controlled terms:visual stimulus type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/visualStimulusType.html>`_.

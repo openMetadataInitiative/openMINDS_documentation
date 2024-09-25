@@ -2,9 +2,9 @@
 ParcellationTerminology
 #######################
 
-:Semantic name: https://openminds.ebrains.eu/sands/ParcellationTerminology
+:Semantic name: sands:ParcellationTerminology
 
-:Display as: Parcellation terminology
+:Display as: Sands:parcellation terminology
 
 
 ------------
@@ -29,7 +29,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+                | core:File \[TYPE_ERROR\]
    :instructions: Add the location of all files in which this parcellation terminology is stored.
 
 `BACK TO TOP <ParcellationTerminology_>`_
@@ -46,7 +46,7 @@ hasEntity
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasEntity
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
+                | sands:ParcellationEntity \[TYPE_ERROR\]
    :instructions: Add all parcellation entities which belong to this parcellation terminology.
 
 `BACK TO TOP <ParcellationTerminology_>`_

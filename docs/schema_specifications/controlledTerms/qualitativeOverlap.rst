@@ -2,9 +2,9 @@
 QualitativeOverlap
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap
+:Semantic name: controlledTerms:QualitativeOverlap
 
-:Display as: Qualitative overlap
+:Display as: Controlled terms:qualitative overlap
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/qualitativeOverlap.html>`_.

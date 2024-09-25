@@ -2,9 +2,9 @@
 ExperimentalApproach
 ####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
+:Semantic name: controlledTerms:ExperimentalApproach
 
-:Display as: Experimental approach
+:Display as: Controlled terms:experimental approach
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/experimentalApproach.html>`_.

@@ -2,11 +2,9 @@
 ProductSource
 #############
 
-:Semantic name: https://openminds.ebrains.eu/chemicals/ProductSource
+:Semantic name: chemicals:ProductSource
 
-:Display as: Product source
-
-Structured information about the source of a chemical substance or mixture.
+:Display as: Chemicals:product source
 
 
 ------------
@@ -33,7 +31,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | core:RRID \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this product.
 
 `BACK TO TOP <ProductSource_>`_
@@ -103,7 +101,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the purity of the product as stated by the 'provider'.
 
 `BACK TO TOP <ProductSource_>`_

@@ -2,9 +2,9 @@
 AnalysisTechnique
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+:Semantic name: controlledTerms:AnalysisTechnique
 
-:Display as: Analysis technique
+:Display as: Controlled terms:analysis technique
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/analysisTechnique.html>`_.

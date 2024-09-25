@@ -2,9 +2,9 @@
 LivePaper
 #########
 
-:Semantic name: https://openminds.ebrains.eu/publications/LivePaper
+:Semantic name: publications:LivePaper
 
-:Display as: Live paper
+:Display as: Publications:live paper
 
 
 ------------
@@ -88,7 +88,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_
+                | core:DOI \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <LivePaper_>`_
@@ -126,7 +126,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_
+                | publications:LivePaperVersion \[TYPE_ERROR\]
    :instructions: Add all versions of this live paper.
 
 `BACK TO TOP <LivePaper_>`_

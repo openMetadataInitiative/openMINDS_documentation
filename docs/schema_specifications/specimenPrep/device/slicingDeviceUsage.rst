@@ -2,9 +2,9 @@
 SlicingDeviceUsage
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/specimenPrep/SlicingDeviceUsage
+:Semantic name: specimenPrep:SlicingDeviceUsage
 
-:Display as: Slicing device usage
+:Display as: Specimen prep:slicing device usage
 
 
 ------------
@@ -31,7 +31,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDevice.html>`_
+                | specimenPrep:SlicingDevice \[TYPE_ERROR\]
    :instructions: Add the slicing device used.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -82,7 +82,7 @@ oscillationAmplitude
 
    :semantic name: https://openminds.ebrains.eu/vocab/oscillationAmplitude
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the oscillation amplitude of the blade from the slicing device during its use.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -99,7 +99,7 @@ sliceThickness
 
    :semantic name: https://openminds.ebrains.eu/vocab/sliceThickness
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the defined slice thickness during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -116,7 +116,7 @@ slicingAngle
 
    :semantic name: https://openminds.ebrains.eu/vocab/slicingAngle
    :value type: | embedded object array \(1-2\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `NumericalProperty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/numericalProperty.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:NumericalProperty \[TYPE_ERROR\]
    :instructions: Enter all slicing angles (intentional or unintentional) in relation to the slicing plane used during this activity.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -133,7 +133,7 @@ slicingPlane
 
    :semantic name: https://openminds.ebrains.eu/vocab/slicingPlane
    :value type: | linked object of type
-                | `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalPlane.html>`_
+                | controlledTerms:AnatomicalPlane \[TYPE_ERROR\]
    :instructions: Add the anatomical plane that best describes the slicing direction of the tissue sample(s) during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -150,7 +150,7 @@ slicingSpeed
 
    :semantic name: https://openminds.ebrains.eu/vocab/slicingSpeed
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the defined slicing speed during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -184,7 +184,7 @@ vibrationFrequency
 
    :semantic name: https://openminds.ebrains.eu/vocab/vibrationFrequency
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the defined vibration frequency during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_

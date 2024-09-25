@@ -67,7 +67,7 @@ Reference to what or whom something or someone bears significance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`_, `MRIPulseSequence <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/MRIPulseSequence.html>`_, `MRIWeighting <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/MRIWeighting.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_
+                | controlledTerms:AnalysisTechnique \[TYPE_ERROR\], controlledTerms:MRIPulseSequence \[TYPE_ERROR\], controlledTerms:MRIWeighting \[TYPE_ERROR\], controlledTerms:StimulationApproach \[TYPE_ERROR\], controlledTerms:StimulationTechnique \[TYPE_ERROR\] or controlledTerms:Technique \[TYPE_ERROR\]
    :instructions: Add the technique for which this custom property set is relevant.
 
 `BACK TO TOP <CustomPropertySet_>`_

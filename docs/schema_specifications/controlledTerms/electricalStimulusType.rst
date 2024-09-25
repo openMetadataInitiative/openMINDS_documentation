@@ -2,9 +2,9 @@
 ElectricalStimulusType
 ######################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType
+:Semantic name: controlledTerms:ElectricalStimulusType
 
-:Display as: Electrical stimulus type
+:Display as: Controlled terms:electrical stimulus type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/electricalStimulusType.html>`_.

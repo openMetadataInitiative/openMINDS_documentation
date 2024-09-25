@@ -2,9 +2,9 @@
 Service
 #######
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Service
+:Semantic name: controlledTerms:Service
 
-:Display as: Service
+:Display as: Controlled terms:service
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/service.html>`_.

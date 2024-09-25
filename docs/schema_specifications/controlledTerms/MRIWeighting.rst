@@ -2,9 +2,9 @@
 MRIWeighting
 ############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MRIWeighting
+:Semantic name: controlledTerms:MRIWeighting
 
-:Display as: Mriweighting
+:Display as: Controlled terms:mriweighting
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/MRIWeighting.html>`_.

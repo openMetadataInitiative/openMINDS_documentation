@@ -2,9 +2,9 @@
 Organ
 #####
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Organ
+:Semantic name: controlledTerms:Organ
 
-:Display as: Organ
+:Display as: Controlled terms:organ
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/organ.html>`_.

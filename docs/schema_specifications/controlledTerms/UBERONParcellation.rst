@@ -2,9 +2,9 @@
 UBERONParcellation
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+:Semantic name: controlledTerms:UBERONParcellation
 
-:Display as: Uberonparcellation
+:Display as: Controlled terms:uberonparcellation
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/UBERONParcellation.html>`_.

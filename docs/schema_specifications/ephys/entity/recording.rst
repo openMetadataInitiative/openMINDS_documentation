@@ -2,9 +2,9 @@
 Recording
 #########
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Recording
+:Semantic name: ephys:Recording
 
-:Display as: Recording
+:Display as: Ephys:recording
 
 
 ------------
@@ -48,7 +48,7 @@ channel
 
    :semantic name: https://openminds.ebrains.eu/vocab/channel
    :value type: | embedded object array \(1-N\) of type
-                | `Channel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/entity/channel.html>`_
+                | ephys:Channel \[TYPE_ERROR\]
    :instructions: Enter all channels used for this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -65,7 +65,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
+                | core:File \[TYPE_ERROR\] or core:FileBundle \[TYPE_ERROR\]
    :instructions: Add the location of the file or file bundle in which the recorded data is stored.
 
 `BACK TO TOP <Recording_>`_
@@ -120,7 +120,7 @@ previousRecording
 
    :semantic name: https://openminds.ebrains.eu/vocab/previousRecording
    :value type: | linked object of type
-                | `Recording <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/entity/recording.html>`_
+                | ephys:Recording \[TYPE_ERROR\]
    :instructions: If this recording is part of a sequence of recordings (e.g., multiple repetitions or sweeps), add the recording preceding this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -137,7 +137,7 @@ recordedWith
 
    :semantic name: https://openminds.ebrains.eu/vocab/recordedWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | ephys:ElectrodeArrayUsage \[TYPE_ERROR\], ephys:ElectrodeUsage \[TYPE_ERROR\], ephys:PipetteUsage \[TYPE_ERROR\] or specimenPrep:SlicingDeviceUsage \[TYPE_ERROR\]
    :instructions: Add the device used to generate this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -154,7 +154,7 @@ samplingFrequency
 
    :semantic name: https://openminds.ebrains.eu/vocab/samplingFrequency
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the sampling frequency of this recording.
 
 `BACK TO TOP <Recording_>`_

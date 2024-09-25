@@ -2,9 +2,9 @@
 SemanticDataType
 ################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
+:Semantic name: controlledTerms:SemanticDataType
 
-:Display as: Semantic data type
+:Display as: Controlled terms:semantic data type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/semanticDataType.html>`_.

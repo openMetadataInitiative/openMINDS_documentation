@@ -2,11 +2,9 @@
 ChemicalSubstance
 #################
 
-:Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
+:Semantic name: chemicals:ChemicalSubstance
 
-:Display as: Chemical substance
-
-Structured information about a chemical substance.
+:Display as: Chemicals:chemical substance
 
 
 ------------
@@ -67,7 +65,7 @@ molecularEntity
 
    :semantic name: https://openminds.ebrains.eu/vocab/molecularEntity
    :value type: | linked object of type
-                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | controlledTerms:MolecularEntity \[TYPE_ERROR\]
    :instructions: Add the molecular entity that makes up this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -84,7 +82,7 @@ productSource
 
    :semantic name: https://openminds.ebrains.eu/vocab/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/productSource.html>`_
+                | chemicals:ProductSource \[TYPE_ERROR\]
    :instructions: Add the source of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -101,7 +99,7 @@ purity
 
    :semantic name: https://openminds.ebrains.eu/vocab/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the purity of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_

@@ -2,9 +2,9 @@
 DataType
 ########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/DataType
+:Semantic name: controlledTerms:DataType
 
-:Display as: Data type
+:Display as: Controlled terms:data type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/dataType.html>`_.

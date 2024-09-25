@@ -2,9 +2,9 @@
 CellType
 ########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/CellType
+:Semantic name: controlledTerms:CellType
 
-:Display as: Cell type
+:Display as: Controlled terms:cell type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/cellType.html>`_.

@@ -2,9 +2,9 @@
 PublicationIssue
 ################
 
-:Semantic name: https://openminds.ebrains.eu/publications/PublicationIssue
+:Semantic name: publications:PublicationIssue
 
-:Display as: Publication issue
+:Display as: Publications:publication issue
 
 
 ------------
@@ -31,7 +31,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `PublicationVolume <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/publicationVolume.html>`_
+                | publications:PublicationVolume \[TYPE_ERROR\]
    :instructions: Add the publication volume this publication issue is part of.
 
 `BACK TO TOP <PublicationIssue_>`_

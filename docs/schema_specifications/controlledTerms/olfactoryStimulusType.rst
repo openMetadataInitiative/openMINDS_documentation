@@ -2,9 +2,9 @@
 OlfactoryStimulusType
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/OlfactoryStimulusType
+:Semantic name: controlledTerms:OlfactoryStimulusType
 
-:Display as: Olfactory stimulus type
+:Display as: Controlled terms:olfactory stimulus type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/olfactoryStimulusType.html>`_.

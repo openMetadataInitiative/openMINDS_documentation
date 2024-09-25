@@ -2,9 +2,9 @@
 MetaDataModelType
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MetaDataModelType
+:Semantic name: controlledTerms:MetaDataModelType
 
-:Display as: Meta data model type
+:Display as: Controlled terms:meta data model type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/metaDataModelType.html>`_.

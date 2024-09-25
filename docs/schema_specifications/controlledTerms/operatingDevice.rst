@@ -2,11 +2,9 @@
 OperatingDevice
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+:Semantic name: controlledTerms:OperatingDevice
 
-:Display as: Operating device
-
-Structured information on the operating device.
+:Display as: Controlled terms:operating device
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/operatingDevice.html>`_.

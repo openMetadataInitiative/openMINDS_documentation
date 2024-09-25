@@ -2,9 +2,9 @@
 AnatomicalTargetPosition
 ########################
 
-:Semantic name: https://openminds.ebrains.eu/sands/AnatomicalTargetPosition
+:Semantic name: sands:AnatomicalTargetPosition
 
-:Display as: Anatomical target position
+:Display as: Sands:anatomical target position
 
 
 ------------
@@ -48,7 +48,7 @@ anatomicalTarget
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalTarget
    :value type: | linked object array \(1-N\) of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add all anatomical entities that describe the target position(s).
 
 `BACK TO TOP <AnatomicalTargetPosition_>`_
@@ -65,7 +65,7 @@ spatialLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/spatialLocation
    :value type: | embedded object array \(1-N\) of type
-                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
+                | sands:CoordinatePoint \[TYPE_ERROR\]
    :instructions: Add all coordinate points that describe the spatial location of the anatomical target structure(s).
 
 `BACK TO TOP <AnatomicalTargetPosition_>`_
@@ -82,7 +82,7 @@ targetIdentificationType
 
    :semantic name: https://openminds.ebrains.eu/vocab/targetIdentificationType
    :value type: | linked object of type
-                | `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`_
+                | controlledTerms:AnatomicalIdentificationType \[TYPE_ERROR\]
    :instructions: Add the target identification type that best describes how the this anatomical target position was identified.
 
 `BACK TO TOP <AnatomicalTargetPosition_>`_

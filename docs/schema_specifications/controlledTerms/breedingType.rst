@@ -2,9 +2,9 @@
 BreedingType
 ############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/BreedingType
+:Semantic name: controlledTerms:BreedingType
 
-:Display as: Breeding type
+:Display as: Controlled terms:breeding type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/breedingType.html>`_.

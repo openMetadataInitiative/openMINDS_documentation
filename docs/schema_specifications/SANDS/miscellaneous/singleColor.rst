@@ -2,9 +2,9 @@
 SingleColor
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/sands/SingleColor
+:Semantic name: sands:SingleColor
 
-:Display as: Single color
+:Display as: Sands:single color
 
 
 ------------

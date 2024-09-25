@@ -2,9 +2,9 @@
 SlicingDevice
 #############
 
-:Semantic name: https://openminds.ebrains.eu/specimenPrep/SlicingDevice
+:Semantic name: specimenPrep:SlicingDevice
 
-:Display as: Slicing device
+:Display as: Specimen prep:slicing device
 
 
 ------------

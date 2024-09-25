@@ -2,11 +2,9 @@
 CoordinatePoint
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/sands/CoordinatePoint
+:Semantic name: sands:CoordinatePoint
 
-:Display as: Coordinate point
-
-Structured information on a coordinate point.
+:Display as: Sands:coordinate point
 
 
 ------------
@@ -33,7 +31,7 @@ Two or three dimensional geometric setting.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinateSpace
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_ or `CustomCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customCoordinateSpace.html>`_
+                | sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\] or sands:CustomCoordinateSpace \[TYPE_ERROR\]
    :instructions: Add the coordinate space in which this coordinate point exists in.
 
 `BACK TO TOP <CoordinatePoint_>`_
@@ -52,7 +50,7 @@ Pair or triplet of numbers defining a location in a given coordinate space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/coordinates
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the coordinates of this point within the stated coordinate space for two-dimensonal spaces as [x, y] or for three-dimensional space as [x, y, z].
 
 `BACK TO TOP <CoordinatePoint_>`_

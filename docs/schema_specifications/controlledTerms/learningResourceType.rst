@@ -2,9 +2,9 @@
 LearningResourceType
 ####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
+:Semantic name: controlledTerms:LearningResourceType
 
-:Display as: Learning resource type
+:Display as: Controlled terms:learning resource type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/learningResourceType.html>`_.

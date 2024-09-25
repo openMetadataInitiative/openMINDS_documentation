@@ -2,9 +2,9 @@
 PipetteUsage
 ############
 
-:Semantic name: https://openminds.ebrains.eu/ephys/PipetteUsage
+:Semantic name: ephys:PipetteUsage
 
-:Display as: Pipette usage
+:Display as: Ephys:pipette usage
 
 
 ------------
@@ -29,7 +29,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
    :value type: | linked object of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the pipette tip.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -46,7 +46,7 @@ chlorideReversalPotential
 
    :semantic name: https://openminds.ebrains.eu/vocab/chlorideReversalPotential
    :value type: | embedded object array \(1-N\) of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter all chloride reversal potentials for the intracellular solution(s) of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -63,7 +63,7 @@ compensationCurrent
 
    :semantic name: https://openminds.ebrains.eu/vocab/compensationCurrent
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the compensation current for the series resistance of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -82,7 +82,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object of type
-                | `Pipette <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipette.html>`_
+                | ephys:Pipette \[TYPE_ERROR\]
    :instructions: Add the pipette used.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -99,7 +99,7 @@ endMembranePotential
 
    :semantic name: https://openminds.ebrains.eu/vocab/endMembranePotential
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the membrane potential of e.g., a patched cell at the end of a recording measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -116,7 +116,7 @@ holdingPotential
 
    :semantic name: https://openminds.ebrains.eu/vocab/holdingPotential
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the holding membrane potential of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -133,7 +133,7 @@ inputResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputResistance
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the input resistance of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -150,7 +150,7 @@ labelingCompound
 
    :semantic name: https://openminds.ebrains.eu/vocab/labelingCompound
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
    :instructions: Add the used compound for labelling e.g., a patched cell during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -167,7 +167,7 @@ liquidJunctionPotential
 
    :semantic name: https://openminds.ebrains.eu/vocab/liquidJunctionPotential
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the liquid junction potential of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -218,7 +218,7 @@ pipetteResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/pipetteResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the resistance of the pipette during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -235,7 +235,7 @@ pipetteSolution
 
    :semantic name: https://openminds.ebrains.eu/vocab/pipetteSolution
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_
+                | chemicals:ChemicalMixture \[TYPE_ERROR\]
    :instructions: Enter the solution with which the pipette was filled during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -252,7 +252,7 @@ sealResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/sealResistance
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the seal resistance of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -269,7 +269,7 @@ seriesResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/seriesResistance
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the series resistance of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -303,7 +303,7 @@ startMembranePotential
 
    :semantic name: https://openminds.ebrains.eu/vocab/startMembranePotential
    :value type: | embedded object of type
-                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
+                | core:Measurement \[TYPE_ERROR\]
    :instructions: Enter the membrane potential of e.g., a patched cell at the beginning of a recording measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_

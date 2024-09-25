@@ -2,9 +2,9 @@
 EphysStimulus
 #############
 
-:Semantic name: https://openminds.ebrains.eu/stimulation/EphysStimulus
+:Semantic name: stimulation:EphysStimulus
 
-:Display as: Ephys stimulus
+:Display as: Stimulation:ephys stimulus
 
 
 ------------
@@ -29,7 +29,7 @@ deliveredBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/deliveredBy
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | ephys:ElectrodeArrayUsage \[TYPE_ERROR\], ephys:ElectrodeUsage \[TYPE_ERROR\], ephys:PipetteUsage \[TYPE_ERROR\] or specimenPrep:SlicingDeviceUsage \[TYPE_ERROR\]
    :instructions: Add the device used to deliver this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -65,7 +65,7 @@ epoch
 
    :semantic name: https://openminds.ebrains.eu/vocab/epoch
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the total epoch length of this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -82,7 +82,7 @@ generatedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/generatedBy
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | ephys:ElectrodeArrayUsage \[TYPE_ERROR\], ephys:ElectrodeUsage \[TYPE_ERROR\], ephys:PipetteUsage \[TYPE_ERROR\] or specimenPrep:SlicingDeviceUsage \[TYPE_ERROR\]
    :instructions: Add the device used to generate this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -137,7 +137,7 @@ Detailed and precise presentation of, or proposal for something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | linked object array \(1-N\) of type
-                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/configuration.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_ or `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/propertyValueList.html>`_
+                | core:Configuration \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\] or core:PropertyValueList \[TYPE_ERROR\]
    :instructions: Add the specification information for this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -156,7 +156,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object of type
-                | `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`_
+                | controlledTerms:ElectricalStimulusType \[TYPE_ERROR\]
    :instructions: Add the type that describe this electrical stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_

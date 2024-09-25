@@ -2,9 +2,9 @@
 QualitativeRelationAssessment
 #############################
 
-:Semantic name: https://openminds.ebrains.eu/sands/QualitativeRelationAssessment
+:Semantic name: sands:QualitativeRelationAssessment
 
-:Display as: Qualitative relation assessment
+:Display as: Sands:qualitative relation assessment
 
 
 ------------
@@ -31,7 +31,7 @@ Aspects or standards on which a judgement or decision is based.
 
    :semantic name: https://openminds.ebrains.eu/vocab/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocolExecution.html>`_
+                | core:ProtocolExecution \[TYPE_ERROR\]
    :instructions: Add the protocol execution defining the criteria that were applied to determine this relation.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_
@@ -50,7 +50,7 @@ Reference to a related element.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inRelationTo
    :value type: | linked object of type
-                | `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add the anatomical entity to which the relation is described.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_
@@ -69,7 +69,7 @@ Semantic characterization of how much two things occupy the same space.
 
    :semantic name: https://openminds.ebrains.eu/vocab/qualitativeOverlap
    :value type: | linked object of type
-                | `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
+                | controlledTerms:QualitativeOverlap \[TYPE_ERROR\]
    :instructions: Add the qualitative overlap that best describes the relation between the two anatomical entities.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_

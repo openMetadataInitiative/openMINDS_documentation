@@ -2,11 +2,9 @@
 AnatomicalAxesOrientation
 #########################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
+:Semantic name: controlledTerms:AnatomicalAxesOrientation
 
-:Display as: Anatomical axes orientation
-
-Structured information on the anatomical directions of the X, Y, and Z axis.
+:Display as: Controlled terms:anatomical axes orientation
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/anatomicalAxesOrientation.html>`_.

@@ -2,9 +2,9 @@
 Electrode
 #########
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Electrode
+:Semantic name: ephys:Electrode
 
-:Display as: Electrode
+:Display as: Ephys:electrode
 
 
 ------------
@@ -29,7 +29,7 @@ conductorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/conductorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
    :instructions: Add the conductor material of this electrode.
 
 `BACK TO TOP <Electrode_>`_
@@ -101,7 +101,7 @@ insulatorMaterial
 
    :semantic name: https://openminds.ebrains.eu/vocab/insulatorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
    :instructions: Add the insulator material of this electrode.
 
 `BACK TO TOP <Electrode_>`_
@@ -137,7 +137,7 @@ intrinsicResistance
 
    :semantic name: https://openminds.ebrains.eu/vocab/intrinsicResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the intrinsic resistance of this electrode.
 
 `BACK TO TOP <Electrode_>`_

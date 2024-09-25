@@ -2,9 +2,9 @@
 GustatoryStimulusType
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+:Semantic name: controlledTerms:GustatoryStimulusType
 
-:Display as: Gustatory stimulus type
+:Display as: Controlled terms:gustatory stimulus type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/gustatoryStimulusType.html>`_.

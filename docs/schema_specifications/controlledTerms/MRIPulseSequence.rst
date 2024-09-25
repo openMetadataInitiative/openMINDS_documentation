@@ -2,9 +2,9 @@
 MRIPulseSequence
 ################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MRIPulseSequence
+:Semantic name: controlledTerms:MRIPulseSequence
 
-:Display as: Mripulse sequence
+:Display as: Controlled terms:mripulse sequence
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/MRIPulseSequence.html>`_.

@@ -2,9 +2,9 @@
 Circle
 ######
 
-:Semantic name: https://openminds.ebrains.eu/sands/Circle
+:Semantic name: sands:Circle
 
-:Display as: Circle
+:Display as: Sands:circle
 
 
 ------------
@@ -29,7 +29,7 @@ radius
 
    :semantic name: https://openminds.ebrains.eu/vocab/radius
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the radius of this circle.
 
 `BACK TO TOP <Circle_>`_

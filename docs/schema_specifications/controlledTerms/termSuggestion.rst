@@ -2,9 +2,9 @@
 TermSuggestion
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/TermSuggestion
+:Semantic name: controlledTerms:TermSuggestion
 
-:Display as: Term suggestion
+:Display as: Controlled terms:term suggestion
 
 
 ------------
@@ -31,7 +31,7 @@ Reference to an existing terminology (distinct class to group related terms).
 
    :semantic name: https://openminds.ebrains.eu/vocab/addExistingTerminology
    :value type: | linked object of type
-                | `Terminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/terminology.html>`_
+                | controlledTerms:Terminology \[TYPE_ERROR\]
    :instructions: Add an existing terminology in which the suggested term should be integrated in.
 
 `BACK TO TOP <TermSuggestion_>`_

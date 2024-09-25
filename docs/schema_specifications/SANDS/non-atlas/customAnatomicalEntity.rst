@@ -2,9 +2,9 @@
 CustomAnatomicalEntity
 ######################
 
-:Semantic name: https://openminds.ebrains.eu/sands/CustomAnatomicalEntity
+:Semantic name: sands:CustomAnatomicalEntity
 
-:Display as: Custom anatomical entity
+:Display as: Sands:custom anatomical entity
 
 
 ------------
@@ -29,7 +29,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | `CustomAnnotation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnnotation.html>`_
+                | sands:CustomAnnotation \[TYPE_ERROR\]
    :instructions: Add all custom annotations which define this custom anatomical entity.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -65,7 +65,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
+                | controlledTerms:Organ \[TYPE_ERROR\] or controlledTerms:UBERONParcellation \[TYPE_ERROR\]
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -82,7 +82,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
+                | sands:QualitativeRelationAssessment \[TYPE_ERROR\] or sands:QuantitativeRelationAssessment \[TYPE_ERROR\]
    :instructions: Add all relations (qualitative or quantitative) of this custom anatomical entity to other anatomical entities.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_

@@ -2,9 +2,9 @@
 LivePaperSection
 ################
 
-:Semantic name: https://openminds.ebrains.eu/publications/LivePaperSection
+:Semantic name: publications:LivePaperSection
 
-:Display as: Live paper section
+:Display as: Publications:live paper section
 
 
 ------------
@@ -50,7 +50,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_
+                | publications:LivePaperVersion \[TYPE_ERROR\]
    :instructions: Add the live paper version this live paper section is part of.
 
 `BACK TO TOP <LivePaperSection_>`_

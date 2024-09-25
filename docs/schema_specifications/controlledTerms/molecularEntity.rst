@@ -2,9 +2,9 @@
 MolecularEntity
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+:Semantic name: controlledTerms:MolecularEntity
 
-:Display as: Molecular entity
+:Display as: Controlled terms:molecular entity
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/molecularEntity.html>`_.

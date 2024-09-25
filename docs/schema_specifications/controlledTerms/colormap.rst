@@ -2,9 +2,9 @@
 Colormap
 ########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Colormap
+:Semantic name: controlledTerms:Colormap
 
-:Display as: Colormap
+:Display as: Controlled terms:colormap
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/colormap.html>`_.

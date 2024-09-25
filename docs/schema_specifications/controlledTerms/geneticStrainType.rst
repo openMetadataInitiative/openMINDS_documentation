@@ -2,9 +2,9 @@
 GeneticStrainType
 #################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/GeneticStrainType
+:Semantic name: controlledTerms:GeneticStrainType
 
-:Display as: Genetic strain type
+:Display as: Controlled terms:genetic strain type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/geneticStrainType.html>`_.

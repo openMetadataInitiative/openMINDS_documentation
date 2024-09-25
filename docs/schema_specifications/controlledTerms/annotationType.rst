@@ -2,9 +2,9 @@
 AnnotationType
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/AnnotationType
+:Semantic name: controlledTerms:AnnotationType
 
-:Display as: Annotation type
+:Display as: Controlled terms:annotation type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/annotationType.html>`_.

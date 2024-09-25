@@ -2,11 +2,9 @@
 ContributionType
 ################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ContributionType
+:Semantic name: controlledTerms:ContributionType
 
-:Display as: Contribution type
-
-Structured information on the type of contribution a person or organization performed.
+:Display as: Controlled terms:contribution type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/contributionType.html>`_.

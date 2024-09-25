@@ -2,11 +2,9 @@
 EthicsAssessment
 ################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
+:Semantic name: controlledTerms:EthicsAssessment
 
-:Display as: Ethics assessment
-
-Structured information on the ethics assessment of a dataset.
+:Display as: Controlled terms:ethics assessment
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/ethicsAssessment.html>`_.

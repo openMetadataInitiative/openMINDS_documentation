@@ -2,11 +2,9 @@
 ModelScope
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ModelScope
+:Semantic name: controlledTerms:ModelScope
 
-:Display as: Model scope
-
-Structured information on the scope of the computational model.
+:Display as: Controlled terms:model scope
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/modelScope.html>`_.

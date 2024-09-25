@@ -2,9 +2,9 @@
 Periodical
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/publications/Periodical
+:Semantic name: publications:Periodical
 
-:Display as: Periodical
+:Display as: Publications:periodical
 
 
 ------------
@@ -48,7 +48,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `ISSN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISSN.html>`_
+                | core:ISSN \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this periodical.
 
 `BACK TO TOP <Periodical_>`_

@@ -2,9 +2,9 @@
 CommonCoordinateSpace
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+:Semantic name: sands:CommonCoordinateSpace
 
-:Display as: Common coordinate space
+:Display as: Sands:common coordinate space
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateSpaces.html>`_.
@@ -107,7 +107,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | core:DOI \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\] or core:RRID \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -145,7 +145,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\]
    :instructions: Add all versions of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_
@@ -238,7 +238,7 @@ usedSpecies
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecies
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_
+                | controlledTerms:Species \[TYPE_ERROR\]
    :instructions: Add the species that was used for the creation of this common coordinate space.
 
 `BACK TO TOP <CommonCoordinateSpace_>`_

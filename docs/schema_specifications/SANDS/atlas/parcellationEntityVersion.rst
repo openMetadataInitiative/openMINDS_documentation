@@ -2,9 +2,9 @@
 ParcellationEntityVersion
 #########################
 
-:Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+:Semantic name: sands:ParcellationEntityVersion
 
-:Display as: Parcellation entity version
+:Display as: Sands:parcellation entity version
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions.html>`_.
@@ -101,7 +101,7 @@ hasAnnotation
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/atlasAnnotation.html>`_
+                | sands:AtlasAnnotation \[TYPE_ERROR\]
    :instructions: Add all atlas annotations which define this parcellation entity version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -120,7 +120,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -192,7 +192,7 @@ relationAssessment
 
    :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
+                | sands:QualitativeRelationAssessment \[TYPE_ERROR\] or sands:QuantitativeRelationAssessment \[TYPE_ERROR\]
    :instructions: Add all relations (qualitative or quantitative) of this parcellation entity version to other anatomical entities.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_

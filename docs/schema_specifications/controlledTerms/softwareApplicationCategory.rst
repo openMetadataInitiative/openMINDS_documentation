@@ -2,11 +2,9 @@
 SoftwareApplicationCategory
 ###########################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
+:Semantic name: controlledTerms:SoftwareApplicationCategory
 
-:Display as: Software application category
-
-Structured information on the category of the software application.
+:Display as: Controlled terms:software application category
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/softwareApplicationCategory.html>`_.

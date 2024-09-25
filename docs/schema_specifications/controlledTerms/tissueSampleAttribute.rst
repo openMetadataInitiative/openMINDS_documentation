@@ -2,9 +2,9 @@
 TissueSampleAttribute
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
+:Semantic name: controlledTerms:TissueSampleAttribute
 
-:Display as: Tissue sample attribute
+:Display as: Controlled terms:tissue sample attribute
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/tissueSampleAttribute.html>`_.

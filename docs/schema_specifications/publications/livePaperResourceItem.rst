@@ -2,9 +2,9 @@
 LivePaperResourceItem
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/publications/LivePaperResourceItem
+:Semantic name: publications:LivePaperResourceItem
 
-:Display as: Live paper resource item
+:Display as: Publications:live paper resource item
 
 
 ------------
@@ -50,8 +50,8 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_, `WebService <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webService.html>`_ or `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
-   :instructions: Add the web service or organization that hosts this live paper resource item.
+                | core:Organization \[TYPE_ERROR\]
+   :instructions: Add the host organization of this live paper resource item.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
 
@@ -69,7 +69,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperSection.html>`_
+                | publications:LivePaperSection \[TYPE_ERROR\]
    :instructions: Add the live paper section this live paper resource item is part of.
 
 `BACK TO TOP <LivePaperResourceItem_>`_

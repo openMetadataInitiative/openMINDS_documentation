@@ -2,11 +2,9 @@
 Language
 ########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/Language
+:Semantic name: controlledTerms:Language
 
-:Display as: Language
-
-Structured information on the available language setting.
+:Display as: Controlled terms:language
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/language.html>`_.

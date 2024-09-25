@@ -2,9 +2,9 @@
 ParcellationEntity
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/sands/ParcellationEntity
+:Semantic name: sands:ParcellationEntity
 
-:Display as: Parcellation entity
+:Display as: Sands:parcellation entity
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities.html>`_.
@@ -86,7 +86,7 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
+                | sands:ParcellationEntity \[TYPE_ERROR\]
    :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corresponding brain atlas.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -105,7 +105,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | sands:ParcellationEntityVersion \[TYPE_ERROR\]
    :instructions: Add all versions of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -177,7 +177,7 @@ relatedUBERONTerm
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
    :value type: | linked object of type
-                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
+                | controlledTerms:Organ \[TYPE_ERROR\] or controlledTerms:UBERONParcellation \[TYPE_ERROR\]
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <ParcellationEntity_>`_

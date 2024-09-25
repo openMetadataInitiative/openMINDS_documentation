@@ -2,9 +2,9 @@
 StimulationApproach
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
+:Semantic name: controlledTerms:StimulationApproach
 
-:Display as: Stimulation approach
+:Display as: Controlled terms:stimulation approach
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/stimulationApproach.html>`_.

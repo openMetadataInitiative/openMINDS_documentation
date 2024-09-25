@@ -2,9 +2,9 @@
 ChemicalMixtureType
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
+:Semantic name: controlledTerms:ChemicalMixtureType
 
-:Display as: Chemical mixture type
+:Display as: Controlled terms:chemical mixture type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/chemicalMixtureType.html>`_.
