@@ -61,7 +61,7 @@ autismSpectrumDisorder
 
    :@id: https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
-   :name: autism sprectrum disorder
+   :name: autism spectrum disorder
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0060041
 
 `BACK TO TOP <Terminologies: Disease library_>`_
