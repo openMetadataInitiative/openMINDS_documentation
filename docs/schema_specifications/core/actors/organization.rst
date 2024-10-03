@@ -6,7 +6,7 @@ Organization
 
 :Display as: Organization
 
-Structured information on an organization.
+An entity comprised of one or more natural persons with a particular purpose. [adapted from Wikipedia](https://en.wikipedia.org/wiki/Organization)
 
 
 ------------
