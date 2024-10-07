@@ -2,11 +2,9 @@
 Environment
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/computation/Environment
+:Semantic name: computation:Environment
 
-:Display as: Environment
-
-Structured information on the computer system or set of systems in which a computation is deployed and executed.
+:Display as: Computation:environment
 
 
 ------------
@@ -31,7 +29,7 @@ configuration
 
    :semantic name: https://openminds.ebrains.eu/vocab/configuration
    :value type: | linked object of type
-                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/configuration.html>`_
+                | core:Configuration \[TYPE_ERROR\]
    :instructions: Add the configuration of this computational environment.
 
 `BACK TO TOP <Environment_>`_
@@ -67,7 +65,7 @@ hardware
 
    :semantic name: https://openminds.ebrains.eu/vocab/hardware
    :value type: | linked object of type
-                | `HardwareSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/hardwareSystem.html>`_
+                | computation:HardwareSystem \[TYPE_ERROR\]
    :instructions: Add the hardware system on which this computational environment runs.
 
 `BACK TO TOP <Environment_>`_
@@ -103,7 +101,7 @@ software
 
    :semantic name: https://openminds.ebrains.eu/vocab/software
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | core:SoftwareVersion \[TYPE_ERROR\]
    :instructions: Add all software versions available in this computational environment.
 
 `BACK TO TOP <Environment_>`_

@@ -2,11 +2,9 @@
 ValidationTest
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/computation/ValidationTest
+:Semantic name: computation:ValidationTest
 
-:Display as: Validation test
-
-Structured information about the definition of a process for validating a computational model.
+:Display as: Computation:validation test
 
 
 ------------
@@ -90,7 +88,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_
+                | core:DOI \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <ValidationTest_>`_
@@ -128,7 +126,7 @@ Reference to variants of an original.
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_
+                | computation:ValidationTestVersion \[TYPE_ERROR\]
    :instructions: Add all versions of this validation test.
 
 `BACK TO TOP <ValidationTest_>`_
@@ -183,7 +181,7 @@ referenceDataAcquisition
 
    :semantic name: https://openminds.ebrains.eu/vocab/referenceDataAcquisition
    :value type: | linked object array \(1-N\) of type
-                | `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_
+                | controlledTerms:Technique \[TYPE_ERROR\]
    :instructions: Add all acquisition techniques that were used to obtain the reference data for this validation test.
 
 `BACK TO TOP <ValidationTest_>`_
@@ -202,7 +200,7 @@ Extent of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/scope
    :value type: | linked object of type
-                | `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelScope.html>`_
+                | controlledTerms:ModelScope \[TYPE_ERROR\]
    :instructions: Add the scope of this validation test.
 
 `BACK TO TOP <ValidationTest_>`_
@@ -219,7 +217,7 @@ scoreType
 
    :semantic name: https://openminds.ebrains.eu/vocab/scoreType
    :value type: | linked object of type
-                | `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/differenceMeasure.html>`_
+                | controlledTerms:DifferenceMeasure \[TYPE_ERROR\]
    :instructions: Add the type of score calculated in this validation test.
 
 `BACK TO TOP <ValidationTest_>`_

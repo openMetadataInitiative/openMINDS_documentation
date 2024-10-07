@@ -2,11 +2,9 @@
 SoftwareAgent
 #############
 
-:Semantic name: https://openminds.ebrains.eu/computation/SoftwareAgent
+:Semantic name: computation:SoftwareAgent
 
-:Display as: Software agent
-
-Structured information about a piece of software or web service that can perform a task autonomously.
+:Display as: Computation:software agent
 
 
 ------------
@@ -31,7 +29,7 @@ environment
 
    :semantic name: https://openminds.ebrains.eu/vocab/environment
    :value type: | linked object of type
-                | `Environment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/environment.html>`_
+                | computation:Environment \[TYPE_ERROR\]
    :instructions: Add the computational environment in which this software agent was running.
 
 `BACK TO TOP <SoftwareAgent_>`_
@@ -67,7 +65,7 @@ software
 
    :semantic name: https://openminds.ebrains.eu/vocab/software
    :value type: | linked object of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | core:SoftwareVersion \[TYPE_ERROR\]
    :instructions: Add the software version that is being run as this software agent.
 
 `BACK TO TOP <SoftwareAgent_>`_

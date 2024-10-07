@@ -2,11 +2,9 @@
 LocalFile
 #########
 
-:Semantic name: https://openminds.ebrains.eu/computation/LocalFile
+:Semantic name: computation:LocalFile
 
-:Display as: Local file
-
-Structured information about a file that is not accessible via a URL.
+:Display as: Computation:local file
 
 
 ------------
@@ -48,7 +46,7 @@ copyOf
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyOf
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+                | core:File \[TYPE_ERROR\]
    :instructions: Add the file of which this is a copy.
 
 `BACK TO TOP <LocalFile_>`_
@@ -65,7 +63,7 @@ dataType
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
+                | controlledTerms:DataType \[TYPE_ERROR\]
    :instructions: Add all data types that are specifically represented in this local file instance.
 
 `BACK TO TOP <LocalFile_>`_
@@ -84,7 +82,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this local file instance.
 
 `BACK TO TOP <LocalFile_>`_
@@ -103,7 +101,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | embedded object of type
-                | `Hash <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/hash.html>`_
+                | core:Hash \[TYPE_ERROR\]
    :instructions: Add the hash that was generated for this local file instance.
 
 `BACK TO TOP <LocalFile_>`_
@@ -158,7 +156,7 @@ Particular function of something when it is used.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specialUsageRole
    :value type: | linked object of type
-                | `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`_
+                | controlledTerms:FileUsageRole \[TYPE_ERROR\]
    :instructions: Add the special usage role of this local file instance.
 
 `BACK TO TOP <LocalFile_>`_
@@ -177,7 +175,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the storage size of this local file instance.
 
 `BACK TO TOP <LocalFile_>`_

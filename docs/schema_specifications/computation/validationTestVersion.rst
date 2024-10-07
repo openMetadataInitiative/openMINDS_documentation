@@ -2,11 +2,9 @@
 ValidationTestVersion
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/computation/ValidationTestVersion
+:Semantic name: computation:ValidationTestVersion
 
-:Display as: Validation test version
-
-Structured information about a specific implementation of a validation test.
+:Display as: Computation:validation test version
 
 
 ------------
@@ -50,7 +48,7 @@ configuration
 
    :semantic name: https://openminds.ebrains.eu/vocab/configuration
    :value type: | linked object of type
-                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/configuration.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/propertyValueList.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
+                | core:Configuration \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:PropertyValueList \[TYPE_ERROR\] or core:WebResource \[TYPE_ERROR\]
    :instructions: Add the configuration information for this validation test version (e.g., arguments to the SciUnit class).
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -145,7 +143,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_
+                | core:DOI \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -181,7 +179,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this validation test version, or the content types of the files composing the validation test version.
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -295,7 +293,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_
+                | computation:ValidationTestVersion \[TYPE_ERROR\]
    :instructions: Add all validation test versions that can be used alternatively to this validation test version.
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -314,7 +312,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_
+                | computation:ValidationTestVersion \[TYPE_ERROR\]
    :instructions: Add the validation test version preceding this validation test version.
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -352,7 +350,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object array \(1-N\) of type
-                | `License <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/license.html>`_
+                | core:License \[TYPE_ERROR\]
    :instructions: Add the license of this validation test version.
 
 `BACK TO TOP <ValidationTestVersion_>`_
@@ -388,7 +386,7 @@ referenceData
 
    :semantic name: https://openminds.ebrains.eu/vocab/referenceData
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
+                | core:DOI \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\] or core:WebResource \[TYPE_ERROR\]
    :instructions: Add the data that define the expected output of this validation test version.
 
 `BACK TO TOP <ValidationTestVersion_>`_

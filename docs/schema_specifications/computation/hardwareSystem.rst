@@ -2,11 +2,9 @@
 HardwareSystem
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/computation/HardwareSystem
+:Semantic name: computation:HardwareSystem
 
-:Display as: Hardware system
-
-Structured information about computing hardware.
+:Display as: Computation:hardware system
 
 
 ------------

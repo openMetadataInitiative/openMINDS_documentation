@@ -2,11 +2,9 @@
 LaunchConfiguration
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/computation/LaunchConfiguration
+:Semantic name: computation:LaunchConfiguration
 
-:Display as: Launch configuration
-
-Structured information about the launch of a computational process.
+:Display as: Computation:launch configuration
 
 
 ------------
@@ -67,7 +65,7 @@ environmentVariable
 
    :semantic name: https://openminds.ebrains.eu/vocab/environmentVariable
    :value type: | linked object of type
-                | `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/propertyValueList.html>`_
+                | core:PropertyValueList \[TYPE_ERROR\]
    :instructions: Add any environment variables defined by this launch configuration.
 
 `BACK TO TOP <LaunchConfiguration_>`_

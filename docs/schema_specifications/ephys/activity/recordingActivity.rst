@@ -194,7 +194,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <RecordingActivity_>`_

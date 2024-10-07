@@ -2,11 +2,9 @@
 WorkflowRecipeVersion
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/computation/WorkflowRecipeVersion
+:Semantic name: computation:WorkflowRecipeVersion
 
-:Display as: Workflow recipe version
-
-Structured information about a specific implemented version of a workflow recipe.
+:Display as: Computation:workflow recipe version
 
 
 ------------
@@ -128,7 +126,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_
+                | core:DOI \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -147,7 +145,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this workflow recipe version.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -221,7 +219,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(1-N\) of type
-                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_ or `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | computation:WorkflowRecipeVersion \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\] or core:SoftwareVersion \[TYPE_ERROR\]
    :instructions: Add all entities that are components of this workflow recipe version (e.g., other workflow recipe versions or software used in this workflow).
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -278,7 +276,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_
+                | computation:WorkflowRecipeVersion \[TYPE_ERROR\]
    :instructions: Add all workflow recipe versions that can be used alternatively to this workflow recipe version.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -297,7 +295,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_
+                | computation:WorkflowRecipeVersion \[TYPE_ERROR\]
    :instructions: Add the workflow recipe version preceding this workflow recipe version.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
@@ -335,7 +333,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object array \(1-N\) of type
-                | `License <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/license.html>`_
+                | core:License \[TYPE_ERROR\]
    :instructions: Add all licenses of this workflow recipe version.
 
 `BACK TO TOP <WorkflowRecipeVersion_>`_
