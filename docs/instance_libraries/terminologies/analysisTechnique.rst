@@ -416,6 +416,22 @@ diffeomorphicRegistration
 
 ------------
 
+dynamicCausalModeling
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/dynamicCausalModeling
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: An analysis framework for specifying non-linear state-space models in continuous time using stochastic or ordinary differential equations, for fitting them to data and comparing their evidence using Bayesian model comparison.[adapted from [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103618
+   :name: dynamic causal modeling
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0103618
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 eyeMovementAnalysis
 -------------------
 
