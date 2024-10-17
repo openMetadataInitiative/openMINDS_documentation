@@ -2,11 +2,9 @@
 Copyright
 #########
 
-:Semantic name: https://openminds.ebrains.eu/core/Copyright
+:Semantic name: core:Copyright
 
-:Display as: Copyright
-
-Structured information on the copyright.
+:Display as: Core:copyright
 
 
 ------------
@@ -33,7 +31,7 @@ Legal person in possession of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/holder
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all parties that hold this copyright.
 
 `BACK TO TOP <Copyright_>`_

@@ -2,9 +2,9 @@
 SWHID
 #####
 
-:Semantic name: https://openminds.ebrains.eu/core/SWHID
+:Semantic name: core:SWHID
 
-:Display as: Swhid
+:Display as: Core:swhid
 
 
 ------------

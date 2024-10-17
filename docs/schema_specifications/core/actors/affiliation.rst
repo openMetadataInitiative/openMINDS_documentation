@@ -2,11 +2,9 @@
 Affiliation
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/Affiliation
+:Semantic name: core:Affiliation
 
-:Display as: Affiliation
-
-Structured information about a relationship between two entities, such as a person and their employer.
+:Display as: Core:affiliation
 
 
 ------------
@@ -50,7 +48,7 @@ memberOf
 
    :semantic name: https://openminds.ebrains.eu/vocab/memberOf
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_ or `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
+                | core:Consortium \[TYPE_ERROR\] or core:Organization \[TYPE_ERROR\]
    :instructions: Add the organization or consortium another party was or still is a member of.
 
 `BACK TO TOP <Affiliation_>`_

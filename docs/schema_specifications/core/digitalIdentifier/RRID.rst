@@ -2,11 +2,9 @@
 RRID
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/RRID
+:Semantic name: core:RRID
 
-:Display as: Rrid
-
-A persistent identifier for a research resource provided by the Resource Identification Initiative.
+:Display as: Core:rrid
 
 
 ------------

@@ -2,11 +2,9 @@
 ProtocolExecution
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/ProtocolExecution
+:Semantic name: core:ProtocolExecution
 
-:Display as: Protocol execution
-
-Structured information on a protocol execution.
+:Display as: Core:protocol execution
 
 
 ------------
@@ -31,7 +29,7 @@ behavioralProtocol
 
    :semantic name: https://openminds.ebrains.eu/vocab/behavioralProtocol
    :value type: | linked object array \(1-N\) of type
-                | `BehavioralProtocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/behavioralProtocol.html>`_
+                | core:BehavioralProtocol \[TYPE_ERROR\]
    :instructions: Add all behavioral protocols that were performed during this protocol execution.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -48,7 +46,7 @@ customPropertySet
 
    :semantic name: https://openminds.ebrains.eu/vocab/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/customPropertySet.html>`_
+                | core:CustomPropertySet \[TYPE_ERROR\]
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -103,7 +101,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleCollectionState.html>`_, `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\], core:SubjectGroupState \[TYPE_ERROR\], core:SubjectState \[TYPE_ERROR\], core:TissueSampleCollectionState \[TYPE_ERROR\], core:TissueSampleState \[TYPE_ERROR\], `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add all inputs used by this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -122,7 +120,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_
+                | core:DatasetVersion \[TYPE_ERROR\]
    :instructions: Add the dataset version in which this activity was conducted.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -158,7 +156,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
+                | core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\], core:SubjectGroupState \[TYPE_ERROR\], core:SubjectState \[TYPE_ERROR\], core:TissueSampleCollectionState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
    :instructions: Add all outputs generated by this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -175,7 +173,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -192,7 +190,7 @@ preparationDesign
 
    :semantic name: https://openminds.ebrains.eu/vocab/preparationDesign
    :value type: | linked object of type
-                | `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`_
+                | controlledTerms:PreparationType \[TYPE_ERROR\]
    :instructions: Add the initial preparation type for this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
@@ -211,7 +209,7 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
    :semantic name: https://openminds.ebrains.eu/vocab/protocol
    :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocol.html>`_
+                | core:Protocol \[TYPE_ERROR\]
    :instructions: Add all protocols used during this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_

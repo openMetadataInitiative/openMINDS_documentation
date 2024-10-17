@@ -2,9 +2,9 @@
 FileArchive
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/FileArchive
+:Semantic name: core:FileArchive
 
-:Display as: File archive
+:Display as: Core:file archive
 
 
 ------------
@@ -50,7 +50,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this file archive.
 
 `BACK TO TOP <FileArchive_>`_
@@ -67,7 +67,7 @@ sourceData
 
    :semantic name: https://openminds.ebrains.eu/vocab/sourceData
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+                | core:File \[TYPE_ERROR\]
    :instructions: Add the data that were ingested and modified to create this file archive.
 
 `BACK TO TOP <FileArchive_>`_

@@ -80,7 +80,7 @@ startedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/startedBy
    :value type: | linked object of type
-                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add the agent that started this workflow execution.
 
 `BACK TO TOP <WorkflowExecution_>`_

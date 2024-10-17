@@ -2,11 +2,9 @@
 BehavioralProtocol
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/core/BehavioralProtocol
+:Semantic name: core:BehavioralProtocol
 
-:Display as: Behavioral protocol
-
-Structured information about a protocol used in an experiment studying human or animal behavior.
+:Display as: Core:behavioral protocol
 
 
 ------------
@@ -31,7 +29,7 @@ describedIn
 
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
+                | core:DOI \[TYPE_ERROR\], core:File \[TYPE_ERROR\] or core:WebResource \[TYPE_ERROR\]
    :instructions: Add all sources in which this behavioral protocol is described in detail.
 
 `BACK TO TOP <BehavioralProtocol_>`_
@@ -105,7 +103,7 @@ stimulation
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulation
    :value type: | linked object array \(1-N\) of type
-                | `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_ or `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_
+                | controlledTerms:StimulationApproach \[TYPE_ERROR\] or controlledTerms:StimulationTechnique \[TYPE_ERROR\]
    :instructions: Add all stimulation approaches and/or techniques used within this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_

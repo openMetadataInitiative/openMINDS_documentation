@@ -13,8 +13,8 @@ landmarkBased
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/landmarkBased
-   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
+   :@id: https://openminds.om-i.org/instances/anatomicalIdentificationType/landmarkBased
+   :@type: https://openminds.om-i.org/types/AnatomicalIdentificationType
    :definition: 'Landmark based' identification makes use of distinct anatomical structures as a point of orientation in locating other structures in the body.
    :name: landmark based
 
@@ -27,8 +27,8 @@ stereotactic
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/anatomicalIdentificationType/stereotactic
-   :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalIdentificationType
+   :@id: https://openminds.om-i.org/instances/anatomicalIdentificationType/stereotactic
+   :@type: https://openminds.om-i.org/types/AnatomicalIdentificationType
    :definition: 'Stereotactic' identification makes use of three-dimensional coordinate system to locate specific targets inside the body. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Stereotactic_surgery)]
    :name: stereotactic
 

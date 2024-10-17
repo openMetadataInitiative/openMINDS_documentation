@@ -13,8 +13,8 @@ AMB-CCF
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/AMB-CCF
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/AMB-CCF
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: AMB CCF
    :description: The 'Allen Mouse Brain Common Coordinate Framework' is a 3D reconstruction of an averaged adult mouse brain.
    :fullName: Allen Mouse Brain Common Coordinate Framework
@@ -32,8 +32,8 @@ BigBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/BigBrain
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: BigBrain
    :description: The 'BigBrain Whole-Brain Model' is a 3D reconstruction of a human brain in extremely high resolution.
    :fullName: BigBrain Whole-Brain Model
@@ -51,8 +51,8 @@ MEBRAINStemplate
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MEBRAINStemplate
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MEBRAINStemplate
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: MEBRAINStemplate
    :description: The 'MEBRAINS population-based monkey brain template' is a multi-subject based, multi-modal, volume and surface brain template for macaque monkeys.
    :fullName: MEBRAINS population-based monkey brain template
@@ -69,8 +69,8 @@ MNI-Colin27
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-Colin27
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: MNI-Colin27
    :description: The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of 27 T1-weighted MRI scans of the same individual. It was created at the Montreal Neurological Institute (MNI) in a two step process: (1) each of the 27 T1-weighted scans were registered to stereotaxic space using MRITOTAL (an automated volumetric registration procedure) and resampled onto a 1mm grid. All 27 scans were averaged together to create an initial average. (2) The initial average volume was used as a target for a second phase of registration where each original T1-weighted MRI was re-registered in stereotaxic space. This two-step procedure has the advantage of removing the small variance in intra-subject mapping in stereotaxic space associated with the use of a multi-subject average resulting in an average brain stereotaxic registration model with high signal-to-noise ratio and structure definition.
    :fullName: MNI Colin27 Average Brain Stereotaxic Registration Model
@@ -89,8 +89,8 @@ MNI-ICBM152
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-ICBM152
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-ICBM152
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: ICBM152
    :description: The 'MNI ICBM152 Average Brain Stereotaxic Registration Model' is an average of T1-weighted magnetic resonance imaging (MRI) scans from 152 normative young adults.
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
@@ -108,8 +108,8 @@ PW-RBSC-corT
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/PW-RBSC-corT
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: PW-RBSC-corT
    :description: Stereotactic coordinate space of the coronal plane.
    :fullName: Paxinos and Watson's Coronal Template of the Rat Brain in Stereotaxic Coordinates
@@ -126,8 +126,8 @@ SwansonSRB
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/SwansonSRB
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/SwansonSRB
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: SwansonSRB
    :description: Stereotactic coordinate system derived from the atlas by Paxinos and Watson (1986; ISBN: 0-12-547621-3).
    :fullName: Swanson's Stereotactic Brain of the Sprague Dawley Rat
@@ -144,8 +144,8 @@ WHSSD
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/WHSSD
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/WHSSD
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: WHSSD
    :description: The 'Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)' employs a continuous three- dimensional Cartesian coordinate system, with its origin set at the decussation of the anterior commissure.
    :fullName: Waxholm Space of the Sprague Dawley Rat Brain (coordinate space)
@@ -163,8 +163,8 @@ fsLR
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsLR
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/fsLR
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: fsLR
    :description: The 'Unbiased FsAverage Left–Right Hybrid Surface Space' (fsLR) brings the left and right fsaverage surfaces into geographic correspondence using Landmark-SBR ([Van Essen et al. 2011](https://doi.org/10.1093/cercor/bhr291)).
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
@@ -181,8 +181,8 @@ fsaverage
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsaverage
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/commonCoordinateSpaceVersions/fsaverage.html>`_

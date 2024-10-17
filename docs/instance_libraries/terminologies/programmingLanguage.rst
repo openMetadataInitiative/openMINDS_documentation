@@ -13,8 +13,8 @@ AMPL
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/types/programmingLanguage/AMPL
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: AMPL
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q295250
 
@@ -27,8 +27,8 @@ Bash
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Bash
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Bash
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189248
 
@@ -41,8 +41,8 @@ C#
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C#
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/C#
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C#
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2370
 
@@ -55,8 +55,8 @@ C++
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C++
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/C++
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C++
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2407
 
@@ -69,8 +69,8 @@ C
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/C
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q15777
 
@@ -83,8 +83,8 @@ Fortran
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Fortran
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Fortran
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q83303
 
@@ -97,8 +97,8 @@ GLSL
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/GLSL
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: GLSL
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q779819
 
@@ -111,8 +111,8 @@ HTML
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/HTML
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: HTML
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q8811
 
@@ -125,8 +125,8 @@ Java
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Java
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Java
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Java
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q251
 
@@ -139,8 +139,8 @@ JavaScript
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/JavaScript
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: JavaScript
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2005
 
@@ -153,8 +153,8 @@ MATLAB
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/MATLAB
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: MATLAB
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q37805571
 
@@ -167,8 +167,8 @@ PHP
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/PHP
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: PHP
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q59
 
@@ -181,8 +181,8 @@ Pascal
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Pascal
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Pascal
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q81571
 
@@ -195,8 +195,8 @@ Python
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Python
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Python
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Python
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q28865
 
@@ -209,8 +209,8 @@ R
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/R
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/R
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: R
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q206904
 
@@ -223,8 +223,8 @@ Ruby
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Ruby
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Ruby
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q161053
 
@@ -237,8 +237,8 @@ Scala
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/Scala
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Scala
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q460584
 
@@ -251,8 +251,8 @@ T-SQL
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/T-SQL
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: T-SQL
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1411245
 
@@ -265,8 +265,8 @@ TypeScript
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/TypeScript
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: TypeScript
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q978185
 
@@ -279,8 +279,8 @@ shell
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/shell
-   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/shell
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Shell
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q14663
 

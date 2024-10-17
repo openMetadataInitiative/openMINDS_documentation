@@ -13,8 +13,8 @@ directCurrent
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
-   :@type: https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType
+   :@id: https://openminds.om-i.org/instances/electricalStimulusType/directCurrent
+   :@type: https://openminds.om-i.org/types/ElectricalStimulusType
    :name: direct current
 
 `BACK TO TOP <Terminologies: ElectricalStimulusType library_>`_

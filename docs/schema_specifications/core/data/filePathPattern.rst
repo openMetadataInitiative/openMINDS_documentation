@@ -2,9 +2,9 @@
 FilePathPattern
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/core/FilePathPattern
+:Semantic name: core:FilePathPattern
 
-:Display as: File path pattern
+:Display as: Core:file path pattern
 
 
 ------------
@@ -29,7 +29,7 @@ groupingType
 
    :semantic name: https://openminds.ebrains.eu/vocab/groupingType
    :value type: | linked object array \(1-N\) of type
-                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
+                | controlledTerms:FileBundleGrouping \[TYPE_ERROR\]
    :instructions: Add all grouping types that are defined by this file path pattern.
 
 `BACK TO TOP <FilePathPattern_>`_

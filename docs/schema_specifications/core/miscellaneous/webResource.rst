@@ -2,9 +2,9 @@
 WebResource
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/WebResource
+:Semantic name: core:WebResource
 
-:Display as: Web resource
+:Display as: Core:web resource
 
 
 ------------
@@ -67,7 +67,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the expected content type of the document at this web resource.
 
 `BACK TO TOP <WebResource_>`_

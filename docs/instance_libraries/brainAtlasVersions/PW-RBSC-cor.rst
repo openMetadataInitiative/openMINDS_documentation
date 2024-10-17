@@ -13,10 +13,10 @@ PW-RBSC-cor_6th-ed-Bregma-LIA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
@@ -34,10 +34,10 @@ PW-RBSC-cor_6th-ed-Bregma-RIA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
@@ -55,10 +55,10 @@ PW-RBSC-cor_6th-ed-Interaural-LSA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.
@@ -76,10 +76,10 @@ PW-RBSC-cor_6th-ed-Interaural-RSA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-12-547612-4
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-12-547612-4
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
    :howToCite: Paxinos, G. and Watson, C. (2006) The Rat Brain in Stereotaxic Coordinates. 6th Edition, Academic Press, San Diego.

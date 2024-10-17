@@ -2,11 +2,9 @@
 QuantitativeValue
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValue
+:Semantic name: core:QuantitativeValue
 
-:Display as: Quantitative value
-
-Structured information on a quantitative value.
+:Display as: Core:quantitative value
 
 
 ------------
@@ -33,7 +31,7 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
    :value type: | linked object of type
-                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
+                | controlledTerms:TypeOfUncertainty \[TYPE_ERROR\]
    :instructions: Add the type of uncertainty used to determine the uncertainty for this quantitative value.
 
 `BACK TO TOP <QuantitativeValue_>`_
@@ -70,7 +68,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
    :instructions: Add the unit of measurement of this quantitative value and its uncertainty.
 
 `BACK TO TOP <QuantitativeValue_>`_

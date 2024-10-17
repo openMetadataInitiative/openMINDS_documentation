@@ -2,11 +2,9 @@
 Comment
 #######
 
-:Semantic name: https://openminds.ebrains.eu/core/Comment
+:Semantic name: core:Comment
 
-:Display as: Comment
-
-Structured information about a short text expressing an opinion on, or giving information about some entity.
+:Display as: Core:comment
 
 
 ------------
@@ -31,7 +29,7 @@ about
 
    :semantic name: https://openminds.ebrains.eu/vocab/about
    :value type: | linked object of type
-                | computation:ValidationTest \[TYPE_ERROR\], computation:ValidationTestVersion \[TYPE_ERROR\], computation:WorkflowRecipe \[TYPE_ERROR\], computation:WorkflowRecipeVersion \[TYPE_ERROR\], `Dataset <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/dataset.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_, `MetaDataModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModel.html>`_, `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModelVersion.html>`_, `Model <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/model.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `Software <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/software.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `WebService <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webService.html>`_, `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_, publications:LivePaper \[TYPE_ERROR\], publications:LivePaperVersion \[TYPE_ERROR\], sands:BrainAtlas \[TYPE_ERROR\], sands:BrainAtlasVersion \[TYPE_ERROR\], sands:CommonCoordinateSpace \[TYPE_ERROR\] or sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\]
+                | computation:ValidationTest \[TYPE_ERROR\], computation:ValidationTestVersion \[TYPE_ERROR\], computation:WorkflowRecipe \[TYPE_ERROR\], computation:WorkflowRecipeVersion \[TYPE_ERROR\], core:Dataset \[TYPE_ERROR\], core:DatasetVersion \[TYPE_ERROR\], core:MetaDataModel \[TYPE_ERROR\], core:MetaDataModelVersion \[TYPE_ERROR\], core:Model \[TYPE_ERROR\], core:ModelVersion \[TYPE_ERROR\], core:Software \[TYPE_ERROR\], core:SoftwareVersion \[TYPE_ERROR\], core:WebService \[TYPE_ERROR\], core:WebServiceVersion \[TYPE_ERROR\], publications:LivePaper \[TYPE_ERROR\], publications:LivePaperVersion \[TYPE_ERROR\], sands:BrainAtlas \[TYPE_ERROR\], sands:BrainAtlasVersion \[TYPE_ERROR\], sands:CommonCoordinateSpace \[TYPE_ERROR\] or sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\]
    :instructions: Add the research product (version) that this comment is about.
 
 `BACK TO TOP <Comment_>`_
@@ -65,7 +63,7 @@ commenter
 
    :semantic name: https://openminds.ebrains.eu/vocab/commenter
    :value type: | linked object of type
-                | `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Person \[TYPE_ERROR\]
    :instructions: Add the person that created this comment.
 
 `BACK TO TOP <Comment_>`_

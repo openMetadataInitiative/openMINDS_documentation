@@ -2,9 +2,9 @@
 StringProperty
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/core/StringProperty
+:Semantic name: core:StringProperty
 
-:Display as: String property
+:Display as: Core:string property
 
 
 ------------

@@ -2,11 +2,9 @@
 NumericalProperty
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/NumericalProperty
+:Semantic name: core:NumericalProperty
 
-:Display as: Numerical property
-
-Structured information about a property of some entity or process whose value is a number.
+:Display as: Core:numerical property
 
 
 ------------
@@ -52,7 +50,7 @@ Entry for a property.
 
    :semantic name: https://openminds.ebrains.eu/vocab/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter all quantitative values that are described by this numerical property.
 
 `BACK TO TOP <NumericalProperty_>`_

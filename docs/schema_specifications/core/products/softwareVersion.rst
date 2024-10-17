@@ -2,9 +2,9 @@
 SoftwareVersion
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/core/SoftwareVersion
+:Semantic name: core:SoftwareVersion
 
-:Display as: Software version
+:Display as: Core:software version
 
 
 ------------
@@ -31,7 +31,7 @@ Level to which something is accessible to someone or something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/accessibility
    :value type: | linked object of type
-                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/productAccessibility.html>`_
+                | controlledTerms:ProductAccessibility \[TYPE_ERROR\]
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -50,7 +50,7 @@ Distinct class that groups software programs which perform a similar task or set
 
    :semantic name: https://openminds.ebrains.eu/vocab/applicationCategory
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareApplicationCategory.html>`_
+                | controlledTerms:SoftwareApplicationCategory \[TYPE_ERROR\]
    :instructions: Add all categories to which this software version belongs.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -69,7 +69,7 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
    :semantic name: https://openminds.ebrains.eu/vocab/copyright
    :value type: | embedded object of type
-                | `Copyright <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/copyright.html>`_
+                | core:Copyright \[TYPE_ERROR\]
    :instructions: Enter the copyright information of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -88,7 +88,7 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
    :semantic name: https://openminds.ebrains.eu/vocab/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the data, metadata, and/or code of the research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -126,7 +126,7 @@ Legal person that creates or improves products or services (e.g., software, appl
 
    :semantic name: https://openminds.ebrains.eu/vocab/developer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all parties that developed this software version. Note that these developers will overwrite the developer list provided for the overarching software.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -145,7 +145,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.ebrains.eu/vocab/device
    :value type: | linked object array \(1-N\) of type
-                | `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`_
+                | controlledTerms:OperatingDevice \[TYPE_ERROR\]
    :instructions: Add all operating devices compatible with this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -164,7 +164,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `SWHID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/SWHID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | core:DOI \[TYPE_ERROR\], core:SWHID \[TYPE_ERROR\] or core:RRID \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -183,7 +183,7 @@ Structure, form, or appearance that characterizes something or someone.
 
    :semantic name: https://openminds.ebrains.eu/vocab/feature
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareFeature <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareFeature.html>`_
+                | controlledTerms:SoftwareFeature \[TYPE_ERROR\]
    :instructions: Add all distinguishing characteristics of this software version (e.g., performance, portability or functionality).
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -202,7 +202,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
+                | core:DOI \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\] or core:WebResource \[TYPE_ERROR\]
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -240,7 +240,7 @@ Money provided by a legal person for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funding
    :value type: | linked object array \(1-N\) of type
-                | `Funding <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/funding.html>`_
+                | core:Funding \[TYPE_ERROR\]
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -257,7 +257,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | core:ModelVersion \[TYPE_ERROR\], core:SoftwareVersion \[TYPE_ERROR\], sands:BrainAtlasVersion \[TYPE_ERROR\] or sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\]
    :instructions: Add all software versions that supplement this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -314,7 +314,7 @@ Format of data that is put into a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/inputFormat
    :value type: | linked object array \(1-N\) of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add all content types that can be used as input by this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -333,7 +333,7 @@ Reference to an original form where the essence was preserved, but presented in 
 
    :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | core:SoftwareVersion \[TYPE_ERROR\]
    :instructions: Add all software versions that can be used alternatively to this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -352,7 +352,7 @@ Reference to a previous (potentially outdated) particular form of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
    :value type: | linked object of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
+                | core:SoftwareVersion \[TYPE_ERROR\]
    :instructions: Add the software version preceding this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -390,7 +390,7 @@ System of communication (words, their pronunciation, and the methods of combinin
 
    :semantic name: https://openminds.ebrains.eu/vocab/language
    :value type: | linked object array \(1-N\) of type
-                | `Language <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/language.html>`_
+                | controlledTerms:Language \[TYPE_ERROR\]
    :instructions: Add all languages supported by this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -409,7 +409,7 @@ Grant by a party to another party as an element of an agreement between those pa
 
    :semantic name: https://openminds.ebrains.eu/vocab/license
    :value type: | linked object array \(1-N\) of type
-                | `License <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/license.html>`_
+                | core:License \[TYPE_ERROR\]
    :instructions: Add all licenses of this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -428,7 +428,7 @@ Software that controls the operation of a computer and directs the processing of
 
    :semantic name: https://openminds.ebrains.eu/vocab/operatingSystem
    :value type: | linked object array \(1-N\) of type
-                | `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingSystem.html>`_
+                | controlledTerms:OperatingSystem \[TYPE_ERROR\]
    :instructions: Add all operating systems supported by this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -447,7 +447,7 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
    :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
    :value type: | embedded object array \(1-N\) of type
-                | `Contribution <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contribution.html>`_
+                | core:Contribution \[TYPE_ERROR\]
    :instructions: Add any other contributions to this research product version that are not covered under 'author'/'developer' or 'custodian'.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -466,7 +466,7 @@ Format of data that comes out of, is delivered or produced by a process or machi
 
    :semantic name: https://openminds.ebrains.eu/vocab/outputFormat
    :value type: | linked object array \(1-N\) of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add all content types that can be generated as output by this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -485,7 +485,7 @@ Distinct set of instructions for computer programs in order to produce various k
 
    :semantic name: https://openminds.ebrains.eu/vocab/programmingLanguage
    :value type: | linked object array \(1-N\) of type
-                | `ProgrammingLanguage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/programmingLanguage.html>`_
+                | controlledTerms:ProgrammingLanguage \[TYPE_ERROR\]
    :instructions: Add all programming languages used to develop this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -504,7 +504,7 @@ Reference to something that was made available for the general public to see or 
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `HANDLE <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/HANDLE.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_, `ISSN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISSN.html>`_, publications:Book \[TYPE_ERROR\], publications:Chapter \[TYPE_ERROR\] or publications:ScholarlyArticle \[TYPE_ERROR\]
+                | core:DOI \[TYPE_ERROR\], core:HANDLE \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\], core:ISSN \[TYPE_ERROR\], publications:Book \[TYPE_ERROR\], publications:Chapter \[TYPE_ERROR\] or publications:ScholarlyArticle \[TYPE_ERROR\]
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product version (e.g., an original research article that used or produced the data of this research product version).
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -542,7 +542,7 @@ Place, room, or container where something is deposited or stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/repository
    :value type: | linked object of type
-                | `FileRepository <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileRepository.html>`_
+                | core:FileRepository \[TYPE_ERROR\]
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_

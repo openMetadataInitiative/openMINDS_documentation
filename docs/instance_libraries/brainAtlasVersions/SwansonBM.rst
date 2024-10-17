@@ -13,10 +13,10 @@ SwansonBM_3rd-ed
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SwansonBM_3rd-ed
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/SwansonBM_3rd-ed
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: SwansonBM
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-126-10582-0
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-126-10582-0
    :fullName: Swanson's Brain Maps: Structure of the Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
    :homepage: https://larrywswanson.com/?page_id=164

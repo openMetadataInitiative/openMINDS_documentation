@@ -13,8 +13,8 @@ AAL1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/AAL1
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/AAL1
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: AAL1
    :fullName: Automated Anatomical Labeling Atlas 1
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/AAL1.html>`_
@@ -32,8 +32,8 @@ AMBA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/AMBA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/AMBA
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
    :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/brainAtlasVersions/AMBA.html>`_
@@ -50,8 +50,8 @@ AsegAtlas
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/AsegAtlas
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/AsegAtlas
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: Aseg Atlas
    :description: The Automated Segmentation Atlas of the Human Brain is an automated whole brain segmentation that is based on probabilistic information on the location of structures of a manual labeled training set (cf., [Fischl et al., 2002](https://doi.org/10.1016/S0896-6273(02)00569-X)).
    :fullName: Automated Segmentation Atlas of the Human Brain
@@ -68,8 +68,8 @@ BA-human
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/BA-human
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/BA-human
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: BA-human
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/BA-human.html>`_
@@ -86,8 +86,8 @@ DKA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/DKA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/DKA
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: DKA
    :fullName: Desikan-Killiany Atlas
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DKA.html>`_
@@ -103,8 +103,8 @@ DWMA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/DWMA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/DWMA
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: DWMA
    :fullName: Atlas of Deep White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html>`_
@@ -121,8 +121,8 @@ JBA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/Julich-BrainAtlas
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/Julich-BrainAtlas
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: JBA
    :description: The Julich-Brain Atlas is a three-dimensional atlas of the human brain. It integrates high-resolution cytoarchitectonic maps with microstructural and connectivity data as well as neurotransmitter receptor expression profiles and functional data. It is available in the common reference spaces MNI ICBM 152 (2009c Nonlinear Asymmetric), Colin 27 and FreeSurfer fsaverage surface space.  Furthermore, many maps are also available in the BigBrain high-resolution reference space. It is continuously expanded and openly accessible for researchers to systematically integrate multi-level data. It is interoperable in a way that it can be linked with other brain parcellations, databases and mapping projects. The Julich Brain Atlas offers a powerful tool for neuroscience and medicine alike and has been adopted as central element of the multilevel human brain atlas for the EBRAINS infrastructure, see [EBRAINS Human Brain Atlas](https://www.ebrains.eu/tools/human-brain-atlas).
    :digitalIdentifier: https://scicrunch.org/resolver/RRID:SCR_023277
@@ -143,8 +143,8 @@ PW-RBSC-cor
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/PW-RBSC-cor
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/PW-RBSC-cor
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: PW-RBSC-cor
    :description: Paxinos and Watson's stereotaxic rat brain atlases are based on the study of 130 adult male Wistar rats. The atlases have a stereotactic reference system, in a flat-skull position with bregma and lambda as reference points, photographs of rat brain sections in the coronal plane, and contain diagrams showing delineated brain structures based on the previously mentioned photographs.
    :fullName: Paxinos and Watson's The Rat Brain in Stereotaxic Coordinates - Coronal Plates
@@ -162,8 +162,8 @@ SWMA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/SWMA
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/SWMA
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: SWMA
    :fullName: Atlas of Superficial White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/SWMA.html>`_
@@ -180,8 +180,8 @@ Schaefer-400p
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/Schaefer-400p
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/Schaefer-400p
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -199,8 +199,8 @@ SwansonBM
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/SwansonBM
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/SwansonBM
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: SwansonBM
    :description: Swanson's Brain Maps atlases are open access, stereotaxic rat brain atlases of an adult Sprague Dawley rat. These atlases contain spatially aligned maps for 3D reconstruction, hierarchical nomenclature and flatmaps.
    :fullName: Swanson's Brain Maps: Structure of the Rat Brain
@@ -219,8 +219,8 @@ WHSSD
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :@id: https://openminds.om-i.org/instances/brainAtlas/WHSSDatlas
+   :@type: https://openminds.om-i.org/types/BrainAtlas
    :abbreviation: WHSSDatlas
    :description: The Waxholm Space Atlas of the Sprague Dawley Rat Brain is an open access volumetric atlas. The delineations are defined in isotropic magnetic resonance (39 micrometre) and diffusion tensor (78 micrometre) images acquired ex vivo from an 80 day old male rat at the Duke Center for In Vivo Microscopy. Coordinates for navigating the volume are provided by the Waxholm Space coordinate system. The location of bregma and lambda are also identified as anchors towards stereotaxic space. The atlas (with MRI/DTI anatomical volumes, delineation- and label files) is hosted at [NITRC](https://www.nitrc.org/projects/whs-sd-atlas/) along with configuration files for ITK-SNAP, the Mouse BIRN Atlasing Toolkit, and PMOD. The atlas has been adopted as the standard rat brain atlas for the EBRAINS infrastructure, see [EBRAINS Rat Brain Atlas](https://ebrains.eu/service/rat-brain-atlas/). Note that the licence was changed to from CC BY-SA-NC to CC BY-SA on October 1, 2021.
    :digitalIdentifier: https://scicrunch.org/resolver/SCR_001592

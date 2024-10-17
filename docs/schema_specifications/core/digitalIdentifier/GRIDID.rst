@@ -2,11 +2,9 @@
 GRIDID
 ######
 
-:Semantic name: https://openminds.ebrains.eu/core/GRIDID
+:Semantic name: core:GRIDID
 
-:Display as: Gridid
-
-A GRID (Global Research Identifier Database) identifier.
+:Display as: Core:gridid
 
 
 ------------

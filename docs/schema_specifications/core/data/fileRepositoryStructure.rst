@@ -2,9 +2,9 @@
 FileRepositoryStructure
 #######################
 
-:Semantic name: https://openminds.ebrains.eu/core/FileRepositoryStructure
+:Semantic name: core:FileRepositoryStructure
 
-:Display as: File repository structure
+:Display as: Core:file repository structure
 
 
 ------------
@@ -29,7 +29,7 @@ filePathPattern
 
    :semantic name: https://openminds.ebrains.eu/vocab/filePathPattern
    :value type: | embedded object array \(1-N\) of type
-                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/filePathPattern.html>`_
+                | core:FilePathPattern \[TYPE_ERROR\]
    :instructions: Add all file path patterns that define this file repository structure.
 
 `BACK TO TOP <FileRepositoryStructure_>`_

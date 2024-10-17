@@ -2,9 +2,9 @@
 ServiceLink
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/ServiceLink
+:Semantic name: core:ServiceLink
 
-:Display as: Service link
+:Display as: Core:service link
 
 
 ------------
@@ -29,7 +29,7 @@ dataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileArchive <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileArchive.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `LivePaperResourceItem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperResourceItem.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | core:File \[TYPE_ERROR\], core:FileArchive \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\], core:ModelVersion \[TYPE_ERROR\], publications:LivePaperResourceItem \[TYPE_ERROR\] or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the location of the data that are linked to this specific service (e.g., stored as file (bundles) or registered as other entities such as atlas annotations).
 
 `BACK TO TOP <ServiceLink_>`_
@@ -80,7 +80,7 @@ previewImage
 
    :semantic name: https://openminds.ebrains.eu/vocab/previewImage
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
+                | core:File \[TYPE_ERROR\]
    :instructions: Add an image file to this service link that acts as a preview of its content or could function as an icon.
 
 `BACK TO TOP <ServiceLink_>`_
@@ -97,7 +97,7 @@ service
 
    :semantic name: https://openminds.ebrains.eu/vocab/service
    :value type: | linked object of type
-                | `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
+                | controlledTerms:Service \[TYPE_ERROR\]
    :instructions: Add the service in which the specified data can be opened.
 
 `BACK TO TOP <ServiceLink_>`_

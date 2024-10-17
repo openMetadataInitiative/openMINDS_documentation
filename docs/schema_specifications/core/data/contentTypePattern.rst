@@ -2,9 +2,9 @@
 ContentTypePattern
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/core/ContentTypePattern
+:Semantic name: core:ContentTypePattern
 
-:Display as: Content type pattern
+:Display as: Core:content type pattern
 
 
 ------------
@@ -29,7 +29,7 @@ contentType
 
    :semantic name: https://openminds.ebrains.eu/vocab/contentType
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type that can be defined by the regular expression of this content type pattern (e.g., for file extensions).
 
 `BACK TO TOP <ContentTypePattern_>`_

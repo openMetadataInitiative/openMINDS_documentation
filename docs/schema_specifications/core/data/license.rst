@@ -2,11 +2,9 @@
 License
 #######
 
-:Semantic name: https://openminds.ebrains.eu/core/License
+:Semantic name: core:License
 
-:Display as: License
-
-Structured information on a used license.
+:Display as: Core:license
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/licenses.html>`_.

@@ -2,9 +2,9 @@
 TissueSampleCollectionState
 ###########################
 
-:Semantic name: https://openminds.ebrains.eu/core/TissueSampleCollectionState
+:Semantic name: core:TissueSampleCollectionState
 
-:Display as: Tissue sample collection state
+:Display as: Core:tissue sample collection state
 
 
 ------------
@@ -50,7 +50,7 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.ebrains.eu/vocab/age
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the age of the specimen (set) in this state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -67,7 +67,7 @@ attribute
 
    :semantic name: https://openminds.ebrains.eu/vocab/attribute
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleAttribute.html>`_
+                | controlledTerms:TissueSampleAttribute \[TYPE_ERROR\]
    :instructions: Add all attributes that can be ascribed to this tissue sample collection state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -84,7 +84,7 @@ descendedFrom
 
    :semantic name: https://openminds.ebrains.eu/vocab/descendedFrom
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
+                | core:SubjectGroupState \[TYPE_ERROR\], core:SubjectState \[TYPE_ERROR\], core:TissueSampleCollectionState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
    :instructions: Add all specimen states used to produce or obtain this tissue sample collection state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -139,7 +139,7 @@ Structural and functional deviation from the normal that constitutes a disease o
 
    :semantic name: https://openminds.ebrains.eu/vocab/pathology
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/diseaseModel.html>`_
+                | controlledTerms:Disease \[TYPE_ERROR\] or controlledTerms:DiseaseModel \[TYPE_ERROR\]
    :instructions: Add all (human) diseases and/or conditions that the specimen (set) in this state has and/or is a model for.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -156,7 +156,7 @@ relativeTimeIndication
 
    :semantic name: https://openminds.ebrains.eu/vocab/relativeTimeIndication
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: If there is a temporal relation between the states of a specimen (set), enter the relative time that has passed between this and the preceding specimen (set) state referenced under 'descendedFrom'.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -175,7 +175,7 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.ebrains.eu/vocab/weight
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter the weight of the specimen (set) in this state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_

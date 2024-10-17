@@ -2,11 +2,9 @@
 Hash
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/Hash
+:Semantic name: core:Hash
 
-:Display as: Hash
-
-Structured information on a hash.
+:Display as: Core:hash
 
 
 ------------

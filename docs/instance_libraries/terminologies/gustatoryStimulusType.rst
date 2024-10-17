@@ -13,8 +13,8 @@ bitterSubstance
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/bitterSubstance
-   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :@id: https://openminds.om-i.org/instances/gustatoryStimulusType/bitterSubstance
+   :@type: https://openminds.om-i.org/types/GustatoryStimulusType
    :definition: Any chemical compound that tastes bitter.
    :name: bitter substance
 
@@ -27,8 +27,8 @@ saltySubstance
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance
-   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :@id: https://openminds.om-i.org/instances/gustatoryStimulusType/saltySubstance
+   :@type: https://openminds.om-i.org/types/GustatoryStimulusType
    :definition: Any chemical compound that tastes salty.
    :name: salty substance
 
@@ -41,8 +41,8 @@ sourSubstance
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sourSubstance
-   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :@id: https://openminds.om-i.org/instances/gustatoryStimulusType/sourSubstance
+   :@type: https://openminds.om-i.org/types/GustatoryStimulusType
    :definition: Any chemical compound that tastes sour.
    :name: sour substance
 
@@ -55,8 +55,8 @@ sweetSubstance
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/gustatoryStimulusType/sweetSubstance
-   :@type: https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType
+   :@id: https://openminds.om-i.org/instances/gustatoryStimulusType/sweetSubstance
+   :@type: https://openminds.om-i.org/types/GustatoryStimulusType
    :definition: Any chemical compound that tastes sweet.
    :name: sweet substance
 

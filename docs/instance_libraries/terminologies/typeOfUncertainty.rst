@@ -13,8 +13,8 @@ standardDeviation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
-   :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
+   :@id: https://openminds.om-i.org/instances/typeOfUncertainty/standardDeviation
+   :@type: https://openminds.om-i.org/types/TypeOfUncertainty
    :name: standard deviation
 
 `BACK TO TOP <Terminologies: TypeOfUncertainty library_>`_
@@ -26,8 +26,8 @@ standardError
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
-   :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
+   :@id: https://openminds.om-i.org/instances/typeOfUncertainty/standardError
+   :@type: https://openminds.om-i.org/types/TypeOfUncertainty
    :name: standard error
 
 `BACK TO TOP <Terminologies: TypeOfUncertainty library_>`_

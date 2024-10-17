@@ -13,8 +13,8 @@ network-brainRegion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/network-brainRegion
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/network-brainRegion
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of one or more brain regions
    :name: network: brain region
 
@@ -27,8 +27,8 @@ network-microcircuit
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/network-microcircuit
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/network-microcircuit
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a neuronal microcircuit
    :name: network: microcircuit
 
@@ -41,8 +41,8 @@ network-wholeBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/network-wholeBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/network-wholeBrain
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an entire brain
    :name: network: whole brain
 
@@ -55,8 +55,8 @@ network
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/network
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/network
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a neuronal network
    :name: network
 
@@ -69,8 +69,8 @@ singleCell
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/singleCell
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/singleCell
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a single cell
    :name: single cell
 
@@ -83,8 +83,8 @@ subcellular-ionChannel
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-ionChannel
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/subcellular-ionChannel
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an ion channel
    :name: subcellular: ion channel
 
@@ -97,8 +97,8 @@ subcellular-molecular
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/subcellular-molecular
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of the structure or behaviour of molecules
    :name: subcellular: molecular
 
@@ -111,8 +111,8 @@ subcellular-signalling
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/subcellular-signalling
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of sub-cellular signalling pathways
    :name: subcellular: signalling
 
@@ -125,8 +125,8 @@ subcellular-spine
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular-spine
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/subcellular-spine
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
    :name: subcellular: spine
 
@@ -139,8 +139,8 @@ subcellular
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/modelScope/subcellular
-   :@type: https://openminds.ebrains.eu/controlledTerms/ModelScope
+   :@id: https://openminds.om-i.org/instances/modelScope/subcellular
+   :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an entity or process contained within a cell
    :name: subcellular
 

@@ -13,8 +13,8 @@ AMBA_CCFv3-2015
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2015
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/AMBA_CCFv3-2015
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2015.html>`_
@@ -30,8 +30,8 @@ AMBA_CCFv3-2017
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/AMBA_CCFv3-2017
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/AMBA_CCFv3-2017
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: AMBA
    :fullName: Allen Mouse Brain Atlas
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/AMBA_CCFv3-2017.html>`_

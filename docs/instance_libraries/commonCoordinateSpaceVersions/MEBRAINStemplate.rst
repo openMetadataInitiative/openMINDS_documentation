@@ -13,8 +13,8 @@ MEBRAINStemplate_v1.0
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: MEBRAINStemplate
    :fullName: MEBRAINS population-based monkey brain template
    :shortName: MEBRAINS brain template

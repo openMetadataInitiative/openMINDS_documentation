@@ -2,11 +2,9 @@
 QuantitativeValueRange
 ######################
 
-:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueRange
+:Semantic name: core:QuantitativeValueRange
 
-:Display as: Quantitative value range
-
-A representation of a range of quantitative values.
+:Display as: Core:quantitative value range
 
 
 ------------
@@ -49,7 +47,7 @@ maxValueUnit
 
    :semantic name: https://openminds.ebrains.eu/vocab/maxValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
    :instructions: Add the unit of measurement for the maximum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_
@@ -84,7 +82,7 @@ minValueUnit
 
    :semantic name: https://openminds.ebrains.eu/vocab/minValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
    :instructions: Add the unit of measurement for the minimum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

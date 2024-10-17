@@ -29,7 +29,7 @@ customPropertySet
 
    :semantic name: https://openminds.ebrains.eu/vocab/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/customPropertySet.html>`_
+                | core:CustomPropertySet \[TYPE_ERROR\]
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <Simulation_>`_
@@ -171,7 +171,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <Simulation_>`_
@@ -239,7 +239,7 @@ startedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/startedBy
    :value type: | linked object of type
-                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add the agent that started this computation.
 
 `BACK TO TOP <Simulation_>`_

@@ -2,9 +2,9 @@
 Setup
 #####
 
-:Semantic name: https://openminds.ebrains.eu/core/Setup
+:Semantic name: core:Setup
 
-:Display as: Setup
+:Display as: Core:setup
 
 
 ------------
@@ -48,7 +48,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(2-N\) of type
-                | ephys:Electrode \[TYPE_ERROR\], ephys:ElectrodeArray \[TYPE_ERROR\], ephys:Pipette \[TYPE_ERROR\], `Setup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_ or specimenPrep:SlicingDevice \[TYPE_ERROR\]
+                | core:Setup \[TYPE_ERROR\], core:SoftwareVersion \[TYPE_ERROR\], ephys:Electrode \[TYPE_ERROR\], ephys:ElectrodeArray \[TYPE_ERROR\], ephys:Pipette \[TYPE_ERROR\] or specimenPrep:SlicingDevice \[TYPE_ERROR\]
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_
@@ -82,7 +82,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add the manufacturer (private or industrial) that constructed this setup.
 
 `BACK TO TOP <Setup_>`_
@@ -120,7 +120,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `SetupType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/setupType.html>`_
+                | controlledTerms:SetupType \[TYPE_ERROR\]
    :instructions: Add all types that describe this setup.
 
 `BACK TO TOP <Setup_>`_

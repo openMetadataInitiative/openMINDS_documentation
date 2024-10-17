@@ -2,9 +2,9 @@
 IdentifiersDotOrgID
 ###################
 
-:Semantic name: https://openminds.ebrains.eu/core/IdentifiersDotOrgID
+:Semantic name: core:IdentifiersDotOrgID
 
-:Display as: Identifiers dot org id
+:Display as: Core:identifiers dot org id
 
 
 ------------

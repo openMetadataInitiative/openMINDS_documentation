@@ -13,8 +13,8 @@ BA-human_1909
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/BA-human_1909
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/BA-human_1909
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: BA-human
    :fullName: Brodmann Cortical Parcellation Scheme (human)
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/BA-human_1909.html>`_

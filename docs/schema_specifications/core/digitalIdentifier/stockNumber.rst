@@ -2,9 +2,9 @@
 StockNumber
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/StockNumber
+:Semantic name: core:StockNumber
 
-:Display as: Stock number
+:Display as: Core:stock number
 
 
 ------------
@@ -48,7 +48,7 @@ vendor
 
    :semantic name: https://openminds.ebrains.eu/vocab/vendor
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
+                | core:Organization \[TYPE_ERROR\]
    :instructions: Add the vendor that has the item with this identifier in stock.
 
 `BACK TO TOP <StockNumber_>`_

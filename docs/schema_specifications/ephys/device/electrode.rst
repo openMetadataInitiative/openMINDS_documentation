@@ -65,7 +65,7 @@ deviceType
 
    :semantic name: https://openminds.ebrains.eu/vocab/deviceType
    :value type: | linked object of type
-                | `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_
+                | controlledTerms:DeviceType \[TYPE_ERROR\]
    :instructions: Add the type of this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -84,7 +84,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | core:DOI \[TYPE_ERROR\] or core:RRID \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -171,7 +171,7 @@ manufacturer
 
    :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -207,7 +207,7 @@ owner
 
    :semantic name: https://openminds.ebrains.eu/vocab/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <Electrode_>`_

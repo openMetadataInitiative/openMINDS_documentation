@@ -13,8 +13,8 @@ CA1Alveus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1Alveus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA1 alveus' is a layer of CA1 field. It is part of the hippocampus alveus.
    :description: Part of alveus lying in area CA1, deep to the stratum oriens of CA1 and continuous with the alveus of CA2
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101521
@@ -31,8 +31,8 @@ CA1FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1FieldOfHippocampus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA1 field of hippocampus' is a hippocampal field.
    :description: Part of hippocampus proper bounded by CA2 and the subiculum, characterized by pyramidal neurons that receive projections from pyramidal neurons of CA3 via the Schaffer collaterals.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101520
@@ -49,8 +49,8 @@ CA1StratumLacunosumMoleculare
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA1 stratum lacunosum moleculare' is a layer of CA1 field. It is part of the hippocampus stratum lacunosum moleculare.
    :description: Part of stratum lacunosum-moleculare lying in area CA1, superficial to CA1 stratum radiatum and bounded by the pial surface, continuous with stratum lacunosum-moleculare of CA2 and the subiculum stratum moleculare.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101523
@@ -67,8 +67,8 @@ CA1StratumOriens
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumOriens
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumOriens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA1 stratum oriens' is a layer of CA1 field. It is part of the hippocampus stratum oriens.
    :description: Part of stratum oriens lying in area CA1, superficial to the alveus of CA1 and deep to the pyramidal cell layer of CA1.  It is continuous with the stratum oriens of CA2 and bounded by the subiculum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101524
@@ -85,8 +85,8 @@ CA1StratumRadiatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumRadiatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumRadiatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA1 stratum radiatum' is a layer of CA1 field. It is part of the hippocampus stratum radiatum.
    :description: Part of stratum radiatum lying in area CA1, superficial to the CA1 pyramidal cell layer and deep to the CA1 stratum lucidum-moleculare, continuous with the stratum radiatum of CA2 and bounded by the subiculum. It contains the Schaffer collateral projection from CA3.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101526
@@ -103,8 +103,8 @@ CA2FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2FieldOfHippocampus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460).
    :description: 'CA2 field of hippocampus' is a hippocampal field.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101527
@@ -120,8 +120,8 @@ CA2StratumRadiatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumRadiatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2StratumRadiatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA2 stratum radiatum' is a layer of CA2 field. It is part of the hippocampus stratum radiatum.
    :description: Part of stratum radiatum in area CA2,  lying superficial to the pyramidal cell layer and deep to CA2  stratum lacunosum-moleculare, continuous with the stratum radiatum of CA1 and CA3.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101533
@@ -138,8 +138,8 @@ CA3Alveus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3Alveus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA3 alveus' is a layer of CA3 field. It is part of the hippocampus alveus.
    :description: Part of alveus lying within hippocampal sector CA3
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101535
@@ -156,8 +156,8 @@ CA3FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3FieldOfHippocampus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers.
    :description: 'CA3 field of hippocampus' is a hippocampal field.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101534
@@ -173,8 +173,8 @@ CA3StratumRadiatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumRadiatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3StratumRadiatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'CA3 stratum radiatum' is a layer of CA3 field. It is part of the hippocampus stratum radiatum.
    :description: Part of stratum radiatum in area CA3,  lying superficial to the stratum lucidum and deep to CA3  stratum lacunosum-moleculare.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101542
@@ -191,8 +191,8 @@ abducensNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/abducensNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Abducens nucleus' is a cranial nerve nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pons.
    :description: Nucleus located beneath the floor of the 4th ventricle in the pontine tegmentum, containing motor neurons innervating the lateral rectus muscle of the eye (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 533).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100175
@@ -209,8 +209,8 @@ accessoryAbducensNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryAbducensNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryAbducensNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Accessory abducens nucleus' is a nucleus of pontine reticular formation.
    :description: A small cluster of neurons in the pontine reticular formation in some mammals, containing the majority of motoneurons innervating theretractor bulbi muscles of the eye
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100207
@@ -227,8 +227,8 @@ accessoryBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100209
@@ -245,8 +245,8 @@ accessoryCuneateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCuneateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryCuneateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Accessory cuneate nucleus' is a nucleus of medulla oblongata.
    :description: The accessory cuneate nucleus is located lateral to the cuneate nucleus in the medulla oblongata at the level of the sensory decussation. It receives input from cervical spinal nerves and transmits that information to the cerebellum. These fibers are called cuneocerebellar fibers. In this function, the accessory cuneate nucleus is comparable to the upper extremity portion of the posterior spinocerebellar tract. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100211
@@ -263,8 +263,8 @@ accessoryMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Accessory medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the medial globus pallidus.
    :description: Thin bundle of myelinated axons that divides the medial pallidal segment into outer and inner portions (Carpenter, Core Text of Neuroanatomy, 3rd ed., 1985, pg. 303).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100214
@@ -281,8 +281,8 @@ accessoryNerveFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryNerveFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Accessory nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :description: Fibers of the accessory nerve (11th cranial nerve) contained within the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100215
@@ -299,8 +299,8 @@ accessoryNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A nerve root that is part of a accessory XI nerve.
    :description: 'Accessory nerve root' is a nerve root.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0723817
@@ -317,8 +317,8 @@ adenohypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/adenohypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Adenohypophysis' is part of the pituitary gland.
    :description: The adenohypophysis, which consists of the anterior and intermediate lobes of the pituitary gland, contains several types of endocrine cells, which secrete systemic hormones such as adenocorticotropic hormone (ACTH), GH, LH/FSH, TSH and prolactin in response to hypothalamus-derived releasing hormones (PMID:     22080957).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100315
@@ -335,8 +335,8 @@ aggregateRegionalPartOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/aggregateRegionalPartOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Aggregate regional part of brain' is an anatomical entity. It is part of the brain.
    :description: A regional part of brain consisting of multiple brain regions that are not related through a simple volummetric part of hierarchy, e.g., basal ganglia.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100410
@@ -353,8 +353,8 @@ alarCentralLobule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/alarCentralLobule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The lobulus centralis is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the alar central lobule. [WP,unvetted].
    :description: 'Alar central lobule' is a cerebellum hemisphere lobule.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100438
@@ -371,8 +371,8 @@ allocortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/allocortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Allocortex' is a regional part of brain. It is part of the cerebral cortex.
    :description: One of two types of cerebral cortex defined on the basis of cytoarchitecture and fetal development. The other is neocortex. Allocortex does not pass through a prenatal phase of six-layered structure and has three or four layers in the mature brain ( Schiebler-1999 ). Allocortex has three subtypes: paleocortex, archicortex and periallocortex. This definition differs from that in some older sources, which excluded the olfactory bulb and the accessory olfactory bulb ( Carpenter-1983 ).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100473
@@ -389,8 +389,8 @@ amiculumOfDentateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amiculumOfDentateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Amiculum of dentate nucleus' is a white matter of metencephalon and amiculum. It is part of the dentate nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100532
@@ -407,8 +407,8 @@ ammonsHorn
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ammonsHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.
    :description: A part of the hippocampal formation consisting of a three layered cortex located in the forebrain bordered by the medial surface of the lateral ventricle, the dentate gyrus and the subiculum.  It has 3 subfields termed CA1, CA2 and CA3. The term hippocampus is often used synonymously with  hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105021
@@ -425,8 +425,8 @@ amygdala
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amygdala
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.
    :description: Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species.  It is usually subdivided into several groups.  Functionally, it is not considered a unitary structure (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100573
@@ -443,8 +443,8 @@ angularGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/angularGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/angularGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Angular gyrus' is a gyrus. It is part of the parietal lobe.
    :description: Part of inferior parietal lobule formed by the cortex surrounding the upturned end of the superior temporal sulcus (Nolte, The Human Brain, 6th ed, 2009, pg 659)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100627
@@ -461,8 +461,8 @@ annectantGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/annectantGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/annectantGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Annectant gyrus' is an occipital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100647
@@ -479,8 +479,8 @@ ansaLenticularis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ansaLenticularis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ansa lenticularis' is a diencephalic white matter. It is part of the ventral thalamus.
    :description: White matter bundle containing part of the projection of the globus pallidus to the thalamus, forming a compact, conspicuous bundle running beneath the internal capsule and hooking around its medial edge (Nolte, The Human Brain, 6th ed., 2009, pg 659)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100654
@@ -497,8 +497,8 @@ ansiformLobuleCrusI
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ansiformLobuleCrusI
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104941
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005976#hemispheric-lobule-viia
    :name: ansiform lobule crus I
@@ -513,8 +513,8 @@ ansiformLobuleCrusII
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ansiformLobuleCrusII
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104942
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii
    :name: ansiform lobule crus II
@@ -529,8 +529,8 @@ anteriorAmygdaloidArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorAmygdaloidArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior amygdaloid area' is a cerebral hemisphere gray matter. It is part of the corticomedial nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100670
@@ -547,8 +547,8 @@ anteriorCalcarineSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCalcarineSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Anterior calcarine sulcus' is a sulcus of brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100672
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002582#anterior-calcarine-sulcus-1
@@ -564,8 +564,8 @@ anteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCingulateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
    :description: The frontal part of the cingulate cortex that resembles a collar form around the corpus callosum. It includes both the ventral and dorsal areas of the cingulate cortex. http://en.wikipedia.org/wiki/File:Gray727.svg
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100689
@@ -582,8 +582,8 @@ anteriorCingulateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCingulateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior cingulate gyrus' is a gyrus. It is part of the cingulate gyrus and anterior cingulate cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100690
@@ -600,8 +600,8 @@ anteriorColumnOfFornix
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorColumnOfFornix
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100691
@@ -618,8 +618,8 @@ anteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A bundle of myelinated nerve fibers passing transversely through the lamina terminalis and connecting symmetrical parts of the two cerebral hemispheres; it consists of a smaller anterior part (pars anterior commissurae anterioris) and a larger posterior part (pars posterior commissurae anterioris).
    :description: 'Anterior commissure' is an intercerebral commissure and ventral commissure.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100692
@@ -636,8 +636,8 @@ anteriorCommissureAnteriorPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissureAnteriorPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCommissureAnteriorPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior commissure anterior part' is a commissure of telencephalon. It is part of the anterior commissure.
    :description: The part of the anterior commissure that contains fibers interconnecting the anterior olfactory nucleus in each hemisphere.  The fibers extend from the commissural region of the anterior commissure anteriorly into the olfactory bulb.  Within the commissural portion, the fibers lie in the anterior portion, but cannot be easily distinguished from the posterior fibers on gross dissection.  (Adapted from Heimer, 1996)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100693
@@ -654,8 +654,8 @@ anteriorHornOfLateralVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorHornOfLateralVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior horn of lateral ventricle' is a telencephalic ventricle.
    :description: Part of the lateral ventricle that extends anteriorly into the frontal lobes, bordered by the head of the caudate nucleus on the lateral side (Adapted from Heimer, 1996)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100702
@@ -672,8 +672,8 @@ anteriorHypothalamicRegion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorHypothalamicRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100710
@@ -690,8 +690,8 @@ anteriorLimbOfInternalCapsule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior limb of internal capsule' is a limb of internal capsule of telencephalon.
    :description: Portion of internal capsule lying between the lenticular nucleus and the head of the caudate nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100712
@@ -708,8 +708,8 @@ anteriorLobeOfCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLobeOfCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorLobeOfCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The region of the cerebellum that is anterior to the primary fissure.
    :description: 'Anterior lobe of cerebellum' is a cerebellum lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100713
@@ -725,8 +725,8 @@ anteriorMedianEminence
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorMedianEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100714
@@ -743,8 +743,8 @@ anteriorMedianOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorMedianOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior median oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100716
@@ -761,8 +761,8 @@ anteriorNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior nuclear group' is a nucleus of dorsal thalamus.
    :description: Mostly gray regional part of anterior thalamic region, consisting of the anterior medial, anterior dorsal and anterior lateral thalamic nuclei in primates.  In rodents, it consists of anterior medial and anterior ventral divisions, with several subdivisions of each, according to Paxinos (MM: 2006-10-26)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100718
@@ -779,8 +779,8 @@ anteriorNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorNucleusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus' is a preoptic nucleus.
    :description: A loose heterogeneous collection of cells in the anterior hypothalamus, continuous rostrally with the medial and lateral preoptic areas and caudally with the tuber cinereum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100719
@@ -797,8 +797,8 @@ anteriorNucleusOfHypothalamusCentralPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus central part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100720
@@ -815,8 +815,8 @@ anteriorNucleusOfHypothalamusDorsalPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus dorsal part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100721
@@ -833,8 +833,8 @@ anteriorNucleusOfHypothalamusPosteriorPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus posterior part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100722
@@ -851,8 +851,8 @@ anteriorOlfactoryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorOlfactoryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior olfactory nucleus' is a telencephalic nucleus. It is part of the olfactory cortex.
    :description: Laminated structure lying caudal to the olfactory bulb.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100724
@@ -869,8 +869,8 @@ anteriorParietooccipitalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParietooccipitalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorParietooccipitalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior parieto-occipital sulcus' is a sulcus of brain. It is part of the parieto-occipital sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100736
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025829#anterior-parieto-occipital-sulcus-1
@@ -886,8 +886,8 @@ anteriorPerforatedSubstance
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorPerforatedSubstance
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior perforated substance' is a regional part of brain. It is part of the telencephalon.
    :description: Regional part of telencephalon lying on the basal surface and bounded by the olfactory trigone rostrally, the diagonal band medially and caudally and the prepiriform cortex laterally.  It is characterized by many perforations caused by small blood vessels entering the gray matter (Meyer et al., J. Comp. Neurol 284: 405, 1989).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100738
@@ -904,8 +904,8 @@ anteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPretectalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorPretectalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100741
@@ -922,8 +922,8 @@ anteriorQuadrangularLobule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorQuadrangularLobule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Anterior quadrangular lobule' is a cerebellum hemisphere lobule.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100743
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1
@@ -939,8 +939,8 @@ anteriorThalamicRadiation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorThalamicRadiation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'anterior thalamic radiation' is a white matter fibre bundle. It is part of the thalamic complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728673
@@ -957,8 +957,8 @@ anteriorTransverseTemporalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorTransverseTemporalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterior transverse temporal gyrus' is a transverse gyrus of Heschl.
    :description: The transverse temporal gyri (also called Heschl's gyri or Heschl's convolutions) are found in the area of primary auditory cortex in the superior temporal gyrus of the human brain, occupying Brodmann areas 41 and 42. It is the first cortical structure to process incoming auditory information. Anatomically, the transverse temporal gyri are distinct in that they run mediolaterally (towards the center of the brain) rather than dorsiventrally (front to back) as all other temporal lobe gyri run. The Heschl's gyri are named after Richard L. Heschl.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100750
@@ -975,8 +975,8 @@ anterodorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100757
@@ -993,8 +993,8 @@ anterodorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anterodorsalNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anterodorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100755
@@ -1011,8 +1011,8 @@ anteromedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteromedialNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100768
@@ -1029,8 +1029,8 @@ anteroventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralCochlearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteroventralCochlearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100778
@@ -1047,8 +1047,8 @@ anteroventralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteroventralNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anteroventral nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100779
@@ -1065,8 +1065,8 @@ anteroventralPreopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralPreopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteroventralPreopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Anteroventral preoptic nucleus' is a preoptic nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100783
@@ -1083,8 +1083,8 @@ arcopallium
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arcopallium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Arcopallium' is a regional part of brain. It is part of the pallium.
    :description: A pallial region found in avias that partially overlap regions homologous to the amygdala of mammals.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100877
@@ -1101,8 +1101,8 @@ arcuateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arcuateFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'arcuate fasciculus' is a white matter fibre bundle connecting the posterior part of the temporoparietal junction with the frontal cortex in the brain. It is is a cerebral nerve fasciculus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731407
@@ -1119,8 +1119,8 @@ arcuateNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arcuateNucleusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Arcuate nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and intermediate hypothalamic region.
    :description: The arcuate nucleus (or infundibular nucleus) is an aggregation of neurons in the mediobasal hypothalamus, adjacent to the third ventricle and the median eminence. The arcuate nucleus includes several important populations of neurons, including: Neuroendocrine neurons, Centrally-projecting neurons and Others. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100881
@@ -1137,8 +1137,8 @@ arcuateNucleusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arcuateNucleusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Arcuate nucleus of medulla' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100882
@@ -1155,8 +1155,8 @@ areaPostrema
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/areaPostrema
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Area postrema' is a sensory circumventricular organ. It is part of the medulla oblongata and fourth ventricle.
    :description: A small, rounded eminence on each side of the fourth ventricle, which receives nerve fibers from the solitary nucleus , spinal cord, and adjacent areas of the medulla. The area postrema lies outside the blood-brain barrier and its functions include acting as an emetic chemoreceptor.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100888
@@ -1173,8 +1173,8 @@ areaXOfBasalGanglion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/areaXOfBasalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Area X of basal ganglion' is a nucleus of brain. It is part of the basal ganglion.
    :description: A nucleus in the basal ganglion of songbirds.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731535
@@ -1191,8 +1191,8 @@ areaXOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/areaXOfVentralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100891
@@ -1209,8 +1209,8 @@ arthropodOpticLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arthropodOpticLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.
    :description: A region of the adult brain that processes the visual information from the compound eyes.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732637
@@ -1227,8 +1227,8 @@ auditoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/auditoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The auditory cortex consists of neocortical areas that are functionally activated predominantly to sound, with the shortest latency.
    :description: The auditory cortex is the part of the temporal lobe that processes auditory information in humans and other vertebrates. It is a part of the auditory system, performing basic and higher functions in hearing, such as possible relations to language switching.It is located bilaterally, roughly at the upper sides of the temporal lobes – in humans on the superior temporal plane, within the lateral fissure and comprising parts of Heschl's gyrus and the superior temporal gyrus, including planum polare and planum temporale (roughly Brodmann areas 41, 42, and partially 22). Unilateral destruction, in a region of the auditory pathway above the cochlear nucleus, results in slight hearing loss, whereas bilateral destruction results in cortical deafness.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100996
@@ -1245,8 +1245,8 @@ banksOfSuperiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Banks of superior temporal sulcus' is an anatomical entity. It is part of the superior temporal sulcus.
    :description: Component of the temporal lobe, lateral aspect.  The rostral boundary is the superior temporal gyrus and the caudal boundary the middle temporal gyrus.  Within the FreeSurfer definition, this reflects primarily the posterior aspect of the superior temporal sulcus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101088
@@ -1263,8 +1263,8 @@ barrelCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/barrelCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Barrel cortex' is a functional part of brain. It is part of the primary somatosensory cortex.
    :description: The term primary somatosensory area, barrel field refers to one of 6 subdivisions of the primary somesthetic area of the cerebral cortex in the mouse (Dong-2004) and the rat (Swanson-2004). It is defined as dark-staining regions in Nissl and other types of stains of layer four of the somatosensory cortex of rodents where somatosensory inputs from the contralateral side of the body come in from the thalamus, in particular input from the whiskers. Each barrel ranges in size from 100-400 um in diameter. (modified from BrainInfo and Wikipedia)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101097
@@ -1281,8 +1281,8 @@ basalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101100
@@ -1299,8 +1299,8 @@ basalForebrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalForebrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal forebrain' is a regional part of brain. It is part of the forebrain.
    :description: A region of the brain consisting of ventral and rostral subcortical regions of the telencephalon, including among others, the basal ganglia, septal nuclei, amygdala, ventral pallidum, substantia innominata, and basal nucleus of Meynert.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101101
@@ -1317,8 +1317,8 @@ basalGanglion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal ganglion' is a brain gray matter and nuclear complex of neuraxis. It is part of the collection of basal ganglia.
    :description: An individual member of a collection of basal ganglia. Basal ganglia are subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum[NIF,modified].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729164
@@ -1335,8 +1335,8 @@ basalNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal nuclear complex' is a nuclear complex of neuraxis and gray matter of forebrain. It is part of the basal forebrain.
    :description: The deep nuclei of telencephalic origin found in the basal region of the forebrain, The deep nuclei found in the basal forebrain.Large subcortical nuclear masses derived from the telencephalon and located in the basal regions of the cerebral hemispheres. (MeSH definition of Basal Ganglia in UMLS).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101108
@@ -1353,8 +1353,8 @@ basalNucleusOfTelencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalNucleusOfTelencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal nucleus of telencephalon' is a telencephalic nucleus. It is part of the substantia innominata.
    :description: One of four major groupings of cholinergic neurons in the basal forebrain containing neurons that project widely to the cortex and amygdala (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 3rd ed, 2005, pg 488)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101109
@@ -1371,8 +1371,8 @@ basalPartOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalPartOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basal part of pons' is a regional part of brain. It is part of the pons.
    :description: Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101110
@@ -1389,8 +1389,8 @@ basolateralAmygdaloidNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Basolateral amygdaloid nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
    :description: A set of amygdalar nuclei comprising the lateral nucleus (LA), the basal nucleus (BA), and the accessory basal nuclei (ABN). These nuclei are bordered laterally by the external capsule and medially by the central amygdalar nucleus as well as the amygdalohippocampal area. This definition refers to the rat Basolateral nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101128
@@ -1407,8 +1407,8 @@ bedNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bedNucleusOfStriaTerminalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bedNucleusOfStriaTerminalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Bed nucleus of stria terminalis' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :description: Nucleus defined on the basis of Nissl stain whose cells are embedded in, and surround the stria terminalis at its rostral extreme, where it splits into multiple bundles directed ventrally toward different parts of the hypothalamus. The nucleus wraps around the anterior commissure. It is bounded laterally by the internal capsule, medially by the lateral septal nucleus and the anterior column of the fornix, and dorsally by the head of the caudate nucleus and the frontal horn of the lateral ventricle. Some authors have expanded the definition on the basis of other stains and connectivity studies to include cell groups distributed through the dorsal part of substantia innominata between the classical nucleus and the amygdala. The extended nucleus of stria terminalis by that definition is classified as part of the extended amygdala ( Olmos-2004 ). The nucleus is found in the human, the macaque, the rat and the mouse.  Adapted from Brain Info.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101180
@@ -1425,8 +1425,8 @@ bloodcerebrospinalFluidBarrier
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Blood-cerebrospinal fluid barrier' is part of the choroid plexus.
    :description: Barrier in the choroid plexus located in the lateral, third, and fourth brain ventricles that controls the entrance of substances into the cerebrospinal fluid from the blood[MP].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729920
@@ -1443,8 +1443,8 @@ bodyOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bodyOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Body of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :description: Part of caudate nucleus lying just dorsal to the thalamus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101372
@@ -1461,8 +1461,8 @@ bodyOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bodyOfCorpusCallosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728551
@@ -1479,8 +1479,8 @@ bodyOfFornix
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bodyOfFornix
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Body of fornix' is a central nervous system cell part cluster. It is part of the fornix of brain.
    :description: Part of fornix adjacent to the crura where they join together at the midline underneath the corpus callosum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101373
@@ -1497,8 +1497,8 @@ bodyOfLateralVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfLateralVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/bodyOfLateralVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Body of lateral ventricle' is a telencephalic ventricle.
    :description: Part of lateral ventricle consisting of the central portion that lies dorsally, bounded by the thalamus on the ventral side (Adapted from Heimer, 1996)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101374
@@ -1515,8 +1515,8 @@ brachiumOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brachiumOfInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brachium of inferior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the inferior colliculus and white matter.
    :description: The Brachium of inferior colliculus (or inferior brachium) carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101409
@@ -1533,8 +1533,8 @@ brachiumOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brachiumOfSuperiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brachium of superior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of superior colliculus.
    :description: Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus.  Contains afferents from the retina.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101410
@@ -1551,8 +1551,8 @@ brainBloodVessel
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainBloodVessel
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain blood vessel' is part of the vasculature of brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726967
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
@@ -1568,8 +1568,8 @@ brainEndothelium
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainEndothelium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain endothelium' is part of the brain.
    :description: Vascular endothelium found in blood vessels of the blood-brain-barrier.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733041
@@ -1586,8 +1586,8 @@ brainEpendyma
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainEpendyma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain ependyma' is an ependyma. It is part of the brain ventricle.
    :description: The ependymal cell layer that lines the brain ventricles.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730349
@@ -1604,8 +1604,8 @@ brainGrayMatter
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainGrayMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain gray matter' is a gray matter. It is part of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725337
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter
@@ -1621,8 +1621,8 @@ brainMarginalZone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainMarginalZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain marginal zone' is an anatomical entity. It is part of the brain.
    :description: The part of the future brain that is derived from the mantle layer of the neural tube.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734549
@@ -1639,8 +1639,8 @@ brainMeninx
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainMeninx
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain meninx' is a meninx. It is part of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726394
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx
@@ -1656,8 +1656,8 @@ brainVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain ventricle' is a brain ventricle/choroid plexus and ventricle of nervous system. It is part of the ventricular system of brain.
    :description: One of the system of communicating cavities in the brain that are continuous with the central canal of the spinal cord, that like it are derived from the medullary canal of the embryo, that are lined with an epithelial ependyma, and that contain a serous fluid.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730602
@@ -1673,8 +1673,8 @@ brainVentriclechoroidPlexus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentriclechoroidPlexus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainVentriclechoroidPlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain ventricle/choroid plexus' is part of the brain.
    :description: The brain ventricles or their associated choroid plexuses.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730467
@@ -1690,8 +1690,8 @@ brainWhiteMatter
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brain white matter' is a white matter. It is part of the brain.
    :description: The regions of the brain that are largely or entirely composed of myelinated nerve cell axons and contain few or no neural cell bodies or dendrites.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736416
@@ -1708,8 +1708,8 @@ brainstem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainstem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Brainstem' is a regional part of brain.
    :description: The lower portion of the brain through which the forebrain sends information to, and receives information from, the spinal cord and peripheral nerves. Major functions located in the brainstem include those necessary for survival, e.g., breathing, heart rate, blood pressure, and arousal. (NIDA Media Guide Glossary).  Note that the definition of brainstem varies in different nomenclatures, for example, some definitions include the diencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101444
@@ -1726,8 +1726,8 @@ calcarineSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/calcarineSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Calcarine sulcus' is a sulcus of brain. It is part of the cerebral cortex.
    :description: The calcarine fissure is an anatomical landmark located at the caudal end of the medial surface of the brain. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101552
@@ -1744,8 +1744,8 @@ calcifiedStructureOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/calcifiedStructureOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Calcified structure of brain' is part of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731107
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017631#calcified-structure-of-brain
@@ -1761,8 +1761,8 @@ capsuleOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101644
@@ -1779,8 +1779,8 @@ capsuleOfRedNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfRedNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/capsuleOfRedNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Capsule of red nucleus' is a brainstem white matter and white matter of midbrain. It is part of the red nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101645
@@ -1797,8 +1797,8 @@ caudalAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalAnteriorCingulateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
    :description: Component of the cingulate cortex.  The rostral boundary was the first appearance of the genu of the corpus callosum whereas the caudal boundary was established as the first appearance of the mammillary bodies. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was the corpus callosum (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101709
@@ -1815,8 +1815,8 @@ caudalCentralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCentralOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalCentralOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101711
@@ -1833,8 +1833,8 @@ caudalMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMiddleFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalMiddleFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal middle frontal gyrus' is a frontal gyrus. It is part of the middle frontal gyrus.
    :description: Component of the middl frontal gyrus.  The rostral boundary of the middle frontal gyrus was the rostral extent of the middle frontal gyrus whereas the caudal boundary was the precentral gyrus. The medial and lateral boundaries were designated as the superior frontal sulcus and the inferior frontal sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101718
@@ -1851,8 +1851,8 @@ caudalPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101721
@@ -1869,8 +1869,8 @@ caudalPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101722
@@ -1887,8 +1887,8 @@ caudalPartOfVentralPosterolateralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal part of ventral posterolateral nucleus of thalamus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101723
@@ -1905,8 +1905,8 @@ caudalPontineReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPontineReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalPontineReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudal pontine reticular nucleus' is a nucleus of pontine reticular formation.
    :description: The caudal pontine reticular nucleus is composed of gigantocellular neurons. In rabbits and cats it is exclusively giant cells, however in humans there are normally sized cells as well. The pontis caudalis is rostral to the gigantocellular nucleus and is located in the caudal pons, as the name would indicate. The pontis caudalis has been known to mediate head movement, in concert with the nucleus gigantocellularis and the superior colliculus. The neurons in the dorsal half of this nuclei fire rhythmically during mastication, and in an anesthetized animal it is possible to induce mastication via electrical stimulation of the PC or adjacent areas of the gigantocellular nucleus. The pontis caudalis is also thought to play a role in the grinding of teeth during sleep.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101725
@@ -1923,8 +1923,8 @@ caudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudate nucleus' is a telencephalic nucleus. It is part of the caudate-putamen.
    :description: Subcortical nucleus of telecephalic origin consisting of an elongated gray mass lying lateral to and bordering the lateral ventricle.  It is divided into a head, body and tail in some species.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101734
@@ -1941,8 +1941,8 @@ caudateputamen
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudateputamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Caudate-putamen' is a central nervous system cell part cluster. It is part of the dorsal striatum.
    :description: Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen).  Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule.  Rather, the internal capsule splits into fiber bundles which course through the structure.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101739
@@ -1959,8 +1959,8 @@ centralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central amygdaloid nucleus' is a telencephalic nucleus. It is part of the amygdala.
    :description: The output region of the amygdala responsible for controlling responses (Phelps & LeDoux, 2005, PMID: 16242399).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101887
@@ -1977,8 +1977,8 @@ centralCervicalSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralCervicalSpinocerebellarTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralCervicalSpinocerebellarTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central cervical spinocerebellar tract' is an axon tract. It is part of the spinocerebellar tract.
    :description: Afferents from the neck and head to the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101890
@@ -1995,8 +1995,8 @@ centralDorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralDorsalNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralDorsalNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central dorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101891
@@ -2013,8 +2013,8 @@ centralGraySubstanceOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralGraySubstanceOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central gray substance of medulla' is a gray matter of hindbrain and central gray substance. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101892
@@ -2031,8 +2031,8 @@ centralGraySubstanceOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralGraySubstanceOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central gray substance of midbrain' is a gray matter of midbrain and central gray substance. It is part of the midbrain tegmentum.
    :description: Periaqueductal gray (PAG; also called the 'central gray') is the gray matter located around the cerebral aqueduct within the midbrain. It plays a role in the descending modulation of pain and in defensive behaviour. The ascending pain and temperature fibers of the spinothalamic tract also send information to the PAG via the spinomesencephalic tract. The spinomesencephalic tract is so-named because the fibers originate in the spine and terminate in the mesencephalon, another name for the midbrain, the part of the brain in which the PAG resides. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108717
@@ -2049,8 +2049,8 @@ centralGraySubstanceOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralGraySubstanceOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central gray substance of pons' is a gray matter of hindbrain and central gray substance. It is part of the pontine reticular formation.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101893
@@ -2067,8 +2067,8 @@ centralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central lateral nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101894
@@ -2085,8 +2085,8 @@ centralLobule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralLobule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central lobule' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
    :description: The central lobule is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the ala lobuli centralis. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101897
@@ -2103,8 +2103,8 @@ centralMedialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralMedialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central medial nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
    :description: A small cell group in the interthalamic adhesion of the thalamus that occupy the midline region of the internal medullary lamina, between the left and right paracentral nuclei.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101899
@@ -2121,8 +2121,8 @@ centralNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralNucleusOfInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101911
@@ -2139,8 +2139,8 @@ centralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101912
@@ -2157,8 +2157,8 @@ centralSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'central sulcus' is a fold in the cerebral cortex of brains in vertebrates. [[WP,unvetted](http://en.wikipedia.org/wiki/Central_sulcus)]]
    :description: The central sulcus is a prominent landmark of the brain, separating the parietal lobe from the frontal lobe and the primary motor cortex from the primary somatosensory cortex. [[WP,unvetted](http://en.wikipedia.org/wiki/Central_sulcus)]]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101916
@@ -2175,8 +2175,8 @@ centralTegmentalTractOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central tegmental tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and central tegmental tract.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101918
@@ -2193,8 +2193,8 @@ centralTegmentalTractOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralTegmentalTractOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Central tegmental tract of pons' is a tract of brain. It is part of the pontine tegmentum and central tegmental tract.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101919
@@ -2211,8 +2211,8 @@ centromedianNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centromedianNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centromedianNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Centromedian nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
    :description: In the anatomy of the brain, the centromedian nucleus, also known as the centrum medianum, (CM or Cm-Pf) is a part of the intralaminar nucleus (ILN) of the thalamus. There are two centromedian nuclei arranged bilaterally. It contains about 2000 neurons per cubic millimetre and has a volume of about 310 cubic millimetres with 664,000 neurons in total. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101921
@@ -2229,8 +2229,8 @@ cephalopodOpticLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cephalopodOpticLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cephalopod optic lobe' is a visual processing part of nervous system. It is part of the brain.
    :description: Large lobes of the brain associated with the eyes. In octopods and some squids the optic lobes may be separated from the rest of the brain by an optic stalk of varying length. In Octopus the optic lobes contain 92 million cells compared with only 42 million in the main central mass of the brain (J. Young, 1963) .
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725883
@@ -2247,8 +2247,8 @@ cerebellarCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellarCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellar cortex' is a gray matter of hindbrain. It is part of the cerebellum.
    :description: The superficial gray matter of the cerebellum. It consists of three main layers, the molecular layer, the Purkinje cell layer and the granule cell layer, and the white matter laminae lying deep to the granule cell layer.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101946
@@ -2265,8 +2265,8 @@ cerebellarLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellarLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellar layer' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the cerebellar cortex.
    :description: A cortical cell layer of the cerebellum. Examples:  the granular (inner+outer) layer, molecular layer, Purkinje cell layer, and the ventricular layer of the embryo.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732371
@@ -2282,8 +2282,8 @@ cerebellarNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellarNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellar nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the cerebellum.
    :description: The gray matter nuclei located in the center of the cerebellum, embedded in the white matter, which receive inhibitory (GABAergic) inputs from Purkinje cells in the cerebellar cortex and excitatory (glutamatergic) inputs from mossy fiber pathways; all output fibers of the cerebellum originate from these nuclei[MP]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102971
@@ -2300,8 +2300,8 @@ cerebellarPlate
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellarPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellar plate' is part of the cerebellum.
    :description: The embryonic pseudostratified epithelium of the fourth cerebellar ventricle that eventually forms the vermis and ventral neuroepithelium.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729245
@@ -2318,8 +2318,8 @@ cerebellarVermis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellarVermis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A subregion of the cerebellar cortex, consisting of the most medial zone of the cerebellar cortex, stradding the midline. May be continuous with the lateral cerebellar hemispheres in some areas of the cerebellum, e.g., dorsally, or separated by deeper fissures in others (e.g., ventrally).
    :description: 'Cerebellar vermis' is a regional part of cerebellar cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112392
@@ -2335,8 +2335,8 @@ cerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum' is a regional part of brain. It is part of the metencephalon.
    :description: Part of the rhombencephalon that lies in the posterior cranial fossa behind the brain stem, consisting of the cerebellar cortex, deep cerebellar nuclei and cerebellar white matter.A portion of the brain that helps regulate posture, balance, and coordination. (NIDA Media Guide Glossary)The dorsal topographic division of the hindbrain, connected to the ventral  division-the pons-by a white matter tract, the middle cerebellar peduncle. The cerebellum was discovered and named by Aristotle (De Partibus Animalium) based on macrodissection of a variety of animals not including humans; see translation by Thompson (1910, 494b 30). Older synonyms include parencephalon (Aristotle), hindbrain (Galen, c192).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101963
@@ -2353,8 +2353,8 @@ cerebellumFissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumFissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum fissure' is a subarachnoid fissure. It is part of the cerebellum.
    :description: One of a set of deep furrows which divide the lobules of the cerebellum. Examples:  postcentral, primary and secondary furrows.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728095
@@ -2371,8 +2371,8 @@ cerebellumGloboseNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumGloboseNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.
    :description: One of two nuclei comprising the interpositus cerebellar nuclear complex of the deep cerebellar nuclei.  It is  recognized in human cerebellum but is not distinguishable in all mammalian species.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104655
@@ -2389,8 +2389,8 @@ cerebellumHemisphericLobuleX
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleX
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumHemisphericLobuleX
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Cerebellum hemispheric lobule X' is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104945
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024009#cerebellum-hemispheric-lobule-x
@@ -2406,8 +2406,8 @@ cerebellumIntermediateZone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumIntermediateZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum intermediate zone' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and spinocerebellum.
    :description: A region on either side of the midline of the cerebellum that lies lateral to the vermis and medial to the hemisphere. It contains the cerebellar cortical zones C1, C2 and C3 and receives climbing fibre input from the inferior olive and projects to the nucleus interpositus. Here, the term is used to denote the functionally related C1, C3 and Y (but not the C2) zones (Nature glossary: http://www.nature.com/nrn/journal/v6/n4/glossary/nrn1646.html#df1).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101956
@@ -2424,8 +2424,8 @@ cerebellumInterpositusNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInterpositusNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumInterpositusNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum interpositus nucleus' is a nucleus of cerebellar nuclear complex.
    :description: The nucleus composed of the globose and emoliform nuclei of the cerebellum; in some mammalian species the globose nucleus is not distinguishable
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105602
@@ -2442,8 +2442,8 @@ cerebellumMarginalLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumMarginalLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumMarginalLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum marginal layer' is a hindbrain marginal layer. It is part of the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734731
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer
@@ -2459,8 +2459,8 @@ cerebellumVasculature
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVasculature
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.
    :description: A vasculature that is part of a cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729550
@@ -2477,8 +2477,8 @@ cerebellumVermisCulmen
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisCulmen
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisCulmen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vermis culmen' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
    :description: The culmen is the portion of the anterior vermis adjacent to the primary fissure of cerebellum. The culmen and the anterior parts of the quadrangular lobules form the lobus culminis[WP].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102659
@@ -2494,8 +2494,8 @@ cerebellumVermisLobule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vermis lobule' is a cerebellum lobule. It is part of the cerebellar vermis.
    :description: The region of a cerebellar lobule that resides in the central section of the cerebellum between the two hemispheres.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109877
@@ -2512,8 +2512,8 @@ cerebellumVermisLobuleI
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleI
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobuleI
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vermis lobule I' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112394
    :name: cerebellum vermis lobule I
@@ -2528,8 +2528,8 @@ cerebellumVermisLobuleIX
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobuleIX
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vermis lobule IX' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.
    :description: The uvula (uvular lobe) forms a considerable portion of the inferior vermis; it is separated on either side from the tonsil by the sulcus valleculC&, at the bottom of which it is connected to the tonsil by a ridge of gray matter, indented on its surface by shallow furrows, and hence called the furrowed band.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112398
@@ -2546,8 +2546,8 @@ cerebellumVermisLobuleX
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebellumVermisLobuleX
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebellum vermis lobule X' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112405
    :name: cerebellum vermis lobule X
@@ -2562,8 +2562,8 @@ cerebralBloodVessel
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralBloodVessel
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral blood vessel' is a brain blood vessel. It is part of the cerebellum.
    :description: A blood vessel that is part of a cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732836
@@ -2580,8 +2580,8 @@ cerebralCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral cortex' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the pallium and cerebral hemisphere gray matter.
    :description: The thin layer of gray matter on the surface of the cerebral hemisphere that develops from the telencephalon.  It consists of the neocortex (6 layered cortex or isocortex), the hippocampal formation and the olfactory cortex.The '''cerebral cortex''' is a sheet of neural tissue that is outermost to the cerebrum of the mammalian brain. It plays a key role in memory, attention, perceptual awareness, thought, language, and consciousness. It is constituted of up to six horizontal layers, each of which has a different composition in terms of neurons and connectivity.One of the 10 basic divisions of the cerebrospinal axi. The cerebral cortex is the dorsal topographic division of the endbrain (Kuhlenbeck, 1927), with a basically radial, laminated architecture. The cerebral cortex was described and illustrated for macrodissected adult humans by Vesalius (1543), and the term itself was introduced for macrodissected adult humans by Bauhin (1605).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101978
@@ -2598,8 +2598,8 @@ cerebralCortexMarginalLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexMarginalLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralCortexMarginalLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral cortex marginal layer' is a layer of developing cerebral cortex. It is part of the brain marginal zone.
    :description: Developing superficial cortical layer located just under the pia matter, develops from the marginal layer of the neural tube and becomes cortical layer I.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726687
@@ -2616,8 +2616,8 @@ cerebralCrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralCrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.
    :description: The cerebral crus is the most anterior portion of the midbrain which consists of a massive band of nerve fibers originating primarily from the cerebral cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101990
@@ -2634,8 +2634,8 @@ cerebralHemisphere
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphere
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralHemisphere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral hemisphere' is part of the telencephalon.
    :description: Gross division of the brain.  The term cerebrum has several definitions ranging in generality from equivalence to the term "brain" to the sum of the left cerebral hemisphere and right hemisphere, to a composite structure consisting of the cerebral cortex and adjacent cerebral white matter. A thorough discussion of the nature and history of the different definitions is presented in Anthoney-94 (NeuroNames).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102003
@@ -2652,8 +2652,8 @@ cerebralHemisphereWhiteMatter
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralHemisphereWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral hemisphere white matter' is a white matter of telencephalon. It is part of the cerebral hemisphere.
    :description: White matter is one of the two main solid components of the central nervous system. It is composed of myelinated nerve cell processes, or axons, which connect various grey matter areas (the locations of nerve cell bodies) of the brain to each other and carry nerve impulses between neurons. Cerebral and spinal white matter do not contain dendrites, which can only be found in grey matter along with neural cell bodies and shorter axons (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101998
@@ -2670,8 +2670,8 @@ cerebralPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral peduncle' is a peduncle of neuraxis and white matter of midbrain.
    :description: Synonym for macrodissected adult human tegmentum (Vicq d'Azyr, 1784; Swanson, 2000); pp. 555-556. Later used thus by for example His (1893b, p. 178), Herrick (1915, p. 160), Strong & Elwyn (1943, p. 17), Carpenter (1976, p. 367), Williams & Warwick (1980, p. 935).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101996
@@ -2688,8 +2688,8 @@ cerebralSubcortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cerebralSubcortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cerebral subcortex' is part of the brain.
    :description: The layer located below the cerebral cortex that includes the forebrain, midbrain and hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729745
@@ -2706,8 +2706,8 @@ chemoarchitecturalPartOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Chemoarchitectural part of brain' is a regional part of brain.
    :description: Regional part of an anatomical region that is revealed by the use of a stain that reveals chemoarchitecture.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102072
@@ -2724,8 +2724,8 @@ chemoarchitecturalPartOfStriatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102073
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025736#chemoarchitectural-part-of-striatum
@@ -2741,8 +2741,8 @@ choroidPlexus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus' is a brain ventricle/choroid plexus and vasculature of central nervous system. It is part of the brain ventricle and tela choroidea.
    :description: A structure consisting of modified ependymal cells in the ventricles of the brain responsible for the production of cerebral spinal fluid (CSFF).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102142
@@ -2759,8 +2759,8 @@ choroidPlexusCorporaArenacea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusCorporaArenacea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusCorporaArenacea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus corpora arenacea' is a calcified structure of brain. It is part of the choroid plexus.
    :description: A calcified structure of brain that is part of a choroid plexus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728330
@@ -2777,8 +2777,8 @@ choroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusEpithelium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus epithelium' is part of the choroid plexus.
    :description: The epithelial component of the choroid plexus. Consists of cuboidal epithelial cells surrounding a core of capillaries and loose connective tissue.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726675
@@ -2795,8 +2795,8 @@ choroidPlexusOfFourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusOfFourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus of fourth ventricle' is a choroid plexus and cerebellum vasculature. It is part of the fourth ventricle.
    :description: Choroid plexus of the fourth ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102143
@@ -2813,8 +2813,8 @@ choroidPlexusOfLateralVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfLateralVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusOfLateralVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus of lateral ventricle' is a choroid plexus. It is part of the telencephalic ventricle.
    :description: Part of choroid plexus contained in the lateral ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102144
@@ -2831,8 +2831,8 @@ choroidPlexusOfThirdVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfThirdVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusOfThirdVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus of third ventricle' is a choroid plexus. It is part of the third ventricle.
    :description: Part of choroid plexus contained in the third ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102145
@@ -2849,8 +2849,8 @@ choroidPlexusStroma
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/choroidPlexusStroma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Choroid plexus stroma' is part of the choroid plexus.
    :description: Stromal matrix surrounding blood vessels within the choroid plexus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726217
@@ -2867,8 +2867,8 @@ cingulateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cingulateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cingulate cortex' is a regional part of brain. It is part of the limbic cortex.
    :description: The cingulate cortex is a part of the brain situated in the medial aspect of the cortex. It is extended from the corpus callosum below to the cingulate sulcus above, at least anteriorly. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102179
@@ -2885,8 +2885,8 @@ cingulateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cingulateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cingulate gyrus' is a gyrus. It is part of the limbic system.
    :description: One of the convolutions on the medial surface of the cerebral hemisphere. It surrounds the rostral part of the brain and interhemispheric commissure and forms part of the limbic system. (MSH)  One of three essential structures comprising the limbic lobe, the other two being the hippocampus and parahippocampal gyrus. (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102180
@@ -2903,8 +2903,8 @@ cingulateSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cingulateSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The cingulate sulcus is a sulcus (brain fold) on the medial wall of the cerebral cortex. The frontal and parietal lobes are separated by the cingulate sulcus from the cingulate gyrus. [WP,unvetted].
    :description: 'Cingulate sulcus' is a subarachnoid sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102181
@@ -2921,8 +2921,8 @@ cingulumOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cingulumOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cingulum of brain' is a tract of brain. It is part of the brain white matter.
    :description: The white matter fiber bundle that projects from the cingulate gyrus to the entorhinal cortex in the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736017
@@ -2939,8 +2939,8 @@ circularSulcusOfInsula
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/circularSulcusOfInsula
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Circular sulcus of insula' is a marginal sulcus. It is part of the insula.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102193
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002713#circular-sulcus-of-insula-1
@@ -2956,8 +2956,8 @@ circumventricularOrgan
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circumventricularOrgan
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/circumventricularOrgan
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Circumventricular organ' is a regional part of brain.
    :description: Brain region located around or in relation to the ventricular system that is highly vascularized and distinguished by the lack of a blood brain barrier.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102196
@@ -2974,8 +2974,8 @@ claustralAmygdaloidArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/claustralAmygdaloidArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Claustral amygdaloid area' is a cerebral hemisphere gray matter. It is part of the amygdala and basal nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102229
@@ -2992,8 +2992,8 @@ claustrumOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/claustrumOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Claustrum of brain' is a basal ganglion and cerebral hemisphere gray matter. It is part of the pallium and basal nuclear complex.
    :description: Lamina of gray matter in the forebrain separated from the cortex in most species by the extreme capsule. (Brodal, Neurological Anatomy, 3rd Ed., 1981, pg 225).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102230
@@ -3010,8 +3010,8 @@ cochlearNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cochlearNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cochlear nuclear complex' is a gray matter of hindbrain. It is part of the medulla oblongata.
    :description: The cochlear nuclei consist of: (a) the dorsal cochlear nucleus, corresponding to the tuberculum acusticum on the dorso-lateral surface of the inferior peduncle; and (b) the ventral or accessory cochlear nucleus, placed between the two divisions of the nerve, on the ventral aspect of the inferior peduncle. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102309
@@ -3028,8 +3028,8 @@ collateralSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/collateralSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The collateral fissure (or sulcus) is on the tentorial surface of the hemisphere and extends from near the occipital pole to within a short distance of the temporal pole. Behind, it lies below and lateral to the calcarine fissure, from which it is separated by the lingual gyrus; in front, it is situated between the hippocampal gyrus and the anterior part of the fusiform gyrus. [WP,unvetted].
    :description: 'Collateral sulcus' is a subarachnoid sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102361
@@ -3046,8 +3046,8 @@ collectionOfBasalGanglia
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/collectionOfBasalGanglia
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Collection of basal ganglia' is an aggregate regional part of brain. It is part of the cerebral subcortex.
    :description: Subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101102
@@ -3063,8 +3063,8 @@ commissuralNucleusOfTheSolitaryTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Commissural nucleus of the solitary tract' is a nucleus of solitary tract.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102404
@@ -3081,8 +3081,8 @@ commissuralNucleusOfVagusNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfVagusNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissuralNucleusOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Commissural nucleus of vagus nerve' is a nucleus of medulla oblongata and vagus nerve nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102405
@@ -3099,8 +3099,8 @@ compositePartSpanningMultipleBaseRegionalPartsOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Composite part spanning multiple base regional parts of brain' is an anatomical entity. It is part of the brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102438
@@ -3117,8 +3117,8 @@ copulaPyramidis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/copulaPyramidis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/copulaPyramidis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Copula pyramidis' is a cerebellum hemisphere lobule.
    :description: A part of the cerebellar hemisphere in the mouse ( Paxinos-2001 ) and the rat ( Swanson-1998 ) that corresponds laterally to the pyramis of the vermis of the cerebellum. It is regarded as the rodent homolog of the 'lateral belly' of the the biventer lobule of the human (Voogd-1990) (Adapted from NeuroNames:  http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102555
@@ -3135,8 +3135,8 @@ coreOfNucleusAccumbens
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/coreOfNucleusAccumbens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Core of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102559
@@ -3153,8 +3153,8 @@ coronaRadiataOfNeuraxis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coronaRadiataOfNeuraxis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/coronaRadiataOfNeuraxis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Corona radiata of neuraxis' is a cerebral hemisphere white matter.
    :description: Fan shaped white matter mass comprised of afferent and efferent fibers from the cerebral cortex arranged in radially arrayed bundles, converging towards the internal capsule (Carpenter, Core Text of Neuroanatomy, 3rd ed, 1985, pg. 30;  Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 84).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102560
@@ -3171,8 +3171,8 @@ corpusCallosum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corpusCallosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'corpus callosum' is a white matter structure containing massive numbers of commissural fibers connecting cortical areas in the two cerebral hemispheres.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102562
@@ -3189,8 +3189,8 @@ corpusStriatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corpusStriatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Corpus striatum' is a regional part of brain. It is part of the basal ganglion.
    :description: The corpus striatum (striated body) is a compound structure consisting of the caudate nucleus and the lentiform nucleus, which consists of the putamen and the globus pallidus[WP].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729722
@@ -3207,8 +3207,8 @@ corticalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cortical amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
    :description: Three layered structure that is located in the caudal aspect of the amygdala bordering the periamygdaloid cortex laterally.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102583
@@ -3225,8 +3225,8 @@ corticalLayerI
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerI
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The most superficial layer of the neocortex characterized by a paucity of cell bodies.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107367
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005390#neocortex-layer-1
@@ -3242,8 +3242,8 @@ corticalLayerII
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerII
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Layer of neocortex lying just deep to molecular layer characterized by numerous small cell bodies.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107368
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005391#neocortex-layer-2
@@ -3259,8 +3259,8 @@ corticalLayerIII
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerIII
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Layer of neocortex lying deep to the external granule cell layer defined cytoarchitecturally by numerous small pyramidal neurons.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107369
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005392#neocortex-layer-3
@@ -3276,8 +3276,8 @@ corticalLayerIV
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIV
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerIV
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Layer of neocortex lying deep to the external pyramidal cell layer defined cytoarchitecturally by the presence of numerous small cells.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107370
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005393#neocortex-layer-4
@@ -3293,8 +3293,8 @@ corticalLayerV
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerV
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Layer of neocortex lying deep to the internal granule cell layer (layer 4) defined cytoarchitecturally by the predominance of large pyramidal cell bodies.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107371
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005394#neocortex-layer-5
@@ -3310,8 +3310,8 @@ corticalLayerVI
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerVI
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticalLayerVI
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Innermost layer of neocortex lying deep to the internal pyramidal cell layer defined cytoarchitecturally by cells of varying size.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107374
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005395#neocortex-layer-6
@@ -3327,8 +3327,8 @@ corticomedialNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticomedialNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Corticomedial nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
    :description: These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102590
@@ -3345,8 +3345,8 @@ corticospinalTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticospinalTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'corticospinal tract' is a white matter fibre bundle that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109556
@@ -3362,8 +3362,8 @@ corticotectalTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/corticotectalTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Corticotectal tract' is a tract of brain. It is part of the midbrain tectum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102591
@@ -3380,8 +3380,8 @@ cranialNerveII
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cranialNerveII
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'cranial nerve II' is comprised of retinal ganglion cell axons running posterior medially towards the optic chiasm, at which some of the axons cross the midline and after which the structure is termed the optic tract.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724691
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000941#optic-nerve
@@ -3397,8 +3397,8 @@ cuneateFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cuneateFasciculusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cuneate fasciculus of medulla' is a cuneate fasciculus, fasciculus of brain and tract of brain. It is part of the medulla oblongata.
    :description: Part of cuneate fasciculus found in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102667
@@ -3415,8 +3415,8 @@ cuneiformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cuneiformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cuneiform nucleus' is a nucleus of midbrain reticular formation.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102671
@@ -3433,8 +3433,8 @@ cuneocerebellarTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneocerebellarTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cuneocerebellarTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cuneocerebellar tract' is a tract of brain. It is part of the white matter of medulla oblongata.
    :description: White matter tract that originates from the cuneate and external cuneate nuclei.  It relays ascending spinal fibers in the dorsal funiculus and conveys information from forelimbs to the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102673
@@ -3451,8 +3451,8 @@ cuneusCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cuneusCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cuneus cortex' is an occipital gyrus.
    :description: Component of the occipital lobe.  The rostral boundary was the first coronal slice above the calcarine sulcus where the cuneus cortex becomes visible whereas the caudal boundary was the last slice where the calcarine sulcus was visualized. The medial boundary was the most medial portion of the occipital and parietal cortices. The superio-lateral boundary was the parieto-occipital fissure whereas the inferolateral boundary was the pericalcarine cortex (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102674
@@ -3469,8 +3469,8 @@ cytoarchitecturalPartOfDentateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Cytoarchitectural part of dentate gyrus' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102762
@@ -3487,8 +3487,8 @@ decussationOfSuperiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Decussation of superior cerebellar peduncle' is a neural decussation. It is part of the midbrain tegmentum and superior cerebellar peduncle.
    :description: Regional part of superior cerebellar peduncle located in the caudal midbrain, at the level of the inferior colliculus, consisting of a large bundle of fibers crossing the midline. It contains fibers projecting from the deep cerebellar nucleus to the midbrain and thalamus through the superior cerebellar peduncle (MM). The decussation of superior cerebellar peduncle is the portion of the superior cerebellar peduncle which crosses into the midbrain. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102963
@@ -3505,8 +3505,8 @@ decussationOfTrochlearNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfTrochlearNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/decussationOfTrochlearNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Decussation of trochlear nerve' is a neural decussation. It is part of the pontine tegmentum.
    :description: The crossing of the two trochlear nerves at their exit through the velum medullare anterius.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102964
@@ -3523,8 +3523,8 @@ densocellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Densocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103047
@@ -3541,8 +3541,8 @@ dentateGyrusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Granule cell layer is also called the DG principal cell layer. This one of the three layers of dentate gyrus that lies deep to the molecular layer and is made of densely packed layer that is four to eight granule cells thick.
    :description: 'Dentate gyrus granule cell layer' is a layer of dentate gyrus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103056
@@ -3559,8 +3559,8 @@ dentateGyrusMolecularLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusMolecularLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The molecular layer of the dentate gyrus that is bounded by the pial surface superficially and the dentate gyrus granule cell layer deep. It is divided into 2 or more sublayers.
    :description: 'Dentate gyrus molecular layer' is a layer of dentate gyrus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103074
@@ -3577,8 +3577,8 @@ dentateGyrusOfHippocampalFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dentate gyrus of hippocampal formation' is a regional part of brain. It is part of the hippocampal formation.
    :description: Part of the hippocampal formation forming a "V" or "U" shaped structure with the opening bounded by hippocampal area CA3.  It consists of 3 layers from superficial to deep:  molecular, granule cell and polymorphic or hilar layer.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103048
@@ -3595,8 +3595,8 @@ dentateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dentate nucleus' is a nucleus of cerebellar nuclear complex.
    :description: The largest and most lateral of the deep cerebellum nuclei; it receives axons of Purkinje cells in the lateral cerebellar hemisphere (neocerebellum) and receives its afferents from the premotor cortex and the supplementary motor cortex through the pontocerebellar system, and its efferents project through the superior cerebellar peduncle and is a major source of its fibers
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103084
@@ -3613,8 +3613,8 @@ dentatothalamicTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentatothalamicTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dentatothalamic tract' is a tract of brain. It is part of the midbrain tegmentum.
    :description: The dentatothalamic tract (or dentatorubrothalamic tract) is a tract which connects the dentate nucleus and the thalamus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103087
@@ -3631,8 +3631,8 @@ diagonalBandOfBroca
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/diagonalBandOfBroca
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Diagonal band of Broca' is a neuron projection bundle and central nervous system cell part cluster. It is part of the cerebral hemisphere white matter.
    :description: A white fibre bundle descending in the precommissural septum toward the base of the forebrain, immediately rostral to the lamina terminalis; at the base, the bundle turns in the caudolateral direction; traveling through the ventral substantia innominata alongside the optic tract, it fades before reaching the amygdala. (Mondofacto:  http://www.mondofacto.com/facts/dictionary?Broca%27s%20diagonal%20band)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103188
@@ -3649,8 +3649,8 @@ diencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/diencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Diencephalon' is a regional part of brain. It is part of the forebrain.
    :description: Part of the brain consisting of the paired caudal parts of the prosencephalon from which the Thalamus; Hypothalamus; Epithalamus; and Subthalamus are derived.(MeSH)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103217
@@ -3667,8 +3667,8 @@ diffuseReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diffuseReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/diffuseReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Diffuse reticular nucleus' is a parabrachial nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105881
@@ -3685,8 +3685,8 @@ dorsalAccessoryInferiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal accessory inferior olivary nucleus' is an inferior olivary nucleus.
    :description: Regional part of inferior olivary complex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103410
@@ -3703,8 +3703,8 @@ dorsalAcousticStria
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAcousticStria
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalAcousticStria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :description: White matter structure containing fibers arising from the cochlear nuclear complex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103411
@@ -3721,8 +3721,8 @@ dorsalCapOfKooy
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCapOfKooy
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalCapOfKooy
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal cap of Kooy' is a regional part of brain. It is part of the inferior olivary complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103421
@@ -3739,8 +3739,8 @@ dorsalCochlearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCochlearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalCochlearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal cochlear nucleus' is a cochlear nucleus.
    :description: The dorsal cochlear nucleus (DCN, also known as the 'tuberculum acousticum'), is a cortex-like structure on the dorso-lateral surface of the brainstem. Along with the ventral cochlear nucleus, it forms the cochlear nucleus, where all auditory nerve fibers from the cochlea form their first synapses. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103424
@@ -3757,8 +3757,8 @@ dorsalColumnNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalColumnNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal column nucleus' is a nucleus of medulla oblongata. It is part of the dorsal column-medial lemniscus pathway.
    :description: A pair of nuclei in the brainstem. The name refers collectively to the cuneate nucleus and gracile nucleus, which are present at the junction between the spinal cord and the medulla oblongata. Both nuclei contain secondary neurons of the dorsal column-medial lemniscus pathway,
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103429
@@ -3775,8 +3775,8 @@ dorsalExternalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103433
@@ -3793,8 +3793,8 @@ dorsalHypothalamicArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalHypothalamicArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal hypothalamic area' is a regional part of brain. It is part of the hypothalamus.
    :description: A relatively small region of the hypothalamus located inferior to the hypothalamic sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103438
@@ -3811,8 +3811,8 @@ dorsalLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLongitudinalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus' is a fasciculus of brain.
    :description: A fiber bundle containing fibers from nuclei of the hypothalamus that project to the dorsal tegmental nucleus and other regions of the midbrain and the pons, as well as fibers originating in the pontine reticular formation and the medullary reticular formation that project to the thalamus and other regions of the forebrain (Carpenter-83). In NeuroNames it is a composite structure consisting of the dorsal longitudinal fasciculus of hypothalamus, the dorsal longitudinal fasciculus of midbrain, the dorsal longitudinal fasciculus of pons and the dorsal longitudinal fasciculus of medulla. (NeuroNames)]]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103442
@@ -3829,8 +3829,8 @@ dorsalLongitudinalFasciculusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of hypothalamus' is a fasciculus of brain. It is part of the lateral hypothalamic area and dorsal longitudinal fasciculus.
    :description: Part of dorsal longitudinal fasciculus located within the hypothalamus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103443
@@ -3847,8 +3847,8 @@ dorsalLongitudinalFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of medulla' is a fasciculus of brain. It is part of the medulla oblongata.
    :description: Part of dorsal longitudinal fasciculus located in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103444
@@ -3865,8 +3865,8 @@ dorsalLongitudinalFasciculusOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum and dorsal longitudinal fasciculus.
    :description: Part of dorsal longitudinal fasciculus located in the midbrain tegmentum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103445
@@ -3883,8 +3883,8 @@ dorsalLongitudinalFasciculusOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of pons' is a fasciculus of brain. It is part of the pons and dorsal longitudinal fasciculus.
    :description: Part of dorsal longitudinal fasciculus located within the pons
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103447
@@ -3901,8 +3901,8 @@ dorsalMotorNucleusOfVagusNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal motor nucleus of vagus nerve' is a nucleus of medulla oblongata and motor nucleus of vagal nerve.
    :description: A cranial nerve nucleus for the vagus nerve in the medulla that lies under the floor of the fourth ventricle. It mostly serves parasympathetic vagal functions in the gastrointestinal tract, lungs, and other thoracic and abdominal vagal innervations. The cell bodies for the preganglionic parasympathetic vagal neurons that innervate the heart reside in the nucleus ambiguus.[WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103451
@@ -3919,8 +3919,8 @@ dorsalNucleusOfLateralLemniscus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal nucleus of lateral lemniscus' is a nucleus of lateral lemniscus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103457
@@ -3937,8 +3937,8 @@ dorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :description: Dorsal division of the medial geniculate nucleus, as first defined by Morest (1964) in the cat, but also described in the rat. It fills all but the medial edge of the posterior tip in cat, and joins the lateral thalamic nucleus anteriorly (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1261345/?page=3)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103458
@@ -3955,8 +3955,8 @@ dorsalNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal nucleus of trapezoid body' is a nucleus of trapezoid body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103459
@@ -3973,8 +3973,8 @@ dorsalOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103460
@@ -3991,8 +3991,8 @@ dorsalPallidum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalPallidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus.
    :description: The predominant portion of the globus pallidus in the striatopallidal system, which is defined by connectivity and neurochemical staining. The dorsal pallidum is distinguished from the ventral pallidum by a boundary that is partially defined by the anterior commissure. The remainder of the boundary is indistinct in sections stained for Nissl substance ( Heimer-1995 ).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724298
@@ -4009,8 +4009,8 @@ dorsalParamedianReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalParamedianReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalParamedianReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal paramedian reticular nucleus' is a nucleus of medulla oblongata. It is part of the paramedian medullary reticular complex.
    :description: Small nucleus in the brainstem of human, located adjacent and medial to the nucleus prepositus in the dorsal medulla, described in several atlases of human brain stem.  In transverse sections, it is oval with its long axis aligned with the dorsal border of the brainstem.  It begins at about the same A-P level as the nucleus prepositus, just rostral to the hypoglossal nucleus.  It includes calretinin immunoreactive large cells with oval or polygonal cell bodies. Cells are not immunoreactive for either calbindin or parvalbumin, but a few fibers immunoreactive to each protein are found within its central region. Cells in PMD are also immunoreactive to nNOS, and immunoreactivity to a neurofilament protein shows many labeled cells and fibers.  According to Baizer et al., no equivalent structure was observed in the cat, rat, mouse or monkey atlas although they did not look at the brains of the great apes.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107786
@@ -4027,8 +4027,8 @@ dorsalPlusVentralThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPlusVentralThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalPlusVentralThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal plus ventral thalamus' is a regional part of brain. It is part of the thalamic complex.
    :description: Subcortical brain region consisting of paired gray matter bodies in the dorsal diencephalon and forming part of the lateral wall of the third ventricle of the brain. The thalamus represents the major portion of the diencephalon and is commonly divided into cellular aggregates known as nuclear groups.(MeSH).The dorsal topographic division of the interbrain. The macrodissected adult human thalamus was clearly illustrated by Vesalius in 1543 and the term as defined here was introduced by His in 1893. It includes the traditional epithalamus, dorsal thalamus, and ventral thalamus of Herrick (1910, pp. 494, 498). Also see Kuhlenbeck (1927, Ch. 9) and Jones (1985, p. 87).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111657
@@ -4045,8 +4045,8 @@ dorsalRapheNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalRapheNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.
    :description: A large raphe nucleus extending from the anterior part of the pons through the mesencephalon; its neurons are serotoninergic[NIF]. The dorsal raphe nucleus is a part of the raphe nucleus and consists of rostral and caudal subdivisions. The rostral aspect of the dorsal raphe is further divided into interfascicular, ventral, ventrolateral and dorsal subnuclei. The projections of the dorsal raphe have been found to vary topographically, and thus the subnuclei differ in their projections. An increased number of cells in the lateral aspects of the dorsal raphe is characteristic of humans and other primates. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103469
@@ -4063,8 +4063,8 @@ dorsalSeptalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalSeptalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103478
@@ -4081,8 +4081,8 @@ dorsalStriatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalStriatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal striatum' is a gray matter of telencephalon. It is part of the striatum.
    :description: Dorsal components of the striatum comprising the caudate nucleus and the putamen, in species that have distinct nuclei; the caudoputamen in species which don't.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103481
@@ -4099,8 +4099,8 @@ dorsalTegmentalDecussation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalDecussation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTegmentalDecussation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal tegmental decussation' is a neural decussation. It is part of the midbrain tegmentum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103484
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003009#dorsal-tegmental-decussation-1
@@ -4116,8 +4116,8 @@ dorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTegmentalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103485
@@ -4134,8 +4134,8 @@ dorsalTegmentalNucleusParsDorsalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus pars dorsalis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
    :description: Part of dorsal tegmental nucleus characterized by round, small cells that are lightly stained in Nissl preparations.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103488
@@ -4152,8 +4152,8 @@ dorsalTegmentalNucleusParsVentralis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus pars ventralis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
    :description: Cytoarchitectural part of the dorsal tegmental nucleus based on cell size.  The pars ventralis is characterized by medium sized oval or triangular cells that stain darkly in NIssl stains.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103489
@@ -4170,8 +4170,8 @@ dorsalTrigeminalTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTrigeminalTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsal trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
    :description: The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103494
@@ -4188,8 +4188,8 @@ dorsolateralFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsolateral fasciculus of medulla' is a tract of brain. It is part of the medulla oblongata.
    :description: Part of Lissauer's tract located in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106302
@@ -4206,8 +4206,8 @@ dorsolateralPrefrontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsolateralPrefrontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsolateral prefrontal cortex' is a regional part of brain. It is part of the cerebral cortex.
    :description: Part of prefrontal cortex.  The dorsolateral prefrontal cortex (DL-PFC or DLPFC), according to a more restricted definition, is roughly equivalent to Brodmann areas 9 and 46. According to a broader definition DL-PFC consists of the lateral portions of Brodmann areas 9 - 12, of areas 45, 46, and the superior part of area 47. These regions mainly receive their blood supply from the middle cerebral artery. With respect to neurotransmitter systems, there is evidence that dopamine plays a particularly important role in DL-PFC.DL-PFC is connected to the orbitofrontal cortex, and to a variety of brain areas, which include the thalamus, parts of the basal ganglia (the dorsal caudate nucleus), the hippocampus, and primary and secondary association areas of neocortex, including posterior temporal, parietal, and occipital areas check dorsolateral prefrontal neocortex (http://purl.obolibrary.org/obo/UBERON_0009834).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103503
@@ -4224,8 +4224,8 @@ dorsomedialNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Dorsomedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
    :description: The Dorsomedial hypothalamic nucleus is a nucleus of the hypothalamus. It is involved in feeding, drinking, and body weight regulation. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103515
@@ -4242,8 +4242,8 @@ emboliformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/emboliformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Emboliform nucleus' is a cerebellum interpositus nucleus.
    :description: The small wedge shaped nucleus interposed between the dentate and fastigial nuclei; it receives axons from Purkinje cells of the intermediate area of the cerebral hemispheres and most of its efferent connections travel via the superior cerebellar peduncle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103738
@@ -4260,8 +4260,8 @@ endopiriformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endopiriformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/endopiriformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: An elongated nucleus consisting largely of multipolar spiny cells lying deep to the piriform cortex.  According to Price (1990;  pp. 979-998 in The Human Nervous System, G. Paxinos, (Ed.), Academic Press, San Diego), it is part of the claustrum.
    :description: 'Endopiriform nucleus' is a telencephalic nucleus. It is part of the claustrum of brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103787
@@ -4278,8 +4278,8 @@ entorhinalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Entorhinal cortex' is part of the parahippocampal gyrus and piriform cortex.
    :description: Component of the temporal lobe on the mesial surface.  The rostral and caudal boundaries of the entorhinal cortex are the rostral end of the collateral sulcus and the caudal end of the amygdala respectively.  The medial boundary is the medial aspect of the temporal lobe and the lateral boundary is the collateral sulcus. (DK)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103859
@@ -4296,8 +4296,8 @@ entorhinalCortexLayer2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortexLayer2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Entorhinal cortex layer 2' is the outermost cell layer of the entorhinal cortex.
    :description: Layer of the entorhinal cortex lying superficial to layer 3 and deep to layer 1. It is characterized by medium-to large sized stellate cells that are grouped into prominent clusters, particularly in the rostral entorhinal cortex (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731986
@@ -4314,8 +4314,8 @@ entorhinalCortexLayer3
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer3
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortexLayer3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Entorhinal cortex layer 3' is the pyramidal layer of the entorhinal cortex.
    :description: Layer of the entorhinal cortex lying superficial to layer 4 and deep to layer 2. It is characterized by cells of various sizes and shapes with a predominance of pyramidal cells (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103864
@@ -4332,8 +4332,8 @@ entorhinalCortexLayer5
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortexLayer5
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Entorhinal cortex layer 5' is one of the deep layers of the entorhinal cortex.
    :description: Layer of entorhinal cortex lying superficial to layer 6 and deep to layer 4 characterized by large pyramidal neurons that are darkly stained in Nissl preparations (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103866
@@ -4350,8 +4350,8 @@ entorhinalCortexLayer6
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer6
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entorhinalCortexLayer6
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Entorhinal cortex layer 6' is the innermost layer of the entorhinal cortex.
    :description: Layer of entorhinal cortex lying superficial to the cerebral white matter and deep to layer 5 characterized by cells of various shapes and sizes (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103867
@@ -4368,8 +4368,8 @@ epithalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/epithalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Epithalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
    :description: Most dorsal part of the thalamus, comprising the pineal gland and habenular nuclei in most vertebrates.  In a few vertebrates, it also includes the parietal eye. (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed, 2005, pg. 345-346.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103897
@@ -4386,8 +4386,8 @@ externalCapsuleOfTelencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalCapsuleOfTelencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/externalCapsuleOfTelencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'external capsule of telencephalon' is a series of white matter fibre tracts that run between the most lateral segment of the lentiform nucleus and the claustrum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724043
@@ -4404,8 +4404,8 @@ externalNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalNucleusOfInferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/externalNucleusOfInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'External nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104042
@@ -4422,8 +4422,8 @@ extrastriateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/extrastriateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Extrastriate cortex' is an aggregate regional part of brain. It is part of the visual cortex.
    :description: A group of cortical areas related by direct or indirect connectivity to the striate area 17 and functionally involved primarily in vision. They include the parastriate area 18, the peristriate area 19 and adjacent areas in the parietal lobe and temporal lobe (Adapted from BrainInfo and Zilles-1990).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104057
@@ -4440,8 +4440,8 @@ extremeCapsule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extremeCapsule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/extremeCapsule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Extreme capsule' is a cerebral hemisphere white matter.
    :description: Thin band of fibers separating the claustrum from the insular cortex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104058
@@ -4458,8 +4458,8 @@ facialMotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/facialMotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Nucleus located in the pontine tegmentum containing motor neurons that innervate the muscles of the face. Some neurons that project to the cerebellum have also been identified in some species.
    :description: 'Facial motor nucleus' is a facial nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104077
@@ -4476,8 +4476,8 @@ facialNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/facialNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Facial nerve root' is a root of cranial nerve. It is part of the metencephalon.
    :description: A nerve root that extends_fibers_into a facial nerve.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104076
@@ -4494,8 +4494,8 @@ fasciculusOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fasciculusOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fasciculus of brain' is a nerve fasciculus and central nervous system cell part cluster. It is part of the brain and white matter.
    :description: A fascicle that is part of a brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727527
@@ -4512,8 +4512,8 @@ fasciolarGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fasciolarGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fasciolar gyrus' is part of the limbic lobe.
    :description: A small paired band that passes around the splenium of the corpus callosum from the lateral longitudinal stria to the dentate gyrus[Biology-Online]. A posterior and upward extension of the dentate gyrus, forming a transitional area between the dentate gyrus and the indusium griseum[BTO].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104114
@@ -4530,8 +4530,8 @@ fastigialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fastigialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fastigial nucleus' is a nucleus of cerebellar nuclear complex.
    :description: The most medial of the cerebellar nuclei; it receives its afferent input from Purkinje cells of the flocculonodular lobe and the vermis, and most of its efferent connections travel via the inferior cerebellar peduncle to the vestibular nuclei and to the medullary reticular formation
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104122
@@ -4548,8 +4548,8 @@ flocculonodularLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/flocculonodularLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Flocculonodular lobe' is a cerebellum lobe. It is part of the vestibulocerebellum.
    :description: The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104286
@@ -4566,8 +4566,8 @@ flocculonodularLobeHemispherePortion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Flocculonodular lobe, hemisphere portion' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and flocculonodular lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104947
    :name: flocculonodular lobe, hemisphere portion
@@ -4582,8 +4582,8 @@ flocculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/flocculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Flocculus' is a flocculonodular lobe, hemisphere portion.
    :description: The small lobe of the cerebellum at the posterior border of the middle cerebellar peduncle anterior to the biventer lobule that receives input from the inferior and medial vestibular nuclei and sends fibers back to the vestibular nuclei, and processes and integrates these signals to allow for the constant maintenance of balance
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104287
@@ -4600,8 +4600,8 @@ forebrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/forebrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Forebrain' is a regional part of brain.
    :description: The part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube and consisting of the DIENCEPHALON and TELENCEPHALON. (MSH) * part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube (brain) from which the diencephalon and telencephalon are derived; also called the forebrain. (CSP), The part of the brain developed from the most rostral of the three primary vesicles of the embryonic neural tube and consisting of the Diencephalon and Telencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104355
@@ -4618,8 +4618,8 @@ forebrainmidbrainBoundary
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/forebrainmidbrainBoundary
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Forebrain-midbrain boundary' is part of the brain.
    :description: An anatomical boundary that adjacent_to a forebrain and adjacent_to a midbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736799
@@ -4636,8 +4636,8 @@ fornixOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fornixOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fornix of brain' is a tract of brain. It is part of the hippocampal formation.
    :description: White matter structure carrying axons connecting the hippocampal formation to other brain regions.  It is typically divided into the columns (crus), body, commissure and the pre-commissural and post-commissural fornix (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104362
@@ -4654,8 +4654,8 @@ fourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fourth ventricle' is a brain ventricle. It is part of the hindbrain.
    :description: Part of the ventricular system of the brain, forming a single large irregularly shaped cavity located on the midline of the rhombencephalon, between the medulla, pons and the isthmus ventrally and the cerebellum dorsally. It is continuous with the cerebral aqueduct anteriorally and the central canal of the spinal cord posteriorly. It communicates with the subarachnoid space through its lateral and median apertures.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104381
@@ -4672,8 +4672,8 @@ fourthVentricleAperture
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleAperture
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fourth ventricle aperture' is part of the fourth ventricle.
    :description: One of:  the 4th ventricle median or lateral apertures.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735066
@@ -4690,8 +4690,8 @@ fourthVentricleChoroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fourth ventricle choroid plexus epithelium' is a choroid plexus epithelium. It is part of the choroid plexus of fourth ventricle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728876
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004276#fourth-ventricle-choroid-plexus-epithelium
@@ -4707,8 +4707,8 @@ fourthVentricleChoroidPlexusStroma
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fourth ventricle choroid plexus stroma' is a choroid plexus stroma. It is part of the choroid plexus of fourth ventricle.
    :description: A choroid plexus stroma that is part of a fourth ventricle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726195
@@ -4725,8 +4725,8 @@ fourthVentricleEpendyma
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthVentricleEpendyma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fourth ventricle ependyma' is a brain ependyma. It is part of the fourth ventricle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729148
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004644#fourth-ventricle-ependyma
@@ -4742,8 +4742,8 @@ frontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/frontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Frontal cortex' is a cortex of cerebral lobe. It is part of the frontal lobe.
    :description: Anterior portion of the frontal cortex, lying anterior to the central sulcus in humans.  It is bounded by the parietal cortex posteriorly and the temporal cortex laterally.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104449
@@ -4760,8 +4760,8 @@ frontalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/frontalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Frontal lobe' is a lobe of cerebral hemisphere.
    :description: The anterior part of the cerebral hemisphere. (MSH)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104451
@@ -4778,8 +4778,8 @@ frontalOperculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/frontalOperculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Frontal operculum' is a regional part of brain. It is part of the operculum of brain.
    :description: Portion of frontal lobe that overlaps the insular cortex (adapted from Wikipedia)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104454
@@ -4796,8 +4796,8 @@ frontalPole
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalPole
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/frontalPole
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Frontal pole' is a pole of cerebral hemisphere. It is part of the frontal lobe.
    :description: Component of the frontal lobe.  The rostral and caudal boundaries of the frontal pole are the superior frontal gyrus and the rostral division of the middle frontal gyrus respectively in human (Christine Fennama-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104455
@@ -4814,8 +4814,8 @@ frontoorbitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontoorbitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/frontoorbitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fronto-orbital gyrus' is an orbital gyrus and frontal gyrus. It is part of the orbitofrontal cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104458
@@ -4832,8 +4832,8 @@ functionalPartOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/functionalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/functionalPartOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Functional part of brain' is a regional part of brain.
    :description: A brain region defined by functional criteria, e.g. auditory cortex, rather than by structural or histological criteria.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104474
@@ -4850,8 +4850,8 @@ fundusStriati
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fundusStriati
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Fundus striati' is a regional part of brain. It is part of the ventral striatum.
    :description: The ventral portion of the dorsal striatum, linking the caudate nucleus and the putamen anteriorly (adapted from Wikipedia)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104480
@@ -4868,8 +4868,8 @@ fusiformGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fusiformGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fusiformGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The fusiform gyrus is part of the temporal lobe. It is also known as the (discontinuous) occipitotemporal gyrus. Other sources have the fusiform gyrus above the occipitotemporal gyrus and underneath the parahippocampal gyrus. [WP,unvetted].
    :description: 'Fusiform gyrus' is a gyrus. It is part of the temporal lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104491
@@ -4886,8 +4886,8 @@ futureHindbrainMeninx
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureHindbrainMeninx
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/futureHindbrainMeninx
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Future hindbrain meninx' is a future meninx. It is part of the hindbrain.
    :description: A multi-tissue structure that has the potential to develop into a meninx of hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736728
@@ -4904,8 +4904,8 @@ futureMetencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/futureMetencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Future metencephalon' is part of the hindbrain.
    :description: A developing anatomical structure that has the potential to develop into a metencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735157
@@ -4922,8 +4922,8 @@ futureMyelencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMyelencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/futureMyelencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Future myelencephalon' is part of the hindbrain.
    :description: A developing anatomical structure that has the potential to develop into a myelencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727209
@@ -4940,8 +4940,8 @@ genuOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/genuOfCorpusCallosum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/genuOfCorpusCallosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Genu of corpus callosum' is a regional part of brain. It is part of the corpus callosum.
    :description: Part of corpus callosum comprising the "kneelike" anterior bend (adapted from Nolte, The Human Brain, 6th ed., 2009 pg 664)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104608
@@ -4958,8 +4958,8 @@ globusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/globusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Globus pallidus' is a telencephalic nucleus. It is part of the cerebral hemisphere and pallidum.
    :description: Subcortical nucleus, functionally part of the basal ganglia, which consists of two segments the external (or lateral) and internal (or medial) separated by the medial medullary lamina in primates.  In rodents, The globus pallidus lateral is separated from the medial segment by the fibers of the internal capsule/cerebral peduncle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104657
@@ -4976,8 +4976,8 @@ glossopharyngealNerveFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealNerveFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Glossopharyngeal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104666
@@ -4994,8 +4994,8 @@ glossopharyngealNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Glossopharyngeal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736855
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019310#glossopharyngeal-nerve-root-1
@@ -5011,8 +5011,8 @@ gracileFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gracileFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Gracile fasciculus' is a nerve fasciculus and central nervous system cell part cluster. It is part of the white matter and dorsal column-medial lemniscus pathway.
    :description: Axon bundle arising largely from the dorsal root ganglia of the lower spinal cord, ascending in humans in the dorsal funiculus, synapsing within the nucleus gracilis of the lower medulla.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104726
@@ -5029,8 +5029,8 @@ gracileFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gracileFasciculusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Gracile fasciculus of medulla' is a gracile fasciculus and fasciculus of brain. It is part of the medulla oblongata.
    :description: Part of gracile fasiculus located in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104727
@@ -5047,8 +5047,8 @@ grayMatterOfHindbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfHindbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/grayMatterOfHindbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Gray matter of hindbrain' is a brain gray matter. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724553
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
@@ -5064,8 +5064,8 @@ grossAnatomicalPartsOfTheCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Gross anatomical parts of the cerebellum' is a regional part of brain. It is part of the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104796
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023836#gross-anatomical-parts-of-the-cerebellum-1
@@ -5081,8 +5081,8 @@ gyrusRectus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gyrusRectus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gyrusRectus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Gyrus rectus' is a gyrus. It is part of the frontal lobe.
    :description: The portion of the frontal lobe medial to the medial orbital gyrus is named the gyrus rectus (or straight gyrus), and is continuous with the superior frontal gyrus on the medial surface. A specific function for the gyrus rectus has not yet been elucidated.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104846
@@ -5099,8 +5099,8 @@ habenula
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenula
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/habenula
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Habenula' is a regional part of brain. It is part of the epithalamus.
    :description: Habenula is a segment of the epithalamus that has as its parts the lateral and medial habenular nuclei and the habenular commissure.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104854
@@ -5117,8 +5117,8 @@ habenularCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/habenularCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Habenular commissure' is a ventral commissure, commissure of diencephalon and thalamic fiber tract. It is part of the habenula and diencephalic white matter.
    :description: A brain commissure that is situated in front of the pineal gland and connects the habenular nucleus on one side of the diencephalon with that on the other side.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104855
@@ -5135,8 +5135,8 @@ habenulointerpeduncularTractOfDiencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Habenulo-interpeduncular tract of diencephalon' is a fasciculus of brain. It is part of the habenulo-interpeduncular tract and diencephalic white matter.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104856
@@ -5153,8 +5153,8 @@ habenulointerpeduncularTractOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Habenulo-interpeduncular tract of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum, habenulo-interpeduncular tract and white matter of midbrain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104857
@@ -5171,8 +5171,8 @@ headOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/headOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/headOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Head of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :description: Largest part of the caudate nucleus lying lateral to and protruding into the anterior of the lateral ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104911
@@ -5189,8 +5189,8 @@ hilumOfDentateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hilumOfDentateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hilum of dentate nucleus' is a hilum of neuraxis. It is part of the dentate nucleus.
    :description: The mouth of the flasklike dentate nucleus of the cerebellum, directed inward (rostromedial), and giving exit to many of the fibers that compose the superior cerebellar peduncle or brachium conjunctivum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105003
@@ -5207,8 +5207,8 @@ hilusOfDentateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hilusOfDentateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hilus of dentate gyrus' is a cerebral hemisphere gray matter. It is part of the dentate gyrus of hippocampal formation.
    :description: Layer of the dentate gyrus lying deep to the granule cell layer, within the opening of the C or V formed by the granule cell layer characterized by loosely packed polymorphic cells.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103062
@@ -5225,8 +5225,8 @@ hindbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain' is a regional part of brain.
    :description: Part of the brainconstituting the MEDULLA OBLONGATA (myelencephalon) and PONS (metencephalon). (adapted from MSH) * part of the brain developed from the posterior of the three primary brain vesicles of the embryonic neural tube; it comprises the metencephalon (cerebellum and pons) and myelencephalon (medulla oblongata). (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105004
@@ -5243,8 +5243,8 @@ hindbrainCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain commissure' is a brain commissure. It is part of the hindbrain.
    :description: Any commissure within the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732568
@@ -5261,8 +5261,8 @@ hindbrainCorticalIntermediateZone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain cortical intermediate zone' is a cortical intermediate zone. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733012
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034994#hindbrain-cortical-intermediate-zone
@@ -5278,8 +5278,8 @@ hindbrainMarginalLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainMarginalLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain marginal layer' is a central nervous system cell part cluster. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733117
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034709#hindbrain-marginal-layer
@@ -5295,8 +5295,8 @@ hindbrainNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain nucleus' is a nucleus of brain. It is part of the hindbrain.
    :description: Nucleus located within the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733158
@@ -5313,8 +5313,8 @@ hindbrainSubarachnoidSpace
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainSubarachnoidSpace
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain subarachnoid space' is a subarachnoid space. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726998
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005219#hindbrain-subarachnoid-space
@@ -5330,8 +5330,8 @@ hindbrainVenousSystem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainVenousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hindbrain venous system' is part of the hindbrain.
    :description: A venous system that is part of a hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735731
@@ -5348,8 +5348,8 @@ hippocampalCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hippocampal commissure' is a dorsal telencephalic commissure. It is part of the cerebral hemisphere white matter.
    :description: The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102407
@@ -5365,8 +5365,8 @@ hippocampalFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hippocampal formation' is a regional part of brain. It is part of the cerebral cortex.
    :description: A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle.  The term hippocampal formation  is often used synonymously with hippocampus which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subicular complex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105009
@@ -5383,8 +5383,8 @@ hippocampusAlveus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusAlveus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hippocampus alveus' is a central nervous system cell part cluster and central nervous system white matter layer. It is part of the hippocampal formation.
    :description: Layer of white matter in hippocampus lying just deep to the stratum oriens layer, continuous with the fimbria of the hippocampus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100522
@@ -5401,8 +5401,8 @@ hippocampusFimbria
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusFimbria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hippocampus fimbria' is a central nervous system cell part cluster. It is part of the fornix of brain, Ammon's horn and white matter of telencephalon.
    :description: Part of fornix lying closest to the hippocampal formation continuous with the alveus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104243
@@ -5419,8 +5419,8 @@ horizontalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Horizontal limb of the diagonal band' is a subdivision of diagonal band.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105108
@@ -5437,8 +5437,8 @@ hypoglossalNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hypoglossalNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hypoglossal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
    :description: A nerve root that extends_fibers_into a hypoglossal nerve.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105166
@@ -5455,8 +5455,8 @@ hypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Hypothalamus' is a regional part of brain. It is part of the limbic system and thalamic complex.
    :description: Ventral part of the diencephalon extending from the region of the optic chiasm to the caudal border of the mammillary bodies and forming the inferior and lateral walls of the third ventricle.The ventral topographic division of the interbrain. The first adequate description of the hypothalamus as a layer of gray matter surrounding the lower half of the third ventricle (Galen, c173) was provided by Wharton (1656, see 1966 translation, p. 170). His (1893, pp. 159-162) introduced the term but assigned the preoptic region (Swanson, 1976, pp. 229-235) of the hypothalamus to the telencephalon (His, 1893b). The definition here was introduced for vertebrates by Kuhlenbeck (1927, p. 67, Ch. 9).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105177
@@ -5473,8 +5473,8 @@ induseumGriseum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/induseumGriseum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/induseumGriseum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Induseum griseum' is a white matter of limbic lobe and stria of telencephalon. It is part of the hippocampal formation and supracallosal gyrus.
    :description: Thin layer of cortex lying on the dorsal surface of the corpus callosum.  It has been debated whether it is more related to the hippocampus or the olfactory bulb (Shipley et al., Olfactory System In Paxinos The Rat Nervous System, 2nd ed)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105421
@@ -5491,8 +5491,8 @@ inferiorCentralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorCentralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior central nucleus' is a nucleus of pontine reticular formation.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105434
@@ -5509,8 +5509,8 @@ inferiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorCerebellarPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior cerebellar peduncle' is a cerebellar peduncle and white matter of medulla oblongata.
    :description: Regional part of medullary white matter (according to Neuronames) primarily found at the level of the open medulla, consisting of a large bundle of fibers projecting to and projecting from the cerebellum.  The icp is continuous with the dorsal spinocerebellar tract and also contains a large number of fibers originating in the inferior olivary complex (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105435
@@ -5527,8 +5527,8 @@ inferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior colliculus' is a regional part of brain. It is part of the corpora quadrigemina.
    :description: Part of the midbrain tectum, consisting of paired predominantly gray matter elevations on the dorsal aspect of the midbrain, located caudal to the superior colliculus, dorsal to the periaqueductal gray of the cerebral aqueduct and rostral to the cerebellum.  According to Neuronames, the inferior colliculus comprises the central, pericentral and external nucleus and two predominantly white matter structures, the brachium of the inferior colliculus and the commissure of the inferior colliculus (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105436
@@ -5545,8 +5545,8 @@ inferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior frontal gyrus' is a frontal gyrus.
    :description: Component of the frontal lobe, lateral aspect.  The rostral boundary is the first appearance of the inferior frontal sulcus whereas the caudal boundary is the precentral gyrus. The medial and lateral boundaries are the lateral bank of the inferior frontal sulcus and the medial bank of the lateral orbital sulcus and/or the circular insular sulcus respectively (Christein Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105442
@@ -5563,8 +5563,8 @@ inferiorHornOfTheLateralVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior horn of the lateral ventricle' is part of the telencephalic ventricle.
    :description: The part of the lateral ventricle extending downward and anteriorly in the temporal lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105444
@@ -5581,8 +5581,8 @@ inferiorLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLongitudinalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorLongitudinalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'inferior longitudinal fasciculus' is a white matter fibre bundle. It is a cerebral nerve fasciculus, connecting the temporal and occipital lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724061
@@ -5599,8 +5599,8 @@ inferiorOccipitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOccipitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior occipital gyrus' is an occipital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105446
@@ -5617,8 +5617,8 @@ inferiorOccipitofrontalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'inferior occipitofrontal fasciculus' is a white matter fibre bundle. It is the inferior part of the occipitofrontal fasciculus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731728
@@ -5635,8 +5635,8 @@ inferiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOlivaryComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the olivary body.
    :description: Largest nucleus situated in the olivary body, part of the medulla oblongata. It is closely associated with the cerebellum, but its specific function is voluntary body movements.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105448
@@ -5653,8 +5653,8 @@ inferiorParietalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorParietalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior parietal cortex' is part of the parietal lobe.
    :description: Component of the parietal lobe.  The inferior parietal cortex label includes the inferior parietal gyrus and the angular gyrus and lies inferior to the superior parietal gyrus. The rostral and caudal boundaries were the supramarginal gyrus and the parieto-occipital incisure respectively. The medial and lateral boundaries were the superior parietal gyrus and the middle temporal gyrus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105452
@@ -5671,8 +5671,8 @@ inferiorRostralGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorRostralGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior rostral gyrus' is a regional part of brain. It is part of the rostral gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105460
@@ -5689,8 +5689,8 @@ inferiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorTemporalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :description: Component of the temporal lobe, lateral aspect.  The rostral boundary is the rostral extent of the inferior temporal sulcus whereas the caudal boundary is designated as the temporo-occipital incisure on the cortical surface. The occipitotemporal sulcus is the medial boundary and the inferior temporal sulcus is the lateral boundary (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105463
@@ -5707,8 +5707,8 @@ inferiorTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105465
@@ -5725,8 +5725,8 @@ inferiorVestibularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVestibularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorVestibularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Inferior vestibular nucleus' is a vestibular nucleus.
    :description: One of the nuclei comprising the vestibular nuclear complex, characterized by bundles of longitudinal fibers running through it.  Multiple cell groups are often identified within it.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105466
@@ -5743,8 +5743,8 @@ insectProtocerebrum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectProtocerebrum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Insect protocerebrum' is a segmental subdivision of nervous system. It is part of the insect supraesophageal ganglion.
    :description: The most anterior of the segmental subdivisions of the insect CNS; thought to represent the first pre-oral segment of the brain. The protocerebrum comprises many discrete neuropil regions including the central body complex and mushroom bodies.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726810
@@ -5760,8 +5760,8 @@ insectSupraesophagealGanglion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectSupraesophagealGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Insect supraesophageal ganglion' is a ganglion of central nervous system. It is part of the brain.
    :description: The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735712
@@ -5777,8 +5777,8 @@ insula
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insula
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insula
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.
    :description: 'Insula' is a cerebral hemisphere gray matter. It is part of the cerebral cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105519
@@ -5795,8 +5795,8 @@ interanterodorsalNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Interanterodorsal nucleus of the thalamus' is a regional part of brain. It is part of the anterior nuclear group.
    :description: A group of nerve cells that bridges the midline of the thalamus between the anterodorsal nucleus of the thalamus of the left and right sides. According to Crosby (1962), it is more developed and consistently present in rodents than in primates (adapted from Brain Info).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105539
@@ -5813,8 +5813,8 @@ intercalatedAmygdaloidNuclei
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intercalatedAmygdaloidNuclei
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intercalatedAmygdaloidNuclei
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intercalated amygdaloid nuclei' is a telencephalic nucleus. It is part of the amygdala.
    :description: Discrete clusters of cells intercalated among the major amygdaloid nuclei.  They stain darkly in Nissl stains and have been identified in all mammals.  The main groups lie between the lateral-basolateral nuclear coplex and the central and medial nuclei.  Additional cell groups have been described by some in other locations (Millhouse, O. E. The intercalated cells of the amygdala. J Comp Neurol 247: 246-271, 1986).,  Groups of cells located between the lateral basolateral amygaloid nuclear complex and the central nucleus of the amygdala.  They stain darkly in Nissl stains and have been identified in all mammals.  (Millhouse, O. E. The intercalated cells of the amygdala. J Comp Neurol 247: 246-271, 1986)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105544
@@ -5831,8 +5831,8 @@ intergeniculateLeafletOfTheLateralGeniculateComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intergeniculate leaflet of the lateral geniculate complex' is a regional part of brain. It is part of the lateral geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105563
@@ -5849,8 +5849,8 @@ intermediateAcousticStria
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateAcousticStria
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateAcousticStria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :description: White matter structure containing axons arising from cochlear nuclear complex (Brodal, Neurological Anatomy, 3rd ed, 1985, pg 609)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105568
@@ -5867,8 +5867,8 @@ intermediateHypothalamicRegion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateHypothalamicRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :description: The portion of the hypothalamus located generally internal to the region of the infundibulum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105570
@@ -5885,8 +5885,8 @@ intermediateOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105573
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002970#intermediate-oculomotor-nucleus-1
@@ -5902,8 +5902,8 @@ intermediateOrbitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOrbitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateOrbitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate orbital gyrus' is an orbital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105574
@@ -5920,8 +5920,8 @@ intermediatePartOfHypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePartOfHypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediatePartOfHypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate part of hypophysis' is a regional part of brain. It is part of the adenohypophysis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105575
@@ -5938,8 +5938,8 @@ intermediatePeriventricularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediatePeriventricularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intermediate periventricular nucleus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105576
@@ -5956,8 +5956,8 @@ internalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalArcuateFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/internalArcuateFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Internal arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of medulla oblongata.
    :description: Internal arcuate fibers are the axons of second-order neurons contained within the gracile and cuneate nuclei of the medulla oblongata. These fibers cross from one side of the medulla to the other to form the medial lemniscus. Part of the dorsal column-medial lemniscus system (second neuron), the internal arcuate fibers are important for relaying the sensation of fine touch and proprioception to the thalamus and ultimately to the cerebral cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105582
@@ -5974,8 +5974,8 @@ internalCapsuleOfTelencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/internalCapsuleOfTelencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Internal capsule of telencephalon' is a cerebral hemisphere white matter.
    :description: White matter regional part of brain which is flanked by nuclear masses, consisting of both afferent and efferent fibers projecting between the cerebral cortex and the brainstem and spinal cord. It consists of three distinct parts: an anterior limb, posterior limb, and genu. (Adapted from MSH by Maryann Martone).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105583
@@ -5992,8 +5992,8 @@ internalMedullaryLaminaOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Internal medullary lamina of thalamus' is a medullary lamina of thalamus.
    :description: Predominantly white regional part of thalamus consisting of a Y shaped bundle of fibers that runs the anterior-posterior length of thalamus and divides the thalamus into roughly three regions (MM: 2006-10-26)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105586
@@ -6010,8 +6010,8 @@ interpeduncularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interpeduncularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Interpeduncular nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105597
@@ -6028,8 +6028,8 @@ interpolarPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Interpolar part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105600
@@ -6046,8 +6046,8 @@ interstitialNucleusOfCajal
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interstitialNucleusOfCajal
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: The largest and most prominent of the cell groups of the medial longitudinal fasciculus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105625
@@ -6064,8 +6064,8 @@ interthalamicAdhesion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interthalamicAdhesion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Interthalamic adhesion' is a nervous system commissure.
    :description: Median gray matter mass that connects the two thalami;  present in a large percentage of humans (Heimer, L. The Human Brain and Spinal Cord, 2nd ed., 1995, pg 76n).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105629
@@ -6082,8 +6082,8 @@ intralaminarNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intralaminarNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Intralaminar nuclear group' is a nucleus of dorsal thalamus.
    :description: The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei: central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105651
@@ -6100,8 +6100,8 @@ intraparietalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intraparietalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The intraparietal sulcus is located on the lateral surface of the parietal lobe, and consists of an oblique and a horizontal portion.
    :description: The intraparietal sulcus (IPS) contains a series of functionally distinct subregions that have been intensively investigated using both single cell neurophysiology in primates and human functional neuroimaging. Its principal functions are related to perceptual-motor coordination (for directing eye movements and reaching) and visual attention. The IPS is also thought to play a role in other functions, including processing symbolic numerical information, visuospatial working memory and interpreting the intent of others. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/ilx_0105656
@@ -6118,8 +6118,8 @@ islaMagnaOfCalleja
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/islaMagnaOfCalleja
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.
    :description: A profile (typically representing a sequence alignment) derived from a matrix of nucleotide (or amino acid) counts per position that reflects information content at each position.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105729
@@ -6136,8 +6136,8 @@ islandOfCalleja
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/islandOfCalleja
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.
    :description: Small clusters of granule cells located in the olfactory tubercle and also within the Island of Calleja magna that lies between the septum and the nucleus accumbens
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105730
@@ -6154,8 +6154,8 @@ islandsOfCallejaOfOlfactoryTubercle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Islands of Calleja of olfactory tubercle' is a regional part of brain. It is part of the island of Calleja and olfactory tubercle.
    :description: Part of olfactory tubercle defined by dense aggregations of granule cells
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105732
@@ -6172,8 +6172,8 @@ isthmusOfCingulateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/isthmusOfCingulateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Isthmus of cingulate gyrus' is part of the cingulate gyrus.
    :description: Component of the cingulate cortex comprising the region linking the posterior cingulate gyrus and the parahippocampal gyrus. The rostral and caudal boundaries were the posterior division of the cingulate cortex and the parahippocampal gyrus respectively. The medial and lateral boundaries were the medial wall (area unknown) and the precuneus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105757
@@ -6190,8 +6190,8 @@ juxtarestiformBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/juxtarestiformBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/juxtarestiformBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Juxtarestiform body' is a white matter of medulla oblongata. It is part of the inferior cerebellar peduncle.
    :description: Fibers interconnecting the cerebellum and vestibular nuclei, traveling medial to the restiform body (inferior cerebellar peduncle) (Nolte, The Human Brain, 6th ed., pg 497)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105804
@@ -6208,8 +6208,8 @@ laminaOfSeptumPellucidum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/laminaOfSeptumPellucidum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaOfSeptumPellucidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lamina of septum pellucidum' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the septum pellucidum.
    :description: One of two layers of both white and gray matter of the septum pellucidum. During fetal development there is a space between the two laminae called the cavum septum pellucidum which, in ninety per cent of cases, disappears during infancy.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105979
@@ -6226,8 +6226,8 @@ lateralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
    :description: The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, PMID: 16242399).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106043
@@ -6244,8 +6244,8 @@ lateralAmygdaloidNucleusDorsolateralPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, dorsolateral part' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106044
@@ -6262,8 +6262,8 @@ lateralAmygdaloidNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, ventrolateral part' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106045
@@ -6280,8 +6280,8 @@ lateralAmygdaloidNucleusVentromedialPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106046
@@ -6298,8 +6298,8 @@ lateralCervicalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralCervicalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral cervical nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
    :description: A diffusely arranged nucleus located in the dorsal portions of the lateral funiculus at about cervical levels C1-C3; synaptic station for the spinocervicothalamic tract.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106050
@@ -6316,8 +6316,8 @@ lateralEminenceOfFourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralEminenceOfFourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral eminence of fourth ventricle' is part of the fourth ventricle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734681
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034672#lateral-eminence-of-fourth-ventricle
@@ -6333,8 +6333,8 @@ lateralEminenceOfHypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralEminenceOfHypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral eminence of hypophysis' is part of the pituitary gland.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106054
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027109#lateral-eminence-of-hypophysis-1
@@ -6350,8 +6350,8 @@ lateralGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.
    :description: The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106064
@@ -6368,8 +6368,8 @@ lateralGlobusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGlobusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
    :description: The more lateral of the two segments of the globus pallidus, abutting the putamen in species which have both a caudate and putamen;  the caudoputamen in other species.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104658
@@ -6386,8 +6386,8 @@ lateralHabenularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralHabenularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral habenular nucleus' is a habenular nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106068
@@ -6404,8 +6404,8 @@ lateralHypothalamicArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralHypothalamicArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral hypothalamic area' is a regional part of brain. It is part of the lateral zone of hypothalamus.
    :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106069
@@ -6422,8 +6422,8 @@ lateralHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralHypothalamicNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral hypothalamic nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
    :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106071
@@ -6440,8 +6440,8 @@ lateralLemniscus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLemniscus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralLemniscus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral lemniscus' is a nervous system lemniscus.
    :description: A fiber bundle that runs through the medulla, pons and midbrain  that arises in the cochlear nucleus and projects to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. The brainstem nuclei include the superior olive, the medial nucleus of the trapezoid body, and the dorsal nucleus of the lateral lemniscus. Fibers leaving these brainstem nuclei ascending to the inferior colliculus rejoin the lateral lemniscus. In that sense, this is not a 'lemniscus' in the true sense of the word (second order, decussated sensory axons), as there is third (and out of the lateral superior olive, fourth) order information coming out of some of these brainstem nuclei. Adapted from Wikipedia.org (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106074
@@ -6458,8 +6458,8 @@ lateralMammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralMammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106075
@@ -6476,8 +6476,8 @@ lateralMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
    :description: Thin band of myelinated fibers lying on the lateral (external) surface of the globus pallidus, external segment, separating it from the putamen.  (Carpenter, A core text of neuroanatomy, 3rd ed., 1985, pg 303).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106077
@@ -6494,8 +6494,8 @@ lateralNuclearGroupOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral nuclear group of thalamus' is a nucleus of dorsal thalamus.
    :description: The lateral nuclear group is a collection of nuclei on the lateral side of the thalamus. According to MeSH, it consists of the following: lateral dorsal nucleus lateral posterior nucleus pulvinar [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106078
@@ -6512,8 +6512,8 @@ lateralNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106079
@@ -6530,8 +6530,8 @@ lateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralOccipitalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral occipital cortex' is an occipital gyrus. It is part of the neocortex.
    :description: Component of the occipital lobe.  The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106080
@@ -6548,8 +6548,8 @@ lateralOlfactoryStria
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralOlfactoryStria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: White matter tract that contains projections from the olfactory bulb to the olfactory cortex (Maryann Martone).
    :description: 'Lateral olfactory stria' is an olfactory tract linking bulb to ipsilateral dorsal telencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106082
@@ -6566,8 +6566,8 @@ lateralOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralOrbitalFrontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
    :description: Component of the orbtial frontal cortex The rostral boundary is the first slice where the lateral orbital gyrus is apparent with the frontomarginal sulcus whereas the caudal boundary is the disappearance of the lateral orbital gyrus. The medial and lateral boundaries are the midpoint of the olfactory sulcus and the lateral bank of the lateral orbital sulcus and/or the circular insular sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106083
@@ -6584,8 +6584,8 @@ lateralOrbitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralOrbitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral orbital gyrus' is an orbital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106084
@@ -6602,8 +6602,8 @@ lateralParabrachialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralParabrachialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
    :description: The lateral parabrachial nucleus induces thirst by stimulating the median preoptic nucleus. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106086
@@ -6620,8 +6620,8 @@ lateralParagigantocellularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralParagigantocellularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral paragigantocellular nucleus' is a paragigantocellular nucleus.
    :description: Nucleus located in the rostral ventrolateral medulla.  The PGL was originally identified by cytoarchitectural criteria in the human medulla (Olszewski and Baxter, 1954). In humans, the PGL is located in the ventrolateral quadrant of the rostral medullary tegmentum between the nucleus subtrigeminalis caudally, trapezoid body and the superior olive rostrally, nucleus gigantocellularis medially, spinothalamic tract fibers laterally, inferior olive ventrally, and the nucleus ambiguous dorsally (Olszewski and Baxter, 1954). In the rat, the PGL has been further subdivided into retrofacial PGL (caudal to the facial nucleus), and more rostrally located juxtafacial PGL (medial to the facial nucleus), based upon different connectivity.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106087
@@ -6638,8 +6638,8 @@ lateralPartOfBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106089
@@ -6656,8 +6656,8 @@ lateralPartOfMedialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106090
@@ -6674,8 +6674,8 @@ lateralPericuneateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPericuneateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral pericuneate nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106093
@@ -6692,8 +6692,8 @@ lateralPesLemniscus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPesLemniscus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral pes lemniscus' is a nervous system lemniscus. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106094
@@ -6710,8 +6710,8 @@ lateralPreopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPreopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral preoptic nucleus' is a hypothalamic nucleus. It is part of the lateral zone of hypothalamus.
    :description: The lateral preoptic nucleus is lateral to the medial preoptic nucleus. It also mediates non-REM sleep onset.[WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106098
@@ -6728,8 +6728,8 @@ lateralPulvinarNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPulvinarNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106099
@@ -6746,8 +6746,8 @@ lateralRecessOfFourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralRecessOfFourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral recess of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.
    :description: The lateral recess is a projection of the fourth ventricle which extends into the inferior cerebellar peduncle of the brainstem. The lateral aperture, an opening in each extremity of the lateral recess, provides a conduit for cerebrospinal fluid to flow from the brain's ventricular system into the subarachnoid space.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736090
@@ -6764,8 +6764,8 @@ lateralReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral reticular nucleus' is a nucleus of medulla oblongata. It is part of the lateral medullary reticular complex.
    :description: A nucleus of the lateral medullary nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106100
@@ -6782,8 +6782,8 @@ lateralSeptalComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSeptalComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral septal complex' is a septal nuclear complex. It is part of the striatum.
    :description: The lateral septal area; largest nuclear mass in this region, plays a pivotal role in various physiological processes, such as aggression, emotion, thermoregulation, water and food intake and sexual behaviour.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728564
@@ -6800,8 +6800,8 @@ lateralSeptalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSeptalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.
    :description: Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus.  The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106106
@@ -6818,8 +6818,8 @@ lateralSpinalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSpinalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral spinal nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106113
@@ -6836,8 +6836,8 @@ lateralSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral sulcus' is a subarachnoid sulcus. It is part of the cerebral cortex.
    :description: A sulcus that divides the frontal lobe and parietal lobe above from the temporal lobe below. It is in both hemispheres of the brain but is longer in the left hemisphere. The lateral sulcus is one of the earliest-developing sulci of the human brain. It first appears around the fourteenth gestational week[WP,modified].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106115
@@ -6854,8 +6854,8 @@ lateralSuperiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
    :description: One of two recognized nuclei comprising the superior olive.  The lateral superior olivary nucleus is much less prominent in humans than in many rodents and carnivores.  In the latter species, it is frequently described as S- or V-shaped.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106117
@@ -6872,8 +6872,8 @@ lateralTuberalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralTuberalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral tuberal nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
    :description: Nerve cell nuclei situated ventrally in the intermediate hypothalamic region, mainly in the lateral hypothalamic area.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106124
@@ -6890,8 +6890,8 @@ lateralVestibularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralVestibularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lateral vestibular nucleus' is a vestibular nucleus.
    :description: One of the nuclei comprising the vestibular nuclear complex. In some mammals, e.g., primates, it is further subdivided into subnuclei.  It therefore differs in appearance and topology in different mammals.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106126
@@ -6908,8 +6908,8 @@ layerOfHippocampus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfHippocampus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/layerOfHippocampus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Layer of hippocampus' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the hippocampal formation.
    :description: The layers of the laminar structure of the hippocampus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102761
@@ -6926,8 +6926,8 @@ lenticularFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lenticularFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lenticular fasciculus' is a ventral thalamic fasciculus.
    :description: The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106170
@@ -6944,8 +6944,8 @@ lentiformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lentiformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.
    :description: The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. It is a large, cone-shaped mass of gray matter just lateral to the internal capsule. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725892
@@ -6962,8 +6962,8 @@ limbicLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/limbicLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Part of cerebral hemisphere located on the medial surface, forming a ring around the brain stem.
    :description: 'Limbic lobe' is a lobe of cerebral hemisphere.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106264
@@ -6980,8 +6980,8 @@ limenOfInsula
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/limenOfInsula
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Limen of insula' is a gyrus. It is part of the insula.
    :description: The anterior basal part of the insular cortex, which separates the lateral surface of the insula from the anterior perforated substance (Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 80).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106266
@@ -6998,8 +6998,8 @@ limitansNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/limitansNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Limitans nucleus' is a nucleus of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106267
@@ -7016,8 +7016,8 @@ linearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/linearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106275
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002557#linear-nucleus-1
@@ -7033,8 +7033,8 @@ lingualGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lingualGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lingualGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lingual gyrus' is an occipital gyrus.
    :description: Component of the occipital lobe.  The rostral boundary of the lingual gyrus was the posterior extent of the parahippocampal gyrus whereas the caudal boundary was the most posterior coronal slice where the gyrus could be visualized. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the medial bank of the collateral sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106278
@@ -7051,8 +7051,8 @@ lobeOfCerebralHemisphere
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lobeOfCerebralHemisphere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lobe of cerebral hemisphere' is part of the cerebral hemisphere.
    :description: Divisions of the cerebral cortex from gross anatomical observation based on the locations of major sulci and fissures in gyrencephalic animals, including both the gray matter and underlying white matter. From 4-6 lobes have been defined.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106316
@@ -7069,8 +7069,8 @@ locusCeruleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/locusCeruleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :description: A noradrenergic nucleus in the brain stem involved with physiological responses to stress and panic; also implicated in physical dependence and withdrawal. (Adapted from Wikipedia)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106335
@@ -7087,8 +7087,8 @@ longitudinalPontineFibers
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/longitudinalPontineFibers
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Longitudinal pontine fibers' is a tract of brain. It is part of the basal part of pons.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106355
@@ -7105,8 +7105,8 @@ lowerRhombicLip
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lowerRhombicLip
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Lower rhombic lip' is a regional part of brain. It is part of the rhombic lip.
    :description: Posterior portion of the rhombic lip contained within rhombomeres 2-8. Gives rise to several brainstem nuclei and choroid plexus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729564
@@ -7123,8 +7123,8 @@ magnocellularNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Magnocellular nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106472
@@ -7141,8 +7141,8 @@ magnocellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Magnocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106473
@@ -7159,8 +7159,8 @@ magnocellularPartOfRedNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/magnocellularPartOfRedNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
    :description: Caudal region of the red nucleus located in the midbrain, containing mostly large cell bodies.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106474
@@ -7177,8 +7177,8 @@ magnocellularPartOfVentralAnteriorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Magnocellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106475
@@ -7195,8 +7195,8 @@ magnocellularPreopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/magnocellularPreopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Magnocellular preoptic nucleus' is a preoptic nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106476
@@ -7213,8 +7213,8 @@ mammillaryBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mammillaryBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.
    :description: One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106500
@@ -7231,8 +7231,8 @@ mammillaryPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mammillaryPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mammillary peduncle' is a peduncle of diencephalon. It is part of the posterior hypothalamic region.
    :description: White matter bundle in the posterior hypothalamus containing ascending afferent fibers to the mammillary bodies from the ventral and dorsal tegmental nuclei (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 671).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106502
@@ -7249,8 +7249,8 @@ mammillothalamicTractOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mammillothalamic tract of hypothalamus' is a tract of diencephalon. It is part of the mammillary axonal complex.
    :description: Part of mammillothalamic tract contained within the hypothalamus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106507
@@ -7267,8 +7267,8 @@ matrixCompartment
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/matrixCompartment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Matrix compartment' is a chemoarchitectural part of striatum.
    :description: The larger of two chemoarchitectural compartments identified in the neostriatum through differential staining for various biochemical markers.  It usually is identified through differentially high staining for acetylcholinesterase and calbinin D28K.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106569
@@ -7285,8 +7285,8 @@ matrixCompartmentOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Matrix compartment of caudate nucleus' is a matrix compartment. It is part of the caudate nucleus.
    :description: Matrix compartment located in the caudate nucleus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106568
@@ -7303,8 +7303,8 @@ matrixCompartmentOfPutamen
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/matrixCompartmentOfPutamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730490
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029002#matrix-compartment-of-putamen
@@ -7320,8 +7320,8 @@ matrixPartOfHeadOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.
    :description: Matrix compartment located in the head of the caudate nucleus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106571
@@ -7338,8 +7338,8 @@ matrixPartOfTailOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Matrix part of tail of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the tail of caudate nucleus.
    :description: Matrix compartment located in the tail of the caudate nucleus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106572
@@ -7356,8 +7356,8 @@ medialAccessoryOlive
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialAccessoryOlive
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
    :description: Regional part of the inferior olivary complex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106621
@@ -7374,8 +7374,8 @@ medialAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736076
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1
@@ -7391,8 +7391,8 @@ medialDorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial dorsal nucleus of thalamus' is a nucleus of dorsal thalamus.
    :description: The medial dorsal nucleus (or dorsomedial nucleus of thalamus) is a large nucleus in the thalamus. It receives inputs from the Pre-Frontal Cortex and the Limbic System and in turn relays them to the Pre-Frontal Association Cortex. As a result, it plays a crucial role in attention, planning, organization, abstract thinking, multi-tasking and active memory. The connections of the medial dorsal nucleus have even been used to delineate the prefrontal cortex of the GÃ¶ttingen minipig brain. By stereology the number of brain cells in the region has been estimated to around 6.43 million neurons in the adult human brain and 36.3 million glial cells, and with the newborn having quite different numbers: around 11.2 million neurons and 10.6 million glial cells. Lesions of the medial dorsal nucleus have been associated with Wernicke's encephalopathy [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106636
@@ -7409,8 +7409,8 @@ medialEntorhinalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialEntorhinalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial entorhinal cortex' is the medial subdivision of the entorhinal cortex.
    :description: One of two subdivisions of the entorhinal cortex, located medially.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731986
@@ -7427,8 +7427,8 @@ medialForebrainBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialForebrainBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial forebrain bundle' is a fasciculus of brain. It is part of the hypothalamus.
    :description: The Medial forebrain bundle (MFB), is a complex bundle of axons coming from the basal olfactory regions, the periamygdaloid region, and the septal nuclei, and passing to the lateral hypothalamus, with some carrying on into the tegmentum. It contains both ascending and descending fibers. It also represents a part of the mesolimbic pathway, carrying information between the ventral tegmentum and the nucleus accumbens. It is commonly accepted that the MFB is a part of the reward system, involved in the integration of reward and pleasure. Electrical stimulation of the medial forebrain bundle is believed to cause sensations of pleasure. This hypothesis is based upon intracranial self-stimulation (ICSS) studies. Animals will work for MFB ICSS, and humans report that MFB ICSS is intensely pleasurable. This is most likely because the medial forebrain bundle carries information from the ventral tegmental area (VTA) to the nucleus accumbens (nAcc or Acb). The nAcc is a recognized reward center, and activation of the pathway from the VTA to the nAcc is believed to be rewarding, which is why it is sometimes referred to as the hedonic highway. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106640
@@ -7445,8 +7445,8 @@ medialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial geniculate body' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the metathalamus.
    :description: Nuclear complex of the thalamus situated on the caudal, subpial aspect of the thalamus (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 622).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106641
@@ -7463,8 +7463,8 @@ medialGlobusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialGlobusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
    :description: The more medial segment of the globus pallidus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104660
@@ -7481,8 +7481,8 @@ medialLemniscusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLemniscusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial lemniscus of medulla' is a nervous system lemniscus. It is part of the medulla oblongata and medial lemniscus.
    :description: Part of medial lemniscus located within the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106652
@@ -7499,8 +7499,8 @@ medialLemniscusOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLemniscusOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial lemniscus of midbrain' is a nervous system lemniscus. It is part of the midbrain tegmentum, cerebral peduncle and medial lemniscus.
    :description: Part of medial lemniscus located within the midbrain
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106653
@@ -7517,8 +7517,8 @@ medialLemniscusOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLemniscusOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial lemniscus of pons' is a nervous system lemniscus. It is part of the medial lemniscus and pontine tegmentum.
    :description: Part of medial lemniscus located within the pons
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106654
@@ -7535,8 +7535,8 @@ medialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLongitudinalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial longitudinal fasciculus' is a fasciculus of brain.
    :description: Fiber bundle running longitudinally along the midline in the midbrain, pons and medulla, containing fibers that interconnect the cranial nerve nuclei controlling eye movements (Heimer, L. The Human Brain, 2nd ed., 1995, pg. 245)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106655
@@ -7553,8 +7553,8 @@ medialLongitudinalFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a medulla [Automatically generated definition].
    :description: 'Medial longitudinal fasciculus of medulla' is a medial longitudinal fasciculus. It is part of the medulla oblongata.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106656
@@ -7571,8 +7571,8 @@ medialLongitudinalFasciculusOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a midbrain [Automatically generated definition].
    :description: 'Medial longitudinal fasciculus of midbrain' is a medial longitudinal fasciculus. It is part of the midbrain tegmentum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106657
@@ -7589,8 +7589,8 @@ medialLongitudinalFasciculusOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a pons [Automatically generated definition].
    :description: 'Medial longitudinal fasciculus of pons' is a medial longitudinal fasciculus. It is part of the pons.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106659
@@ -7607,8 +7607,8 @@ medialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialMammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106660
@@ -7625,8 +7625,8 @@ medialMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
    :description: Thin sheet of white matter dividing the external and internal segments of the globus pallidus in primates
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106664
@@ -7643,8 +7643,8 @@ medialNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106667
@@ -7661,8 +7661,8 @@ medialNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the primary superior olive.
    :description: Nucleus in the pontine tegmentum of most mammals that receives projections from the ventral cochlear nucleus via the large specialized synapse, the Calyx of Held.  It is not clear whether a well defined nucleus is present in humans, although humans may possess scattered cells with similar input.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106669
@@ -7679,8 +7679,8 @@ medialOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106670
@@ -7697,8 +7697,8 @@ medialOlfactoryGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialOlfactoryGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial olfactory gyrus' is a gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106671
@@ -7715,8 +7715,8 @@ medialOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialOrbitalFrontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
    :description: Component of the orbtial frontal cortex.  The rostral boundary is the first slice where the medial orbital gyrus became visible whereas the caudal boundary is the disappearance of the medial orbital gyrus/gyrus rectus. The medial and lateral boundaries are the cingulate cortex on the u2018inflatedu2019 surface and the medial bank of the superior frontal gyrus (or the cingulate gyrus when visible) respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106672
@@ -7733,8 +7733,8 @@ medialOrbitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialOrbitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial orbital gyrus' is an orbital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106673
@@ -7751,8 +7751,8 @@ medialParabrachialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialParabrachialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
    :description: The Medial parabrachial nucleus is a nucleus of the pons which constitutes part of the pneumotaxic center. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106675
@@ -7769,8 +7769,8 @@ medialPartOfBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106676
@@ -7787,8 +7787,8 @@ medialPartOfMedialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106677
@@ -7805,8 +7805,8 @@ medialPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106680
@@ -7823,8 +7823,8 @@ medialPericuneateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPericuneateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial pericuneate nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106681
@@ -7841,8 +7841,8 @@ medialPesLemniscus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPesLemniscus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial pes lemniscus' is a brainstem white matter and white matter of midbrain. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106682
@@ -7859,8 +7859,8 @@ medialPreopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPreopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial preoptic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial preoptic region.
    :description: The medial preoptic nucleus is bounded laterally by the lateral preoptic nucleus, and medially by the preoptic periventricular nucleus. It releases gonadotropin-releasing hormone, controls copulation in males, and is larger in males than in females.[WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106687
@@ -7877,8 +7877,8 @@ medialPulvinarNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialPulvinarNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106695
@@ -7895,8 +7895,8 @@ medialSeptalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialSeptalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial septal nucleus' is a telencephalic nucleus. It is part of the medial septal complex.
    :description: Cells lying generally in front of Regional_part_of_septal_nuclei, lying ventral to and slightly medial to the lateral septal nucleus.  Neurons in this nucleus give rise to the bulk of efferents from the septal nuclei.  A major projection from the medial septal nucleus terminates in the hippocampal formation (Adapted from Brodal, 1981).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106697
@@ -7913,8 +7913,8 @@ medialSubnucleusOfSolitaryTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial subnucleus of solitary tract' is a nucleus of solitary tract.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106701
@@ -7931,8 +7931,8 @@ medialSuperiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
    :description: One of two subnuclei of the superior olive located within the caudal pontine tegmentum.  Appears as a parasagittal row of transversely oriented bipolar neurons in transverse sections of human, with elongated somata in humans and other primates and large caliber dendrites.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106704
@@ -7949,8 +7949,8 @@ medialTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialTransverseFrontopolarGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialTransverseFrontopolarGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106708
@@ -7967,8 +7967,8 @@ medialVentralTegmentalArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialVentralTegmentalArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial ventral tegmental area' is a regional part of brain. It is part of the ventral tegmental area.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106709
@@ -7985,8 +7985,8 @@ medialVestibularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialVestibularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medial vestibular nucleus' is a vestibular nucleus.
    :description: The medial vestibular nucleus is one of the vestibular nuclei. It is located in the medulla oblongata. Lateral vestibulo-spinal tract (lateral vestibular nucleus 'Deiters')- via ventrolateral medulla and spinal cord to ventral funiculus (lumbo-sacral segments). Ipsilaterally for posture Medial vestibulo-spinal tract (medial, lateral, inferior, vestibular nuclei), bilateral projection via descending medial longitudinal fasciculus to cervical segments. DESCENDING MLF. Bilaterally for head/neck/eye movements [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106710
@@ -8003,8 +8003,8 @@ medianEminenceOfNeurohypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Median eminence of neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the neurohypophysis.
    :description: Elevation on the ventral surface of the brain located at the zone of attachment between the hypothalamic floor and the hypophysis (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg. 446).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106712
@@ -8020,8 +8020,8 @@ medianPreopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medianPreopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Median preoptic nucleus' is a preoptic nucleus.
    :description: The median preoptic nucleus is located along the midline in a position significantly dorsal to the other 3 preoptic nuclei, at least in the macaca fascicularis brain. It wraps around the top (dorsal), front, and bottom (ventral) surfaces of the anterior commissure. The median preoptic nucleus generates thirst. Drinking decreases noradrenaline release in the median preoptic nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106717
@@ -8038,8 +8038,8 @@ medianRapheNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medianRapheNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A large cell serotonergic raphe nucleus in the upper pons and lower mesencephalon that is part of the reticular formation
    :description: 'Median raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111276
@@ -8056,8 +8056,8 @@ medullaOblongata
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medullaOblongata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medulla oblongata' is part of the brainstem and myelencephalon.
    :description: The lower portion of the hindbrain and brainstem located between the pons and spinal cord. This structure contains several descending and ascending tracts, lower cranial nerve nuclei, a significant proportion of the reticular system of the brainstem and other structures (adapted from NCI Thesaurus).The topographic division of the cerebrospinal axis between pons and spinal cord. It was clearly described and illustrated for macrodissected adult humans by Piccolomini (1586, pp. 265, 269; his intracranial medulla oblongata), while the term medulla was used by Winslow (1733, Sect. X, p. 42) and Haller (1747, see translation by Mihles, 1754, pp. 287, 286), and more recently in the classic textbooks of for example Mettler (1948, p. 76) and Carpenter (1976, p. 60).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106736
@@ -8074,8 +8074,8 @@ medullaryAnteriorHorn
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medullaryAnteriorHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medullary anterior horn' is a gray matter of hindbrain. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106740
@@ -8092,8 +8092,8 @@ medullaryRapheNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medullaryRapheNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106743
@@ -8110,8 +8110,8 @@ medullaryReticularFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medullaryReticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.
    :description: Part of reticular formation located in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106744
@@ -8128,8 +8128,8 @@ meninxOfHindbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/meninxOfHindbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736366
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003291#meninx-of-hindbrain
@@ -8145,8 +8145,8 @@ mesencephalicNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mesencephalic nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: Elongated nucleus located in the midbrain tegmentum that receives proprioceptive input from both the extraocular and the masticatory muscles.  Contrary to the general rule, the cell bodies that give rise to these sensory fibers are located within the mesencephalic nucleus rather than in a peripheral ganglion.  Some of the sensory fibers in the mesencephalic root give off collaterals to the trigeminal motor nucleus, thereby providing the anatomic basis for the monosynaptic jaw reflex. (Heimer, L.  The Human Brain and Spinal Cord, 2nd ed. 1996, page 248).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106812
@@ -8163,8 +8163,8 @@ mesencephalicTractOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mesencephalic tract of trigeminal nerve' is a tract of brain. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106813
@@ -8181,8 +8181,8 @@ metathalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/metathalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Metathalamus' is a nucleus of dorsal thalamus.
    :description: The metathalamus is a composite structure of the thalamus, consisting of the medial geniculate nucleus and the lateral geniculate nucleus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106839
@@ -8199,8 +8199,8 @@ metencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/metencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Metencephalon' is a segmental subdivision of hindbrain.
    :description: Anterior part of the hindbrain ventral to the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106845
@@ -8217,8 +8217,8 @@ metencephalonSulcusLimitans
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/metencephalonSulcusLimitans
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Metencephalon sulcus limitans' is part of the future metencephalon.
    :description: A sulcus limitans of neural tube that is part of a future metencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729292
@@ -8235,8 +8235,8 @@ midbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain' is a regional part of brain.
    :description: Part of the brain that develops from the middle of the 3 primary vesicles of the embryonic neural tube, between the prosencephalon and rhombencephalon, later forming the tectum and cerebral peduncles. (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106935
@@ -8253,8 +8253,8 @@ midbrainCerebralAqueduct
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainCerebralAqueduct
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain cerebral aqueduct' is a brain ventricle. It is part of the midbrain.
    :description: Part of ventricular system of brain consisting of a narrow channel in the midbrain connecting the third and fourth ventricles.  (Maryann Martone)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101977
@@ -8271,8 +8271,8 @@ midbrainRapheNuclei
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainRapheNuclei
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.
    :description: Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106941
@@ -8289,8 +8289,8 @@ midbrainReticularFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainReticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain reticular formation' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum and reticular formation.
    :description: Part of the reticular formation located in the midbrain tegmentum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106943
@@ -8307,8 +8307,8 @@ midbrainTectum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainTectum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain tectum' is a regional part of brain. It is part of the midbrain.
    :description: Dorsal part of the midbrain, consisting of the superior and inferior colliculi and the pretectal nuclei (MM).The dorsal topographic division of the midbrain, essentially dorsal to the cerebral aqueduct and dominated in mammals by the superior colliculi and inferior colliculi, and contrasting with the ventral topographic division, the tegmentum. Schwalbe (1881, p. 454) apparently introduced the term as currently used, "Decke des Mittelhirns" in the original German; also see Cajal (1899-1904, vol 2, pt 1, p. 449), "el techo" and "la porciÃ³n tectal" in the original Spanish. Also see Williams & Warwick (1980, p. 940), International Anatomical Nomenclature Committee (1983, p. A68), Federative Committee on Anatomical Terminology (1998, A14.1.06.601). Common synonym is corpora quadrigemina (Winslow, 1733).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106950
@@ -8325,8 +8325,8 @@ midbrainTegmentum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainTegmentum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain tegmentum' is a regional part of brain. It is part of the midbrain and brainstem.
    :description: Subdivision of the midbrain lying anterior to the tectum and posterior to the substantia nigra and cerebral peduncle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106951
@@ -8343,8 +8343,8 @@ midbrainhindbrainBoundary
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainhindbrainBoundary
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midbrainhindbrainBoundary
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midbrain-hindbrain boundary' is part of the brain.
    :description: The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728815
@@ -8361,8 +8361,8 @@ middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/middleCerebellarPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Middle cerebellar peduncle' is a cerebellar peduncle and white matter of pons. It is part of the basal part of pons.
    :description: Regional part of medullary white matter (according to Neuronames) primarily found at the level of the pons,  consisting of a very large bundle of fibers originating in the pontine nuclei projecting to the cerebellum (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106956
@@ -8379,8 +8379,8 @@ middleFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/middleFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Middle frontal gyrus' is a frontal gyrus.
    :description: Component of the frontal lobe, lateral aspect (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106961
@@ -8397,8 +8397,8 @@ middleTemporalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/middleTemporalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Middle temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :description: Component of the temporal lobe, lateral aspect.  The rostral boundary  is the rostral extent of the superior temporal sulcus whereas the caudal boundary is the temporo-occipital incisure on the cortical surface. The superior temporal sulcus is the medial boundary and the inferior temporal sulcus is the lateral boundary (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106967
@@ -8415,8 +8415,8 @@ midlineNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/midlineNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Midline nuclear group' is a nucleus of dorsal thalamus.
    :description: The midline nuclear group (or midline thalamic nuclei) a region of the thalamus consisting of the following nuclei: paraventricular nucleus of thalamus (nucleus paraventricularis thalami) - not to be confused with paraventricular nucleus of hypothalamus paratenial nucleus (nucleus parataenialis) reuniens nucleus (nucleus reuniens) rhomboidal nucleus (nucleus commissuralis rhomboidalis) subfascicular nucleus (nucleus subfascicularis) [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106971
@@ -8433,8 +8433,8 @@ motorNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Motor nucleus of trigeminal nerve' is a trigeminal nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :description: Nucleus located in the pontine tegmentum containing cells that give rise to motor innervation of the jaw through the trigeminal nerve. It receives both crossed and uncrossed fibers from the cerebral cortex (Heimer, L. The Human Brain and Spinal Cord, 2nd ed., 1996, pg 248).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107124
@@ -8451,8 +8451,8 @@ motorRootOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/motorRootOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Motor root of trigeminal nerve' is a trigeminal nerve root.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107128
@@ -8469,8 +8469,8 @@ mushroomBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mushroomBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Mushroom body' is a material entity and anatomical entity. It is part of the brain.
    :description: Prominent lobed neuropils found in annelids and all arthropods except crustaceans. They are thought to be involved in olfactory associative learning and memory[MESH] Mushroom body neuropils are divided into calyces, pedunculus, and its subsequent lobes. In Drosophila these are the alpha, beta, and gamma lobes.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724282
@@ -8487,8 +8487,8 @@ myelencephalonSulcusLimitans
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonSulcusLimitans
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/myelencephalonSulcusLimitans
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Myelencephalon sulcus limitans' is part of the future myelencephalon.
    :description: A sulcus limitans of neural tube that is part of a future myelencephalon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734752
@@ -8505,8 +8505,8 @@ neocortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/neocortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Neocortex' is a regional part of brain. It is part of the cerebral cortex.
    :description: Part of cerebral cortex defined on the basis of cytoarchitecture that has six layers. Starting from the cortical surface the layers are: molecular layer (I), external granular layer (II), external pyramidal layer (III), internal granular layer (IV), internal pyramidal layer (V), and multiform layer (VI). Neocortex is most prominent in the frontal lobe, the parietal lobe, the temporal lobe and the occipital lobe, less so in the cingulate gyrus, the parahippocampal gyrus and the insula. It is composed of two subdivisions: true isocortex and proisocortex (Carpenter-83) (NN) * The largest portion of the CEREBRAL CORTEX. It is composed of NEURONS arranged in six layers. (MSH) * the newer, 6 layered portion of the cerebral cortex showing stratification and organization characteristic of the most highly evolved type of cerebral tissue. (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107350
@@ -8523,8 +8523,8 @@ neodentatePartOfDentateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/neodentatePartOfDentateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Neodentate part of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107392
@@ -8541,8 +8541,8 @@ neuralLobeOfNeurohypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The posterior pituitary (or neurohypophysis) comprises the posterior lobe of the pituitary gland and is part of the endocrine system. Despite its name, the posterior pituitary gland is not a gland, per se; rather, it is largely a collection of axonal projections from the hypothalamus that terminate behind the anterior pituitary gland. [WP,unvetted].
    :description: 'Neural lobe of neurohypophysis' is a regional part of brain. It is part of the neurohypophysis.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108544
@@ -8559,8 +8559,8 @@ neuralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/neuralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Neural nucleus' is a central nervous system cell part cluster.
    :description: A spatially aggregated collection of nerve cell bodies in the CNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections, and including nearby cells that share the same cell type, chemical phenotype, and connections. (CUMBO)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107752
@@ -8577,8 +8577,8 @@ neurohypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/neurohypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the pituitary gland.
    :description: The posterior part of the pituitary gland that secretes hormones involved in blood pressure regulation such as oxytocin and antidiuretic hormon.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107477
@@ -8595,8 +8595,8 @@ nucleusAccumbens
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusAccumbens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus accumbens' is a telencephalic nucleus. It is part of the limbic system, cerebral hemisphere and ventral striatum.
    :description: A region of the brain consisting of a collection of neurons located in the forebrain ventral to the caudate and putamen. (caudoputamen in rodent) and continuous with these structures. There is no distinct boundary between the nucleus accumbens and the caudate/putamen, but in rodents, it can be identified by its lack of traversing fiber bundles in comparison to the dorsal striatum. Its principle neuron is the medium spiny neuron. Together with the neostriatum (caudate nucleus and putamen), the nucleus accumbens forms the striatum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107736
@@ -8613,8 +8613,8 @@ nucleusAmbiguus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusAmbiguus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus ambiguus' is a nucleus of medulla oblongata and vagus nerve nucleus.
    :description: A region of histologically disparate cells located just dorsal to the inferior olivary nucleus in the lateral portion of the upper medulla. It receives upper motor neuron innervation directly via the corticobulbar tract This nucleus gives rise to the efferent motor fibers of the vagus nerve terminating in the laryngeal and pharyngeal muscles, as well as to the efferent motor fibers of the glossopharyngeal nerve (CN IX) terminating in the stylopharyngeus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107738
@@ -8631,8 +8631,8 @@ nucleusIncertus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusIncertus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus incertus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :description: Distinct cell group in caudoventral regions of the pontine periventricular gray, adjacent to the ventromedial border of the caudal dorsal tegmental nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107746
@@ -8649,8 +8649,8 @@ nucleusIntercalatus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusIntercalatus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus intercalatus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107749
@@ -8667,8 +8667,8 @@ nucleusOfAnteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfAnteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of anterior commissure' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107751
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002933#nucleus-of-anterior-commissure-1
@@ -8684,8 +8684,8 @@ nucleusOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of brain' is a neural nucleus. It is part of the brain gray matter.
    :description: A neural nucleus that is part of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736730
@@ -8702,8 +8702,8 @@ nucleusOfCerebellarNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of cerebellar nuclear complex' is a hindbrain nucleus. It is part of the cerebellar nuclear complex.
    :description: Four accumulations of gray substance embedded in the white substance of the cerebellum, comprising the nucleus dentatus, nucleus emboliformis, nucleus globosus, and nucleus fastigii.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727858
@@ -8720,8 +8720,8 @@ nucleusOfDiagonalBand
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfDiagonalBand
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.
    :description: A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107755
@@ -8738,8 +8738,8 @@ nucleusOfLateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of lateral olfactory tract' is a telencephalic nucleus. It is part of the olfactory cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107757
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1
@@ -8755,8 +8755,8 @@ nucleusOfMedialEminence
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfMedialEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of medial eminence' is a nucleus of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107758
@@ -8773,8 +8773,8 @@ nucleusOfOpticTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfOpticTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.
    :description: Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system.  In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G.  The rat nervous system, 1995, pg. 862).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107759
@@ -8791,8 +8791,8 @@ nucleusOfPosteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfPosteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107760
@@ -8809,8 +8809,8 @@ nucleusOfSolitaryTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfSolitaryTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [WP,unvetted].
    :description: 'Nucleus of solitary tract' is a nucleus of medulla oblongata and vagus nerve nucleus. It is part of the solitary tract nuclear complex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110729
@@ -8827,8 +8827,8 @@ nucleusOfTheBrachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of the brachium of the inferior colliculus' is a regional part of brain. It is part of the midbrain tectum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107764
@@ -8845,8 +8845,8 @@ nucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusOfTrapezoidBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus of trapezoid body' is a nucleus of superior olivary complex.
    :description: A nucleus embedded within the fibers of the trapezoid body.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111919
@@ -8863,8 +8863,8 @@ nucleusPrepositus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusPrepositus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus prepositus' is a nucleus of medulla oblongata. It is part of the pons.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107787
@@ -8881,8 +8881,8 @@ nucleusRaphePallidus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusRaphePallidus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Nucleus raphe pallidus' is a nucleus of medulla oblongata. It is part of the medullary raphe nuclear complex.
    :description: The nucleus raphe pallidus receives afferent connections from the periaqueductal gray, the paraventricular hypothalamic nucleus, central nucleus of the amygdala, lateral hypothalamic area, and parvocellular reticular nucleus. Also, the pallidus receives afferents from the medial preoptic area, median preoptic nucleus and lateral paragigantocellular reticular nuclei . The pallidus has recently been shown to be involved in the activation of a fever as an immunoreaction. It has been implied that the preoptic area is constantly inhibiting the raphe pallidus, especially the rostral portion, with GABA. When the preoptic area receives immune signals from the body, the inhibition stops and the rostral portion of the raphe pallidus excites the intermediolateral cell column, which induces a fever . The raphe pallidus has also been known to mediate the tachycardia response, an extremely high heart rate known to be incited by emotional or psychological stress. Microinjections of a GABA-a antagonist into the raphe pallidus, induces an increased heart rate. Conversely, microinjections of muscimol, a GABA-a agonist, inhibit tachycardia in rats under air-stress stimuli. In both of these cases, GABA is mediating two different sympathetic responses, so clearly the nucleus raphe pallidus is a far more a complex nucleus than previously thought. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107795
@@ -8899,8 +8899,8 @@ nucleusSubceruleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/nucleusSubceruleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Nucleus subceruleus' is a nucleus of brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107801
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002587#nucleus-subceruleus-1
@@ -8916,8 +8916,8 @@ occipitalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/occipitalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Occipital cortex' is a cortex of cerebral lobe. It is part of the occipital lobe.
    :description: Gray matter of neocortex located in the occipital lobe in organisms that have distinct lobes, located in the occipital pole and continuous with the gray matter of the parietal cortex and temporal cortex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107880
@@ -8934,8 +8934,8 @@ occipitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/occipitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A gyrus that is part of a occipital lobe.
    :description: 'Occipital gyrus' is a gyrus. It is part of the occipital lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107882
@@ -8952,8 +8952,8 @@ occipitalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/occipitalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Occipital lobe' is a lobe of cerebral hemisphere.
    :description: Posterior part of the cerebral hemisphere (MSH)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107883
@@ -8970,8 +8970,8 @@ occipitotemporalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/occipitotemporalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Occipitotemporal sulcus' is a subarachnoid sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107885
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002693#occipitotemporal-sulcus-1
@@ -8987,8 +8987,8 @@ oculomotorNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oculomotorNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oculomotor nerve root' is a root of cranial nerve. It is part of the midbrain tegmentum.
    :description: Initial segment of the occulomotor nerve as it leaves the midbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107898
@@ -9005,8 +9005,8 @@ oculomotorNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oculomotorNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oculomotor nuclear complex' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum.
    :description: Nuclear complex containing subnuclei that give rise to the axons of the occulomotor nerve, both motor and parasympathetic fibers, situated at the midline at the level of the superior colliculus in the midbrain tegmentum (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 533-534).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107899
@@ -9023,8 +9023,8 @@ olfactoryBulb
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulb
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory bulb' is a regional part of brain. It is part of the olfactory lobe.
    :description: Structure of the vertebrate telencephalon involved in olfaction.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107921
@@ -9041,8 +9041,8 @@ olfactoryBulbGranuleCellLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The granule cell layer contains multiple small round neurons that lack axons. Long dendritic processes of the neurons reach the more superficial layers and inhibit mitral cells and tufted cells. Small distal processes make contacts with the exiting mitral cell axons.
    :description: 'Olfactory bulb granule cell layer' is an olfactory bulb layer.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726644
@@ -9059,8 +9059,8 @@ olfactoryBulbMainGlomerularLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory bulb main glomerular layer' is an olfactory bulb glomerular layer. It is part of the main olfactory bulb.
    :description: The glomerular layer of the main olfactory bulb, lying deep to the olfactory nerve layer.  It contains the glomeruli, neuropil rich spheroid structures surrounded by a distinctive shell of small neuros and glial cells (Paxinos, the Rat Nervous System, 2nd ed., Academic Press, 1995).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107938
@@ -9077,8 +9077,8 @@ olfactoryBulbMitralCellLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMitralCellLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbMitralCellLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory bulb mitral cell layer' is an olfactory bulb layer.
    :description: The mitral cell layer is composed of pyramidal neurons whose cell bodies are located between the granule cell layer and the plexiform layer
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107940
@@ -9095,8 +9095,8 @@ olfactoryBulbOuterNerveLayer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory bulb outer nerve layer' is an olfactory bulb layer.
    :description: Superficial layer of the main olfactory bulb containing axons from the olfactory nerve and glial cells
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107942
@@ -9113,8 +9113,8 @@ olfactoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory cortex' is a regional part of brain. It is part of the cerebral cortex and olfactory lobe.
    :description: Aggregate brain region defined as those areas of cerebral cortex receiving direct synaptic input from the olfactory bulb (Price, 1973).  The most recognized structure is the piriform cortex (prepyriform area), but other areas are often included, e.g., the olfactory tubercle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107946
@@ -9131,8 +9131,8 @@ olfactoryEntorhinalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryEntorhinalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory entorhinal cortex' is a regional part of brain. It is part of the entorhinal cortex.
    :description: A part of the entorhinal area defined on the basis of connectivity. It is the rostral portion, which receives a projection from the olfactory bulb (Price-90)-Adapted from Brain Info
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107958
@@ -9149,8 +9149,8 @@ olfactoryTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory tract' is a tract of brain. It is part of the white matter of telencephalon.
    :description: White matter tract that contains projections from the olfactory bulb to other parts of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724772
@@ -9167,8 +9167,8 @@ olfactoryTrigone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTrigone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryTrigone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory trigone' is a regional part of brain. It is part of the olfactory lobe.
    :description: A small triangular area in front of the anterior perforated substance. Its apex, directed forward, occupies the posterior part of the olfactory sulcus, and is brought into view by throwing back the olfactory tract (adapted from Wikipedia)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107973
@@ -9185,8 +9185,8 @@ olfactoryTubercle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTubercle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olfactoryTubercle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olfactory tubercle' is a telencephalic nucleus. It is part of the olfactory cortex.
    :description: Region in the ventral telencephalon, prominent in rodents, but present in all mammals, consisting of a laminated cortical part and the cap/hilus region.  It is traditionally viewed as part of the olfactory cortex but recognized by some as having a striatal character.  According to many authors, the structure of the OT transitions from cortical like to striatal like along the lateral medial axis.   (Maryann Martone)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107974
@@ -9203,8 +9203,8 @@ olivaryPretectalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/olivaryPretectalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Olivary pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :description: Small distinct nucleus in the pretectum of mammals involved in the pupillary light reflect.  In rats, it is an olive shaped (anterior) nucleus lying ventral to the brachium of the superior colliculus (Paxinos, The rat nervous system, 2nd ed, 1995, pg. 862).  Physiologically, it is identified by neurons sensitive to luminance changes.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107998
@@ -9221,8 +9221,8 @@ opercularPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Opercular part of inferior frontal gyrus' is part of the inferior frontal gyrus.
    :description: Component of the inferior frontal gyrus.defined as the first gyrus from the precentral gyrus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108057
@@ -9239,8 +9239,8 @@ opticChiasma
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/opticChiasma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Optic chiasma' is a decussation of diencephalon.
    :description: A location within the visual system of binocular animals where axons of retinal ganglion cells cross contralaterally or remain ipsilatterally towards termination zones in the lateral geniculate nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108069
@@ -9257,8 +9257,8 @@ opticRecessOfThirdVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticRecessOfThirdVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/opticRecessOfThirdVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Optic recess of third ventricle' is an anatomical entity. It is part of the third ventricle.
    :description: Recess in third ventricle lying in front of the optic chiasm at the base of the lamina terminalis
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108073
@@ -9275,8 +9275,8 @@ opticTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/opticTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Optic tract' is a tract of diencephalon. It is part of the diencephalic white matter.
    :description: Diencephalic white matter (tract) which is comprised of retinal ganglion cell axons after which they have passed through the optic chiasm[ZFA]. Predominantly white matter structure found in diencephalon consisting of fibers originating in the retina. The optic tract is considered to extend from the point of the optic chiasm and terminates largely, although not exclusively, in the lateral geniculate complex. Other fibers end in the superior colliculus and other structures in the diencephalon, midbrain and brainstem (MM)[NIF].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108074
@@ -9293,8 +9293,8 @@ oralPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oral part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108080
@@ -9311,8 +9311,8 @@ oralPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oral part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108081
@@ -9329,8 +9329,8 @@ oralPartOfVentralPosterolateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oral part of ventral posterolateral nucleus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108082
@@ -9347,8 +9347,8 @@ oralPontineReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oralPontineReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oral pontine reticular nucleus' is a nucleus of pontine reticular formation.
    :description: The oral pontine reticular nucleus is delineated from its caudal brother, with which it shares its first three names. This nucleus tapers into the lower mesencephalic reticular formation and contains sporadic giant cells. Different populations of the pontis oralis have displayed discharge patterns which coordinate with phasic movements to and from paradoxical sleep. From this information it has been implied that the n.r. pontis oralis is involved in the mediation of changing to and from REM sleep. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108083
@@ -9365,8 +9365,8 @@ oralPulvinarNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oralPulvinarNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108084
@@ -9383,8 +9383,8 @@ orbitalGyriComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyriComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/orbitalGyriComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Orbital gyri complex' is a regional part of brain. It is part of the frontal lobe.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108111
@@ -9401,8 +9401,8 @@ orbitalPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Orbital part of inferior frontal gyrus' is a frontal gyrus. It is part of the inferior frontal gyrus.
    :description: Component of the inferior frontal gyrus.defined as the first gyrus from the precentral gyrus.the remainder of the inferior frontal gyrus once the pars opercularis and triangularis have been defined (Christine Fennema-Notestine)., NeuroNames
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108113
@@ -9419,8 +9419,8 @@ orbitofrontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/orbitofrontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Orbitofrontal cortex' is a frontal gyrus. It is part of the limbic system.
    :description: Component of the prefontal cortex, frontal lobe, inferior region (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108110
@@ -9437,8 +9437,8 @@ ovalNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Oval nucleus of stria terminalis' is a telencephalic nucleus. It is part of the anterior division of bed nuclei of stria terminalis.
    :description: Part of bed nucleus of stria terminalis, comprising a distinct, large, egg-shaped collection of neurons that, together with the juxtacapsular (Ju) and rhomboid (Rh) nuclei, encompass the anterolateral area of the BST (Ju and Swanson, 1989)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101173
@@ -9455,8 +9455,8 @@ paleocortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paleocortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paleocortex' is an allocortex.
    :description: Part of the allocortex defined on the basis of cytoarchitecture. The other two are archicortex and periallocortex. It consists of very thin, primitive cortex with few clearly defined layers. It is distinguished ontogenetically by the fact that it does not develop through a cortical plate. It includes the olfactory bulb, accessory olfactory bulb, olfactory tubercle, septum, prepyriform area and periamygdalar area ( Stephan-1975 ). (adapted from Brain Info)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108371
@@ -9473,8 +9473,8 @@ paleodentateOfDentateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paleodentateOfDentateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paleodentate of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108372
@@ -9491,8 +9491,8 @@ pallidotegmentalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pallidotegmentalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pallidotegmental fasciculus' is a tract of brain. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108383
@@ -9509,8 +9509,8 @@ pallidum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pallidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pallidum' is a brain gray matter. It is part of the basal ganglion.
    :description: Part of what are called the basal ganglia of the brain which consist of the globus pallidus and the ventral pallidum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0381379
@@ -9527,8 +9527,8 @@ pallium
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallium
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pallium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pallium' is a regional part of brain. It is part of the telencephalon.
    :description: The commonly used synonym of the cerebral cortex. Used first by Burdach for macrodissected adult humans (1822), and by many others since, including His (1895), and Nauta & Feirtag (1986). In Latin pallium means a mantle, cloak, or blanket
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108390
@@ -9545,8 +9545,8 @@ parabigeminalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parabigeminalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parabigeminal nucleus' is a nucleus of midbrain tectum.
    :description: Cholinergic cell group that is located ventral to the brachium of the inferior colliculus (in rat) and has reciprocal connectivity with the superior colliculus (Adapted from Paxinos, The rat central nervous system, 2nd ed, 1995, pg 865
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108414
@@ -9563,8 +9563,8 @@ parabrachialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parabrachialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parabrachial nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons.
    :description: A nucleus of the parabrachial area, which in the human brain is a horseshoe-shaped strip of gray matter comprising the KÃ¶lliker-Fuse nucleus, the lateral parabrachial nucleus and the medial parabrachial nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108416
@@ -9581,8 +9581,8 @@ parabrachialPigmentalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parabrachialPigmentalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parabrachial pigmental nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the ventral tegmental area.
    :description: Nucleus identified in the medial ventral tegmental area that borders the red nucleus and superior cerebellar peduncle dorsally, the medial lemniscus laterally, the subtantia nigra pars compacta and paranigral nucleus ventrally and the rostral linear nucleus and interfascicular nucleus medially.  Generally, the largest nucleus in the ventral tegmental area, occupying an average of 50% of the total volume as measured in rat, cat, monkey and human.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108428
@@ -9599,8 +9599,8 @@ paracentralLobule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paracentralLobule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Paracentral lobule is on the medial surface of the hemisphere and is the continuation of the precentral and postcentral gyri. The paracentral lobule controls motor and sensory innervations of the contralateral lower extremity. It is also responsible for control of defecation and urination. It includes portions of the frontal and parietal lobes: The anterior portion of the paracentral lobule is part of the frontal lobe and is often referred to as the supplementary motor area. The posterior portion is considered part of the parietal lobe and deals with somatosensory of the distal limbs.While the boundary between the lobes, the central sulcus, is easy to locate on the lateral surface of the cerebral hemispheres, this boundary is often discerned in a cytoarchetectonic manner in cases where the central sulcus is not visible on the medial surface.
    :description: The 'paracentral lobule' is the junction of the precentral gyrus and postcentral gyrus on the medial surface of the cerebral cortex. It lies across the boundary between the frontal lobe and the parietal lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729354
@@ -9617,8 +9617,8 @@ paraflocculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraflocculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Paraflocculus' is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104937
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005351#paraflocculus
@@ -9634,8 +9634,8 @@ parahippocampalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parahippocampalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parahippocampal gyrus' is a gyrus. It is part of the limbic system, temporal lobe and limbic lobe.
    :description: Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively.  The medial boundary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108441
@@ -9652,8 +9652,8 @@ paralaminarPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paralaminar part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108443
@@ -9670,8 +9670,8 @@ paramedianReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paramedianReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paramedian reticular nucleus' is a nucleus of medulla oblongata.
    :description: A medullary nucleus that sends its connections to the spinal cord in a mostly ipsilateral manner.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108455
@@ -9688,8 +9688,8 @@ parasolitaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasolitaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parasolitaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parasolitary nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108472
@@ -9706,8 +9706,8 @@ parasubiculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parasubiculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parasubiculum' is a regional part of brain. It is part of the hippocampal formation.
    :description: A transitional zone between the presubiculum and the entorhinal area in the mouse (Paxinos-2001), the rat (Swanson-1998) and the primate (Zilles-1990). Defined on the basis of cytoarchitecture, it is more similar to the presubiculum than to the entorhinal area (Zilles-1990). (from Brain Info)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108477
@@ -9724,8 +9724,8 @@ paratenialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paratenialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paratenial nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :description: One of the median nuclei of the thalamus, situated ventral and medial to the stria medullaris.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108483
@@ -9742,8 +9742,8 @@ paraterminalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraterminalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraterminal gyrus' is a supracallosal gyrus.
    :description: The paraterminal gyrus (subcallosal gyrus, peduncle of the corpus callosum) is a narrow lamina on the medial surface of the hemisphere in front of the lamina terminalis, behind the parolfactory area, and below the rostrum of the corpus callosum. It is continuous around the genu of the corpus callosum with the supracallosal gyrus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108484
@@ -9760,8 +9760,8 @@ paraventricularNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :description: The nucleus paraventricularis anterior thalami and nuclues paraventricularis posterior thalami, two of the nuclei mediani thalami; they are situated on the dorsomedial wall of the thalamus, juxtaposed to the third ventricle.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108502
@@ -9778,8 +9778,8 @@ paraventricularNucleusOfTheHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930) ('is_a' and 'relationship')]
    :description: Nucleus in the anterior part of the hypothalamus. One of the magnocellular hypothalamic nuclei, an elongated plate of large, deeply staining cells located close to the third ventricle in the anterior hypothalamic area; major source of oxytocin and to a lesser extent, of antidiuretic hormone, neurohormones, which are carried to the neurohypophysis along the paraventriculohypophysial tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108501
@@ -9796,8 +9796,8 @@ paraventricularNucleusOfTheHypothalamusDescendingDivision
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108503
@@ -9814,8 +9814,8 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - forniceal part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108504
@@ -9832,8 +9832,8 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPar
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108505
@@ -9850,8 +9850,8 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108506
@@ -9868,8 +9868,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivision
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108507
@@ -9886,8 +9886,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellula
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108508
@@ -9904,8 +9904,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularP
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108509
@@ -9922,8 +9922,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108510
@@ -9940,8 +9940,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108511
@@ -9958,8 +9958,8 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone' is a regional part of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108512
@@ -9976,8 +9976,8 @@ paraventricularNucleusOfTheHypothalamusParvicellularDivision
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus parvicellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108513
@@ -9994,8 +9994,8 @@ paravermicLobuleX
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paravermicLobuleX
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paravermic lobule X' is a paravermis lobule area and flocculonodular lobe, hemisphere portion. It is part of the flocculus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724502
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036043#paravermic-lobule-x
@@ -10011,8 +10011,8 @@ paravermisLobuleArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paravermisLobuleArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paravermis lobule area' is a cerebellum hemisphere lobule. It is part of the paravermis parts of the cerebellar cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109876
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027285#paravermis-lobule-area
@@ -10028,8 +10028,8 @@ paravermisPartsOfTheCerebellarCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Paravermis parts of the cerebellar cortex' is a regional part of cerebellar cortex. It is part of the cerebellum intermediate zone.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108525
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025677#paravermis-parts-of-the-cerebellar-cortex
@@ -10045,8 +10045,8 @@ parietalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parietalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parietal cortex' is a cortex of cerebral lobe. It is part of the parietal lobe.
    :description: Gray matter of the parietal region of the neocortex, located in the parietal lobe of gyrencephalic animals.  It is continuous anteriorly with the frontal cortex, posteriorly with the occipital cortex and medially with the insular cortex and with the temporal cortex on the posterior/inferior border.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108533
@@ -10063,8 +10063,8 @@ parietalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parietalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Upper central part of the cerebral hemisphere. (MSH).
    :description: 'Parietal lobe' is a lobe of cerebral hemisphere.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108534
@@ -10081,8 +10081,8 @@ parietooccipitalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietooccipitalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parietooccipitalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Only a small part of the Parietooccipital Fissure (or parieto-occipital sulcus) is seen on the lateral surface of the hemisphere, its chief part being on the medial surface. The lateral part of the parietooccipital fissure (Fig. 726) is situated about 5 cm. in front of the occipital pole of the hemisphere, and measures about 1.25 cm. in length. The medial part of the parietooccipital fissure (Fig. 727) runs downward and forward as a deep cleft on the medial surface of the hemisphere, and joins the calcarine fissure below and behind the posterior end of the corpus callosum. In most cases it contains a submerged gyrus. [WP,unvetted].
    :description: 'Parieto-occipital sulcus' is a subarachnoid sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108536
@@ -10099,8 +10099,8 @@ parsDistalisOfAdenohypophysis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsDistalisOfAdenohypophysis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parsDistalisOfAdenohypophysis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pars distalis of adenohypophysis' is part of the adenohypophysis.
    :description: The distal part of adenohypophysis: the part that makes up the main body of the gland.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103335
@@ -10117,8 +10117,8 @@ parsIntercerebralis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parsIntercerebralis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pars intercerebralis' is a central nervous system cell part cluster. It is part of the brain.
    :description: A neurosecretory center of the insect brain, located along the anterior midline[wiktionary]. A medial cleft or depression dividing the left and right protocerebrum and containing numerous large and small somata of neurosecretory and neuromodulatory neurons[FBbt].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730302
@@ -10135,8 +10135,8 @@ parsPostremaOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pars postrema of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108545
@@ -10153,8 +10153,8 @@ parvicellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parvicellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus and medial dorsal nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108559
@@ -10171,8 +10171,8 @@ parvicellularPartOfVentralAnteriorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parvicellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108560
@@ -10189,8 +10189,8 @@ parvicellularPartOfVentralPosteromedialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parvicellular part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108561
@@ -10207,8 +10207,8 @@ parvocellularOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parvocellularOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parvocellular oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: Nucleus that is part of the oculomotor nerve complex consisting of preganglionic parasympathetic neurons situated close to the midline at the level of the superior colliculus (Heimer, the Human Brain and Spinal Cord, 1994, pg 244).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108563
@@ -10225,8 +10225,8 @@ parvocellularPartOfRedNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parvocellularPartOfRedNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
    :description: Rostral portion of the red nucleus, located in the midbrain but originated from the diencephalon. Contains both large and small cells.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108564
@@ -10243,8 +10243,8 @@ pedunculopontineTegmentalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pedunculopontineTegmentalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pedunculopontineTegmentalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The pedunculopontine nucleus (PPN) (or pedunculopontine tegmental nucleus, PPTN) is located in the brainstem, caudal to the substantia nigra and adjacent to the superior cerebellar peduncle. It is composed by a wide variety of neurochemical cell types, including cholinergic, glutamatergic and GABAergic cells. In the classical sense, the PPN is considered to be one of the main components of the reticular activating system. [WP,unvetted].
    :description: 'Pedunculopontine tegmental nucleus' is a nucleus of midbrain reticular formation.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108643
@@ -10261,8 +10261,8 @@ periamygdaloidArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/periamygdaloidArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Periamygdaloid area' is a cerebral hemisphere gray matter. It is part of the parahippocampal gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108715
@@ -10279,8 +10279,8 @@ periamygdaloidCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/periamygdaloidCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Periamygdaloid cortex' is a regional part of brain. It is part of the cerebral cortex and corticomedial nuclear complex.
    :description: Is located ventral to the basal nucleus and has three subdivisions: the periamygdaloid cortex, the medial division, and the sulcal division.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108716
@@ -10297,8 +10297,8 @@ pericalcarineCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pericalcarineCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pericalcarine cortex' is a regional part of brain. It is part of the parietal lobe.
    :description: Component of the parietal lobe.  The rostral boundary of the pericalcarine cortex was the first appearance of the calcarine sulcus whereas the caudal boundary was the most posterior coronal slice where the calcarine sulcus was visualized. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the inferomedial end of the calcarine sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108719
@@ -10315,8 +10315,8 @@ pericentralNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pericentral nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108720
@@ -10333,8 +10333,8 @@ periolivaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/periolivaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Periolivary nucleus' is a nucleus of superior olivary complex.
    :description: A nucleus of the superior olivary complex that surrounds the primary superior olivary nuclei
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108729
@@ -10351,8 +10351,8 @@ peripeduncularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peripeduncularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/peripeduncularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Peripeduncular nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: A group of neuron cell bodies that form a thin, caplike configuration over the dorsolateral aspect of the crus cerebri; many of its cells are acetylcholinesterase positive.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108731
@@ -10369,8 +10369,8 @@ perirhinalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/perirhinalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Perirhinal cortex' is a regional part of brain. It is part of the cerebral cortex.
    :description: Region of cortex near to the rhinal sulcus.  It is defined differently in different nomenclatures, due in part to the lack of agreement on the definition of the border of this region.  In the rat, the perirhinal cortex occupies only caudal levels of the rhinal sulcus while in the monkey, it occurpies the full rostrocaudal extent of the rhinal sulcus (Burwell et al., Hippocampus, 5:  390-408, 1995).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108747
@@ -10387,8 +10387,8 @@ peritrigeminalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peritrigeminalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/peritrigeminalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Peritrigeminal nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108752
@@ -10405,8 +10405,8 @@ pinealBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pinealBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pineal body' is a gland of diencephalon and secretory circumventricular organ. It is part of the pineal complex.
    :description: A midline, cone like structure located in the dorso-caudal roof of the 3rd ventricle, attached by peduncles to the habenular and posterior commissures. The stalk contains nerve fibers, blood vessels, connective tissue and parenchymal cells (Paxinos, The Rat Central Nervous System, 2nd ed, pg 399).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108891
@@ -10423,8 +10423,8 @@ piriformCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/piriformCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex.
    :description: 'Piriform cortex' is a regional part of brain. It is part of the olfactory cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109236
@@ -10441,8 +10441,8 @@ piriformCortexLayer1a
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1a
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/piriformCortexLayer1a
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Piriform cortex layer 1a' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the piriform cortex layer 1.
    :description: Superficial part of plexiform layer (layer 1) of piriform cortex that receives afferents from the olfactory bulb by way of the lateral olfactory tract.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108922
@@ -10459,8 +10459,8 @@ piriformCortexLayer1b
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1b
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/piriformCortexLayer1b
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Piriform cortex layer 1b' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the piriform cortex layer 1.
    :description: Deeper part of the plexiform (layer 1) of piriform cortex characterized by projection of association fibers from other parts of the piriform cortex and other olfactory areas
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108923
@@ -10477,8 +10477,8 @@ pituitaryGland
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pituitaryGland
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pituitary gland' is a gland of diencephalon and neuroendocrine gland.
    :description: The pituitary gland is an endocrine gland that secretes hormones that regulate many other glands [GO]. An endocrine gland located ventral to the diencephalon and derived from mixed neuroectodermal and non neuroectodermal origin [ZFIN].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105172
@@ -10495,8 +10495,8 @@ pituitaryStalk
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pituitaryStalk
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pituitary stalk' is a regional part of brain. It is part of the neurohypophysis and neurohypophysis.
    :description: The apical portion of the tubular structure extending from the hypothalamus to the posterior lobe of the pituitary gland
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105483
@@ -10513,8 +10513,8 @@ planumPolare
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/planumPolare
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/planumPolare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Planum polare' is a regional part of brain. It is part of the superior temporal gyrus.
    :description: A portion of the superior temporal gyrus near the temporal pole in the human.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108976
@@ -10531,8 +10531,8 @@ pons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pons' is a regional part of brain. It is part of the metencephalon and brainstem.
    :description: The part of the central nervous system lying between the medulla oblongata and the mesencephalon, ventral to the cerebellum, and consisting of a pars dorsalis and a pars ventralis. (MeSH) The ventral topographic division of the hindbrain; the dorsal topographic division is the cerebellum. The middle cerebellar peduncle on the periphery of the macrodissected adult human pons ("bridge" in English) was identified by Varolio (1573, Fig. I, f. 17v; also see Clarke & O'Malley 1996, pp. 634-635, 821). Collins (1685, see Tab. 48-L, his caudex of medulla oblongata) identified the pons as defined here, and Haller (1747, see translation by Mihles, 1754, pp. 287, 296) provided the term itself. Pons Varolii (Bell, 1802) is a synonym.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109019
@@ -10549,8 +10549,8 @@ pontineNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pontineNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pontine nuclear group' is a brainstem nucleus and hindbrain nucleus. It is part of the basal part of pons.
    :description: Nuclei in the basal pons, intermingled among the descending axons from the cortex, that receive neocrotcial input and give rise to many axons that cross the midline to enter the contralateral cerebellum (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 135)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109028
@@ -10567,8 +10567,8 @@ pontineRapheNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pontineRapheNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pontine raphe nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum and raphe nuclei.
    :description: The pontine raphe nucleus is one of the raphe nuclei. It is located in the pontine tegmentum. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109029
@@ -10585,8 +10585,8 @@ pontineReticularFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pontineReticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pontine reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the reticular formation and pontine tegmentum.
    :description: The reticular formation is a part of the brain that is involved in actions such as awaking/sleeping cycle, and filtering incoming stimuli to discriminate irrelevant background stimuli. It is essential for governing some of the basic functions of higher organisms, and is one of the phylogenetically oldest portions of the brain. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109030
@@ -10603,8 +10603,8 @@ pontineTegmentum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pontineTegmentum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pontine tegmentum' is part of the pons.
    :description: Dorsal portion of the pons, containing cranial nervee nuclei, ascending and descending tracts and reticular nuclei.  It is continuous with the reticular formation of the medulla (Carpenter, A Core Text of Neuroanatomy, 3rd ed, 1985, pg 133).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109034
@@ -10621,8 +10621,8 @@ pontobulbarNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontobulbarNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pontobulbarNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pontobulbar nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109035
@@ -10639,8 +10639,8 @@ postcentralGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postcentralGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Postcentral gyrus' is a gyrus. It is part of the parietal lobe.
    :description: Component of the parietal lobe.  The appearance and disappearance of the central sulcus were the rostral and caudal boundaries of the postcentral gyrus respectively.  The medial and lateral boundaries were the lateral bank of the precentral gyrus and the lateral fissure and/or the medial bank of the superior parietal gyrus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109070
@@ -10657,8 +10657,8 @@ postcentralSulcusOfParietalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postcentralSulcusOfParietalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The postcentral sulcus of the parietal lobe lies parallel to, and behind, the central sulcus in the human brain. (A sulcus is one of the prominent grooves on the surface of the brain. ) The postcentral sulcus divides the postcentral gyrus from the remainder of the parietal lobe. [WP,unvetted].
    :description: 'Postcentral sulcus of parietal lobe' is a sulcus of parietal lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109071
@@ -10674,8 +10674,8 @@ postcommissuralFornixOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postcommissuralFornixOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Postcommissural fornix of brain' is a tract of diencephalon. It is part of the fornix of brain and lateral hypothalamic area.
    :description: The posterior fibers of the fornix, which continue through the hypothalamus to the mammillary bodies; then to the anterior nuclei of thalamus, which project to the cingulate cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109072
@@ -10692,8 +10692,8 @@ posteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorCingulateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
    :description: Component of the cingulate cortex. The rostral and caudal extent were the caudal anterior and the isthmus divisions of the cingulate cortex respectively. The medial and lateral boundaries were the corpus callosum and as the superior frontal gyrus and/or paracentral lobule respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109087
@@ -10710,8 +10710,8 @@ posteriorCingulateGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorCingulateGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior cingulate gyrus' is a gyrus. It is part of the cingulate gyrus.
    :description: The posterior cingulate cortex is the backmost part of the cingulate cortex, lying behind the anterior cingulate cortex. This is the upper part of the 'limbic lobe'. The cingulate cortex is made up of an area around the midline of the brain. Surrounding areas include the retrosplenial cortex and the precuneus. Cytoarchitectonically posterior cingulate cortex is associated with Brodmann areas 23 and 31. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109088
@@ -10728,8 +10728,8 @@ posteriorColumnOfFornix
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorColumnOfFornix
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior column of fornix' is a neuron projection bundle and central nervous system cell part cluster. It is part of the fornix of brain.
    :description: Part of fornix adjacent to the fimbria comprising flattened bands of fibers that extend from the fimbria, running underneath the corpus callosum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109089
@@ -10746,8 +10746,8 @@ posteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior commissure' is a commissure of diencephalon. It is part of the diencephalic white matter.
    :description: Rounded band of white fibers crossing the middle line on the dorsal aspect of the upper end of the cerebral aqueduct. It is important in the bilateral pupillary light reflex. Its fibers acquire their medullary sheaths early, but their connections have not been definitely determined. Most of them have their origin in a nucleus, the nucleus of the posterior commissure (nucleus of Darkschewitsch), which lies in the central gray substance of the upper end of the cerebral aqueduct, in front of the nucleus of the oculomotor nerve. Some are probably derived from the posterior part of the thalamus and from the superior colliculus, whereas others are believed to be continued downward into the medial longitudinal fasciculus. The posterior commissure interconnects the pretectal nuclei, mediating the consensual pupillary light reflex[WP]. Diencephalic tract which is located in the vicinity of the dorsal diencephalon and mesencephalon and connects the pretectal nuclei. From Neuroanatomy of the Zebrafish Brain[ZFA].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109090
@@ -10764,8 +10764,8 @@ posteriorHornLateralVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorHornLateralVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior horn lateral ventricle' is a telencephalic ventricle.
    :description: Part of the lateral ventricle that extends posteriorly into the occipital lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109097
@@ -10782,8 +10782,8 @@ posteriorHypothalamicRegion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorHypothalamicRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
    :description: The part of the hypothalamus posterior to the middle region consisting of several nuclei including the medial mamillary nucleus, lateral mamillary nucleus, and posterior hypothalamic nucleus (posterior hypothalamic area). The posterior hypothalamic area is concerned with control of sympathetic responses and is sensitive to conditions of decreasing temperature and controls the mechanisms for the conservation and increased production of heat.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109099
@@ -10800,8 +10800,8 @@ posteriorLimbOfInternalCapsule
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLimbOfInternalCapsule
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorLimbOfInternalCapsule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior limb of internal capsule' is a limb of internal capsule of telencephalon.
    :description: Portion of internal capsule lying between the globus pallidus and the thalamus (Nolte, The Human Brain, 6th ed., 2009, pg 409, modified by MM)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109100
@@ -10818,8 +10818,8 @@ posteriorLobeOfCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLobeOfCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorLobeOfCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The region of the cerebellum that is posterior to the primary fissure and anterior to the posteriolateral fissure.
    :description: 'Posterior lobe of cerebellum' is a cerebellum lobe.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109103
@@ -10835,8 +10835,8 @@ posteriorMedianEminence
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorMedianEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109104
@@ -10853,8 +10853,8 @@ posteriorNuclearComplexOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior nuclear complex of thalamus' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the dorsal thalamus.
    :description: Part of thalamus comprising ill defined cellular groups in the caudal thalamus at the meso-diencephalic junction.  It is not a homogeneous structure but consists of several distinct cellular groups, including the suprageniculate and limitans nuclei, the magnocellular division of the medial geniculate body, portions of the pulvinar nucleus and an area of mixed cell types intercalated between the ventroposterior nucleus and the nucleus lateral posterior (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 97)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109109
@@ -10871,8 +10871,8 @@ posteriorNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorNucleusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :description: The posterior nucleus of the hypothalamus is one of the many nuclei that make up the hypothalamic region of the brain. Its function is thermoregulation (heating) of the body. Damage or destruction of this nucleus causes hypothermia.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109110
@@ -10889,8 +10889,8 @@ posteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the posterior nuclear complex of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109111
@@ -10907,8 +10907,8 @@ posteriorOrbitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorOrbitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorOrbitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior orbital gyrus' is an orbital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109112
@@ -10925,8 +10925,8 @@ posteriorParahippocampalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorParahippocampalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.
    :description: The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109113
@@ -10943,8 +10943,8 @@ posteriorPartOfAnteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior part of anterior commissure' is a commissure of telencephalon. It is part of the anterior commissure.
    :description: The main part of the anterior commissure, distinct from the anterior olfactory part, that interconnects the temporal lobes. (Maryann Martone)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109121
@@ -10961,8 +10961,8 @@ posteriorPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorPeriventricularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior periventricular nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109122
@@ -10979,8 +10979,8 @@ posteriorThalamicRadiation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorThalamicRadiation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorThalamicRadiation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'posterior thalamic radiation' is a white matter fibre bundle. It is part of the radiation of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735032
@@ -10997,8 +10997,8 @@ posteriorTransverseTemporalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorTransverseTemporalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterior transverse temporal gyrus' is a transverse gyrus of Heschl.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109134
@@ -11015,8 +11015,8 @@ posterodorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109137
@@ -11033,8 +11033,8 @@ posteroventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteroventralCochlearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteroventralCochlearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Posteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109153
@@ -11051,8 +11051,8 @@ postnatalSubventricularZone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postnatalSubventricularZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postnatalSubventricularZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Postnatal subventricular zone' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the forebrain.
    :description: The subventricular zone (SVZ) is one of two sources of adult-born neurons in the mammalian brain, the other being the subgranular zone (SGZ) of the hippocampus. In most adult mammals, the SVZ is a three-layered sheath that lies along the lateral wall of the lateral ventricle and consists of type A, B, and C cells. Type A rest along the ventricle wall and are neuronal precursor cells, Type B are adjacent astrocytes, and Type C are immature precursors to the Type A neuroblasts. The neuronal precursor cells travel along the rostral migratory stream ensheathed in a tube of Type B astrocytes, until they reach the olfactory bulb. There they integrate into the existing cellular network and mature into local interneurons. While the majority become adult-born granule cells, a subset become periglomerular cells.Interestingly, the human SVZ differs from other mammals' in several ways. It consists of four layers rather than three: ependymal cells (layer I), a hypo cellular gap (layer II), a ribbon of astrocytes (layer III), and a transitional zone (layer IV). The astrocytes are capable of differentiating into many kinds of tissue including new neurons. However, there is no evidence that the proliferating neurons travel along the rostral migratory stream in a chain to populate the olfactory bulb with new interneurons, as is the case for other mammals.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111233
@@ -11069,8 +11069,8 @@ postsubiculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postsubiculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postsubiculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Postsubiculum' is a regional part of brain. It is part of the retrohippocampal region.
    :description: Division of subicular cortex characterized by projections from the anterodorsal thalamic nucleus and to a lesser extent the anteroventral nucleus, bordered ventrally and laterally by the presubiculum and dorsally and medially by the retrosplenial granular a cortex..  The border is characterized by an abrupt change in the cyto- and chemoarchitecture
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109164
@@ -11087,8 +11087,8 @@ precentralGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/precentralGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Precentral gyrus' is a frontal gyrus.
    :description: Component of the frontal lobe.  The appearance and disappearance of the central sulcus is the rostral and caudal boundaries of the precentral gyrus respectively. The medial boundary is specific frontal gyri (superior, middle and inferior) whereas the lateral boundary is the medial bank of the central sulcus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109193
@@ -11105,8 +11105,8 @@ precentralOperculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralOperculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/precentralOperculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Precentral operculum' is a regional part of brain. It is part of the operculum of brain.
    :description: The ventrolateral lip of the precentral gyrus, which overlies the insula and is bounded by the lateral fissure (Brain Info).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109194
@@ -11123,8 +11123,8 @@ precommissuralFornixOfForebrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/precommissuralFornixOfForebrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Precommissural fornix of forebrain' is a tract of brain. It is part of the fornix of brain.
    :description: Part of fornix extending from the body that curves ventrally rostral to the crossing of the anterior commissure ending in the septal nuclei
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109197
@@ -11141,8 +11141,8 @@ precuneusCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/precuneusCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Precuneus cortex' is a gyrus. It is part of the parietal lobe.
    :description: Component of the parietal lobe.  The rostral boundary was the posterior extent of the paracentral lobule whereas the caudal boundary was the lingual gyrus. The medial and lateral boundaries were the parieto-occipital fissure and the superior parietal gyrus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109199
@@ -11159,8 +11159,8 @@ predorsalBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/predorsalBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/predorsalBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Predorsal bundle' is a fasciculus of brain. It is part of the white matter of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109207
@@ -11177,8 +11177,8 @@ prefrontalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/prefrontalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Prefrontal cortex' is a regional part of brain. It is part of the frontal cortex.
    :description: The anterior part of the frontal lobes of the brain, lying in front of the motor and premotor areas.This brain region has been implicated in planning complex cognitive behaviors, personality expression, decision making and moderating correct social behavior. The basic activity of this brain region is considered to be orchestration of thoughts and actions in accordance with internal goals.The most typical psychological term for functions carried out by the pre-frontal cortex area is executive function. Executive function relates to abilities to differentiate among conflicting thoughts, determine good and bad, better and best, same and different, future consequences of current activities, working toward a defined goal, prediction of outcomes, expectation based on actions, and social "control" (the ability to suppress urges that, if not suppressed, could lead to socially-unacceptable outcomes).Many authors have indicated an integral link between a person's personality and the functions of the prefrontal cortex. - definition adapted from Wikipedia
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109209
@@ -11195,8 +11195,8 @@ premammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/premammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Premammillary nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109218
@@ -11213,8 +11213,8 @@ premotorCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/premotorCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'premotor cortex' is a regional part of brain. It is part of the cerebral cortex.
    :description: The premotor cortex is an area of motor cortex lying within the frontal lobe of the brain. It extends 3 mm anterior to the primary motor cortex, near the Sylvian fissure, before narrowing to approximately 1 mm near the medial longitudinal fissure, which serves as the posterior border for the prefrontal cortex. The premotor cortex is largely equivalent to Brodmann area 6. Activity within this region is critical to the sensory guidance of movement and control of proximal and trunk muscles of the body. [[wikipedia](http://en.wikipedia.org/wiki/Premotor_cortex)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109222
@@ -11231,8 +11231,8 @@ preoccipitalNotch
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preoccipitalNotch
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Preoccipital notch' is an anatomical entity. It is part of the occipital lobe.
    :description: Small indentation on the inferior surface of the cerebral cortex at the border of the occiptal and parietal lobes.  It is considered as a landmark because the occipital lobe is located just behind the line that connects that notch with the parietoccipital sulcus (adapted from Wikipedia).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109223
@@ -11249,8 +11249,8 @@ preolivaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preolivaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preolivaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Preolivary nucleus' is a nucleus of superior olivary complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109224
@@ -11267,8 +11267,8 @@ preopticArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preopticArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Preoptic area' is a regional part of brain. It is part of the diencephalon.
    :description: Region of hypothalamus between the anterior commissure and optic chiasm. (MSH) * pertaining to the region in or adjoining the part of the third ventricle immediately anterior to the optic chiasm. (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109225
@@ -11285,8 +11285,8 @@ preopticPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticPeriventricularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preopticPeriventricularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Preoptic periventricular nucleus' is a preoptic nucleus.
    :description: The preoptic periventricular nucleus is located along the midline and is medial to the medial preoptic nucleus.[WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109227
@@ -11303,8 +11303,8 @@ presubiculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/presubiculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Presubiculum' is part of the hippocampal formation and parahippocampal gyrus.
    :description: A modified six-layered cortex between the subiculum and the main part of the parahippocampal gyrus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109252
@@ -11321,8 +11321,8 @@ pretectalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pretectalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pretectal nucleus' is a nucleus of brain. It is part of the pretectal region.
    :description: A neural nucleus of the pretectal area (between dorsal thalamus and optic tectum) that receives afferents primarily from the retina and the optic tectum and are involved in modulating motor behavior in response to visual input.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107761
@@ -11339,8 +11339,8 @@ pretectalRegion
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pretectalRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pretectal region' is a brain gray matter and nuclear complex of neuraxis.
    :description: Region of brain lying between the midbrain tectum and the thalamus (Sefton and Dreher, in Paxinos, G The rat central nervous system, 1995, pg 859),  Situated at the level of poterior commissure and just rostral to the superior colliculus  (Brodal, Neurological Anatomy, 3rd ed, 1981, pg 542)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109258
@@ -11357,8 +11357,8 @@ primaryMotorCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primaryMotorCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary motor cortex' is a regional part of brain. It is part of the frontal cortex.
    :description: The part of the cerebral cortex that receives projections from the motor thalamus and which projects to motor neurons in the brainstem and spinal cord.  The motor cortex corresponds to Brodmann's area 4 (MM).  The primary motor cortex, or M1, is located on the precentral gyrus and on the anterior paracentral lobule on the medial surface of the brain. Of the three motor cortex areas, stimulation of the primary motor cortex requires the least amount of electrical current to elicit a movement. http://neuroscience.uth.tmc.edu/s3/chapter03.html
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109278
@@ -11375,8 +11375,8 @@ primaryOlfactoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primaryOlfactoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
    :description: The term primary olfactory areas in the primate, refers to a group of structures defined by connectivity, namely, structures that receive axons from the olfactory bulb. They include the anterior olfactory nucleus, the anterior perforated substance, the rostral part of the medial amygdaloid nucleus (anterior cortical nucleus of amygdala), and structures in the anterior part of the parahippocampal gyrus, namely, the prepyriform area, most of the periamygdaloid area, and the rostral part of the entorhinal area (Price-90). Note that some authors have regarded the olfactory bulb itself as the primary olfactory area and the areas to which it projects as secondary (Anthoney-94).  In the mouse (Dong-2004) and the rat (Swanson-2004), olfactory areas include the olfactory bulb, accessory olfactory bulb, anterior olfactory nucleus, tenia tecta, prepyriform area, postpiriform transition area, piriform amygdaloid area, nucleus of lateral olfactory tract, and cortical amygdaloid area.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109283
@@ -11393,8 +11393,8 @@ primarySomatosensoryAreaBarrelFieldLayer1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory area barrel field layer 1' is a layer of neocortex. It is part of the barrel cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109286
@@ -11411,8 +11411,8 @@ primarySomatosensoryAreaBarrelFieldLayer4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory area barrel field layer 4' is a layer of neocortex. It is part of the barrel cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109288
@@ -11429,8 +11429,8 @@ primarySomatosensoryAreaBarrelFieldLayer5
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory area barrel field layer 5' is a layer of neocortex. It is part of the barrel cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109290
@@ -11447,8 +11447,8 @@ primarySomatosensoryAreaBarrelFieldLayer6a
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory area barrel field layer 6a' is a layer of neocortex. It is part of the barrel cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109292
@@ -11465,8 +11465,8 @@ primarySomatosensoryAreaBarrelFieldLayer6b
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory area barrel field layer 6b' is a layer of neocortex. It is part of the barrel cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109294
@@ -11483,8 +11483,8 @@ primarySomatosensoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory cortex' is a somatosensory cortex. It is part of the parietal cortex.
    :description: (Chapin & Lin, 1984, rat): the region considered as the SI cortex is not a cytoarchitecturally homogeneous structure but consists instead of a patchwork array of areas containing dense aggregations of layer IV granule cells, surrounded by granule-cell-sparse regions. As was shown by Welker ('71,'76), and in our own mapping studies (see Fig. 3), this discontinuous pattern of granular, or koniocortical, zones contains within itself a map of the rat's cutaneous periphery. There are clear subtypes within this cytoarchitectural subregion, notably including the "granular aggregate" type of cytoarchitecture characteristic of the paw, limb, and mystacial vibrissae areas, and the "barrel-field" type (originally described by Woolsey and Van der Loos, '70) seen in the nose and perioral regions. In the mouse, but not the rat, such barrels also cover the whole whisker representation (Welker and Woolsey, '74).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109333
@@ -11501,8 +11501,8 @@ primarySomatosensoryCortexLayer6
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortexLayer6
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySomatosensoryCortexLayer6
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary somatosensory cortex layer 6' is a layer of neocortex. It is part of the primary somatosensory cortex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109334
@@ -11519,8 +11519,8 @@ primarySuperiorOlive
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySuperiorOlive
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primarySuperiorOlive
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary superior olive' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the superior olivary complex.
    :description: Part of the superior olivary complex of nuclei in the caudal pontine tegmentum, situated within the trapezoid body in humans.  (Brodal, Neurological Anatomy, 3rd edition, 1981, pg 617).  In many species, it comprises a medial superior olivary nucleus and a lateral superior olivary nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111314
@@ -11537,8 +11537,8 @@ primaryVisualCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/primaryVisualCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Primary visual cortex' is a Brodmann area and functional part of brain. It is part of the visual cortex.
    :description: Region of visual cortex that receives visual input from the eyes through the lateral geniculate nuclei (Sadato et al., 1996, PMID: 8606771).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112514
@@ -11555,8 +11555,8 @@ principalAnteriorDivisionOfSupraopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Principal anterior division of supraoptic nucleus' is a regional part of brain.
    :description: One of two divisions of the supraoptic nucleus observed in mammals, formed by the ascension of the optic chiasm to split the nucleus in two.  The principal anterior division consists of a dense cluster of large cells that stain darkly in Nissl preparations adjacent to the optic chiasm, extending as far rostrally to the organum vasculosum of the lamina terminalis and caudally into the posterior hypothalamus
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109347
@@ -11573,8 +11573,8 @@ principalPartOfVentralPosteromedialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Principal part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109352
@@ -11591,8 +11591,8 @@ principalPretectalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/principalPretectalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Principal pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109353
@@ -11609,8 +11609,8 @@ principalSensoryNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Principal sensory nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
    :description: The principal sensory nucleus (or chief sensory nucleus of V) is a group of second order neurons which have cell bodies in the dorsal Pons. It receives information about discriminative sensation and light touch of the face as well as conscious proprioception of the jaw via first order neurons of CN V. Most of the sensory information crosses the midline and travels to the contralateral ventral posteriomedial (VPM) of the thalamus via the Ventral Trigeminothalamic Tract, but information of the oral cavity travels to the ipsilateral Ventral Posteriomedial (VPM) of the thalamus via the Dorsal Trigeminothalamic Tract. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109355
@@ -11627,8 +11627,8 @@ putamen
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/putamen
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/putamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Putamen' is a telencephalic nucleus. It is part of the cerebral hemisphere and caudate-putamen.
    :description: Subcortical nucleus of telencephalon , which together with the caudate nucleus, forms the striatum.  The putamen lies lateral to the internal capsule and medial to the external medullary lamina, and is separated from the caudate nucleus by the fibers of the internal capsule for most of its length, except at its anterior portion.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109549
@@ -11645,8 +11645,8 @@ pyramidalLayerOfCA1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pyramidalLayerOfCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pyramidal layer of CA1' is a layer of CA1 field. It is part of the hippocampus pyramidal layer.
    :description: Part of pyramidal cell layer lying in area CA1, superficial to the CA1 stratum oriens, and deep to the stratum radiatum of CA1, continuous with the pyramidal cell layers of CA2 and the subiculum. It is characterized by pyramidal cell bodies that are generally smaller in size than those in the other hippocampal sectors.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101525
@@ -11663,8 +11663,8 @@ pyramidalLayerOfCA2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA2
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pyramidalLayerOfCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Pyramidal layer of CA2' is a layer of CA2 field. It is part of the hippocampus pyramidal layer.
    :description: Part of pyramidal cell layer in area CA2, lying superficial to the CA2 stratum oriens, and deep to the stratum radiatum of CA2, continuous with the pyramidal cell layers of CA1 and CA3
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101532
@@ -11681,8 +11681,8 @@ radiationOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/radiationOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/radiationOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'radiation of thalamus' is a white matter fibre bundle. It is part of of the thalamic complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724984
@@ -11699,8 +11699,8 @@ redNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/redNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Red nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: Format for scripts written in the R language - an open source programming language and software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109722
@@ -11717,8 +11717,8 @@ regionalPartOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/regionalPartOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Regional part of brain' is a regional part of nervous system. It is part of the brain.
    :description: Anatomical divisions of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109835
@@ -11735,8 +11735,8 @@ regionalPartOfCerebellarCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/regionalPartOfCerebellarCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Regional part of cerebellar cortex' is a regional part of brain. It is part of the cerebellar cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109837
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002749#regional-part-of-cerebellar-cortex-1
@@ -11752,8 +11752,8 @@ reticularFormation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/reticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Reticular formation' is a regional part of brain. It is part of the brainstem.
    :description: A composite substructure of the brainstem that consists of the midbrain reticular formation, the pontine reticular formation and the medullary reticular formation ( Carpenter-1983 ).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109987
@@ -11770,8 +11770,8 @@ reticulotegmentalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulotegmentalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/reticulotegmentalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Reticulotegmental nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons and reticular formation.
    :description: The tegmental pontine reticular nucleus (or pontine reticular nucleus of the tegmentum) is an area within the floor of the midbrain. This area is known to affect the cerebellum with its axonal projections. These efferent connections have been proven to project not only ipsilaterally, but also to decussate and project to the contralateral side of the vermis. It has also been shown that the projections from the tegmenti pontis to the cerebellar lobes are only crossed fibers. The n.r. tegmenti pontis also receives afferent axons from the cerebellum. This nucleus is known for its large amount of multipolar cells and its particularly reticular structure. The n.r. tegmenti pontis is topographically related to pontine nuclei (non-reticular), being just dorsal to them. The nucleus reticularis has been known to mediate eye movements, otherwise known as so-called saccadic movement. This makes sense concerning their connections as it would require a nucleus which receives and projects to the cerebellum to mediate that kind of complex circuitry. Also, behaviorally this makes sense as no one thinks about saccadic movements when scanning a room and the saccadic movements are not directly controlled by the cortex. The nuclei of the cerebellum are the most traditionally studied mostly because it is easy to see which nuclei degrade when the cerebellum is amputated. The neurons of the lateral reticular formation are very important for reflexes and the mediation of posture. It has been shown in cats that electrical stimulation of the reticular formation can make a standing cat lie down. Conversely if the cat is stimulated in an alternate spot it can make a lying cat stand.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109992
@@ -11788,8 +11788,8 @@ retrochiasmaticArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrochiasmaticArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Retrochiasmatic area' is part of the medial zone of hypothalamus and intermediate hypothalamic region.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726953
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1
@@ -11805,8 +11805,8 @@ retrorubralAreaOfMidbrainReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Retrorubral area of midbrain reticular nucleus' is a regional part of brain. It is part of the nucleus of midbrain reticular formation.
    :description: The term retrorubral area of the midbrain reticular nucleus refers to a region of the rat brain caudal and dorsal to the ventral tegmental area. It is one of three parts of the midbrain reticular nucleus; the other two are the magnocellular part of the midbrain reticular nucleus and the parvicellular part of the midbrain reticular nucleus (Swanson-2004). BrainInfo distinguishes between the Retrorubral area of the midbrain reticular formation and the retrorubral nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733931
@@ -11823,8 +11823,8 @@ retrotrapezoidNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrotrapezoidNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrotrapezoidNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Retrotrapezoid nucleus' is a nucleus of medulla oblongata.
    :description: Group of cells in the rostral medulla close to the ventral surface, near to the trapezoid body
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110082
@@ -11841,8 +11841,8 @@ reuniensNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/reuniensNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Reuniens nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110085
@@ -11859,8 +11859,8 @@ rhinalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhinalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rhinal sulcus' is a sulcus of brain. It is part of the cerebral cortex.
    :description: In the human brain, the rhinencephalon appears as a longitudinal elevation, with a corresponding internal furrow, on the under surface of the hemisphere close to the lamina terminalis; it is separated from the lateral surface of the hemisphere by a furrow, the external rhinal fissure (or rhinal sulcus), and is continuous behind with that part of the hemisphere, which will ultimately form the anterior end of the temporal lobe. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110119
@@ -11877,8 +11877,8 @@ rhombicLip
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombicLip
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rhombic lip' is part of the future metencephalon.
    :description: The posterior section of the developing metencephalon recognized transiently within the vertebrate embryo; the rhombic lip extends posteriorly from the roof of the fourth ventricle to dorsal neuroepithelial cell and can be divided into eight structural units based on rhombomeres 1-8 (r1-r8), recognized at early stages of hindbrain development; producing granule cells and five brainstem nuclei, the rhombic lip plays an important role in developing a complex cerebellar neural system.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727583
@@ -11895,8 +11895,8 @@ rhomboidalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhomboidalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhomboidalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rhomboidal nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110128
@@ -11913,8 +11913,8 @@ rootOfAbducensNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfAbducensNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Root of abducens nerve' is a root of cranial nerve. It is part of the medulla oblongata.
    :description: Nerve fibers arising from motor neurons in the abducens nucleus that are contained within the pontine tegmentum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100173
@@ -11931,8 +11931,8 @@ rootOfOlfactoryNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfOlfactoryNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The initial segment of an olfactory nerve, leaving the central nervous system.
    :description: 'Root of olfactory nerve' is a nerve root.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727253
@@ -11948,8 +11948,8 @@ rootOfOpticNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfOpticNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A nerve root that extends_fibers_into a nerve connecting eye with brain.
    :description: 'Root of optic nerve' is a root of cranial nerve.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728874
@@ -11965,8 +11965,8 @@ rootOfTrochlearNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfTrochlearNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Root of trochlear nerve' is a root of cranial nerve. It is part of the brainstem.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112003
@@ -11983,8 +11983,8 @@ rootOfVagusNerve
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rootOfVagusNerve
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A root of cranial nerve that is part of a vagus nerve.
    :description: 'Root of vagus nerve' is a nerve root.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731734
@@ -12000,8 +12000,8 @@ rostralAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralAnteriorCingulateCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
    :description: Component of the cingulate cortex.  The rostral boundary was the first appearance of the cingulate sulcus (inferior to the superior frontal sulcus) whereas the caudal boundary was the first appearance of the genu of the corpus callosum. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was defined as the medial division of the orbitofrontal gyrus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110204
@@ -12018,8 +12018,8 @@ rostralInterstitialNucleusOfMedialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral interstitial nucleus of medial longitudinal fasciculus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: The rostral interstitial nucleus of medial longitudinal fasciculus (riMLF) is a portion of the medial longitudinal fasciculus which controls vertical gaze. They project to the vestibular nuclei. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110210
@@ -12036,8 +12036,8 @@ rostralIntralaminarNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral intralaminar nuclear group' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110211
@@ -12054,8 +12054,8 @@ rostralLinearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralLinearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralLinearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the ventral tegmental area.
    :description: Nucleus of the medial ventral tegmental area, originally identified in the rat but also in cat, monkey and human, comprising an average of 7% volume of the VTA across the different species, with the largest being present in the cat.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110212
@@ -12072,8 +12072,8 @@ rostralMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMiddleFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralMiddleFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral middle frontal gyrus' is a regional part of brain and frontal gyrus. It is part of the middle frontal gyrus.
    :description: Component of the middl frontal gyrus  The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the middle frontal gyrus. The medial and lateral boundaries are the superior frontal sulcus and the inferior frontal sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110215
@@ -12090,8 +12090,8 @@ rostralMigratoryStream
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralMigratoryStream
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral migratory stream' is a regional part of brain. It is part of the telencephalon.
    :description: Unique telencephalic subventricular zones that extend from the lateral ventricles into the olfactory bulbs. Newly produced GABAergic interneurons migrate along the RMS and settle in the bulb.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110216
@@ -12108,8 +12108,8 @@ rostralPortionOfTheMedialAccessoryOlive
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral portion of the medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110220
@@ -12126,8 +12126,8 @@ rostralSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSpinocerebellarTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralSpinocerebellarTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Rostral spinocerebellar tract' is an axon tract. It is part of the spinocerebellar tract.
    :description: Cervical equivalent to the ventral spinocerebellar tract (Heimer, L:  The Human Brain and Spinal Cord, 1995, pg 370).  Originates from cells rostral to Clarke's column and sends uncrossed axons through the lateral funiculus to the cerebellum.  It reaches the cerebellum partly through the brachium conjunctivum and partly through the restiform body, terminating bilaterally in the anterior lobe of the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110223
@@ -12144,8 +12144,8 @@ rostrumOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostrumOfCorpusCallosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731510
@@ -12162,8 +12162,8 @@ secondaryOlfactoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondaryOlfactoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Secondary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
    :description: Brodmann's area 28; major gateway for neocortical input to the hippocampus; origin of the perforant pathway; a component of the medial temporal lobe memory system. (CSP) * The cytoarchitecturally well-defined area of multilaminate cerebral cortex on the medial aspect of the parahippocampal gyrus, immediately caudal to the olfactory cortex of the uncus. The entorhinal cortex is the origin of the major neural fiber system afferent to the hippocampus, the so-called PERFORANT PATHWAY. (Stedman, 25th ed) (MSH)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110447
@@ -12180,8 +12180,8 @@ secondaryVisualCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondaryVisualCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Secondary visual cortex' is part of Brodmann area 18 and a functional region of the brain. It is part of the visual cortex.
    :description: A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual association area.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727119
@@ -12198,8 +12198,8 @@ segmentalSubdivisionOfHindbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Segmental subdivision of hindbrain' is a segmental subdivision of nervous system. It is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729200
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004733#segmental-subdivision-of-hindbrain
@@ -12215,8 +12215,8 @@ septalNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/septalNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Septal nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the septum of telencephalon and basal forebrain.
    :description: Collection of nerve cells in the medial forebrain lying generally in front of the anterior commissure (Maryann Martone).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110508
@@ -12233,8 +12233,8 @@ septofimbrialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septofimbrialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/septofimbrialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Septofimbrial nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110511
@@ -12251,8 +12251,8 @@ septohippocampalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/septohippocampalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Septohippocampal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :description: Part of septal nuclear complex.  In the human, it refers to the most caudal of scattered clusters of neurons in the septum pellucidum that extend, on the underside of the corpus callosum, from the level of the medial septal nucleus to the CA fields ( Crosby-1962 ). In the rat it is associated with the lateral septal nucleus throughout its rostro-caudal course toward the CA fields ( Swanson-1998.  Adapted from Brain Info.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110513
@@ -12269,8 +12269,8 @@ septumOfTelencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/septumOfTelencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Gray matter structure located on the midline of the forebrain consisting of the septum pellucidum (in some species) and the septal nuclei (Heimer, 1996).
    :description: 'Septum of telencephalon' is a cerebral hemisphere gray matter.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110516
@@ -12286,8 +12286,8 @@ septumPellucidum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumPellucidum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/septumPellucidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Septum pellucidum' is part of the septum of telencephalon and telencephalic ventricle.
    :description: A triangular double membrane, consisting of glial cells and fibers (Heimer, 1996) separating the anterior horns of the lateral ventricles of the brain. It is situated in the median plane and bounded by the corpus callosum and the body and columns of the fornix.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110509
@@ -12304,8 +12304,8 @@ shellOfNucleusAccumbens
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/shellOfNucleusAccumbens
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/shellOfNucleusAccumbens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Shell of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
    :description: Crescent shaped outer zone of the nucleus accumbens, defined by a combination of chemoarchitecture and afferent and efferent connections.  The shell is distinguished from the more centrally located core through the notable reduction in staining for the calcium-binding protein calbindin D28K, which is dense in the core and virtually absent in the shell.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110602
@@ -12322,8 +12322,8 @@ somatosensoryCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/somatosensoryCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110752
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
@@ -12339,8 +12339,8 @@ sommersSector
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sommersSector
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sommersSector
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Sommer's sector' is a regional part of brain. It is part of the hippocampal formation.
    :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
@@ -12357,8 +12357,8 @@ spinalTrigeminalTractOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinal trigeminal tract of medulla' is a spinal trigeminal tract. It is part of the medulla oblongata.
    :description: Part of spinal trigeminal tract located in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110958
@@ -12375,8 +12375,8 @@ spinalTrigeminalTractOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalTrigeminalTractOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinal trigeminal tract of pons' is a spinal trigeminal tract. It is part of the pontine tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110959
@@ -12393,8 +12393,8 @@ spinocerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinocerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinocerebellum' is a regional part of brain. It is part of the cerebellum.
    :description: A phylogenetic subdivision of the cerebellum, the intermediate part, which regulates body and limb movements. It receives proprioception input from the dorsal columns of the spinal cord (including the spinocerebellar tract) and the trigeminal nerve, as well as from visual and auditory systems. It sends fibres to deep cerebellar nuclei which in turn project to both the cerebral cortex and the brain stem, thus providing modulation of descending motor systems.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734938
@@ -12411,8 +12411,8 @@ spinothalamicTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinothalamicTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'spinothalamic tract' is a white matter fibre bundle. It originates from neurons in the spinal central gray and projects to various somatosensory nuclei of the thalamus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110973
@@ -12429,8 +12429,8 @@ spinothalamicTractOfMedulla
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinothalamicTractOfMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinothalamic tract of medulla' is a tract of brain. It is part of the medulla oblongata and spinothalamic tract.
    :description: Part of spinothalamic tract in the medulla
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110974
@@ -12447,8 +12447,8 @@ spinothalamicTractOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinothalamicTractOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinothalamic tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and spinothalamic tract.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110975
@@ -12465,8 +12465,8 @@ spinothalamicTractOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinothalamicTractOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.
    :description: Part of spinothalamic tract that is in the pontine tegmentum
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110976
@@ -12483,8 +12483,8 @@ spleniumOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition:
    :description: The 'splenium of the corpus callosum' is a white matter fibre bundle. It is represents the posterior end of the corpus callosum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724356
@@ -12501,8 +12501,8 @@ stratumZonaleOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumZonaleOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Stratum zonale of thalamus' is a diencephalic white matter. It is part of the dorsal plus ventral thalamus.
    :description: The thalamus consists chiefly of gray substance, but its upper surface is covered by a layer of white substance, named the stratum zonale.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111083
@@ -12519,8 +12519,8 @@ striaMedullaris
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striaMedullaris
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Stria medullaris' is a diencephalic white matter and stria of neuraxis. It is part of the dorsal plus ventral thalamus.
    :description: White matter pathway located in the superior wall of the third ventricle along the dorsal-medial margin of the diencephalon; contains axons that interconnect the anterior hypothalamus and septal nuclei in the medial basal forebrain with the habenula, a component of the epithalamus. (http://www.sylvius.com/index/s/stria_medullaris.html)]]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111089
@@ -12537,8 +12537,8 @@ striaTerminalis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striaTerminalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Stria terminalis' is a cerebral hemisphere white matter and stria of telencephalon.
    :description: White matter structure in the brain consisting of fibers running along the lateral margin of the ventricular surface of the thalamus. The stria terminalis covers the thalamostriate vein, marking a line of separation between the thalamus and the caudate nucleus as seen upon gross dissection of the ventricles of the brain, viewed from the superior aspect. The stria terminalis extends from the region of the interventricular foramen to the temporal horn of the lateral ventricle, carrying fibers from the amygdala to the septal, hypothalamic, and thalamic areas of the brain. It also carries fibers projecting from these areas back to the amygdala. (http://en.wikipedia.org/wiki/Stria_terminalis)]]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111091
@@ -12555,8 +12555,8 @@ striatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.
    :description: * Externally Sourced Definition: A region of the brain consisting of the phylogenetically newer part of the Corpus_striatum (Caudate_nucleus and Putamen).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111098
@@ -12573,8 +12573,8 @@ striosomalPartOfBodyOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Striosomal part of body of caudate nucleus' is a striosomal part of caudate nucleus. It is part of the body of caudate nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111106
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027244#striosomal-part-of-body-of-caudate-nucleus
@@ -12590,8 +12590,8 @@ striosomalPartOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striosomalPartOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Striosomal part of caudate nucleus' is a striosome. It is part of the caudate nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111107
@@ -12608,8 +12608,8 @@ striosomalPartOfPutamen
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striosomalPartOfPutamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Striosomal part of putamen' is a striosome. It is part of the putamen.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111109
@@ -12626,8 +12626,8 @@ subarachnoidFissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidFissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidFissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subarachnoid fissure' is an anatomical entity. It is part of the subarachnoid space.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735254
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014466#subarachnoid-fissure
@@ -12643,8 +12643,8 @@ subarachnoidSpace
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidSpace
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subarachnoid space' is an anatomical entity. It is part of the brain.
    :description: The space between the arachnoid and pia mater.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736673
@@ -12661,8 +12661,8 @@ subarachnoidSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subarachnoidSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subarachnoid sulcus' is a sulcus of brain. It is part of the subarachnoid space.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730861
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008334#subarachnoid-sulcus
@@ -12678,8 +12678,8 @@ subbrachialNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subbrachialNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subbrachial nucleus' is a nucleus of midbrain tectum.
    :description: A group of cells ventral to the nucleus of brachium of inferior colliculus in the mouse (Paxinos-2001).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111154
@@ -12696,8 +12696,8 @@ subcallosalArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subcallosalArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subcallosal area' is a gray matter of telencephalon.
    :description: The subcallosal area (parolfactory area of Broca, area parolfactoria) is a small triangular field on the medial surface of the hemisphere in front of the subcallosal gyrus, from which it is separated by the posterior parolfactory sulcus; it is continuous below with the olfactory trigone, and above and in front with the cingulate gyrus; it is limited anteriorly by the anterior parolfactory sulcus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111156
@@ -12714,8 +12714,8 @@ subcommissuralOrgan
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subcommissuralOrgan
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subcommissural organ' is a secretory circumventricular organ. It is part of the midbrain tectum and Reissner's fiber.
    :description: The subcommissural organ is a circumventricular organ consisting of ependymal cells which secrete SCO-spondin[WP,partially vetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111159
@@ -12732,8 +12732,8 @@ subcuneiformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subcuneiformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :description: 'Subcuneiform nucleus' is a nucleus of midbrain reticular formation.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111160
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002700#subcuneiform-nucleus-1
@@ -12749,8 +12749,8 @@ subfascicularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subfascicularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subfascicularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subfascicular nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111163
@@ -12767,8 +12767,8 @@ subicularComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subicularComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subicular complex' is a regional part of brain. It is part of the hippocampal formation.
    :description: A composite structure of the temporal lobe that includes the subiculum, the presubiculum and the parasubicular area (Amaral-90)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111167
@@ -12785,8 +12785,8 @@ subiculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subiculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Subiculum' is a regional part of brain. It is part of the hippocampal formation.
    :description: Part of the hippocampal formation that is bounded by the entorhinal cortex and area CA1.  It is characterized on the CA1 border by an abrupt widening of the pyramidal cell layer. A molecular layer is present that is continuous with that of CA1, although the stratum radiatum is no longer present. The stratum oriens is also not present.  adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 468)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111168
@@ -12803,8 +12803,8 @@ sublentiformNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sublentiformNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Sublentiform nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111190
@@ -12821,8 +12821,8 @@ submedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/submedialNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Submedial nucleus of thalamus' is a posterior nucleus of thalamus.
    :description: Thalamic nucleus separated from the ventromedial part of the mediodorsal nucleus of the thalamus by the internal medullary lamina (Paxinos The rat nervous system 2nd ed, Academic Press, 1995).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111192
@@ -12839,8 +12839,8 @@ substantiaGelatinosa
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosa
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaGelatinosa
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia gelatinosa' is a lamina of gray matter of spinal cord. It is part of the dorsal horn of spinal cord.
    :description: Gray matter region of spinal cord gray matter that caps the posterior horn at all spinal levels.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111207
@@ -12857,8 +12857,8 @@ substantiaInnominata
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaInnominata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia innominata' is a telencephalic nucleus. It is part of the ventral pallidum.
    :description: A predominantly gray matter structure of the basal telencephalon defined on the basis of Nissl stain. Caudal to the anterior commissure it lies deep to the globus pallidus and dorsal to the amygdala. Rostral to the anterior commissure it lies deep to the striatum. The more rostral portion contains the basal forebrain nucleus ( Anthoney-1994 ). In the late twentieth century the region containing the substantia innominata was resegmented on the basis of neurochemistry and connectivity to constitute the striatopallidal system ( Heimer-1995 ). In this scheme the caudal portion of substantia innominata is located largely in the ventral pallidum and the rostral portion in the ventral striatum. (from Brain Info)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111212
@@ -12875,8 +12875,8 @@ substantiaNigra
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaNigra
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia nigra' is a midbrain nucleus. It is part of the basal ganglion.
    :description: Predominantly gray matter midbrain structure lying dorsal to the crus cerebri and ventral to the midbrain tegmentum.  It is divided into a dorsal, cellularly compact region known as the pars compacta and a more ventrally located, containing more loosely packed cells, the pars reticulata.  The most lateral region of the reticulata is identified as the pars lateralis (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111214
@@ -12893,8 +12893,8 @@ substantiaNigraParsCompacta
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsCompacta
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaNigraParsCompacta
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia nigra pars compacta' is part of the substantia nigra.
    :description: Regional part of substantia nigra consisting of a densely packed region of cells, more or less dorsal to the pars reticulata, but extending into the pars reticulata in some species.  The dominant neurotransmitter used by pars compacta neurons is dopamine.  Pars compacta neurons are pigmented in many species (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111219
@@ -12911,8 +12911,8 @@ substantiaNigraParsLateralis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaNigraParsLateralis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia nigra pars lateralis' is a regional part of brain. It is part of the substantia nigra.
    :description: Part of the pars reticulata of substantia nigra. It is the lateral, 'most fibrous' part (Poirier-83), which is regarded to be the phylogenetically oldest part of the substantia nigra and the only part found in nonmammalian vertebrates (Crosby-62) (Adapted from Brain Info: http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111221
@@ -12929,8 +12929,8 @@ substantiaNigraParsReticulata
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaNigraParsReticulata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Substantia nigra pars reticulata' is part of the substantia nigra.
    :description: Regional part of substantia nigra consisting of loosely packed cells, generally located ventral and lateral to the pars compacta.  Many cells in this region use GABA as a neurotransmitter (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111222
@@ -12947,8 +12947,8 @@ sulcusLimitansOfFourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Sulcus limitans of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.
    :description: In the floor of the fourth ventricle, the sulcus limitans separates the cranial nerve motor nuclei (medial) from the sensory nuclei (lateral). In the superior part of the rhomboid fossa, it corresponds with the lateral limit of the fossa and presents a bluish-gray area, the locus ceruleus (which owes its color to an underlying patch of deeply pigmented nerve cells, termed the substantia ferruginea). [WP].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736901
@@ -12965,8 +12965,8 @@ sulcusOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sulcusOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Sulcus of brain' is an anatomical entity. It is part of the brain.
    :description: A depression or fissure in the surface of the brain. It surrounds the gyri, creating the characteristic appearance of the brain in humans and other large mammals.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725590
@@ -12983,8 +12983,8 @@ superficialFeaturePartOfOccipitalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superficial feature part of occipital lobe' is a regional part of brain. It is part of the occipital lobe.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111268
@@ -13001,8 +13001,8 @@ superficialFeaturePartOfTheCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superficial feature part of the cerebellum' is a regional part of brain. It is part of the cerebellum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111271
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024046#superficial-feature-part-of-the-cerebellum
@@ -13018,8 +13018,8 @@ superiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorCerebellarPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior cerebellar peduncle' is a cerebellar peduncle.
    :description: A composite structure of the brain stem, which in NeuroNames is subdivided into the superior cerebellar peduncle of pons, the decussation of superior cerebellar peduncle and the superior cerebellar peduncle of midbrain (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111279
@@ -13036,8 +13036,8 @@ superiorCerebellarPeduncleOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior cerebellar peduncle of midbrain' is a regional part of brain. It is part of the midbrain tegmentum and superior cerebellar peduncle.
    :description: Regional part of superior cerebellar peduncle, located in the midbrain, consisting of a large bundle of fibers largely projecting from the deep cerebellar nuclei to the midbrain and thalamus.  It is continuous with the superior cerebellar peduncle of the pons. (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111280
@@ -13054,8 +13054,8 @@ superiorCerebellarPeduncleOfPons
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior cerebellar peduncle of pons' is a regional part of brain. It is part of the superior cerebellar peduncle and pontine tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111281
@@ -13072,8 +13072,8 @@ superiorColliculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior colliculus' is a regional part of brain and visual processing part of nervous system. It is part of the corpora quadrigemina.
    :description: Part of the midbrain tecturm consisting of paired bodies that sit caudal to the thalamus and surround the pineal gland in the mesencephalon of vertebrate brains. It comprises the rostral aspect of the midbrain, posterior to the periaqueductal gray and adjacent superior the inferior colliculus. The inferior and superior colliculi are known collectively as the corpora quadrigemina (Latin, quadruplet bodies). It consists of several identified cellular layers and also comprises the brachium of the superior colliculus and commissure of supeior colliculus from Wikipedia.org and Neuronames (MM).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111282
@@ -13090,8 +13090,8 @@ superiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior frontal gyrus' is a frontal gyrus.
    :description: Component of the frontal lobe, lateral aspect.  The rostral boundary is the first appearance of the superior frontal sulcus whereas the caudal boundary is the midpoint of the paracentral sulcus on the "inflated" surface. The medial and lateral boundaries are  the medial aspect of the frontal lobe and the superior frontal sulcus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111304
@@ -13108,8 +13108,8 @@ superiorMedullaryVelum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMedullaryVelum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorMedullaryVelum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior medullary velum' is a white matter of metencephalon. It is part of the cerebellum.
    :description: The superior medullary velum (anterior medullary velum, valve of Vieussens) is a thin, transparent of white substance, which stretches between the superior cerebellar peduncles; on the dorsal surface of its lower half the folia and lingula are prolonged. It forms, together with the superior cerebellar peduncle, the roof of the upper part of the fourth ventricle; it is narrow above, where it passes beneath the inferior colliculi, and broader below, where it is continuous with the white substance of the superior vermis. A slightly elevated ridge, the fraenulum veli, descends upon its upper part from between the inferior colliculi, and on either side of this the trochlear nerve emerges. Blood is supplied by branches from the superior cerebellar artery. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111306
@@ -13126,8 +13126,8 @@ superiorOccipitalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOccipitalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorOccipitalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior occipital gyrus' is an occipital gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111308
@@ -13144,8 +13144,8 @@ superiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorOlivaryComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the pontine tegmentum.
    :description: A a collection of brainstem nuclei that functions in multiple aspects of hearing and is an important component of the ascending and descending auditory pathways of the auditory system.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111309
@@ -13162,8 +13162,8 @@ superiorParietalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorParietalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior parietal cortex' is part of the parietal lobe and neocortex.
    :description: Component of the parietal lobe.  The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111317
@@ -13180,8 +13180,8 @@ superiorRostralGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorRostralGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior rostral gyrus' is a regional part of brain. It is part of the rostral gyrus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111324
@@ -13198,8 +13198,8 @@ superiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorSalivatoryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior salivatory nucleus' is a cranial nerve nucleus, salivatory nucleus and nucleus of medulla oblongata. It is part of the pontine tegmentum.
    :description: Nucleus containing parasympathetic neurons giving rise to the parasympathetic division of the facial nerve, innervating the salivary glands (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 703).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111326
@@ -13216,8 +13216,8 @@ superiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorTemporalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior temporal gyrus' is a gyrus. It is part of the temporal lobe.
    :description: Component of the temporal lobe, lateral aspect.  The rostral boundary is the rostral extent of the ssuperior temporal sulcus.  The caudal boundary is the cauday portion of the superior temporal gyrus (posterior to becoming continuous with the supramarginal gyrus).  The medial boundary is the lateral fissure (and when present the supramarginal gyrus), and the lateral boundary is the superior temporal suclus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111328
@@ -13234,8 +13234,8 @@ superiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalSulcus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorTemporalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'superior temporal sulcus' is the sulcus separating the superior temporal gyrus from the middle temporal gyrus in the temporal lobe of the brain. [from [wikipedia](http://en.wikipedia.org/wiki/Superior_temporal_sulcus)]
    :description: The superior temporal sulcus is the first sulcus inferior to the lateral fissure. It is involved in the perception of where others are gazing and is thus important in determining where others' emotions are being directed. It is also involved in the perception of biological motion. [from [wikipedia](http://en.wikipedia.org/wiki/Superior_temporal_sulcus)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111329
@@ -13252,8 +13252,8 @@ superiorTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Superior transverse frontopolar gyrus' is a regional part of brain. It is part of the transverse frontopolar gyri complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111330
@@ -13270,8 +13270,8 @@ supracallosalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supracallosalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supracallosalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Supracallosal gyrus' is a gyrus. It is part of the limbic lobe.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111340
@@ -13288,8 +13288,8 @@ suprachiasmaticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/suprachiasmaticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial zone of hypothalamus.
    :description: * An ovoid densely packed collection of small cells of the anterior hypothalamus lying close to the midline in a shallow impression of the optic chiasm. (MSH) * small group of nerve cell bodies in the supraoptic region of the hypothalamus, just above the optic chiasm; influences rhythmic aspects of hypothalamic functions in many vertebrate species. (CSP)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111341
@@ -13306,8 +13306,8 @@ suprachiasmaticNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus dorsomedial part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111342
@@ -13324,8 +13324,8 @@ suprachiasmaticNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus ventrolateral part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111345
@@ -13342,8 +13342,8 @@ suprageniculateNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprageniculateNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/suprageniculateNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Suprageniculate nucleus of thalamus' is a nucleus of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111347
@@ -13360,8 +13360,8 @@ supramammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supramammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Supramammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111351
@@ -13378,8 +13378,8 @@ supramarginalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramarginalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supramarginalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Supramarginal gyrus' is a gyrus. It is part of the parietal lobe.
    :description: Component of the parietal lobe.  The first coronal slice between the superior temporal gyrus and the postcentral gyrus where the supramarginal gyrus appears was the rostral boundary whereas the slice where the supramarginal gyrus becomes continuous with the superior parietal gyrus was the caudal boundary. The medial and lateral boundaries were the lateral banks of the intraparietal sulcus and the medial banks of the lateral fissure and/or the superior temporal gyrus respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111355
@@ -13396,8 +13396,8 @@ supraopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supraopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Supraoptic nucleus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and anterior hypothalamic region.
    :description: Well defined nucleus containing large cells in the anterior hypothalamus located above the beginning of the optic tract on both sides of the brain.  At its most anterior end, it is situated above and lateral to the optic chiasm.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111356
@@ -13414,8 +13414,8 @@ supraspinalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supraspinalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Supraspinal nucleus' is a nucleus of medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111360
@@ -13432,8 +13432,8 @@ taeniaTectumOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/taeniaTectumOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/taeniaTectumOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Taenia tectum of brain' is a white matter of limbic lobe and stria of telencephalon. It is part of the olfactory bulb and supracallosal gyrus.
    :description: A continuation ventrally of the supracallosal gyrus beyond the rostrum of the corpus callosum. It is demonstrated histologically by Nissl stain. In the human ( Anthoney-1994 ) and the macaque ( Paxinos-2004 ) it lies on the rostral surface of the lamina terminalis and is considered identical to or part of the paraterminal gyrus. In the rat ( Swanson-1998 ) and the mouse ( Paxinos-2001 ) it is located similarly in relation to the supracallosal gyrus, however, it is a more prominent layered structure that extends rostrally on the medial surface overlying the anterior olfactory nucleus. It is considered part of the olfactory areas (rodent) of the cerebral cortex. In rodents it consists of two parts, the dorsal tenia tecta and the ventral tenia tecta. Note that some authors use the term 'tenia tecta' or 'taenia tecta' as a synonym for the lateral longitudinal stria ( Riley-1943 ).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111490
@@ -13450,8 +13450,8 @@ tailOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tailOfCaudateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tail of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
    :description: Narrowest part of the caudate nucleus, roughly defined as that portion that curves ventrally from the body of the caudate nucleus, following the temporal horn of the lateral ventricle
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111511
@@ -13468,8 +13468,8 @@ tectobulbarTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tectobulbarTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tectobulbar tract' is a tract of brain. It is part of the medulla oblongata.
    :description: A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the optic tectum towards target cells in the premotor reticulospinal system in the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111548
@@ -13486,8 +13486,8 @@ tectopontineTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tectopontineTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tectopontine tract' is a tract of brain. It is part of the pontine tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111549
@@ -13504,8 +13504,8 @@ telaChoroideaOfFourthVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfFourthVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/telaChoroideaOfFourthVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tela choroidea of fourth ventricle' is a tela choroidea. It is part of the fourth ventricle.
    :description: Tela chorioidea that lines the fourth ventricle[ZFA]. The tela chorioidea of the fourth ventricle is the name applied to the triangular fold of pia mater which is carried upward between the cerebellum and the medulla oblongata. It consists of two layers, which are continuous with each other in front, and are more or less adherent throughout:  The posterior layer covers the antero-inferior surface of the cerebellum. The anterior layer is applied to the structures which form the lower part of the roof of the ventricle, and is continuous inferiorly with the pia mater on the inferior peduncles and closed part of the medulla[WP].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727490
@@ -13522,8 +13522,8 @@ telencephalicVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/telencephalicVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Telencephalic ventricle' is a brain ventricle. It is part of the telencephalon.
    :description: Part of the ventricular system of the brain in each of the cerebral hemispheres. The lateral ventricle in each hemisphere is separated from the other by the septum and each communicates with the THIRD VENTRICLE by the foramen of Monro, In species, particularly those with well developed cortex, the lateral ventrical may be subdivided into anterior, posterior and temporal horns and a body
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106125
@@ -13540,8 +13540,8 @@ telencephalon
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/telencephalon
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Telencephalon' is a regional part of brain. It is part of the forebrain.
    :description: The telencephalon is the name for a large region within the brain that is attributed many functions. Many people refer to it as the cerebrum; however, it is technically referred to as the telencephalon. As a more technical definition, the telencephalon refers to the cerebral hemispheres and other, smaller structures within the brain, although the telencephalon is one of the larger divisions (in terms of number). It is the anterior-most embryological division of the brain that develops from the prosencephalon. The telencephalon is composed of the following sub-regions; Limbic system; Cerebral cortex or cortices of the cerebral hemispheres, Basal ganglia, Olfactory bulb.  The telencephalon comprises what most people think of as the "brain." It lies on top of the brainstem and is the largest and most well-developed of the five major divisions of the brain. The telencephalon is the newest structure in the phylogenetic sense, with mammals having the largest and most well-developed among all species. It emerges from the prosencephalon, the first of three vesicles that form from the embryonic neural tube (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111558
@@ -13558,8 +13558,8 @@ temporalCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporalCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Temporal cortex' is a cortex of cerebral lobe. It is part of the temporal lobe.
    :description: Gray matter of the temporal region of the neocortex, located in the temporal lobe in gyrencephalic animals
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111586
@@ -13576,8 +13576,8 @@ temporalCortexCingulum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporalCortexCingulum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The 'temporal cortex cingulum' is a white matter fibre bundle. It is part of cingulum of brain.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727013
@@ -13594,8 +13594,8 @@ temporalLobe
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporalLobe
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: Lower lateral part of the cerebral hemisphere. (MSH).
    :description: 'Temporal lobe' is a lobe of cerebral hemisphere.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111590
@@ -13612,8 +13612,8 @@ temporalOperculum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalOperculum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporalOperculum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Temporal operculum' is a regional part of brain. It is part of the operculum of brain.
    :description: Part of temporal lobe overlaying the insular cortex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111592
@@ -13630,8 +13630,8 @@ temporalPole
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalPole
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporalPole
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Temporal pole' is a pole of cerebral hemisphere. It is part of the temporal lobe.
    :description: Anterior component of the temporal lobe (rostral boundary) extends caudally to the entorhinal cortex.  The medial and lateral boundaries are the medial aspect of the temporal lobe and the superior or inferior temporal sulci, respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111595
@@ -13648,8 +13648,8 @@ temporoparietalJunction
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/temporoparietalJunction
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Temporoparietal junction' is a regional part of brain. It is part of the cerebral cortex.
    :description: An area of the brain that locates at the interception of temporal and parietal cortices (at the posterior end of the Sylvian fissure).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111603
@@ -13666,8 +13666,8 @@ thalamicComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thalamicComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'thalamic complex' is a nuclear complex. It is part of the 'gray matter of diencephalon'.
    :description: A nuclear complex which in mammals consists of four parts, the hypothalamus, epithalamus, ventral thalamus, and dorsal thalamus [WP,modified]. [http://en.wikipedia.org/wiki/Thalamus#Thalamic_nuclei]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734352
@@ -13684,8 +13684,8 @@ thalamicFiberTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thalamicFiberTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Thalamic fiber tract' is a tract of diencephalon. It is part of the dorsal plus ventral thalamus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730765
    :name: thalamic fiber tract
@@ -13700,8 +13700,8 @@ thalamicReticularNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicReticularNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thalamicReticularNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: The thalamic reticular nucleus is part of the ventral thalamus that forms a capsule around the thalamus laterally. It is separated from the thalamus by the external medullary lamina. Reticular cells are GABAergic, and have discoid dendritic arbors in the plane of the nucleus. Thalamic Reticular Nucleus is variously abbreviated TRN, RTN, NRT, and RT. [WP,unvetted].
    :description: 'Thalamic reticular nucleus' is a nucleus of ventral thalamus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111656
@@ -13718,8 +13718,8 @@ thirdVentricle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdVentricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Third ventricle' is a brain ventricle. It is part of the diencephalon.
    :description: Part of the ventricular system of the brain, forming a single large cavity in the midline of the diencephalon;  it is continuous with the lateral ventricles through the interventricular foramen and the fourth ventricle through the cerebral aqueduct. (Maryann Martone.  It is bounded anteriorly by the lamina terminalis;  much of the medial surface is formed by the thalamus and hypothalamus;  part of the hypothalamus forms its floor (Nolte, the Human Brain, 6th ed., 2009, pg 101).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111707
@@ -13736,8 +13736,8 @@ tractOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tractOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tract of brain' is an axon tract. It is part of the brain and white matter.
    :description: An axon tract that is part of a brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736079
@@ -13754,8 +13754,8 @@ transverseFrontopolarGyriComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseFrontopolarGyriComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/transverseFrontopolarGyriComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Transverse frontopolar gyri complex' is a regional part of brain. It is part of the frontal lobe.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111902
@@ -13772,8 +13772,8 @@ transverseGyrusOfHeschl
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseGyrusOfHeschl
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/transverseGyrusOfHeschl
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Transverse gyrus of Heschl' is a gyrus. It is part of the auditory cortex.
    :description: Component of the temporal lobe, lateral aspect.  The rostral boundary is the first appearance of the transverse temporal sulcus whereas the caudal boundary is the last slice where the transverse temporal cortex could be identified before its merger into the insular cortex. The lateral fissure and the superior temporal gyrus are the medial and lateral boundaries respectively (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111910
@@ -13790,8 +13790,8 @@ transversePontineFibers
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/transversePontineFibers
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Transverse pontine fibers' is a tract of brain. It is part of the basal part of pons.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111909
@@ -13808,8 +13808,8 @@ trapezoidBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trapezoidBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Trapezoid body' is a white matter of pontine tegmentum.
    :description: Bundles of axons traversing the pontine tegmentum oriented in the mediolateral direction. These fibers are related to the auditory pathway.  Nuclei are embedded within these fibers.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111914
@@ -13826,8 +13826,8 @@ triangularPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Triangular part of inferior frontal gyrus' is part of the inferior frontal gyrus.
    :description: Component of the inferior frontal gyrus.defined as the second gyrus from the precentral gyrus (Christine Fennema-Notestine).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111954
@@ -13844,8 +13844,8 @@ triangularSeptalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/triangularSeptalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Triangular septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111955
@@ -13862,8 +13862,8 @@ trigeminalNerveFibers
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveFibers
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A nerve fiber that is part of a trigeminal nerve.
    :description: 'Trigeminal nerve fibers' is a nerve fiber. It is part of the trigeminal nerve.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111965
@@ -13880,8 +13880,8 @@ trigeminalNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Trigeminal nerve root' is a root of cranial nerve. It is part of the metencephalon.
    :description: A nerve root that extends_fibers_into a trigeminal nerve.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111966
@@ -13898,8 +13898,8 @@ trochlearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trochlearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Trochlear nucleus' is a cranial nerve nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description: Nucleus in the midbrain at the level of the inferior colliculus near the midline, containing the motor neurons giving rise to the trochlear nerve, innervating the contralateral superior oblique extraocular muscle of the eye (Brodal, Neurological Anatomy, 3rd ed, 1981, pg. 533).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112004
@@ -13916,8 +13916,8 @@ tuberCinereum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tuberCinereum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
    :description: Layer of gray matter in the hypothalamus that also forms part of the floor of the third ventricle and merges anteriorly into the infundibulum. (MSH)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112046
@@ -13934,8 +13934,8 @@ tuberalSupraopticNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tuberalSupraopticNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tuberal supraoptic nucleus' is a hypothalamic nucleus. It is part of the supraoptic nucleus.
    :description: Posterior division of the supraoptic nucleus, formed by the ascension of the optic tract splitting the nucleus into two regions.  The tuberal SON lies along the posterior tuber cinereum of the hypothalamus.  In some species, some neurons lie under the optic chiasm.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112049
@@ -13952,8 +13952,8 @@ tuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tuberomammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body and lateral hypothalamic area.
    :description: The tuberomammillary nucleus is a subnucleus of the posterior third of the hypothalamus. It consists of, largely, histaminergic and is involved with the control of arousal, sleep and circadian rhythm. Axons of the tuberomammillary nucleus project primarily to the cerebral cortex, thalamus, basal ganglia, basal forebrain, and hypothalamus. The projections to the cerebral cortex directly increase cortical activation and arousal, and projections to acetylcholinergic neurons of the basal forebrain and dorsal pons do so indirectly, by increasing the release of acetylcholine in the cerebral cortex. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112051
@@ -13970,8 +13970,8 @@ tuberomammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tuberomammillary nucleus dorsal part' is a regional part of brain. It is part of the tuberomammillary nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112052
@@ -13988,8 +13988,8 @@ tuberomammillaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Tuberomammillary nucleus ventral part' is a regional part of brain. It is part of the tuberomammillary nucleus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112057
@@ -14006,8 +14006,8 @@ uncinateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncinateFasciculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Uncinate fasciculus' is a fasciculus of brain. It is part of the pontine tegmentum.
    :description: Pathway arising from the fastigial nucleus to the vestibular nuclei, reticular formation, motor neurons of brainstem and cervical spinal cord (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 261).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112157
@@ -14024,8 +14024,8 @@ uncinateFasciculusOfTheForebrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Uncinate fasciculus of the forebrain' is a regional part of brain. It is part of the white matter of telencephalon.
    :description: A fiber pathway in the cerebral white matter that connects anterior portions of the temporal lobe with the inferior frontal gyrus and the middle frontal gyrus. It is not readily distinguished in myelin-stained cross-sections (adapted from Brain Info).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112158
@@ -14042,8 +14042,8 @@ upperRhombicLip
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/upperRhombicLip
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Upper rhombic lip' is a regional part of brain. It is part of the rhombomere 1 and rhombic lip.
    :description: Anterior-most region of dorsal hindbrain within rhombomere 1, adjacent the midbrain-hindbrain boundary.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732955
@@ -14060,8 +14060,8 @@ vagalNerveFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalNerveFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalNerveFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vagal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112236
@@ -14078,8 +14078,8 @@ valvulaCerebelli
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/valvulaCerebelli
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Valvula cerebelli' is a regional part of brain. It is part of the cerebellum.
    :description: Brain structure which is caudally attached to the rostral medulla oblongata and extends into the tectal ventricle. The valvula cerebelli consists of a granular and a molecular layer along with aggregations of large Purkinje and eurydendroid cells and is uniquely present in ray-finned fishes. From Neuroanatomy of the Zebrafish Brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730935
@@ -14096,8 +14096,8 @@ vasculatureOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vasculatureOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.
    :description: System pertaining to blood vessels in the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735625
@@ -14114,8 +14114,8 @@ venousSystemOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/venousSystemOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Venous system of brain' is part of the brain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733246
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
@@ -14131,8 +14131,8 @@ ventralAcousticStria
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralAcousticStria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
    :description: White matter structure containing fibers arising from neurons in the cochlear nuclear complex
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112282
@@ -14149,8 +14149,8 @@ ventralAmygdalofugalProjection
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAmygdalofugalProjection
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralAmygdalofugalProjection
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral amygdalofugal projection' is a tract of brain. It is part of the cerebral hemisphere white matter.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112283
@@ -14167,8 +14167,8 @@ ventralAnteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral anterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
    :description: The ventral anterior nucleus is a nucleus of the thalamus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112284
@@ -14185,8 +14185,8 @@ ventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCochlearNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralCochlearNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral cochlear nucleus' is a cochlear nucleus.
    :description: The ventral cochlear nucleus (or anterior, or accessory), placed between the two divisions of the cochlear nerve, is on the ventral aspect of the inferior peduncle. Composed of several regions of distinct cell types, this nucleus serves primarily as a relay station for ascending auditory information. Bushy cells in the anterior ventral cochlear nucleus (AVCN), which receive end bulbs of held from auditory nerve fibers, project to the superior olivary complex through the trapezoid body and intermediate acoustic stria. Other cell types project to the lateral lemniscus and the inferior colliculus directly. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112297
@@ -14203,8 +14203,8 @@ ventralExternalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralExternalArcuateFiberBundle
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralExternalArcuateFiberBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112301
@@ -14221,8 +14221,8 @@ ventralLateralGeniculateNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralLateralGeniculateNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral lateral geniculate nucleus' is a nucleus of dorsal thalamus. It is part of the lateral geniculate body.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112321
@@ -14239,8 +14239,8 @@ ventralLateralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralLateralNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral lateral nucleus of thalamus' is a nucleus of dorsal thalamus and nucleus of ventral thalamus. It is part of the ventral nuclear group.
    :description: The ventral lateral nucleus (VL) is a nucleus of the thalamus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112309
@@ -14257,8 +14257,8 @@ ventralNuclearGroup
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNuclearGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral nuclear group' is a nucleus of dorsal thalamus.
    :description: Mostly gray regional part of the lateral thalamic region, consisting of a large group of nuclei lying between the internal medullary lamina and the internal capsule. It includes the ventral anterior, ventral lateral, and ventral posterior nuclei (MM: 2006-10-26)
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112319
@@ -14275,8 +14275,8 @@ ventralNucleusOfLateralLemniscus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral nucleus of lateral lemniscus' is a brainstem nucleus, nucleus of lateral lemniscus and hindbrain nucleus. It is part of the pontine tegmentum.
    :description: The lateral lemniscus is a tract of axons in the brainstem that carries information about sound from the cochlear nucleus to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. Three distinct, primarily inhibitory, cellular groups are located interspersed within these fibers, and are thus named the nuclei of the lateral lemniscus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112322
@@ -14293,8 +14293,8 @@ ventralNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
    :description: Ventral division of medial geniculate body, first described by Morest (1964) in the cat, but found in primate, mouse and rat as well. It begins midway in the posterior third of the medial geniculate in the cat and is prominent anteriorly. The boundary between the dorsal and ventral divisions is demarcated in rat by a thick horizontally oriented axon bundle, the midgeniculate bundle (Webster, 1995, fig 16).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112323
@@ -14311,8 +14311,8 @@ ventralNucleusOfPosteriorCommissure
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107753
@@ -14329,8 +14329,8 @@ ventralNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the periolivary nucleus.
    :description: A small nucleus of the periolivary complex located laterally to the MNTB, and ventral to the MSO.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112324
@@ -14347,8 +14347,8 @@ ventralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralOculomotorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112325
@@ -14365,8 +14365,8 @@ ventralPallidum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralPallidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A composite structure primarily of forebrain with arguable extension into the midbrain. It is part of the striatopallidal system, which is defined on the basis of neurochemistry and connectivity. It includes the portions of the globus pallidus and the substantia innominata located ventral to the anterior commissure; it extends into the anterior perforated substance and, in some respects, pars reticulata of the substantia nigra. Its boundary with the dorsal pallidum is indistinct in sections stained for Nissl substance (Heimer-95)
    :description: 'Ventral pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus and basal forebrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112326
@@ -14383,8 +14383,8 @@ ventralPosteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
    :description: Part of thalamus receiving primary somatic sensory information via the medial lemniscal pathway that projects to the primary somatosensory cortex (adapted from Paxinos, The Rat Nervous System, 2nd Ed, Academic Press, 1995).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112334
@@ -14401,8 +14401,8 @@ ventralPosteroinferiorNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralPosteroinferiorNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral posteroinferior nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112335
@@ -14419,8 +14419,8 @@ ventralPosterolateralNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosterolateralNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralPosterolateralNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral posterolateral nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :description: The ventral posterolateral nucleus (VPL) is a nucleus of the thalamus. Together with the ventral posteromedial nucleus (VPM) it constitutes the ventral posterior nucleus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112336
@@ -14437,8 +14437,8 @@ ventralPosteromedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral posteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
    :description: The ventral posteromedial nucleus is a nucleus of the thalamus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112339
@@ -14455,8 +14455,8 @@ ventralStriatum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralStriatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral striatum' is a gray matter of telencephalon. It is part of the striatum.
    :description: A composite structure of the telencephalon that is defined in the striatopallidal system by connectivity and neurochemical staining. It includes the nucleus accumbens, the most ventral portions of the caudate nucleus and the putamen, the rostrolateral portion of the anterior perforated substance, the islands of Calleja and a rostral subcommissural portion of substantia innominata. The boundary between the ventral striatum and dorsal striatum is indistinct in sections stained for Nissl substance (Heimer-1995;  adapted from Brain Info).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112346
@@ -14473,8 +14473,8 @@ ventralTegmentalArea
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralTegmentalArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral tegmental area' is a regional part of brain. It is part of the midbrain tegmentum.
    :description: Unpaired midbrain region situated in the ventromedial portion of the reticular formation. The VTA is medial to the substantia nigra and ventral to the red nucleus, and extends caudally from the posterior hypothalamus in the diencephalon. The VTA contains dopamine neurons that project to various limbic and cortical areas and is a critical component of the brain's reward circuitry.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112351
@@ -14491,8 +14491,8 @@ ventralTegmentalDecussation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralTegmentalDecussation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral tegmental decussation' is a neural decussation. It is part of the ventral tegmental area.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112354
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002615#ventral-tegmental-decussation-1
@@ -14508,8 +14508,8 @@ ventralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalNucleus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralTegmentalNucleus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A nucleus of brain that is part of a ventral tegmental area.
    :description: 'Ventral tegmental nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112355
@@ -14526,8 +14526,8 @@ ventralThalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral thalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
    :description: Anterior part of the diencephalon that lies between the dorsal thalamus, hypothalamus, and tegmentum of the mesencephalon, including subthalamic nucleus, zona incerta, the fields of Forel, and the nucleus of ansa lenticularis[GO, modified].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111230
@@ -14544,8 +14544,8 @@ ventralTrigeminalTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralTrigeminalTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventral trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
    :description: The Anterior trigeminothalamic tract (or ventral trigeminothalamic tract) serves as pain, temperature, and light touch pathway from the face, head and neck. It receives input from trigeminal nerve, facial nerve, glossopharyngeal nerve and vagus nerve. It receives discriminative tactile and pressure input from the contralateral principal sensory nucleus of CN V, which terminates in the ventral posteromedial nucleus of the thalamus. It then ascends to the contralateral sensory cortex via three neurons .
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112361
@@ -14562,8 +14562,8 @@ ventricularSystemOfBrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventricularSystemOfBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventricular system of brain' is an anatomical system. It is part of the brain and ventricular system of central nervous system.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731568
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005282#ventricular-system-of-brain
@@ -14579,8 +14579,8 @@ ventricularZone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularZone
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventricularZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventricular zone' is an anatomical entity. It is part of the brain and ventricular system of central nervous system.
    :description: Proliferative region that is part of the ventricular system.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729517
@@ -14597,8 +14597,8 @@ ventromedialNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Ventromedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
    :description: The ventromedial nucleus (sometimes referred to as the ventromedial hypothalamus) is a nucleus of the hypothalamus. [WP,unvetted].
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112378
@@ -14615,8 +14615,8 @@ vermisOfTheFlocculonodularLobeOfTheCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vermis of the flocculonodular lobe of the cerebellum' is a cerebellar vermis.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112409
@@ -14633,8 +14633,8 @@ verticalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vertical limb of the diagonal band' is a subdivision of diagonal band.
    :description:
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112424
@@ -14651,8 +14651,8 @@ vessel
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vessel
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vessel
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'vessel' is an anatomical conduit.
    :description: A tubular structure that contains, conveys body fluid, such as blood or lymph.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731576
@@ -14669,8 +14669,8 @@ vestibularNuclearComplex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibularNuclearComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vestibular nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata.
    :description: Nuclear complex containing the vestibular nuclei.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112452
@@ -14687,8 +14687,8 @@ vestibulocerebellarTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellarTract
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocerebellarTract
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vestibulocerebellar tract' is a tract of brain. It is part of the pontine tegmentum.
    :description: White matter tract containing axons arising in the vestibular ganglion primarily projecting to the ipsilateral cerebellum via the inferior cerebellar peduncle (Heimer, L. The Human Brain, 2nd ed., 1995, pg 370).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112459
@@ -14705,8 +14705,8 @@ vestibulocerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vestibulocerebellum' is a regional part of brain. It is part of the cerebellum.
    :description: A phylogenetic subdivision of the cerebellum, the oldest part, which regulates balance and eye movements. It receives vestibular input from both the semicircular canals and from the vestibular nuclei, and sends fibres back to the medial and lateral vestibular nuclei. It also receives visual input from the superior colliculi and from the visual cortex (the latter via the pontine nuclei, forming a cortico-ponto-cerebellar pathway). Lesions of the vestibulocerebellum cause disturbances of balance and gait.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725946
@@ -14723,8 +14723,8 @@ vestibulocochlearNerveRoot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocochlearNerveRoot
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Vestibulocochlear nerve root' is a root of cranial nerve. It is part of the pontine tegmentum.
    :description: Either of the two roots that come of the vestibulocochlear nerve
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112460
@@ -14741,8 +14741,8 @@ whiteMatterLaminaOfCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'White matter lamina of cerebellum' is a white matter lamina of neuraxis. It is part of the cerebellum.
    :description: The white laminae of cerebellum is subdivision of the cerebellar cortex comprised of myelinated axons lying deep to the granule cell layer of the cerebellar cortex.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112629
@@ -14759,8 +14759,8 @@ whiteMatterOfCerebellum
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfCerebellum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'white matter of cerebellum' is a regional part of the cerebellum. It is a part of the overall brain white matter.
    :description: Regional part of cerebellum consisting of the myelinated axons lying deep to the granule cell layer, excluding the deep cerebellar nuclei and the cerebellar peduncles. [BIRNLEX:1562]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101962
@@ -14776,8 +14776,8 @@ whiteMatterOfHindbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfHindbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'White matter of hindbrain' is a brain white matter. It is part of the hindbrain.
    :description: A white matter that is part of the hindbrain.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733772
@@ -14794,8 +14794,8 @@ whiteMatterOfMedullaOblongata
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMedullaOblongata
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfMedullaOblongata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: A white matter that is part of a medulla oblongata.
    :description: 'White matter of medulla oblongata' is a brainstem white matter and white matter of myelencephalon. It is part of the medulla oblongata.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106748
@@ -14812,8 +14812,8 @@ whiteMatterOfTheCerebellarCortex
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'White matter of the cerebellar cortex' is a white matter of metencephalon. It is part of the cerebellar cortex.
    :description: White matter that lies deep to the granular cell layer of the cerebellar cortex.  It contains afferents to the cerebellar cortex and axons that run between the cerebellar cortex and the deep cerebellar nuclei.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112631
@@ -14830,8 +14830,8 @@ zonaIncerta
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/zonaIncerta
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/zonaIncerta
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
    :definition: 'Zona incerta' is a nucleus of ventral thalamus.
    :description: A large, horizontally elongated region of gray matter located in the subthalamus, wedged just below the ventral tier of the thalamus and the subthalamic nucleus.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112736

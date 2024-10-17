@@ -13,8 +13,8 @@ fsaverage_3
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_3
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_3
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :shortName: FsAverage Surface Space
@@ -30,8 +30,8 @@ fsaverage_4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_4
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_4
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :shortName: FsAverage Surface Space
@@ -47,8 +47,8 @@ fsaverage_5
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_5
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_5
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :shortName: FsAverage Surface Space
@@ -64,8 +64,8 @@ fsaverage_6
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_6
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_6
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :shortName: FsAverage Surface Space
@@ -81,8 +81,8 @@ fsaverage_7
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsaverage_7
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_7
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
    :fullName: FsAverage Surface Space
    :shortName: FsAverage Surface Space

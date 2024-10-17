@@ -13,8 +13,8 @@ acquisitionSystem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/setupType/acquisitionSystem
-   :@type: https://openminds.ebrains.eu/controlledTerms/SetupType
+   :@id: https://openminds.om-i.org/instances/setupType/acquisitionSystem
+   :@type: https://openminds.om-i.org/types/SetupType
    :definition: An 'acquisition system' is a setup type with the purpose of collecting data.
    :name: acquisition system
 
@@ -27,8 +27,8 @@ computingSystem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/setupType/computingSystem
-   :@type: https://openminds.ebrains.eu/controlledTerms/SetupType
+   :@id: https://openminds.om-i.org/instances/setupType/computingSystem
+   :@type: https://openminds.om-i.org/types/SetupType
    :definition: A 'computing system' is a setup type with the purpose of performing computations.
    :name: computing system
 
@@ -41,8 +41,8 @@ stimulationSystem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/setupType/stimulationSystem
-   :@type: https://openminds.ebrains.eu/controlledTerms/SetupType
+   :@id: https://openminds.om-i.org/instances/setupType/stimulationSystem
+   :@type: https://openminds.om-i.org/types/SetupType
    :definition: A 'stimulation system' is a setup type with the purpose of stimulating a specimen.
    :name: stimulation system
 

@@ -13,8 +13,8 @@ JBA_v3.0.1-BigBrain_Area-6d1_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d1_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d1_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-6d1_int
@@ -30,8 +30,8 @@ JBA_v3.0.1-BigBrain_Area-6d2_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d2_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d2_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-6d2_int
@@ -47,8 +47,8 @@ JBA_v3.0.1-BigBrain_Area-6d3_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d3_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6d3_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-6d3_int
@@ -64,8 +64,8 @@ JBA_v3.0.1-BigBrain_Area-6ma_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6ma_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-6ma_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_posteriorMedialSuperiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-posteriormedialsuperiorfrontalgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-6ma_int
@@ -81,8 +81,8 @@ JBA_v3.0.1-BigBrain_Area-MFG1_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-MFG1_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-MFG1_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-middlefrontalgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-MFG1_deep
@@ -98,8 +98,8 @@ JBA_v3.0.1-BigBrain_Area-MFG2_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-MFG2_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-MFG2_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_fronto-marginalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-fronto-marginalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-MFG2_deep
@@ -115,8 +115,8 @@ JBA_v3.0.1-BigBrain_Area-SFS1_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-SFS1_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-SFS1_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-SFS1_deep
@@ -132,8 +132,8 @@ JBA_v3.0.1-BigBrain_Area-SFS2_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-SFS2_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-SFS2_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-SFS2_deep
@@ -149,8 +149,8 @@ JBA_v3.0.1-BigBrain_Area-STS1_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-STS1_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-STS1_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-STS1_int
@@ -166,8 +166,8 @@ JBA_v3.0.1-BigBrain_Area-STS2_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-STS2_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-STS2_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-STS2_int
@@ -183,8 +183,8 @@ JBA_v3.0.1-BigBrain_Area-TE-1.0_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.0_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.0_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-TE-1.0_int
@@ -200,8 +200,8 @@ JBA_v3.0.1-BigBrain_Area-TE-1.1_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.1_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.1_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-TE-1.1_int
@@ -217,8 +217,8 @@ JBA_v3.0.1-BigBrain_Area-TE-1.2_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.2_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-1.2_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-TE-1.2_int
@@ -234,8 +234,8 @@ JBA_v3.0.1-BigBrain_Area-TE-3_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-3_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-TE-3_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-TE-3_int
@@ -251,8 +251,8 @@ JBA_v3.0.1-BigBrain_Area-hIP4_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP4_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP4_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hIP4_int
@@ -268,8 +268,8 @@ JBA_v3.0.1-BigBrain_Area-hIP5_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP5_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP5_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hIP5_int
@@ -285,8 +285,8 @@ JBA_v3.0.1-BigBrain_Area-hIP6_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP6_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP6_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hIP6_int
@@ -302,8 +302,8 @@ JBA_v3.0.1-BigBrain_Area-hIP7_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP7_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP7_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hIP7_int
@@ -319,8 +319,8 @@ JBA_v3.0.1-BigBrain_Area-hIP8_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP8_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hIP8_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hIP8_int
@@ -336,8 +336,8 @@ JBA_v3.0.1-BigBrain_Area-hOc1_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc1_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc1_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hOc1_deep
@@ -353,8 +353,8 @@ JBA_v3.0.1-BigBrain_Area-hOc2_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc2_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc2_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hOc2_deep
@@ -370,8 +370,8 @@ JBA_v3.0.1-BigBrain_Area-hOc3v_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc3v_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc3v_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hOc3v_deep
@@ -387,8 +387,8 @@ JBA_v3.0.1-BigBrain_Area-hOc5_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc5_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc5_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hOc5_deep
@@ -404,8 +404,8 @@ JBA_v3.0.1-BigBrain_Area-hOc6_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc6_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hOc6_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hOc6_int
@@ -421,8 +421,8 @@ JBA_v3.0.1-BigBrain_Area-hPO1_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hPO1_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Area-hPO1_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_parieto-occipitalSulcus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-parieto-occipitalsulcus>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Area-hPO1_int
@@ -438,8 +438,8 @@ JBA_v3.0.1-BigBrain_CGL.lam1_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam1_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam1_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam1_deep
@@ -455,8 +455,8 @@ JBA_v3.0.1-BigBrain_CGL.lam2_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam2_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam2_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam2_deep
@@ -472,8 +472,8 @@ JBA_v3.0.1-BigBrain_CGL.lam3_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam3_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam3_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam3_deep
@@ -489,8 +489,8 @@ JBA_v3.0.1-BigBrain_CGL.lam4_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam4_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam4_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam4_deep
@@ -506,8 +506,8 @@ JBA_v3.0.1-BigBrain_CGL.lam5_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam5_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam5_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam5_deep
@@ -523,8 +523,8 @@ JBA_v3.0.1-BigBrain_CGL.lam6_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam6_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGL.lam6_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGL.lam6_deep
@@ -540,8 +540,8 @@ JBA_v3.0.1-BigBrain_CGM.CGMd_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMd_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMd_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGM.CGMd_deep
@@ -557,8 +557,8 @@ JBA_v3.0.1-BigBrain_CGM.CGMm_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMm_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMm_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGM.CGMm_deep
@@ -574,8 +574,8 @@ JBA_v3.0.1-BigBrain_CGM.CGMv_deep
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMv_deep
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_CGM.CGMv_deep
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_CGM.CGMv_deep
@@ -591,8 +591,8 @@ JBA_v3.0.1-BigBrain_Entorhinal-Cortex_int
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Entorhinal-Cortex_int
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v3.0.1-BigBrain_Entorhinal-Cortex_int
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v3.0.1-BigBrain_Entorhinal-Cortex_int

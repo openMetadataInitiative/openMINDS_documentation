@@ -2,11 +2,9 @@
 Contribution
 ############
 
-:Semantic name: https://openminds.ebrains.eu/core/Contribution
+:Semantic name: core:Contribution
 
-:Display as: Contribution
-
-Structured information on the contribution made to a research product.
+:Display as: Core:contribution
 
 
 ------------
@@ -33,7 +31,7 @@ Legal person that gave or supplied something as a part or share.
 
    :semantic name: https://openminds.ebrains.eu/vocab/contributor
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all types of contribution made by the stated 'contributor'.
 
 `BACK TO TOP <Contribution_>`_
@@ -52,7 +50,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.ebrains.eu/vocab/type
    :value type: | linked object array \(1-N\) of type
-                | `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/contributionType.html>`_
+                | controlledTerms:ContributionType \[TYPE_ERROR\]
    :instructions: Add the party that performed the contribution.
 
 `BACK TO TOP <Contribution_>`_

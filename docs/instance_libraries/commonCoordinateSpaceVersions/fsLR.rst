@@ -13,8 +13,8 @@ fsLR_164k
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_164k
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_164k
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
    :shortName: fsLR Surface Space
@@ -30,8 +30,8 @@ fsLR_32k
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_32k
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
    :shortName: fsLR Surface Space

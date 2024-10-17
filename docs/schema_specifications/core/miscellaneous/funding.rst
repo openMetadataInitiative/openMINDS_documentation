@@ -2,11 +2,9 @@
 Funding
 #######
 
-:Semantic name: https://openminds.ebrains.eu/core/Funding
+:Semantic name: core:Funding
 
-:Display as: Funding
-
-Structured information on used funding.
+:Display as: Core:funding
 
 
 ------------
@@ -90,7 +88,7 @@ Legal person that provides money for a particular purpose.
 
    :semantic name: https://openminds.ebrains.eu/vocab/funder
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add the party that provided this funding.
 
 `BACK TO TOP <Funding_>`_

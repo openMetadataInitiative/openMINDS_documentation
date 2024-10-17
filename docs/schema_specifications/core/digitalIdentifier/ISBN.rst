@@ -2,11 +2,9 @@
 ISBN
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/ISBN
+:Semantic name: core:ISBN
 
-:Display as: Isbn
-
-An International Standard Book Number of the International ISBN Agency.
+:Display as: Core:isbn
 
 
 ------------

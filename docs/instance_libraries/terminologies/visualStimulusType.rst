@@ -13,8 +13,8 @@ movingCheckerboard
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/movingCheckerboard
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: moving checkerboard
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -26,8 +26,8 @@ movingGrating
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/movingGrating
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: moving grating
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -39,8 +39,8 @@ movingSymbol
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/movingSymbol
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: moving symbol
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -52,8 +52,8 @@ naturalMovie
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/naturalMovie
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: natural movie
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -65,8 +65,8 @@ naturalScene
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/naturalScene
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: natural scene
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -78,8 +78,8 @@ staticCheckerboard
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/staticCheckerboard
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: static checkerboard
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -91,8 +91,8 @@ staticGrating
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/staticGrating
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: static grating
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_
@@ -104,8 +104,8 @@ staticSymbol
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
-   :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
+   :@id: https://openminds.om-i.org/instances/visualStimulusType/staticSymbol
+   :@type: https://openminds.om-i.org/types/VisualStimulusType
    :name: static symbol
 
 `BACK TO TOP <Terminologies: VisualStimulusType library_>`_

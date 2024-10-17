@@ -2,11 +2,9 @@
 DOI
 ###
 
-:Semantic name: https://openminds.ebrains.eu/core/DOI
+:Semantic name: core:DOI
 
-:Display as: Doi
-
-Structured information about a digital object identifier, as standardized by the International Organization for Standardization.
+:Display as: Core:doi
 
 
 ------------

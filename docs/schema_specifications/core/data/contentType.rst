@@ -2,11 +2,9 @@
 ContentType
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/ContentType
+:Semantic name: core:ContentType
 
-:Display as: Content type
-
-Structured information on the content type of a file instance, bundle or repository.
+:Display as: Core:content type
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html>`_.
@@ -33,7 +31,7 @@ dataType
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
+                | controlledTerms:DataType \[TYPE_ERROR\]
    :instructions: Add all data types that may be represented via this content type.
 
 `BACK TO TOP <ContentType_>`_

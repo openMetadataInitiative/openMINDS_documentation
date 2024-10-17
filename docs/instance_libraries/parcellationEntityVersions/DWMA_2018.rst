@@ -13,8 +13,8 @@ DWMA_2018_anteriorSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_anteriorSegementOfArcuateFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_anteriorSegementOfArcuateFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_arcuateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-arcuatefasciculus>`_
    :lookupLabel: DWMA_2018_anteriorSegementOfArcuateFasciculus
@@ -30,8 +30,8 @@ DWMA_2018_corticospinalTract
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_corticospinalTract
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_corticospinalTract
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_2018_corticospinalTract
@@ -47,8 +47,8 @@ DWMA_2018_directSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_directSegementOfArcuateFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_directSegementOfArcuateFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_arcuateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-arcuatefasciculus>`_
    :lookupLabel: DWMA_2018_directSegementOfArcuateFasciculus
@@ -64,8 +64,8 @@ DWMA_2018_fornix
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_fornix
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_fornix
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_2018_fornix
@@ -81,8 +81,8 @@ DWMA_2018_inferiorFronto-occipitalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_inferiorFronto-occipitalFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_inferiorFronto-occipitalFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_2018_inferiorFronto-occipitalFasciculus
@@ -98,8 +98,8 @@ DWMA_2018_inferiorLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_inferiorLongitudinalFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_inferiorLongitudinalFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_2018_inferiorLongitudinalFasciculus
@@ -115,8 +115,8 @@ DWMA_2018_longCingulateFibres
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_longCingulateFibres
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_longCingulateFibres
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_cingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-cingulum>`_
    :lookupLabel: DWMA_2018_longCingulateFibres
@@ -132,8 +132,8 @@ DWMA_2018_posteriorSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_posteriorSegementOfArcuateFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_posteriorSegementOfArcuateFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_arcuateFasciculus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-arcuatefasciculus>`_
    :lookupLabel: DWMA_2018_posteriorSegementOfArcuateFasciculus
@@ -149,8 +149,8 @@ DWMA_2018_shortCingulateFibres
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_shortCingulateFibres
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_shortCingulateFibres
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_cingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-cingulum>`_
    :lookupLabel: DWMA_2018_shortCingulateFibres
@@ -166,8 +166,8 @@ DWMA_2018_temporalCingulateFibres
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_temporalCingulateFibres
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_temporalCingulateFibres
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_cingulum <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-cingulum>`_
    :lookupLabel: DWMA_2018_temporalCingulateFibres
@@ -183,8 +183,8 @@ DWMA_2018_uncinateFasciculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_uncinateFasciculus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/DWMA_2018_uncinateFasciculus
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
    :hasParent: `DWMA_deepWhiteMatter <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/DWMA.html#dwma-deepwhitematter>`_
    :lookupLabel: DWMA_2018_uncinateFasciculus

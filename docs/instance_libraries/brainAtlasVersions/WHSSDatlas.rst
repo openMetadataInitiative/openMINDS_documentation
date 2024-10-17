@@ -13,8 +13,8 @@ WHSSDatlas_v1.01
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v1.01
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v1.01
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v1.01.html>`_
@@ -35,8 +35,8 @@ WHSSDatlas_v2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v2
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v2
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v2.html>`_
@@ -57,8 +57,8 @@ WHSSDatlas_v3.01
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3.01
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3.01
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.01.html>`_
@@ -78,8 +78,8 @@ WHSSDatlas_v3
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v3
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v3.html>`_
@@ -100,8 +100,8 @@ WHSSDatlas_v4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/WHSSDatlas_v4
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v4
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
    :fullName: Waxholm Space Atlas of the Sprague Dawley Rat Brain
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/WHSSDatlas_v4.html>`_

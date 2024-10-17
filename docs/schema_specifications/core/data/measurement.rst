@@ -2,11 +2,9 @@
 Measurement
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/core/Measurement
+:Semantic name: core:Measurement
 
-:Display as: Measurement
-
-Structured information about a measurement performed during a scientific experiment.
+:Display as: Core:measurement
 
 
 ------------
@@ -50,7 +48,7 @@ measuredQuantity
 
    :semantic name: https://openminds.ebrains.eu/vocab/measuredQuantity
    :value type: | linked object of type
-                | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredQuantity.html>`_
+                | controlledTerms:MeasuredQuantity \[TYPE_ERROR\]
    :instructions: Add the quantity that was measured during this measurement.
 
 `BACK TO TOP <Measurement_>`_
@@ -103,7 +101,7 @@ Entry for a property.
 
    :semantic name: https://openminds.ebrains.eu/vocab/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
    :instructions: Enter all values that were measured at the same time and are of the same measured quantity.
 
 `BACK TO TOP <Measurement_>`_

@@ -13,8 +13,8 @@ active
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/active
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/active
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An in-progress action.
    :name: active
    :preferredOntologyIdentifier: https://schema.org/ActiveActionStatus
@@ -28,8 +28,8 @@ completed
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/completed
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/completed
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action that has already taken place with a successful outcome.
    :name: completed
    :preferredOntologyIdentifier: https://schema.org/CompletedActionStatus
@@ -43,8 +43,8 @@ failed
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/failed
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/failed
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action that failed to complete or completed but produced an error.
    :name: failed
    :preferredOntologyIdentifier: https://schema.org/FailedActionStatus
@@ -58,8 +58,8 @@ inactive
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/inactive
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/inactive
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A pending or suspended action.
    :name: inactive
 
@@ -72,8 +72,8 @@ paused
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/paused
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/paused
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A temporarily stopped action that can be resumed at a later point in time.
    :name: paused
 
@@ -86,8 +86,8 @@ pending
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/pending
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/pending
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action which is awaiting execution.
    :name: pending
 
@@ -100,8 +100,8 @@ potential
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/actionStatusType/potential
-   :@type: https://openminds.ebrains.eu/controlledTerms/ActionStatusType
+   :@id: https://openminds.om-i.org/instances/actionStatusType/potential
+   :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A description of an action that is supported.
    :name: potential
    :preferredOntologyIdentifier: https://schema.org/PotentialActionStatus

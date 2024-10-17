@@ -2,11 +2,9 @@
 PropertyValueList
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/PropertyValueList
+:Semantic name: core:PropertyValueList
 
-:Display as: Property value list
-
-An identifiable list of property-value pairs.
+:Display as: Core:property value list
 
 
 ------------
@@ -48,7 +46,7 @@ propertyValuePair
 
    :semantic name: https://openminds.ebrains.eu/vocab/propertyValuePair
    :value type: | embedded object array \(1-N\) of type
-                | `NumericalProperty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/numericalProperty.html>`_ or `StringProperty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/stringProperty.html>`_
+                | core:NumericalProperty \[TYPE_ERROR\] or core:StringProperty \[TYPE_ERROR\]
    :instructions: Enter all numerical and string property-value pairs that belong to this property-value list.
 
 `BACK TO TOP <PropertyValueList_>`_

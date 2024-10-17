@@ -99,7 +99,7 @@ metadataLocation
 
    :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
+                | core:File \[TYPE_ERROR\] or core:FileBundle \[TYPE_ERROR\]
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -133,7 +133,7 @@ usedSpecimen
 
    :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
+                | core:SubjectState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <ElectrodeUsage_>`_

@@ -2,11 +2,9 @@
 ContactInformation
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/core/ContactInformation
+:Semantic name: core:ContactInformation
 
-:Display as: Contact information
-
-Structured information about how to contact a given person or consortium.
+:Display as: Core:contact information
 
 
 ------------

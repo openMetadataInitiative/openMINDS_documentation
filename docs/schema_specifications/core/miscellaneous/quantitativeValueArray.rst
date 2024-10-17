@@ -2,11 +2,9 @@
 QuantitativeValueArray
 ######################
 
-:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueArray
+:Semantic name: core:QuantitativeValueArray
 
-:Display as: Quantitative value array
-
-A representation of an array of quantitative values, optionally with uncertainties.
+:Display as: Core:quantitative value array
 
 
 ------------
@@ -65,7 +63,7 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
    :value type: | linked object of type
-                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
+                | controlledTerms:TypeOfUncertainty \[TYPE_ERROR\]
    :instructions: Add the type of estimation for the uncertainties.
 
 `BACK TO TOP <QuantitativeValueArray_>`_
@@ -84,7 +82,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.ebrains.eu/vocab/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
    :instructions: Add the unit of measurement of the values and their uncertainties.
 
 `BACK TO TOP <QuantitativeValueArray_>`_

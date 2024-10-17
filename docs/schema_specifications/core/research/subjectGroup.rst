@@ -2,9 +2,9 @@
 SubjectGroup
 ############
 
-:Semantic name: https://openminds.ebrains.eu/core/SubjectGroup
+:Semantic name: core:SubjectGroup
 
-:Display as: Subject group
+:Display as: Core:subject group
 
 
 ------------
@@ -50,7 +50,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_
+                | controlledTerms:BiologicalSex \[TYPE_ERROR\]
    :instructions: Add the biological sex of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -121,7 +121,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.ebrains.eu/vocab/species
    :value type: | linked object array \(1-N\) of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/strain.html>`_
+                | controlledTerms:Species \[TYPE_ERROR\] or core:Strain \[TYPE_ERROR\]
    :instructions: Add the species and/or strain (a sub-type of a genetic variant of species) of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -140,7 +140,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.ebrains.eu/vocab/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroupState.html>`_
+                | core:SubjectGroupState \[TYPE_ERROR\]
    :instructions: Add all states in which this subject group was studied.
 
 `BACK TO TOP <SubjectGroup_>`_

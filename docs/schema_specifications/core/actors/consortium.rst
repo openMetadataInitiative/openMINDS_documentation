@@ -2,11 +2,9 @@
 Consortium
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/core/Consortium
+:Semantic name: core:Consortium
 
-:Display as: Consortium
-
-Structured information about an association of two or more persons or organizations, with the objective of participating in a common activity.
+:Display as: Core:consortium
 
 
 ------------
@@ -33,7 +31,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 
    :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html>`_
+                | core:ContactInformation \[TYPE_ERROR\]
    :instructions: Add the contact information of this consortium.
 
 `BACK TO TOP <Consortium_>`_

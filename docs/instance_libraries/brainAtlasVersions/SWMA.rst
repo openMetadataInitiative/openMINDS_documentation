@@ -13,8 +13,8 @@ SWMA_2018
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SWMA_2018
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/SWMA_2018
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: SWMA
    :fullName: Atlas of Superficial White Matter Fibre Bundles
    :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions/SWMA_2018.html>`_

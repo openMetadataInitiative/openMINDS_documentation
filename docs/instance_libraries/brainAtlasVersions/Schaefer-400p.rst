@@ -13,8 +13,8 @@ Schaefer-400p_2018-FSL-MNI152-kong17n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-kong17n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -31,8 +31,8 @@ Schaefer-400p_2018-FSL-MNI152-yeo17n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo17n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo17n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -49,8 +49,8 @@ Schaefer-400p_2018-FSL-MNI152-yeo7n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-FSL-MNI152-yeo7n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -67,8 +67,8 @@ Schaefer-400p_2018-fsLR32k-kong17n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-kong17n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -85,8 +85,8 @@ Schaefer-400p_2018-fsLR32k-yeo17n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo17n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET
@@ -103,8 +103,8 @@ Schaefer-400p_2018-fsLR32k-yeo7n
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/Schaefer-400p_2018-fsLR32k-yeo7n
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: Schaefer-400p
    :fullName: Schaefer Atlas with 400 Parcellation
    :hasTerminology: NOT DEFINED YET

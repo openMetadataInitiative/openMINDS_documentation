@@ -29,7 +29,7 @@ customPropertySet
 
    :semantic name: https://openminds.ebrains.eu/vocab/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/customPropertySet.html>`_
+                | core:CustomPropertySet \[TYPE_ERROR\]
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <ElectrodePlacement_>`_
@@ -122,7 +122,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object of type
-                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_
+                | core:DatasetVersion \[TYPE_ERROR\]
    :instructions: Add the dataset version in which this activity was conducted.
 
 `BACK TO TOP <ElectrodePlacement_>`_
@@ -175,7 +175,7 @@ performedBy
 
    :semantic name: https://openminds.ebrains.eu/vocab/performedBy
    :value type: | linked object array \(1-N\) of type
-                | computation:SoftwareAgent \[TYPE_ERROR\] or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | computation:SoftwareAgent \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <ElectrodePlacement_>`_
@@ -192,7 +192,7 @@ preparationDesign
 
    :semantic name: https://openminds.ebrains.eu/vocab/preparationDesign
    :value type: | linked object of type
-                | `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`_
+                | controlledTerms:PreparationType \[TYPE_ERROR\]
    :instructions: Add the initial preparation type for this activity.
 
 `BACK TO TOP <ElectrodePlacement_>`_
@@ -211,7 +211,7 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
    :semantic name: https://openminds.ebrains.eu/vocab/protocol
    :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocol.html>`_
+                | core:Protocol \[TYPE_ERROR\]
    :instructions: Add all protocols used during this activity.
 
 `BACK TO TOP <ElectrodePlacement_>`_

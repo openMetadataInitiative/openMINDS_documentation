@@ -2,11 +2,9 @@
 AccountInformation
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/core/AccountInformation
+:Semantic name: core:AccountInformation
 
-:Display as: Account information
-
-Structured information about a user account for a web service.
+:Display as: Core:account information
 
 
 ------------
@@ -31,7 +29,7 @@ service
 
    :semantic name: https://openminds.ebrains.eu/vocab/service
    :value type: | linked object of type
-                | `WebService <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webService.html>`_
+                | core:WebService \[TYPE_ERROR\]
    :instructions: Add the web service of this account.
 
 `BACK TO TOP <AccountInformation_>`_

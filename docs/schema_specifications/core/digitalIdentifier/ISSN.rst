@@ -2,11 +2,9 @@
 ISSN
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/ISSN
+:Semantic name: core:ISSN
 
-:Display as: Issn
-
-An International Standard Serial Number of the ISSN International Centre.
+:Display as: Core:issn
 
 
 ------------

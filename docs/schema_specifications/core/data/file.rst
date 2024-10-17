@@ -2,11 +2,9 @@
 File
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/File
+:Semantic name: core:File
 
-:Display as: File
-
-Structured information on a file instance that is accessible via a URL.
+:Display as: Core:file
 
 
 ------------
@@ -67,7 +65,7 @@ dataType
 
    :semantic name: https://openminds.ebrains.eu/vocab/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
+                | controlledTerms:DataType \[TYPE_ERROR\]
    :instructions: Add all data types that are specifically represented in this file instance.
 
 `BACK TO TOP <File_>`_
@@ -84,7 +82,7 @@ fileRepository
 
    :semantic name: https://openminds.ebrains.eu/vocab/fileRepository
    :value type: | linked object of type
-                | `FileRepository <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileRepository.html>`_
+                | core:FileRepository \[TYPE_ERROR\]
    :instructions: Add the overarching repository to which this file instance belongs.
 
 `BACK TO TOP <File_>`_
@@ -103,7 +101,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -122,7 +120,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
    :value type: | embedded object array \(1-N\) of type
-                | `Hash <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/hash.html>`_
+                | core:Hash \[TYPE_ERROR\]
    :instructions: Add all hashes that were generated for this file instance.
 
 `BACK TO TOP <File_>`_
@@ -141,7 +139,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
+                | core:FileBundle \[TYPE_ERROR\]
    :instructions: Add all file bundles in which this file instance is grouped into.
 
 `BACK TO TOP <File_>`_
@@ -179,7 +177,7 @@ Particular function of something when it is used.
 
    :semantic name: https://openminds.ebrains.eu/vocab/specialUsageRole
    :value type: | linked object of type
-                | `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`_
+                | controlledTerms:FileUsageRole \[TYPE_ERROR\]
    :instructions: Add the special usage role of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -198,7 +196,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.ebrains.eu/vocab/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | core:QuantitativeValue \[TYPE_ERROR\]
    :instructions: Enter the storage size of this file instance.
 
 `BACK TO TOP <File_>`_

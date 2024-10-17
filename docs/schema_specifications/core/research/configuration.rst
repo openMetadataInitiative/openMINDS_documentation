@@ -2,11 +2,9 @@
 Configuration
 #############
 
-:Semantic name: https://openminds.ebrains.eu/core/Configuration
+:Semantic name: core:Configuration
 
-:Display as: Configuration
-
-Structured information about the properties or parameters of an entity or process.
+:Display as: Core:configuration
 
 
 ------------
@@ -50,7 +48,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
+                | core:ContentType \[TYPE_ERROR\]
    :instructions: Add the content type of this configuration.
 
 `BACK TO TOP <Configuration_>`_
