@@ -9,6 +9,8 @@ FileBundleGrouping
 Structured information on the grouping mechanism of a file bundle.
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/fileBundleGrouping.html>`_.
+
 ------------
 
 ------------

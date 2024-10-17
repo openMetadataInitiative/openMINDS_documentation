@@ -243,7 +243,7 @@ stimulus
 
    :semantic name: https://openminds.ebrains.eu/vocab/stimulus
    :value type: | linked object array \(1-N\) of type
-                | undefined
+                | `EphysStimulus <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/stimulation/stimulus/ephysStimulus.html>`_
    :instructions: Add all stimuli used during this activity.
 
 `BACK TO TOP <StimulationActivity_>`_

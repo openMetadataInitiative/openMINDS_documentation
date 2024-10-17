@@ -9,6 +9,8 @@ AgeCategory
 Structured information on the life cycle (semantic term) of a specific age group.
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/ageCategory.html>`_.
+
 ------------
 
 ------------

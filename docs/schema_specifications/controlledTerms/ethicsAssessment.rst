@@ -9,6 +9,8 @@ EthicsAssessment
 Structured information on the ethics assessment of a dataset.
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/ethicsAssessment.html>`_.
+
 ------------
 
 ------------

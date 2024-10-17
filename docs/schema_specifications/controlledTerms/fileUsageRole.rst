@@ -9,6 +9,8 @@ FileUsageRole
 Structured information on the usage role of a file instance or bundle.
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/fileUsageRole.html>`_.
+
 ------------
 
 ------------

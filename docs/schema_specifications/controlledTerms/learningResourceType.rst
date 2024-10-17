@@ -7,6 +7,8 @@ LearningResourceType
 :Display as: Learning resource type
 
 
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/learningResourceType.html>`_.
+
 ------------
 
 ------------
