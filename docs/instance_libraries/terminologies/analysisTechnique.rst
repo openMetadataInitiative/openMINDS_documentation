@@ -50,6 +50,20 @@ ICABasedDenoisingTechnique
 
 ------------
 
+Isomap
+------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/Isomap
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: A manifold learning algorithm used for computing a quasi-isometric, low-dimensional embedding of a set of high-dimensional data points to perform a nonlinear dimensionality reduction. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isomap)]
+   :name: Isomap
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 MannWhitneyUTest
 ----------------
 
@@ -630,6 +644,20 @@ intraSubjectAnalysis
    :@id: https://openminds.om-i.org/instances/analysisTechnique/intraSubjectAnalysis
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :name: intra-subject analysis
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+isometricMapping
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/isometricMapping
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: A superclass of distance-preserving transformations between metric spaces, often used to reduce dimensionality of data by embedding one space into another. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Isometry)]
+   :name: isometric mapping
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
