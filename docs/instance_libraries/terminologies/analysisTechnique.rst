@@ -188,6 +188,20 @@ biasFieldCorrection
 
 ------------
 
+bootstrapAggregating
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/analysisTechnique/bootstrapAggregating
+   :@type: https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique
+   :definition: A specialized machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Bootstrap_aggregating)]
+   :name: bootstrap aggregating
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 bootstrapping
 -------------
 
