@@ -40,7 +40,7 @@ Properties
 
 In openMINDS, general information on properties (e.g., description) are considered schema and (mostly) version independent. We maintain these properties information centrally on the main openMINDS GitHub repository under: `vocab/properties.json <https://github.com/openMetadataInitiative/openMINDS/blob/main/vocab/properties.json>`_
 
-This file is a simple JSON, where each vocabulary implementation for a single property is structured in the following way:
+In this JSON file, each vocabulary implementation for a single property is structured in the following way:
 
 .. code-block:: json
 
