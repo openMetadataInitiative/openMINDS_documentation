@@ -38,7 +38,7 @@ In this JSON file, each vocabulary implementation for a single schema type is st
 Properties
 ##########
 
-In openMINDS, general information on properties (e.g., description) are considered schema and (mostly) version independent. We maintain these properties information centrally on the main openMINDS GitHub repository under: `vocab/properties.json <https://github.com/openMetadataInitiative/openMINDS/blob/main/vocab/properties.json>`_
+In openMINDS, general information on properties (e.g., description) are considered schema and (mostly) version independent. We maintain this information centrally on the main openMINDS GitHub repository under: `vocab/properties.json <https://github.com/openMetadataInitiative/openMINDS/blob/main/vocab/properties.json>`_
 
 In this JSON file, each vocabulary implementation for a single property is structured in the following way:
 
