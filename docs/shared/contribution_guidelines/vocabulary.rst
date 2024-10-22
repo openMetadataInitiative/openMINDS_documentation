@@ -10,7 +10,7 @@ For each contribution, please raise an `ISSUE <https://github.com/openMetadataIn
 Schema types
 ############
 
-In openMINDS, schema types are considered version independent, meaning the general information about a schema type remains the same across version (e.g. it's description). We maintain this schema type information centrally on the main openMINDS GitHub repository under: `vocab/types.json <https://github.com/openMetadataInitiative/openMINDS/blob/main/vocab/types.json>`_
+In openMINDS, schema types are considered version independent, meaning the general information about a schema type remains the same across versions (e.g. its description). We maintain this schema type information centrally on the main openMINDS GitHub repository under: `vocab/types.json <https://github.com/openMetadataInitiative/openMINDS/blob/main/vocab/types.json>`_
 
 This file is a simple JSON, where each vocabulary implementation for a single schema type is structured in the following way:
 
