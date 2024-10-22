@@ -14,6 +14,17 @@ Applying the openMINDS framework to your own data collection, requires you to de
 
    This project is under active development. As an open-source project community contributions are highly appreciated (cf. `contribution guidelines <shared/contribution_guidelines.html>`_). 
 
+How to cite and external records
+################################
+
+If you use openMINDS please use the following citation:  
+Full citation: ``Open Metadata Initiative (2020) openMINDS metadata framework (RRID:SCR_023173)``  
+Short citation: ``openMINDS (RRID:SCR_023173)``  
+
+The openMINDS metadata framework is registered with the following external records:  
+FAIRsharing.org: `https://doi.org/10.25504/FAIRsharing.6ac6aa <https://fairsharing.org/5137>`_   
+RRID Portal: `https://scicrunch.org/resolver/RRID:SCR_023173 <https://scicrunch.org/resolver/RRID:SCR_023173>`_   
+
 Funding and acknowledgements
 ############################
 
