@@ -8,6 +8,21 @@ Related schema specification: `ChemicalMixtureType <https://openminds-documentat
 
 ------------
 
+alloy
+-----
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/alloy
+   :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
+   :definition: A mixture of chemical elements of which at least one is a metal, the atoms are joined by metallic bonding and retains all properties of a metal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alloy)]
+   :name: alloy
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_142648
+
+`BACK TO TOP <Terminologies: ChemicalMixtureType library_>`_
+
+------------
+
 colloid
 -------
 

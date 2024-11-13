@@ -186,6 +186,23 @@ CA3StratumRadiatum
 
 ------------
 
+CA4FieldOfHippocampus
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA4FieldOfHippocampus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]
+   :description: The last of four regions in the cornu ammonis of the hippocampus and is also part of the hilus of the dentate gyrus. This area contains mostly mossy cells that receive inputs from the dentate gyrus and pyramidal cells in the CA3 region and also projects back to the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003884#ca4-field-of-hippocampus
+   :name: CA4 field of hippocampus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003884
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 abducensNucleus
 ---------------
 
@@ -559,6 +576,22 @@ anteriorCalcarineSulcus
 
 ------------
 
+anteriorCerebralVein
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001672)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001672#anterior-cerebral-vein
+   :name: anterior cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001672
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 anteriorCingulateCortex
 -----------------------
 
@@ -751,6 +784,23 @@ anteriorMedianOculomotorNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002701#anterior-median-oculomotor-nucleus-1
    :name: anterior median oculomotor nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002701
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorMesencephalicCentralArtery
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMesencephalicCentralArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]
+   :description: Arteries that irrigate rostral regions of the midbrain. They extend between the Basial communicating artery to the anterior cerebral vein. Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005052#anterior-mesencephalic-central-artery
+   :name: anterior mesencephalic central artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005052
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1078,6 +1128,23 @@ anteroventralPreopticNucleus
 
 ------------
 
+arachnoidBarrierLayer
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidBarrierLayer
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the endothelial blood brain barrier and the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]
+   :description: The arachnoid barrier layer is a part of the arachnoid meningeal layer. It is formed by tight junctions between the endothelial cells of cerebral capillaries in the arachnoid mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000437#arachnoid-barrier-layer
+   :name: arachnoid barrier layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000437
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 arcopallium
 -----------
 
@@ -1384,6 +1451,23 @@ basalPartOfPons
 
 ------------
 
+basalVein
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a deep cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]
+   :description: The basal vein is formed at the anterior perforated substance by the union of (a) a small anterior cerebral vein which accompanies the anterior cerebral artery and supplies the medial surface of the frontal lobe by the fronto-basal vein. (b) the deep middle cerebral vein (deep Sylvian vein), which receives tributaries from the insula and neighboring gyri, and runs in the lower part of the lateral cerebral fissure, and (c) the inferior striate veins, which leave the corpus striatum through the anterior perforated substance. The basal vein passes backward around the cerebral peduncle, and ends in the internal cerebral vein; it receives tributaries from the interpeduncular fossa, the inferior horn of the lateral ventricle, the hippocampal gyrus, and the mid-brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035530#basal-vein
+   :name: basal vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035530
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 basolateralAmygdaloidNuclearComplex
 -----------------------------------
 
@@ -1420,15 +1504,49 @@ bedNucleusOfStriaTerminalis
 
 ------------
 
+bloodBrainBarrier
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodBrainBarrier
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000120) ('is_a' and 'relationship')]
+   :description: Cell layer consisting of lining cells that separates the central nervous system and the bloodstream. The BBB may consist of endothelial cells or glial cells. An endothelial barrier may have arisen independently several times during evolution. In bichir and lungfish the barrier is formed by brain endothelial cells, while in sturgeon it is formed by a complex perivascular glial sheath, but with no detectable tight junctions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000120)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000120#blood-brain-barrier
+   :name: blood brain barrier
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000120
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+bloodNerveBarrier
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodNerveBarrier
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209) ('is_a' and 'relationship')]
+   :description: Barrier between the perineurium of peripheral nerves and the vascular endothelium of endoneurial capillaries. The perineurium acts as a diffusion barrier, but ion permeability at the blood-nerve barrier is still higher than at the blood-brain barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003209#blood-nerve-barrier
+   :name: blood nerve barrier
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003209
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 bloodcerebrospinalFluidBarrier
 ------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodcerebrospinalFluidBarrier
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodCerebrospinalFluidBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Blood-cerebrospinal fluid barrier' is part of the choroid plexus.
-   :description: Barrier in the choroid plexus located in the lateral, third, and fourth brain ventricles that controls the entrance of substances into the cerebrospinal fluid from the blood[MP].
+   :definition: Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003210)]
+   :description: Barrier in the choroid plexus located in the lateral, third, and fourth brain ventricles that controls the entrance of substances into the cerebrospinal fluid from the blood. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003210)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729920
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003210#blood-cerebrospinal-fluid-barrier
    :name: blood-cerebrospinal fluid barrier
@@ -1553,7 +1671,8 @@ brainBloodVessel
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain blood vessel' is part of the vasculature of brain.
+   :definition: Is part of the vasculature of brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
+   :description: A blood vessel that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726967
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
    :name: brain blood vessel
@@ -1972,6 +2091,23 @@ centralAmygdaloidNucleus
 
 ------------
 
+centralArtery
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]
+   :description: Arteries that irrigate the forebrain and midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005020#central-artery
+   :name: central artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005020
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 centralCervicalSpinocerebellarTract
 -----------------------------------
 
@@ -2242,6 +2378,23 @@ cephalopodOpticLobe
 
 ------------
 
+cerebellarCentralArtery
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCentralArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005021)]
+   :description: Extend upward from the PCS, branch to provide an arterial feed to the hindbrain, then drain back down into the PHBC Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005021)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005021#cerebellar-central-artery
+   :name: cerebellar central artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005021
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cerebellarCortex
 ----------------
 
@@ -2461,8 +2614,8 @@ cerebellumVasculature
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.
-   :description: A vasculature that is part of a cerebellum.
+   :definition: Is a vasculature of central nervous system. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694) ('is_a' and 'relationship')]
+   :description: A vasculature that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729550
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature
    :name: cerebellum vasculature
@@ -2564,8 +2717,8 @@ cerebralBloodVessel
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cerebral blood vessel' is a brain blood vessel. It is part of the cerebellum.
-   :description: A blood vessel that is part of a cerebellum.
+   :definition: Is a brain blood vessel. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565) ('is_a' and 'relationship')]
+   :description: A blood vessel that is part of a cerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732836
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016565#cerebral-blood-vessel
    :name: cerebral blood vessel
@@ -2696,6 +2849,23 @@ cerebralSubcortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex
    :name: cerebral subcortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000454
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cerebralVein
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain blood vessel. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001663) ('is_a' and 'relationship')]
+   :description: The cerebral veins are divisible into external and internal groups according to the outer surfaces or the inner parts of the hemispheres they drain into. The external veins are the superior cerebral veins, inferior cerebral veins, and middle cerebral vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001663)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001663#cerebral-vein
+   :name: cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001663
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3518,6 +3688,40 @@ decussationOfTrochlearNerve
 
 ------------
 
+deepCerebralVein
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]
+   :description: The deep cerebral veins are a group of veins in the head. This group includes the superior thalamostriate vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016564#deep-cerebral-vein
+   :name: deep cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016564
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+deepMiddleCerebralVein
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepMiddleCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. Is part of the basal vein. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532) ('is_a' and 'relationship')]
+   :description: The blood vessel that receives deoxygenated blood from the insula and gyri and drains into the basal vein of Rosenthal deep in the lateral sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035532#deep-middle-cerebral-vein
+   :name: deep middle cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035532
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 densocellularPartOfMedialDorsalNucleus
 --------------------------------------
 
@@ -3734,6 +3938,22 @@ dorsalCapOfKooy
 
 ------------
 
+dorsalCerebralVein
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035151)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035151#dorsal-cerebral-vein
+   :name: dorsal cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035151
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsalCochlearNucleus
 ---------------------
 
@@ -3891,6 +4111,23 @@ dorsalLongitudinalFasciculusOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002793#dorsal-longitudinal-fasciculus-of-pons-1
    :name: dorsal longitudinal fasciculus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002793
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalLongitudinalVein
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005031)]
+   :description: Vessel that connects to the primitive hindbrain channel and the basilar artery at the caudal end of the medulla oblongata. Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005031)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005031#dorsal-longitudinal-vein
+   :name: dorsal longitudinal vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005031
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4237,6 +4474,23 @@ dorsomedialNucleusOfHypothalamus
 
 ------------
 
+duraMaterLymphVessel
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/duraMaterLymphVessel
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]
+   :description: Any lymph vessel that is located in the dura mater of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035608#dura-mater-lymph-vessel
+   :name: dura mater lymph vessel
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035608
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 emboliformNucleus
 -----------------
 
@@ -4268,6 +4522,23 @@ endopiriformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014284#endopiriform-nucleus-1
    :name: endopiriform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014284
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+endothelialBloodBrainBarrier
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endothelialBloodBrainBarrier
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a blood brain barrier. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000201)]
+   :description: A blood brain barrier that is composed of endothelial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000201)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000201#endothelial-blood-brain-barrier
+   :name: endothelial blood brain barrier
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000201
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4953,6 +5224,23 @@ genuOfCorpusCallosum
 
 ------------
 
+glialBloodBrainBarrier
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glialBloodBrainBarrier
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a blood brain barrier. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000202)]
+   :description: A blood brain barrier composed of glial cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000202)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000202#glial-blood-brain-barrier
+   :name: glial blood brain barrier
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000202
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 globusPallidus
 --------------
 
@@ -5054,6 +5342,23 @@ grayMatterOfHindbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
    :name: gray matter of hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019263
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+greatCerebralVein
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/greatCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]
+   :description: The great cerebral vein is one of the large blood vessels in the skull draining the cerebrum (brain) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006666#great-cerebral-vein
+   :name: great cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006666
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5332,8 +5637,8 @@ hindbrainVenousSystem
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Hindbrain venous system' is part of the hindbrain.
-   :description: A venous system that is part of a hindbrain.
+   :definition: Is part of the hindbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
+   :description: A venous system that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735731
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system
    :name: hindbrain venous system
@@ -5432,6 +5737,23 @@ horizontalLimbOfTheDiagonalBand
 
 ------------
 
+hyaloidArtery
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hyaloidArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain blood vessel. Is part of the optic stalk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270) ('is_a' and 'relationship')]
+   :description: An artery that is part of the optic stalk of the eye and extends from the optic disc through the vitreous humor to the lens. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002270#hyaloid-artery
+   :name: hyaloid artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002270
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 hypoglossalNerveRoot
 --------------------
 
@@ -5517,6 +5839,23 @@ inferiorCerebellarPeduncle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002163#inferior-cerebellar-peduncle-1
    :name: inferior cerebellar peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002163
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorCerebralVein
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001664)]
+   :description: The inferior cerebral veins, of small size, drain the under surfaces of the hemispheres. Those on the orbital surface of the frontal lobe join the superior cerebral veins, and through these open into the superior sagittal sinus. Those of the temporal lobe anastomose with the middle cerebral and basal veins, and join the cavernous, sphenoparietal, and superior petrosal sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001664)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001664#inferior-cerebral-vein
+   :name: inferior cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001664
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5982,6 +6321,23 @@ internalCapsuleOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001887#internal-capsule
    :name: internal capsule of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001887
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+internalCerebralVein
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]
+   :description: The internal cerebral veins (veins of Galen; deep cerebral veins) drain the deep parts of the hemisphere and are two in number; each is formed near the interventricular foramen by the union of the terminal and choroid veins. They run backward parallel with one another, between the layers of the tela chorioidea of the third ventricle, and beneath the splenium of the corpus callosum, where they unite to form a short trunk, the great cerebral vein; just before their union each receives the corresponding basal vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035152#internal-cerebral-vein
+   :name: internal cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035152
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7262,6 +7618,23 @@ mammillothalamicTractOfHypothalamus
 
 ------------
 
+marginalVenousSinus
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/marginalVenousSinus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]
+   :description: A paired dural venous sinus at the rim of the foramen magnum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017637#marginal-venous-sinus
+   :name: marginal venous sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017637
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 matrixCompartment
 -----------------
 
@@ -8392,6 +8765,23 @@ middleFrontalGyrus
 
 ------------
 
+middleMesencephalicCentralArtery
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleMesencephalicCentralArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]
+   :description: Project rostrally and dorsally from the AMCtA to to irrigate the midportion of the midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005078#middle-mesencephalic-central-artery
+   :name: middle mesencephalic central artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005078
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 middleTemporalGyrus
 -------------------
 
@@ -8495,6 +8885,23 @@ myelencephalonSulcusLimitans
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009578#myelencephalon-sulcus-limitans
    :name: myelencephalon sulcus limitans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009578
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nasoFrontalVein
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nasoFrontalVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]
+   :description: The nasofrontal vein is a vein in the eye which drains to the superior ophthalmic vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004689#naso-frontal-vein
+   :name: naso-frontal vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004689
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9445,6 +9852,22 @@ ovalNucleusOfStriaTerminalis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011176#bed-nuclei-of-the-stria-terminalis-oval-nucleus-1
    :name: oval nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011176
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pairedVenousDuralSinus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pairedVenousDuralSinus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017635)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017635#paired-venous-dural-sinus
+   :name: paired venous dural sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017635
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10843,6 +11266,23 @@ posteriorMedianEminence
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002652#posterior-median-eminence-1
    :name: posterior median eminence
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002652
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorMesencephalicCentralArtery
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMesencephalicCentralArtery
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]
+   :description: Project dorsally from BCA to irrigate the caudal part of midbrain Isogai et al. 2001. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005079#posterior-mesencephalic-central-artery
+   :name: posterior mesencephalic central artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005079
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12978,6 +13418,23 @@ sulcusOfBrain
 
 ------------
 
+superficialCerebralVein
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]
+   :description: The superficial cerebral veins are a group of veins in the head. This group includes the superior cerebral veins. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016559#superficial-cerebral-vein
+   :name: superficial cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016559
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 superficialFeaturePartOfOccipitalLobe
 -------------------------------------
 
@@ -13008,6 +13465,23 @@ superficialFeaturePartOfTheCerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024046#superficial-feature-part-of-the-cerebellum
    :name: superficial feature part of the cerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024046
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superficialMiddleCerebralVein
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialMiddleCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral vein. Is part of the cavernous sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231) ('is_a' and 'relationship')]
+   :description: A vein that runs along the fissure of Sylvius to the cavernous sinus on the lateral surface of the brain and connects to the superior sagittal and transverse sinuses. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035231#superficial-middle-cerebral-vein
+   :name: superficial middle cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035231
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13062,6 +13536,23 @@ superiorCerebellarPeduncleOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007709#superior-cerebellar-peduncle-of-pons-1
    :name: superior cerebellar peduncle of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007709
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorCerebralVein
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebralVein
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a superficial cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]
+   :description: The Superior Cerebral Veins, eight to twelve in number, drain the superior, lateral, and medial surfaces of the hemispheres, and are mainly lodged in the sulci between the gyri, but some run across the gyri. They open into the superior sagittal sinus; the anterior veins runs nearly at right angles to the sinus; the posterior and larger veins are directed obliquely forward and open into the sinus in a direction more or less opposed to the current of the blood contained within it. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035150#superior-cerebral-vein
+   :name: superior cerebral vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035150
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14037,6 +14528,22 @@ uncinateFasciculusOfTheForebrain
 
 ------------
 
+unpairedVenousDuralSinus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/unpairedVenousDuralSinus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017640)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017640#unpaired-venous-dural-sinus
+   :name: unpaired venous dural sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017640
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 upperRhombicLip
 ---------------
 
@@ -14098,12 +14605,62 @@ vasculatureOfBrain
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.
-   :description: System pertaining to blood vessels in the brain.
+   :definition: Is a vasculature of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998) ('is_a' and 'relationship')]
+   :description: System pertaining to blood vessels in the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735625
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain
    :name: vasculature of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008998
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vasculatureOfCentralNervousSystem
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfCentralNervousSystem
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036303) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036303#vasculature-of-central-nervous-system
+   :name: vasculature of central nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036303
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+veinOfVestibularAqueduct
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/veinOfVestibularAqueduct
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the transverse sinus and the inferior petrosal sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]
+   :description: A vein that leaves the vestibule through an individual bone canal running parallel to the vestibular aqueduct up to the dura of the posterior side of the petrosa in the area of the endolymphatic sac. It then opens in the inferior petrosal sinus or the jugular bulb. The vein receives other branches from the bone, dura and sac. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036074#vein-of-vestibular-aqueduct
+   :name: vein of vestibular aqueduct
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036074
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+venousDuralSinus
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousDuralSinus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]
+   :description: A venous channel found between layers of dura mater in the brain. Receives blood from internal and external veins of the brain, receive cerebrospinal fluid (CSF) from the subarachnoid space, and ultimately empty into the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005486#venous-dural-sinus
+   :name: venous dural sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005486
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14116,7 +14673,7 @@ venousSystemOfBrain
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Venous system of brain' is part of the brain.
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013146)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733246
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain
    :name: venous system of brain

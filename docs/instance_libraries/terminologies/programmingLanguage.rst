@@ -120,6 +120,20 @@ HTML
 
 ------------
 
+IGORPro
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/programmingLanguage/IGORPro
+   :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
+   :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
+   :name: IGOR Pro
+
+`BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
+
+------------
+
 Java
 ----
 

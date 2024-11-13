@@ -427,6 +427,132 @@ macroglialCell
 
 ------------
 
+mainOlfactoryBulbDeepTuftedNeuron
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbDeepTuftedNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A subclass of neurons situated in the innermost (deep) layer of the external plexiform layer of the main olfactory bulb.
+   :name: main olfactory bulb deep tufted neuron
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbExternalTuftedNeuron
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbExternalTuftedNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: An excitatory neuron type found predominately at the glomerular layer of the main olfactory bulb.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107943
+   :name: main olfactory bulb external tufted neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_82555
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbGranuleNeuron
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbGranuleNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Axonless inhibitory interneurons and form the majority of neurons in the vertebrate main olfactory bulb [adapted from [Egger et al. (2003)](https://doi.org/10.1523/JNEUROSCI.23-20-07551.2003)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107930
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:123#olfactory-bulb-main-granule-cell
+   :name: main olfactory bulb granule neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_123
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbMiddleTuftedNeuron
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbMiddleTuftedNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A subclass of neurons situated in the middle layer of the external plexiform layer of the main olfactory bulb.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107935
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:121#olfactory-bulb-main-tufted-cell
+   :name: main olfactory bulb middle tufted neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_121
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbMitralNeuron
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbMitralNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Neuronal cell type in the mammalian olfactory bulb, distinguished by the position of their somata located in an orderly row in the mitral cell layer of the bulb. [from [Wikipedia](https://en.wikipedia.org/wiki/Mitral_cell#Structure)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107933
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NIFEXT:120#olfactory-bulb-main-mitral-cell
+   :name: main olfactory bulb mitral neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nifext_120
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbPeriglomerularNeuron
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbPeriglomerularNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Small intrinsic neurons in the glomerular layer of the main olfactory bulb, with cell bodies surrounding the olfactory glomerulus. [adapted from [InterLex](http://uri.interlex.org/base/ilx_0107934)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107934
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXCELL:091202#olfactory-bulb-main-periglomerular-cell
+   :name: main olfactory bulb periglomerular neuron
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_cell_091202
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbSuperficialTuftedNeuron
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbSuperficialTuftedNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: A subclass of neurons situated in the outermost (superficial) layer of the external plexiform layer of the main olfactory bulb.
+   :name: main olfactory bulb superficial tufted neuron
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
+mainOlfactoryBulbTuftedNeuron
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/cellType/mainOlfactoryBulbTuftedNeuron
+   :@type: https://openminds.ebrains.eu/controlledTerms/CellType
+   :definition: Principle neurons of the mammalian main olfactory bulb.
+   :name: main olfactory bulb tufted neuron
+
+`BACK TO TOP <Terminologies: CellType library_>`_
+
+------------
+
 microglialCell
 --------------
 

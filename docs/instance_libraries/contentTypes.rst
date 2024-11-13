@@ -4816,6 +4816,19 @@ image_vnd.compix.simplepcihcimage
 
 ------------
 
+image_vnd.ilastik+hdf5
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik+hdf5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/vnd.ilastik+hdf5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 image_vnd.ilastik.pixelclassification+hdf5
 ------------------------------------------
 
@@ -4941,6 +4954,19 @@ image_x-hdf
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-hdf
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_x-n5
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-n5
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :name: image/x-n5
 
 `BACK TO TOP <ContentTypes library_>`_
 

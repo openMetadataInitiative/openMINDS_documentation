@@ -592,6 +592,20 @@ measuredQuantity
 
 ------------
 
+measuredSignalType
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/terminology/measuredSignalType
+   :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
+   :definition: The types of biological electrical and non-electrical signals that vary in time and/or space and can be measured.
+   :name: measured signal type
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
 metaDataModelType
 -----------------
 

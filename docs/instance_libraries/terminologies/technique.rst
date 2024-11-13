@@ -978,6 +978,7 @@ functionalMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/functionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen.
    :name: functional magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1363,7 +1364,7 @@ magneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/magneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: 'Magnetic resonance imaging' is a medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of the anatomy and the physiological processes of the body.
+   :definition: Any medical imaging technique that uses strong magnetic fields, magnetic field gradients, and radio waves to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0741208
    :name: magnetic resonance imaging
 
@@ -1956,6 +1957,7 @@ quantitativeMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/quantitativeMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any magnetic resonance imaging technique that generates images of a specimen based on the physical parameters of the local tissue microstructural environment.
    :name: quantitative magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_

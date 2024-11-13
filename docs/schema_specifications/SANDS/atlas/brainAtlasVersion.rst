@@ -6,8 +6,6 @@ BrainAtlasVersion
 
 :Display as: Brain atlas version
 
-Structured information on a brain atlas (version level).
-
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/brainAtlasVersions.html>`_.
 

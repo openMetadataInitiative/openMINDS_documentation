@@ -8,6 +8,21 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
+(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+---------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole (Pittsburgh compound B) is used as a positron emission tomography tracer to increase contrast of beta-amyloid plaques in neuronal tissue.
+   :name: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/2826731
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 4-(2-Hydroxyethyl)-1-piperazineEthanesulfonicAcid
 -------------------------------------------------
 
