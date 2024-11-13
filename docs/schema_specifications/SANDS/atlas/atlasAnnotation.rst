@@ -2,9 +2,9 @@
 AtlasAnnotation
 ###############
 
-:Semantic name: sands:AtlasAnnotation
+:Semantic name: https://openminds.om-i.org/types/AtlasAnnotation
 
-:Display as: Sands:atlas annotation
+:Display as: Atlas annotation
 
 
 ------------
@@ -27,9 +27,9 @@ anchorPoint
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
+   :semantic name: https://openminds.om-i.org/props/anchorPoint
    :value type: | embedded object array \(2-3\) of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional space as [x, y, z]).
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -46,9 +46,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteria
+   :semantic name: https://openminds.om-i.org/props/criteria
    :value type: | linked object of type
-                | core:ProtocolExecution \[TYPE_ERROR\]
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to produce this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -65,9 +65,9 @@ Distinct class that defines how the judgement or decision was made for a particu
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteriaQualityType
+   :semantic name: https://openminds.om-i.org/props/criteriaQualityType
    :value type: | linked object of type
-                | controlledTerms:CriteriaQualityType \[TYPE_ERROR\]
+                | `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/criteriaQualityType.html>`_
    :instructions: Add the quality type of the stated criteria used to define this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -82,9 +82,9 @@ criteriaType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteriaType
+   :semantic name: https://openminds.om-i.org/props/criteriaType
    :value type: | linked object of type
-                | controlledTerms:AnnotationCriteriaType \[TYPE_ERROR\]
+                | `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
    :instructions: Add the criteria type for this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -101,9 +101,9 @@ Reference to an inspiring element.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/inspiredBy
+   :semantic name: https://openminds.om-i.org/props/inspiredBy
    :value type: | linked object array \(1-N\) of type
-                | core:File \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
    :instructions: Add all (source) files that inspired the definition of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -120,7 +120,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this annotation that is used within the corresponding data files to identify this annotation.
@@ -139,9 +139,9 @@ Differentiation between a pair of lateral homologous parts of the body.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/laterality
+   :semantic name: https://openminds.om-i.org/props/laterality
    :value type: | linked object array \(1-2\) of type
-                | controlledTerms:Laterality \[TYPE_ERROR\]
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this annotation is defined in.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -156,9 +156,9 @@ preferredVisualization
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/preferredVisualization
+   :semantic name: https://openminds.om-i.org/props/preferredVisualization
    :value type: | embedded object of type
-                | sands:ViewerSpecification \[TYPE_ERROR\]
+                | `ViewerSpecification <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/viewerSpecification.html>`_
    :instructions: Add the preferred viewer specification to visualize this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -175,9 +175,9 @@ Detailed and precise presentation of, or proposal for something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :semantic name: https://openminds.om-i.org/props/specification
    :value type: | linked object of type
-                | core:File \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
    :instructions: Add the non-parametric specification of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_
@@ -194,9 +194,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | controlledTerms:AnnotationType \[TYPE_ERROR\]
+                | `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationType.html>`_
    :instructions: Add the geometry type of this annotation.
 
 `BACK TO TOP <AtlasAnnotation_>`_

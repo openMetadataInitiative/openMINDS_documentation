@@ -2,9 +2,9 @@
 FileArchive
 ###########
 
-:Semantic name: core:FileArchive
+:Semantic name: https://openminds.om-i.org/types/FileArchive
 
-:Display as: Core:file archive
+:Display as: File archive
 
 
 ------------
@@ -29,7 +29,7 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.om-i.org/props/IRI
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to this file archive.
@@ -48,9 +48,9 @@ Method of digitally organizing and structuring data or information.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/format
+   :semantic name: https://openminds.om-i.org/props/format
    :value type: | linked object of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file archive.
 
 `BACK TO TOP <FileArchive_>`_
@@ -65,9 +65,9 @@ sourceData
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/sourceData
+   :semantic name: https://openminds.om-i.org/props/sourceData
    :value type: | linked object array \(1-N\) of type
-                | core:File \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
    :instructions: Add the data that were ingested and modified to create this file archive.
 
 `BACK TO TOP <FileArchive_>`_

@@ -2,9 +2,9 @@
 ParcellationEntityVersion
 #########################
 
-:Semantic name: sands:ParcellationEntityVersion
+:Semantic name: https://openminds.om-i.org/types/ParcellationEntityVersion
 
-:Display as: Sands:parcellation entity version
+:Display as: Parcellation entity version
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntityVersions.html>`_.
@@ -29,7 +29,7 @@ abbreviation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/abbreviation
+   :semantic name: https://openminds.om-i.org/props/abbreviation
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the official abbreviation of this parcellation entity version.
@@ -48,7 +48,7 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this parcellation entity version.
@@ -65,7 +65,7 @@ alternateName
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/alternateName
+   :semantic name: https://openminds.om-i.org/props/alternateName
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter any alternate names, including any alternative abbreviations, for this parcellation entity version.
@@ -82,7 +82,7 @@ correctedName
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/correctedName
+   :semantic name: https://openminds.om-i.org/props/correctedName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the refined or corrected name of this parcellation entity version.
@@ -99,9 +99,9 @@ hasAnnotation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
+   :semantic name: https://openminds.om-i.org/props/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | sands:AtlasAnnotation \[TYPE_ERROR\]
+                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/atlasAnnotation.html>`_
    :instructions: Add all atlas annotations which define this parcellation entity version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -118,9 +118,9 @@ Reference to a parent object or legal person.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasParent
+   :semantic name: https://openminds.om-i.org/props/hasParent
    :value type: | linked object array \(1-N\) of type
-                | sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -135,7 +135,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this parcellation entity version that may help you to find this instance more easily.
@@ -154,7 +154,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this parcellation entity version.
@@ -173,7 +173,7 @@ Term or code used to identify something or someone registered within a particula
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/ontologyIdentifier
+   :semantic name: https://openminds.om-i.org/props/ontologyIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifiers (IRIs) to the related ontological terms matching this parcellation entity version.
@@ -190,9 +190,9 @@ relationAssessment
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
+   :semantic name: https://openminds.om-i.org/props/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | sands:QualitativeRelationAssessment \[TYPE_ERROR\] or sands:QuantitativeRelationAssessment \[TYPE_ERROR\]
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add all relations (qualitative or quantitative) of this parcellation entity version to other anatomical entities.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -209,7 +209,7 @@ Term or code used to identify the version of something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/versionIdentifier
+   :semantic name: https://openminds.om-i.org/props/versionIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the version identifier of this parcellation entity version.
@@ -228,7 +228,7 @@ Documentation on what changed in comparison to a previously published form of so
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
+   :semantic name: https://openminds.om-i.org/props/versionInnovation
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short description (or summary) of the novelties/peculiarities of this parcellation entity version in comparison to its preceding versions. If this parcellation entity version is the first version, leave blank.

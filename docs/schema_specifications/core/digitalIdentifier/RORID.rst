@@ -2,9 +2,11 @@
 RORID
 #####
 
-:Semantic name: core:RORID
+:Semantic name: https://openminds.om-i.org/types/RORID
 
-:Display as: Core:rorid
+:Display as: Rorid
+
+A persistent identifier for a research organization, provided by the Research Organization Registry.
 
 
 ------------
@@ -29,7 +31,7 @@ Term or code used to identify something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/identifier
+   :semantic name: https://openminds.om-i.org/props/identifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier for research organizations provided by the Corporation for National Research Initiatives ('Research Organization Registry IDentifier'; RORID) as an internationalized resource identifier (IRI) following the defined pattern (i.e., 'https://ror.org/' + RORID).

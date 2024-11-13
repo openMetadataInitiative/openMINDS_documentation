@@ -2,9 +2,9 @@
 ServiceLink
 ###########
 
-:Semantic name: core:ServiceLink
+:Semantic name: https://openminds.om-i.org/types/ServiceLink
 
-:Display as: Core:service link
+:Display as: Service link
 
 
 ------------
@@ -27,9 +27,9 @@ dataLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
+   :semantic name: https://openminds.om-i.org/props/dataLocation
    :value type: | linked object of type
-                | core:File \[TYPE_ERROR\], core:FileArchive \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\], core:ModelVersion \[TYPE_ERROR\], publications:LivePaperResourceItem \[TYPE_ERROR\] or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileArchive <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileArchive.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `LivePaperResourceItem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperResourceItem.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the location of the data that are linked to this specific service (e.g., stored as file (bundles) or registered as other entities such as atlas annotations).
 
 `BACK TO TOP <ServiceLink_>`_
@@ -44,7 +44,7 @@ displayLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/displayLabel
+   :semantic name: https://openminds.om-i.org/props/displayLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a display label for this service link.
@@ -61,7 +61,7 @@ openDataIn
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/openDataIn
+   :semantic name: https://openminds.om-i.org/props/openDataIn
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the linked data in the specified service.
@@ -78,9 +78,9 @@ previewImage
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/previewImage
+   :semantic name: https://openminds.om-i.org/props/previewImage
    :value type: | linked object of type
-                | core:File \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_
    :instructions: Add an image file to this service link that acts as a preview of its content or could function as an icon.
 
 `BACK TO TOP <ServiceLink_>`_
@@ -95,9 +95,9 @@ service
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/service
+   :semantic name: https://openminds.om-i.org/props/service
    :value type: | linked object of type
-                | controlledTerms:Service \[TYPE_ERROR\]
+                | `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
    :instructions: Add the service in which the specified data can be opened.
 
 `BACK TO TOP <ServiceLink_>`_

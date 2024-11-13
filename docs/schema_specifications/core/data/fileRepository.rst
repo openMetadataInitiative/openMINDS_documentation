@@ -2,9 +2,11 @@
 FileRepository
 ##############
 
-:Semantic name: core:FileRepository
+:Semantic name: https://openminds.om-i.org/types/FileRepository
 
-:Display as: Core:file repository
+:Display as: File repository
+
+Structured information on a file repository.
 
 
 ------------
@@ -29,7 +31,7 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.om-i.org/props/IRI
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to this file repository.
@@ -46,9 +48,9 @@ contentTypePattern
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contentTypePattern
+   :semantic name: https://openminds.om-i.org/props/contentTypePattern
    :value type: | linked object array \(1-N\) of type
-                | core:ContentTypePattern \[TYPE_ERROR\]
+                | `ContentTypePattern <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentTypePattern.html>`_
    :instructions: Add all content type patterns that identify matching content types for files within this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -65,9 +67,9 @@ Method of digitally organizing and structuring data or information.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/format
+   :semantic name: https://openminds.om-i.org/props/format
    :value type: | linked object of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: If the files and file bundles within this repository are organised and formatted according to a formal data structure, add the content type of this formal data structure. Leave blank if no formal data structure has been applied.
 
 `BACK TO TOP <FileRepository_>`_
@@ -84,9 +86,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hash
+   :semantic name: https://openminds.om-i.org/props/hash
    :value type: | embedded object of type
-                | core:Hash \[TYPE_ERROR\]
+                | `Hash <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -103,9 +105,9 @@ Reference to an organization that provides facilities and services for something
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
+   :semantic name: https://openminds.om-i.org/props/hostedBy
    :value type: | linked object of type
-                | core:Organization \[TYPE_ERROR\]
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
    :instructions: Add the host organization of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -122,7 +124,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this file repository.
@@ -141,9 +143,9 @@ Quantitative value defining how much disk space is used by an object on a comput
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/storageSize
+   :semantic name: https://openminds.om-i.org/props/storageSize
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size of this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -158,9 +160,9 @@ structurePattern
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/structurePattern
+   :semantic name: https://openminds.om-i.org/props/structurePattern
    :value type: | linked object of type
-                | core:FileRepositoryStructure \[TYPE_ERROR\]
+                | `FileRepositoryStructure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileRepositoryStructure.html>`_
    :instructions: Add the file repository structure that identifies the file path patterns used in this file repository.
 
 `BACK TO TOP <FileRepository_>`_
@@ -177,9 +179,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | controlledTerms:FileRepositoryType \[TYPE_ERROR\]
+                | `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileRepositoryType.html>`_
    :instructions: Add the type of this file repository.
 
 `BACK TO TOP <FileRepository_>`_

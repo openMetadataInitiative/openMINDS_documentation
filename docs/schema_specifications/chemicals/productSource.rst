@@ -2,9 +2,11 @@
 ProductSource
 #############
 
-:Semantic name: chemicals:ProductSource
+:Semantic name: https://openminds.om-i.org/types/ProductSource
 
-:Display as: Chemicals:product source
+:Display as: Product source
+
+Structured information about the source of a chemical substance or mixture.
 
 
 ------------
@@ -29,9 +31,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | core:RRID \[TYPE_ERROR\]
+                | `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this product.
 
 `BACK TO TOP <ProductSource_>`_
@@ -48,7 +50,7 @@ Term or code used to identify something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/identifier
+   :semantic name: https://openminds.om-i.org/props/identifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier for this product, excluding its RRID (e.g., a catalog number).
@@ -65,7 +67,7 @@ productName
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/productName
+   :semantic name: https://openminds.om-i.org/props/productName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this product as stated by the 'provider'.
@@ -82,9 +84,9 @@ provider
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/provider
+   :semantic name: https://openminds.om-i.org/props/provider
    :value type: | linked object of type
-                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add the party (private, commercial or industrial) that provided this product.
 
 `BACK TO TOP <ProductSource_>`_
@@ -99,9 +101,9 @@ purity
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/purity
+   :semantic name: https://openminds.om-i.org/props/purity
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the purity of the product as stated by the 'provider'.
 
 `BACK TO TOP <ProductSource_>`_

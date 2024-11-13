@@ -2,9 +2,9 @@
 PipetteUsage
 ############
 
-:Semantic name: ephys:PipetteUsage
+:Semantic name: https://openminds.om-i.org/types/PipetteUsage
 
-:Display as: Ephys:pipette usage
+:Display as: Pipette usage
 
 
 ------------
@@ -27,9 +27,9 @@ anatomicalLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
+   :semantic name: https://openminds.om-i.org/props/anatomicalLocation
    :value type: | linked object of type
-                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
+                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the pipette tip.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -44,9 +44,9 @@ chlorideReversalPotential
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/chlorideReversalPotential
+   :semantic name: https://openminds.om-i.org/props/chlorideReversalPotential
    :value type: | embedded object array \(1-N\) of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter all chloride reversal potentials for the intracellular solution(s) of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -61,9 +61,9 @@ compensationCurrent
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/compensationCurrent
+   :semantic name: https://openminds.om-i.org/props/compensationCurrent
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the compensation current for the series resistance of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -80,9 +80,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/device
+   :semantic name: https://openminds.om-i.org/props/device
    :value type: | linked object of type
-                | ephys:Pipette \[TYPE_ERROR\]
+                | `Pipette <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipette.html>`_
    :instructions: Add the pipette used.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -97,9 +97,9 @@ endMembranePotential
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/endMembranePotential
+   :semantic name: https://openminds.om-i.org/props/endMembranePotential
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the membrane potential of e.g., a patched cell at the end of a recording measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -114,9 +114,9 @@ holdingPotential
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/holdingPotential
+   :semantic name: https://openminds.om-i.org/props/holdingPotential
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the holding membrane potential of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -131,9 +131,9 @@ inputResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/inputResistance
+   :semantic name: https://openminds.om-i.org/props/inputResistance
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the input resistance of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -148,9 +148,9 @@ labelingCompound
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/labelingCompound
+   :semantic name: https://openminds.om-i.org/props/labelingCompound
    :value type: | linked object of type
-                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the used compound for labelling e.g., a patched cell during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -165,9 +165,9 @@ liquidJunctionPotential
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/liquidJunctionPotential
+   :semantic name: https://openminds.om-i.org/props/liquidJunctionPotential
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the liquid junction potential of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -182,7 +182,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this device usage that may help you to find this instance more easily.
@@ -199,9 +199,9 @@ metadataLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
+   :semantic name: https://openminds.om-i.org/props/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | core:File \[TYPE_ERROR\] or core:FileBundle \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -216,9 +216,9 @@ pipetteResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/pipetteResistance
+   :semantic name: https://openminds.om-i.org/props/pipetteResistance
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the resistance of the pipette during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -233,9 +233,9 @@ pipetteSolution
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/pipetteSolution
+   :semantic name: https://openminds.om-i.org/props/pipetteSolution
    :value type: | linked object of type
-                | chemicals:ChemicalMixture \[TYPE_ERROR\]
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_
    :instructions: Enter the solution with which the pipette was filled during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -250,9 +250,9 @@ sealResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/sealResistance
+   :semantic name: https://openminds.om-i.org/props/sealResistance
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the seal resistance of e.g., a patched cell measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -267,9 +267,9 @@ seriesResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/seriesResistance
+   :semantic name: https://openminds.om-i.org/props/seriesResistance
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the series resistance of the pipette measured during its use.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -284,7 +284,7 @@ spatialLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/spatialLocation
+   :semantic name: https://openminds.om-i.org/props/spatialLocation
    :value type: | embedded object of type
                 | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Add the coordinate point that best describes the spatial location of the pipette tip during its use.
@@ -301,9 +301,9 @@ startMembranePotential
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/startMembranePotential
+   :semantic name: https://openminds.om-i.org/props/startMembranePotential
    :value type: | embedded object of type
-                | core:Measurement \[TYPE_ERROR\]
+                | `Measurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/measurement.html>`_
    :instructions: Enter the membrane potential of e.g., a patched cell at the beginning of a recording measured during the use of this pipette.
 
 `BACK TO TOP <PipetteUsage_>`_
@@ -318,9 +318,9 @@ usedSpecimen
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
+   :semantic name: https://openminds.om-i.org/props/usedSpecimen
    :value type: | linked object of type
-                | core:SubjectState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <PipetteUsage_>`_

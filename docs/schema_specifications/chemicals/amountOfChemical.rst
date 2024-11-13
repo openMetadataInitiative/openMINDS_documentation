@@ -2,9 +2,11 @@
 AmountOfChemical
 ################
 
-:Semantic name: chemicals:AmountOfChemical
+:Semantic name: https://openminds.om-i.org/types/AmountOfChemical
 
-:Display as: Chemicals:amount of chemical
+:Display as: Amount of chemical
+
+Structured information about the amount of a given chemical that was used.
 
 
 ------------
@@ -27,9 +29,9 @@ amount
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/amount
+   :semantic name: https://openminds.om-i.org/props/amount
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: When used in a mixture, enter the amount of the substance within the mixture (e.g., as concentration or as ratio). When used in its pure state, enter the used amount of the substance.
 
 `BACK TO TOP <AmountOfChemical_>`_
@@ -44,9 +46,9 @@ chemicalProduct
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/chemicalProduct
+   :semantic name: https://openminds.om-i.org/props/chemicalProduct
    :value type: | linked object of type
-                | chemicals:ChemicalMixture \[TYPE_ERROR\], chemicals:ChemicalSubstance \[TYPE_ERROR\] or controlledTerms:MolecularEntity \[TYPE_ERROR\]
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the chemical product that was used.
 
 `BACK TO TOP <AmountOfChemical_>`_

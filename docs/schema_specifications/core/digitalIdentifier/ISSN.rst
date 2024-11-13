@@ -2,9 +2,11 @@
 ISSN
 ####
 
-:Semantic name: core:ISSN
+:Semantic name: https://openminds.om-i.org/types/ISSN
 
-:Display as: Core:issn
+:Display as: Issn
+
+An International Standard Serial Number of the ISSN International Centre.
 
 
 ------------
@@ -29,7 +31,7 @@ Term or code used to identify something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/identifier
+   :semantic name: https://openminds.om-i.org/props/identifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the serial number for serial publications 'International Standard Serial Number' (ISSN) following the defined pattern (e.g., 1234-5678 or 1234-567X).

@@ -2,9 +2,9 @@
 LivePaperSection
 ################
 
-:Semantic name: publications:LivePaperSection
+:Semantic name: https://openminds.om-i.org/types/LivePaperSection
 
-:Display as: Publications:live paper section
+:Display as: Live paper section
 
 
 ------------
@@ -29,7 +29,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a description of this live paper section.
@@ -48,9 +48,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | publications:LivePaperVersion \[TYPE_ERROR\]
+                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_
    :instructions: Add the live paper version this live paper section is part of.
 
 `BACK TO TOP <LivePaperSection_>`_
@@ -67,7 +67,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name (or title) of this live paper section.
@@ -84,7 +84,7 @@ order
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/order
+   :semantic name: https://openminds.om-i.org/props/order
    :value type: integer
    :instructions: Enter an integer that is used to sort this live paper section in ascending order with other live paper sections of the overarching live paper version.
 
@@ -102,7 +102,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Add the type of this live paper section (e.g., 'custom', 'generic', 'models', 'morphology', or 'traces').

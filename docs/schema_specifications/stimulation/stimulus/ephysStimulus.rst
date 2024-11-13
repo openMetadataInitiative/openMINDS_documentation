@@ -2,9 +2,9 @@
 EphysStimulus
 #############
 
-:Semantic name: stimulation:EphysStimulus
+:Semantic name: https://openminds.om-i.org/types/EphysStimulus
 
-:Display as: Stimulation:ephys stimulus
+:Display as: Ephys stimulus
 
 
 ------------
@@ -27,9 +27,9 @@ deliveredBy
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/deliveredBy
+   :semantic name: https://openminds.om-i.org/props/deliveredBy
    :value type: | linked object of type
-                | ephys:ElectrodeArrayUsage \[TYPE_ERROR\], ephys:ElectrodeUsage \[TYPE_ERROR\], ephys:PipetteUsage \[TYPE_ERROR\] or specimenPrep:SlicingDeviceUsage \[TYPE_ERROR\]
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device used to deliver this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -46,7 +46,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this stimulus.
@@ -63,9 +63,9 @@ epoch
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/epoch
+   :semantic name: https://openminds.om-i.org/props/epoch
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the total epoch length of this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -80,9 +80,9 @@ generatedBy
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/generatedBy
+   :semantic name: https://openminds.om-i.org/props/generatedBy
    :value type: | linked object of type
-                | ephys:ElectrodeArrayUsage \[TYPE_ERROR\], ephys:ElectrodeUsage \[TYPE_ERROR\], ephys:PipetteUsage \[TYPE_ERROR\] or specimenPrep:SlicingDeviceUsage \[TYPE_ERROR\]
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device used to generate this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -99,7 +99,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this stimulus that is used within the corresponding data files to identify this stimulus.
@@ -116,7 +116,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this stimulus that may help you to find this instance more easily.
@@ -135,9 +135,9 @@ Detailed and precise presentation of, or proposal for something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :semantic name: https://openminds.om-i.org/props/specification
    :value type: | linked object array \(1-N\) of type
-                | core:Configuration \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:FileBundle \[TYPE_ERROR\] or core:PropertyValueList \[TYPE_ERROR\]
+                | `Configuration <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/configuration.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_ or `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/propertyValueList.html>`_
    :instructions: Add the specification information for this stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_
@@ -154,9 +154,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | controlledTerms:ElectricalStimulusType \[TYPE_ERROR\]
+                | `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`_
    :instructions: Add the type that describe this electrical stimulus.
 
 `BACK TO TOP <EphysStimulus_>`_

@@ -2,9 +2,9 @@
 FileRepositoryStructure
 #######################
 
-:Semantic name: core:FileRepositoryStructure
+:Semantic name: https://openminds.om-i.org/types/FileRepositoryStructure
 
-:Display as: Core:file repository structure
+:Display as: File repository structure
 
 
 ------------
@@ -27,9 +27,9 @@ filePathPattern
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/filePathPattern
+   :semantic name: https://openminds.om-i.org/props/filePathPattern
    :value type: | embedded object array \(1-N\) of type
-                | core:FilePathPattern \[TYPE_ERROR\]
+                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/filePathPattern.html>`_
    :instructions: Add all file path patterns that define this file repository structure.
 
 `BACK TO TOP <FileRepositoryStructure_>`_
@@ -44,7 +44,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this file repository structure that may help you to find this instance more easily.

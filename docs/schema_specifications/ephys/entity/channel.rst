@@ -2,9 +2,9 @@
 Channel
 #######
 
-:Semantic name: ephys:Channel
+:Semantic name: https://openminds.om-i.org/types/Channel
 
-:Display as: Ephys:channel
+:Display as: Channel
 
 
 ------------
@@ -29,7 +29,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this channel that is used within the corresponding data files to identify this channel.
@@ -48,9 +48,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/unit
+   :semantic name: https://openminds.om-i.org/props/unit
    :value type: | linked object of type
-                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for this channel.
 
 `BACK TO TOP <Channel_>`_

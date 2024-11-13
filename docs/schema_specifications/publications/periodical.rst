@@ -2,9 +2,9 @@
 Periodical
 ##########
 
-:Semantic name: publications:Periodical
+:Semantic name: https://openminds.om-i.org/types/Periodical
 
-:Display as: Publications:periodical
+:Display as: Periodical
 
 
 ------------
@@ -27,7 +27,7 @@ abbreviation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/abbreviation
+   :semantic name: https://openminds.om-i.org/props/abbreviation
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the official (or most commonly used) abbreviation of the periodical (e.g., J. Physiol).
@@ -46,9 +46,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | core:ISSN \[TYPE_ERROR\]
+                | `ISSN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISSN.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this periodical.
 
 `BACK TO TOP <Periodical_>`_
@@ -65,7 +65,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name (or title) of this periodical (e.g., Journal of Physiology).

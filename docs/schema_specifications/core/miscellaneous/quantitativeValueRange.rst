@@ -2,9 +2,11 @@
 QuantitativeValueRange
 ######################
 
-:Semantic name: core:QuantitativeValueRange
+:Semantic name: https://openminds.om-i.org/types/QuantitativeValueRange
 
-:Display as: Core:quantitative value range
+:Display as: Quantitative value range
+
+A representation of a range of quantitative values.
 
 
 ------------
@@ -29,7 +31,7 @@ Greatest quantity attained or allowed.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/maxValue
+   :semantic name: https://openminds.om-i.org/props/maxValue
    :value type: number
    :instructions: Enter the maximum value.
 
@@ -45,9 +47,9 @@ maxValueUnit
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/maxValueUnit
+   :semantic name: https://openminds.om-i.org/props/maxValueUnit
    :value type: | linked object of type
-                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the maximum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_
@@ -64,7 +66,7 @@ Smallest quantity attained or allowed.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/minValue
+   :semantic name: https://openminds.om-i.org/props/minValue
    :value type: number
    :instructions: Enter the minimum value.
 
@@ -80,9 +82,9 @@ minValueUnit
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/minValueUnit
+   :semantic name: https://openminds.om-i.org/props/minValueUnit
    :value type: | linked object of type
-                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the minimum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

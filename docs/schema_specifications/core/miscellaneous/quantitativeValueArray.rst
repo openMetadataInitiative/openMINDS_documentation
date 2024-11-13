@@ -2,9 +2,11 @@
 QuantitativeValueArray
 ######################
 
-:Semantic name: core:QuantitativeValueArray
+:Semantic name: https://openminds.om-i.org/types/QuantitativeValueArray
 
-:Display as: Core:quantitative value array
+:Display as: Quantitative value array
+
+A representation of an array of quantitative values, optionally with uncertainties.
 
 
 ------------
@@ -27,7 +29,7 @@ negativeUncertainties
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/negativeUncertainties
+   :semantic name: https://openminds.om-i.org/props/negativeUncertainties
    :value type: number array \(2-N\)
    :instructions: Enter the negative uncertainties for all values. Note that the length of the arrays have to match.
 
@@ -43,7 +45,7 @@ positiveUncertainties
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/positiveUncertainties
+   :semantic name: https://openminds.om-i.org/props/positiveUncertainties
    :value type: number array \(2-N\)
    :instructions: Enter the positive uncertainties for all values. Note that the length of the arrays have to match.
 
@@ -61,9 +63,9 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
+   :semantic name: https://openminds.om-i.org/props/typeOfUncertainty
    :value type: | linked object of type
-                | controlledTerms:TypeOfUncertainty \[TYPE_ERROR\]
+                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
    :instructions: Add the type of estimation for the uncertainties.
 
 `BACK TO TOP <QuantitativeValueArray_>`_
@@ -80,9 +82,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/unit
+   :semantic name: https://openminds.om-i.org/props/unit
    :value type: | linked object of type
-                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement of the values and their uncertainties.
 
 `BACK TO TOP <QuantitativeValueArray_>`_
@@ -97,7 +99,7 @@ values
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/values
+   :semantic name: https://openminds.om-i.org/props/values
    :value type: number array \(2-N\)
    :instructions: Enter all measured values.
 

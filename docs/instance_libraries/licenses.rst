@@ -368,6 +368,21 @@ LGPL-2.0-only
 
 ------------
 
+LGPL-2.0-or-later
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/licenses/LGPL-2.0-or-later
+   :@type: https://openminds.om-i.org/types/License
+   :fullName: GNU Lesser General Public License v2.0 or later
+   :legalCode: https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html
+   :shortName: LGPL-2.0-or-later
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
 LGPL-2.1-only
 -------------
 

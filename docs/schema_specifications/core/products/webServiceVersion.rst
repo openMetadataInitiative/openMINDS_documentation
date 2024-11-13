@@ -2,9 +2,9 @@
 WebServiceVersion
 #################
 
-:Semantic name: core:WebServiceVersion
+:Semantic name: https://openminds.om-i.org/types/WebServiceVersion
 
-:Display as: Core:web service version
+:Display as: Web service version
 
 
 ------------
@@ -29,9 +29,9 @@ Level to which something is accessible to someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/accessibility
+   :semantic name: https://openminds.om-i.org/props/accessibility
    :value type: | linked object of type
-                | controlledTerms:ProductAccessibility \[TYPE_ERROR\]
+                | `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/productAccessibility.html>`_
    :instructions: Add the accessibility of the data for this research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -48,9 +48,9 @@ Exclusive and assignable legal right of an originator to reproduce, publish, sel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/copyright
+   :semantic name: https://openminds.om-i.org/props/copyright
    :value type: | embedded object of type
-                | core:Copyright \[TYPE_ERROR\]
+                | `Copyright <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/copyright.html>`_
    :instructions: Enter the copyright information of this research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -67,9 +67,9 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/custodian
+   :semantic name: https://openminds.om-i.org/props/custodian
    :value type: | linked object array \(1-N\) of type
-                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that fulfill the role of a custodian for the research product version (e.g., a research group leader or principle investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the data, metadata, and/or code of the research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -86,7 +86,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a description (or abstract) of this research product version. Note that this version specific description will overwrite the description for the overarching dataset.
@@ -105,9 +105,9 @@ Legal person that creates or improves products or services (e.g., software, appl
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/developer
+   :semantic name: https://openminds.om-i.org/props/developer
    :value type: | linked object array \(1-N\) of type
-                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that developed this web service version. Note that these developers will overwrite the developer list provided for the overarching web service.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -124,9 +124,9 @@ Non-abridged instructions, comments, and information for using a particular prod
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
+   :semantic name: https://openminds.om-i.org/props/fullDocumentation
    :value type: | linked object of type
-                | core:DOI \[TYPE_ERROR\], core:File \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\] or core:WebResource \[TYPE_ERROR\]
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -143,7 +143,7 @@ Whole, non-abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fullName
+   :semantic name: https://openminds.om-i.org/props/fullName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive full name (or title) for this research product version. Note that this version specific full name will overwrite the full name for the overarching dataset.
@@ -162,9 +162,9 @@ Money provided by a legal person for a particular purpose.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/funding
+   :semantic name: https://openminds.om-i.org/props/funding
    :value type: | linked object array \(1-N\) of type
-                | core:Funding \[TYPE_ERROR\]
+                | `Funding <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/funding.html>`_
    :instructions: Add all funding information of this research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -179,9 +179,9 @@ hasPart
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasPart
+   :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(1-N\) of type
-                | core:SoftwareVersion \[TYPE_ERROR\]
+                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_
    :instructions: Add all software versions that are components of this web service version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -198,7 +198,7 @@ Main website of something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/homepage
+   :semantic name: https://openminds.om-i.org/props/homepage
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this research product version.
@@ -217,7 +217,7 @@ Preferred format for citing a particular object or legal person.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/howToCite
+   :semantic name: https://openminds.om-i.org/props/howToCite
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter the preferred citation text for this research product version. Leave blank if citation text can be extracted from the assigned digital identifier.
@@ -236,9 +236,9 @@ Format of data that is put into a process or machine.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/inputFormat
+   :semantic name: https://openminds.om-i.org/props/inputFormat
    :value type: | linked object array \(1-N\) of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: Add all content types that can be used as input by this web service version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -255,9 +255,9 @@ Reference to an original form where the essence was preserved, but presented in 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isAlternativeVersionOf
+   :semantic name: https://openminds.om-i.org/props/isAlternativeVersionOf
    :value type: | linked object array \(1-N\) of type
-                | core:WebServiceVersion \[TYPE_ERROR\]
+                | `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_
    :instructions: Add all web service versions that can be used alternatively to this web service version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -274,9 +274,9 @@ Reference to a previous (potentially outdated) particular form of something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isNewVersionOf
+   :semantic name: https://openminds.om-i.org/props/isNewVersionOf
    :value type: | linked object of type
-                | core:WebServiceVersion \[TYPE_ERROR\]
+                | `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_
    :instructions: Add the web service version preceding this web service version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -293,9 +293,9 @@ Significant word or concept that are representative of something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/keyword
+   :semantic name: https://openminds.om-i.org/props/keyword
    :value type: | linked object array \(1-N\) of type
-                | controlledTerms:ActionStatusType \[TYPE_ERROR\], controlledTerms:AgeCategory \[TYPE_ERROR\], controlledTerms:AnalysisTechnique \[TYPE_ERROR\], controlledTerms:AnatomicalAxesOrientation \[TYPE_ERROR\], controlledTerms:AnatomicalIdentificationType \[TYPE_ERROR\], controlledTerms:AnatomicalPlane \[TYPE_ERROR\], controlledTerms:AnnotationCriteriaType \[TYPE_ERROR\], controlledTerms:AnnotationType \[TYPE_ERROR\], controlledTerms:AtlasType \[TYPE_ERROR\], controlledTerms:AuditoryStimulusType \[TYPE_ERROR\], controlledTerms:BiologicalOrder \[TYPE_ERROR\], controlledTerms:BiologicalProcess \[TYPE_ERROR\], controlledTerms:BiologicalSex \[TYPE_ERROR\], controlledTerms:BreedingType \[TYPE_ERROR\], controlledTerms:CellCultureType \[TYPE_ERROR\], controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:ChemicalMixtureType \[TYPE_ERROR\], controlledTerms:Colormap \[TYPE_ERROR\], controlledTerms:ContributionType \[TYPE_ERROR\], controlledTerms:CranialWindowConstructionType \[TYPE_ERROR\], controlledTerms:CranialWindowReinforcementType \[TYPE_ERROR\], controlledTerms:CriteriaQualityType \[TYPE_ERROR\], controlledTerms:DataType \[TYPE_ERROR\], controlledTerms:DeviceType \[TYPE_ERROR\], controlledTerms:DifferenceMeasure \[TYPE_ERROR\], controlledTerms:Disease \[TYPE_ERROR\], controlledTerms:DiseaseModel \[TYPE_ERROR\], controlledTerms:EducationalLevel \[TYPE_ERROR\], controlledTerms:ElectricalStimulusType \[TYPE_ERROR\], controlledTerms:EthicsAssessment \[TYPE_ERROR\], controlledTerms:ExperimentalApproach \[TYPE_ERROR\], controlledTerms:FileBundleGrouping \[TYPE_ERROR\], controlledTerms:FileRepositoryType \[TYPE_ERROR\], controlledTerms:FileUsageRole \[TYPE_ERROR\], controlledTerms:GeneticStrainType \[TYPE_ERROR\], controlledTerms:GustatoryStimulusType \[TYPE_ERROR\], controlledTerms:Handedness \[TYPE_ERROR\], controlledTerms:Language \[TYPE_ERROR\], controlledTerms:Laterality \[TYPE_ERROR\], controlledTerms:LearningResourceType \[TYPE_ERROR\], controlledTerms:MRIPulseSequence \[TYPE_ERROR\], controlledTerms:MRIWeighting \[TYPE_ERROR\], controlledTerms:MeasuredQuantity \[TYPE_ERROR\], controlledTerms:MeasuredSignalType \[TYPE_ERROR\], controlledTerms:MetaDataModelType \[TYPE_ERROR\], controlledTerms:ModelAbstractionLevel \[TYPE_ERROR\], controlledTerms:ModelScope \[TYPE_ERROR\], controlledTerms:MolecularEntity \[TYPE_ERROR\], controlledTerms:OlfactoryStimulusType \[TYPE_ERROR\], controlledTerms:OperatingDevice \[TYPE_ERROR\], controlledTerms:OperatingSystem \[TYPE_ERROR\], controlledTerms:OpticalStimulusType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:OrganismSystem \[TYPE_ERROR\], controlledTerms:PatchClampVariation \[TYPE_ERROR\], controlledTerms:PreparationType \[TYPE_ERROR\], controlledTerms:ProductAccessibility \[TYPE_ERROR\], controlledTerms:ProgrammingLanguage \[TYPE_ERROR\], controlledTerms:QualitativeOverlap \[TYPE_ERROR\], controlledTerms:SemanticDataType \[TYPE_ERROR\], controlledTerms:Service \[TYPE_ERROR\], controlledTerms:SetupType \[TYPE_ERROR\], controlledTerms:SoftwareApplicationCategory \[TYPE_ERROR\], controlledTerms:SoftwareFeature \[TYPE_ERROR\], controlledTerms:Species \[TYPE_ERROR\], controlledTerms:StimulationApproach \[TYPE_ERROR\], controlledTerms:StimulationTechnique \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:SubjectAttribute \[TYPE_ERROR\], controlledTerms:TactileStimulusType \[TYPE_ERROR\], controlledTerms:Technique \[TYPE_ERROR\], controlledTerms:TermSuggestion \[TYPE_ERROR\], controlledTerms:Terminology \[TYPE_ERROR\], controlledTerms:TissueSampleAttribute \[TYPE_ERROR\], controlledTerms:TissueSampleType \[TYPE_ERROR\], controlledTerms:TypeOfUncertainty \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], controlledTerms:UnitOfMeasurement \[TYPE_ERROR\] or controlledTerms:VisualStimulusType \[TYPE_ERROR\]
+                | `ActionStatusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/actionStatusType.html>`_, `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ageCategory.html>`_, `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/analysisTechnique.html>`_, `AnatomicalAxesOrientation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalAxesOrientation.html>`_, `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`_, `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalPlane.html>`_, `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationCriteriaType.html>`_, `AnnotationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/annotationType.html>`_, `AtlasType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/atlasType.html>`_, `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalProcess <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalProcess.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/chemicalMixtureType.html>`_, `Colormap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/colormap.html>`_, `ContributionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/contributionType.html>`_, `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowConstructionType.html>`_, `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cranialWindowReinforcementType.html>`_, `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/criteriaQualityType.html>`_, `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_, `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_, `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/differenceMeasure.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/diseaseModel.html>`_, `EducationalLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/educationalLevel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `EthicsAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ethicsAssessment.html>`_, `ExperimentalApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/experimentalApproach.html>`_, `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileBundleGrouping.html>`_, `FileRepositoryType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileRepositoryType.html>`_, `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/handedness.html>`_, `Language <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/language.html>`_, `Laterality <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/laterality.html>`_, `LearningResourceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/learningResourceType.html>`_, `MRIPulseSequence <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/MRIPulseSequence.html>`_, `MRIWeighting <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/MRIWeighting.html>`_, `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredQuantity.html>`_, `MeasuredSignalType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/measuredSignalType.html>`_, `MetaDataModelType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/metaDataModelType.html>`_, `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelAbstractionLevel.html>`_, `ModelScope <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/modelScope.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OperatingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingDevice.html>`_, `OperatingSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/operatingSystem.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSystem.html>`_, `PatchClampVariation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/patchClampVariation.html>`_, `PreparationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/preparationType.html>`_, `ProductAccessibility <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/productAccessibility.html>`_, `ProgrammingLanguage <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/programmingLanguage.html>`_, `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/qualitativeOverlap.html>`_, `SemanticDataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/semanticDataType.html>`_, `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_, `SetupType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/setupType.html>`_, `SoftwareApplicationCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareApplicationCategory.html>`_, `SoftwareFeature <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/softwareFeature.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_, `StimulationApproach <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationApproach.html>`_, `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/stimulationTechnique.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `SubjectAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subjectAttribute.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `Technique <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/technique.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/termSuggestion.html>`_, `Terminology <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/terminology.html>`_, `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleAttribute.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/tissueSampleType.html>`_, `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_ or `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/visualStimulusType.html>`_
    :instructions: Add all relevant keywords to this research product version either by adding controlled terms or by suggesting new terms.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -312,9 +312,9 @@ Giving or supplying of something (such as money or time) as a part or share othe
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/otherContribution
+   :semantic name: https://openminds.om-i.org/props/otherContribution
    :value type: | embedded object array \(1-N\) of type
-                | core:Contribution \[TYPE_ERROR\]
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contribution.html>`_
    :instructions: Add any other contributions to this research product version that are not covered under 'author'/'developer' or 'custodian'.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -331,9 +331,9 @@ Format of data that comes out of, is delivered or produced by a process or machi
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/outputFormat
+   :semantic name: https://openminds.om-i.org/props/outputFormat
    :value type: | linked object array \(1-N\) of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: Add all content types that can be generated as output by this web service version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -350,9 +350,9 @@ Reference to something that was made available for the general public to see or 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relatedPublication
+   :semantic name: https://openminds.om-i.org/props/relatedPublication
    :value type: | linked object array \(1-N\) of type
-                | core:DOI \[TYPE_ERROR\], core:HANDLE \[TYPE_ERROR\], core:ISBN \[TYPE_ERROR\], core:ISSN \[TYPE_ERROR\], publications:Book \[TYPE_ERROR\], publications:Chapter \[TYPE_ERROR\] or publications:ScholarlyArticle \[TYPE_ERROR\]
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_, `HANDLE <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/HANDLE.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISBN.html>`_, `ISSN <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISSN.html>`_, `Book <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/book.html>`_, `Chapter <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/chapter.html>`_ or `ScholarlyArticle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/scholarlyArticle.html>`_
    :instructions: Add all further publications besides the full documentation that provide the original context for the production of this research product version (e.g., an original research article that used or produced the data of this research product version).
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -369,7 +369,7 @@ Fixed date on which a product is due to become or was made available for the gen
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/releaseDate
+   :semantic name: https://openminds.om-i.org/props/releaseDate
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the date (actual or intended) on which this research product version was first release, formatted as 'YYYY-MM-DD'.
@@ -388,9 +388,9 @@ Place, room, or container where something is deposited or stored.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/repository
+   :semantic name: https://openminds.om-i.org/props/repository
    :value type: | linked object of type
-                | core:FileRepository \[TYPE_ERROR\]
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileRepository.html>`_
    :instructions: Add the file repository of this research product version.
 
 `BACK TO TOP <WebServiceVersion_>`_
@@ -407,7 +407,7 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/shortName
+   :semantic name: https://openminds.om-i.org/props/shortName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (or alias) for this research product version that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
@@ -426,7 +426,7 @@ Way of communication used to interact with users or customers.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/supportChannel
+   :semantic name: https://openminds.om-i.org/props/supportChannel
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter all channels through which a user can receive support for handling this research product version.
@@ -445,7 +445,7 @@ Term or code used to identify the version of something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/versionIdentifier
+   :semantic name: https://openminds.om-i.org/props/versionIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the version identifier of this research product version.
@@ -464,7 +464,7 @@ Documentation on what changed in comparison to a previously published form of so
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/versionInnovation
+   :semantic name: https://openminds.om-i.org/props/versionInnovation
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short description (or summary) of the novelties/peculiarities of this research product version in comparison to its preceding versions. If this research product version is the first version, you can enter the following disclaimer 'This is the first version of this research product'.

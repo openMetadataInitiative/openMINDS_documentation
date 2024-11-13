@@ -2,9 +2,9 @@
 BiologicalProcess
 #################
 
-:Semantic name: controlledTerms:BiologicalProcess
+:Semantic name: https://openminds.om-i.org/types/BiologicalProcess
 
-:Display as: Controlled terms:biological process
+:Display as: Biological process
 
 
 ------------
@@ -29,7 +29,7 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/definition
+   :semantic name: https://openminds.om-i.org/props/definition
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter one sentence for defining this term.
@@ -48,7 +48,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this term.
@@ -67,7 +67,7 @@ Persistent identifier for a term registered in the InterLex project.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/interlexIdentifier
+   :semantic name: https://openminds.om-i.org/props/interlexIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project.
@@ -86,7 +86,7 @@ Persistent link to an encyclopedia entry in the Knowledge Space project.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/knowledgeSpaceLink
+   :semantic name: https://openminds.om-i.org/props/knowledgeSpaceLink
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace.
@@ -105,7 +105,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Controlled term originating from a defined terminology.
@@ -124,7 +124,7 @@ Persistent identifier of a preferred ontological term.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/preferredOntologyIdentifier
+   :semantic name: https://openminds.om-i.org/props/preferredOntologyIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term.
@@ -143,7 +143,7 @@ Words or expressions used in the same language that have the same or nearly the 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :semantic name: https://openminds.om-i.org/props/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.

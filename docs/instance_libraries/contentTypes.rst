@@ -4816,6 +4816,19 @@ image_vnd.compix.simplepcihcimage
 
 ------------
 
+image_vnd.ilastik+hdf5
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/image_vnd.ilastik+hdf5
+   :@type: https://openminds.om-i.org/types/ContentType
+   :name: image/vnd.ilastik+hdf5
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 image_vnd.ilastik.pixelclassification+hdf5
 ------------------------------------------
 
@@ -4941,6 +4954,19 @@ image_x-hdf
    :@id: https://openminds.om-i.org/instances/contentTypes/image_x-hdf
    :@type: https://openminds.om-i.org/types/ContentType
    :name: image/x-hdf
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+image_x-n5
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/image_x-n5
+   :@type: https://openminds.om-i.org/types/ContentType
+   :name: image/x-n5
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5075,6 +5101,21 @@ text_tab-separated-values
    :@type: https://openminds.om-i.org/types/ContentType
    :name: text/tab-separated-values
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/tab-separated-values
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+text_vnd.citation-file-format
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/text_vnd.citation-file-format
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: CITATION.cff files are plain text files with human- and machine-readable citation information for research products. [adapted from [Citation File Format (CFF)](https://citation-file-format.github.io/)]
+   :name: text/vnd.citation-file-format
+   :specification: https://github.com/citation-file-format/citation-file-format/blob/main/README.md
 
 `BACK TO TOP <ContentTypes library_>`_
 

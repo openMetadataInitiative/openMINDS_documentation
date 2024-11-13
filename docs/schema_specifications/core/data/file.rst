@@ -2,9 +2,11 @@
 File
 ####
 
-:Semantic name: core:File
+:Semantic name: https://openminds.om-i.org/types/File
 
-:Display as: Core:file
+:Display as: File
+
+Structured information on a file instance that is accessible via a URL.
 
 
 ------------
@@ -29,7 +31,7 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.om-i.org/props/IRI
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to this file instance.
@@ -46,7 +48,7 @@ contentDescription
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contentDescription
+   :semantic name: https://openminds.om-i.org/props/contentDescription
    :value type: | string
                 | formatting: text/plain; multiline
    :instructions: Enter a short content description for this file instance.
@@ -63,9 +65,9 @@ dataType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/dataType
+   :semantic name: https://openminds.om-i.org/props/dataType
    :value type: | linked object array \(1-N\) of type
-                | controlledTerms:DataType \[TYPE_ERROR\]
+                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that are specifically represented in this file instance.
 
 `BACK TO TOP <File_>`_
@@ -80,9 +82,9 @@ fileRepository
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fileRepository
+   :semantic name: https://openminds.om-i.org/props/fileRepository
    :value type: | linked object of type
-                | core:FileRepository \[TYPE_ERROR\]
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileRepository.html>`_
    :instructions: Add the overarching repository to which this file instance belongs.
 
 `BACK TO TOP <File_>`_
@@ -99,9 +101,9 @@ Method of digitally organizing and structuring data or information.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/format
+   :semantic name: https://openminds.om-i.org/props/format
    :value type: | linked object of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -118,9 +120,9 @@ Term used for the process of converting any data into a single value. Often also
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hash
+   :semantic name: https://openminds.om-i.org/props/hash
    :value type: | embedded object array \(1-N\) of type
-                | core:Hash \[TYPE_ERROR\]
+                | `Hash <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/hash.html>`_
    :instructions: Add all hashes that were generated for this file instance.
 
 `BACK TO TOP <File_>`_
@@ -137,9 +139,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | core:FileBundle \[TYPE_ERROR\]
+                | `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all file bundles in which this file instance is grouped into.
 
 `BACK TO TOP <File_>`_
@@ -156,7 +158,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this file instance.
@@ -175,9 +177,9 @@ Particular function of something when it is used.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/specialUsageRole
+   :semantic name: https://openminds.om-i.org/props/specialUsageRole
    :value type: | linked object of type
-                | controlledTerms:FileUsageRole \[TYPE_ERROR\]
+                | `FileUsageRole <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/fileUsageRole.html>`_
    :instructions: Add the special usage role of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -194,9 +196,9 @@ Quantitative value defining how much disk space is used by an object on a comput
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/storageSize
+   :semantic name: https://openminds.om-i.org/props/storageSize
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size of this file instance.
 
 `BACK TO TOP <File_>`_

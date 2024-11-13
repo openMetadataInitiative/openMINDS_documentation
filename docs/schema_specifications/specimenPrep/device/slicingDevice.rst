@@ -2,9 +2,9 @@
 SlicingDevice
 #############
 
-:Semantic name: specimenPrep:SlicingDevice
+:Semantic name: https://openminds.om-i.org/types/SlicingDevice
 
-:Display as: Specimen prep:slicing device
+:Display as: Slicing device
 
 
 ------------
@@ -29,7 +29,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this device.
@@ -46,9 +46,9 @@ deviceType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/deviceType
+   :semantic name: https://openminds.om-i.org/props/deviceType
    :value type: | linked object of type
-                | controlledTerms:DeviceType \[TYPE_ERROR\]
+                | `DeviceType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/deviceType.html>`_
    :instructions: Add the type of this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -65,9 +65,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | core:DOI \[TYPE_ERROR\] or core:RRID \[TYPE_ERROR\]
+                | `DOI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -82,7 +82,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this device that may help you to find this instance more easily.
@@ -99,9 +99,9 @@ manufacturer
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
+   :semantic name: https://openminds.om-i.org/props/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -118,7 +118,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this device, preferably including the model name as defined by the manufacturer.
@@ -135,9 +135,9 @@ owner
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/owner
+   :semantic name: https://openminds.om-i.org/props/owner
    :value type: | linked object array \(1-N\) of type
-                | core:Consortium \[TYPE_ERROR\], core:Organization \[TYPE_ERROR\] or core:Person \[TYPE_ERROR\]
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <SlicingDevice_>`_
@@ -152,7 +152,7 @@ serialNumber
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/serialNumber
+   :semantic name: https://openminds.om-i.org/props/serialNumber
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the serial number of this device.

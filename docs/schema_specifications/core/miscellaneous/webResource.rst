@@ -2,9 +2,9 @@
 WebResource
 ###########
 
-:Semantic name: core:WebResource
+:Semantic name: https://openminds.om-i.org/types/WebResource
 
-:Display as: Core:web resource
+:Display as: Web resource
 
 
 ------------
@@ -29,7 +29,7 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.om-i.org/props/IRI
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to this web resource.
@@ -46,7 +46,7 @@ contentDescription
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contentDescription
+   :semantic name: https://openminds.om-i.org/props/contentDescription
    :value type: | string
                 | formatting: text/plain; multiline
    :instructions: Enter a short content description for this web resource.
@@ -65,9 +65,9 @@ Method of digitally organizing and structuring data or information.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/format
+   :semantic name: https://openminds.om-i.org/props/format
    :value type: | linked object of type
-                | core:ContentType \[TYPE_ERROR\]
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/contentType.html>`_
    :instructions: Add the expected content type of the document at this web resource.
 
 `BACK TO TOP <WebResource_>`_

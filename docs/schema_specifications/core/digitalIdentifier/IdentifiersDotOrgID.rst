@@ -2,9 +2,9 @@
 IdentifiersDotOrgID
 ###################
 
-:Semantic name: core:IdentifiersDotOrgID
+:Semantic name: https://openminds.om-i.org/types/IdentifiersDotOrgID
 
-:Display as: Core:identifiers dot org id
+:Display as: Identifiers dot org id
 
 
 ------------
@@ -29,7 +29,7 @@ Term or code used to identify something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/identifier
+   :semantic name: https://openminds.om-i.org/props/identifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the resolvable identifier (IRI) of Identifiers.org.

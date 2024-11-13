@@ -2,9 +2,11 @@
 ChemicalSubstance
 #################
 
-:Semantic name: chemicals:ChemicalSubstance
+:Semantic name: https://openminds.om-i.org/types/ChemicalSubstance
 
-:Display as: Chemicals:chemical substance
+:Display as: Chemical substance
+
+Structured information about a chemical substance.
 
 
 ------------
@@ -29,7 +31,7 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this chemical substance.
@@ -46,7 +48,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this chemical substance that may help you to find this instance more easily.
@@ -63,9 +65,9 @@ molecularEntity
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/molecularEntity
+   :semantic name: https://openminds.om-i.org/props/molecularEntity
    :value type: | linked object of type
-                | controlledTerms:MolecularEntity \[TYPE_ERROR\]
+                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the molecular entity that makes up this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -80,9 +82,9 @@ productSource
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/productSource
+   :semantic name: https://openminds.om-i.org/props/productSource
    :value type: | linked object of type
-                | chemicals:ProductSource \[TYPE_ERROR\]
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -97,9 +99,9 @@ purity
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/purity
+   :semantic name: https://openminds.om-i.org/props/purity
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the purity of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_

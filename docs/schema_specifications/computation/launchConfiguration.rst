@@ -2,9 +2,11 @@
 LaunchConfiguration
 ###################
 
-:Semantic name: computation:LaunchConfiguration
+:Semantic name: https://openminds.om-i.org/types/LaunchConfiguration
 
-:Display as: Computation:launch configuration
+:Display as: Launch configuration
+
+Structured information about the launch of a computational process.
 
 
 ------------
@@ -27,7 +29,7 @@ argument
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/argument
+   :semantic name: https://openminds.om-i.org/props/argument
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter all command line arguments for this launch configuration.
@@ -46,7 +48,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this launch configuration.
@@ -63,9 +65,9 @@ environmentVariable
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/environmentVariable
+   :semantic name: https://openminds.om-i.org/props/environmentVariable
    :value type: | linked object of type
-                | core:PropertyValueList \[TYPE_ERROR\]
+                | `PropertyValueList <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/propertyValueList.html>`_
    :instructions: Add any environment variables defined by this launch configuration.
 
 `BACK TO TOP <LaunchConfiguration_>`_
@@ -80,7 +82,7 @@ executable
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/executable
+   :semantic name: https://openminds.om-i.org/props/executable
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the path to the command-line executable.
@@ -99,7 +101,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this launch configuration.

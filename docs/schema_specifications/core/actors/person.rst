@@ -2,9 +2,13 @@
 Person
 ######
 
-:Semantic name: core:Person
+:Semantic name: https://openminds.om-i.org/types/Person
 
-:Display as: Core:person
+:Display as: Person
+
+Structured information on a person.
+
+:Semantic equivalents: https://schema.org/Person
 
 
 ------------
@@ -29,9 +33,9 @@ Declaration of a person being closely associated to an organization.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/affiliation
+   :semantic name: https://openminds.om-i.org/props/affiliation
    :value type: | embedded object array \(1-N\) of type
-                | core:Affiliation \[TYPE_ERROR\]
+                | `Affiliation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/affiliation.html>`_
    :instructions: Enter all current and, if desired, past affiliations of this person.
 
 `BACK TO TOP <Person_>`_
@@ -46,7 +50,7 @@ alternateName
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/alternateName
+   :semantic name: https://openminds.om-i.org/props/alternateName
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter any other known full name of this person.
@@ -63,9 +67,9 @@ associatedAccount
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/associatedAccount
+   :semantic name: https://openminds.om-i.org/props/associatedAccount
    :value type: | linked object array \(1-N\) of type
-                | core:AccountInformation \[TYPE_ERROR\]
+                | `AccountInformation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/accountInformation.html>`_
    :instructions: Add the information about web service accounts held by this person.
 
 `BACK TO TOP <Person_>`_
@@ -82,9 +86,9 @@ Any available way used to contact a person or business (e.g., address, phone num
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
+   :semantic name: https://openminds.om-i.org/props/contactInformation
    :value type: | linked object of type
-                | core:ContactInformation \[TYPE_ERROR\]
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this person.
 
 `BACK TO TOP <Person_>`_
@@ -101,9 +105,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | core:ORCID \[TYPE_ERROR\]
+                | `ORCID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ORCID.html>`_
    :instructions: Add all globally unique and persistent digital identifier of this person.
 
 `BACK TO TOP <Person_>`_
@@ -120,7 +124,7 @@ Name borne in common by members of a family.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/familyName
+   :semantic name: https://openminds.om-i.org/props/familyName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the family name of this person.
@@ -139,7 +143,7 @@ Name given to a person, including all potential middle names, but excluding the 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/givenName
+   :semantic name: https://openminds.om-i.org/props/givenName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the given name of this person.

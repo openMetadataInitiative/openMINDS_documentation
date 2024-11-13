@@ -2,9 +2,9 @@
 CustomAnatomicalEntity
 ######################
 
-:Semantic name: sands:CustomAnatomicalEntity
+:Semantic name: https://openminds.om-i.org/types/CustomAnatomicalEntity
 
-:Display as: Sands:custom anatomical entity
+:Display as: Custom anatomical entity
 
 
 ------------
@@ -27,9 +27,9 @@ hasAnnotation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasAnnotation
+   :semantic name: https://openminds.om-i.org/props/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | sands:CustomAnnotation \[TYPE_ERROR\]
+                | `CustomAnnotation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnnotation.html>`_
    :instructions: Add all custom annotations which define this custom anatomical entity.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -46,7 +46,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this custom anatomical entity.
@@ -63,9 +63,9 @@ relatedUBERONTerm
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
+   :semantic name: https://openminds.om-i.org/props/relatedUBERONTerm
    :value type: | linked object of type
-                | controlledTerms:Organ \[TYPE_ERROR\] or controlledTerms:UBERONParcellation \[TYPE_ERROR\]
+                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_
@@ -80,9 +80,9 @@ relationAssessment
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relationAssessment
+   :semantic name: https://openminds.om-i.org/props/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | sands:QualitativeRelationAssessment \[TYPE_ERROR\] or sands:QuantitativeRelationAssessment \[TYPE_ERROR\]
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add all relations (qualitative or quantitative) of this custom anatomical entity to other anatomical entities.
 
 `BACK TO TOP <CustomAnatomicalEntity_>`_

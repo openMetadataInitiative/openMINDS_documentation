@@ -2,9 +2,11 @@
 License
 #######
 
-:Semantic name: core:License
+:Semantic name: https://openminds.om-i.org/types/License
 
-:Display as: Core:license
+:Display as: License
+
+Structured information on a used license.
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/licenses.html>`_.
@@ -31,7 +33,7 @@ Whole, non-abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fullName
+   :semantic name: https://openminds.om-i.org/props/fullName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the full name of this license.
@@ -50,7 +52,7 @@ Type of legislation that claims to cover the law system (complete or parts) as i
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/legalCode
+   :semantic name: https://openminds.om-i.org/props/legalCode
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the legal code of this license.
@@ -69,7 +71,7 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/shortName
+   :semantic name: https://openminds.om-i.org/props/shortName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (or alias) for this license that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
@@ -88,7 +90,7 @@ Hypertext document (block of information) found on the World Wide Web.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/webpage
+   :semantic name: https://openminds.om-i.org/props/webpage
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifiers (IRIs) to webpages related to this license (e.g., a homepage).

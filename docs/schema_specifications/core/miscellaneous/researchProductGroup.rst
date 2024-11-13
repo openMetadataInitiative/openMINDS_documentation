@@ -2,9 +2,9 @@
 ResearchProductGroup
 ####################
 
-:Semantic name: core:ResearchProductGroup
+:Semantic name: https://openminds.om-i.org/types/ResearchProductGroup
 
-:Display as: Core:research product group
+:Display as: Research product group
 
 
 ------------
@@ -27,7 +27,7 @@ context
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/context
+   :semantic name: https://openminds.om-i.org/props/context
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the common context for this research product group.
@@ -44,9 +44,9 @@ hasPart
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasPart
+   :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(1-N\) of type
-                | computation:ValidationTest \[TYPE_ERROR\], computation:ValidationTestVersion \[TYPE_ERROR\], computation:WorkflowRecipe \[TYPE_ERROR\], computation:WorkflowRecipeVersion \[TYPE_ERROR\], core:Dataset \[TYPE_ERROR\], core:DatasetVersion \[TYPE_ERROR\], core:MetaDataModel \[TYPE_ERROR\], core:MetaDataModelVersion \[TYPE_ERROR\], core:Model \[TYPE_ERROR\], core:ModelVersion \[TYPE_ERROR\], core:Software \[TYPE_ERROR\], core:SoftwareVersion \[TYPE_ERROR\], core:WebService \[TYPE_ERROR\], core:WebServiceVersion \[TYPE_ERROR\], publications:LivePaper \[TYPE_ERROR\], publications:LivePaperVersion \[TYPE_ERROR\], sands:BrainAtlas \[TYPE_ERROR\], sands:BrainAtlasVersion \[TYPE_ERROR\], sands:CommonCoordinateSpace \[TYPE_ERROR\] or sands:CommonCoordinateSpaceVersion \[TYPE_ERROR\]
+                | `ValidationTest <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTest.html>`_, `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_, `WorkflowRecipe <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipe.html>`_, `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_, `Dataset <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/dataset.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_, `MetaDataModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModel.html>`_, `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModelVersion.html>`_, `Model <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/model.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `Software <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/software.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `WebService <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webService.html>`_, `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_, `LivePaper <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaper.html>`_, `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_, `BrainAtlas <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlas.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_, `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpace.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add all research products (research product versions) that should be grouped under the given 'context'.
 
 `BACK TO TOP <ResearchProductGroup_>`_

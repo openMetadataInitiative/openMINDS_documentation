@@ -2,9 +2,11 @@
 Subject
 #######
 
-:Semantic name: core:Subject
+:Semantic name: https://openminds.om-i.org/types/Subject
 
-:Display as: Core:subject
+:Display as: Subject
+
+Structured information on a subject.
 
 
 ------------
@@ -29,9 +31,9 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/biologicalSex
+   :semantic name: https://openminds.om-i.org/props/biologicalSex
    :value type: | linked object of type
-                | controlledTerms:BiologicalSex \[TYPE_ERROR\]
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of this specimen.
 
 `BACK TO TOP <Subject_>`_
@@ -48,7 +50,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this specimen that is used within the corresponding data files to identify this specimen.
@@ -67,9 +69,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | core:SubjectGroup \[TYPE_ERROR\]
+                | `SubjectGroup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroup.html>`_
    :instructions: Add all subject groups of which this subject is a member.
 
 `BACK TO TOP <Subject_>`_
@@ -84,7 +86,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this specimen that may help you to find this instance more easily.
@@ -103,9 +105,9 @@ Category of biological classification comprising related organisms or population
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/species
+   :semantic name: https://openminds.om-i.org/props/species
    :value type: | linked object of type
-                | controlledTerms:Species \[TYPE_ERROR\] or core:Strain \[TYPE_ERROR\]
+                | `Species <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/strain.html>`_
    :instructions: Add the species or strain (a sub-type of a genetic variant of species) of this specimen.
 
 `BACK TO TOP <Subject_>`_
@@ -122,9 +124,9 @@ Reference to a point in time at which something or someone was studied in a part
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/studiedState
+   :semantic name: https://openminds.om-i.org/props/studiedState
    :value type: | linked object array \(1-N\) of type
-                | core:SubjectState \[TYPE_ERROR\]
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_
    :instructions: Add all states in which this subject was studied.
 
 `BACK TO TOP <Subject_>`_

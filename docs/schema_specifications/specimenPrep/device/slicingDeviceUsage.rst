@@ -2,9 +2,9 @@
 SlicingDeviceUsage
 ##################
 
-:Semantic name: specimenPrep:SlicingDeviceUsage
+:Semantic name: https://openminds.om-i.org/types/SlicingDeviceUsage
 
-:Display as: Specimen prep:slicing device usage
+:Display as: Slicing device usage
 
 
 ------------
@@ -29,9 +29,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/device
+   :semantic name: https://openminds.om-i.org/props/device
    :value type: | linked object of type
-                | specimenPrep:SlicingDevice \[TYPE_ERROR\]
+                | `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDevice.html>`_
    :instructions: Add the slicing device used.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -46,7 +46,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this device usage that may help you to find this instance more easily.
@@ -63,9 +63,9 @@ metadataLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
+   :semantic name: https://openminds.om-i.org/props/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | core:File \[TYPE_ERROR\] or core:FileBundle \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -80,9 +80,9 @@ oscillationAmplitude
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/oscillationAmplitude
+   :semantic name: https://openminds.om-i.org/props/oscillationAmplitude
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the oscillation amplitude of the blade from the slicing device during its use.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -97,9 +97,9 @@ sliceThickness
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/sliceThickness
+   :semantic name: https://openminds.om-i.org/props/sliceThickness
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the defined slice thickness during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -114,9 +114,9 @@ slicingAngle
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/slicingAngle
+   :semantic name: https://openminds.om-i.org/props/slicingAngle
    :value type: | embedded object array \(1-2\) of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:NumericalProperty \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `NumericalProperty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/numericalProperty.html>`_
    :instructions: Enter all slicing angles (intentional or unintentional) in relation to the slicing plane used during this activity.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -131,9 +131,9 @@ slicingPlane
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/slicingPlane
+   :semantic name: https://openminds.om-i.org/props/slicingPlane
    :value type: | linked object of type
-                | controlledTerms:AnatomicalPlane \[TYPE_ERROR\]
+                | `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/anatomicalPlane.html>`_
    :instructions: Add the anatomical plane that best describes the slicing direction of the tissue sample(s) during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -148,9 +148,9 @@ slicingSpeed
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/slicingSpeed
+   :semantic name: https://openminds.om-i.org/props/slicingSpeed
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the defined slicing speed during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -165,9 +165,9 @@ usedSpecimen
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
+   :semantic name: https://openminds.om-i.org/props/usedSpecimen
    :value type: | linked object of type
-                | core:SubjectState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -182,9 +182,9 @@ vibrationFrequency
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/vibrationFrequency
+   :semantic name: https://openminds.om-i.org/props/vibrationFrequency
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the defined vibration frequency during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_

@@ -2,9 +2,9 @@
 ElectrodeUsage
 ##############
 
-:Semantic name: ephys:ElectrodeUsage
+:Semantic name: https://openminds.om-i.org/types/ElectrodeUsage
 
-:Display as: Ephys:electrode usage
+:Display as: Electrode usage
 
 
 ------------
@@ -27,9 +27,9 @@ anatomicalLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
+   :semantic name: https://openminds.om-i.org/props/anatomicalLocation
    :value type: | linked object of type
-                | controlledTerms:CellType \[TYPE_ERROR\], controlledTerms:Organ \[TYPE_ERROR\], controlledTerms:OrganismSubstance \[TYPE_ERROR\], controlledTerms:SubcellularEntity \[TYPE_ERROR\], controlledTerms:UBERONParcellation \[TYPE_ERROR\], sands:CustomAnatomicalEntity \[TYPE_ERROR\], sands:ParcellationEntity \[TYPE_ERROR\] or sands:ParcellationEntityVersion \[TYPE_ERROR\]
+                | `CellType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the anatomical entity that semantically best describes the anatomical location of the electrode contact.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -44,9 +44,9 @@ contactResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contactResistance
+   :semantic name: https://openminds.om-i.org/props/contactResistance
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\] or core:QuantitativeValueRange \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the contact resistance of this electrode during its use.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -63,9 +63,9 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/device
+   :semantic name: https://openminds.om-i.org/props/device
    :value type: | linked object of type
-                | ephys:Electrode \[TYPE_ERROR\]
+                | `Electrode <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrode.html>`_
    :instructions: Add the electrode used.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -80,7 +80,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this device usage that may help you to find this instance more easily.
@@ -97,9 +97,9 @@ metadataLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/metadataLocation
+   :semantic name: https://openminds.om-i.org/props/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | core:File \[TYPE_ERROR\] or core:FileBundle \[TYPE_ERROR\]
+                | `File <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <ElectrodeUsage_>`_
@@ -114,7 +114,7 @@ spatialLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/spatialLocation
+   :semantic name: https://openminds.om-i.org/props/spatialLocation
    :value type: | embedded object of type
                 | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Add the coordinate point that best describes the spatial location of the electrode contact during its use.
@@ -131,9 +131,9 @@ usedSpecimen
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/usedSpecimen
+   :semantic name: https://openminds.om-i.org/props/usedSpecimen
    :value type: | linked object of type
-                | core:SubjectState \[TYPE_ERROR\] or core:TissueSampleState \[TYPE_ERROR\]
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <ElectrodeUsage_>`_

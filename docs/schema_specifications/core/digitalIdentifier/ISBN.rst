@@ -2,9 +2,11 @@
 ISBN
 ####
 
-:Semantic name: core:ISBN
+:Semantic name: https://openminds.om-i.org/types/ISBN
 
-:Display as: Core:isbn
+:Display as: Isbn
+
+An International Standard Book Number of the International ISBN Agency.
 
 
 ------------
@@ -29,7 +31,7 @@ Term or code used to identify something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/identifier
+   :semantic name: https://openminds.om-i.org/props/identifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the numeric commercial book identifier 'International Standard Book Number' (ISBN) following the defined pattern (e.g., 123-4-567-89012-3 (13-digit ISBN) or 4-567-89012-3 (10-digit ISBN)).

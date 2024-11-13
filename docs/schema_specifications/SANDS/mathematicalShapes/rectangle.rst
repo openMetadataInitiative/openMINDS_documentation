@@ -2,9 +2,9 @@
 Rectangle
 #########
 
-:Semantic name: sands:Rectangle
+:Semantic name: https://openminds.om-i.org/types/Rectangle
 
-:Display as: Sands:rectangle
+:Display as: Rectangle
 
 
 ------------
@@ -27,9 +27,9 @@ length
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/length
+   :semantic name: https://openminds.om-i.org/props/length
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the length of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_
@@ -44,9 +44,9 @@ width
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/width
+   :semantic name: https://openminds.om-i.org/props/width
    :value type: | embedded object of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the width of this rectangle.
 
 `BACK TO TOP <Rectangle_>`_

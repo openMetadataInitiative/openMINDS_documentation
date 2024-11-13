@@ -36,6 +36,20 @@ GrubbsTest
 
 ------------
 
+HilbertTransform
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/HilbertTransform
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: A convolution technique for a function u(t) of a real variable with the function h(t) = 1/πt, known as the Cauchy kernel, producing a function of a real variable H(u)(t). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Hilbert_transform)]
+   :name: Hilbert transform
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 ICABasedDenoisingTechnique
 --------------------------
 
@@ -45,6 +59,20 @@ ICABasedDenoisingTechnique
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: An 'ICA based denoising technique' removes independent components from input data to reduce noise while preserving the features of interest in the data.
    :name: ICA based denoising technique
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+IGORPro
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/IGORPro
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
+   :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
+   :name: IGOR Pro
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -732,6 +760,20 @@ literatureMining
 
 ------------
 
+macromolecularTissueVolumeImageProcessing
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/macromolecularTissueVolumeImageProcessing
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: Magnetic resonance imaging analysis technique that provides a quantitative estimate of the macromolecular tissue volume within the image. [adapted from [Mezer et al., (2013)](https://doi.org/10.1038/nm.3390)].
+   :name: macromolecular tissue volume image processing
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
 magnetizationTransferRatioImageProcessing
 -----------------------------------------
 
@@ -752,6 +794,7 @@ magnetizationTransferSaturationImageProcessing
 
    :@id: https://openminds.om-i.org/instances/analysisTechnique/magnetizationTransferSaturationImageProcessing
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: Magnetization transfer estimation method that improves the contrast between white matter, gray matter, and cerebrospinal fluid, as well as the correlation with macromolecular content [adapted from [Longoni et al., (2023)](https://doi.org/10.1177/13524585221137500)].
    :name: magnetization transfer saturation image processing
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
@@ -944,6 +987,20 @@ multipleLinearRegression
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: A 'multiple linear regression' is a linear approach for modelling the relationship between a scalar response and multiple explanatory variables. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Linear_regression)]
    :name: multiple linear regression
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+multivariateAnalysis
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/multivariateAnalysis
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: Any statistical analysis of data where multiple measurements are made on each experimental unit and where the relationships among multivariate measurements and their structure are important. [adapted from [Olkin and Sampson, 2001](https://doi.org/10.1016/B0-08-043076-7/00472-1)]
+   :name: multivariate analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1150,6 +1207,20 @@ quantitativeAnalysis
    :@id: https://openminds.om-i.org/instances/analysisTechnique/quantitativeAnalysis
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :name: quantitative analysis
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+ratiometry
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/ratiometry
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: Quantitative analysis technique utilizing the ratio of two signals or responses obtained from a sample.
+   :name: ratiometry
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1429,6 +1500,20 @@ transformation
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: A 'transformation' is a mathematical function to map coordinates between two different coordinate systems.
    :name: transformation
+
+`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
+
+------------
+
+univariateAnalysis
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/analysisTechnique/univariateAnalysis
+   :@type: https://openminds.om-i.org/types/AnalysisTechnique
+   :definition: Any statistical analysis that is carried out on only one (dependent) variable of the data to summarize or describe that variable. [adapted from [Dandilands, 2014](https://doi.org/10.1007/978-94-007-0753-5_3108)]
+   :name: univariate analysis
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 

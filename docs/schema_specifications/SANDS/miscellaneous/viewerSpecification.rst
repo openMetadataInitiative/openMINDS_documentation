@@ -2,9 +2,9 @@
 ViewerSpecification
 ###################
 
-:Semantic name: sands:ViewerSpecification
+:Semantic name: https://openminds.om-i.org/types/ViewerSpecification
 
-:Display as: Sands:viewer specification
+:Display as: Viewer specification
 
 
 ------------
@@ -29,7 +29,7 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this viewer specification.
@@ -46,9 +46,9 @@ anchorPoint
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/anchorPoint
+   :semantic name: https://openminds.om-i.org/props/anchorPoint
    :value type: | embedded object array \(2-3\) of type
-                | core:QuantitativeValue \[TYPE_ERROR\]
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the coordinates of the anchor point that a viewer should use. Either state the anchor point of the annotation again or state another coordinate point.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -63,9 +63,9 @@ cameraPosition
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/cameraPosition
+   :semantic name: https://openminds.om-i.org/props/cameraPosition
    :value type: | embedded object of type
-                | sands:CoordinatePoint \[TYPE_ERROR\]
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Enter the camera position that a viewer should use.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -80,9 +80,9 @@ preferredDisplayColor
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/preferredDisplayColor
+   :semantic name: https://openminds.om-i.org/props/preferredDisplayColor
    :value type: | linked object of type
-                | controlledTerms:Colormap \[TYPE_ERROR\] or sands:SingleColor \[TYPE_ERROR\]
+                | `Colormap <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/colormap.html>`_ or `SingleColor <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/miscellaneous/singleColor.html>`_
    :instructions: Add the preferred color that a viewer should display.
 
 `BACK TO TOP <ViewerSpecification_>`_

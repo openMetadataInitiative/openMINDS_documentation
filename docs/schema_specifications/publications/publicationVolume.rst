@@ -2,9 +2,9 @@
 PublicationVolume
 #################
 
-:Semantic name: publications:PublicationVolume
+:Semantic name: https://openminds.om-i.org/types/PublicationVolume
 
-:Display as: Publications:publication volume
+:Display as: Publication volume
 
 
 ------------
@@ -29,9 +29,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | publications:Periodical \[TYPE_ERROR\]
+                | `Periodical <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/periodical.html>`_
    :instructions: Add the periodical this publication volume is part of.
 
 `BACK TO TOP <PublicationVolume_>`_
@@ -46,7 +46,7 @@ volumeNumber
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/volumeNumber
+   :semantic name: https://openminds.om-i.org/props/volumeNumber
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the volume number of this publication volume.

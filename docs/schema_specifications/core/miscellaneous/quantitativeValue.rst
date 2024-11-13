@@ -2,9 +2,11 @@
 QuantitativeValue
 #################
 
-:Semantic name: core:QuantitativeValue
+:Semantic name: https://openminds.om-i.org/types/QuantitativeValue
 
-:Display as: Core:quantitative value
+:Display as: Quantitative value
+
+Structured information on a quantitative value.
 
 
 ------------
@@ -29,9 +31,9 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
+   :semantic name: https://openminds.om-i.org/props/typeOfUncertainty
    :value type: | linked object of type
-                | controlledTerms:TypeOfUncertainty \[TYPE_ERROR\]
+                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
    :instructions: Add the type of uncertainty used to determine the uncertainty for this quantitative value.
 
 `BACK TO TOP <QuantitativeValue_>`_
@@ -48,7 +50,7 @@ Quantitative value range defining the uncertainty of a measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/uncertainty
+   :semantic name: https://openminds.om-i.org/props/uncertainty
    :value type: number array \(2-2\)
    :instructions: Enter the uncertainty of this quantitative value.
 
@@ -66,9 +68,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/unit
+   :semantic name: https://openminds.om-i.org/props/unit
    :value type: | linked object of type
-                | controlledTerms:UnitOfMeasurement \[TYPE_ERROR\]
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement of this quantitative value and its uncertainty.
 
 `BACK TO TOP <QuantitativeValue_>`_
@@ -85,7 +87,7 @@ Entry for a property.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/value
+   :semantic name: https://openminds.om-i.org/props/value
    :value type: number
    :instructions: Enter the value of this quantitative value.
 

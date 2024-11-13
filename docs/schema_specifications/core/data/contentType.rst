@@ -2,9 +2,11 @@
 ContentType
 ###########
 
-:Semantic name: core:ContentType
+:Semantic name: https://openminds.om-i.org/types/ContentType
 
-:Display as: Core:content type
+:Display as: Content type
+
+Structured information on the content type of a file instance, bundle or repository.
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/contentTypes.html>`_.
@@ -29,9 +31,9 @@ dataType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/dataType
+   :semantic name: https://openminds.om-i.org/props/dataType
    :value type: | linked object array \(1-N\) of type
-                | controlledTerms:DataType \[TYPE_ERROR\]
+                | `DataType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that may be represented via this content type.
 
 `BACK TO TOP <ContentType_>`_
@@ -48,7 +50,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a description of the content type specification. Leave blank if an official and public specification is linked under 'specification' for this content type.
@@ -65,7 +67,7 @@ displayLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/displayLabel
+   :semantic name: https://openminds.om-i.org/props/displayLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a display label for this content type.
@@ -84,7 +86,7 @@ String of characters attached as suffix to the names of files of a particular fo
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fileExtension
+   :semantic name: https://openminds.om-i.org/props/fileExtension
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter all file extensions associated with this content type.
@@ -103,7 +105,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this content type following a IANA.org inspired convention.
@@ -122,7 +124,7 @@ Reference to an official two-part identifier for file formats and format content
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relatedMediaType
+   :semantic name: https://openminds.om-i.org/props/relatedMediaType
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the official registered media type (e.g., provided on IANA.org) matching this content type.
@@ -141,7 +143,7 @@ Detailed and precise presentation of, or proposal for something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :semantic name: https://openminds.om-i.org/props/specification
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the official specification of this content type. If no official and public specification is available, leave blank and enter the specification under 'description'.
@@ -160,7 +162,7 @@ Words or expressions used in the same language that have the same or nearly the 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :semantic name: https://openminds.om-i.org/props/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter any synonyms of this content type.

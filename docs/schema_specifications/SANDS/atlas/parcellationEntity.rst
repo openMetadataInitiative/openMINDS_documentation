@@ -2,9 +2,9 @@
 ParcellationEntity
 ##################
 
-:Semantic name: sands:ParcellationEntity
+:Semantic name: https://openminds.om-i.org/types/ParcellationEntity
 
-:Display as: Sands:parcellation entity
+:Display as: Parcellation entity
 
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities.html>`_.
@@ -29,7 +29,7 @@ abbreviation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/abbreviation
+   :semantic name: https://openminds.om-i.org/props/abbreviation
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the official abbreviation of this parcellation entity.
@@ -46,7 +46,7 @@ alternateName
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/alternateName
+   :semantic name: https://openminds.om-i.org/props/alternateName
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter any alternate names, including any alternative abbreviations, for this parcellation entity.
@@ -65,7 +65,7 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/definition
+   :semantic name: https://openminds.om-i.org/props/definition
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter the definition for this parcellation entity.
@@ -84,9 +84,9 @@ Reference to a parent object or legal person.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasParent
+   :semantic name: https://openminds.om-i.org/props/hasParent
    :value type: | linked object array \(1-N\) of type
-                | sands:ParcellationEntity \[TYPE_ERROR\]
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
    :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corresponding brain atlas.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -103,9 +103,9 @@ Reference to variants of an original.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
+   :semantic name: https://openminds.om-i.org/props/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | sands:ParcellationEntityVersion \[TYPE_ERROR\]
+                | `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all versions of this parcellation entity.
 
 `BACK TO TOP <ParcellationEntity_>`_
@@ -120,7 +120,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this parcellation entity that may help you to find this instance more easily.
@@ -139,7 +139,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this parcellation entity.
@@ -158,7 +158,7 @@ Term or code used to identify something or someone registered within a particula
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/ontologyIdentifier
+   :semantic name: https://openminds.om-i.org/props/ontologyIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifiers (IRIs) to the related ontological terms matching this parcellation entity.
@@ -175,9 +175,9 @@ relatedUBERONTerm
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/relatedUBERONTerm
+   :semantic name: https://openminds.om-i.org/props/relatedUBERONTerm
    :value type: | linked object of type
-                | controlledTerms:Organ \[TYPE_ERROR\] or controlledTerms:UBERONParcellation \[TYPE_ERROR\]
+                | `Organ <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organ.html>`_ or `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/UBERONParcellation.html>`_
    :instructions: Add the related anatomical entity as defined by the UBERON ontology.
 
 `BACK TO TOP <ParcellationEntity_>`_
