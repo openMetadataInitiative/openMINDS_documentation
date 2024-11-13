@@ -2,7 +2,7 @@
 Setup
 #####
 
-:Semantic name: https://openminds.ebrains.eu/core/Setup
+:Semantic name: https://openminds.om-i.org/types/Setup
 
 :Display as: Setup
 
@@ -29,7 +29,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this setup.
@@ -46,9 +46,9 @@ hasPart
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasPart
+   :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `Setup <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/specimenPrep/device/slicingDevice.html>`_
+                | `Setup <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/specimenPrep/device/slicingDevice.html>`_
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_
@@ -63,7 +63,7 @@ location
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/location
+   :semantic name: https://openminds.om-i.org/props/location
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the geographic location of this setup. This may include room number, building, institution and/or city.
@@ -80,9 +80,9 @@ manufacturer
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
+   :semantic name: https://openminds.om-i.org/props/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this setup.
 
 `BACK TO TOP <Setup_>`_
@@ -99,7 +99,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this setup.
@@ -118,9 +118,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object array \(1-N\) of type
-                | `SetupType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/setupType.html>`_
+                | `SetupType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/setupType.html>`_
    :instructions: Add all types that describe this setup.
 
 `BACK TO TOP <Setup_>`_

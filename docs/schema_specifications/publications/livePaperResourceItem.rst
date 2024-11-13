@@ -2,7 +2,7 @@
 LivePaperResourceItem
 #####################
 
-:Semantic name: https://openminds.ebrains.eu/publications/LivePaperResourceItem
+:Semantic name: https://openminds.om-i.org/types/LivePaperResourceItem
 
 :Display as: Live paper resource item
 
@@ -29,7 +29,7 @@ Stands for Internationalized Resource Identifier which is an internet protocol s
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.om-i.org/props/IRI
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to this live paper resource item.
@@ -48,9 +48,9 @@ Reference to an organization that provides facilities and services for something
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hostedBy
+   :semantic name: https://openminds.om-i.org/props/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_
    :instructions: Add the host organization of this live paper resource item.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
@@ -67,9 +67,9 @@ Reference to the ensemble of multiple things or beings.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/publications/livePaperSection.html>`_
+                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/publications/livePaperSection.html>`_
    :instructions: Add the live paper section this live paper resource item is part of.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
@@ -86,7 +86,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this live paper resource item.

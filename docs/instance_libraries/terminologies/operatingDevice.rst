@@ -2,7 +2,7 @@
 Terminologies: OperatingDevice library
 ######################################
 
-Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/operatingDevice.html>`_
+Related schema specification: `OperatingDevice <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/operatingDevice.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ desktop
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/desktop
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: desktop
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56155
 
@@ -27,8 +27,8 @@ embeddedSystem
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/embeddedSystem
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: embedded system
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q193040
 
@@ -41,8 +41,8 @@ highPerformanceComputer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/highPerformanceComputer
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: high-performance computer
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q121117
 
@@ -55,8 +55,8 @@ mobile
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/mobile
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: mobile
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q5082128
 
@@ -69,8 +69,8 @@ neuromorphicComputer
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/neuromorphicComputer
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
    :name: neuromorphic computer
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56270917
@@ -84,8 +84,8 @@ server
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/server
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: server
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q64729893
 
@@ -98,8 +98,8 @@ web
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
+   :@id: https://openminds.om-i.org/instances/operatingDevice/web
+   :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: web
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q6368
 

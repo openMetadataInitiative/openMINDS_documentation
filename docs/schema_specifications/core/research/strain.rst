@@ -2,7 +2,7 @@
 Strain
 ######
 
-:Semantic name: https://openminds.ebrains.eu/core/Strain
+:Semantic name: https://openminds.om-i.org/types/Strain
 
 :Display as: Strain
 
@@ -27,10 +27,10 @@ alternateIdentifier
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/alternateIdentifier
+   :semantic name: https://openminds.om-i.org/props/alternateIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter all identifiers for this strain, excluding its ontological identifers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
+   :instructions: Enter all identifiers for this strain, excluding its ontological identifiers or RRID (e.g., identifiers from the Mouse Genome Informatics (MGI) database or Rat Genome Database (RGD)).
 
 `BACK TO TOP <Strain_>`_
 
@@ -44,9 +44,9 @@ backgroundStrain
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/backgroundStrain
+   :semantic name: https://openminds.om-i.org/props/backgroundStrain
    :value type: | linked object array \(1-2\) of type
-                | `Strain <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/research/strain.html>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/strain.html>`_
    :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two strains contributed equally, state both.
 
 `BACK TO TOP <Strain_>`_
@@ -61,9 +61,9 @@ breedingType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/breedingType
+   :semantic name: https://openminds.om-i.org/props/breedingType
    :value type: | linked object of type
-                | `BreedingType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/breedingType.html>`_
+                | `BreedingType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/breedingType.html>`_
    :instructions: Add the breeding type for this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -80,7 +80,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this strain.
@@ -99,9 +99,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | `RRID <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the 'Research Resource Identifier' (RRID) of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -116,9 +116,9 @@ diseaseModel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/diseaseModel
+   :semantic name: https://openminds.om-i.org/props/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/diseaseModel.html>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 
 `BACK TO TOP <Strain_>`_
@@ -133,9 +133,9 @@ geneticStrainType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/geneticStrainType
+   :semantic name: https://openminds.om-i.org/props/geneticStrainType
    :value type: | linked object of type
-                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
+                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
    :instructions: Add the genetic background type of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -150,7 +150,7 @@ laboratoryCode
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/laboratoryCode
+   :semantic name: https://openminds.om-i.org/props/laboratoryCode
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the laboratory code assigned by the Institute of Laboratory Animal Research (ILAR) for the investigator or organization that has created this strain following the defined pattern (e.g., Aaa).
@@ -169,7 +169,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this strain.
@@ -188,7 +188,7 @@ Term or code used to identify something or someone registered within a particula
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/ontologyIdentifier
+   :semantic name: https://openminds.om-i.org/props/ontologyIdentifier
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifiers (IRIs) to the related ontological terms matching this strain.
@@ -207,7 +207,7 @@ Physical expression of one or more genes of an organism.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/phenotype
+   :semantic name: https://openminds.om-i.org/props/phenotype
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short description for the phenotype of this strain.
@@ -226,9 +226,9 @@ Category of biological classification comprising related organisms or population
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/species
+   :semantic name: https://openminds.om-i.org/props/species
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/species.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_
    :instructions: Add the species of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -243,9 +243,9 @@ stockNumber
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/stockNumber
+   :semantic name: https://openminds.om-i.org/props/stockNumber
    :value type: | embedded object of type
-                | `StockNumber <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/stockNumber.html>`_
+                | `StockNumber <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/stockNumber.html>`_
    :instructions: Add the stock number from the vendor the strain was supplied from/is in stock at.
 
 `BACK TO TOP <Strain_>`_
@@ -262,10 +262,10 @@ Words or expressions used in the same language that have the same or nearly the 
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/synonym
+   :semantic name: https://openminds.om-i.org/props/synonym
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter any synonyms (inlcuding abbreviations) of this strain.
+   :instructions: Enter any synonyms (including abbreviations) of this strain.
 
 `BACK TO TOP <Strain_>`_
 

@@ -2,7 +2,7 @@
 ChemicalSubstance
 #################
 
-:Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalSubstance
+:Semantic name: https://openminds.om-i.org/types/ChemicalSubstance
 
 :Display as: Chemical substance
 
@@ -31,10 +31,10 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter any additional remarks concering this chemical substance.
+   :instructions: Enter any additional remarks concerning this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
 
@@ -48,7 +48,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this chemical substance that may help you to find this instance more easily.
@@ -65,9 +65,9 @@ molecularEntity
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/molecularEntity
+   :semantic name: https://openminds.om-i.org/props/molecularEntity
    :value type: | linked object of type
-                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the molecular entity that makes up this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -82,9 +82,9 @@ productSource
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/productSource
+   :semantic name: https://openminds.om-i.org/props/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/productSource.html>`_
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -99,9 +99,9 @@ purity
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/purity
+   :semantic name: https://openminds.om-i.org/props/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the purity of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_

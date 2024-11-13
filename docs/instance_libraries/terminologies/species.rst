@@ -2,7 +2,7 @@
 Terminologies: Species library
 ##############################
 
-Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/species.html>`_
+Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ berghiaStephanieae
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/berghiaStephanieae
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/berghiaStephanieae
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Berghia stephanieae* belongs to the family of *aeolidiidae* (family of sea slugs, shell-less marine gastropod molluscs).
    :name: Berghia stephanieae
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_1287507
@@ -28,8 +28,8 @@ callithrixJacchus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/callithrixJacchus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/callithrixJacchus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).
    :name: Callithrix jacchus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9483
@@ -43,8 +43,8 @@ chlorocebusAethiopsSabaeus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/chlorocebusAethiopsSabaeus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/chlorocebusAethiopsSabaeus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Chlorocebus aethiops sabaeus* (green monkey) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Chlorocebus aethiops sabaeus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60711
@@ -58,8 +58,8 @@ chlorocebusPygerythrus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/chlorocebusPygerythrus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/chlorocebusPygerythrus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Chlorocebus pygerythrus* (vervet marmoset) belongs to the family of *cercopithecidae* (old world monkeys).
    :name: Chlorocebus pygerythrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_60710
@@ -73,8 +73,8 @@ danioRerio
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/danioRerio
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/danioRerio
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0783580
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio
@@ -90,8 +90,8 @@ felisCatus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/felisCatus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/felisCatus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101690
    :name: Felis catus
@@ -106,8 +106,8 @@ homoSapiens
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/homoSapiens
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/homoSapiens
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105114
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:9606#human
@@ -123,8 +123,8 @@ macacaFascicularis
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/macacaFascicularis
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/macacaFascicularis
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0485278
    :name: Macaca fascicularis
@@ -139,8 +139,8 @@ macacaFuscata
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/macacaFuscata
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/macacaFuscata
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105773
    :name: Macaca fuscata
@@ -155,8 +155,8 @@ macacaMulatta
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/macacaMulatta
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/macacaMulatta
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110118
    :name: Macaca mulatta
@@ -171,8 +171,8 @@ monodelphisDomestica
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/monodelphisDomestica
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/monodelphisDomestica
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Monodelphis domestica* (gray short-tailed opossum) belongs to the family of *didelphidae* (American possums).
    :name: Monodelphis domestica
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_13616
@@ -186,8 +186,8 @@ musMusculus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/musMusculus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/musMusculus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107134
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:10090#mouse
@@ -203,8 +203,8 @@ mustelaPutorius
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/mustelaPutorius
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/mustelaPutorius
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).
    :name: Mustela putorius
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9668
@@ -218,8 +218,8 @@ mustelaPutoriusFuro
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/mustelaPutoriusFuro
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104165
    :name: Mustela putorius furo
@@ -234,8 +234,8 @@ ovisAries
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/ovisAries
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/ovisAries
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).
    :name: Ovis aries
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9940
@@ -249,8 +249,8 @@ rattusNorvegicus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/rattusNorvegicus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/rattusNorvegicus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109658
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:10116#rat
@@ -266,8 +266,8 @@ susScrofaDomesticus
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/susScrofaDomesticus
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/susScrofaDomesticus
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Sus scrofa domesticus* (domestic pig) belongs to the family of suidae (suids).
    :interlexIdentifier: http://uri.interlex.org/ilx_0739770
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:9825#sus-scrofa-domesticus
@@ -283,8 +283,8 @@ trachemysScriptaElegans
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans
-   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :@id: https://openminds.om-i.org/instances/species/trachemysScriptaElegans
+   :@type: https://openminds.om-i.org/types/Species
    :definition: The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae ([Wikipedia](https://en.wikipedia.org/wiki/Red-eared_slider)).
    :name: Trachemys scripta elegans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_31138

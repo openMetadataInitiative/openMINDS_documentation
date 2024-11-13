@@ -2,7 +2,7 @@
 QuantitativeValueRange
 ######################
 
-:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValueRange
+:Semantic name: https://openminds.om-i.org/types/QuantitativeValueRange
 
 :Display as: Quantitative value range
 
@@ -31,7 +31,7 @@ Greatest quantity attained or allowed.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/maxValue
+   :semantic name: https://openminds.om-i.org/props/maxValue
    :value type: number
    :instructions: Enter the maximum value.
 
@@ -47,9 +47,9 @@ maxValueUnit
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/maxValueUnit
+   :semantic name: https://openminds.om-i.org/props/maxValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the maximum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_
@@ -66,7 +66,7 @@ Smallest quantity attained or allowed.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/minValue
+   :semantic name: https://openminds.om-i.org/props/minValue
    :value type: number
    :instructions: Enter the minimum value.
 
@@ -82,9 +82,9 @@ minValueUnit
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/minValueUnit
+   :semantic name: https://openminds.om-i.org/props/minValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the minimum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

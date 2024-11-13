@@ -2,7 +2,7 @@
 FilePathPattern
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/core/FilePathPattern
+:Semantic name: https://openminds.om-i.org/types/FilePathPattern
 
 :Display as: File path pattern
 
@@ -27,9 +27,9 @@ groupingType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/groupingType
+   :semantic name: https://openminds.om-i.org/props/groupingType
    :value type: | linked object array \(1-N\) of type
-                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
+                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
    :instructions: Add all grouping types that are defined by this file path pattern.
 
 `BACK TO TOP <FilePathPattern_>`_
@@ -44,7 +44,7 @@ regex
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/regex
+   :semantic name: https://openminds.om-i.org/props/regex
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the regular expression that defines this file path pattern. Note that it must have the same number of groups as stated under 'groupingType'.

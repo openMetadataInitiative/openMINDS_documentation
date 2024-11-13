@@ -2,7 +2,7 @@
 NumericalProperty
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/NumericalProperty
+:Semantic name: https://openminds.om-i.org/types/NumericalProperty
 
 :Display as: Numerical property
 
@@ -31,7 +31,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this numerical property.
@@ -50,9 +50,9 @@ Entry for a property.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/value
+   :semantic name: https://openminds.om-i.org/props/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter all quantitative values that are described by this numerical property.
 
 `BACK TO TOP <NumericalProperty_>`_

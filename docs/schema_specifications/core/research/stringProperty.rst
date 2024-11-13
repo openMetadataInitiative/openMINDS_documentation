@@ -2,7 +2,7 @@
 StringProperty
 ##############
 
-:Semantic name: https://openminds.ebrains.eu/core/StringProperty
+:Semantic name: https://openminds.om-i.org/types/StringProperty
 
 :Display as: String property
 
@@ -29,7 +29,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this property.
@@ -48,7 +48,7 @@ Entry for a property.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/value
+   :semantic name: https://openminds.om-i.org/props/value
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the text value that is described by this string property.

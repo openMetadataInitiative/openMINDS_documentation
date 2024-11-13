@@ -2,7 +2,7 @@
 CommonCoordinateSpaceVersions: AMB-CCF library
 ##############################################
 
-Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ AMB-CCF_v1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v1
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v1
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: AMB CCF
    :fullName: Allen Mouse Brain Common Coordinate Framework
    :homepage: https://portal.brain-map.org/
@@ -32,8 +32,8 @@ AMB-CCF_v2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v2
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v2
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: AMB CCF
    :fullName: Allen Mouse Brain Common Coordinate Framework
    :homepage: https://portal.brain-map.org/
@@ -51,8 +51,8 @@ AMB-CCF_v3-RAS
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v3-RAS
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: AMB CCF
    :fullName: Allen Mouse Brain Common Coordinate Framework
    :homepage: https://portal.brain-map.org/
@@ -71,8 +71,8 @@ AMB-CCF_v3
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/AMB-CCF_v3
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/AMB-CCF_v3
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: AMB CCF
    :fullName: Allen Mouse Brain Common Coordinate Framework
    :homepage: https://portal.brain-map.org/

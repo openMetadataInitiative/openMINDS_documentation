@@ -2,7 +2,7 @@
 Ellipse
 #######
 
-:Semantic name: https://openminds.ebrains.eu/sands/Ellipse
+:Semantic name: https://openminds.om-i.org/types/Ellipse
 
 :Display as: Ellipse
 
@@ -27,9 +27,9 @@ semiMajorAxis
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/semiMajorAxis
+   :semantic name: https://openminds.om-i.org/props/semiMajorAxis
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the length of the semi-minor axis of this ellipse.
 
 `BACK TO TOP <Ellipse_>`_
@@ -44,9 +44,9 @@ semiMinorAxis
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/semiMinorAxis
+   :semantic name: https://openminds.om-i.org/props/semiMinorAxis
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the length of the semi-major axis of this ellipse.
 
 `BACK TO TOP <Ellipse_>`_

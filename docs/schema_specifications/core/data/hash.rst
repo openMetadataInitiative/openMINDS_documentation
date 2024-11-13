@@ -2,7 +2,7 @@
 Hash
 ####
 
-:Semantic name: https://openminds.ebrains.eu/core/Hash
+:Semantic name: https://openminds.om-i.org/types/Hash
 
 :Display as: Hash
 
@@ -31,7 +31,7 @@ Procedure for solving a mathematical problem in a finite number of steps. Can in
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/algorithm
+   :semantic name: https://openminds.om-i.org/props/algorithm
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the algorithm used to generate this hash.
@@ -50,7 +50,7 @@ Summation or condensation of a body of information.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digest
+   :semantic name: https://openminds.om-i.org/props/digest
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the digest of this hash.

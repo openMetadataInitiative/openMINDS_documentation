@@ -2,7 +2,7 @@
 Terminologies: FileUsageRole library
 ####################################
 
-Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
+Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ dataDescriptor
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor
-   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
+   :@id: https://openminds.om-i.org/instances/fileUsageRole/dataDescriptor
+   :@type: https://openminds.om-i.org/types/FileUsageRole
    :definition: A 'data descriptor' describes the provenance, the structure, the applied quality assessment, and possible (re)usage of the data. It should not present hypotheses tests, new interpretations, new methods or in-depth analyses.
    :name: data descriptor
 
@@ -27,8 +27,8 @@ logo
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/logo
-   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
+   :@id: https://openminds.om-i.org/instances/fileUsageRole/logo
+   :@type: https://openminds.om-i.org/types/FileUsageRole
    :definition: A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition.
    :name: logo
 
@@ -41,8 +41,8 @@ preview
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/preview
-   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
+   :@id: https://openminds.om-i.org/instances/fileUsageRole/preview
+   :@type: https://openminds.om-i.org/types/FileUsageRole
    :definition: A preview is a representative image or short movie used to peak interest for a product.
    :name: preview
 
@@ -55,8 +55,8 @@ screenshot
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/fileUsageRole/screenshot
-   :@type: https://openminds.ebrains.eu/controlledTerms/FileUsageRole
+   :@id: https://openminds.om-i.org/instances/fileUsageRole/screenshot
+   :@type: https://openminds.om-i.org/types/FileUsageRole
    :definition: A screenshot is an image of the content displayed on the screen of a computer or mobile device.
    :name: screenshot
 

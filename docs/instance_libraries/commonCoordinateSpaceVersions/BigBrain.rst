@@ -2,7 +2,7 @@
 CommonCoordinateSpaceVersions: BigBrain library
 ###############################################
 
-Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ BigBrain_2015
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/BigBrain_2015
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/BigBrain_2015
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: BigBrain
    :fullName: BigBrain Whole-Brain Model
    :homepage: https://bigbrainproject.org/

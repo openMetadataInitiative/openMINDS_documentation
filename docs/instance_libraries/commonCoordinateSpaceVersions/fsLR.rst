@@ -2,7 +2,7 @@
 CommonCoordinateSpaceVersions: FsLR library
 ###########################################
 
-Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ fsLR_164k
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_164k
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_164k
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
    :shortName: fsLR Surface Space
@@ -30,8 +30,8 @@ fsLR_32k
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/fsLR_32k
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_32k
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
    :fullName: Unbiased FsAverage Left–Right Hybrid Surface Space
    :shortName: fsLR Surface Space

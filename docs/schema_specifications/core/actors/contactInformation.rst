@@ -2,7 +2,7 @@
 ContactInformation
 ##################
 
-:Semantic name: https://openminds.ebrains.eu/core/ContactInformation
+:Semantic name: https://openminds.om-i.org/types/ContactInformation
 
 :Display as: Contact information
 
@@ -31,7 +31,7 @@ Address to which or from which an electronic mail can be sent.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/email
+   :semantic name: https://openminds.om-i.org/props/email
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the email address of the party (e.g., of the person).

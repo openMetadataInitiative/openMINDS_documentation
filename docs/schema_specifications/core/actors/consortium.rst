@@ -2,7 +2,7 @@
 Consortium
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/core/Consortium
+:Semantic name: https://openminds.om-i.org/types/Consortium
 
 :Display as: Consortium
 
@@ -31,9 +31,9 @@ Any available way used to contact a person or business (e.g., address, phone num
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
+   :semantic name: https://openminds.om-i.org/props/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/contactInformation.html>`_
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this consortium.
 
 `BACK TO TOP <Consortium_>`_
@@ -50,7 +50,7 @@ Whole, non-abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fullName
+   :semantic name: https://openminds.om-i.org/props/fullName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the full name of this consortium.
@@ -69,7 +69,7 @@ Main website of something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/homepage
+   :semantic name: https://openminds.om-i.org/props/homepage
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this consortium.
@@ -88,7 +88,7 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/shortName
+   :semantic name: https://openminds.om-i.org/props/shortName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (or alias) for this consortium that could be used as a shortened display title (e.g., for web services with too little space to display the full name).

@@ -2,7 +2,7 @@
 Terminologies: AtlasType library
 ################################
 
-Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/atlasType.html>`_
+Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/atlasType.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ deterministicAtlas
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas
-   :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
+   :@id: https://openminds.om-i.org/instances/atlasType/deterministicAtlas
+   :@type: https://openminds.om-i.org/types/AtlasType
    :definition: A 'deterministic atlas' is an anatomical or anatomopathological atlases based on a definite composite of a single specimen.
    :name: deterministic atlas
 
@@ -27,8 +27,8 @@ parcellationScheme
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/atlasType/parcellationScheme
-   :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
+   :@id: https://openminds.om-i.org/instances/atlasType/parcellationScheme
+   :@type: https://openminds.om-i.org/types/AtlasType
    :definition: A 'parcellation scheme' is a set of parcels occupying a part or all of an anatomical entity that has been delineated or annotated using a common approach or set of criteria.
    :interlexIdentifier: http://uri.interlex.org/ilx_0108526
    :name: parcellation scheme
@@ -43,8 +43,8 @@ probabilisticAtlas
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas
-   :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
+   :@id: https://openminds.om-i.org/instances/atlasType/probabilisticAtlas
+   :@type: https://openminds.om-i.org/types/AtlasType
    :definition: A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.
    :name: probabilistic atlas
 

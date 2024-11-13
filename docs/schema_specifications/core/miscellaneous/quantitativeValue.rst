@@ -2,7 +2,7 @@
 QuantitativeValue
 #################
 
-:Semantic name: https://openminds.ebrains.eu/core/QuantitativeValue
+:Semantic name: https://openminds.om-i.org/types/QuantitativeValue
 
 :Display as: Quantitative value
 
@@ -31,10 +31,10 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
+   :semantic name: https://openminds.om-i.org/props/typeOfUncertainty
    :value type: | linked object of type
-                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
-   :instructions: Add the type of uncertainty used to determine the uncertainity for this quantitative value.
+                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
+   :instructions: Add the type of uncertainty used to determine the uncertainty for this quantitative value.
 
 `BACK TO TOP <QuantitativeValue_>`_
 
@@ -50,7 +50,7 @@ Quantitative value range defining the uncertainty of a measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/uncertainty
+   :semantic name: https://openminds.om-i.org/props/uncertainty
    :value type: number array \(2-2\)
    :instructions: Enter the uncertainty of this quantitative value.
 
@@ -68,9 +68,9 @@ Determinate quantity adopted as a standard of measurement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/unit
+   :semantic name: https://openminds.om-i.org/props/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement of this quantitative value and its uncertainty.
 
 `BACK TO TOP <QuantitativeValue_>`_
@@ -87,7 +87,7 @@ Entry for a property.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/value
+   :semantic name: https://openminds.om-i.org/props/value
    :value type: number
    :instructions: Enter the value of this quantitative value.
 

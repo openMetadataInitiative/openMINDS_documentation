@@ -2,12 +2,12 @@
 BrainAtlas
 ##########
 
-:Semantic name: https://openminds.ebrains.eu/sands/BrainAtlas
+:Semantic name: https://openminds.om-i.org/types/BrainAtlas
 
 :Display as: Brain atlas
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/brainAtlases.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/brainAtlases.html>`_.
 
 ------------
 
@@ -29,7 +29,7 @@ abbreviation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/abbreviation
+   :semantic name: https://openminds.om-i.org/props/abbreviation
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the official abbreviation of this brain atlas.
@@ -48,9 +48,9 @@ Creator of a literary or creative work, as well as a dataset publication.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/author
+   :semantic name: https://openminds.om-i.org/props/author
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that contributed to this brain atlas as authors.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -67,9 +67,9 @@ The 'custodian' is a legal person who is responsible for the content and quality
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/custodian
+   :semantic name: https://openminds.om-i.org/props/custodian
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that fulfill the role of a custodian for this research product (e.g., a research group leader or principle investigator). Custodians are typically the main contact in case of misconduct, obtain permission from the contributors to publish personal information, and maintain the content and quality of the data, metadata, and/or code of the research product. Unless specified differently, this custodian will be responsible for all attached research product versions.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -86,7 +86,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a description (or abstract) of this research product. Note that this should be a suitable description for all attached research product versions.
@@ -105,9 +105,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -124,7 +124,7 @@ Whole, non-abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/fullName
+   :semantic name: https://openminds.om-i.org/props/fullName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive full name (or title) for this research product. Note that this should be a suitable full name for all attached research product versions.
@@ -141,9 +141,9 @@ hasTerminology
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasTerminology
+   :semantic name: https://openminds.om-i.org/props/hasTerminology
    :value type: | embedded object of type
-                | `ParcellationTerminology <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/parcellationTerminology.html>`_
+                | `ParcellationTerminology <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationTerminology.html>`_
    :instructions: Enter the parcellation terminology of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -160,9 +160,9 @@ Reference to variants of an original.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasVersion
+   :semantic name: https://openminds.om-i.org/props/hasVersion
    :value type: | linked object array \(1-N\) of type
-                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
+                | `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
    :instructions: Add versions of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_
@@ -179,7 +179,7 @@ Main website of something or someone.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/homepage
+   :semantic name: https://openminds.om-i.org/props/homepage
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this research product.
@@ -198,7 +198,7 @@ Preferred format for citing a particular object or legal person.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/howToCite
+   :semantic name: https://openminds.om-i.org/props/howToCite
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital identifier.
@@ -217,7 +217,7 @@ Term or code used to identify something or someone registered within a particula
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/ontologyIdentifier
+   :semantic name: https://openminds.om-i.org/props/ontologyIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the related ontological term matching this brain atlas.
@@ -236,7 +236,7 @@ Shortened or fully abbreviated name of something or somebody.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/shortName
+   :semantic name: https://openminds.om-i.org/props/shortName
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (or alias) for this research product that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
@@ -253,9 +253,9 @@ usedSpecies
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/usedSpecies
+   :semantic name: https://openminds.om-i.org/props/usedSpecies
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/species.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_
    :instructions: Add the species that was used for the creation of this brain atlas.
 
 `BACK TO TOP <BrainAtlas_>`_

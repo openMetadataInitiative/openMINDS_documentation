@@ -2,7 +2,7 @@
 Terminologies: AgeCategory library
 ##################################
 
-Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/ageCategory.html>`_
+Related schema specification: `AgeCategory <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/ageCategory.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ adolescent
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/adolescent
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/adolescent
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.
    :name: adolescent
 
@@ -27,8 +27,8 @@ adult
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/adult
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/adult
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729043
    :name: adult
@@ -43,8 +43,8 @@ embryo
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/embryo
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/embryo
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Embryo' categorizes the life cycle stage of an animal or human that starts with fertilitzation and ends with the fully formed embryo.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735599
    :name: embryo
@@ -59,8 +59,8 @@ infant
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/infant
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/infant
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Infant' categorizes the life cycle stage of mammals (animal or human) that follows the neonate stage and ends at weaning.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735063
    :name: infant
@@ -75,8 +75,8 @@ juvenile
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/juvenile
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/juvenile
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Juvenile' categorizes the life cycle stage of an animal or human that starts with the independence of the nest and/or caregivers and ends with sexual maturity.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730395
    :name: juvenile
@@ -91,8 +91,8 @@ lateAdult
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/lateAdult
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/lateAdult
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725713
    :name: late adult
@@ -107,8 +107,8 @@ neonate
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/neonate
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/neonate
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732178
    :name: neonate
@@ -123,8 +123,8 @@ perinatal
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/perinatal
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/perinatal
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Perinatal' categorizes the life cycle stage of an animal or human that starts right before birth and ends right after birth.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724163
    :name: perinatal
@@ -139,8 +139,8 @@ primeAdult
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/primeAdult
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/primeAdult
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Prime adult' categorizes the life cycle stage of an animal or human that starts at the onset of sexual maturity or the cessation of growth, whichever comes last, and ends before senescence.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733125
    :name: prime adult
@@ -155,8 +155,8 @@ youngAdult
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/ageCategory/youngAdult
-   :@type: https://openminds.ebrains.eu/controlledTerms/AgeCategory
+   :@id: https://openminds.om-i.org/instances/ageCategory/youngAdult
+   :@type: https://openminds.om-i.org/types/AgeCategory
    :definition: 'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.
    :name: young adult
 

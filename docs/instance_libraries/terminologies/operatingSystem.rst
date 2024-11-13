@@ -2,7 +2,7 @@
 Terminologies: OperatingSystem library
 ######################################
 
-Related schema specification: `OperatingSystem <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/operatingSystem.html>`_
+Related schema specification: `OperatingSystem <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/operatingSystem.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ Android
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/Android
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/Android
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Android
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q94
 
@@ -27,8 +27,8 @@ Linux
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/Linux
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/Linux
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Linux
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q388
 
@@ -41,8 +41,8 @@ MacOS
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/MacOS
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: MacOS
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q43627
 
@@ -55,8 +55,8 @@ Solaris
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/Solaris
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Solaris
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q14646
 
@@ -69,8 +69,8 @@ Unix
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/Unix
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/Unix
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Unix
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q11368
 
@@ -83,8 +83,8 @@ Windows
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/Windows
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/Windows
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Windows
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1406
 
@@ -97,8 +97,8 @@ WindowsPhone
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/WindowsPhone
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: Windows Phone
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q4885200
 
@@ -111,8 +111,8 @@ iOS
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/iOS
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/iOS
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: iOS
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q48493
 
@@ -125,8 +125,8 @@ platformIndependent
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
-   :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
+   :@id: https://openminds.om-i.org/instances/operatingSystem/platformIndependent
+   :@type: https://openminds.om-i.org/types/OperatingSystem
    :name: platform independent
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q174666
 

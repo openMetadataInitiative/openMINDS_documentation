@@ -2,7 +2,7 @@
 BrainAtlasVersions: SwansonBM library
 #####################################
 
-Related schema specification: `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
+Related schema specification: `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_
 
 ------------
 
@@ -13,12 +13,12 @@ SwansonBM_3rd-ed
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SwansonBM_3rd-ed
-   :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
+   :@id: https://openminds.om-i.org/instances/brainAtlasVersion/SwansonBM_3rd-ed
+   :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: SwansonBM
-   :digitalIdentifier: https://openminds.ebrains.eu/instances/ISBN/0-126-10582-0
+   :digitalIdentifier: https://openminds.om-i.org/instances/ISBN/0-126-10582-0
    :fullName: Swanson's Brain Maps: Structure of the Rat Brain
-   :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
+   :hasTerminology: `cf. respective parcellationEntityVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
    :homepage: https://larrywswanson.com/?page_id=164
    :howToCite: Swanson, L.W. (2004) Brain maps: structure of the rat brain, 3rd edition.
    :releaseDate: 2003-11-24

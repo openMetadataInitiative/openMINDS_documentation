@@ -2,7 +2,7 @@
 CommonCoordinateSpaceVersions: MNI-ICBM152 library
 ##################################################
 
-Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+Related schema specification: `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ MNI-ICBM152_linear-2001-sym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :releaseDate: 2009-07-01
@@ -30,8 +30,8 @@ MNI-ICBM152_nonlinear-2009a-asym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :releaseDate: 2009-07-01
@@ -47,8 +47,8 @@ MNI-ICBM152_nonlinear-2009a-sym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :releaseDate: 2009-07-01
@@ -64,8 +64,8 @@ MNI-ICBM152_nonlinear-2009b-asym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
@@ -82,8 +82,8 @@ MNI-ICBM152_nonlinear-2009b-sym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
@@ -100,8 +100,8 @@ MNI-ICBM152_nonlinear-2009c-asym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
@@ -118,8 +118,8 @@ MNI-ICBM152_nonlinear-2009c-sym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear-2009
@@ -136,8 +136,8 @@ MNI-ICBM152_nonlinear-6G-sym
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym
-   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
    :fullName: MNI ICBM152 Average Brain Stereotaxic Registration Model
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases/icbm152-non-linear

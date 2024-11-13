@@ -2,7 +2,7 @@
 ParcellationEntityVersions: JBA_v1.18-Colin27 library
 #####################################################
 
-Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
 
 ------------
 
@@ -13,10 +13,10 @@ JBA_v1.18-Colin27_Area-1_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-1_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-1_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-1_PM-v8.4
    :name: Area 1 (PostCG)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -30,10 +30,10 @@ JBA_v1.18-Colin27_Area-25_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-25_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-25_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-25_PM-v16.1
    :name: Area 25 (sACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -47,10 +47,10 @@ JBA_v1.18-Colin27_Area-2_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-2_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-2_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-2_PM-v3.4
    :name: Area 2 (PostCS)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -64,10 +64,10 @@ JBA_v1.18-Colin27_Area-33_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-33_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-33_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-33_PM-v16.1
    :name: Area 33 (ACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -81,10 +81,10 @@ JBA_v1.18-Colin27_Area-3a_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-3a_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-3a_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-3a_PM-v8.4
    :name: Area 3a (PostCG)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -98,10 +98,10 @@ JBA_v1.18-Colin27_Area-3b_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-3b_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-3b_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
+   :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-3b_PM-v8.4
    :name: Area 3b (PostCG)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -115,10 +115,10 @@ JBA_v1.18-Colin27_Area-44_PM-v7.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-44_PM-v7.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-44_PM-v7.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
+   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-44_PM-v7.4
    :name: Area 44 (IFG)
    :versionIdentifier: v1.18-Colin27, PM-v7.4
@@ -132,10 +132,10 @@ JBA_v1.18-Colin27_Area-45_PM-v7.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-45_PM-v7.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-45_PM-v7.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
+   :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-45_PM-v7.4
    :name: Area 45 (IFG)
    :versionIdentifier: v1.18-Colin27, PM-v7.4
@@ -149,10 +149,10 @@ JBA_v1.18-Colin27_Area-4a_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-4a_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-4a_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
+   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-4a_PM-v9.4
    :name: Area 4a (PreCG)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -166,10 +166,10 @@ JBA_v1.18-Colin27_Area-4p_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-4p_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-4p_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
+   :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-4p_PM-v9.4
    :name: Area 4p (PreCG)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -183,10 +183,10 @@ JBA_v1.18-Colin27_Area-5Ci_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5Ci_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5Ci_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-5Ci_PM-v8.4
    :name: Area 5Ci (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -200,10 +200,10 @@ JBA_v1.18-Colin27_Area-5L_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5L_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5L_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-5L_PM-v8.4
    :name: Area 5L (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -217,10 +217,10 @@ JBA_v1.18-Colin27_Area-5M_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5M_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-5M_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-5M_PM-v8.4
    :name: Area 5M (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -234,10 +234,10 @@ JBA_v1.18-Colin27_Area-6d1_PM-v4.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d1_PM-v4.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d1_PM-v4.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
+   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-6d1_PM-v4.1
    :name: Area 6d1 (PreCG)
    :versionIdentifier: v1.18-Colin27, PM-v4.1
@@ -251,10 +251,10 @@ JBA_v1.18-Colin27_Area-6d2_PM-v4.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d2_PM-v4.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d2_PM-v4.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
+   :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-6d2_PM-v4.1
    :name: Area 6d2 (PreCG)
    :versionIdentifier: v1.18-Colin27, PM-v4.1
@@ -268,10 +268,10 @@ JBA_v1.18-Colin27_Area-6d3_PM-v4.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d3_PM-v4.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6d3_PM-v4.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
+   :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-6d3_PM-v4.1
    :name: Area 6d3 (SFS)
    :versionIdentifier: v1.18-Colin27, PM-v4.1
@@ -285,10 +285,10 @@ JBA_v1.18-Colin27_Area-6ma_PM-v9.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6ma_PM-v9.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6ma_PM-v9.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_posteriorMedialSuperiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-posteriormedialsuperiorfrontalgyrus>`_
+   :hasParent: `JBA_posteriorMedialSuperiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-posteriormedialsuperiorfrontalgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-6ma_PM-v9.1
    :name: Area 6ma (preSMA, mesial SFG)
    :versionIdentifier: v1.18-Colin27, PM-v9.1
@@ -302,10 +302,10 @@ JBA_v1.18-Colin27_Area-6mp_PM-v9.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6mp_PM-v9.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-6mp_PM-v9.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_mesialPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-mesialprecentralgyrus>`_
+   :hasParent: `JBA_mesialPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-mesialprecentralgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-6mp_PM-v9.1
    :name: Area 6mp (SMA, mesial SFG)
    :versionIdentifier: v1.18-Colin27, PM-v9.1
@@ -319,10 +319,10 @@ JBA_v1.18-Colin27_Area-7A_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7A_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7A_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-7A_PM-v8.4
    :name: Area 7A (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -336,10 +336,10 @@ JBA_v1.18-Colin27_Area-7M_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7M_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7M_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-7M_PM-v8.4
    :name: Area 7M (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -353,10 +353,10 @@ JBA_v1.18-Colin27_Area-7PC_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7PC_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7PC_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-7PC_PM-v8.4
    :name: Area 7PC (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -370,10 +370,10 @@ JBA_v1.18-Colin27_Area-7P_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7P_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-7P_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
+   :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-7P_PM-v8.4
    :name: Area 7P (SPL)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -387,10 +387,10 @@ JBA_v1.18-Colin27_Area-FG1_PM-v1.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG1_PM-v1.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG1_PM-v1.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-FG1_PM-v1.4
    :name: Area FG1 (FusG)
    :versionIdentifier: v1.18-Colin27, PM-v1.4
@@ -404,10 +404,10 @@ JBA_v1.18-Colin27_Area-FG2_PM-v1.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG2_PM-v1.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG2_PM-v1.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-FG2_PM-v1.4
    :name: Area FG2 (FusG)
    :versionIdentifier: v1.18-Colin27, PM-v1.4
@@ -421,10 +421,10 @@ JBA_v1.18-Colin27_Area-FG3_PM-v6.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG3_PM-v6.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG3_PM-v6.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-FG3_PM-v6.1
    :name: Area FG3 (FusG)
    :versionIdentifier: v1.18-Colin27, PM-v6.1
@@ -438,10 +438,10 @@ JBA_v1.18-Colin27_Area-FG4_PM-v6.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG4_PM-v6.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-FG4_PM-v6.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
+   :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-FG4_PM-v6.1
    :name: Area FG4 (FusG)
    :versionIdentifier: v1.18-Colin27, PM-v6.1
@@ -455,10 +455,10 @@ JBA_v1.18-Colin27_Area-Fo1_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo1_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo1_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo1_PM-v3.4
    :name: Area Fo1 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -472,10 +472,10 @@ JBA_v1.18-Colin27_Area-Fo2_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo2_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo2_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo2_PM-v3.4
    :name: Area Fo2 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -489,10 +489,10 @@ JBA_v1.18-Colin27_Area-Fo3_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo3_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo3_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
+   :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo3_PM-v3.4
    :name: Area Fo3 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -506,10 +506,10 @@ JBA_v1.18-Colin27_Area-Fo4_PM-v2.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo4_PM-v2.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo4_PM-v2.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo4_PM-v2.1
    :name: Area Fo4 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v2.1
@@ -523,10 +523,10 @@ JBA_v1.18-Colin27_Area-Fo5_PM-v2.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo5_PM-v2.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo5_PM-v2.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo5_PM-v2.1
    :name: Area Fo5 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v2.1
@@ -540,10 +540,10 @@ JBA_v1.18-Colin27_Area-Fo6_PM-v2.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo6_PM-v2.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo6_PM-v2.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo6_PM-v2.1
    :name: Area Fo6 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v2.1
@@ -557,10 +557,10 @@ JBA_v1.18-Colin27_Area-Fo7_PM-v2.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo7_PM-v2.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fo7_PM-v2.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
+   :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fo7_PM-v2.1
    :name: Area Fo7 (OFC)
    :versionIdentifier: v1.18-Colin27, PM-v2.1
@@ -574,10 +574,10 @@ JBA_v1.18-Colin27_Area-Fp1_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fp1_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fp1_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
+   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fp1_PM-v2.4
    :name: Area Fp1 (FPole)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -591,10 +591,10 @@ JBA_v1.18-Colin27_Area-Fp2_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fp2_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Fp2_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
+   :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Fp2_PM-v2.4
    :name: Area Fp2 (FPole)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -608,10 +608,10 @@ JBA_v1.18-Colin27_Area-Ia_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ia_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ia_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
+   :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Ia_PM-v3.1
    :name: Area Ia (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -625,10 +625,10 @@ JBA_v1.18-Colin27_Area-Id1_PM-v13.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id1_PM-v13.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id1_PM-v13.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id1_PM-v13.1
    :name: Area Id1 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v13.1
@@ -642,10 +642,10 @@ JBA_v1.18-Colin27_Area-Id2_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id2_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id2_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id2_PM-v7.1
    :name: Area Id2 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -659,10 +659,10 @@ JBA_v1.18-Colin27_Area-Id3_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id3_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id3_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id3_PM-v7.1
    :name: Area Id3 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -676,10 +676,10 @@ JBA_v1.18-Colin27_Area-Id4_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id4_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id4_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id4_PM-v3.1
    :name: Area Id4 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -693,10 +693,10 @@ JBA_v1.18-Colin27_Area-Id5_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id5_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id5_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id5_PM-v3.1
    :name: Area Id5 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -710,10 +710,10 @@ JBA_v1.18-Colin27_Area-Id6_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id6_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id6_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id6_PM-v3.1
    :name: Area Id6 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -727,10 +727,10 @@ JBA_v1.18-Colin27_Area-Id7_PM-v6.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id7_PM-v6.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Id7_PM-v6.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
+   :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Id7_PM-v6.1
    :name: Area Id7 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v6.1
@@ -744,10 +744,10 @@ JBA_v1.18-Colin27_Area-Ig1_PM-v13.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig1_PM-v13.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig1_PM-v13.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Ig1_PM-v13.1
    :name: Area Ig1 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v13.1
@@ -761,10 +761,10 @@ JBA_v1.18-Colin27_Area-Ig2_PM-v13.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig2_PM-v13.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig2_PM-v13.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Ig2_PM-v13.1
    :name: Area Ig2 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v13.1
@@ -778,10 +778,10 @@ JBA_v1.18-Colin27_Area-Ig3_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig3_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-Ig3_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
+   :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-Ig3_PM-v3.1
    :name: Area Ig3 (Insula)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -795,10 +795,10 @@ JBA_v1.18-Colin27_Area-OP1_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP1_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP1_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP1_PM-v9.4
    :name: Area OP1 (POperc)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -812,10 +812,10 @@ JBA_v1.18-Colin27_Area-OP2_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP2_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP2_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP2_PM-v9.4
    :name: Area OP2 (POperc)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -829,10 +829,10 @@ JBA_v1.18-Colin27_Area-OP3_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP3_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP3_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP3_PM-v9.4
    :name: Area OP3 (POperc)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -846,10 +846,10 @@ JBA_v1.18-Colin27_Area-OP4_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP4_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP4_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
+   :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP4_PM-v9.4
    :name: Area OP4 (POperc)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -863,10 +863,10 @@ JBA_v1.18-Colin27_Area-OP8_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP8_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP8_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP8_PM-v5.1
    :name: Area Op8 (Frontal Operculum)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -880,10 +880,10 @@ JBA_v1.18-Colin27_Area-OP9_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP9_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-OP9_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
+   :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-OP9_PM-v5.1
    :name: Area Op9 (Frontal Operculum)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -897,10 +897,10 @@ JBA_v1.18-Colin27_Area-PF_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PF_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PF_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PF_PM-v9.4
    :name: Area PF (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -914,10 +914,10 @@ JBA_v1.18-Colin27_Area-PFcm_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFcm_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFcm_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PFcm_PM-v9.4
    :name: Area PFcm (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -931,10 +931,10 @@ JBA_v1.18-Colin27_Area-PFm_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFm_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFm_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PFm_PM-v9.4
    :name: Area PFm (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -948,10 +948,10 @@ JBA_v1.18-Colin27_Area-PFop_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFop_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFop_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PFop_PM-v9.4
    :name: Area PFop (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -965,10 +965,10 @@ JBA_v1.18-Colin27_Area-PFt_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFt_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PFt_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PFt_PM-v9.4
    :name: Area PFt (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -982,10 +982,10 @@ JBA_v1.18-Colin27_Area-PGa_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PGa_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PGa_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PGa_PM-v9.4
    :name: Area PGa (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -999,10 +999,10 @@ JBA_v1.18-Colin27_Area-PGp_PM-v9.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PGp_PM-v9.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-PGp_PM-v9.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
+   :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-PGp_PM-v9.4
    :name: Area PGp (IPL)
    :versionIdentifier: v1.18-Colin27, PM-v9.4
@@ -1016,10 +1016,10 @@ JBA_v1.18-Colin27_Area-STS1_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-STS1_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-STS1_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
+   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-STS1_PM-v3.1
    :name: Area STS1 (STS)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -1033,10 +1033,10 @@ JBA_v1.18-Colin27_Area-STS2_PM-v3.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-STS2_PM-v3.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-STS2_PM-v3.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
+   :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-STS2_PM-v3.1
    :name: Area STS2 (STS)
    :versionIdentifier: v1.18-Colin27, PM-v3.1
@@ -1050,10 +1050,10 @@ JBA_v1.18-Colin27_Area-TE-1.0_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.0_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.0_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-TE-1.0_PM-v5.1
    :name: Area TE 1.0 (HESCHL)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -1067,10 +1067,10 @@ JBA_v1.18-Colin27_Area-TE-1.1_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.1_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.1_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-TE-1.1_PM-v5.1
    :name: Area TE 1.1 (HESCHL)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -1084,10 +1084,10 @@ JBA_v1.18-Colin27_Area-TE-1.2_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.2_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-1.2_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
+   :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-TE-1.2_PM-v5.1
    :name: Area TE 1.2 (HESCHL)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -1101,10 +1101,10 @@ JBA_v1.18-Colin27_Area-TE-3_PM-v5.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-3_PM-v5.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-TE-3_PM-v5.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
+   :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-TE-3_PM-v5.1
    :name: Area TE 3 (STG)
    :versionIdentifier: v1.18-Colin27, PM-v5.1
@@ -1118,10 +1118,10 @@ JBA_v1.18-Colin27_Area-hIP1_PM-v6.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP1_PM-v6.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP1_PM-v6.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP1_PM-v6.1
    :name: Area hIP1 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v6.1
@@ -1135,10 +1135,10 @@ JBA_v1.18-Colin27_Area-hIP2_PM-v6.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP2_PM-v6.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP2_PM-v6.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP2_PM-v6.1
    :name: Area hIP2 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v6.1
@@ -1152,10 +1152,10 @@ JBA_v1.18-Colin27_Area-hIP3_PM-v8.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP3_PM-v8.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP3_PM-v8.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP3_PM-v8.4
    :name: Area hIP3 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v8.4
@@ -1169,10 +1169,10 @@ JBA_v1.18-Colin27_Area-hIP4_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP4_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP4_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP4_PM-v7.1
    :name: Area hIP4 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1186,10 +1186,10 @@ JBA_v1.18-Colin27_Area-hIP5_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP5_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP5_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP5_PM-v7.1
    :name: Area hIP5 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1203,10 +1203,10 @@ JBA_v1.18-Colin27_Area-hIP6_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP6_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP6_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP6_PM-v7.1
    :name: Area hIP6 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1220,10 +1220,10 @@ JBA_v1.18-Colin27_Area-hIP7_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP7_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP7_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP7_PM-v7.1
    :name: Area hIP7 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1237,10 +1237,10 @@ JBA_v1.18-Colin27_Area-hIP8_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP8_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hIP8_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
+   :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hIP8_PM-v7.1
    :name: Area hIP8 (IPS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1254,10 +1254,10 @@ JBA_v1.18-Colin27_Area-hOc1_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc1_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc1_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
+   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc1_PM-v2.4
    :name: Area hOc1 (V1, 17, CalcS)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -1271,10 +1271,10 @@ JBA_v1.18-Colin27_Area-hOc2_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc2_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc2_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
+   :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc2_PM-v2.4
    :name: Area hOc2 (V2, 18)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -1288,10 +1288,10 @@ JBA_v1.18-Colin27_Area-hOc3d_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc3d_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc3d_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc3d_PM-v2.4
    :name: Area hOc3d (Cuneus)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -1305,10 +1305,10 @@ JBA_v1.18-Colin27_Area-hOc3v_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc3v_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc3v_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
+   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc3v_PM-v3.4
    :name: Area hOc3v (LingG)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -1322,10 +1322,10 @@ JBA_v1.18-Colin27_Area-hOc4d_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4d_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4d_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc4d_PM-v2.4
    :name: Area hOc4d (Cuneus)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -1339,10 +1339,10 @@ JBA_v1.18-Colin27_Area-hOc4la_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4la_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4la_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc4la_PM-v3.4
    :name: Area hOc4la (LOC)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -1356,10 +1356,10 @@ JBA_v1.18-Colin27_Area-hOc4lp_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4lp_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4lp_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc4lp_PM-v3.4
    :name: Area hOc4lp (LOC)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -1373,10 +1373,10 @@ JBA_v1.18-Colin27_Area-hOc4v_PM-v3.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4v_PM-v3.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc4v_PM-v3.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
+   :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc4v_PM-v3.4
    :name: Area hOc4v (LingG)
    :versionIdentifier: v1.18-Colin27, PM-v3.4
@@ -1390,10 +1390,10 @@ JBA_v1.18-Colin27_Area-hOc5_PM-v2.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc5_PM-v2.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc5_PM-v2.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
+   :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc5_PM-v2.4
    :name: Area hOc5 (LOC)
    :versionIdentifier: v1.18-Colin27, PM-v2.4
@@ -1407,10 +1407,10 @@ JBA_v1.18-Colin27_Area-hOc6_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc6_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hOc6_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
+   :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hOc6_PM-v7.1
    :name: Area hOc6 (POS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1424,10 +1424,10 @@ JBA_v1.18-Colin27_Area-hPO1_PM-v7.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hPO1_PM-v7.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-hPO1_PM-v7.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_parieto-occipitalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parieto-occipitalsulcus>`_
+   :hasParent: `JBA_parieto-occipitalSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-parieto-occipitalsulcus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-hPO1_PM-v7.1
    :name: Area hPO1 (POS)
    :versionIdentifier: v1.18-Colin27, PM-v7.1
@@ -1441,10 +1441,10 @@ JBA_v1.18-Colin27_Area-p24ab_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p24ab_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p24ab_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-p24ab_PM-v16.1
    :name: Area p24ab (pACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -1458,10 +1458,10 @@ JBA_v1.18-Colin27_Area-p24c_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p24c_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p24c_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-p24c_PM-v16.1
    :name: Area p24c (pACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -1475,10 +1475,10 @@ JBA_v1.18-Colin27_Area-p32_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p32_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-p32_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-p32_PM-v16.1
    :name: Area p32 (pACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -1492,10 +1492,10 @@ JBA_v1.18-Colin27_Area-s24_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-s24_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-s24_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-s24_PM-v16.1
    :name: Area s24 (sACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -1509,10 +1509,10 @@ JBA_v1.18-Colin27_Area-s32_PM-v16.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-s32_PM-v16.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Area-s32_PM-v16.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
+   :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
    :lookupLabel: JBA_v1.18-Colin27_Area-s32_PM-v16.1
    :name: Area s32 (sACC)
    :versionIdentifier: v1.18-Colin27, PM-v16.1
@@ -1526,10 +1526,10 @@ JBA_v1.18-Colin27_CA_PM-v11.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_CA_PM-v11.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_CA_PM-v11.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v1.18-Colin27_CA_PM-v11.1
    :name: CA (Hippocampus)
    :versionIdentifier: v1.18-Colin27, PM-v11.1
@@ -1543,10 +1543,10 @@ JBA_v1.18-Colin27_CM_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_CM_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_CM_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
    :lookupLabel: JBA_v1.18-Colin27_CM_PM-v6.4
    :name: CM (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1560,10 +1560,10 @@ JBA_v1.18-Colin27_Ch-123_PM-v4.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ch-123_PM-v4.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ch-123_PM-v4.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_magnocellularGroup <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-magnocellulargroup>`_
+   :hasParent: `JBA_magnocellularGroup <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-magnocellulargroup>`_
    :lookupLabel: JBA_v1.18-Colin27_Ch-123_PM-v4.2
    :name: Ch 123 (Basal Forebrain)
    :versionIdentifier: v1.18-Colin27, PM-v4.2
@@ -1577,10 +1577,10 @@ JBA_v1.18-Colin27_Ch-4_PM-v4.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ch-4_PM-v4.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ch-4_PM-v4.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_sublenticularBasalForebrain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-sublenticularbasalforebrain>`_
+   :hasParent: `JBA_sublenticularBasalForebrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-sublenticularbasalforebrain>`_
    :lookupLabel: JBA_v1.18-Colin27_Ch-4_PM-v4.2
    :name: Ch 4 (Basal Forebrain)
    :versionIdentifier: v1.18-Colin27, PM-v4.2
@@ -1594,10 +1594,10 @@ JBA_v1.18-Colin27_DG_PM-v11.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_DG_PM-v11.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_DG_PM-v11.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v1.18-Colin27_DG_PM-v11.1
    :name: DG (Hippocampus)
    :versionIdentifier: v1.18-Colin27, PM-v11.1
@@ -1611,10 +1611,10 @@ JBA_v1.18-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
+   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
    :lookupLabel: JBA_v1.18-Colin27_Dorsal-Dentate-Nucleus_PM-v6.2
    :name: Dorsal Dentate Nucleus (Cerebellum)
    :versionIdentifier: v1.18-Colin27, PM-v6.2
@@ -1628,10 +1628,10 @@ JBA_v1.18-Colin27_Entorhinal-Cortex_PM-v11.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Entorhinal-Cortex_PM-v11.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Entorhinal-Cortex_PM-v11.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v1.18-Colin27_Entorhinal-Cortex_PM-v11.1
    :name: Entorhinal Cortex
    :versionIdentifier: v1.18-Colin27, PM-v11.1
@@ -1645,10 +1645,10 @@ JBA_v1.18-Colin27_Fastigial-Nucleus_PM-v6.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Fastigial-Nucleus_PM-v6.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Fastigial-Nucleus_PM-v6.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
+   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
    :lookupLabel: JBA_v1.18-Colin27_Fastigial-Nucleus_PM-v6.2
    :name: Fastigial Nucleus (Cerebellum)
    :versionIdentifier: v1.18-Colin27, PM-v6.2
@@ -1662,10 +1662,10 @@ JBA_v1.18-Colin27_HATA_PM-v11.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_HATA_PM-v11.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_HATA_PM-v11.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v1.18-Colin27_HATA_PM-v11.1
    :name: HATA (Hippocampus)
    :versionIdentifier: v1.18-Colin27, PM-v11.1
@@ -1679,10 +1679,10 @@ JBA_v1.18-Colin27_IF_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_IF_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_IF_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
    :lookupLabel: JBA_v1.18-Colin27_IF_PM-v6.4
    :name: IF (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1696,10 +1696,10 @@ JBA_v1.18-Colin27_Interposed-Nucleus_PM-v6.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Interposed-Nucleus_PM-v6.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Interposed-Nucleus_PM-v6.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
+   :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
    :lookupLabel: JBA_v1.18-Colin27_Interposed-Nucleus_PM-v6.2
    :name: Interposed Nucleus (Cerebellum)
    :versionIdentifier: v1.18-Colin27, PM-v6.2
@@ -1713,10 +1713,10 @@ JBA_v1.18-Colin27_LB_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_LB_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_LB_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
    :lookupLabel: JBA_v1.18-Colin27_LB_PM-v6.4
    :name: LB (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1730,10 +1730,10 @@ JBA_v1.18-Colin27_MF_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_MF_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_MF_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
    :lookupLabel: JBA_v1.18-Colin27_MF_PM-v6.4
    :name: MF (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1747,10 +1747,10 @@ JBA_v1.18-Colin27_SF_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_SF_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_SF_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
+   :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
    :lookupLabel: JBA_v1.18-Colin27_SF_PM-v6.4
    :name: SF (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1764,10 +1764,10 @@ JBA_v1.18-Colin27_Subiculum_PM-v11.1
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Subiculum_PM-v11.1
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Subiculum_PM-v11.1
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
+   :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
    :lookupLabel: JBA_v1.18-Colin27_Subiculum_PM-v11.1
    :name: Subiculum (Hippocampus)
    :versionIdentifier: v1.18-Colin27, PM-v11.1
@@ -1781,10 +1781,10 @@ JBA_v1.18-Colin27_VTM_PM-v6.4
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_VTM_PM-v6.4
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_VTM_PM-v6.4
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
+   :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
    :lookupLabel: JBA_v1.18-Colin27_VTM_PM-v6.4
    :name: VTM (Amygdala)
    :versionIdentifier: v1.18-Colin27, PM-v6.4
@@ -1798,10 +1798,10 @@ JBA_v1.18-Colin27_Ventral-Dentate-Nucleus_PM-v6.2
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ventral-Dentate-Nucleus_PM-v6.2
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/JBA_v1.18-Colin27_Ventral-Dentate-Nucleus_PM-v6.2
+   :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
-   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
+   :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
    :lookupLabel: JBA_v1.18-Colin27_Ventral-Dentate-Nucleus_PM-v6.2
    :name: Ventral Dentate Nucleus (Cerebellum)
    :versionIdentifier: v1.18-Colin27, PM-v6.2

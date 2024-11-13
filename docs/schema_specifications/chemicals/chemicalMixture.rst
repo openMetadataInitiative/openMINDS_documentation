@@ -2,7 +2,7 @@
 ChemicalMixture
 ###############
 
-:Semantic name: https://openminds.ebrains.eu/chemicals/ChemicalMixture
+:Semantic name: https://openminds.om-i.org/types/ChemicalMixture
 
 :Display as: Chemical mixture
 
@@ -31,10 +31,10 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter any additional remarks concering this chemical mixture.
+   :instructions: Enter any additional remarks concerning this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
 
@@ -48,9 +48,9 @@ hasPart
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/hasPart
+   :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | embedded object array \(2-N\) of type
-                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/amountOfChemical.html>`_
+                | `AmountOfChemical <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/amountOfChemical.html>`_
    :instructions: Enter all components, including other mixtures, that are part of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -67,7 +67,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this chemical mixture.
@@ -84,9 +84,9 @@ productSource
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/productSource
+   :semantic name: https://openminds.om-i.org/props/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/productSource.html>`_
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_
@@ -103,9 +103,9 @@ Distinct class to which a group of entities or concepts with similar characteris
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/type
+   :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/chemicalMixtureType.html>`_
+                | `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/chemicalMixtureType.html>`_
    :instructions: Add the type of this mixture.
 
 `BACK TO TOP <ChemicalMixture_>`_

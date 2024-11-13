@@ -2,7 +2,7 @@
 Terminologies: PreparationType library
 ######################################
 
-Related schema specification: `PreparationType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/preparationType.html>`_
+Related schema specification: `PreparationType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/preparationType.html>`_
 
 ------------
 
@@ -13,8 +13,8 @@ exVivo
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/exVivo
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/exVivo
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Something happening or existing outside a living body.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739736
    :name: ex vivo
@@ -29,8 +29,8 @@ inSilico
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/inSilico
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/inSilico
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Conducted or produced by means of computer modelling or simulation.
    :interlexIdentifier: http://uri.interlex.org/ilx_0494742
    :name: in silico
@@ -45,8 +45,8 @@ inSitu
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/inSitu
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/inSitu
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Something happening or being examined in the original place instead of being moved to another place
    :interlexIdentifier: http://uri.interlex.org/ilx_0739593
    :name: in situ
@@ -61,8 +61,8 @@ inUtero
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/inUtero
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/inUtero
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Something happening in, within, or while inside the uterus.
    :interlexIdentifier: http://uri.interlex.org/ilx_0739675
    :name: in utero
@@ -77,8 +77,8 @@ inVitro
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/inVitro
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/inVitro
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Something happening outside the body in artificial conditions (e.g., in a test tube or culture dish).
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739568
    :name: in vitro
@@ -93,8 +93,8 @@ inVivo
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/preparationType/inVivo
-   :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
+   :@id: https://openminds.om-i.org/instances/preparationType/inVivo
+   :@type: https://openminds.om-i.org/types/PreparationType
    :definition: Something happening or existing inside a living body.
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0739622
    :name: in vivo

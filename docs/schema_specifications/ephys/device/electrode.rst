@@ -2,7 +2,7 @@
 Electrode
 #########
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Electrode
+:Semantic name: https://openminds.om-i.org/types/Electrode
 
 :Display as: Electrode
 
@@ -29,9 +29,9 @@ conductorMaterial
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/conductorMaterial
+   :semantic name: https://openminds.om-i.org/props/conductorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the conductor material of this electrode.
 
 `BACK TO TOP <Electrode_>`_
@@ -48,7 +48,7 @@ Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :semantic name: https://openminds.om-i.org/props/description
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this device.
@@ -65,9 +65,9 @@ deviceType
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/deviceType
+   :semantic name: https://openminds.om-i.org/props/deviceType
    :value type: | linked object of type
-                | `DeviceType <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/deviceType.html>`_
+                | `DeviceType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/deviceType.html>`_
    :instructions: Add the type of this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -84,9 +84,9 @@ Digital handle to identify objects or legal persons.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
+   :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/DOI.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -101,9 +101,9 @@ insulatorMaterial
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/insulatorMaterial
+   :semantic name: https://openminds.om-i.org/props/insulatorMaterial
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/chemicalMixture.html>`_, `ChemicalSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/chemicalSubstance.html>`_ or `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the insulator material of this electrode.
 
 `BACK TO TOP <Electrode_>`_
@@ -120,7 +120,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this electrode that is used within the corresponding data files to identify this electrode.
@@ -137,9 +137,9 @@ intrinsicResistance
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/intrinsicResistance
+   :semantic name: https://openminds.om-i.org/props/intrinsicResistance
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the intrinsic resistance of this electrode.
 
 `BACK TO TOP <Electrode_>`_
@@ -154,7 +154,7 @@ lookupLabel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :semantic name: https://openminds.om-i.org/props/lookupLabel
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a lookup label for this device that may help you to find this instance more easily.
@@ -171,9 +171,9 @@ manufacturer
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/manufacturer
+   :semantic name: https://openminds.om-i.org/props/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -190,7 +190,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this device, preferably including the model name as defined by the manufacturer.
@@ -207,9 +207,9 @@ owner
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/owner
+   :semantic name: https://openminds.om-i.org/props/owner
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that legally own this device.
 
 `BACK TO TOP <Electrode_>`_
@@ -224,7 +224,7 @@ serialNumber
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/serialNumber
+   :semantic name: https://openminds.om-i.org/props/serialNumber
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the serial number of this device.

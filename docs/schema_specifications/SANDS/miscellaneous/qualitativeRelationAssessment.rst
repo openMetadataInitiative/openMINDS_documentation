@@ -2,7 +2,7 @@
 QualitativeRelationAssessment
 #############################
 
-:Semantic name: https://openminds.ebrains.eu/sands/QualitativeRelationAssessment
+:Semantic name: https://openminds.om-i.org/types/QualitativeRelationAssessment
 
 :Display as: Qualitative relation assessment
 
@@ -29,9 +29,9 @@ Aspects or standards on which a judgement or decision is based.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/criteria
+   :semantic name: https://openminds.om-i.org/props/criteria
    :value type: | linked object of type
-                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/research/protocolExecution.html>`_
+                | `ProtocolExecution <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/protocolExecution.html>`_
    :instructions: Add the protocol execution defining the criteria that were applied to determine this relation.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_
@@ -48,9 +48,9 @@ Reference to a related element.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/inRelationTo
+   :semantic name: https://openminds.om-i.org/props/inRelationTo
    :value type: | linked object of type
-                | `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add the anatomical entity to which the relation is described.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_
@@ -67,9 +67,9 @@ Semantic characterization of how much two things occupy the same space.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/qualitativeOverlap
+   :semantic name: https://openminds.om-i.org/props/qualitativeOverlap
    :value type: | linked object of type
-                | `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
+                | `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
    :instructions: Add the qualitative overlap that best describes the relation between the two anatomical entities.
 
 `BACK TO TOP <QualitativeRelationAssessment_>`_

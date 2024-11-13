@@ -2,7 +2,7 @@
 Recording
 #########
 
-:Semantic name: https://openminds.ebrains.eu/ephys/Recording
+:Semantic name: https://openminds.om-i.org/types/Recording
 
 :Display as: Recording
 
@@ -29,7 +29,7 @@ Mention of what deserves additional attention or notice.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :semantic name: https://openminds.om-i.org/props/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
    :instructions: Enter any additional remarks concerning this recording.
@@ -46,9 +46,9 @@ channel
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/channel
+   :semantic name: https://openminds.om-i.org/props/channel
    :value type: | embedded object array \(1-N\) of type
-                | `Channel <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/entity/channel.html>`_
+                | `Channel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/entity/channel.html>`_
    :instructions: Enter all channels used for this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -63,9 +63,9 @@ dataLocation
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/dataLocation
+   :semantic name: https://openminds.om-i.org/props/dataLocation
    :value type: | linked object of type
-                | `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/fileBundle.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add the location of the file or file bundle in which the recorded data is stored.
 
 `BACK TO TOP <Recording_>`_
@@ -82,7 +82,7 @@ Term or code that identifies someone or something within a particular product.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/internalIdentifier
+   :semantic name: https://openminds.om-i.org/props/internalIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this recording that is used within the corresponding data files to identify this recording.
@@ -101,7 +101,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/name
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a descriptive name for this recording.
@@ -118,9 +118,9 @@ previousRecording
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/previousRecording
+   :semantic name: https://openminds.om-i.org/props/previousRecording
    :value type: | linked object of type
-                | `Recording <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/entity/recording.html>`_
+                | `Recording <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/entity/recording.html>`_
    :instructions: If this recording is part of a sequence of recordings (e.g., multiple repetitions or sweeps), add the recording preceding this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -135,9 +135,9 @@ recordedWith
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/recordedWith
+   :semantic name: https://openminds.om-i.org/props/recordedWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
    :instructions: Add the device used to generate this recording.
 
 `BACK TO TOP <Recording_>`_
@@ -152,9 +152,9 @@ samplingFrequency
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/samplingFrequency
+   :semantic name: https://openminds.om-i.org/props/samplingFrequency
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the sampling frequency of this recording.
 
 `BACK TO TOP <Recording_>`_

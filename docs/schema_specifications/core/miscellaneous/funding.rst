@@ -2,7 +2,7 @@
 Funding
 #######
 
-:Semantic name: https://openminds.ebrains.eu/core/Funding
+:Semantic name: https://openminds.om-i.org/types/Funding
 
 :Display as: Funding
 
@@ -31,7 +31,7 @@ Official declaration or avowal of appreciation of an act or achievement.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/acknowledgement
+   :semantic name: https://openminds.om-i.org/props/acknowledgement
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the acknowledgement that should be used with this funding.
@@ -50,7 +50,7 @@ Machine-readable identifier for a benefit that is conferred or bestowed on the b
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/awardNumber
+   :semantic name: https://openminds.om-i.org/props/awardNumber
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the associated award number of this funding.
@@ -69,7 +69,7 @@ Human-readable identifier for a benefit that is conferred or bestowed on the bas
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/awardTitle
+   :semantic name: https://openminds.om-i.org/props/awardTitle
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the award title of this funding.
@@ -88,9 +88,9 @@ Legal person that provides money for a particular purpose.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/funder
+   :semantic name: https://openminds.om-i.org/props/funder
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/actors/person.html>`_
+                | `Consortium <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add the party that provided this funding.
 
 `BACK TO TOP <Funding_>`_

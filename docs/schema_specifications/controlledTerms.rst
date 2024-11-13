@@ -48,6 +48,8 @@ ControlledTerms
 - `ModelAbstractionLevel <controlledTerms/modelAbstractionLevel.html>`_
 - `ModelScope <controlledTerms/modelScope.html>`_
 - `MolecularEntity <controlledTerms/molecularEntity.html>`_
+- `MRIPulseSequence <controlledTerms/MRIPulseSequence.html>`_
+- `MRIWeighting <controlledTerms/MRIWeighting.html>`_
 - `OlfactoryStimulusType <controlledTerms/olfactoryStimulusType.html>`_
 - `OperatingDevice <controlledTerms/operatingDevice.html>`_
 - `OperatingSystem <controlledTerms/operatingSystem.html>`_
@@ -129,6 +131,8 @@ ControlledTerms
    controlledTerms/modelAbstractionLevel
    controlledTerms/modelScope
    controlledTerms/molecularEntity
+   controlledTerms/MRIPulseSequence
+   controlledTerms/MRIWeighting
    controlledTerms/olfactoryStimulusType
    controlledTerms/operatingDevice
    controlledTerms/operatingSystem
