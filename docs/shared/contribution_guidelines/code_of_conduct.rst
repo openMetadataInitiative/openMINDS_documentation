@@ -2,7 +2,7 @@
 Code of conduct
 ###############
 
-**Contributing to openMINDS should be a harassment-free experience for everyone** regardless of age, body size disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+**Contributing to openMINDS should be a harassment-free experience for everyone** regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 **********
 Our pledge
