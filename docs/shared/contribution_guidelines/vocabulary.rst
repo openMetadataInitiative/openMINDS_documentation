@@ -20,6 +20,14 @@ In this JSON file, each vocabulary implementation for a single schema type is st
      "SCHEMATYPE": {
        "color": "HEXCOLOR",
        "description": "SCHEMATYPE_DESCRIPTION",
+       "hasNamespace": [
+         {
+           "inVersions": [
+             "VERSION"
+           ],
+           "namespace": "SCHEMATYPE_NAMESPACE"
+         }
+       ],
        "isPartOfVersion": [
          "VERSION"
        ],
@@ -54,6 +62,14 @@ In this JSON file, each vocabulary implementation for a single property is struc
          "multiline": "BOOLEAN"
        },
        "description": "PROPERTYNAME_DESCRIPTION",
+       "hasNamespace": [
+         {
+           "inVersions": [
+             "VERSION"
+           ],
+           "namespace": "PROPERTYNAME_NAMESPACE"
+         }
+       ],
        "label": "PROPERTYLABEL",
        "labelPlural": "PROPERTYLABEL",
        "name": "PROPERTYNAME_SHORT",
