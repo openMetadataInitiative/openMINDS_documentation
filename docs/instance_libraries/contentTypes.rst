@@ -2916,6 +2916,20 @@ application_vnd.openephys
 
 ------------
 
+application_vnd.openmetadatainitiative.openminds.schema+json
+------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema+json
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: openMINDS-specific schema syntax that defines properties and values of linked data, includes centrally managed vocabulary definitions, and provides configuration hints for possible adoptions.
+   :name: application/vnd.openmetadatainitiative.openminds.schema+json
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 -----------------------------------------------------------------
 
