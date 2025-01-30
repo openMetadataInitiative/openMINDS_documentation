@@ -12,6 +12,7 @@ class InstancesDocBuilder(object):
         self.version = version
         self.relative_paths_for_instancelib_docu = relative_paths_for_instancelib_docu
         self.instancelib_docu_path_for_schemas = instancelib_docu_path_for_schemas
+        print(instancelib_docu_path_for_schemas.items())
         self.schema_for_instancelib_docu_path = {v: k for k, v in instancelib_docu_path_for_schemas.items()}
         self.relative_paths_for_schema_docu = relative_paths_for_schema_docu
         print(version)
