@@ -30,7 +30,7 @@ contentType
    :semantic name: https://openminds.ebrains.eu/vocab/contentType
    :value type: | linked object of type
                 | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/contentType.html>`_
-   :instructions: Enter the content type that can be defined by the given regular expression for file names/extentions.
+   :instructions: Enter the content type that can be defined by the given regular expression for file names/extensions.
 
 `BACK TO TOP <ContentTypePattern_>`_
 
