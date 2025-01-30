@@ -12,11 +12,8 @@ class InstancesDocBuilder(object):
         self.version = version
         self.relative_paths_for_instancelib_docu = relative_paths_for_instancelib_docu
         self.instancelib_docu_path_for_schemas = instancelib_docu_path_for_schemas
-        print(instancelib_docu_path_for_schemas.items())
         self.schema_for_instancelib_docu_path = {v: k for k, v in instancelib_docu_path_for_schemas.items()}
         self.relative_paths_for_schema_docu = relative_paths_for_schema_docu
-        print(version)
-        print(sorted(self.schema_for_instancelib_docu_path.keys()))
         self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
 
     def _target_file_without_extension(self, instancelib_docu_relative_path:str) -> str:
