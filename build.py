@@ -41,7 +41,6 @@ for version in schema_loader.get_schema_versions():
     if version in instance_loader.get_instance_versions():
         absolute_paths_for_instances = instance_loader.find_instances(version)
         relative_paths_for_instancelib_docu, instancelib_docu_path_for_schemas = instance_loader.get_relative_paths_and_schemas_for_instancelib_docu(absolute_paths_for_instances, version)
-    print(sorted(instancelib_docu_path_for_schemas.items()))
 
     # Step 5 - build documentation page for each version specific schema
     for absolute_path_schema in absolute_paths_for_schemas:
