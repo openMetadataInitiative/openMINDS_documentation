@@ -3540,7 +3540,7 @@ JBA_frontalCingulateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :hasParent: `JBA_cingulateGyrus <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/parcellationEntities/JBA.html#jba-cingulategyrus>`_
    :lookupLabel: JBA_frontalCingulateGyrus
-   :name: frontal cingulate
+   :name: frontal cingulate gyrus
 
 `BACK TO TOP <ParcellationEntities: JBA library_>`_
 

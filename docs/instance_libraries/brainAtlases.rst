@@ -214,8 +214,8 @@ SwansonBM
 
 ------------
 
-WHSSD
------
+WHSSDatlas
+----------
 
 .. admonition:: metadata sheet
 

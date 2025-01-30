@@ -8,8 +8,8 @@ Related schema specification: `OpticalStimulusType <https://openminds-documentat
 
 ------------
 
-infraredLight
--------------
+infraredNeuralStimulus
+----------------------
 
 .. admonition:: metadata sheet
 

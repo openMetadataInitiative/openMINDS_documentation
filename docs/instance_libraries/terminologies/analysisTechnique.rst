@@ -64,20 +64,6 @@ ICABasedDenoisingTechnique
 
 ------------
 
-IGORPro
--------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/programmingLanguage/IGORPro
-   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
-   :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
-   :name: IGOR Pro
-
-`BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
-
-------------
-
 Isomap
 ------
 
@@ -418,8 +404,8 @@ cytoarchitectonicMapping
 
 ------------
 
-deepLearningBasedAnalysis
--------------------------
+deepLearning
+------------
 
 .. admonition:: metadata sheet
 
@@ -502,8 +488,8 @@ eyeMovementAnalysis
 
 ------------
 
-generalLinearModelAnalysis
---------------------------
+generalLinearModeling
+---------------------
 
 .. admonition:: metadata sheet
 
@@ -528,8 +514,8 @@ geneticCorrelationAnalysis
 
 ------------
 
-geneticRiskScoreAnalysis
-------------------------
+geneticRiskScore
+----------------
 
 .. admonition:: metadata sheet
 

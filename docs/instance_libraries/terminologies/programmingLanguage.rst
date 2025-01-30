@@ -13,7 +13,7 @@ AMPL
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/types/programmingLanguage/AMPL
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/AMPL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: AMPL
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q295250
@@ -115,6 +115,20 @@ HTML
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: HTML
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q8811
+
+`BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
+
+------------
+
+IGORPro
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/IGORPro
+   :@type: https://openminds.om-i.org/types/ProgrammingLanguage
+   :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
+   :name: IGOR Pro
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 

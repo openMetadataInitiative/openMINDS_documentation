@@ -8,20 +8,6 @@ Related schema specification: `QualitativeOverlap <https://openminds-documentati
 
 ------------
 
-hasIntersectionWith
--------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/qualitativeOverlap/partiallyOverlapsWith
-   :@type: https://openminds.om-i.org/types/QualitativeOverlap
-   :definition: Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).
-   :name: partially overlaps with
-
-`BACK TO TOP <Terminologies: QualitativeOverlap library_>`_
-
-------------
-
 isHomologousTo
 --------------
 
@@ -73,6 +59,20 @@ isSupersetOf
    :@type: https://openminds.om-i.org/types/QualitativeOverlap
    :definition: A set/object (A) is a superset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (B) are also elements/incidents of (A).
    :name: is superset of
+
+`BACK TO TOP <Terminologies: QualitativeOverlap library_>`_
+
+------------
+
+partiallyOverlapsWith
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/qualitativeOverlap/partiallyOverlapsWith
+   :@type: https://openminds.om-i.org/types/QualitativeOverlap
+   :definition: Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).
+   :name: partially overlaps with
 
 `BACK TO TOP <Terminologies: QualitativeOverlap library_>`_
 
