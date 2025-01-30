@@ -23,7 +23,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
-4-(2-Hydroxyethyl)-1-piperazineEthanesulfonicAcid
+4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
 -------------------------------------------------
 
 .. admonition:: metadata sheet
@@ -140,7 +140,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
-6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione
+6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
 --------------------------------------------
 
 .. admonition:: metadata sheet
@@ -359,7 +359,7 @@ GABA-A_BZ
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A_BZ
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
    :name: GABA-A/BZ
