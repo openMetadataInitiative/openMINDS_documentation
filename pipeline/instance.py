@@ -14,6 +14,7 @@ class InstancesDocBuilder(object):
         self.instancelib_docu_path_for_schemas = instancelib_docu_path_for_schemas
         self.schema_for_instancelib_docu_path = {v: k for k, v in instancelib_docu_path_for_schemas.items()}
         self.relative_paths_for_schema_docu = relative_paths_for_schema_docu
+        print(version)
         print(sorted(self.schema_for_instancelib_docu_path.keys()))
         self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
 
