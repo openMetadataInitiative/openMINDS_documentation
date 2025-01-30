@@ -36,10 +36,6 @@ class SchemaDocBuilder(object):
             if "description" in self._schema_payload and self._schema_payload["description"]:
                 doc.content(self._schema_payload["description"])
                 doc.newline()
-            semantic_equivalent = self._extract_semantic_equivalents()
-            if semantic_equivalent:
-                doc.field(name="Semantic equivalents", value=semantic_equivalent)
-                doc.newline()
             doc.newline()
             if self.instancelib_docu_path_for_schema:
                 library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", self.instancelib_docu_path_for_schema)
@@ -103,14 +99,6 @@ class SchemaDocBuilder(object):
                     p_split = p.split("/")[-1]
                     optional_properties.append(f"`{p_split} <{p_split}_heading_>`_")
         return ", ".join(optional_properties)
-
-    def _extract_semantic_equivalents(self) -> Optional[str]:
-        if "semanticEquivalent" in self._schema_payload:
-            semantic_equivalents = []
-            for se in self._schema_payload["semanticEquivalent"]:
-                semantic_equivalents.append(se)
-            return ", ".join(semantic_equivalents)
-        return None
 
     def _identify_value_type(self, property) -> str:
         v_type = property["type"] if "type" in property else "object"
