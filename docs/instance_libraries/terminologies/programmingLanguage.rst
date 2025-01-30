@@ -13,7 +13,7 @@ AMPL
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/types/programmingLanguage/AMPL
+   :@id: https://openminds.om-i.org/instances/programmingLanguage/AMPL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: AMPL
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q295250

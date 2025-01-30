@@ -404,8 +404,8 @@ cytoarchitectonicMapping
 
 ------------
 
-deepLearningBasedAnalysis
--------------------------
+deepLearning
+------------
 
 .. admonition:: metadata sheet
 
@@ -488,8 +488,8 @@ eyeMovementAnalysis
 
 ------------
 
-generalLinearModelAnalysis
---------------------------
+generalLinearModeling
+---------------------
 
 .. admonition:: metadata sheet
 
@@ -514,8 +514,8 @@ geneticCorrelationAnalysis
 
 ------------
 
-geneticRiskScoreAnalysis
-------------------------
+geneticRiskScore
+----------------
 
 .. admonition:: metadata sheet
 
