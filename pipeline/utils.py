@@ -65,7 +65,6 @@ class InstanceLoader(object):
             # define relative path of instance library docu (with list to absolute paths of all related instances)
             relative_instance_path = os.path.relpath(absolute_path_instance, start=os.path.join(self.instances_sources, version)).replace('.jsonld', '')
             relative_instancelib_path = "/".join(relative_instance_path.split("/")[:-1])
-            print(relative_instancelib_path)
             if relative_instancelib_path in relative_paths_for_instancelib_docu:
                 relative_paths_for_instancelib_docu[relative_instancelib_path].append(absolute_path_instance)
             else:
