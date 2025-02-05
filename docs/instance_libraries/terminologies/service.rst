@@ -23,8 +23,8 @@ AllenInstituteCellTypesDataPortal
 
 ------------
 
-CollaboratoryLab
-----------------
+EBRAINSCollaboratoryLab
+-----------------------
 
 .. admonition:: metadata sheet
 
@@ -38,23 +38,8 @@ CollaboratoryLab
 
 ------------
 
-CollaboratoryWiki
------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/service/ERBAINSCollaboratoryWiki
-   :@type: https://openminds.om-i.org/types/Service
-   :definition: The Collaboratory Wiki is the main interface to access all other Collaboratory service provided by the EBRAINS research infrastructure.
-   :description: The Wiki service of the Collaboratory hosts the main interface to access all the other Collaboratory services. As such, it embodies the full concept of collab workspaces and most users consider it to be the collab service. Wiki pages are a convenient way of publishing content on the web, either addressing the Team of the collab or making the content completely public, that is, also accessible to visitors who do not have an EBRAINS account.
-   :name: EBRAINS Collaboratory Wiki
-
-`BACK TO TOP <Terminologies: Service library_>`_
-
-------------
-
-KGSearchUI
-----------
+EBRAINSKnowledgeGraphSearchUI
+-----------------------------
 
 .. admonition:: metadata sheet
 
@@ -63,6 +48,36 @@ KGSearchUI
    :definition: The EBRAINS Knowledge Graph Search User Interface is a web application for searching the EBRAINS Knowledge Graph.
    :description: The Knowledge Graph Search User Interface makes data, models and software discoverable and easy to use. The user interface allows for free text searches and provides filters to narrow searches based on metadata that classifies data according to experimental method, data modality and species among other options. The query results are displayed as Dataset cards containing key information about the dataset, e.g. its metadata, terms of use, and how to cite and reuse the data. Datasets that have undergone spatial registration to an atlas contain links to 3D or 2D viewers for navigating the data in atlas space.
    :name: EBRAINS Knowledge Graph Search UI
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+EBRAINSModelCatalog
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/service/EBRAINSModelCatalog
+   :@type: https://openminds.om-i.org/types/Service
+   :definition: The EBRAINS Model Catalog contains information about models developed and/or used within the EBRAINS research infrastructure.
+   :description: The Model Catalog app provides a more in-depth view of computational models than is available in the KG Search UI, including tools for visualizing model structure, exploring how models have been validated against experimental data, and comparing different models.
+   :name: EBRAINS Model Catalog
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+ERBAINSCollaboratoryWiki
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/service/ERBAINSCollaboratoryWiki
+   :@type: https://openminds.om-i.org/types/Service
+   :definition: The Collaboratory Wiki is the main interface to access all other Collaboratory service provided by the EBRAINS research infrastructure.
+   :description: The Wiki service of the Collaboratory hosts the main interface to access all the other Collaboratory services. As such, it embodies the full concept of collab workspaces and most users consider it to be the collab service. Wiki pages are a convenient way of publishing content on the web, either addressing the Team of the collab or making the content completely public, that is, also accessible to visitors who do not have an EBRAINS account.
+   :name: EBRAINS Collaboratory Wiki
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
@@ -78,21 +93,6 @@ LocaliZoom
    :definition: Web application for viewing of series of high-resolution 2D images that have been anchored to reference atlases.
    :description: LocaliZoom allows the viewing and exploring of high-resolution images with superimposed atlas overlays. For more information see: https://localizoom.readthedocs.io/en/latest/index.html.
    :name: LocaliZoom
-
-`BACK TO TOP <Terminologies: Service library_>`_
-
-------------
-
-ModelCatalog
-------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/service/EBRAINSModelCatalog
-   :@type: https://openminds.om-i.org/types/Service
-   :definition: The EBRAINS Model Catalog contains information about models developed and/or used within the EBRAINS research infrastructure.
-   :description: The Model Catalog app provides a more in-depth view of computational models than is available in the KG Search UI, including tools for visualizing model structure, exploring how models have been validated against experimental data, and comparing different models.
-   :name: EBRAINS Model Catalog
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
@@ -128,8 +128,8 @@ Multi-Image-OSd
 
 ------------
 
-NeuroMorpho
------------
+NeuroMorphoDotOrg
+-----------------
 
 .. admonition:: metadata sheet
 

@@ -232,10 +232,10 @@ subliminalVisualStimulation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/instances/technique/subliminalVisualSimulation
+   :@id: https://openminds.om-i.org/instances/technique/subliminalVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
-   :definition: 'Subliminal visual simulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
-   :name: subliminal visual simulation
+   :definition: Stimulation technique that is providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
+   :name: subliminal visual stimulation
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 
