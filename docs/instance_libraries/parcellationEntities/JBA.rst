@@ -4161,6 +4161,21 @@ JBA_temporalInsula
 
 ------------
 
+JBA_temporalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporalLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
+   :lookupLabel: JBA_temporalLobe
+   :name: temporal lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
 JBA_temporo-parietalJunction
 ----------------------------
 
