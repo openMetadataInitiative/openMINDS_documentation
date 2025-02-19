@@ -670,8 +670,8 @@ anteriorCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: A bundle of myelinated nerve fibers passing transversely through the lamina terminalis and connecting symmetrical parts of the two cerebral hemispheres; it consists of a smaller anterior part (pars anterior commissurae anterioris) and a larger posterior part (pars posterior commissurae anterioris).
-   :description: 'Anterior commissure' is an intercerebral commissure and ventral commissure.
+   :definition: Is an intercerebral commissure and ventral commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000935)]
+   :description: A bundle of myelinated nerve fibers passing transversely through the lamina terminalis and connecting symmetrical parts of the two cerebral hemispheres; it consists of a smaller anterior part (pars anterior commissurae anterioris) and a larger posterior part (pars posterior commissurae anterioris). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000935)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100692
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000935#anterior-commissure-1
    :name: anterior commissure
@@ -688,8 +688,8 @@ anteriorCommissureAnteriorPart
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorCommissureAnteriorPart
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Anterior commissure anterior part' is a commissure of telencephalon. It is part of the anterior commissure.
-   :description: The part of the anterior commissure that contains fibers interconnecting the anterior olfactory nucleus in each hemisphere.  The fibers extend from the commissural region of the anterior commissure anteriorly into the olfactory bulb.  Within the commissural portion, the fibers lie in the anterior portion, but cannot be easily distinguished from the posterior fibers on gross dissection.  (Adapted from Heimer, 1996)
+   :definition: Is a commissure of telencephalon. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003039) ('is_a' and 'relationship')]
+   :description: The horseshoe-shaped tract that connects the two olfactory bulbs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003039)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100693
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003039#anterior-commissure-anterior-part-1
    :name: anterior commissure anterior part
@@ -712,6 +712,22 @@ anteriorHornOfLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002651#anterior-horn-of-lateral-ventricle-1
    :name: anterior horn of lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002651
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorHypothalamicCommissure
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorHypothalamicCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002694)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002694#anterior-hypothalamic-commissure-1
+   :name: anterior hypothalamic commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002694
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1712,6 +1728,23 @@ brainBloodVessel
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel
    :name: brain blood vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003499
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+brainCommissure
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/brainCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nervous system commissure and tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005970)]
+   :description: Any of the nerve fiber tracts that span the longitudinal fissure between the cerebral and/or cerebellar hemispheres of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005970)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005970#brain-commissure
+   :name: brain commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005970
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3759,6 +3792,40 @@ collectionOfBasalGanglia
 
 ------------
 
+commissuraRostralParsDorsalis
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissuraRostralParsDorsalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cerebral hemisphere white matter. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000638) ('is_a' and 'relationship')]
+   :description: Part of the anterior commissure which is located immediately ventral to the supracommissural nucleus of area ventralis telencephali.. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000638)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000638#commissura-rostral-pars-dorsalis
+   :name: commissura rostral, pars dorsalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000638
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+commissuraRostralParsVentralis
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissuraRostralParsVentralis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cerebral hemisphere white matter. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000185) ('is_a' and 'relationship')]
+   :description: Part of the anterior commissure which abuts the preoptic region dorsally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000185)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000185#commissura-rostral-pars-ventralis
+   :name: commissura rostral, pars ventralis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000185
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 commissuralNucleusOfTheSolitaryTract
 ------------------------------------
 
@@ -3790,6 +3857,40 @@ commissuralNucleusOfVagusNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002868#commissural-nucleus-of-vagus-nerve-1
    :name: commissural nucleus of vagus nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002868
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+commissureOfInferiorColliculus
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissureOfInferiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a brain commissure. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028) ('is_a' and 'relationship')]
+   :description: A commissure that is part of a inferior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003028#commissure-of-inferior-colliculus-1
+   :name: commissure of inferior colliculus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003028
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+commissureOfSuperiorColliculus
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/commissureOfSuperiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a brain commissure. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583) ('is_a' and 'relationship')]
+   :description: A commissure that is part of a superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002583#commissure-of-superior-colliculus-1
+   :name: commissure of superior colliculus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002583
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4933,6 +5034,23 @@ dorsalTegmentalNucleusParsVentralis
 
 ------------
 
+dorsalTelencephalicCommissure
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalTelencephalicCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005340)]
+   :description: A fiber tracts that connect the dorsal region of the two cerebral hemispheres and span the longitudinal fissure, including the corpus callosum and hippocampal commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005340)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005340#dorsal-telencephalic-commissure
+   :name: dorsal telencephalic commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005340
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsalTrigeminalTract
 ---------------------
 
@@ -5955,8 +6073,8 @@ habenularCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/habenularCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Habenular commissure' is a ventral commissure, commissure of diencephalon and thalamic fiber tract. It is part of the habenula and diencephalic white matter.
-   :description: A brain commissure that is situated in front of the pineal gland and connects the habenular nucleus on one side of the diencephalon with that on the other side.
+   :definition: Is a ventral commissure, commissure of diencephalon and thalamic fiber tract. Is part of the habenula and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001909) ('is_a' and 'relationship')]
+   :description: A brain commissure that is situated in front of the pineal gland and connects the habenular nucleus on one side of the diencephalon with that on the other side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001909)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104855
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001909#habenular-commissure-1
    :name: habenular commissure
@@ -6115,8 +6233,8 @@ hindbrainCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hindbrain commissure' is a brain commissure. It is part of the hindbrain.
-   :description: Any commissure within the hindbrain.
+   :definition: Is a brain commissure. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034763) ('is_a' and 'relationship')]
+   :description: Any commissure within the hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034763)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732568
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034763#hindbrain-commissure
    :name: hindbrain commissure
@@ -6534,6 +6652,22 @@ inferiorOccipitofrontalFasciculus
 
 ------------
 
+inferiorOlivaryCommissure
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOlivaryCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a hindbrain commissure. Is part of the medulla oblongata and the brainstem white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015250) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015250#inferior-olivary-commissure
+   :name: inferior olivary commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015250
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 inferiorOlivaryComplex
 ----------------------
 
@@ -6725,6 +6859,23 @@ intercalatedAmygdaloidNuclei
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002884#intercalated-amygdaloid-nuclei-1
    :name: intercalated amygdaloid nuclei
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002884
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+intercerebralCommissure
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intercerebralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of telencephalon. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002473) ('is_a' and 'relationship')]
+   :description: A commissure that connects the two cerebral hemispheres. Examples: anterior commissure, corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002473)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002473#intercerebral-commissure
+   :name: intercerebral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002473
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11898,8 +12049,8 @@ postcommissuralFornixOfBrain
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/postcommissuralFornixOfBrain
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Postcommissural fornix of brain' is a tract of diencephalon. It is part of the fornix of brain and lateral hypothalamic area.
-   :description: The posterior fibers of the fornix, which continue through the hypothalamus to the mammillary bodies; then to the anterior nuclei of thalamus, which project to the cingulate cortex.
+   :definition: Is a tract of diencephalon. Is part of the fornix of brain and the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003016) ('is_a' and 'relationship')]
+   :description: The posterior fibers of the fornix, which continue through the hypothalamus to the mammillary bodies; then to the anterior nuclei of thalamus, which project to the cingulate cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003016)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109072
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003016#postcommissural-fornix
    :name: postcommissural fornix of brain
@@ -11970,8 +12121,8 @@ posteriorCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Posterior commissure' is a commissure of diencephalon. It is part of the diencephalic white matter.
-   :description: Rounded band of white fibers crossing the middle line on the dorsal aspect of the upper end of the cerebral aqueduct. It is important in the bilateral pupillary light reflex. Its fibers acquire their medullary sheaths early, but their connections have not been definitely determined. Most of them have their origin in a nucleus, the nucleus of the posterior commissure (nucleus of Darkschewitsch), which lies in the central gray substance of the upper end of the cerebral aqueduct, in front of the nucleus of the oculomotor nerve. Some are probably derived from the posterior part of the thalamus and from the superior colliculus, whereas others are believed to be continued downward into the medial longitudinal fasciculus. The posterior commissure interconnects the pretectal nuclei, mediating the consensual pupillary light reflex[WP]. Diencephalic tract which is located in the vicinity of the dorsal diencephalon and mesencephalon and connects the pretectal nuclei. From Neuroanatomy of the Zebrafish Brain[ZFA].
+   :definition: Is a commissure of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000936) ('is_a' and 'relationship')]
+   :description: Rounded band of white fibers crossing the middle line on the dorsal aspect of the upper end of the cerebral aqueduct. It is important in the bilateral pupillary light reflex. Its fibers acquire their medullary sheaths early, but their connections have not been definitely determined. Most of them have their origin in a nucleus, the nucleus of the posterior commissure (nucleus of Darkschewitsch), which lies in the central gray substance of the upper end of the cerebral aqueduct, in front of the nucleus of the oculomotor nerve. Some are probably derived from the posterior part of the thalamus and from the superior colliculus, whereas others are believed to be continued downward into the medial longitudinal fasciculus. The posterior commissure interconnects the pretectal nuclei, mediating the consensual pupillary light reflex. Diencephalic tract which is located in the vicinity of the dorsal diencephalon and mesencephalon and connects the pretectal nuclei. From Neuroanatomy of the Zebrafish Brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000936)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109090
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000936#posterior-commissure-1
    :name: posterior commissure
@@ -12185,8 +12336,8 @@ posteriorPartOfAnteriorCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Posterior part of anterior commissure' is a commissure of telencephalon. It is part of the anterior commissure.
-   :description: The main part of the anterior commissure, distinct from the anterior olfactory part, that interconnects the temporal lobes. (Maryann Martone)
+   :definition: Is a commissure of telencephalon. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003043) ('is_a' and 'relationship')]
+   :description: The major forebrain commissure that connects the two temporal lobes of the cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003043)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109121
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003043#posterior-part-of-anterior-commissure-1
    :name: posterior part of anterior commissure
@@ -12321,6 +12472,22 @@ postnatalSubventricularZone
 
 ------------
 
+postopticCommissure
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postopticCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003936) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003936#postoptic-commissure
+   :name: postoptic commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003936
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 postsubiculum
 -------------
 
@@ -12382,8 +12549,8 @@ precommissuralFornixOfForebrain
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/precommissuralFornixOfForebrain
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Precommissural fornix of forebrain' is a tract of brain. It is part of the fornix of brain.
-   :description: Part of fornix extending from the body that curves ventrally rostral to the crossing of the anterior commissure ending in the septal nuclei
+   :definition: Is a tract of brain. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014539) ('is_a' and 'relationship')]
+   :description: Part of fornix extending from the body that curves ventrally rostral to the crossing of the anterior commissure ending in the septal nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014539)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109197
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014539#precommissural-fornix
    :name: precommissural fornix of forebrain
@@ -14728,6 +14895,22 @@ suprageniculateNucleusOfThalamus
 
 ------------
 
+supramammillaryCommissure
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/supramammillaryCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002991) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002991#supramammillary-commissure-1
+   :name: supramammillary commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002991
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 supramammillaryNucleus
 ----------------------
 
@@ -15654,6 +15837,23 @@ ventralCochlearNucleus
 
 ------------
 
+ventralCommissure
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a commissure of telencephalon. Is part of the ventral part of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005341) ('is_a' and 'relationship')]
+   :description: The fiber tracts that connect the ventral region of the two cerebral hemispheres and span the longitudinal fissure, including the anterior and the habenular commissures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005341)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005341#ventral-commissure
+   :name: ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005341
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ventralExternalArcuateFiberBundle
 ---------------------------------
 
@@ -15901,6 +16101,22 @@ ventralPosteromedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002945#ventral-posteromedial-nucleus
    :name: ventral posteromedial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002945
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralRhombencephalicCommissureMedullaOblongata
+------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralRhombencephalicCommissureMedullaOblongata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000985)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000985#ventral-rhombencephalic-commissure-medulla-oblongata
+   :name: ventral rhombencephalic commissure medulla oblongata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000985
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
