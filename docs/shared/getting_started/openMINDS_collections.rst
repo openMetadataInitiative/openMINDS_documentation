@@ -156,7 +156,7 @@ These separate files should be stored in a dedicated collection directory. The o
           |-- tricia-marie-mcmillan.jsonld
           `-- zaphod-beeblebrox.jsonld
 
-If the collection contains instances that contain sensitive information, these instances can be stored in a protected subdirectory. For our example directories above that could look like this:
+If the collection contains instances with sensitive information, these instances can be stored in a protected subdirectory. For our example directories above that could look like this:
 
 .. tabs:: collection-directory
 

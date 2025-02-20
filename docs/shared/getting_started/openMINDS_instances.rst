@@ -2,7 +2,7 @@
 openMINDS instances
 ###################
 
-openMINDS metadata instances should be provided as JSON-LD documents (file extension: ``*.jsonld``) and comply to the openMINDS schema type they reference. In the following we will explain how openMINDS instances look like for simple examples.
+openMINDS metadata instances should be provided as JSON-LD documents (file extension: ``*.jsonld``) and comply to the openMINDS schema type they reference. In the following sections, we will explain how openMINDS instances look like for simple examples.
 
 Creating a minimal instance
 ###########################
@@ -62,14 +62,14 @@ Both compact syntaxes can be interpreted by any tool that is aware of the JSON-L
 **"@id"**: The JSON-LD keyword ``"@id"`` is used to provide a unique, referable identifier for an instance in a linked metadata collection (cf. `Linking instances`_). In accordance with the JSON-LD specifications, the ``"@id"`` has to be an IRI, a compact IRI or a blank node ID. Which option is chosen is user dependent. However, be aware that within a linked metadata collection each instance has to have a unique ``"@id"``. Our recommendations are as follows: 
 
 - For a local metadata collection the ``"@id"`` of instances can be defined as blank node ID. A blank node ID has the form of ``"_:suffix"``. The suffix can either be a unique human-readable label or a numerical identifier. Be aware that blank node identifier are not persistent or portable. 
-- For a portable metadata collection the ``"@id"`` of instances have to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universially unique identifier (UUID)).
+- For a portable metadata collection the ``"@id"`` of instances have to be replaced with globally unique and persistent identifiers (e.g., a system-wide IRI prefix in combination with an universally unique identifier (UUID)).
 
 **"@type"**: The JSON-LD keyword ``"@type"`` is used to set the type of an instance or an embedded typed object within an instance. The ``"@type"`` clearly identifies the metadata schema that should be used to validate the content of an instance or an embedded typed object.
 
 Linking instances
 #################
 
-Connections between instances of a linked metadata collection are formed by refering to instance's unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance. 
+Connections between instances of a linked metadata collection are formed by referring to instance's unique identifiers. The "Person" schema tells us that the property `"contactInformation" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html#contactinformation>`_ is actually expecting a link (edge) to another instance (object) of type "ContactInformation". Let us create an instance of type "ContactInformation" and link it from a "Person" instance.
 
 If we check the constraints of the `"ContactInformation" schema <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html>`_, we learn that an instance of this type only requires the property `"email" <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contactInformation.html#email>`_ defined through a single value of data type "string". A respective "ContactInformation" instance could therefore look like this:
 
