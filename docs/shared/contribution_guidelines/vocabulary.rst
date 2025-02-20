@@ -28,6 +28,9 @@ In this JSON file, each vocabulary implementation for a single schema type is st
            "namespace": "SCHEMATYPE_NAMESPACE"
          }
        ],
+       "identical": [
+         ["VERSION"]
+       ],
        "isPartOfVersion": [
          "VERSION"
        ],
