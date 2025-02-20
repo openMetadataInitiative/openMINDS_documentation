@@ -346,6 +346,22 @@ accessoryOlfactoryBulb
 
 ------------
 
+accessoryOpticTract
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOpticTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the optic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035595) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035595#accessory-optic-tract
+   :name: accessory optic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035595
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 adenohypophysis
 ---------------
 
@@ -1353,6 +1369,23 @@ auditoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex
    :name: auditory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001393
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+axonTract
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/axonTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001018)]
+   :description: A group of axons linking two or more neuropils and having a common origin, termination. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001018)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001018#nerve-tract
+   :name: axon tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001018
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2425,6 +2458,23 @@ centralSulcus
 
 ------------
 
+centralTegmentalTract
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009643)]
+   :description: A pathway containing fibers from midbrain nuclei that project to the inferior olivary complex, as well as fibers originating in the pontine reticular formation and the medullary reticular formation that project to several nuclei of the thalamus. It can be identified in the midbrain and the pons (Adapted from Brain Info). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009643)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009643#central-tegmental-tract
+   :name: central tegmental tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009643
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 centralTegmentalTractOfMidbrain
 -------------------------------
 
@@ -2432,8 +2482,7 @@ centralTegmentalTractOfMidbrain
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Central tegmental tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and central tegmental tract.
-   :description:
+   :definition: Is a tract of brain. Is part of the midbrain tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002585) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101918
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002585#central-tegmental-tract-of-midbrain-1
    :name: central tegmental tract of midbrain
@@ -2450,8 +2499,7 @@ centralTegmentalTractOfPons
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Central tegmental tract of pons' is a tract of brain. It is part of the pontine tegmentum and central tegmental tract.
-   :description:
+   :definition: Is a tract of brain. Is part of the pontine tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002783) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101919
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002783#central-tegmental-tract-of-pons-1
    :name: central tegmental tract of pons
@@ -4230,6 +4278,22 @@ cranialNerveII
 
 ------------
 
+crossedTectoBulbarTract
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/crossedTectoBulbarTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tectobulbar tract. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000335) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000335#crossed-tecto-bulbar-tract
+   :name: crossed tecto-bulbar tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000335
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cuneateFasciculusOfMedulla
 --------------------------
 
@@ -4487,8 +4551,8 @@ dentatothalamicTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Dentatothalamic tract' is a tract of brain. It is part of the midbrain tegmentum.
-   :description: The dentatothalamic tract (or dentatorubrothalamic tract) is a tract which connects the dentate nucleus and the thalamus. [WP,unvetted].
+   :definition: Is a tract of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002594) ('is_a' and 'relationship')]
+   :description: The dentatothalamic tract (or dentatorubrothalamic tract) is a tract which connects the dentate nucleus and the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002594)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103087
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002594#dentatothalamic-tract-1
    :name: dentatothalamic tract
@@ -5094,8 +5158,8 @@ dorsalTrigeminalTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Dorsal trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
-   :description: The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [WP,unvetted].
+   :definition: Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797) ('is_a' and 'relationship')]
+   :description: The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103494
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002797#dorsal-trigeminal-tract-1
    :name: dorsal trigeminal tract
@@ -5189,6 +5253,23 @@ emboliformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002602#emboliform-nucleus-1
    :name: emboliform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002602
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+endohypothalamicTract
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endohypothalamicTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005343)]
+   :description: CNS white matter, axonal tract interconnecting catecholaminergic cell groups in the posterior tuberculum and hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005343)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005343#endohypothalamic-tract
+   :name: endohypothalamic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005343
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5314,6 +5395,23 @@ entorhinalCortexLayer6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022329#entorhinal-cortex-layer-6
    :name: entorhinal cortex layer 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022329
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+epiphysealTract
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epiphysealTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034714)]
+   :description: A cranial nerve fiber tract that innervates the parietal eye. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034714)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034714#epiphyseal-tract
+   :name: epiphyseal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034714
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5564,6 +5662,22 @@ forebrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001890#forebrain-1
    :name: forebrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001890
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+forebrainIpsilateralFiberTracts
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainIpsilateralFiberTracts
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a fasciculus of brain. Is part of the white matter of forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022247) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022247#forebrain-ipsilateral-fiber-tracts
+   :name: forebrain ipsilateral fiber tracts
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022247
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6156,15 +6270,31 @@ habenularCommissure
 
 ------------
 
+habenuloInterpeduncularTract
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]
+   :description: White matter tract containing fibers projecting from the habenular nuclei to the interpeduncular nucleus (Maryann Martone) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002138#fasciculus-retroflexus
+   :name: habenulo-interpeduncular tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002138
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 habenulointerpeduncularTractOfDiencephalon
 ------------------------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfDiencephalon
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTractOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Habenulo-interpeduncular tract of diencephalon' is a fasciculus of brain. It is part of the habenulo-interpeduncular tract and diencephalic white matter.
-   :description:
+   :definition: Is a fasciculus of brain. Is part of the habenulo-interpeduncular tract and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022649) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104856
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022649#habenulo-interpeduncular-tract-of-diencephalon-1
    :name: habenulo-interpeduncular tract of diencephalon
@@ -6179,10 +6309,9 @@ habenulointerpeduncularTractOfMidbrain
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenulointerpeduncularTractOfMidbrain
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Habenulo-interpeduncular tract of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum, habenulo-interpeduncular tract and white matter of midbrain.
-   :description:
+   :definition: Is a fasciculus of brain. Is part of the midbrain tegmentum, the habenulo-interpeduncular tract and the white matter of midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023740) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104857
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023740#habenulo-interpeduncular-tract-of-midbrain-1
    :name: habenulo-interpeduncular tract of midbrain
@@ -8507,6 +8636,57 @@ mammillaryPeduncle
 
 ------------
 
+mammillotectalAxonalTract
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillotectalAxonalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006697) ('is_a' and 'relationship')]
+   :description: The mammillotectal tract is the collection of axons that connects the ventral diencephalon to the superior colliculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006697)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006697#mammillotectal-axonal-tract
+   :name: mammillotectal axonal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006697
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+mammillotegmentalAxonalTract
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillotegmentalAxonalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006698) ('is_a' and 'relationship')]
+   :description: The mammillotegmental tract is the collection of axons that connects the ventral diencephalon to the tegmentum and pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006698)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006698#mammillotegmental-fasciculus
+   :name: mammillotegmental axonal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006698
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+mammillothalamicAxonalTract
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicAxonalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the diencephalic white matter and the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006696) ('is_a' and 'relationship')]
+   :description: A fiber pathway that originates from neurons in the posterior hypothalamic region and projects to various nuclei of the anterior nuclear group of the thalamus. It is a composite structure that consists of the mammillothalamic tract of the hypothalamus and the mammillothalamic tract of the thalamus (Carpenter-1983). (from Brain Info.org) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006696)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006696#mammillothalamic-axonal-tract
+   :name: mammillothalamic axonal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006696
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 mammillothalamicTractOfHypothalamus
 -----------------------------------
 
@@ -8514,8 +8694,8 @@ mammillothalamicTractOfHypothalamus
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Mammillothalamic tract of hypothalamus' is a tract of diencephalon. It is part of the mammillary axonal complex.
-   :description: Part of mammillothalamic tract contained within the hypothalamus
+   :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002990) ('is_a' and 'relationship')]
+   :description: Part of mammillothalamic tract contained within the hypothalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002990)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106507
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002990#mammillothalamic-tract-of-hypothalamus-1
    :name: mammillothalamic tract of hypothalamus
@@ -8805,6 +8985,22 @@ medialLemniscusOfPons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002958#medial-lemniscus-of-pons-1
    :name: medial lemniscus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002958
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialLongitudinalCatecholaminergicTract
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalCatecholaminergicTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005341)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005341#medial-longitudinal-catecholaminergic-tract
+   :name: medial longitudinal catecholaminergic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005341
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9366,6 +9562,23 @@ medullaOblongata
 
 ------------
 
+medullaReticulospinalTract
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaReticulospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004173)]
+   :description: Axon tract that carries efferent (outgoing) action potentials from the cell body in the medulla towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004173)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004173#medulla-reticulospinal-tract
+   :name: medulla reticulospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004173
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medullaryAnteriorHorn
 ---------------------
 
@@ -9916,6 +10129,23 @@ neurohypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1
    :name: neurohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002198
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nigrostriatalTract
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nigrostriatalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014169)]
+   :description: The term nigrostriatal fibers refers to a dopaminergic fiber pathway connecting the substantia nigra with the striatum. It is not readily distinguished in myelin-stained cross-sections (Carpenter-83). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014169)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014169#nigrostriatal-tract-1
+   :name: nigrostriatal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014169
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10742,8 +10972,8 @@ opticTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Optic tract' is a tract of diencephalon. It is part of the diencephalic white matter.
-   :description: Diencephalic white matter (tract) which is comprised of retinal ganglion cell axons after which they have passed through the optic chiasm[ZFA]. Predominantly white matter structure found in diencephalon consisting of fibers originating in the retina. The optic tract is considered to extend from the point of the optic chiasm and terminates largely, although not exclusively, in the lateral geniculate complex. Other fibers end in the superior colliculus and other structures in the diencephalon, midbrain and brainstem (MM)[NIF].
+   :definition: Is a tract of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001908) ('is_a' and 'relationship')]
+   :description: Diencephalic white matter (tract) which is comprised of retinal ganglion cell axons after which they have passed through the optic chiasm. Predominantly white matter structure found in diencephalon consisting of fibers originating in the retina. The optic tract is considered to extend from the point of the optic chiasm and terminates largely, although not exclusively, in the lateral geniculate complex. Other fibers end in the superior colliculus and other structures in the diencephalon, midbrain and brainstem (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001908)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108074
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001908#optic-tract-1
    :name: optic tract
@@ -11948,6 +12178,23 @@ pinealRecessOfThirdVentricle
 
 ------------
 
+pinealTract
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. Is part of the epiphyseal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034715) ('is_a' and 'relationship')]
+   :description: A cranial nerve fiber tract that innervates the pineal body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034715)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034715#pineal-tract
+   :name: pineal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034715
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 piriformCortex
 --------------
 
@@ -12069,6 +12316,23 @@ pons
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000988#pons-1
    :name: pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000988
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ponsReticulospinalTract
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ponsReticulospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]
+   :description: Axon tract that carries efferent (outgoing) action potentials from the cell body in the pons towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004172#pons-reticulospinal-tract
+   :name: pons reticulospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004172
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12896,6 +13160,22 @@ preopticPeriventricularNucleus
 
 ------------
 
+preopticohypothalamicTract
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticohypothalamicTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005344)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005344#preopticohypothalamic-tract
+   :name: preopticohypothalamic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005344
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 presubiculum
 ------------
 
@@ -13363,6 +13643,23 @@ reticularFormation
 
 ------------
 
+reticulospinalTract
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022943) ('is_a' and 'relationship')]
+   :description: The reticulospinal tract (or anterior reticulospinal tract) is an extrapyramidal motor tract which travels from the reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022943)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022943#reticulospinal-tract-1
+   :name: reticulospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022943
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 reticulotegmentalNucleus
 ------------------------
 
@@ -13661,6 +13958,23 @@ rostralCerebellarTract
 
 ------------
 
+rostralEpiphysealTract
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralEpiphysealTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. Is part of the epiphyseal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034716) ('is_a' and 'relationship')]
+   :description: The more rostral of the two branches of the epiphyseal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034716)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034716#rostral-epiphyseal-tract
+   :name: rostral epiphyseal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034716
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rostralInterstitialNucleusOfMedialLongitudinalFasciculus
 --------------------------------------------------------
 
@@ -13816,6 +14130,39 @@ rostrumOfCorpusCallosum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015703#rostrum-of-corpus-callosum
    :name: rostrum of corpus callosum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015703
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rubrospinalTract
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rubrospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002714) ('is_a' and 'relationship')]
+   :description: White matter tract arising in red nucleus and projecting to spinal cord ventral horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002714)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002714#rubrospinal-tract-1
+   :name: rubrospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002714
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondaryGustatoryTract
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryGustatoryTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000430)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000430#secondary-gustatory-tract
+   :name: secondary gustatory tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000430
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13981,6 +14328,40 @@ shellOfNucleusAccumbens
 
 ------------
 
+solitaryTract
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/solitaryTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002718) ('is_a' and 'relationship')]
+   :description: The solitary tract is a compact fiber bundle that extends longitudinally through the posterolateral region of the medulla. The solitary tract is surrounded by the nucleus of the solitary tract, and descends to the upper cervical segments of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002718)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002718#solitary-tract-1
+   :name: solitary tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002718
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+solitaryTractNuclearComplex
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/solitaryTractNuclearComplex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002126) ('is_a' and 'relationship')]
+   :description: The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002126)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002126#solitary-tract-nuclear-complex
+   :name: solitary tract nuclear complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002126
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 somatosensoryCortex
 -------------------
 
@@ -14016,6 +14397,23 @@ sommersSector
 
 ------------
 
+spinalTrigeminalTract
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014761) ('is_a' and 'relationship')]
+   :description: Brainstem tract formed by the central processes of first-order, trigeminal ganglion neurons that extends from the caudal medulla to the midpons. This tract conveys nociceptive and thermal information from the face to second-order neurons in the spinal nucleus of the trigeminal complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014761)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014761#spinal-trigeminal-tract
+   :name: spinal trigeminal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014761
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalTrigeminalTractOfMedulla
 ------------------------------
 
@@ -14023,8 +14421,8 @@ spinalTrigeminalTractOfMedulla
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Spinal trigeminal tract of medulla' is a spinal trigeminal tract. It is part of the medulla oblongata.
-   :description: Part of spinal trigeminal tract located in the medulla
+   :definition: Is a spinal trigeminal tract. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002715) ('is_a' and 'relationship')]
+   :description: Part of spinal trigeminal tract located in the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002715)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110958
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002715#spinal-trigeminal-tract-of-medulla-1
    :name: spinal trigeminal tract of medulla
@@ -14041,12 +14439,28 @@ spinalTrigeminalTractOfPons
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Spinal trigeminal tract of pons' is a spinal trigeminal tract. It is part of the pontine tegmentum.
-   :description:
+   :definition: Is a spinal trigeminal tract. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002800) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110959
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002800#spinal-trigeminal-tract-of-pons-1
    :name: spinal trigeminal tract of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002800
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinoOlivaryTract
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinoOlivaryTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719) ('is_a' and 'relationship')]
+   :description: The spino-olivary tract is located in the ventral funiculus of the spinal cord. This tract carries proprioception information from muscles and tendons as well as cutaneous impulses to the olivary nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002719#spino-olivary-tract-1
+   :name: spino-olivary tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002719
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14094,10 +14508,10 @@ spinothalamicTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition:
-   :description: The 'spinothalamic tract' is a white matter fibre bundle. It originates from neurons in the spinal central gray and projects to various somatosensory nuclei of the thalamus.
+   :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007703)]
+   :description: A tract that originates from neurons in the spinal central gray and projects to various somatosensory nuclei of the thalamus. It is formed in the medulla by merger of the anterior spinothalamic tract and lateral spinothalamic tract (adapted from Braininfo.org) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007703)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110973
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007703#spinothalamic-tract-1
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007703#spinothalamic-tract
    :name: spinothalamic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007703
 
@@ -14112,8 +14526,8 @@ spinothalamicTractOfMedulla
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Spinothalamic tract of medulla' is a tract of brain. It is part of the medulla oblongata and spinothalamic tract.
-   :description: Part of spinothalamic tract in the medulla
+   :definition: Is a tract of brain. Is part of the medulla oblongata and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002944) ('is_a' and 'relationship')]
+   :description: Part of spinothalamic tract that is in the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002944)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110974
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002944#spinothalamic-tract-of-medulla-1
    :name: spinothalamic tract of medulla
@@ -14130,8 +14544,7 @@ spinothalamicTractOfMidbrain
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Spinothalamic tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and spinothalamic tract.
-   :description:
+   :definition: Is a tract of brain. Is part of the midbrain tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002609) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110975
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002609#spinothalamic-tract-of-midbrain-1
    :name: spinothalamic tract of midbrain
@@ -14148,8 +14561,8 @@ spinothalamicTractOfPons
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.
-   :description: Part of spinothalamic tract that is in the pontine tegmentum
+   :definition: Is a tract of brain. Is part of the pontine tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002798) ('is_a' and 'relationship')]
+   :description: Part of spinothalamic tract that is in the pontine tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002798)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110976
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002798#spinothalamic-tract-of-pons-1
    :name: spinothalamic tract of pons
@@ -15156,6 +15569,38 @@ supraopticNucleus
 
 ------------
 
+supraopticTract
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002244)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002244#supraoptic-tract
+   :name: supraoptic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002244
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+supraopticohypophysialTract
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticohypophysialTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002699) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002699#supraopticohypophysial-tract-1
+   :name: supraopticohypophysial tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002699
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 supraspinalNucleus
 ------------------
 
@@ -15217,8 +15662,8 @@ tectobulbarTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Tectobulbar tract' is a tract of brain. It is part of the medulla oblongata.
-   :description: A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the optic tectum towards target cells in the premotor reticulospinal system in the hindbrain.
+   :definition: Is a tract of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002164) ('is_a' and 'relationship')]
+   :description: A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the optic tectum towards target cells in the premotor reticulospinal system in the hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002164)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111548
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002164#tectobulbar-tract-1
    :name: tectobulbar tract
@@ -15235,12 +15680,44 @@ tectopontineTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Tectopontine tract' is a tract of brain. It is part of the pontine tegmentum.
-   :description:
+   :definition: Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002930) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111549
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002930#tectopontine-tract-1
    :name: tectopontine tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002930
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tectospinalTract
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002949)]
+   :description: A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the superior colliculus of the midbrain towards target cells in the ventral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002949)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002949#tectospinal-tract-1
+   :name: tectospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002949
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tectothalamicTract
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectothalamicTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the optic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035570) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035570#tectothalamic-tract
+   :name: tectothalamic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035570
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15293,6 +15770,22 @@ telaChoroideaOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005288#tela-choroidea-of-third-ventricle
    :name: tela choroidea of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005288
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+telencephalicTracts
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicTracts
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000597)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000597#telencephalic-tracts
+   :name: telencephalic tracts
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000597
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15467,8 +15960,9 @@ thalamicFiberTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Thalamic fiber tract' is a tract of diencephalon. It is part of the dorsal plus ventral thalamus.
+   :definition: Is a tract of diencephalon. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025261) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730765
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025261#thalamic-fiber-tracts
    :name: thalamic fiber tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025261
 
@@ -15570,12 +16064,61 @@ tractOfBrain
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Tract of brain' is an axon tract. It is part of the brain and white matter.
-   :description: An axon tract that is part of a brain.
+   :definition: Is an axon tract. Is part of the brain and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702) ('is_a' and 'relationship')]
+   :description: An axon tract that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736079
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007702#tract-of-brain
    :name: tract of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007702
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tractOfDiencephalon
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfDiencephalon
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011591) ('is_a' and 'relationship')]
+   :description: An axon tract that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011591)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011591#tract-of-diencephalon
+   :name: tract of diencephalon
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011591
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tractOfThePostopticCommissure
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfThePostopticCommissure
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic white matter. Is part of the postoptic commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001366) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001366#tract-of-the-postoptic-commissure
+   :name: tract of the postoptic commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001366
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tractusSacciVasculosi
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractusSacciVasculosi
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035146)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035146#tractus-sacci-vasculosi
+   :name: tractus sacci vasculosi
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035146
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15725,6 +16268,23 @@ trigeminalNerveRoot
 
 ------------
 
+trigeminothalamicTract
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminothalamicTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004171)]
+   :description: The trigeminothalamic tract is one of the major routes of nociceptive and temperature signaling from the face. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004171)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004171#trigeminal-tract
+   :name: trigeminothalamic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004171
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 trochlearNucleus
 ----------------
 
@@ -15864,6 +16424,22 @@ uncinateFasciculusOfTheForebrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019275#uncinate-fasciculus-of-the-forebrain
    :name: uncinate fasciculus of the forebrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019275
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+uncrossedTectoBulbarTract
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncrossedTectoBulbarTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tectobulbar tract. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000296) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000296#uncrossed-tecto-bulbar-tract
+   :name: uncrossed tecto-bulbar tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000296
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16494,8 +17070,8 @@ ventralTrigeminalTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Ventral trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.
-   :description: The Anterior trigeminothalamic tract (or ventral trigeminothalamic tract) serves as pain, temperature, and light touch pathway from the face, head and neck. It receives input from trigeminal nerve, facial nerve, glossopharyngeal nerve and vagus nerve. It receives discriminative tactile and pressure input from the contralateral principal sensory nucleus of CN V, which terminates in the ventral posteromedial nucleus of the thalamus. It then ascends to the contralateral sensory cortex via three neurons .
+   :definition: Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002549) ('is_a' and 'relationship')]
+   :description: The Anterior trigeminothalamic tract (or ventral trigeminothalamic tract) serves as pain, temperature, and light touch pathway from the face, head and neck. It receives input from trigeminal nerve, facial nerve, glossopharyngeal nerve and vagus nerve. It receives discriminative tactile and pressure input from the contralateral principal sensory nucleus of CN V, which terminates in the ventral posteromedial nucleus of the thalamus. It then ascends to the contralateral sensory cortex via three neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002549)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112361
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002549#ventral-trigeminal-tract-1
    :name: ventral trigeminal tract
@@ -16678,6 +17254,23 @@ vestibulocochlearNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002731#vestibulocochlear-nerve-fiber-bundle
    :name: vestibulocochlear nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002731
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vestibulospinalTract
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002768)]
+   :description: A long process of a CNS neuron, that carries efferent (outgoing) action potentials from the cell body in the vestibular nucleus of the pons towards target cells in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002768)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002768#vestibulospinal-tract-1
+   :name: vestibulospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002768
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
