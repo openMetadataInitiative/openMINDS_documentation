@@ -405,8 +405,8 @@ alarCentralLobule
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The lobulus centralis is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the alar central lobule. [WP,unvetted].
-   :description: 'Alar central lobule' is a cerebellum hemisphere lobule.
+   :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003013)]
+   :description: The lobulus centralis is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the alar central lobule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003013)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100438
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003013#alar-central-lobule-1
    :name: alar central lobule
@@ -542,6 +542,23 @@ ansaLenticularis
 
 ------------
 
+ansiformLobule
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobule
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005348)]
+   :description: A lobule comprising the greater part of the hemisphere of the cerebellum; its superior and inferior surfaces are separated by the horizontal fissure into major parts known as crus I (superior semilunar lobule) and crus II (inferior semilunar lobule). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005348)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005348#ansiform-lobule
+   :name: ansiform lobule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005348
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ansiformLobuleCrusI
 -------------------
 
@@ -549,6 +566,7 @@ ansiformLobuleCrusI
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an ansiform lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005976)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104941
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005976#hemispheric-lobule-viia
    :name: ansiform lobule crus I
@@ -565,8 +583,9 @@ ansiformLobuleCrusII
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an ansiform lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005977)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104942
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005977#ansiform-lobule-crus-ii
    :name: ansiform lobule crus II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005977
 
@@ -1024,11 +1043,27 @@ anteriorQuadrangularLobule
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :description: 'Anterior quadrangular lobule' is a cerebellum hemisphere lobule.
+   :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003015)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100743
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003015#anterior-quadrangular-lobule-1
    :name: anterior quadrangular lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003015
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorSegmentOfParacentralLobule
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSegmentOfParacentralLobule
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the frontal lobe and the paracentral lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035932) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035932#anterior-segment-of-paracentral-lobule
+   :name: anterior segment of paracentral lobule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035932
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2375,8 +2410,8 @@ centralLobule
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Central lobule' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.
-   :description: The central lobule is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the ala lobuli centralis. [WP,unvetted].
+   :definition: Is a cerebellum vermis lobule. Is part of the cerebellum anterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003021) ('is_a' and 'relationship')]
+   :description: The central lobule is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the ala lobuli centralis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003021)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101897
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003021#central-lobule-1
    :name: central lobule
@@ -6373,6 +6408,23 @@ hemispherePartOfCerebellarPosteriorLobe
 
 ------------
 
+hemisphericLobuleVIII
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hemisphericLobuleVIII
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006121)]
+   :description: The biventer lobule (or biventral lobule) is triangular in shape; its apex points backward, and is joined by the gray band to the pyramid. The lateral border is separated from the inferior semilunar lobule by the postpyramidal fissure. The base is directed forward, and is on a line with the anterior border of the tonsil, and is separated from the flocculus by the postnodular fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006121)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006121#hemispheric-lobule-viii
+   :name: hemispheric lobule VIII
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006121
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 hilumOfDentateNucleus
 ---------------------
 
@@ -8434,6 +8486,22 @@ lobeOfCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016526#lobe-of-cerebral-cortex
    :name: lobe of cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016526
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lobuleSimplex
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobuleSimplex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005350)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005350#lobule-simplex
+   :name: lobule simplex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005350
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11312,8 +11380,8 @@ paracentralLobule
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Paracentral lobule is on the medial surface of the hemisphere and is the continuation of the precentral and postcentral gyri. The paracentral lobule controls motor and sensory innervations of the contralateral lower extremity. It is also responsible for control of defecation and urination. It includes portions of the frontal and parietal lobes: The anterior portion of the paracentral lobule is part of the frontal lobe and is often referred to as the supplementary motor area. The posterior portion is considered part of the parietal lobe and deals with somatosensory of the distal limbs.While the boundary between the lobes, the central sulcus, is easy to locate on the lateral surface of the cerebral hemispheres, this boundary is often discerned in a cytoarchetectonic manner in cases where the central sulcus is not visible on the medial surface.
-   :description: The 'paracentral lobule' is the junction of the precentral gyrus and postcentral gyrus on the medial surface of the cerebral cortex. It lies across the boundary between the frontal lobe and the parietal lobe.
+   :definition: Is a gyrus. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035933) ('is_a' and 'relationship')]
+   :description: The junction of the precentral gyrus and postcentral gyrus on the medial surface of the cerebral cortex. It lies across the boundary between the frontal lobe and the parietal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035933)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729354
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035933#paracentral-lobule
    :name: paracentral lobule
@@ -11371,6 +11439,23 @@ paralaminarPartOfMedialDorsalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002650#paralaminar-part-of-medial-dorsal-nucleus-1
    :name: paralaminar part of medial dorsal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002650
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paramedianLobule
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianLobule
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005349) ('is_a' and 'relationship')]
+   :description: The anterior portion of the posteroinferior lobule of the cerebellum, the posterior portion being the semilunar lobule inferior; the two are continuous with the tuber of the vermis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005349)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005349#paramedian-lobule
+   :name: paramedian lobule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005349
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11700,6 +11785,134 @@ paraventricularNucleusOfTheHypothalamusParvicellularDivision
 
 ------------
 
+paravermicLobuleII
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleII
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028918)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028918#paravermic-lobule-ii
+   :name: paravermic lobule II
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028918
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleIII
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIII
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028919)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028919#paravermic-lobule-iii
+   :name: paravermic lobule III
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028919
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleIV
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIV
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028920)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028920#paravermic-lobule-iv
+   :name: paravermic lobule IV
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028920
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleIX
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIX
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028921)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028921#paravermic-lobule-ix
+   :name: paravermic lobule IX
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028921
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleV
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleV
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028922)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028922#paravermic-lobule-v
+   :name: paravermic lobule V
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028922
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleVI
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVI
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028923)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028923#paravermic-lobule-vi
+   :name: paravermic lobule VI
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028923
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleVII
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVII
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028924)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028924#paravermic-lobule-vii
+   :name: paravermic lobule VII
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028924
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paravermicLobuleVIII
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVIII
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028925)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028925#paravermic-lobule-viii
+   :name: paravermic lobule VIII
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028925
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 paravermicLobuleX
 -----------------
 
@@ -11707,7 +11920,7 @@ paravermicLobuleX
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Paravermic lobule X' is a paravermis lobule area and flocculonodular lobe, hemisphere portion. It is part of the flocculus.
+   :definition: Is a paravermis lobule area and flocculonodular lobe, hemisphere portion. Is part of the flocculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036043) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724502
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036043#paravermic-lobule-x
    :name: paravermic lobule X
@@ -12803,6 +13016,22 @@ posteriorPeriventricularNucleus
 
 ------------
 
+posteriorSegmentOfParacentralLobule
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSegmentOfParacentralLobule
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the parietal lobe and the paracentral lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035934) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035934#posterior-segment-of-paracentral-lobule
+   :name: posterior segment of paracentral lobule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035934
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 posteriorSpinocerebellarTract
 -----------------------------
 
@@ -13549,6 +13778,22 @@ pyramidalLayerOfCA2
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014549#ca2-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014549
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+quadrangularLobule
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/quadrangularLobule
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036063)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036063#quadrangular-lobule
+   :name: quadrangular lobule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036063
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
