@@ -20,20 +20,28 @@ In this JSON file, each vocabulary implementation for a single schema type is st
      "SCHEMATYPE": {
        "color": "HEXCOLOR",
        "description": "SCHEMATYPE_DESCRIPTION",
+       "hasNamespace": [
+         {
+           "inVersions": [
+             "VERSION"
+           ],
+           "namespace": "SCHEMATYPE_NAMESPACE"
+         }
+       ],
+       "identical": [
+         ["VERSION"]
+       ],
        "isPartOfVersion": [
          "VERSION"
        ],
        "label": "SCHEMALABEL",
-       "name": "SCHEMANAME",
-       "semanticEquivalent": [
-         "UNIQUEID_OF_EQUIVALENT_SCHEMA"
-       ]
+       "name": "SCHEMANAME"
      }
    }
 
 .. note::
 
-   This file is auto-generated with each new schema commit on openMINDS. However, the attributes ``"color"``, ``"description"``, ``"label"``, and ``"semanticEquivalent"`` can be manually overwritten.
+   This file is auto-generated with each new schema commit on openMINDS. However, the attributes ``"color"``, ``"description"``, and ``"label"`` can be manually overwritten.
 
 Properties
 ##########
@@ -54,13 +62,18 @@ In this JSON file, each vocabulary implementation for a single property is struc
          "multiline": "BOOLEAN"
        },
        "description": "PROPERTYNAME_DESCRIPTION",
+       "hasNamespace": [
+         {
+           "inVersions": [
+             "VERSION"
+           ],
+           "namespace": "PROPERTYNAME_NAMESPACE"
+         }
+       ],
        "label": "PROPERTYLABEL",
        "labelPlural": "PROPERTYLABEL",
        "name": "PROPERTYNAME_SHORT",
        "namePlural": "PROPERTYLABEL",
-       "semanticEquivalent": [
-         "UNIQUEID_OF_EQUIVALENT_PROPERTY"
-       ],
        "usedIn": {
          "VERSION": [
            "SCHEMATYPE"
@@ -71,4 +84,4 @@ In this JSON file, each vocabulary implementation for a single property is struc
 
 .. note::
 
-   This file is auto-generated with each new commit on openMINDS. However, the attributes ``"description"``, ``"label"``, ``"labelPlural"``, ``"namePlural"``, and ``"semanticEquivalent"`` can be manually overwritten.
+   This file is auto-generated with each new commit on openMINDS. However, the attributes ``"description"``, ``"label"``, ``"labelPlural"``, and ``"namePlural"`` can be manually overwritten.
