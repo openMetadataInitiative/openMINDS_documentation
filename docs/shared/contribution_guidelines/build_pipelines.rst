@@ -19,7 +19,7 @@ There are three types of repositories in the Open Metadata Initiative Organizati
 Module Repositories
 ~~~~~~~~~~~~~~~~~~~
 
-These repositories represent individual openMINDS metadata models, for example `openMINDS_core`_ or `openMINDS_SANDS`_. It also includes the `openMINDS_instances`_ repository which is not a model, but a collection of controlled metadata instances of schemas from the various openMINDS models. Development of openMINDS schemas (and instances) will happen on these module repositories, and any suggestion for a schema modification should happen through a Pull Request to the respective repository.
+These repositories represent individual openMINDS metadata modules, for example `openMINDS_core`_ or `openMINDS_SANDS`_. It also includes the `openMINDS_instances`_ repository which is a library of controlled metadata instances for metadata schemas/types of the various openMINDS modules. Development of openMINDS schemas (and instances) will happen on these module repositories, and any suggestion for a schema modification should happen through a Pull Request to the respective repository.
 
 .. _openMINDS_core: https://github.com/openMetadataInitiative/openMINDS_core
 .. _openMINDS_SANDS: https://github.com/openMetadataInitiative/openMINDS_SANDS
@@ -28,7 +28,7 @@ These repositories represent individual openMINDS metadata models, for example `
 Central repository
 ~~~~~~~~~~~~~~~~~~
 
-The **central** repository (`openMINDS`_) contains schemas for all the openMINDS models in the omi.json format. These schemas are extended and “resolved” [link to description of the tpl.json and omi.json formats] variants of the schema templates found in the respective **module** repositories. The **central** repository should be considered the ground truth for schemas.
+The **central** repository (`openMINDS`_) contains schemas for the full openMINDS model in the omi.json format. These schemas are extended and “resolved” [link to description of the tpl.json and omi.json formats] variants of the schema templates found in the respective **module** repositories. The **central** repository should be considered the ground truth for schemas.
 
 .. _openMINDS: https://github.com/openMetadataInitiative/openMINDS
 
@@ -74,14 +74,14 @@ The **central** repository (`openMINDS`_) and the **target** repositories have a
 Workflow example flow
 ---------------------
 
-Let's say a modification of a schema in the core model is pushed onto `openMINDS_core`_. This will trigger the following series of workflows:
+Let's say a modification of a schema in the core module is pushed onto `openMINDS_core`_. This will trigger the following series of workflows:
 
 1. The ``openMINDS_upstream`` workflow of the `openMINDS_core`_ repository is triggered, which in turn triggers the ``build`` workflow of the **central** `openMINDS`_ repository’s ``pipeline`` branch.
 2. The ``build`` workflow of the **central** repository executes and pushes an updated version onto the ``main`` branch.
 3. The ``openMINDS_upstream`` workflow of the **central** repository is triggered, which in turn triggers the ``build`` workflows of each of the **target** repositories.
 4. The ``build`` workflows of the **target** repositories execute and the changes are pushed onto the ``main`` repository branches.
 
-The result of this series of workflows is that both the **central** and the **target** repositories are updated with the latest change from the core model.
+The result of this series of workflows is that both the **central** and the **target** repositories are updated with the latest change from the core module.
 
 For target repository developers
 --------------------------------
@@ -91,7 +91,7 @@ For target repository developers
 
 .. _openMINDS_upstream.yml: https://github.com/openMetadataInitiative/openMINDS/blob/main/.github/workflows/openMINDS_upstream.yml
 
-For model / module repository developers
+For module repository developers
 ----------------------------------------
 
 There must be an ``openMINDS_upstream`` workflow (todo: add link to example from one of the module repositories).
