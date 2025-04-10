@@ -1225,6 +1225,20 @@ application_vnd.enzo.amr+hdf5
 
 ------------
 
+application_vnd.espina.measurement+ms-excel
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.measurement+ms-excel
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: This Excel workbook contains the exported measurements of segmented structures created in EspINA, such as volume, surface area, and other morphological parameters. Each measurement is provided in a separate worksheet.
+   :name: application/vnd.espina.measurement+ms-excel
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.espina.seg+zip
 ------------------------------
 
@@ -1233,6 +1247,20 @@ application_vnd.espina.seg+zip
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.seg+zip
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.espina.seg+zip
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.espina.segmentation.seg
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.espina.segmentation.seg
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: This segmentation file format is a compressed archive providing the configuration information for a performed image segmentation.
+   :name: application/vnd.espina.segmentation.seg
 
 `BACK TO TOP <ContentTypes library_>`_
 
