@@ -14163,6 +14163,510 @@ rhomboidalNucleus
 
 ------------
 
+rhombomere
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001892)]
+   :description: A segment of the developing hindbrain. In the vertebrate embryo, a rhombomere is a transiently divided segment of the developing neural tube, within the hindbrain region (a neuromere) in the area that will eventually become the rhombencephalon. The rhombomeres appear as a series of slightly constricted swellings in the neural tube, caudal to the cephalic flexure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001892)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001892#rhombomere-1
+   :name: rhombomere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001892
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere1
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005499)]
+   :description: Hindbrain segment or neuromere 1. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005499)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005499#rhombomere-1
+   :name: rhombomere 1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005499
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere10
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere10
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019285)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019285#rhombomere-10
+   :name: rhombomere 10
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019285
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere11
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere11
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019286)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019286#rhombomere-11
+   :name: rhombomere 11
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019286
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere1FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere1FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005566) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005566#rhombomere-floor-plate
+   :name: rhombomere 1 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005566
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere1RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere1RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005568) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 1. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005568)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005568#rhombomere-roof-plate
+   :name: rhombomere 1 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005568
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere2
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005569)]
+   :description: The second transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005569)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005569#rhombomere-2
+   :name: rhombomere 2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005569
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere2FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere2FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005570) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005570)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005570#rhombomere-2-floor-plate
+   :name: rhombomere 2 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005570
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere2RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere2RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005572) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005572)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005572#rhombomere-2-roof-plate
+   :name: rhombomere 2 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005572
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere3
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005507)]
+   :description: The third transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005507)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005507#rhombomere-3
+   :name: rhombomere 3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005507
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere3FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere3FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005573) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005573)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005573#rhombomere-3-floor-plate
+   :name: rhombomere 3 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005573
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere3RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere3RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005575) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005575)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005575#rhombomere-3-roof-plate
+   :name: rhombomere 3 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005575
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere4
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere4
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005511)]
+   :description: The fourth transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005511)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005511#rhombomere-4
+   :name: rhombomere 4
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005511
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere4FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere4FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 4. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005576) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 4. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005576)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005576#rhombomere-4-floor-plate
+   :name: rhombomere 4 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005576
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere4RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere4RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 4. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005578) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 4. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005578)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005578#rhombomere-4-roof-plate
+   :name: rhombomere 4 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005578
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere5
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere5
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005515)]
+   :description: The fifth transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005515)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005515#rhombomere-5
+   :name: rhombomere 5
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005515
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere5FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere5FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 5. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005579) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 5. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005579)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005579#rhombomere-5-floor-plate
+   :name: rhombomere 5 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005579
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere5RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere5RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 5. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005581) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 5. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005581)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005581#rhombomere-5-roof-plate
+   :name: rhombomere 5 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005581
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere6
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere6
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005519)]
+   :description: The sixth transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005519)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005519#rhombomere-6
+   :name: rhombomere 6
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005519
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere6FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere6FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 6. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005582) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 6. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005582)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005582#rhombomere-6-floor-plate
+   :name: rhombomere 6 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005582
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere6RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere6RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 6. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005584) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 6. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005584)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005584#rhombomere-6-roof-plate
+   :name: rhombomere 6 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005584
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere7
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere7
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005523)]
+   :description: The seventh transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005523)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005523#rhombomere-7
+   :name: rhombomere 7
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005523
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere7FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere7FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 7. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005585) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 7. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005585)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005585#rhombomere-7-floor-plate
+   :name: rhombomere 7 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005585
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere7RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere7RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 7. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005587) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 7. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005587)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005587#rhombomere-7-roof-plate
+   :name: rhombomere 7 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005587
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere8
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere8
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005527)]
+   :description: The eighth transiently divided segment of the developing rhombencephalon; rhombomeres are lineage restricted, express different genes from one another, and adopt different developmental fates; rhombomeres are numbered in caudal to rostral order. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005527)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005527#rhombomere-8
+   :name: rhombomere 8
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005527
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere8FloorPlate
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere8FloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere floor plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005588) ('is_a' and 'relationship')]
+   :description: A rhombomere floor plate that is part of a rhombomere 8. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005588)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005588#rhombomere-8-floor-plate
+   :name: rhombomere 8 floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005588
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere8RoofPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere8RoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere roof plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005590) ('is_a' and 'relationship')]
+   :description: A rhombomere roof plate that is part of a rhombomere 8. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005590)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005590#rhombomere-8-roof-plate
+   :name: rhombomere 8 roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005590
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomere9
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomere9
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019284)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019284#rhombomere-9
+   :name: rhombomere 9
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019284
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomereFloorPlate
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomereFloorPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005500)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005500#rhombomere-floor-plate
+   :name: rhombomere floor plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005500
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rhombomereRoofPlate
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombomereRoofPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005502)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005502#rhombomere-roof-plate
+   :name: rhombomere roof plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005502
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightHemisphereOfCerebellum
 ---------------------------
 
