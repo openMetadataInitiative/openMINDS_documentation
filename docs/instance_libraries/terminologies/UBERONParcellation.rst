@@ -203,6 +203,91 @@ CA4FieldOfHippocampus
 
 ------------
 
+P1AreaOfPalliumMyxiniformes
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P1AreaOfPalliumMyxiniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014751) ('is_a' and 'relationship')]
+   :description: Most superficial of the areas of the pallium in the enlarged evaginated telencephalon of hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014751)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014751#p1-area-of-pallium-myxiniformes
+   :name: P1 area of pallium (Myxiniformes)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014751
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+P2AreaOfPalliumMyxiniformes
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P2AreaOfPalliumMyxiniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014752) ('is_a' and 'relationship')]
+   :description: Area directly deep to the P1 area of pallium in hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014752)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014752#p2-area-of-pallium-myxiniformes
+   :name: P2 area of pallium (Myxiniformes)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014752
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+P3AreaOfPalliumMyxiniformes
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P3AreaOfPalliumMyxiniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014753) ('is_a' and 'relationship')]
+   :description: Area directly deep to the P2 area of pallium in hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014753)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014753#p3-area-of-pallium-myxiniformes
+   :name: P3 area of pallium (Myxiniformes)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014753
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+P4AreaOfPalliumMyxiniformes
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P4AreaOfPalliumMyxiniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014754) ('is_a' and 'relationship')]
+   :description: Area directly deep to the P3 area of pallium in hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014754)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014754#p4-area-of-pallium-myxiniformes
+   :name: P4 area of pallium (Myxiniformes)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014754
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+P5AreaOfPalliumMyxiniformes
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P5AreaOfPalliumMyxiniformes
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014755) ('is_a' and 'relationship')]
+   :description: Most deep of the areas of the pallium in the enlarged evaginated telencephalon of hagfishes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014755)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014755#p5-area-of-pallium-myxiniformes
+   :name: P5 area of pallium (Myxiniformes)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014755
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 abducensNucleus
 ---------------
 
@@ -398,6 +483,23 @@ aggregateRegionalPartOfBrain
 
 ------------
 
+agranularInsularCortex
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/agranularInsularCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the insular cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034893) ('is_a' and 'relationship')]
+   :description: Agranular region of the insular cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034893)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034893#agranular-insular-cortex
+   :name: agranular insular cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034893
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 alarCentralLobule
 -----------------
 
@@ -423,8 +525,8 @@ allocortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Allocortex' is a regional part of brain. It is part of the cerebral cortex.
-   :description: One of two types of cerebral cortex defined on the basis of cytoarchitecture and fetal development. The other is neocortex. Allocortex does not pass through a prenatal phase of six-layered structure and has three or four layers in the mature brain ( Schiebler-1999 ). Allocortex has three subtypes: paleocortex, archicortex and periallocortex. This definition differs from that in some older sources, which excluded the olfactory bulb and the accessory olfactory bulb ( Carpenter-1983 ).
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014734) ('is_a' and 'relationship')]
+   :description: One of two types of cerebral cortex defined on the basis of cytoarchitecture and fetal development. The other is neocortex. Allocortex does not pass through a prenatal phase of six-layered structure and has three or four layers in the mature brain ( Schiebler-1999 ). Allocortex has three subtypes: paleocortex, archicortex and periallocortex. This definition differs from that in some older sources, which excluded the olfactory bulb and the accessory olfactory bulb ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014734)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100473
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014734#allocortex
    :name: allocortex
@@ -483,6 +585,22 @@ amygdala
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001876#amygdala-1
    :name: amygdala
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001876
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+amygdalopiriformTransitionArea
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalopiriformTransitionArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034989) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034989#amygdalopiriform-transition-area
+   :name: amygdalopiriform transition area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034989
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -600,8 +718,7 @@ anteriorAmygdaloidArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior amygdaloid area' is a cerebral hemisphere gray matter. It is part of the corticomedial nuclear complex.
-   :description:
+   :definition: Is a cerebral hemisphere gray matter. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002890) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100670
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002890#anterior-amygdaloid-area-1
    :name: anterior amygdaloid area
@@ -651,8 +768,8 @@ anteriorCingulateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
-   :description: The frontal part of the cingulate cortex that resembles a collar form around the corpus callosum. It includes both the ventral and dorsal areas of the cingulate cortex. http://en.wikipedia.org/wiki/File:Gray727.svg
+   :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009835) ('is_a' and 'relationship')]
+   :description: The frontal part of the cingulate cortex that resembles a collar form around the corpus callosum. It includes both the ventral and dorsal areas of the cingulate cortex. Wikipedia:File:Gray727.svg. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009835)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100689
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009835#anterior-cingulate-cortex
    :name: anterior cingulate cortex
@@ -1104,6 +1221,23 @@ anteriorThalamicRadiation
 
 ------------
 
+anteriorTransverseTemporalArea41
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalArea41
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]
+   :description: A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It occupies the anterior transverse temporal gyrus (H) in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the parainsular area 52 (H) and laterally by the posterior transverse temporal area 42 (H) (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006095#anterior-transverse-termporal-area-41
+   :name: anterior transverse temporal area 41
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006095
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 anteriorTransverseTemporalGyrus
 -------------------------------
 
@@ -1158,6 +1292,22 @@ anterodorsalNucleusOfThalamus
 
 ------------
 
+anterolateralVisualArea
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterolateralVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035894) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035894#anterolateral-visual-area
+   :name: anterolateral visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035894
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 anteromedialNucleusOfThalamus
 -----------------------------
 
@@ -1171,6 +1321,22 @@ anteromedialNucleusOfThalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002681#anteromedial-nucleus
    :name: anteromedial nucleus of thalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002681
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteromedialVisualArea
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035893) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035893#anteromedial-visual-area
+   :name: anteromedial visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035893
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1242,6 +1408,22 @@ arachnoidBarrierLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000437#arachnoid-barrier-layer
    :name: arachnoid barrier layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000437
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+archicortex
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/archicortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an allocortex. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961) ('is_a' and 'relationship')]
+   :description: A portion of the cerebral cortex that, with the paleocortex, develops in association with the olfactory system, and which is phylogenetically older than the neocortex and lacks its layered structure. The embryonic archicortex corresponds to the cortex of the dentate gyrus and hippocampus in mature mammals. Being part of the limbic system, it has functions related to emotions and formation of memory. Signals being sent from the limbic lobe to the hippocampal formations can go via the archicortex as an intermediate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961)]
+   :name: archicortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002961
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1326,8 +1508,8 @@ areaPostrema
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Area postrema' is a sensory circumventricular organ. It is part of the medulla oblongata and fourth ventricle.
-   :description: A small, rounded eminence on each side of the fourth ventricle, which receives nerve fibers from the solitary nucleus , spinal cord, and adjacent areas of the medulla. The area postrema lies outside the blood-brain barrier and its functions include acting as an emetic chemoreceptor.
+   :definition: Is a sensory circumventricular organ. Is part of the medulla oblongata and the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002162) ('is_a' and 'relationship')]
+   :description: A small, rounded eminence on each side of the fourth ventricle, which receives nerve fibers from the solitary nucleus , spinal cord, and adjacent areas of the medulla. The area postrema lies outside the blood-brain barrier and its functions include acting as an emetic chemoreceptor. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002162)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100888
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002162#area-postrema-1
    :name: area postrema
@@ -1391,6 +1573,23 @@ arthropodOpticLobe
 
 ------------
 
+associationCortex
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/associationCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a functional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]
+   :description: Region of the cerebral cortex that integrates diverse sensory or motor information for purposeful action. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035015#association-cortex
+   :name: association cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035015
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 auditoryCortex
 --------------
 
@@ -1398,8 +1597,8 @@ auditoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The auditory cortex consists of neocortical areas that are functionally activated predominantly to sound, with the shortest latency.
-   :description: The auditory cortex is the part of the temporal lobe that processes auditory information in humans and other vertebrates. It is a part of the auditory system, performing basic and higher functions in hearing, such as possible relations to language switching.It is located bilaterally, roughly at the upper sides of the temporal lobes – in humans on the superior temporal plane, within the lateral fissure and comprising parts of Heschl's gyrus and the superior temporal gyrus, including planum polare and planum temporale (roughly Brodmann areas 41, 42, and partially 22). Unilateral destruction, in a region of the auditory pathway above the cochlear nucleus, results in slight hearing loss, whereas bilateral destruction results in cortical deafness.
+   :definition: Is a regional part of brain. Is part of the cerebral cortex and the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001393) ('is_a' and 'relationship')]
+   :description: The part of the brain that is the ultimate target of afferent auditory information. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001393)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100996
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex
    :name: auditory cortex
@@ -1451,8 +1650,8 @@ barrelCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Barrel cortex' is a functional part of brain. It is part of the primary somatosensory cortex.
-   :description: The term primary somatosensory area, barrel field refers to one of 6 subdivisions of the primary somesthetic area of the cerebral cortex in the mouse (Dong-2004) and the rat (Swanson-2004). It is defined as dark-staining regions in Nissl and other types of stains of layer four of the somatosensory cortex of rodents where somatosensory inputs from the contralateral side of the body come in from the thalamus, in particular input from the whiskers. Each barrel ranges in size from 100-400 um in diameter. (modified from BrainInfo and Wikipedia)
+   :definition: Is a functional part of brain. Is part of the primary somatosensory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010415) ('is_a' and 'relationship')]
+   :description: One of the discrete functional units of the somatosensory cortex that processes tactile information derived from the vibrissae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010415)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101097
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010415#barrel-cortex
    :name: barrel cortex
@@ -2089,8 +2288,8 @@ caudalAnteriorCingulateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Caudal anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
-   :description: Component of the cingulate cortex.  The rostral boundary was the first appearance of the genu of the corpus callosum whereas the caudal boundary was established as the first appearance of the mammillary bodies. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was the corpus callosum (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028715) ('is_a' and 'relationship')]
+   :description: Component of the cingulate cortex. The rostral boundary was the first appearance of the genu of the corpus callosum whereas the caudal boundary was established as the first appearance of the mammillary bodies. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was the corpus callosum (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028715)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101709
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028715#caudal-anterior-cingulate-cortex-1
    :name: caudal anterior cingulate cortex
@@ -2637,8 +2836,8 @@ cerebellarCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cerebellar cortex' is a gray matter of hindbrain. It is part of the cerebellum.
-   :description: The superficial gray matter of the cerebellum. It consists of three main layers, the molecular layer, the Purkinje cell layer and the granule cell layer, and the white matter laminae lying deep to the granule cell layer.
+   :definition: Is a gray matter of hindbrain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002129) ('is_a' and 'relationship')]
+   :description: The superficial gray matter of the cerebellum. It consists of three main layers, the molecular layer, the Purkinje cell layer and the granule cell layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002129)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101946
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002129#cerebellar-cortex-1
    :name: cerebellar cortex
@@ -3400,8 +3599,8 @@ cerebralCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cerebral cortex' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the pallium and cerebral hemisphere gray matter.
-   :description: The thin layer of gray matter on the surface of the cerebral hemisphere that develops from the telencephalon.  It consists of the neocortex (6 layered cortex or isocortex), the hippocampal formation and the olfactory cortex.The '''cerebral cortex''' is a sheet of neural tissue that is outermost to the cerebrum of the mammalian brain. It plays a key role in memory, attention, perceptual awareness, thought, language, and consciousness. It is constituted of up to six horizontal layers, each of which has a different composition in terms of neurons and connectivity.One of the 10 basic divisions of the cerebrospinal axi. The cerebral cortex is the dorsal topographic division of the endbrain (Kuhlenbeck, 1927), with a basically radial, laminated architecture. The cerebral cortex was described and illustrated for macrodissected adult humans by Vesalius (1543), and the term itself was introduced for macrodissected adult humans by Bauhin (1605).
+   :definition: Is a central nervous system cell part cluster and central nervous system gray matter layer. Is part of the pallium and the cerebral hemisphere gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000956) ('is_a' and 'relationship')]
+   :description: The thin layer of gray matter on the surface of the cerebral hemisphere that develops from the telencephalon. It consists of the neocortex (6 layered cortex or isocortex), the hippocampal formation and the olfactory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000956)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101978
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000956#cerebral-cortex-1
    :name: cerebral cortex
@@ -3424,6 +3623,39 @@ cerebralCortexMarginalLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014935#cerebral-cortex-marginal-layer
    :name: cerebral cortex marginal layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014935
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cerebralCortexNeuropil
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexNeuropil
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neuropil. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693) ('is_a' and 'relationship')]
+   :description: A neuropil that is part of a cerebral cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013693#cerebral-cortex-neuropil
+   :name: cerebral cortex neuropil
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013693
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cerebralCortexSubventricularZone
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexSubventricularZone
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014940)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014940#cerebral-cortex-subventricular-zone
+   :name: cerebral cortex subventricular zone
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014940
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3508,8 +3740,8 @@ cerebralSubcortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cerebral subcortex' is part of the brain.
-   :description: The layer located below the cerebral cortex that includes the forebrain, midbrain and hindbrain.
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000454)]
+   :description: The layer located below the cerebral cortex that includes the forebrain, midbrain and hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000454)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729745
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000454#cerebral-subcortex
    :name: cerebral subcortex
@@ -3754,12 +3986,28 @@ cingulateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cingulate cortex' is a regional part of brain. It is part of the limbic cortex.
-   :description: The cingulate cortex is a part of the brain situated in the medial aspect of the cortex. It is extended from the corpus callosum below to the cingulate sulcus above, at least anteriorly. [WP,unvetted].
+   :definition: Is a regional part of brain. Is part of the limbic cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003027) ('is_a' and 'relationship')]
+   :description: The cingulate cortex is a part of the brain situated in the medial aspect of the cortex. It is extended from the corpus callosum below to the cingulate sulcus above, at least anteriorly. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003027)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102179
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003027#cingulate-cortex-1
    :name: cingulate cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003027
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cingulateCortexCingulum
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortexCingulum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cingulum of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022428) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022428#cingulate-cortex-cingulum
+   :name: cingulate cortex cingulum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022428
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3861,8 +4109,7 @@ claustralAmygdaloidArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Claustral amygdaloid area' is a cerebral hemisphere gray matter. It is part of the amygdala and basal nuclear complex.
-   :description:
+   :definition: Is a cerebral hemisphere gray matter. Is part of the amygdala and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002729) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102229
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002729#claustral-amygdaloid-area-1
    :name: claustral amygdaloid area
@@ -4188,6 +4435,23 @@ corpusStriatum
 
 ------------
 
+cortexOfCerebralLobe
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cortexOfCerebralLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral hemisphere gray matter. Is part of the neocortex and the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016529) ('is_a' and 'relationship')]
+   :description: Grey matter neocortex region of a lobe of the cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016529)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016529#cortex-of-cerebral-lobe
+   :name: cortex of cerebral lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016529
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 corticalAmygdaloidNucleus
 -------------------------
 
@@ -4201,6 +4465,23 @@ corticalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002891#cortical-amygdaloid-nucleus-1
    :name: cortical amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002891
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticalIntermediateZone
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalIntermediateZone
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004040)]
+   :description: The region of the developing mammalian cortex that extends between the ventricular zone and the cortical plate (CP); normally, the IZ is a region of tangential migration of cells, and at midgestation, the lower part of the IZ develops into the subventricular zone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004040)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004040#cortical-intermediate-zone
+   :name: cortical intermediate zone
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004040
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4308,6 +4589,91 @@ corticalLayerVI
 
 ------------
 
+corticalPlate
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalPlate
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005343)]
+   :description: The outer neural tube region in which post-mitotic neuroblasts migrate along radial glia to form the adult cortical layers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005343)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005343#cortical-plate
+   :name: cortical plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005343
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticalPreplate
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalPreplate
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034711)]
+   :description: The layer of the developing cerebral cortex that is formed from the first cohort of neurons to migrate out of the cortical ventricular zone; split by the second wave into marginal zone and subplate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034711)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034711#cortical-preplate
+   :name: cortical preplate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034711
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticalSubplate
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalSubplate
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004035)]
+   :description: The transient outer neural tube region that contains the first generated post-mitotic neurons that receive synaptic input from thalamic axons and in turn project axons to the developing cortical plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004035)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004035#cortical-subplate
+   :name: cortical subplate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004035
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticobulbarAndCorticospinalTracts
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticobulbarAndCorticospinalTracts
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224) ('is_a' and 'relationship')]
+   :description: The corticobulbar and corticospinal tracts combined. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036224#corticobulbar-and-corticospinal-tracts
+   :name: corticobulbar and corticospinal tracts
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036224
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticobulbarTract
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticobulbarTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the white matter of telencephalon and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272) ('is_a' and 'relationship')]
+   :description: The corticobulbar (or corticonuclear) tract is a white matter pathway connecting the cerebral cortex to the brainstem. The term \ [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022272#corticobulbar-tract
+   :name: corticobulbar tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022272
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 corticomedialNuclearComplex
 ---------------------------
 
@@ -4315,12 +4681,29 @@ corticomedialNuclearComplex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Corticomedial nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
-   :description: These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract.
+   :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006108) ('is_a' and 'relationship')]
+   :description: These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006108)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102590
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006108#corticomedial-nuclear-complex-1
    :name: corticomedial nuclear complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006108
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+corticopontineFibers
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticopontineFibers
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022271) ('is_a' and 'relationship')]
+   :description: Corticopontine fibers, commonly referred to as corticobulbar fibers, are projections from the cerebral cortex to the pontine nuclei. Depending upon the lobe of origin, they can be classified as frontopontine fibers, parietopontine fibers, temporopontine fibers and occipitopontine fibers. They are motor fibers that stretch from the precentral gyrus (motor strip) to the nuclei of cranial nerves V (trigenimal), VII (facial) and XII (hypoglossal). These fibers run alongside the corticospinal fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022271)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022271#corticopontine-fibers
+   :name: corticopontine fibers
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022271
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4333,9 +4716,10 @@ corticospinalTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition:
-   :description: The 'corticospinal tract' is a white matter fibre bundle that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract.
+   :definition: Is an axon tract. Is part of the motor system and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002707) ('is_a' and 'relationship')]
+   :description: The corticospinal fibers that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002707)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109556
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002707#pyramidal-tract
    :name: corticospinal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002707
 
@@ -4350,8 +4734,7 @@ corticotectalTract
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Corticotectal tract' is a tract of brain. It is part of the midbrain tectum.
-   :description:
+   :definition: Is a tract of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002556) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102591
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002556#corticotectal-tract-1
    :name: corticotectal tract
@@ -4455,8 +4838,8 @@ cuneusCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cuneus cortex' is an occipital gyrus.
-   :description: Component of the occipital lobe.  The rostral boundary was the first coronal slice above the calcarine sulcus where the cuneus cortex becomes visible whereas the caudal boundary was the last slice where the calcarine sulcus was visualized. The medial boundary was the most medial portion of the occipital and parietal cortices. The superio-lateral boundary was the parieto-occipital fissure whereas the inferolateral boundary was the pericalcarine cortex (Christine Fennema-Notestine).
+   :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006092)]
+   :description: Component of the occipital lobe. The rostral boundary was the first coronal slice above the calcarine sulcus where the cuneus cortex becomes visible whereas the caudal boundary was the last slice where the calcarine sulcus was visualized. The medial boundary was the most medial portion of the occipital and parietal cortices. The superio-lateral boundary was the parieto-occipital fissure whereas the inferolateral boundary was the pericalcarine cortex (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006092)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102674
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006092#cuneus-cortex-1
    :name: cuneus cortex
@@ -4479,6 +4862,22 @@ cytoarchitecturalPartOfDentateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023564#cytoarchitectural-part-of-dentate-gyrus-1
    :name: cytoarchitectural part of dentate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023564
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cytoarchitectureOfEntorhinalCortex
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitectureOfEntorhinalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0030649) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0030649#cytoarchitecture-of-entorhinal-cortex-1
+   :name: cytoarchitecture of entorhinal cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0030649
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4786,6 +5185,22 @@ dorsalAcousticStria
 
 ------------
 
+dorsalAuditoryArea
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAuditoryArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035885) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035885#dorsal-auditory-area
+   :name: dorsal auditory area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035885
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsalCapOfKooy
 ---------------
 
@@ -4881,8 +5296,8 @@ dorsalHypothalamicArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Dorsal hypothalamic area' is a regional part of brain. It is part of the hypothalamus.
-   :description: A relatively small region of the hypothalamus located inferior to the hypothalamic sulcus.
+   :definition: Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002954) ('is_a' and 'relationship')]
+   :description: A relatively small region of the hypothalamus located inferior to the hypothalamic sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002954)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103438
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002954#dorsal-hypothalamic-area-1
    :name: dorsal hypothalamic area
@@ -5303,6 +5718,22 @@ dorsalTrigeminalTract
 
 ------------
 
+dorsalZoneOfMedialEntorhinalCortex
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalZoneOfMedialEntorhinalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the medial entorhinal cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018262)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018262#dorsal-zone-of-medial-entorhinal-cortex
+   :name: dorsal zone of medial entorhinal cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018262
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsolateralFasciculusOfMedulla
 -------------------------------
 
@@ -5328,8 +5759,8 @@ dorsolateralPrefrontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Dorsolateral prefrontal cortex' is a regional part of brain. It is part of the cerebral cortex.
-   :description: Part of prefrontal cortex.  The dorsolateral prefrontal cortex (DL-PFC or DLPFC), according to a more restricted definition, is roughly equivalent to Brodmann areas 9 and 46. According to a broader definition DL-PFC consists of the lateral portions of Brodmann areas 9 - 12, of areas 45, 46, and the superior part of area 47. These regions mainly receive their blood supply from the middle cerebral artery. With respect to neurotransmitter systems, there is evidence that dopamine plays a particularly important role in DL-PFC.DL-PFC is connected to the orbitofrontal cortex, and to a variety of brain areas, which include the thalamus, parts of the basal ganglia (the dorsal caudate nucleus), the hippocampus, and primary and secondary association areas of neocortex, including posterior temporal, parietal, and occipital areas check dorsolateral prefrontal neocortex (http://purl.obolibrary.org/obo/UBERON_0009834).
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009834) ('is_a' and 'relationship')]
+   :description: The dorsolateral prefrontal cortex (DL-PFC or DLPFC), according to a more restricted definition, is roughly equivalent to Brodmann areas 9 and 46. According to a broader definition DL-PFC consists of the lateral portions of Brodmann areas 9 - 12, of areas 45, 46, and the superior part of area 47. These regions mainly receive their blood supply from the middle cerebral artery. With respect to neurotransmitter systems, there is evidence that dopamine plays a particularly important role in DL-PFC. DL-PFC is connected to the orbitofrontal cortex, and to a variety of brain areas, which include the thalamus, parts of the basal ganglia (the dorsal caudate nucleus), the hippocampus, and primary and secondary association areas of neocortex, including posterior temporal, parietal, and occipital areas. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009834)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103503
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009834#dorsolateral-prefrontal-cortex
    :name: dorsolateral prefrontal cortex
@@ -5451,8 +5882,8 @@ entorhinalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Entorhinal cortex' is part of the parahippocampal gyrus and piriform cortex.
-   :description: Component of the temporal lobe on the mesial surface.  The rostral and caudal boundaries of the entorhinal cortex are the rostral end of the collateral sulcus and the caudal end of the amygdala respectively.  The medial boundary is the medial aspect of the temporal lobe and the lateral boundary is the collateral sulcus. (DK)
+   :definition: Is part of the parahippocampal gyrus and the piriform cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002728)]
+   :description: Component of the temporal lobe on the mesial surface. The rostral and caudal boundaries of the entorhinal cortex are the rostral end of the collateral sulcus and the caudal end of the amygdala respectively. The medial boundary is the medial aspect of the temporal lobe and the lateral boundary is the collateral sulcus. (DK). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002728)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103859
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002728#entorhinal-cortex-1
    :name: entorhinal cortex
@@ -5612,8 +6043,8 @@ extrastriateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Extrastriate cortex' is an aggregate regional part of brain. It is part of the visual cortex.
-   :description: A group of cortical areas related by direct or indirect connectivity to the striate area 17 and functionally involved primarily in vision. They include the parastriate area 18, the peristriate area 19 and adjacent areas in the parietal lobe and temporal lobe (Adapted from BrainInfo and Zilles-1990).
+   :definition: Is an aggregate regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014370) ('is_a' and 'relationship')]
+   :description: A group of cortical areas related by direct or indirect connectivity to the striate area 17 and functionally involved primarily in vision. They include the parastriate area 18, the peristriate area 19 and adjacent areas in the parietal lobe and temporal lobe (Adapted from BrainInfo and Zilles-1990). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014370)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104057
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014370#extrastriate-cortex
    :name: extrastriate cortex
@@ -6035,8 +6466,8 @@ frontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Frontal cortex' is a cortex of cerebral lobe. It is part of the frontal lobe.
-   :description: Anterior portion of the frontal cortex, lying anterior to the central sulcus in humans.  It is bounded by the parietal cortex posteriorly and the temporal cortex laterally.
+   :definition: Is a cortex of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001870) ('is_a' and 'relationship')]
+   :description: Anterior portion of the neocortex, lying anterior to the central sulcus in humans. It is bounded by the parietal cortex posteriorly and the temporal cortex laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001870)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104449
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001870#frontal-cortex-1
    :name: frontal cortex
@@ -6345,6 +6776,23 @@ gracileFasciculusOfMedulla
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002653#gracile-fasciculus-of-medulla-1
    :name: gracile fasciculus of medulla
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002653
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+granularInsularCortex
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/granularInsularCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the insular cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034892) ('is_a' and 'relationship')]
+   :description: Granular region of the insular cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034892)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034892#granular-insular-cortex
+   :name: granular insular cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034892
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6704,7 +7152,7 @@ hindbrainCorticalIntermediateZone
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Hindbrain cortical intermediate zone' is a cortical intermediate zone. It is part of the hindbrain.
+   :definition: Is a cortical intermediate zone. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034994) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733012
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034994#hindbrain-cortical-intermediate-zone
    :name: hindbrain cortical intermediate zone
@@ -7051,6 +7499,22 @@ inferiorHornOfTheLateralVentricle
 
 ------------
 
+inferiorLateralOccipitalCortex
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLateralOccipitalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022367) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022367#inferior-lateral-occipital-cortex
+   :name: inferior lateral occipital cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022367
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 inferiorLongitudinalFasciculus
 ------------------------------
 
@@ -7146,8 +7610,8 @@ inferiorParietalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Inferior parietal cortex' is part of the parietal lobe.
-   :description: Component of the parietal lobe.  The inferior parietal cortex label includes the inferior parietal gyrus and the angular gyrus and lies inferior to the superior parietal gyrus. The rostral and caudal boundaries were the supramarginal gyrus and the parieto-occipital incisure respectively. The medial and lateral boundaries were the superior parietal gyrus and the middle temporal gyrus respectively (Christine Fennema-Notestine).
+   :definition: Is part of the parietal lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006088)]
+   :description: Component of the parietal lobe. The inferior parietal cortex label includes the inferior parietal gyrus and the angular gyrus and lies inferior to the superior parietal gyrus. The rostral and caudal boundaries were the supramarginal gyrus and the parieto-occipital incisure respectively. The medial and lateral boundaries were the superior parietal gyrus and the middle temporal gyrus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006088)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105452
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006088#inferior-parietal-cortex-1
    :name: inferior parietal cortex
@@ -7309,6 +7773,22 @@ insula
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002022#insula-1
    :name: insula
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002022
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insularCortex
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insularCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cortex of cerebral lobe. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034891) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034891#insular-cortex
+   :name: insular cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034891
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7725,6 +8205,22 @@ islandsOfCallejaOfOlfactoryTubercle
 
 ------------
 
+isthmusOfCingulateCortex
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027061) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027061#isthmus-of-cingulate-cortex-1
+   :name: isthmus of cingulate cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027061
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 isthmusOfCingulateGyrus
 -----------------------
 
@@ -7756,6 +8252,23 @@ juxtarestiformBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002592#juxtarestiform-body-1
    :name: juxtarestiform body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002592
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+koniocortex
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/koniocortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013589) ('is_a' and 'relationship')]
+   :description: Regions of the cerebal cortex characterized by a particularly well-developed inner granular layer (layer 4); this type of cerebral cortex is represented by the primary sensory Brodmann area 17 of the visual cortex, Brodmann areas 1-3 of the somatic sensory cortex, and Brodmann area 41 of the auditory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013589)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013589#koniocortex
+   :name: koniocortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013589
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7869,6 +8382,23 @@ lateralCervicalNucleus
 
 ------------
 
+lateralCorticospinalTract
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCorticospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the medulla oblongata and the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002589) ('is_a' and 'relationship')]
+   :description: Part of the corticospinal tract located in the spinal cord, formed as 75 to 90% of the corticospinal fibers cross to the opposite side of the brainstem in the pyramidal decussation. This tract descends the length of the spinal cord in the lateral white column (Adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002589)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002589#lateral-corticospinal-tract-1
+   :name: lateral corticospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002589
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralEminenceOfFourthVentricle
 --------------------------------
 
@@ -7898,6 +8428,23 @@ lateralEminenceOfHypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027109#lateral-eminence-of-hypophysis-1
    :name: lateral eminence of hypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027109
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralEntorhinalCortex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEntorhinalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the insula, the entorhinal cortex and the secondary olfactory cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007225)]
+   :description: One of two subdivisions of the entorhinal cortex, located laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007225)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007225#lateral-entorhinal-cortex
+   :name: lateral entorhinal cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007225
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7980,8 +8527,8 @@ lateralHypothalamicArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral hypothalamic area' is a regional part of brain. It is part of the lateral zone of hypothalamus.
-   :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [WP,unvetted].
+   :definition: Is a regional part of brain. Is part of the lateral zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002430) ('is_a' and 'relationship')]
+   :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002430)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106069
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002430#lateral-hypothalamic-area
    :name: lateral hypothalamic area
@@ -8106,8 +8653,8 @@ lateralOccipitalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral occipital cortex' is an occipital gyrus. It is part of the neocortex.
-   :description: Component of the occipital lobe.  The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri respectively (Christine Fennema-Notestine).
+   :definition: Is an occipital gyrus. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006114) ('is_a' and 'relationship')]
+   :description: Component of the occipital lobe. The rostral and caudal boundaries of the lateral occipital cortex were the superior parietal gyrus and as the last visible portion of occipital cortex respectively. The medial and lateral boundaries were the cuneus/pericalcarine cortex and the inferior temporal/inferior parietal gyri respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006114)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106080
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006114#lateral-occipital-cortex-1
    :name: lateral occipital cortex
@@ -8142,8 +8689,8 @@ lateralOrbitalFrontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
-   :description: Component of the orbtial frontal cortex The rostral boundary is the first slice where the lateral orbital gyrus is apparent with the frontomarginal sulcus whereas the caudal boundary is the disappearance of the lateral orbital gyrus. The medial and lateral boundaries are the midpoint of the olfactory sulcus and the lateral bank of the lateral orbital sulcus and/or the circular insular sulcus respectively (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022716) ('is_a' and 'relationship')]
+   :description: Component of the orbtial frontal cortex The rostral boundary is the first slice where the lateral orbital gyrus is apparent with the frontomarginal sulcus whereas the caudal boundary is the disappearance of the lateral orbital gyrus. The medial and lateral boundaries are the midpoint of the olfactory sulcus and the lateral bank of the lateral orbital sulcus and/or the circular insular sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022716)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106083
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022716#lateral-orbital-frontal-cortex-1
    :name: lateral orbital frontal cortex
@@ -8528,6 +9075,22 @@ lateralVestibularNucleus
 
 ------------
 
+lateralVisualArea
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035895) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035895#lateral-visual-area
+   :name: lateral visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035895
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 layerOfHippocampus
 ------------------
 
@@ -8541,6 +9104,23 @@ layerOfHippocampus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002305#cytoarchitectural-fields-of-hippocampal-formation
    :name: layer of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002305
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftAuditoryCortex
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftAuditoryCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an auditory cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009898)]
+   :description: An auditory cortex that is in the right side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009898)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009898#left-auditory-cortex
+   :name: left auditory cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009898
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8627,6 +9207,22 @@ limbOfInternalCapsuleOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014525#limb-of-internal-capsule-of-telencephalon
    :name: limb of internal capsule of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014525
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+limbicCortex
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cortex of cerebral lobe. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016542) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016542#limbic-cortex
+   :name: limbic cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016542
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9187,8 +9783,8 @@ medialEntorhinalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial entorhinal cortex' is the medial subdivision of the entorhinal cortex.
-   :description: One of two subdivisions of the entorhinal cortex, located medially.
+   :definition: Is part of the entorhinal cortex and the secondary olfactory cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007224)]
+   :description: One of two subdivisions of the entorhinal cortex, located medially. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007224)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731986
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007224#medial-entorhinal-cortex
    :name: medial entorhinal cortex
@@ -9542,8 +10138,8 @@ medialOrbitalFrontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial orbital frontal cortex' is a regional part of brain. It is part of the orbitofrontal cortex.
-   :description: Component of the orbtial frontal cortex.  The rostral boundary is the first slice where the medial orbital gyrus became visible whereas the caudal boundary is the disappearance of the medial orbital gyrus/gyrus rectus. The medial and lateral boundaries are the cingulate cortex on the u2018inflatedu2019 surface and the medial bank of the superior frontal gyrus (or the cingulate gyrus when visible) respectively (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022352) ('is_a' and 'relationship')]
+   :description: Component of the orbtial frontal cortex. The rostral boundary is the first slice where the medial orbital gyrus became visible whereas the caudal boundary is the disappearance of the medial orbital gyrus/gyrus rectus. The medial and lateral boundaries are the cingulate cortex on the u2018inflatedu2019 surface and the medial bank of the superior frontal gyrus (or the cingulate gyrus when visible) respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022352)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106672
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022352#medial-orbital-frontal-cortex-1
    :name: medial orbital frontal cortex
@@ -9794,8 +10390,7 @@ medialVentralTegmentalArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial ventral tegmental area' is a regional part of brain. It is part of the ventral tegmental area.
-   :description:
+   :definition: Is a regional part of brain. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023865) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106709
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023865#medial-ventral-tegmental-area-1
    :name: medial ventral tegmental area
@@ -10450,8 +11045,8 @@ neocortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Neocortex' is a regional part of brain. It is part of the cerebral cortex.
-   :description: Part of cerebral cortex defined on the basis of cytoarchitecture that has six layers. Starting from the cortical surface the layers are: molecular layer (I), external granular layer (II), external pyramidal layer (III), internal granular layer (IV), internal pyramidal layer (V), and multiform layer (VI). Neocortex is most prominent in the frontal lobe, the parietal lobe, the temporal lobe and the occipital lobe, less so in the cingulate gyrus, the parahippocampal gyrus and the insula. It is composed of two subdivisions: true isocortex and proisocortex (Carpenter-83) (NN) * The largest portion of the CEREBRAL CORTEX. It is composed of NEURONS arranged in six layers. (MSH) * the newer, 6 layered portion of the cerebral cortex showing stratification and organization characteristic of the most highly evolved type of cerebral tissue. (CSP)
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001950) ('is_a' and 'relationship')]
+   :description: An area of cerebral cortex defined on the basis of cytoarchitecture that have six layers. Starting from the cortical surface the layers are: molecular layer (I), external granular layer (II), external pyramidal layer (III), internal granular layer (IV), internal pyramidal layer (V), and multiform layer (VI). Neocortex is most prominent in the frontal lobe, the parietal lobe, the temporal lobe and the occipital lobe, less so in the cingulate gyrus, the parahippocampal gyrus and the insula. It is composed of two subdivisions: true isocortex and proisocortex (Carpenter-83)(NN) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001950)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107350
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001950#neocortex-1
    :name: neocortex
@@ -10878,8 +11473,7 @@ occipitalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Occipital cortex' is a cortex of cerebral lobe. It is part of the occipital lobe.
-   :description: Gray matter of neocortex located in the occipital lobe in organisms that have distinct lobes, located in the occipital pole and continuous with the gray matter of the parietal cortex and temporal cortex
+   :definition: Is a cortex of cerebral lobe. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016540) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107880
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016540#occipital-cortex
    :name: occipital cortex
@@ -11092,8 +11686,8 @@ olfactoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Olfactory cortex' is a regional part of brain. It is part of the cerebral cortex and olfactory lobe.
-   :description: Aggregate brain region defined as those areas of cerebral cortex receiving direct synaptic input from the olfactory bulb (Price, 1973).  The most recognized structure is the piriform cortex (prepyriform area), but other areas are often included, e.g., the olfactory tubercle.
+   :definition: Is a regional part of brain. Is part of the cerebral cortex and the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002894) ('is_a' and 'relationship')]
+   :description: Aggregate brain region defined as those areas of cerebral cortex receiving direct synaptic input from the olfactory bulb (Price, 1973). It usually includes the piriform cortex and sometimes other areas. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002894)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107946
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002894#olfactory-cortex-1
    :name: olfactory cortex
@@ -11110,8 +11704,8 @@ olfactoryEntorhinalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Olfactory entorhinal cortex' is a regional part of brain. It is part of the entorhinal cortex.
-   :description: A part of the entorhinal area defined on the basis of connectivity. It is the rostral portion, which receives a projection from the olfactory bulb (Price-90)-Adapted from Brain Info
+   :definition: Is a regional part of brain. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022453) ('is_a' and 'relationship')]
+   :description: A part of the entorhinal area defined on the basis of connectivity. It is the rostral portion, which receives a projection from the olfactory bulb (Price-90)-Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022453)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107958
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022453#olfactory-entorhinal-cortex-1
    :name: olfactory entorhinal cortex
@@ -11515,8 +12109,8 @@ orbitofrontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Orbitofrontal cortex' is a frontal gyrus. It is part of the limbic system.
-   :description: Component of the prefontal cortex, frontal lobe, inferior region (Christine Fennema-Notestine).
+   :definition: Is a frontal gyrus. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167) ('is_a' and 'relationship')]
+   :description: The region of the cerebral cortex covering the basal surface of the frontal lobes; this region normally controls emotion and decision making. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108110
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004167#orbital-frontal-cortex
    :name: orbitofrontal cortex
@@ -11584,8 +12178,8 @@ paleocortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Paleocortex' is an allocortex.
-   :description: Part of the allocortex defined on the basis of cytoarchitecture. The other two are archicortex and periallocortex. It consists of very thin, primitive cortex with few clearly defined layers. It is distinguished ontogenetically by the fact that it does not develop through a cortical plate. It includes the olfactory bulb, accessory olfactory bulb, olfactory tubercle, septum, prepyriform area and periamygdalar area ( Stephan-1975 ). (adapted from Brain Info)
+   :definition: Is an allocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014735)]
+   :description: Part of the allocortex defined on the basis of cytoarchitecture. The other two are archicortex and periallocortex. It consists of very thin, primitive cortex with few clearly defined layers. It is distinguished ontogenetically by the fact that it does not develop through a cortical plate. It includes the olfactory bulb, accessory olfactory bulb, olfactory tubercle, septum, prepyriform area and periamygdalar area ( Stephan-1975 ). (adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014735)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108371
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014735#paleocortex
    :name: paleocortex
@@ -12317,7 +12911,7 @@ paravermisLobuleArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Paravermis lobule area' is a cerebellum hemisphere lobule. It is part of the paravermis parts of the cerebellar cortex.
+   :definition: Is a cerebellum hemisphere lobule. Is part of the paravermis parts of the cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027285) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109876
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027285#paravermis-lobule-area
    :name: paravermis lobule area
@@ -12366,7 +12960,7 @@ paravermisPartsOfTheCerebellarCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Paravermis parts of the cerebellar cortex' is a regional part of cerebellar cortex. It is part of the cerebellum intermediate zone.
+   :definition: Is a regional part of cerebellar cortex. Is part of the cerebellum intermediate zone. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025677) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108525
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025677#paravermis-parts-of-the-cerebellar-cortex
    :name: paravermis parts of the cerebellar cortex
@@ -12383,8 +12977,8 @@ parietalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Parietal cortex' is a cortex of cerebral lobe. It is part of the parietal lobe.
-   :description: Gray matter of the parietal region of the neocortex, located in the parietal lobe of gyrencephalic animals.  It is continuous anteriorly with the frontal cortex, posteriorly with the occipital cortex and medially with the insular cortex and with the temporal cortex on the posterior/inferior border.
+   :definition: Is a cortex of cerebral lobe. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016530) ('is_a' and 'relationship')]
+   :description: Gray matter of the parietal region of the neocortex, located in the parietal lobe of gyrencephalic animals. It is continuous anteriorly with the frontal cortex, posteriorly with the occipital cortex and medially with the insular cortex and with the temporal cortex on the posterior/inferior border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016530)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108533
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016530#parietal-cortex
    :name: parietal cortex
@@ -12625,6 +13219,23 @@ pedunculopontineTegmentalNucleus
 
 ------------
 
+periallocortex
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periallocortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014736) ('is_a' and 'relationship')]
+   :description: Agranular cortical structures located next to the allocortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014736)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014736#periallocortex
+   :name: periallocortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014736
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 periamygdaloidArea
 ------------------
 
@@ -12632,8 +13243,7 @@ periamygdaloidArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Periamygdaloid area' is a cerebral hemisphere gray matter. It is part of the parahippocampal gyrus.
-   :description:
+   :definition: Is a cerebral hemisphere gray matter. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002656) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108715
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002656#periamygdaloid-area-1
    :name: periamygdaloid area
@@ -12650,8 +13260,8 @@ periamygdaloidCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Periamygdaloid cortex' is a regional part of brain. It is part of the cerebral cortex and corticomedial nuclear complex.
-   :description: Is located ventral to the basal nucleus and has three subdivisions: the periamygdaloid cortex, the medial division, and the sulcal division.
+   :definition: Is a regional part of brain. Is part of the cerebral cortex and the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014537) ('is_a' and 'relationship')]
+   :description: Is located ventral to the basal nucleus and has three subdivisions: the periamygdaloid cortex, the medial division, and the sulcal division. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014537)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108716
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014537#periamygdaloid-cortex-1
    :name: periamygdaloid cortex
@@ -12668,8 +13278,8 @@ pericalcarineCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Pericalcarine cortex' is a regional part of brain. It is part of the parietal lobe.
-   :description: Component of the parietal lobe.  The rostral boundary of the pericalcarine cortex was the first appearance of the calcarine sulcus whereas the caudal boundary was the most posterior coronal slice where the calcarine sulcus was visualized. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the inferomedial end of the calcarine sulcus respectively (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022534) ('is_a' and 'relationship')]
+   :description: Component of the parietal lobe. The rostral boundary of the pericalcarine cortex was the first appearance of the calcarine sulcus whereas the caudal boundary was the most posterior coronal slice where the calcarine sulcus was visualized. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the inferomedial end of the calcarine sulcus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022534)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108719
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022534#pericalcarine-cortex-1
    :name: pericalcarine cortex
@@ -12740,8 +13350,8 @@ perirhinalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Perirhinal cortex' is a regional part of brain. It is part of the cerebral cortex.
-   :description: Region of cortex near to the rhinal sulcus.  It is defined differently in different nomenclatures, due in part to the lack of agreement on the definition of the border of this region.  In the rat, the perirhinal cortex occupies only caudal levels of the rhinal sulcus while in the monkey, it occurpies the full rostrocaudal extent of the rhinal sulcus (Burwell et al., Hippocampus, 5:  390-408, 1995).
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006083) ('is_a' and 'relationship')]
+   :description: Region of cortex near to the rhinal sulcus. It is defined differently in different nomenclatures, due in part to the lack of agreement on the definition of the border of this region. In the rat, the perirhinal cortex occupies only caudal levels of the rhinal sulcus while in the monkey, it occurpies the full rostrocaudal extent of the rhinal sulcus (Burwell et al., Hippocampus, 5: 390-408, 1995). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006083)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108747
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006083#perirhinal-cortex
    :name: perirhinal cortex
@@ -12828,8 +13438,8 @@ piriformCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex.
-   :description: 'Piriform cortex' is a regional part of brain. It is part of the olfactory cortex.
+   :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004725) ('is_a' and 'relationship')]
+   :description: The subdivision of the laminated olfactory cortex with only three main layers that receive monosynaptic input from the olfactory bulb via the lateral olfactory tract; it is located bilaterally in the ventrolateral forebrain and is commonly divided into anterior and posterior regions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004725)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109236
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004725#piriform-cortex-1
    :name: piriform cortex
@@ -13131,8 +13741,8 @@ posteriorCingulateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Posterior cingulate cortex' is a regional part of brain. It is part of the cingulate cortex.
-   :description: Component of the cingulate cortex. The rostral and caudal extent were the caudal anterior and the isthmus divisions of the cingulate cortex respectively. The medial and lateral boundaries were the corpus callosum and as the superior frontal gyrus and/or paracentral lobule respectively (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022353) ('is_a' and 'relationship')]
+   :description: Component of the cingulate cortex. The rostral and caudal extent were the caudal anterior and the isthmus divisions of the cingulate cortex respectively. The medial and lateral boundaries were the corpus callosum and as the superior frontal gyrus and/or paracentral lobule respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022353)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109087
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022353#posterior-cingulate-cortex-1
    :name: posterior cingulate cortex
@@ -13393,6 +14003,39 @@ posteriorParahippocampalGyrus
 
 ------------
 
+posteriorParietalAssociationAreas
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParietalAssociationAreas
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035886) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035886#posterior-parietal-association-areas
+   :name: posterior parietal association areas
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035886
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorParietalCortex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParietalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the parietal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034889) ('is_a' and 'relationship')]
+   :description: The posterior parietal cortex is a portion of the parietal lobe which manipulates mental images, and integrates sensory and motor portions of the brain. Some sources say that it consists of Brodmann area 5 and Brodmann area 7. Other sources say it is only area 7. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034889)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034889#posterior-parietal-cortex
+   :name: posterior parietal cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034889
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 posteriorPartOfAnteriorCommissure
 ---------------------------------
 
@@ -13480,6 +14123,23 @@ posteriorThalamicRadiation
 
 ------------
 
+posteriorTransverseTemporalArea42
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalArea42
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]
+   :description: A subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. It is located in the bank of the lateral sulcus on the dorsal surface of the temporal lobe. Cytoarchitecturally it is bounded medially by the anterior transverse temporal area 41(H) and laterally by the superior temporal area 22 (Brodmann-1909). Adapted from Brain Info. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006096#posterior-transverse-termporal-area-42
+   :name: posterior transverse temporal area 42
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006096
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 posteriorTransverseTemporalGyrus
 --------------------------------
 
@@ -13511,6 +14171,38 @@ posterodorsalNucleusOfMedialGeniculateBody
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023094#posterodorsal-nucleus-of-medial-geniculate-body-1
    :name: posterodorsal nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023094
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posterolateralVisualArea
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterolateralVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035897) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035897#posterolateral-visual-area
+   :name: posterolateral visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035897
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteromedialVisualArea
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteromedialVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035900) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035900#posteromedial-visual-area
+   :name: posteromedial visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035900
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13563,6 +14255,22 @@ postopticCommissure
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003936#postoptic-commissure
    :name: postoptic commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003936
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+postrhinalArea
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postrhinalArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035890) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035890#postrhinal-area
+   :name: postrhinal area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035890
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13647,8 +14355,8 @@ precuneusCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Precuneus cortex' is a gyrus. It is part of the parietal lobe.
-   :description: Component of the parietal lobe.  The rostral boundary was the posterior extent of the paracentral lobule whereas the caudal boundary was the lingual gyrus. The medial and lateral boundaries were the parieto-occipital fissure and the superior parietal gyrus respectively (Christine Fennema-Notestine).
+   :definition: Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006093) ('is_a' and 'relationship')]
+   :description: Component of the pareital lobe. The rostral boundary was the posterior extent of the paracentral lobule whereas the caudal boundary was the lingual gyrus. The medial and lateral boundaries were the parieto-occipital fissure and the superior parietal gyrus respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006093)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109199
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006093#precuneus-cortex-1
    :name: precuneus cortex
@@ -13683,8 +14391,8 @@ prefrontalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Prefrontal cortex' is a regional part of brain. It is part of the frontal cortex.
-   :description: The anterior part of the frontal lobes of the brain, lying in front of the motor and premotor areas.This brain region has been implicated in planning complex cognitive behaviors, personality expression, decision making and moderating correct social behavior. The basic activity of this brain region is considered to be orchestration of thoughts and actions in accordance with internal goals.The most typical psychological term for functions carried out by the pre-frontal cortex area is executive function. Executive function relates to abilities to differentiate among conflicting thoughts, determine good and bad, better and best, same and different, future consequences of current activities, working toward a defined goal, prediction of outcomes, expectation based on actions, and social "control" (the ability to suppress urges that, if not suppressed, could lead to socially-unacceptable outcomes).Many authors have indicated an integral link between a person's personality and the functions of the prefrontal cortex. - definition adapted from Wikipedia
+   :definition: Is a regional part of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000451) ('is_a' and 'relationship')]
+   :description: The anterior part of the frontal lobes of the brain, lying in front of the motor and premotor areas. This brain region has been implicated in pl. ing complex cognitive behaviors, personality expression, decision making and moderating correct social behavior. The basic activity of this brain region is considered to be orchestration of thoughts and actions in accordance with internal goals. The most typical psychological term for functions carried out by the pre-frontal cortex area is executive function. Executive function relates to abilities to differentiate among conflicting thoughts, determine good and bad, better and best, same and different, future consequences of current activities, working toward a defined goal, prediction of outcomes, expectation based on actions, and social 'control' (the ability to suppress urges that, if not suppressed, could lead to socially-unacceptable outcomes). Many authors have indicated an integral link between a person's personality and the functions of the prefrontal cortex. - definition adapted from Wikipedia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000451)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109209
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000451#prefrontal-cortex-1
    :name: prefrontal cortex
@@ -13719,8 +14427,8 @@ premotorCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The 'premotor cortex' is a regional part of brain. It is part of the cerebral cortex.
-   :description: The premotor cortex is an area of motor cortex lying within the frontal lobe of the brain. It extends 3 mm anterior to the primary motor cortex, near the Sylvian fissure, before narrowing to approximately 1 mm near the medial longitudinal fissure, which serves as the posterior border for the prefrontal cortex. The premotor cortex is largely equivalent to Brodmann area 6. Activity within this region is critical to the sensory guidance of movement and control of proximal and trunk muscles of the body. [[wikipedia](http://en.wikipedia.org/wiki/Premotor_cortex)]
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016634) ('is_a' and 'relationship')]
+   :description: The premotor cortex is an area of motor cortex lying within the frontal lobe of the brain. It extends 3 mm anterior to the primary motor cortex, near the Sylvian fissure, before narrowing to approximately 1 mm near the medial longitudinal fissure, which serves as the posterior border for the prefrontal cortex. The premotor cortex is largely equivalent to Brodmann area 6. Activity within this region is critical to the sensory guidance of movement and control of proximal and trunk muscles of the body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016634)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109222
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016634#premotor-cortex
    :name: premotor cortex
@@ -13773,8 +14481,8 @@ preopticArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Preoptic area' is a regional part of brain. It is part of the diencephalon.
-   :description: Region of hypothalamus between the anterior commissure and optic chiasm. (MSH) * pertaining to the region in or adjoining the part of the third ventricle immediately anterior to the optic chiasm. (CSP)
+   :definition: Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001928) ('is_a' and 'relationship')]
+   :description: Area of the forebrain between the anterior commissure and optic chiasm. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001928)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109225
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001928#preoptic-area-1
    :name: preoptic area
@@ -13813,6 +14521,23 @@ preopticohypothalamicTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005344#preopticohypothalamic-tract
    :name: preopticohypothalamic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005344
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+prepyriformArea
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prepyriformArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002590) ('is_a' and 'relationship')]
+   :description: Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002590)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002590#piriform-cortex-1
+   :name: prepyriform area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002590
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13872,6 +14597,23 @@ pretectalRegion
 
 ------------
 
+primaryAuditoryCortex
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryAuditoryCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034751) ('is_a' and 'relationship')]
+   :description: The part of the auditory cortex that is located on the superior temporal gyrus in the temporal lobe and receives point-to-point input from the ventral division of the medial geniculate complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034751)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034751#primary-auditory-cortex
+   :name: primary auditory cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034751
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 primaryMotorCortex
 ------------------
 
@@ -13879,8 +14621,8 @@ primaryMotorCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Primary motor cortex' is a regional part of brain. It is part of the frontal cortex.
-   :description: The part of the cerebral cortex that receives projections from the motor thalamus and which projects to motor neurons in the brainstem and spinal cord.  The motor cortex corresponds to Brodmann's area 4 (MM).  The primary motor cortex, or M1, is located on the precentral gyrus and on the anterior paracentral lobule on the medial surface of the brain. Of the three motor cortex areas, stimulation of the primary motor cortex requires the least amount of electrical current to elicit a movement. http://neuroscience.uth.tmc.edu/s3/chapter03.html
+   :definition: Is a regional part of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001384) ('is_a' and 'relationship')]
+   :description: The part of the cerebral cortex that receives projections from the motor thalamus and which projects to motor neurons in the brainstem and spinal cord. The motor cortex corresponds to Brodmann's area 4 (MM). The primary motor cortex, or M1, is located on the precentral gyrus and on the anterior paracentral lobule on the medial surface of the brain. Of the three motor cortex areas, stimulation of the primary motor cortex requires the least amount of electrical current to elicit a movement. http://neuroscience.uth.tmc.edu/s3/chapter03.html. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001384)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109278
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001384#primary-motor-cortex-1
    :name: primary motor cortex
@@ -13897,8 +14639,8 @@ primaryOlfactoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Primary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
-   :description: The term primary olfactory areas in the primate, refers to a group of structures defined by connectivity, namely, structures that receive axons from the olfactory bulb. They include the anterior olfactory nucleus, the anterior perforated substance, the rostral part of the medial amygdaloid nucleus (anterior cortical nucleus of amygdala), and structures in the anterior part of the parahippocampal gyrus, namely, the prepyriform area, most of the periamygdaloid area, and the rostral part of the entorhinal area (Price-90). Note that some authors have regarded the olfactory bulb itself as the primary olfactory area and the areas to which it projects as secondary (Anthoney-94).  In the mouse (Dong-2004) and the rat (Swanson-2004), olfactory areas include the olfactory bulb, accessory olfactory bulb, anterior olfactory nucleus, tenia tecta, prepyriform area, postpiriform transition area, piriform amygdaloid area, nucleus of lateral olfactory tract, and cortical amygdaloid area.
+   :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022469) ('is_a' and 'relationship')]
+   :description: A group of structures defined by connectivity, namely, structures that receive axons from the olfactory bulb. They include the anterior olfactory nucleus, the anterior perforated substance, the rostral part of the medial amygdaloid nucleus (anterior cortical nucleus of amygdala), and structures in the anterior part of the parahippocampal gyrus, namely, the prepyriform area, most of the periamygdaloid area, and the rostral part of the entorhinal area (Price-90). Note that some authors have regarded the olfactory bulb itself as the primary olfactory area and the areas to which it projects as secondary (Anthoney-94). In the mouse (Dong-2004) and the rat (Swanson-2004), olfactory areas include the olfactory bulb, accessory olfactory bulb, anterior olfactory nucleus, tenia tecta, prepyriform area, postpiriform transition area, piriform amygdaloid area, nucleus of lateral olfactory tract, and cortical amygdaloid area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022469)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109283
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022469#primary-olfactory-cortex-1
    :name: primary olfactory cortex
@@ -14005,8 +14747,8 @@ primarySomatosensoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Primary somatosensory cortex' is a somatosensory cortex. It is part of the parietal cortex.
-   :description: (Chapin & Lin, 1984, rat): the region considered as the SI cortex is not a cytoarchitecturally homogeneous structure but consists instead of a patchwork array of areas containing dense aggregations of layer IV granule cells, surrounded by granule-cell-sparse regions. As was shown by Welker ('71,'76), and in our own mapping studies (see Fig. 3), this discontinuous pattern of granular, or koniocortical, zones contains within itself a map of the rat's cutaneous periphery. There are clear subtypes within this cytoarchitectural subregion, notably including the "granular aggregate" type of cytoarchitecture characteristic of the paw, limb, and mystacial vibrissae areas, and the "barrel-field" type (originally described by Woolsey and Van der Loos, '70) seen in the nose and perioral regions. In the mouse, but not the rat, such barrels also cover the whole whisker representation (Welker and Woolsey, '74).
+   :definition: Is a somatosensory cortex. Is part of the parietal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008933) ('is_a' and 'relationship')]
+   :description: (Chapin & Lin, 1984, rat): the region considered as the SI cortex is not a cytoarchitecturally homogeneous structure but consists instead of a patchwork array of areas containing dense aggregations of layer IV granule cells, surrounded by granule-cell-sparse regions. As was shown by Welker (b71,b76), and in our own mapping studies (see Fig. 3), this discontinuous pattern of granular, or koniocortical, zones contains within itself a map of the ratbs cutaneous periphery. There are clear subtypes within this cytoarchitectural subregion, notably including the bgranular aggregateb type of cytoarchitecture characteristic of the paw, limb, and mystacial vibrissae areas, and the bbarrel-fieldb type (originally described by Woolsey and Van der Loos, b70) seen in the nose and perioral regions. In the mouse, but not the rat, such barrels also cover the whole whisker representation (Welker and Woolsey, b74). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008933)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109333
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008933#primary-somatosensory-cortex
    :name: primary somatosensory cortex
@@ -14059,8 +14801,8 @@ primaryVisualCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Primary visual cortex' is a Brodmann area and functional part of brain. It is part of the visual cortex.
-   :description: Region of visual cortex that receives visual input from the eyes through the lateral geniculate nuclei (Sadato et al., 1996, PMID: 8606771).
+   :definition: Is a Brodmann area and functional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002436) ('is_a' and 'relationship')]
+   :description: A subdivision of the cytoarchitecturally defined occipital region of cerebral cortex in the human. Defined by the band of Gennari, which gives it the name striate (furrowed) area, it occupies the banks of the calcarine sulcus which are located in the cuneus and the lingual gyrus of the occipital lobe. Cytoarchitecturally it is bounded by the area 18 of Brodmann (human) which surrounds it ( Brodmann-1909 ). In the mouse ( Paxinos-2001 ) and the rat ( Swanson-1998 ) it is located on the dorsolateral surface of the cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002436)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112514
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002436#primary-visual-cortex
    :name: primary visual cortex
@@ -14137,6 +14879,23 @@ principalSensoryNucleusOfTrigeminalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002597#principal-sensory-nucleus-of-trigeminal-nerve-1
    :name: principal sensory nucleus of trigeminal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002597
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+proisocortex
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/proisocortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951) ('is_a' and 'relationship')]
+   :description: The part of the neocortex hich mainly consists of parts of cingulate, parahippocampal and temporopolar cortice. As distinct from isocortex (typical neocortex) which contains other regions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014951#proisocortex
+   :name: proisocortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014951
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14343,7 +15102,7 @@ retrochiasmaticArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Retrochiasmatic area' is part of the medial zone of hypothalamus and intermediate hypothalamic region.
+   :definition: Is part of the medial zone of hypothalamus and the intermediate hypothalamic region. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001933)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726953
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1
    :name: retrochiasmatic area
@@ -14366,6 +15125,22 @@ retrorubralAreaOfMidbrainReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011172#retrorubral-area-of-midbrain-reticular-nucleus
    :name: retrorubral area of midbrain reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011172
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+retrosplenialGranularCortex
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrosplenialGranularCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the retrosplenial region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014918) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014918#retrosplenial-granular-cortex
+   :name: retrosplenial granular cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014918
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14965,6 +15740,23 @@ rhombomereRoofPlate
 
 ------------
 
+rightAuditoryCortex
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightAuditoryCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an auditory cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009897)]
+   :description: An auditory cortex that is in the left side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009897)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009897#right-auditory-cortex
+   :name: right auditory cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009897
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightHemisphereOfCerebellum
 ---------------------------
 
@@ -15144,8 +15936,8 @@ rostralAnteriorCingulateCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Rostral anterior cingulate cortex' is a regional part of brain. It is part of the anterior cingulate cortex.
-   :description: Component of the cingulate cortex.  The rostral boundary was the first appearance of the cingulate sulcus (inferior to the superior frontal sulcus) whereas the caudal boundary was the first appearance of the genu of the corpus callosum. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was defined as the medial division of the orbitofrontal gyrus (Christine Fennema-Notestine).
+   :definition: Is a regional part of brain. Is part of the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022438) ('is_a' and 'relationship')]
+   :description: Component of the cingulate cortex. The rostral boundary was the first appearance of the cingulate sulcus (inferior to the superior frontal sulcus) whereas the caudal boundary was the first appearance of the genu of the corpus callosum. The medial boundary was the medial aspect of the cortex. The supero-lateral boundary was the superior frontal gyrus whereas the infero-lateral boundary was defined as the medial division of the orbitofrontal gyrus (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022438)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110204
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022438#rostral-anterior-cingulate-cortex-1
    :name: rostral anterior cingulate cortex
@@ -15330,6 +16122,22 @@ rostralSpinocerebellarTract
 
 ------------
 
+rostrolateralVisualArea
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrolateralVisualArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the posterior parietal association areas. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035912) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035912#rostrolateral-visual-area
+   :name: rostrolateral visual area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035912
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rostrumOfCorpusCallosum
 -----------------------
 
@@ -15365,6 +16173,23 @@ rubrospinalTract
 
 ------------
 
+secondaryAuditoryCortex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryAuditoryCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034752) ('is_a' and 'relationship')]
+   :description: The part of the auditory cortex that receive more diffuse input from the belt areas of the medial geniculate complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034752)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034752#secondary-auditory-cortex
+   :name: secondary auditory cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034752
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 secondaryGustatoryTract
 -----------------------
 
@@ -15388,8 +16213,8 @@ secondaryOlfactoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Secondary olfactory cortex' is a regional part of brain. It is part of the olfactory cortex.
-   :description: Brodmann's area 28; major gateway for neocortical input to the hippocampus; origin of the perforant pathway; a component of the medial temporal lobe memory system. (CSP) * The cytoarchitecturally well-defined area of multilaminate cerebral cortex on the medial aspect of the parahippocampal gyrus, immediately caudal to the olfactory cortex of the uncus. The entorhinal cortex is the origin of the major neural fiber system afferent to the hippocampus, the so-called PERFORANT PATHWAY. (Stedman, 25th ed) (MSH)
+   :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002895) ('is_a' and 'relationship')]
+   :description: Brodmann's area 28; major gateway for neocortical input to the hippocampus; origin of the perforant pathway; a component of the medial temporal lobe memory system. (CSP) * The cytoarchitecturally well-defined area of multilaminate cerebral cortex on the medial aspect of the parahippocampal gyrus, immediately caudal to the olfactory cortex of the uncus. The entorhinal cortex is the origin of the major neural fiber system afferent to the hippocampus, the so-called PERFORANT PATHWAY. (Stedman, 25th ed). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002895)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110447
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002895#secondary-olfactory-cortex-1
    :name: secondary olfactory cortex
@@ -15416,6 +16241,23 @@ secondaryProsencephalon
 
 ------------
 
+secondarySomatosensoryCortex
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondarySomatosensoryCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a somatosensory cortex. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008934) ('is_a' and 'relationship')]
+   :description: The area of the upper bank of the lateral sulcus that is involved in somatic sensation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008934)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008934#secondary-somatosensory-cortex
+   :name: secondary somatosensory cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008934
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 secondaryVisualCortex
 ---------------------
 
@@ -15423,8 +16265,7 @@ secondaryVisualCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Secondary visual cortex' is part of Brodmann area 18 and a functional region of the brain. It is part of the visual cortex.
-   :description: A region of the visual cortex adjacent and strongly connected to the primary visual cortex. It plays an important role in the analysis and discrimination of visual input related to motion, complex shapes, and position. A part of the visual association area.
+   :definition: Is a functional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022232) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727119
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022232#secondary-visual-cortex
    :name: secondary visual cortex
@@ -15480,6 +16321,23 @@ sensoryCircumventricularOrgan
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010135#sensory-circumventricular-organ
    :name: sensory circumventricular organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010135
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sensoryDissociationArea
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryDissociationArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the parietal lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003938)]
+   :description: The area of the parietal lobe that integrates tactile and visual stimuli. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003938)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003938#sensory-dissociation-area
+   :name: sensory dissociation area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003938
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15651,7 +16509,8 @@ somatosensoryCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus.
+   :definition: Is a functional part of brain. Is part of the postcentral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008930) ('is_a' and 'relationship')]
+   :description: Area of the parietal lobe concerned with receiving general sensations. It lies posterior to the central sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008930)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110752
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008930#somatosensory-cortex
    :name: somatosensory cortex
@@ -16091,8 +16950,8 @@ subcallosalArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Subcallosal area' is a gray matter of telencephalon.
-   :description: The subcallosal area (parolfactory area of Broca, area parolfactoria) is a small triangular field on the medial surface of the hemisphere in front of the subcallosal gyrus, from which it is separated by the posterior parolfactory sulcus; it is continuous below with the olfactory trigone, and above and in front with the cingulate gyrus; it is limited anteriorly by the anterior parolfactory sulcus. [WP,unvetted].
+   :definition: Is a gray matter of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003020)]
+   :description: The subcallosal area (parolfactory area of Broca, area parolfactoria) is a small triangular field on the medial surface of the hemisphere in front of the subcallosal gyrus, from which it is separated by the posterior parolfactory sulcus; it is continuous below with the olfactory trigone, and above and in front with the cingulate gyrus; it is limited anteriorly by the anterior parolfactory sulcus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003020)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111156
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003020#subcallosal-area-1
    :name: subcallosal area
@@ -16563,6 +17422,22 @@ superiorFrontalGyrus
 
 ------------
 
+superiorLateralOccipitalCortex
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorLateralOccipitalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022368) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022368#superior-lateral-occipital-cortex
+   :name: superior lateral occipital cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022368
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 superiorMedullaryVelum
 ----------------------
 
@@ -16624,8 +17499,8 @@ superiorParietalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Superior parietal cortex' is part of the parietal lobe and neocortex.
-   :description: Component of the parietal lobe.  The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine).
+   :definition: Is part of the parietal lobe and the neocortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006094)]
+   :description: Component of the parietal lobe. The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006094)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111317
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006094#superior-parietal-cortex-1
    :name: superior parietal cortex
@@ -16720,6 +17595,23 @@ superiorTransverseFrontopolarGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024201#superior-transverse-frontopolar-gyrus-1
    :name: superior transverse frontopolar gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024201
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+supplementalMotorCortex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supplementalMotorCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016636) ('is_a' and 'relationship')]
+   :description: The supplementary motor area (SMA) is a part of the sensorimotor cerebral cortex (perirolandic, i.e. on each side of the Rolando or central sulcus). It was included, on purely cytoarchitectonic arguments, in area 6 of Brodmann and the Vogts. It is located on the medial face of the hemisphere, just in front of primary motor cortex. This is an element that appeared late in evolution, in monkeys, linked to the appearance of a true medial pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016636)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016636#supplemental-motor-cortex
+   :name: supplemental motor cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016636
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17166,12 +18058,28 @@ temporalCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Temporal cortex' is a cortex of cerebral lobe. It is part of the temporal lobe.
-   :description: Gray matter of the temporal region of the neocortex, located in the temporal lobe in gyrencephalic animals
+   :definition: Is a cortex of cerebral lobe. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016538) ('is_a' and 'relationship')]
+   :description: Gray matter of the temporal region of the neocortex, located in the temporal lobe in gyrencephalic animals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016538)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111586
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016538#temporal-cortex
    :name: temporal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016538
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+temporalCortexAssociationArea
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexAssociationArea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an association cortex. Is part of the temporal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035013) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035013#temporal-cortex-association-area
+   :name: temporal cortex association area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035013
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17184,8 +18092,7 @@ temporalCortexCingulum
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The 'temporal cortex cingulum' is a white matter fibre bundle. It is part of cingulum of brain.
-   :description:
+   :definition: Is a cingulum of brain. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022429) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727013
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022429#temporal-cortex-cingulum
    :name: temporal cortex cingulum
@@ -18038,6 +18945,23 @@ ventralCommissure
 
 ------------
 
+ventralCorticospinalTract
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCorticospinalTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an axon tract. Is part of the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760) ('is_a' and 'relationship')]
+   :description: Part of pyramidal tract (corticospinal tract) containing uncrossed fibers and traveling in the ventral funiculus of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002760#ventral-corticospinal-tract-1
+   :name: ventral corticospinal tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002760
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ventralExternalArcuateFiberBundle
 ---------------------------------
 
@@ -18348,8 +19272,8 @@ ventralTegmentalArea
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Ventral tegmental area' is a regional part of brain. It is part of the midbrain tegmentum.
-   :description: Unpaired midbrain region situated in the ventromedial portion of the reticular formation. The VTA is medial to the substantia nigra and ventral to the red nucleus, and extends caudally from the posterior hypothalamus in the diencephalon. The VTA contains dopamine neurons that project to various limbic and cortical areas and is a critical component of the brain's reward circuitry.
+   :definition: Is a regional part of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002691) ('is_a' and 'relationship')]
+   :description: Unpaired midbrain region situated in the ventromedial portion of the reticular formation. The VTA is medial to the substantia nigra and ventral to the red nucleus, and extends caudally from the posterior hypothalamus in the diencephalon. The VTA contains dopamine neurons that project to various limbic and cortical areas and is a critical component of the brain's reward circuitry. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002691)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112351
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002691#ventral-tegmental-area-1
    :name: ventral tegmental area
@@ -18425,6 +19349,22 @@ ventralTrigeminalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002549#ventral-trigeminal-tract-1
    :name: ventral trigeminal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002549
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralZoneOfMedialEntorhinalCortex
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralZoneOfMedialEntorhinalCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the medial entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018263) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018263#ventral-zone-of-medial-entorhinal-cortex
+   :name: ventral zone of medial entorhinal cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018263
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18642,6 +19582,40 @@ vestibulospinalTract
 
 ------------
 
+visualAssociationCortex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/visualAssociationCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an association cortex. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034750) ('is_a' and 'relationship')]
+   :description: Part of cortex considered to function in higher level visual functions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034750)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034750#visual-association-cortex
+   :name: visual association cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034750
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+visualCortex
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/visualCortex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a functional part of brain. Is part of the occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000411) ('is_a' and 'relationship')]
+   :description: The part of the cerebral cortex responsible for processing visual information. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000411)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000411#visual-cortex
+   :name: visual cortex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000411
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 whiteMatterLaminaOfCerebellum
 -----------------------------
 
@@ -18721,8 +19695,8 @@ whiteMatterOfTheCerebellarCortex
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'White matter of the cerebellar cortex' is a white matter of metencephalon. It is part of the cerebellar cortex.
-   :description: White matter that lies deep to the granular cell layer of the cerebellar cortex.  It contains afferents to the cerebellar cortex and axons that run between the cerebellar cortex and the deep cerebellar nuclei.
+   :definition: Is a white matter of metencephalon. Is part of the cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024045) ('is_a' and 'relationship')]
+   :description: White matter that lies deep to the granular cell layer of the cerebellar cortex. It contains afferents to the cerebellar cortex and axons that run between the cerebellar cortex and the deep cerebellar nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024045)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0112631
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024045#white-matter-of-the-cerebellar-cortex-1
    :name: white matter of the cerebellar cortex
