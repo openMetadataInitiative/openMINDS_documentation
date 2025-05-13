@@ -2784,8 +2784,8 @@ cephalopodOpticLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Cephalopod optic lobe' is a visual processing part of nervous system. It is part of the brain.
-   :description: Large lobes of the brain associated with the eyes. In octopods and some squids the optic lobes may be separated from the rest of the brain by an optic stalk of varying length. In Octopus the optic lobes contain 92 million cells compared with only 42 million in the main central mass of the brain (J. Young, 1963) .
+   :definition: Is a visual processing part of nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006796) ('is_a' and 'relationship')]
+   :description: Large lobes of the brain associated with the eyes. In octopods and some squids the optic lobes may be separated from the rest of the brain by an optic stalk of varying length. In Octopus the optic lobes contain 92 million cells compared with only 42 million in the main central mass of the brain (J. Young, 1963). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006796)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725883
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006796#cephalopod-optic-lobe
    :name: cephalopod optic lobe
@@ -5805,6 +5805,23 @@ duraMaterLymphVessel
 
 ------------
 
+electrosensoryLateralLineLobe
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/electrosensoryLateralLineLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hindbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002105)]
+   :description: Anatomical structure located in the hindbrain that receives primary electroreceptor input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002105)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002105#electrosensory-lateral-line-lobe
+   :name: electrosensory lateral line lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002105
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 emboliformNucleus
 -----------------
 
@@ -6072,6 +6089,22 @@ extremeCapsule
 
 ------------
 
+facialLobe
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000512)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000512#facial-lobe
+   :name: facial lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000512
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 facialMotorNucleus
 ------------------
 
@@ -6169,8 +6202,8 @@ flocculonodularLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Flocculonodular lobe' is a cerebellum lobe. It is part of the vestibulocerebellum.
-   :description: The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [WP,unvetted].
+   :definition: Is a cerebellum lobe. Is part of the vestibulocerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003012) ('is_a' and 'relationship')]
+   :description: The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003012)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104286
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003012#flocculonodular-lobe-1
    :name: flocculonodular lobe
@@ -6187,8 +6220,9 @@ flocculonodularLobeHemispherePortion
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Flocculonodular lobe, hemisphere portion' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and flocculonodular lobe.
+   :definition: Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027331) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104947
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027331#flocculonodular-lobe-hemisphere-portion
    :name: flocculonodular lobe, hemisphere portion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027331
 
@@ -6484,8 +6518,8 @@ frontalLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Frontal lobe' is a lobe of cerebral hemisphere.
-   :description: The anterior part of the cerebral hemisphere. (MSH)
+   :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016525)]
+   :description: Frontal lobe is the anterior-most of five lobes of the cerebral hemisphere. It is bounded by the central sulcus on its posterior border and by the longitudinal cerebral fissure on its medial border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016525)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104451
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016525#frontal-lobe-1
    :name: frontal lobe
@@ -6705,6 +6739,22 @@ globusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001875#globus-pallidus-1
    :name: globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001875
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+glossopharyngealLobe
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000517) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000517#glossopharyngeal-lobe
+   :name: glossopharyngeal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000517
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7510,6 +7560,22 @@ inferiorLateralOccipitalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022367#inferior-lateral-occipital-cortex
    :name: inferior lateral occipital cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022367
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorLobe
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the dorsal zone of median tuberal portion of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000165) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000165#inferior-lobe
+   :name: inferior lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000165
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9126,6 +9192,23 @@ leftAuditoryCortex
 
 ------------
 
+leftFrontalLobe
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftFrontalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a frontal cortex. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002811) ('is_a' and 'relationship')]
+   :description: A frontal cortex that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002811)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002811#left-frontal-lobe-1
+   :name: left frontal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002811
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 leftHemisphereOfCerebellum
 --------------------------
 
@@ -9155,6 +9238,74 @@ leftLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013161#left-lateral-ventricle
    :name: left lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013161
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftLimbicLobe
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftLimbicLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a limbic lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002804) ('is_a' and 'relationship')]
+   :description: A limbic lobe that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002804)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002804#left-limbic-lobe-1
+   :name: left limbic lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002804
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftOccipitalLobe
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftOccipitalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an occipital lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002806) ('is_a' and 'relationship')]
+   :description: An occipital lobe that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002806)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002806#left-occipital-lobe-1
+   :name: left occipital lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002806
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftParietalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftParietalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a parietal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002802) ('is_a' and 'relationship')]
+   :description: Parietal lobe of the left hemisphere of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002802)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002802#left-parietal-lobe-1
+   :name: left parietal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002802
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftTemporalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftTemporalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a temporal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002808) ('is_a' and 'relationship')]
+   :description: A temporal lobe that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002808)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002808#left-temporal-lobe-1
+   :name: left temporal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002808
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9235,8 +9386,8 @@ limbicLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Part of cerebral hemisphere located on the medial surface, forming a ring around the brain stem.
-   :description: 'Limbic lobe' is a lobe of cerebral hemisphere.
+   :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002600)]
+   :description: Part of cerebral hemisphere located on the medial surface, forming a ring around the brain stem. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002600)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106264
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002600#limbic-lobe-1
    :name: limbic lobe
@@ -9324,8 +9475,8 @@ lobeOfCerebralHemisphere
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lobe of cerebral hemisphere' is part of the cerebral hemisphere.
-   :description: Divisions of the cerebral cortex from gross anatomical observation based on the locations of major sulci and fissures in gyrencephalic animals, including both the gray matter and underlying white matter. From 4-6 lobes have been defined.
+   :definition: Is part of the cerebral hemisphere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016526)]
+   :description: Subdivision of telencephalon which is one of a number of subdivisions of each hemisphere separated by both real landmarks (sulci and fissures) and arbitrary boundaries. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016526)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106316
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016526#lobe-of-cerebral-cortex
    :name: lobe of cerebral hemisphere
@@ -9753,6 +9904,22 @@ medialAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1
    :name: medial amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002892
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialCaudalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialCaudalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the vestibulolateralis lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000388) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000388#medial-caudal-lobe
+   :name: medial caudal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000388
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11081,8 +11248,8 @@ neuralLobeOfNeurohypophysis
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The posterior pituitary (or neurohypophysis) comprises the posterior lobe of the pituitary gland and is part of the endocrine system. Despite its name, the posterior pituitary gland is not a gland, per se; rather, it is largely a collection of axonal projections from the hypothalamus that terminate behind the anterior pituitary gland. [WP,unvetted].
-   :description: 'Neural lobe of neurohypophysis' is a regional part of brain. It is part of the neurohypophysis.
+   :definition: Is a regional part of brain. Is part of the neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003217) ('is_a' and 'relationship')]
+   :description: The posterior pituitary (or neurohypophysis) comprises the posterior lobe of the pituitary gland and is part of the endocrine system. Despite its name, the posterior pituitary gland is not a gland, per se; rather, it is largely a collection of axonal projections from the hypothalamus that terminate behind the anterior pituitary gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003217)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108544
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003217#pars-nervosa-of-hypophysis
    :name: neural lobe of neurohypophysis
@@ -11508,8 +11675,8 @@ occipitalLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Occipital lobe' is a lobe of cerebral hemisphere.
-   :description: Posterior part of the cerebral hemisphere (MSH)
+   :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002021)]
+   :description: Posterior part of the cerebral hemisphere (MSH) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002021)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107883
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002021#occipital-lobe-1
    :name: occipital lobe
@@ -12995,8 +13162,8 @@ parietalLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Upper central part of the cerebral hemisphere. (MSH).
-   :description: 'Parietal lobe' is a lobe of cerebral hemisphere.
+   :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001872)]
+   :description: Upper central part of the cerebral hemisphere. (MSH) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001872)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108534
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001872#parietal-lobe-1
    :name: parietal lobe
@@ -15757,6 +15924,23 @@ rightAuditoryCortex
 
 ------------
 
+rightFrontalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightFrontalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a frontal cortex. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002810) ('is_a' and 'relationship')]
+   :description: A frontal cortex that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002810)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002810#right-frontal-lobe-1
+   :name: right frontal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002810
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightHemisphereOfCerebellum
 ---------------------------
 
@@ -15786,6 +15970,74 @@ rightLateralVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013162#right-lateral-ventricle
    :name: right lateral ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013162
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightLimbicLobe
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightLimbicLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a limbic lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002805) ('is_a' and 'relationship')]
+   :description: A limbic lobe that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002805)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002805#right-limbic-lobe-1
+   :name: right limbic lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002805
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightOccipitalLobe
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightOccipitalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an occipital lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002807) ('is_a' and 'relationship')]
+   :description: An occipital lobe that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002807)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002807#right-occipital-lobe-1
+   :name: right occipital lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002807
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightParietalLobe
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightParietalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a parietal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803) ('is_a' and 'relationship')]
+   :description: Parietal lobe of the right hemisphere of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002803#right-parietal-lobe-1
+   :name: right parietal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002803
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightTemporalLobe
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightTemporalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a temporal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002809) ('is_a' and 'relationship')]
+   :description: A temporal lobe that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002809)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002809#right-temporal-lobe-1
+   :name: right temporal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002809
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17271,8 +17523,7 @@ superficialFeaturePartOfOccipitalLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Superficial feature part of occipital lobe' is a regional part of brain. It is part of the occipital lobe.
-   :description:
+   :definition: Is a regional part of brain. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023462) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111268
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023462#superficial-feature-part-of-occipital-lobe-1
    :name: superficial feature part of occipital lobe
@@ -18109,8 +18360,8 @@ temporalLobe
 
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Lower lateral part of the cerebral hemisphere. (MSH).
-   :description: 'Temporal lobe' is a lobe of cerebral hemisphere.
+   :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001871)]
+   :description: Lower lateral part of the cerebral hemisphere. (MSH) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001871)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111590
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001871#temporal-lobe-1
    :name: temporal lobe
@@ -18713,6 +18964,22 @@ upperRhombicLip
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009841#upper-rhombic-lip
    :name: upper rhombic lip
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009841
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagalLobe
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000297)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000297#vagal-lobe
+   :name: vagal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000297
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19565,6 +19832,22 @@ vestibulocochlearNerveRoot
 
 ------------
 
+vestibulolateralisLobe
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulolateralisLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000307) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000307#vestibulolateralis-lobe
+   :name: vestibulolateralis lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000307
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vestibulospinalTract
 --------------------
 
@@ -19652,6 +19935,39 @@ whiteMatterOfCerebellum
 
 ------------
 
+whiteMatterOfCerebralLobe
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebralLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral hemisphere white matter. Is part of the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016527) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016527#white-matter-of-cerebral-lobe
+   :name: white matter of cerebral lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016527
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+whiteMatterOfFrontalLobe
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfFrontalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016528) ('is_a' and 'relationship')]
+   :description: A white matter of cerebral lobe that is part of a frontal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016528)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016528#white-matter-of-frontal-lobe
+   :name: white matter of frontal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016528
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 whiteMatterOfHindbrain
 ----------------------
 
@@ -19670,6 +19986,23 @@ whiteMatterOfHindbrain
 
 ------------
 
+whiteMatterOfLimbicLobe
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfLimbicLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebral lobe. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016536) ('is_a' and 'relationship')]
+   :description: A white matter of cerebral lobe that is part of a limbic lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016536)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016536#white-matter-of-limbic-lobe
+   :name: white matter of limbic lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016536
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 whiteMatterOfMedullaOblongata
 -----------------------------
 
@@ -19683,6 +20016,57 @@ whiteMatterOfMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014649#medullary-white-matter
    :name: white matter of medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014649
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+whiteMatterOfOccipitalLobe
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfOccipitalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebral lobe. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016535) ('is_a' and 'relationship')]
+   :description: A white matter of cerebral lobe that is part of a occipital lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016535)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016535#white-matter-of-occipital-lobe
+   :name: white matter of occipital lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016535
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+whiteMatterOfParietalLobe
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfParietalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebral lobe. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016531) ('is_a' and 'relationship')]
+   :description: A white matter of cerebral lobe that is part of a parietal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016531)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016531#white-matter-of-parietal-lobe
+   :name: white matter of parietal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016531
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+whiteMatterOfTemporalLobe
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTemporalLobe
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebral lobe. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016534) ('is_a' and 'relationship')]
+   :description: A white matter of cerebral lobe that is part of a temporal lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016534)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016534#white-matter-of-temporal-lobe
+   :name: white matter of temporal lobe
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016534
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
