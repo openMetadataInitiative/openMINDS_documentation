@@ -1,6 +1,14 @@
 Example-01
 ==========
 
+.. raw:: html
+
+   <a class="binder example-01"
+      href="https://mybinder.org/v2/gh/Raphael-Gazzotti/openMINDS_documentation/example-notebook?urlpath=%2Fdoc%2Ftree%2F%2FopenMINDS_documentation%2Fblob%2Fexample-notebook%2Fdocs%2Fshared%2Fsupportive_tooling%2Fexample-01.ipynb
+">
+      <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+   </a>
+
 Let use pick up again the example we used in getting started and assume we locally stored information about the Heart of Gold Spacecraft Crew as Comma Separated Values:
 
 .. csv-table:: persons.csv
