@@ -79,7 +79,7 @@ With these assumptions we will create :
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
        ))
 
-As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and safe the collection if the validation did not reveal any failures:
+As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and save the collection if the validation did not reveal any failures:
 
 .. code-block:: python
 
