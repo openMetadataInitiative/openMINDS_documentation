@@ -173,6 +173,20 @@ Neuroglancer
 
 ------------
 
+Neurosift
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/service/Neurosift
+   :@type: https://openminds.om-i.org/types/Service
+   :definition: Neurosift is a browser-based tool designed for the visualization of neuroscience data with a focus on NWB (Neurodata Without Borders) files.
+   :name: Neurosift
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
 Zenodo
 ------
 
