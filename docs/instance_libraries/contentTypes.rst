@@ -48,6 +48,22 @@ application_dicom
 
 ------------
 
+application_gzip
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_gzip
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: A gzip (.gz) file is a compressed archive using the GNU zip algorithm. Unlike the ZIP format, which packages multiple files along with directory structure, gzip typically compresses a single file or data stream. It uses the DEFLATE compression method for efficient lossless compression and is commonly combined with tar (as .tar.gz or .tgz) when multiple files need compression.
+   :name: application/gzip
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/gzip
+   :specification: https://www.ietf.org/rfc/rfc1952.txt
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_json
 ----------------
 
