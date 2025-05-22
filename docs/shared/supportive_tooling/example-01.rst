@@ -1,6 +1,12 @@
 Example-01
 ==========
 
+.. raw:: html
+
+   <a class="binder example-01" href="https://mybinder.org/v2/gh/openMetadataInitiative/openMINDS_documentation/main?urlpath=%2Fdoc%2Ftree%2F%2FopenMINDS_documentation%2Fblob%2Fmain%2Fdocs%2Fshared%2Fsupportive_tooling%2Fexample-01.ipynb">
+      <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
+   </a>
+
 Let use pick up again the example we used in getting started and assume we locally stored information about the Heart of Gold Spacecraft Crew as Comma Separated Values:
 
 .. csv-table:: persons.csv
@@ -79,7 +85,7 @@ With these assumptions we will create :
            affiliations = omcore.Affiliation(member_of=consortia[d['memberOf']])
        ))
 
-As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and safe the collection if the validation did not reveal any failures:
+As final step, we will add our linked data instances to the collection we initiated in the beginning, validate this collection against the openMINDS metadata models, and save the collection if the validation did not reveal any failures:
 
 .. code-block:: python
 
