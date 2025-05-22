@@ -3,7 +3,7 @@ Example-01
 
 .. raw:: html
 
-   <a class="binder example-01" href="https://mybinder.org/v2/gh/openMetadataInitiative/openMINDS_documentation/main?urlpath=%2Fdoc%2Ftree%2F%2FopenMINDS_documentation%2Fblob%2Fmain%2Fdocs%2Fshared%2Fsupportive_tooling%2Fexample-01.ipynb">
+   <a class="binder example-01" href="https://mybinder.org/v2/gh/openMetadataInitiative/openMINDS_documentation/main?urlpath=%2Fdoc%2Ftree%2F%2Fdocs%2Fshared%2Fsupportive_tooling%2Fexample-01.ipynb">
       <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
    </a>
 
