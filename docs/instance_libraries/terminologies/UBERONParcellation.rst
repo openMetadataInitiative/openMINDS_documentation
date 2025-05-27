@@ -8,6 +8,183 @@ Related schema specification: `UBERONParcellation <https://openminds-documentati
 
 ------------
 
+A10DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A10DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036005)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036005#a10-dopaminergic-cell-group
+   :name: A10 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036005
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A11DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A11DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036006)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036006#a11-dopaminergic-cell-group
+   :name: A11 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036006
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A12DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A12DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036009)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036009#a12-dopaminergic-cell-group
+   :name: A12 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036009
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A13DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A13DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. Is part of the zona incerta. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036007) ('is_a' and 'relationship')]
+   :description: A group of cells that fluoresce for dopamine and are distributed in clusters that, in the primate, are ventral and medial to the mammillothalamic tract of the hypothalamus; a few extend into the reuniens nucleus of the thalamus (Felten-1983). In the mouse A13 is located ventral to the mammillothalamic tract of the thalamus in the zona incerta (adapted from Brain Info) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036007)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036007#a13-dopaminergic-cell-group
+   :name: A13 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036007
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A14DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A14DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036001)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036001#a14-dopaminergic-cell-group
+   :name: A14 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036001
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A15DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A15DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036002)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036002#a15-dopaminergic-cell-group
+   :name: A15 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036002
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A16DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A16DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036008)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036008#a16-dopaminergic-cell-group
+   :name: A16 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036008
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A17DopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A17DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036004)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036004#a17-dopaminergic-cell-group
+   :name: A17 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036004
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A8DopaminergicCellGroup
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A8DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036000)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036000#a8-dopaminergic-cell-group
+   :name: A8 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036000
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+A9DopaminergicCellGroup
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/A9DopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036003)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036003#a9-dopaminergic-cell-group
+   :name: A9 dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036003
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+AaqDopaminergicCellGroup
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/AaqDopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036010)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036010#aaq-dopaminergic-cell-group
+   :name: Aaq dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036010
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 CA1Alveus
 ---------
 
@@ -19757,6 +19934,22 @@ telaChoroideaOfThirdVentricle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005288#tela-choroidea-of-third-ventricle
    :name: tela choroidea of third ventricle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005288
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+telencephalicDopaminergicCellGroup
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/telencephalicDopaminergicCellGroup
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036011)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036011#telencephalic-dopaminergic-cell-group
+   :name: telencephalic dopaminergic cell group
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036011
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
