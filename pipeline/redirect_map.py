@@ -15,7 +15,6 @@ Serve the resulting map with your static-site host or edge platform
 
 from __future__ import annotations
 
-import json
 import os
 from typing import Dict
 
@@ -42,7 +41,7 @@ def _anchorize(name: str) -> str:
 # Configuration
 # ---------------------------------------------------------------------
 
-DOCS_BASE_URL = "https://openminds.om-i.org"  # without trailing slash
+DOCS_BASE_URL = "https://openminds.docs.om-i.org"  # without trailing slash
 DOCS_VERSION_SLUG = "latest"                  # RTD version alias to use
 OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
@@ -214,6 +213,10 @@ def main() -> None:
         for uri, url in sorted_redirects:
             # Apache redirect rule format: Redirect 301 /from /to
             fp.write(f'Redirect 301 "{uri}" "{url}"\n')
+        
+        # Add generic redirect for all other paths
+        fp.write(f'\n# Generic redirect for all other paths\n')
+        fp.write(f'RedirectMatch 301 /(.*) {DOCS_BASE_URL}/$1\n')
     
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
