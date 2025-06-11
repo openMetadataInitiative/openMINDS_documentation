@@ -217,7 +217,8 @@ def main() -> None:
     
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
-    # Verify the generated .htaccess file
+    # Optional: immediately verify all links
+    print("Verifying redirect targets...")
     verify_redirect_map(OUTPUT_FILENAME)
 
 
