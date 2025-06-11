@@ -44,7 +44,7 @@ def _anchorize(name: str) -> str:
 
 DOCS_BASE_URL = "https://openminds.om-i.org"  # without trailing slash
 DOCS_VERSION_SLUG = "latest"                  # RTD version alias to use
-OUTPUT_FILENAME = "redirect_map.json"         # output path (project root)
+OUTPUT_FILENAME = ".htaccess"                 # output path (project root)
 
 
 # ---------------------------------------------------------------------
@@ -162,10 +162,21 @@ def _url_works(url: str, timeout: float = 10.0) -> bool:
 
 def verify_redirect_map(filename: str = OUTPUT_FILENAME, max_workers: int = 16) -> None:
     """
-    Load an existing redirect_map.json, check every target URL.
+    Load an existing .htaccess file and check every target URL.
     """
+    redirects = {}
+    
+    # Parse .htaccess format: Redirect 301 "/uri" "url"
     with open(filename, "r", encoding="utf-8") as fp:
-        redirects: Dict[str, str] = json.load(fp)
+        for line in fp:
+            line = line.strip()
+            if line.startswith('Redirect 301 "') and line.count('"') >= 4:
+                # Extract URI and URL from: Redirect 301 "/uri" "url"
+                parts = line.split('"')
+                if len(parts) >= 4:
+                    uri = parts[1]
+                    url = parts[3]
+                    redirects[uri] = url
 
     # 1. Identify broken URLs in parallel
     broken_keys = []
@@ -191,11 +202,22 @@ def verify_redirect_map(filename: str = OUTPUT_FILENAME, max_workers: int = 16) 
 
 def main() -> None:
     redirects = generate_redirect_map()
+    
+    # Write .htaccess file
     with open(OUTPUT_FILENAME, "w", encoding="utf-8") as fp:
-        json.dump(redirects, fp, indent=2, sort_keys=True)
+        fp.write("# openMINDS redirect rules\n")
+        fp.write("# Generated automatically by pipeline/redirect_map.py\n\n")
+        
+        # Sort by URI for consistent output
+        sorted_redirects = sorted(redirects.items())
+        
+        for uri, url in sorted_redirects:
+            # Apache redirect rule format: Redirect 301 /from /to
+            fp.write(f'Redirect 301 "{uri}" "{url}"\n')
+    
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
-    # Optional: immediately verify and fix
+    # Verify the generated .htaccess file
     verify_redirect_map(OUTPUT_FILENAME)
 
 
