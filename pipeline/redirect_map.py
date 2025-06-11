@@ -195,7 +195,7 @@ def main() -> None:
         json.dump(redirects, fp, indent=2, sort_keys=True)
     print(f"Wrote {len(redirects)} redirect entries to {OUTPUT_FILENAME}")
 
-    # Optional: immediately verify and fix
+    # Optional: immediately verify all link
     verify_redirect_map(OUTPUT_FILENAME)
 
 
