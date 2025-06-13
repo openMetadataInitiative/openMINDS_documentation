@@ -48,6 +48,21 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 
 ------------
 
+applicationProgrammingInterface
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/softwareFeature/applicationProgrammingInterface
+   :@type: https://openminds.om-i.org/types/SoftwareFeature
+   :definition: A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.
+   :name: application programming interface
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q165194
+
+`BACK TO TOP <Terminologies: SoftwareFeature library_>`_
+
+------------
+
 augmentedReality
 ----------------
 
@@ -62,14 +77,15 @@ augmentedReality
 
 ------------
 
-commandlineInterface
+commandLineInterface
 --------------------
 
 .. admonition:: metadata sheet
 
    :@id: https://openminds.om-i.org/instances/softwareFeature/commandlineInterface
    :@type: https://openminds.om-i.org/types/SoftwareFeature
-   :name: commandline interface
+   :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
+   :name: command line interface
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189053
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
@@ -152,6 +168,7 @@ graphicalUserInterface
 
    :@id: https://openminds.om-i.org/instances/softwareFeature/graphicalUserInterface
    :@type: https://openminds.om-i.org/types/SoftwareFeature
+   :definition: A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.
    :name: graphical user interface
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q782543
 
