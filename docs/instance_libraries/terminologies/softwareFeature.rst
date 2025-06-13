@@ -48,6 +48,21 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 
 ------------
 
+applicationProgrammingInterface
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/softwareFeature/applicationProgrammingInterface
+   :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
+   :definition: A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.
+   :name: application programming interface
+   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q165194
+
+`BACK TO TOP <Terminologies: SoftwareFeature library_>`_
+
+------------
+
 augmentedReality
 ----------------
 
@@ -152,6 +167,7 @@ graphicalUserInterface
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
+   :definition: A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.
    :name: graphical user interface
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q782543
 
