@@ -77,13 +77,14 @@ augmentedReality
 
 ------------
 
-commandlineInterface
+commandLineInterface
 --------------------
 
 .. admonition:: metadata sheet
 
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
+   :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
    :name: commandline interface
    :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189053
 
