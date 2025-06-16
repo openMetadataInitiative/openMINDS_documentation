@@ -4282,13 +4282,13 @@ application_vnd.wavemetrics.igorpro
 
 ------------
 
-application_vnd.webalign.waln
------------------------------
+application_vnd.webalign.waln+json
+----------------------------------
 
 .. admonition:: metadata sheet
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.webalign.waln+json
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContentType
+   :@type: https://openminds.ebrains.eu/core/ContentType
    :description: WebAlign waln is a JSON-based content type containing the linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), and the actual linear image registration in the form of 3D vector triplets per image (optional).
    :name: application/vnd.webalign.waln+json
 
@@ -4296,13 +4296,13 @@ application_vnd.webalign.waln
 
 ------------
 
-application_vnd.webwarp.wwrp
-----------------------------
+application_vnd.webwarp.wwrp+json
+---------------------------------
 
 .. admonition:: metadata sheet
 
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.webwarp.wwrp+json
-   :@type: https://openminds.ebrains.eu/controlledTerms/ContentType
+   :@type: https://openminds.ebrains.eu/core/ContentType
    :description: WebWarp wwrp is a JSON-based content type containing the linear and optionally non-linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), the linear image registration in the form of 3D vector triplets per image (optional), and the non-linear image registration in form of a list of 2D deformation vectors per image (optional).
    :name: application/vnd.webwarp.wwrp+json
 
