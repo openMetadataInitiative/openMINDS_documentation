@@ -4296,8 +4296,8 @@ application_vnd.wavemetrics.igorpro
 
 ------------
 
-application_vnd.webalign.waln
------------------------------
+application_vnd.webalign.waln+json
+----------------------------------
 
 .. admonition:: metadata sheet
 
@@ -4310,8 +4310,8 @@ application_vnd.webalign.waln
 
 ------------
 
-application_vnd.webwarp.wwrp
-----------------------------
+application_vnd.webwarp.wwrp+json
+---------------------------------
 
 .. admonition:: metadata sheet
 
