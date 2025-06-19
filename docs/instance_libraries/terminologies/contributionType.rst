@@ -39,7 +39,7 @@ dataManagement
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagment
+   :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagement
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data management
 
@@ -104,7 +104,7 @@ metadataManagement
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagment
+   :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagement
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: metadata management
 
