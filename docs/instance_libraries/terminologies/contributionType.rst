@@ -39,7 +39,7 @@ dataManagement
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/instances/contributionType/dataManagment
+   :@id: https://openminds.om-i.org/instances/contributionType/dataManagement
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: data management
 
@@ -104,7 +104,7 @@ metadataManagement
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/instances/contributionType/metadataManagment
+   :@id: https://openminds.om-i.org/instances/contributionType/metadataManagement
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: metadata management
 
