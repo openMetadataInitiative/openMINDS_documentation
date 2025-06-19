@@ -483,21 +483,6 @@ M3Receptor
 
 ------------
 
-MagnesiumATP
-------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/molecularEntity/magnesiumATP
-   :@type: https://openminds.om-i.org/types/MolecularEntity
-   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
-   :name: magnesium ATP
-   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
-
-`BACK TO TOP <Terminologies: MolecularEntity library_>`_
-
-------------
-
 NMDAReceptor
 ------------
 
@@ -1510,6 +1495,21 @@ luciferYellow
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0439021
    :name: lucifer yellow
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0068243
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+magnesiumATP
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/molecularEntity/magnesiumATP
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
+   :name: magnesium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
