@@ -16,7 +16,7 @@ application
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: application
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q166142
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q166142
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -30,7 +30,7 @@ library
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: library
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q188860
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q188860
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -44,7 +44,7 @@ middleware
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: middleware
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q146768
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q146768
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -58,7 +58,7 @@ module
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: module
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q11883090
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q11883090
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -72,7 +72,7 @@ notebook
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: notebook
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q28405706
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q28405706
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 
@@ -86,7 +86,7 @@ plugin
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: plugin
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q184148
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q184148
 
 `BACK TO TOP <Terminologies: SoftwareApplicationCategory library_>`_
 

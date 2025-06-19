@@ -16,7 +16,7 @@ Android
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Android
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Android
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q94
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q94
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -30,7 +30,7 @@ Linux
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Linux
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q388
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q388
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -44,7 +44,7 @@ MacOS
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: MacOS
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q43627
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q43627
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -58,7 +58,7 @@ Solaris
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Solaris
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q14646
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q14646
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -72,7 +72,7 @@ Unix
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Unix
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Unix
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q11368
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q11368
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -86,7 +86,7 @@ Windows
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Windows
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1406
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1406
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -100,7 +100,7 @@ WindowsPhone
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Windows Phone
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q4885200
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q4885200
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -114,7 +114,7 @@ iOS
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/iOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: iOS
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q48493
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q48493
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
@@ -128,7 +128,7 @@ platformIndependent
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: platform independent
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q174666
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q174666
 
 `BACK TO TOP <Terminologies: OperatingSystem library_>`_
 
