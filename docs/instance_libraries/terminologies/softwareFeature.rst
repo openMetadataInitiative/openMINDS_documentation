@@ -16,7 +16,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
    :@id: https://openminds.om-i.org/instances/softwareFeature/3DGeometryDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: 3D geometry data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189177
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q189177
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -57,7 +57,7 @@ applicationProgrammingInterface
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :definition: A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.
    :name: application programming interface
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q165194
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q165194
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -71,7 +71,7 @@ augmentedReality
    :@id: https://openminds.om-i.org/instances/softwareFeature/augmentedReality
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: augmented reality
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q254183
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q254183
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -86,7 +86,7 @@ commandLineInterface
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
    :name: command line interface
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189053
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q189053
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -100,7 +100,7 @@ control
    :@id: https://openminds.om-i.org/instances/softwareFeature/control
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: control
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q29017603
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q29017603
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -127,7 +127,7 @@ dataProcessing
    :@id: https://openminds.om-i.org/instances/softwareFeature/dataProcessing
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: data processing
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q6661985
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q6661985
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -141,7 +141,7 @@ desktopEnvironment
    :@id: https://openminds.om-i.org/instances/softwareFeature/desktopEnvironment
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: desktop environment
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q56155
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q56155
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -155,7 +155,7 @@ graphDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/graphDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: graph data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2479726
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q2479726
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -170,7 +170,7 @@ graphicalUserInterface
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :definition: A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.
    :name: graphical user interface
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q782543
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q782543
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -184,7 +184,7 @@ heterogeneousArchitecture
    :@id: https://openminds.om-i.org/instances/softwareFeature/heterogeneousArchitecture
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: heterogeneous architecture
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q17111997
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q17111997
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -211,7 +211,7 @@ matrixDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/matrixDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: matrix data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q44337
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q44337
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -225,7 +225,7 @@ metadataDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/metadataDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: metadata data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q180160
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q180160
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -239,7 +239,7 @@ mobileDevice
    :@id: https://openminds.om-i.org/instances/softwareFeature/mobileDevice
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: mobile device
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q5082128
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q5082128
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -253,7 +253,7 @@ modelling
    :@id: https://openminds.om-i.org/instances/softwareFeature/modelling
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: modelling
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1116876
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1116876
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -267,7 +267,7 @@ parallelProgramming
    :@id: https://openminds.om-i.org/instances/softwareFeature/parallelProgramming
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: parallel programming
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q232661
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q232661
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -281,7 +281,7 @@ performanceMeasurement
    :@id: https://openminds.om-i.org/instances/softwareFeature/performanceMeasurement
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: performance measurement
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1771949
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1771949
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -295,7 +295,7 @@ positionalDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/positionalDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: positional data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1477538
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1477538
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -309,7 +309,7 @@ presentationVisualisation
    :@id: https://openminds.om-i.org/instances/softwareFeature/presentationVisualisation
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: presentation visualisation
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q451553
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q451553
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -323,7 +323,7 @@ profiling
    :@id: https://openminds.om-i.org/instances/softwareFeature/profiling
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: profiling
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1138496
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1138496
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -337,7 +337,7 @@ provenance
    :@id: https://openminds.om-i.org/instances/softwareFeature/provenance
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: provenance
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q30105403
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q30105403
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -351,7 +351,7 @@ rasterImageDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/rasterImageDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: raster image data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q182270
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q182270
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -378,7 +378,7 @@ simulation
    :@id: https://openminds.om-i.org/instances/softwareFeature/simulation
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: simulation
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q925667
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q925667
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -392,7 +392,7 @@ statisticalDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/statisticalDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: statistical data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q7604387
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q7604387
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -406,7 +406,7 @@ tensorDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/tensorDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: tensor data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q188524
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q188524
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -433,7 +433,7 @@ timeSeriesDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/timeSeriesDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: time series data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q186588
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q186588
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -447,7 +447,7 @@ vectorImageDataTypes
    :@id: https://openminds.om-i.org/instances/softwareFeature/vectorImageDataTypes
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: vector image data types
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q170130
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q170130
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 
@@ -461,7 +461,7 @@ virtualReality
    :@id: https://openminds.om-i.org/instances/softwareFeature/virtualReality
    :@type: https://openminds.om-i.org/types/SoftwareFeature
    :name: virtual reality
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q170519
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q170519
 
 `BACK TO TOP <Terminologies: SoftwareFeature library_>`_
 

@@ -16,7 +16,7 @@ AMPL
    :@id: https://openminds.om-i.org/instances/programmingLanguage/AMPL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: AMPL
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q295250
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q295250
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -30,7 +30,7 @@ Bash
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Bash
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Bash
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q189248
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q189248
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -44,7 +44,7 @@ C#
    :@id: https://openminds.om-i.org/instances/programmingLanguage/C#
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C#
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2370
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q2370
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -58,7 +58,7 @@ C++
    :@id: https://openminds.om-i.org/instances/programmingLanguage/C++
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C++
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2407
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q2407
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -72,7 +72,7 @@ C
    :@id: https://openminds.om-i.org/instances/programmingLanguage/C
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: C
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q15777
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q15777
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -86,7 +86,7 @@ Fortran
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Fortran
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Fortran
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q83303
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q83303
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -100,7 +100,7 @@ GLSL
    :@id: https://openminds.om-i.org/instances/programmingLanguage/GLSL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: GLSL
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q779819
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q779819
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -114,7 +114,7 @@ HTML
    :@id: https://openminds.om-i.org/instances/programmingLanguage/HTML
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: HTML
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q8811
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q8811
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -142,7 +142,7 @@ Java
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Java
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Java
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q251
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q251
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -156,7 +156,7 @@ JavaScript
    :@id: https://openminds.om-i.org/instances/programmingLanguage/JavaScript
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: JavaScript
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q2005
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q2005
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -170,7 +170,7 @@ MATLAB
    :@id: https://openminds.om-i.org/instances/programmingLanguage/MATLAB
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: MATLAB
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q37805571
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q37805571
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -184,7 +184,7 @@ PHP
    :@id: https://openminds.om-i.org/instances/programmingLanguage/PHP
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: PHP
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q59
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q59
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -198,7 +198,7 @@ Pascal
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Pascal
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Pascal
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q81571
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q81571
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -212,7 +212,7 @@ Python
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Python
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Python
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q28865
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q28865
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -226,7 +226,7 @@ R
    :@id: https://openminds.om-i.org/instances/programmingLanguage/R
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: R
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q206904
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q206904
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -240,7 +240,7 @@ Ruby
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Ruby
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Ruby
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q161053
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q161053
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -254,7 +254,7 @@ Scala
    :@id: https://openminds.om-i.org/instances/programmingLanguage/Scala
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Scala
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q460584
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q460584
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -268,7 +268,7 @@ T-SQL
    :@id: https://openminds.om-i.org/instances/programmingLanguage/T-SQL
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: T-SQL
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q1411245
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1411245
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -282,7 +282,7 @@ TypeScript
    :@id: https://openminds.om-i.org/instances/programmingLanguage/TypeScript
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: TypeScript
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q978185
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q978185
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
@@ -296,7 +296,7 @@ shell
    :@id: https://openminds.om-i.org/instances/programmingLanguage/shell
    :@type: https://openminds.om-i.org/types/ProgrammingLanguage
    :name: Shell
-   :preferredOntologyIdentifier: https://www.wikidata.org/wiki/Q14663
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q14663
 
 `BACK TO TOP <Terminologies: ProgrammingLanguage library_>`_
 
