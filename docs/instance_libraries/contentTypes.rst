@@ -4415,19 +4415,6 @@ application_vnd.zarr
 
 ------------
 
-application_vnd.zeiss 
-----------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.zeiss
-   :@type: https://openminds.om-i.org/types/ContentType
-   :name: application/vnd.zeiss
-
-`BACK TO TOP <ContentTypes library_>`_
-
-------------
-
 application_vnd.zeiss.axio-csm
 ------------------------------
 
@@ -4449,6 +4436,19 @@ application_vnd.zeiss.axio-vision
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.zeiss.axio-vision
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.zeiss.axio-vision
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.zeiss
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.zeiss
+   :@type: https://openminds.om-i.org/types/ContentType
+   :name: application/vnd.zeiss
 
 `BACK TO TOP <ContentTypes library_>`_
 
