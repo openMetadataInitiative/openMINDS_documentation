@@ -2974,6 +2974,20 @@ application_vnd.openmetadatainitiative.openminds.schema+json
 
 ------------
 
+application_vnd.openmetadatainitiative.openminds.schema-tpl+json
+----------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema-tpl+json
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: Simplified openMINDS-specific schema template that defines properties and values of linked data. Has to be extended with additional information to become a fully valid openMINDS schema.
+   :name: application/vnd.openmetadatainitiative.openminds.schema-tpl+json
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 -----------------------------------------------------------------
 
@@ -5187,6 +5201,21 @@ text_tab-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/tab-separated-values
    :relatedMediaType: https://www.iana.org/assignments/media-types/text/tab-separated-values
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+text_vnd.citation-file-format
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.citation-file-format
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: CITATION.cff files are plain text files with human- and machine-readable citation information for research products. [adapted from [Citation File Format (CFF)](https://citation-file-format.github.io/)]
+   :name: text/vnd.citation-file-format
+   :specification: https://github.com/citation-file-format/citation-file-format/blob/main/README.md
 
 `BACK TO TOP <ContentTypes library_>`_
 
