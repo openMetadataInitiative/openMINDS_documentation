@@ -185,6 +185,24 @@ AaqDopaminergicCellGroup
 
 ------------
 
+AmmonsHorn
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/AmmonsHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the limbic system, the hippocampal formation and the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001954) ('is_a' and 'relationship')]
+   :description: A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle. The term hippocampus is often used synonymously with hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001954)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105021
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001954#hippocampus
+   :name: Ammon's horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001954
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 CA1Alveus
 ---------
 
@@ -192,8 +210,8 @@ CA1Alveus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1Alveus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA1 alveus' is a layer of CA1 field. It is part of the hippocampus alveus.
-   :description: Part of alveus lying in area CA1, deep to the stratum oriens of CA1 and continuous with the alveus of CA2
+   :definition: Is a layer of CA1 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014570) ('is_a' and 'relationship')]
+   :description: CA1 portion of the alveus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014570)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101521
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014570#ca1-alveus-1
    :name: CA1 alveus
@@ -210,8 +228,8 @@ CA1FieldOfHippocampus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1FieldOfHippocampus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA1 field of hippocampus' is a hippocampal field.
-   :description: Part of hippocampus proper bounded by CA2 and the subiculum, characterized by pyramidal neurons that receive projections from pyramidal neurons of CA3 via the Schaffer collaterals.
+   :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003881)]
+   :description: Part of hippocampus proper bounded by CA2 and the subiculum, characterized by pyramidal neurons that receive projections from pyramidal neurons of CA3 via the Schaffer collaterals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003881)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101520
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003881#ca1
    :name: CA1 field of hippocampus
@@ -228,8 +246,8 @@ CA1StratumLacunosumMoleculare
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA1 stratum lacunosum moleculare' is a layer of CA1 field. It is part of the hippocampus stratum lacunosum moleculare.
-   :description: Part of stratum lacunosum-moleculare lying in area CA1, superficial to CA1 stratum radiatum and bounded by the pial surface, continuous with stratum lacunosum-moleculare of CA2 and the subiculum stratum moleculare.
+   :definition: Is a layer of CA1 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014557) ('is_a' and 'relationship')]
+   :description: Part of stratum lacunosum-moleculare lying in area CA1, superficial to CA1 stratum radiatum and bounded by the pial surface, continuous with stratum lacunosum-moleculare of CA2 and the subiculum stratum moleculare. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014557)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101523
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014557#ca1-stratum-lacunosum-moleculare-1
    :name: CA1 stratum lacunosum moleculare
@@ -246,8 +264,8 @@ CA1StratumOriens
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumOriens
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA1 stratum oriens' is a layer of CA1 field. It is part of the hippocampus stratum oriens.
-   :description: Part of stratum oriens lying in area CA1, superficial to the alveus of CA1 and deep to the pyramidal cell layer of CA1.  It is continuous with the stratum oriens of CA2 and bounded by the subiculum
+   :definition: Is a layer of CA1 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014552) ('is_a' and 'relationship')]
+   :description: Part of stratum oriens lying in area CA1, superficial to the alveus of CA1 and deep to the pyramidal cell layer of CA1. It is continuous with the stratum oriens of CA2 and bounded by the subiculum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014552)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101524
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014552#ca1-stratum-oriens-1
    :name: CA1 stratum oriens
@@ -264,8 +282,8 @@ CA1StratumRadiatum
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA1StratumRadiatum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA1 stratum radiatum' is a layer of CA1 field. It is part of the hippocampus stratum radiatum.
-   :description: Part of stratum radiatum lying in area CA1, superficial to the CA1 pyramidal cell layer and deep to the CA1 stratum lucidum-moleculare, continuous with the stratum radiatum of CA2 and bounded by the subiculum. It contains the Schaffer collateral projection from CA3.
+   :definition: Is a layer of CA1 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014554) ('is_a' and 'relationship')]
+   :description: Part of stratum radiatum lying in area CA1, superficial to the CA1 pyramidal cell layer and deep to the CA1 stratum lucidum-moleculare, continuous with the stratum radiatum of CA2 and bounded by the subiculum. It contains the Schaffer collateral projection from CA3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014554)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101526
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014554#ca1-stratum-radiatum-1
    :name: CA1 stratum radiatum
@@ -282,11 +300,46 @@ CA2FieldOfHippocampus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2FieldOfHippocampus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460).
-   :description: 'CA2 field of hippocampus' is a hippocampal field.
+   :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003882)]
+   :description: Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003882)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101527
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003882#ca2
    :name: CA2 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003882
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+CA2StratumLacunosumMoleculare
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2StratumLacunosumMoleculare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA2 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014558) ('is_a' and 'relationship')]
+   :description: Part of stratum lacunosum-moleculare lying in area CA2, superficial to the CA2 stratum radiatum, that is continuous with the stratum lacunosum-moleculare in areas CA3 and CA1. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014558)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014558#ca2-stratum-lacunosum-moleculare-1
+   :name: CA2 stratum lacunosum moleculare
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014558
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+CA2StratumOriens
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2StratumOriens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA2 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014551) ('is_a' and 'relationship')]
+   :description: Part of stratum oriens lying in area CA2 deep to the CA2 pyramidal cell layer and continuous with stratum oriens of area CA2 and bounded by the dentate gyrus hilus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014551)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014551#ca2-stratum-oriens-1
+   :name: CA2 stratum oriens
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014551
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -299,8 +352,8 @@ CA2StratumRadiatum
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA2StratumRadiatum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA2 stratum radiatum' is a layer of CA2 field. It is part of the hippocampus stratum radiatum.
-   :description: Part of stratum radiatum in area CA2,  lying superficial to the pyramidal cell layer and deep to CA2  stratum lacunosum-moleculare, continuous with the stratum radiatum of CA1 and CA3.
+   :definition: Is a layer of CA2 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014555) ('is_a' and 'relationship')]
+   :description: Part of stratum radiatum in area CA2, lying superficial to the pyramidal cell layer and deep to CA2 stratum lacunosum-moleculare, continuous with the stratum radiatum of CA1 and CA3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014555)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101533
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014555#ca2-stratum-radiatum-1
    :name: CA2 stratum radiatum
@@ -317,8 +370,8 @@ CA3Alveus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3Alveus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA3 alveus' is a layer of CA3 field. It is part of the hippocampus alveus.
-   :description: Part of alveus lying within hippocampal sector CA3
+   :definition: Is a layer of CA3 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014571) ('is_a' and 'relationship')]
+   :description: Part of alveus lying within hippocampal sector CA3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014571)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101535
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014571#ca3-alveus-1
    :name: CA3 alveus
@@ -335,11 +388,63 @@ CA3FieldOfHippocampus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3FieldOfHippocampus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers.
-   :description: 'CA3 field of hippocampus' is a hippocampal field.
+   :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]
+   :description: Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101534
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003883#ca3
    :name: CA3 field of hippocampus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003883
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+CA3StratumLacunosumMoleculare
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3StratumLacunosumMoleculare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA3 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014559) ('is_a' and 'relationship')]
+   :description: Part of stratum lacunosum-moleculare in area CA3. It is bounded by the stratum lacunosum-moleculare of CA2 and CA1. It is bounded superficially by the pial surface and deep by the CA3 stratum radiatum. It is continuous with the stratum lacunosum-moleculare of CA2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014559)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014559#ca3-stratum-lacunosum-moleculare-1
+   :name: CA3 stratum lacunosum moleculare
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014559
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+CA3StratumLucidum
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3StratumLucidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the CA3 field of hippocampus and the hippocampus stratum lucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014560) ('is_a' and 'relationship')]
+   :description: A layer of hippocampal field that is part of a CA3 field of hippocampus and is part of a hippocampus stratum lucidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014560)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014560#ca3-stratum-lucidum-1
+   :name: CA3 stratum lucidum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014560
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+CA3StratumOriens
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3StratumOriens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA3 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014553) ('is_a' and 'relationship')]
+   :description: Part of stratum oriens lying in area CA3 deep to the CA3 pyramidal cell layer and continuous with stratum oriens of area CA2 and bounded by the dentate gyrus hilus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014553)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014553#ca3-stratum-oriens-1
+   :name: CA3 stratum oriens
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014553
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -352,8 +457,8 @@ CA3StratumRadiatum
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/CA3StratumRadiatum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'CA3 stratum radiatum' is a layer of CA3 field. It is part of the hippocampus stratum radiatum.
-   :description: Part of stratum radiatum in area CA3,  lying superficial to the stratum lucidum and deep to CA3  stratum lacunosum-moleculare.
+   :definition: Is a layer of CA3 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014556) ('is_a' and 'relationship')]
+   :description: Part of stratum radiatum in area CA3, lying superficial to the stratum lucidum and deep to CA3 stratum lacunosum-moleculare. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014556)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101542
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014556#ca3-stratum-radiatum-1
    :name: CA3 stratum radiatum
@@ -858,6 +963,23 @@ allocortex
 
 ------------
 
+alveusOfCA2Field
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/alveusOfCA2Field
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA2 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035802) ('is_a' and 'relationship')]
+   :description: Part of alveus lying within hippocampal sector CA2. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035802)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035802#alveus-of-ca2-field
+   :name: alveus of CA2 field
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035802
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ambientGyrus
 ------------
 
@@ -893,24 +1015,6 @@ amiculumOfDentateNucleus
 
 ------------
 
-ammonsHorn
-----------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ammonsHorn
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.
-   :description: A part of the hippocampal formation consisting of a three layered cortex located in the forebrain bordered by the medial surface of the lateral ventricle, the dentate gyrus and the subiculum.  It has 3 subfields termed CA1, CA2 and CA3. The term hippocampus is often used synonymously with  hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105021
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001954#hippocampus
-   :name: Ammon's horn
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001954
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
 amygdala
 --------
 
@@ -924,6 +1028,71 @@ amygdala
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001876#amygdala-1
    :name: amygdala
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001876
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+amygdalohippocampalArea
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034673) ('is_a' and 'relationship')]
+   :description: A cytoarchitecturally defined portion of the periamygdalar area and the cortical amygdalar nucleus at the caudal extreme of the amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034673)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034673#amygdalohippocampal-area
+   :name: amygdalohippocampal area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034673
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+amygdalohippocampalAreaMagnocellularDivision
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalAreaMagnocellularDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035027) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035027#amygdalohippocampal-area-magnocellular-division
+   :name: amygdalohippocampal area, magnocellular division
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035027
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+amygdalohippocampalAreaParvocellularDivision
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalAreaParvocellularDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035028) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035028#amygdalohippocampal-area-parvocellular-division
+   :name: amygdalohippocampal area, parvocellular division
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035028
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+amygdalohippocampalTransitionArea
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/amygdalohippocampalTransitionArea
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035026) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035026#amygdalohippocampal-transition-area
+   :name: amygdalohippocampal transition area
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035026
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1579,6 +1748,23 @@ anteriorParacentralGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007191#anterior-paracentral-gyrus
    :name: anterior paracentral gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007191
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorParahippocampalGyrus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorParahippocampalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022383) ('is_a' and 'relationship')]
+   :description: The part of the parahippocampal gyrus that includes the perirhinal and entorhinal cortices. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022383)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022383#anterior-parahippocampal-gyrus
+   :name: anterior parahippocampal gyrus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022383
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2990,6 +3176,54 @@ caudalAnteriorCingulateCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028715#caudal-anterior-cingulate-cortex-1
    :name: caudal anterior cingulate cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028715
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+caudalCA1
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034780) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034780#caudal-ca1
+   :name: caudal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034780
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+caudalCA2
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034781) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034781#caudal-ca2
+   :name: caudal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034781
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+caudalCA3
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034782) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034782#caudal-ca3
+   :name: caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034782
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5658,8 +5892,7 @@ cytoarchitecturalPartOfDentateGyrus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Cytoarchitectural part of dentate gyrus' is a regional part of brain.
-   :description:
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023564)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102762
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023564#cytoarchitectural-part-of-dentate-gyrus-1
    :name: cytoarchitectural part of dentate gyrus
@@ -5847,12 +6080,44 @@ dentateGyrusGranuleCellLayer
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Granule cell layer is also called the DG principal cell layer. This one of the three layers of dentate gyrus that lies deep to the molecular layer and is made of densely packed layer that is four to eight granule cells thick.
-   :description: 'Dentate gyrus granule cell layer' is a layer of dentate gyrus.
+   :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005381)]
+   :description: Granule cell layer is also called the DG principal cell layer. This one of the three layers of dentate gyrus that lies deep to the molecular layer and is made of densely packed layer that is four to eight granule cells thick. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005381)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103056
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005381#dentate-gyrus-granule-cell-layer-1
    :name: dentate gyrus granule cell layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005381
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusGranuleCellLayerInnerBlade
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusGranuleCellLayerInnerBlade
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022348) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022348#dentate-gyrus-granule-cell-layer-inner-blade
+   :name: dentate gyrus granule cell layer inner blade
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022348
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusGranuleCellLayerOuterBlade
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusGranuleCellLayerOuterBlade
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022349) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022349#dentate-gyrus-granule-cell-layer-outer-blade
+   :name: dentate gyrus granule cell layer outer blade
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022349
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5865,12 +6130,45 @@ dentateGyrusMolecularLayer
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusMolecularLayer
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: The molecular layer of the dentate gyrus that is bounded by the pial surface superficially and the dentate gyrus granule cell layer deep. It is divided into 2 or more sublayers.
-   :description: 'Dentate gyrus molecular layer' is a layer of dentate gyrus.
+   :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004679)]
+   :description: The molecular layer of the dentate gyrus that is bounded by the pial surface superficially and the dentate gyrus granule cell layer deep. It is divided into 2 or more sublayers. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004679)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103074
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004679#dentate-gyrus-molecular-layer-1
    :name: dentate gyrus molecular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004679
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusMolecularLayerInner
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusMolecularLayerInner
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022347) ('is_a' and 'relationship')]
+   :description: Inner third of the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022347)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022347#dentate-gyrus-molecular-layer-inner
+   :name: dentate gyrus molecular layer inner
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022347
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusMolecularLayerMiddle
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusMolecularLayerMiddle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022346) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022346#dentate-gyrus-molecular-layer-middle
+   :name: dentate gyrus molecular layer middle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022346
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5883,12 +6181,62 @@ dentateGyrusOfHippocampalFormation
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Dentate gyrus of hippocampal formation' is a regional part of brain. It is part of the hippocampal formation.
-   :description: Part of the hippocampal formation forming a "V" or "U" shaped structure with the opening bounded by hippocampal area CA3.  It consists of 3 layers from superficial to deep:  molecular, granule cell and polymorphic or hilar layer.
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001885) ('is_a' and 'relationship')]
+   :description: Part of the hippocampal formation forming a 'V' or 'U' shaped structure with the opening bounded by hippocampal area CA3. It consists of 3 layers from superficial to deep: molecular, granule cell and polymorphic or hilar layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001885)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103048
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001885#dentate-gyrus
    :name: dentate gyrus of hippocampal formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001885
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusPolymorphicLayer
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusPolymorphicLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002928)]
+   :description: A cellular layer of the dentate gyrus enclosed by the granule cell layer. A number of cell types are located in the polymorphic layer but the most prominent is the mossy cell. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002928)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002928#dentate-gyrus-polymorphic-layer-1
+   :name: dentate gyrus polymorphic layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002928
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusPyramidalLayer
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusPyramidalLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002929)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002929#dentate-gyrus-pyramidal-layer
+   :name: dentate gyrus pyramidal layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002929
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dentateGyrusSubgranularZone
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dentateGyrusSubgranularZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the dentate gyrus of hippocampal formation. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009952)]
+   :description: A narrow layer of cells located between the granule cell layer and hilus of the dentate gyrus, where adult neurogenesis occurs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009952)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009952#dentate-gyrus-subgranular-zone
+   :name: dentate gyrus subgranular zone
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009952
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8445,8 +8793,8 @@ hilusOfDentateGyrus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hilusOfDentateGyrus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hilus of dentate gyrus' is a cerebral hemisphere gray matter. It is part of the dentate gyrus of hippocampal formation.
-   :description: Layer of the dentate gyrus lying deep to the granule cell layer, within the opening of the C or V formed by the granule cell layer characterized by loosely packed polymorphic cells.
+   :definition: Is a cerebral hemisphere gray matter. Is part of the dentate gyrus of hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002136) ('is_a' and 'relationship')]
+   :description: Layer of the dentate gyrus lying deep to the granule cell layer, within the opening of the C or V formed by the granule cell layer characterized by loosely packed polymorphic cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002136)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0103062
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002136#hilus-of-dentate-gyrus-1
    :name: hilus of dentate gyrus
@@ -8586,11 +8934,29 @@ hippocampalCommissure
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalCommissure
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hippocampal commissure' is a dorsal telencephalic commissure. It is part of the cerebral hemisphere white matter.
-   :description: The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side.
+   :definition: Is a dorsal telencephalic commissure. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000908) ('is_a' and 'relationship')]
+   :description: The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000908)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0102407
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000908#commissure-of-fornix
    :name: hippocampal commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000908
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampalField
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalField
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003876) ('is_a' and 'relationship')]
+   :description: A part or parts of the hippocampus that have a particular function. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003876)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003876#hippocampal-field
+   :name: hippocampal field
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003876
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8603,12 +8969,46 @@ hippocampalFormation
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalFormation
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hippocampal formation' is a regional part of brain. It is part of the cerebral cortex.
-   :description: A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle.  The term hippocampal formation  is often used synonymously with hippocampus which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subicular complex
+   :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002421) ('is_a' and 'relationship')]
+   :description: Hippocampus (proper) plus dentate gyrus and subiculum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002421)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105009
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002421#hippocampal-formation
    :name: hippocampal formation
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002421
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampalFormationOfGP94
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalFormationOfGP94
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023862)]
+   :description: The combined region of AmmonÕs horn, subicular complex and dentate gyrus; only fields CA1-CA3 of the hippocampus were considered to be part of the HF, field CA4 being included in the hilus of the dentate gyrus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023862)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023862#hippocampal-formation-of-gp94-1
+   :name: hippocampal formation of GP94
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023862
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampalSulcus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampalSulcus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002899)]
+   :description: The hippocampal sulcus, also known as the hippocampal fissure, is a sulcus that separates the dentate gyrus from the subiculum and the CA1 field in the hippocampus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002899)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002899#hippocampal-sulcus-1
+   :name: hippocampal sulcus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002899
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8621,12 +9021,28 @@ hippocampusAlveus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusAlveus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hippocampus alveus' is a central nervous system cell part cluster and central nervous system white matter layer. It is part of the hippocampal formation.
-   :description: Layer of white matter in hippocampus lying just deep to the stratum oriens layer, continuous with the fimbria of the hippocampus
+   :definition: Is a central nervous system cell part cluster and central nervous system white matter layer. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007639) ('is_a' and 'relationship')]
+   :description: Regional part of fornix consisting of a thin layer of white matter on the surface of the hippocampal formation, bordering the wall of the lateral ventricle and composed of white, myelinated fibers. The alveus arises from cell bodies in the subiculum and hippocampus, and eventually merges with the fimbria of the hippocampus. The fimbria goes on to become the fornix (MM: 2006-10-26). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007639)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100522
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007639#alveus
    :name: hippocampus alveus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007639
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusCortexCingulum
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusCortexCingulum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cingulum of brain. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022430) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022430#hippocampus-cortex-cingulum
+   :name: hippocampus cortex cingulum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022430
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8639,12 +9055,147 @@ hippocampusFimbria
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusFimbria
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hippocampus fimbria' is a central nervous system cell part cluster. It is part of the fornix of brain, Ammon's horn and white matter of telencephalon.
-   :description: Part of fornix lying closest to the hippocampal formation continuous with the alveus.
+   :definition: Is a central nervous system cell part cluster. Is part of the fornix of brain, the Ammon's horn and the white matter of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002310) ('is_a' and 'relationship')]
+   :description: Regional part of fornix consisting of a prominent white matter structure adjacent to the hippocampus on the ventricular side continuous with the alveus. Near the splenium the fimbria separates from the hippocampus as the crus of the fornix. (MM: 2006-10-26). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002310)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104243
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002310#fimbria-of-hippocampus
    :name: hippocampus fimbria
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002310
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusGranuleCellLayer
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusGranuleCellLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005367)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005367#hippocampus-granule-cell-layer
+   :name: hippocampus granule cell layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005367
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusMolecularLayer
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusMolecularLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368) ('is_a' and 'relationship')]
+   :description: The most superficial stratum in the hippocampus. Here the perforant path fibers form synapses onto the distal, apical dendrites of pyramidal cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005368#hippocampal-molecular-layer
+   :name: hippocampus molecular layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005368
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusPyramidalLayer
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusPyramidalLayer
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002313)]
+   :description: A cytoarchitectural term denoting the layer of the hippocampus in which pyramidal cells are predominant. Its location is superficial to the Stratum oriens; it is deep to the Stratum radiatum in area CA1 and area CA2 and deep to the Stratum lucidum in area CA3 (Stephan-75) (NeuroNames). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002313)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002313#stratum-pyramidale-hippocampi
+   :name: hippocampus pyramidal layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002313
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusStratumLacunosum
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumLacunosum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005370) ('is_a' and 'relationship')]
+   :description: A thin stratum in the hippocampus that is immediately deep to the molecular layer, and is superficial to the stratum radiatum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005370)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005370#hippocampus-stratum-lacunosum
+   :name: hippocampus stratum lacunosum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005370
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusStratumLacunosumMoleculare
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumLacunosumMoleculare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007640) ('is_a' and 'relationship')]
+   :description: Layer of the hippocampus lying just superficial to the stratum radiatum and bounded by the pial surface of the hippocampus. The fibers of the perforant pathway fibers from entorhinal cortex and several other brain areas terminate in this layer. Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007640)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007640#stratum-lacunosum-moleculare
+   :name: hippocampus stratum lacunosum moleculare
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007640
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusStratumLucidum
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumLucidum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007637)]
+   :description: Layer of hippocampus area CA3 lying superficial to the pyramidal cell layer that contains mossy fiber axons projecting from the dentate gyrus. A slight thickening in this layer marks the border in some species between areas CA2 and CA3. dapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007637)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007637#stratum-lucidum
+   :name: hippocampus stratum lucidum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007637
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusStratumOriens
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumOriens
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]
+   :description: Layer that is part of the CA fields of the hippocampus consisting of a narrow relatively cell free layer located deep to the pyramidal cell layer extending through areas CA1, CA2 and CA3. (adapted from Paxinos The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005371#stratum-oriens
+   :name: hippocampus stratum oriens
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005371
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hippocampusStratumRadiatum
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hippocampusStratumRadiatum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005372)]
+   :description: The layer located immediately above the pyramidal cell layer in CA2 and CA1 and superficial to the stratum lucidum in CA3. Suprapyramidal region in which CA3 to CA3 associational connections and CA3 to CA1 Schaffer collateral connections are located. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005372)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005372#stratum-radiatum
+   :name: hippocampus stratum radiatum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005372
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10825,6 +11376,54 @@ lateralVisualAreaLayer6a
 
 ------------
 
+layerOfCA1Field
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/layerOfCA1Field
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035786) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035786#layer-of-ca1-field
+   :name: layer of CA1 field
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035786
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+layerOfCA2Field
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/layerOfCA2Field
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035787) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035787#layer-of-ca2-field
+   :name: layer of CA2 field
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035787
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+layerOfCA3Field
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/layerOfCA3Field
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampus. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035788) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035788#layer-of-ca3-field
+   :name: layer of CA3 field
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035788
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 layerOfDevelopingCerebralCortex
 -------------------------------
 
@@ -10836,24 +11435,6 @@ layerOfDevelopingCerebralCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014950#layer-of-developing-cerebral-cortex
    :name: layer of developing cerebral cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014950
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-layerOfHippocampus
-------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/layerOfHippocampus
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Layer of hippocampus' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the hippocampal formation.
-   :description: The layers of the laminar structure of the hippocampus.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102761
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002305#cytoarchitectural-fields-of-hippocampal-formation
-   :name: layer of hippocampus
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002305
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14801,8 +15382,8 @@ parahippocampalGyrus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/parahippocampalGyrus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Parahippocampal gyrus' is a gyrus. It is part of the limbic system, temporal lobe and limbic lobe.
-   :description: Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively.  The medial boundary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine).
+   :definition: Is a gyrus. Is part of the limbic system, the temporal lobe and the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002973) ('is_a' and 'relationship')]
+   :description: Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively. The medial boundary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002973)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108441
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002973#parahippocampal-gyrus-1
    :name: parahippocampal gyrus
@@ -16618,12 +17199,28 @@ posteriorParahippocampalGyrus
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorParahippocampalGyrus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.
-   :description: The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease.
+   :definition: Is a gyrus. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002657) ('is_a' and 'relationship')]
+   :description: The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002657)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109113
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002657#posterior-parahippocampal-gyrus-1
    :name: posterior parahippocampal gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002657
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorParahippocampalWhiteMatter
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorParahippocampalWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of temporal lobe and white matter of limbic lobe. Is part of the posterior parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022394) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022394#posterior-parahippocampal-white-matter
+   :name: posterior parahippocampal white matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022394
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17999,10 +18596,10 @@ pyramidalLayerOfCA1
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/pyramidalLayerOfCA1
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Pyramidal layer of CA1' is a layer of CA1 field. It is part of the hippocampus pyramidal layer.
-   :description: Part of pyramidal cell layer lying in area CA1, superficial to the CA1 stratum oriens, and deep to the stratum radiatum of CA1, continuous with the pyramidal cell layers of CA2 and the subiculum. It is characterized by pyramidal cell bodies that are generally smaller in size than those in the other hippocampal sectors.
+   :definition: Is a layer of CA1 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014548) ('is_a' and 'relationship')]
+   :description: CA1 part of stratum pyramidale hippocampi. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014548)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101525
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014549#ca2-stratum-pyramidale-hippocampi
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014548#ca1-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014548
 
@@ -18017,12 +18614,29 @@ pyramidalLayerOfCA2
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/pyramidalLayerOfCA2
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Pyramidal layer of CA2' is a layer of CA2 field. It is part of the hippocampus pyramidal layer.
-   :description: Part of pyramidal cell layer in area CA2, lying superficial to the CA2 stratum oriens, and deep to the stratum radiatum of CA2, continuous with the pyramidal cell layers of CA1 and CA3
+   :definition: Is a layer of CA2 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014549) ('is_a' and 'relationship')]
+   :description: Part of pyramidal cell layer in area CA2, lying superficial to the CA2 stratum oriens, and deep to the stratum radiatum of CA2, continuous with the pyramidal cell layers of CA1 and CA3. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014549)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101532
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014549#ca2-stratum-pyramidale-hippocampi
    :name: pyramidal layer of CA2
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014549
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pyramidalLayerOfCA3
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pyramidalLayerOfCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of CA3 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014550) ('is_a' and 'relationship')]
+   :description: A layer of hippocampal field that is part of a hippocampus pyramidal layer and is part of a CA3 field of hippocampus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014550)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014550#ca3-stratum-pyramidale-hippocampi
+   :name: pyramidal layer of CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014550
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18180,6 +18794,22 @@ retrochiasmaticArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1
    :name: retrochiasmatic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001933
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+retrohippocampalRegion
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrohippocampalRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022230) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022230#retrohippocampal-region
+   :name: retrohippocampal region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022230
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19100,6 +19730,54 @@ rostralAnteriorCingulateCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022438#rostral-anterior-cingulate-cortex-1
    :name: rostral anterior cingulate cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022438
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralCA1
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034777) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034777#rostral-ca1
+   :name: rostral CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034777
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralCA2
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034778) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034778#rostral-ca2
+   :name: rostral CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034778
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralCA3
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034779) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034779#rostral-ca3
+   :name: rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034779
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20031,6 +20709,630 @@ spurOfArcuateSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025772#spur-of-arcuate-sulcus-1
    :name: spur of arcuate sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025772
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfCaudalCA1
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034798) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034798#stratum-lacunosum-moleculare-of-caudal-ca1
+   :name: stratum lacunosum-moleculare of caudal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034798
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfCaudalCA2
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034803) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034803#stratum-lacunosum-moleculare-of-caudal-ca2
+   :name: stratum lacunosum-moleculare of caudal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034803
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfCaudalCA3
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034808) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034808#stratum-lacunosum-moleculare-of-caudal-ca3
+   :name: stratum lacunosum-moleculare of caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034808
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfRostralCA1
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034828) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034828#stratum-lacunosum-moleculare-of-rostral-ca1
+   :name: stratum lacunosum-moleculare of rostral CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034828
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfRostralCA2
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034833) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034833#stratum-lacunosum-moleculare-of-rostral-ca2
+   :name: stratum lacunosum-moleculare of rostral CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034833
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfRostralCA3
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034838) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034838#stratum-lacunosum-moleculare-of-rostral-ca3
+   :name: stratum lacunosum-moleculare of rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034838
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfUncalCA1
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034858) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034858#stratum-lacunosum-moleculare-of-uncal-ca1
+   :name: stratum lacunosum-moleculare of uncal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034858
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfUncalCA2
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034863) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034863#stratum-lacunosum-moleculare-of-uncal-ca2
+   :name: stratum lacunosum-moleculare of uncal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034863
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLacunosumMoleculareOfUncalCA3
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034868) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034868#stratum-lacunosum-moleculare-of-uncal-ca3
+   :name: stratum lacunosum-moleculare of uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034868
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLucidumOfCaudalCA3
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLucidumOfCaudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a CA3 stratum lucidum. Is part of the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034810) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034810#stratum-lucidum-of-caudal-ca3
+   :name: stratum lucidum of caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034810
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLucidumOfRostralCA3
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLucidumOfRostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a CA3 stratum lucidum. Is part of the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034840) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034840#stratum-lucidum-of-rostral-ca3
+   :name: stratum lucidum of rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034840
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumLucidumOfUncalCA3
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLucidumOfUncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a CA3 stratum lucidum. Is part of the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034870) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034870#stratum-lucidum-of-uncal-ca3
+   :name: stratum lucidum of uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034870
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfCaudalCA1
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfCaudalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034801) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034801#stratum-oriens-of-caudal-ca1
+   :name: stratum oriens of caudal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034801
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfCaudalCA2
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfCaudalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034806) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034806#stratum-oriens-of-caudal-ca2
+   :name: stratum oriens of caudal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034806
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfCaudalCA3
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfCaudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034812) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034812#stratum-oriens-of-caudal-ca3
+   :name: stratum oriens of caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034812
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfRostralCA1
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfRostralCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034831) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034831#stratum-oriens-of-rostral-ca1
+   :name: stratum oriens of rostral CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034831
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfRostralCA2
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfRostralCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034836) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034836#stratum-oriens-of-rostral-ca2
+   :name: stratum oriens of rostral CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034836
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfRostralCA3
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfRostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034842) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034842#stratum-oriens-of-rostral-ca3
+   :name: stratum oriens of rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034842
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfUncalCA1
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfUncalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034861) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034861#stratum-oriens-of-uncal-ca1
+   :name: stratum oriens of uncal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034861
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfUncalCA2
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfUncalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034866) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034866#stratum-oriens-of-uncal-ca2
+   :name: stratum oriens of uncal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034866
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOriensOfUncalCA3
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOriensOfUncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034872) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034872#stratum-oriens-of-uncal-ca3
+   :name: stratum oriens of uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034872
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfCaudalCA1
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034800) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034800#stratum-pyramidale-of-caudal-ca1
+   :name: stratum pyramidale of caudal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034800
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfCaudalCA2
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034805) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034805#stratum-pyramidale-of-caudal-ca2
+   :name: stratum pyramidale of caudal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034805
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfCaudalCA3
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034811) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034811#stratum-pyramidale-of-caudal-ca3
+   :name: stratum pyramidale of caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034811
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfRostralCA1
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfRostralCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034830) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034830#stratum-pyramidale-of-rostral-ca1
+   :name: stratum pyramidale of rostral CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034830
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfRostralCA2
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfRostralCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034835) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034835#stratum-pyramidale-of-rostral-ca2
+   :name: stratum pyramidale of rostral CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034835
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfRostralCA3
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfRostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034841) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034841#stratum-pyramidale-of-rostral-ca3
+   :name: stratum pyramidale of rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034841
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfUncalCA1
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfUncalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034860) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034860#stratum-pyramidale-of-uncal-ca1
+   :name: stratum pyramidale of uncal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034860
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfUncalCA2
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfUncalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034865) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034865#stratum-pyramidale-of-uncal-ca2
+   :name: stratum pyramidale of uncal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034865
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPyramidaleOfUncalCA3
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPyramidaleOfUncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034871) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034871#stratum-pyramidale-of-uncal-ca3
+   :name: stratum pyramidale of uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034871
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfCaudalCA1
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfCaudalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034799) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034799#stratum-radiatum-of-caudal-ca1
+   :name: stratum radiatum of caudal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034799
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfCaudalCA2
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfCaudalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034804) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034804#stratum-radiatum-of-caudal-ca2
+   :name: stratum radiatum of caudal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034804
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfCaudalCA3
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfCaudalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034809) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034809#stratum-radiatum-of-caudal-ca3
+   :name: stratum radiatum of caudal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034809
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfRostralCA1
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfRostralCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034829) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034829#stratum-radiatum-of-rostral-ca1
+   :name: stratum radiatum of rostral CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034829
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfRostralCA2
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfRostralCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034834) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034834#stratum-radiatum-of-rostral-ca2
+   :name: stratum radiatum of rostral CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034834
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfRostralCA3
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfRostralCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034839) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034839#stratum-radiatum-of-rostral-ca3
+   :name: stratum radiatum of rostral CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034839
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfUncalCA1
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfUncalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034859) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034859#stratum-radiatum-of-uncal-ca1
+   :name: stratum radiatum of uncal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034859
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfUncalCA2
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfUncalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034864) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034864#stratum-radiatum-of-uncal-ca2
+   :name: stratum radiatum of uncal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034864
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumRadiatumOfUncalCA3
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumRadiatumOfUncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034869) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034869#stratum-radiatum-of-uncal-ca3
+   :name: stratum radiatum of uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034869
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22390,6 +23692,54 @@ tuberomammillaryNucleusVentralPart
 
 ------------
 
+uncalCA1
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncalCA1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034774) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034774#uncal-ca1
+   :name: uncal CA1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034774
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+uncalCA2
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncalCA2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034775) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034775#uncal-ca2
+   :name: uncal CA2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034775
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+uncalCA3
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncalCA3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034776) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034776#uncal-ca3
+   :name: uncal CA3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034776
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 uncinateFasciculus
 ------------------
 
@@ -22437,6 +23787,23 @@ uncrossedTectoBulbarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000296#uncrossed-tecto-bulbar-tract
    :name: uncrossed tecto-bulbar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000296
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+uncusOfParahippocampalGyrus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/uncusOfParahippocampalGyrus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034773) ('is_a' and 'relationship')]
+   :description: The anterior extremity of the Parahippocampal gyrus is recurved in the form of a hook, the uncus, which is separated from the apex of the temporal lobe by a slight fissure, the incisura temporalis. Although superficially continuous with the hippocampal gyrus, the uncus forms morphologically a part of the rhinencephalon. The term uncus was coined by Felix Vicq dbAzyr (1748b1794). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034773)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034773#uncus-of-parahippocampal-gyrus
+   :name: uncus of parahippocampal gyrus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034773
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
