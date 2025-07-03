@@ -8,6 +8,86 @@ Related schema specification: `ParcellationEntityVersion <https://openminds-docu
 
 ------------
 
+SwansonBM_3rd-ed_AmmonsHornNoguez
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_AmmonsHornNoguez
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: CA
+   :lookupLabel: SwansonBM_3rd-ed_AmmonsHornNoguez
+   :name: Ammon’s horn [Noguez]
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_BarringtonsNucleus
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_BarringtonsNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: B
+   :lookupLabel: SwansonBM_3rd-ed_BarringtonsNucleus
+   :name: Barrington’s nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_EdingerWestphalNucleus
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_EdingerWestphalNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: EW
+   :lookupLabel: SwansonBM_3rd-ed_EdingerWestphalNucleus
+   :name: Edinger-Westphal nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: KF
+   :lookupLabel: SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+   :name: Kölliker-Fuse subnucleus (of PB)
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_OnufsNucleus
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_OnufsNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: ON
+   :lookupLabel: SwansonBM_3rd-ed_OnufsNucleus
+   :name: Onuf’s nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
 SwansonBM_3rd-ed_abducensNerveEustachius
 ----------------------------------------
 
@@ -290,22 +370,6 @@ SwansonBM_3rd-ed_alveusBurdach
    :abbreviation: alv
    :lookupLabel: SwansonBM_3rd-ed_alveusBurdach
    :name: alveus [Burdach]
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
-SwansonBM_3rd-ed_ammonsHornNoguez
----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_AmmonsHornNoguez
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: CA
-   :lookupLabel: SwansonBM_3rd-ed_AmmonsHornNoguez
-   :name: Ammon’s horn [Noguez]
    :versionIdentifier: 3rd ed.
 
 `BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
@@ -1266,22 +1330,6 @@ SwansonBM_3rd-ed_autonomicNervousSystemLangley
    :abbreviation: ANS
    :lookupLabel: SwansonBM_3rd-ed_autonomicNervousSystemLangley
    :name: autonomic nervous system [Langley]
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
-SwansonBM_3rd-ed_barringtonsNucleus
------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_BarringtonsNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: B
-   :lookupLabel: SwansonBM_3rd-ed_BarringtonsNucleus
-   :name: Barrington’s nucleus
    :versionIdentifier: 3rd ed.
 
 `BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
@@ -4504,22 +4552,6 @@ SwansonBM_3rd-ed_ectorhinalArea
 
 ------------
 
-SwansonBM_3rd-ed_edingerWestphalNucleus
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_EdingerWestphalNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: EW
-   :lookupLabel: SwansonBM_3rd-ed_EdingerWestphalNucleus
-   :name: Edinger-Westphal nucleus
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_efferentCochlearGroup
 --------------------------------------
 
@@ -7042,22 +7074,6 @@ SwansonBM_3rd-ed_juxtarestiformBody
    :abbreviation: jrb
    :lookupLabel: SwansonBM_3rd-ed_juxtarestiformBody
    :name: juxtarestiform body
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
-SwansonBM_3rd-ed_kollikerFuseSubnucleusOfPB
--------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: KF
-   :lookupLabel: SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
-   :name: Kölliker-Fuse subnucleus (of PB)
    :versionIdentifier: 3rd ed.
 
 `BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
@@ -11241,22 +11257,6 @@ SwansonBM_3rd-ed_olivocerebellarTract
    :abbreviation: oct
    :lookupLabel: SwansonBM_3rd-ed_olivocerebellarTract
    :name: olivocerebellar tract
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
-SwansonBM_3rd-ed_onufsNucleus
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_OnufsNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: ON
-   :lookupLabel: SwansonBM_3rd-ed_OnufsNucleus
-   :name: Onuf’s nucleus
    :versionIdentifier: 3rd ed.
 
 `BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_

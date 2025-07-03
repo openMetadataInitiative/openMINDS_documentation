@@ -2638,24 +2638,7 @@ bloodBrainBarrier
 
 ------------
 
-bloodNerveBarrier
------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodNerveBarrier
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209) ('is_a' and 'relationship')]
-   :description: Barrier between the perineurium of peripheral nerves and the vascular endothelium of endoneurial capillaries. The perineurium acts as a diffusion barrier, but ion permeability at the blood-nerve barrier is still higher than at the blood-brain barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209)]
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003209#blood-nerve-barrier
-   :name: blood nerve barrier
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003209
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-bloodcerebrospinalFluidBarrier
+bloodCerebrospinalFluidBarrier
 ------------------------------
 
 .. admonition:: metadata sheet
@@ -2668,6 +2651,23 @@ bloodcerebrospinalFluidBarrier
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003210#blood-cerebrospinal-fluid-barrier
    :name: blood-cerebrospinal fluid barrier
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003210
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+bloodNerveBarrier
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodNerveBarrier
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209) ('is_a' and 'relationship')]
+   :description: Barrier between the perineurium of peripheral nerves and the vascular endothelium of endoneurial capillaries. The perineurium acts as a diffusion barrier, but ion permeability at the blood-nerve barrier is still higher than at the blood-brain barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003209#blood-nerve-barrier
+   :name: blood nerve barrier
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003209
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2938,7 +2938,7 @@ brainVentricle
 
 ------------
 
-brainVentriclechoroidPlexus
+brainVentricleChoroidPlexus
 ---------------------------
 
 .. admonition:: metadata sheet
@@ -8665,7 +8665,7 @@ habenuloInterpeduncularTract
 
 ------------
 
-habenulointerpeduncularTractOfDiencephalon
+habenuloInterpeduncularTractOfDiencephalon
 ------------------------------------------
 
 .. admonition:: metadata sheet
@@ -8682,7 +8682,7 @@ habenulointerpeduncularTractOfDiencephalon
 
 ------------
 
-habenulointerpeduncularTractOfMidbrain
+habenuloInterpeduncularTractOfMidbrain
 --------------------------------------
 
 .. admonition:: metadata sheet

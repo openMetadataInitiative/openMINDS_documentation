@@ -719,8 +719,8 @@ parvalbuminExpressingNeuron
 
 ------------
 
-potmitoticCell
---------------
+postmitoticCell
+---------------
 
 .. admonition:: metadata sheet
 

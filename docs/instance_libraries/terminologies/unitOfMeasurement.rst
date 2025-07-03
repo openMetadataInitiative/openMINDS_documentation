@@ -32,6 +32,7 @@ arcdegree
    :@type: https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement
    :definition: An arcdegree is a measurement of a plane angle in which one full rotation is 360 degrees.
    :name: arcdegree
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UO_0000185
 
 `BACK TO TOP <Terminologies: UnitOfMeasurement library_>`_
 
