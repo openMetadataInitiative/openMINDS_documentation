@@ -2166,7 +2166,7 @@ application_vnd.meshview+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.meshview+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)
-   :name: application_vnd.meshview+json
+   :name: application/vnd.meshview+json
    :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
