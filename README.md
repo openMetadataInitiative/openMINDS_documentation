@@ -21,7 +21,7 @@ If you want to contribute please follow our :arrow_right: [**contribution guidel
 ## Development
 
 This repository has two main branches: `pipeline` and `main`.
-The `main` contains logos, documentation not version specific (e.g., `contribution guidelines`...), readthedocs configuration file and examples of using openMINDS.
+The `main` contains logos, not version specific documentation (e.g., `contribution guidelines`...), Read-the-Docs configuration file and examples of using openMINDS.
 The `pipeline` contains the code for building the documentation from the openMINDS schemas (i.e., `Schema specifications`), instances (i.e., `Instance libraries`) and `main`.
 The build process is triggered by changes to the schemas and instances, and runs as a GitHub action.
 
