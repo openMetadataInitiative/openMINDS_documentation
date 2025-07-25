@@ -38,6 +38,21 @@ callithrixJacchus
 
 ------------
 
+cervusElaphus
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/species/cervusElaphus
+   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :definition: The species *Cervus elaphus* (red deer) belongs to the family of *cervidae* (deers).
+   :name: Cervus elaphus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9860
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 chlorocebusAethiopsSabaeus
 --------------------------
 
