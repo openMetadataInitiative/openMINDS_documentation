@@ -485,6 +485,23 @@ CA4FieldOfHippocampus
 
 ------------
 
+GruenebergGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/GruenebergGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013208)]
+   :description: An olfactory ganglion at the entrance of the nose of mammals that is involved in the detection of alarm pheromones and cold temperatures. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013208)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013208#grueneberg-ganglion
+   :name: Grueneberg ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013208
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 HenlesFiberLayer
 ----------------
 
@@ -635,6 +652,40 @@ PurkinjeCellLayerValvulaCerebelli
 
 ------------
 
+abdominalGanglion
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/abdominalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trunk ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009758)]
+   :description: A ganglion that is part of a abdominal segment of trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009758)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009758#abdominal-ganglion
+   :name: abdominal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009758
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+abdominalGanglionOfVisceralHump
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/abdominalGanglionOfVisceralHump
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008964)]
+   :description: An unpaired knot of nerves in The visceral sacs that innervates the pallial organs as well as the inner organs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008964)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008964#abdominal-ganglion-of-visceral-hump
+   :name: abdominal ganglion of visceral hump
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008964
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 abducensNucleus
 ---------------
 
@@ -683,6 +734,23 @@ accessoryBasalAmygdaloidNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1
    :name: accessory basal amygdaloid nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002885
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+accessoryCiliaryGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/accessoryCiliaryGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035776)]
+   :description: A parasympathetic ganglion located on the short ciliary nerve differentiated from the main ciliary ganglion by virtue of the fact that it had no root derived directly from the inferior trunk of the oculomotor nerve and it never attaches to this nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035776)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035776#accessory-ciliary-ganglion
+   :name: accessory ciliary ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035776
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -868,6 +936,22 @@ accessoryOpticTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035595#accessory-optic-tract
    :name: accessory optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035595
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+acousticoFacialVIIVIIIGanglionComplex
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/acousticoFacialVIIVIIIGanglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012175)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012175#acoustico-facial-vii-viii-ganglion-complex
+   :name: acoustico-facial VII-VIII ganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012175
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1469,6 +1553,23 @@ anteriorHypothalamicRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002550#anterior-hypothalamic-region-1
    :name: anterior hypothalamic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002550
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorLateralLineGanglion
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/anteriorLateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001391)]
+   :description: The anteror lateral line ganglia develops from cranial ectodermal placodes and contain sensory neurons that innervate the anterior lateral line system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001391)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001391#anterior-lateral-line-ganglion
+   :name: anterior lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001391
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2308,8 +2409,8 @@ areaXOfBasalGanglion
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/areaXOfBasalGanglion
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Area X of basal ganglion' is a nucleus of brain. It is part of the basal ganglion.
-   :description: A nucleus in the basal ganglion of songbirds.
+   :definition: Is a nucleus of brain. Is part of the basal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035807) ('is_a' and 'relationship')]
+   :description: A nucleus in the basal ganglion of songbirds. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035807)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731535
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035807#area-x-of-basal-ganglion
    :name: area X of basal ganglion
@@ -2385,6 +2486,23 @@ auditoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex
    :name: auditory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001393
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+autonomicGanglion
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/autonomicGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion of peripheral nervous system. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805) ('is_a' and 'relationship')]
+   :description: Ganglion that has dendrites that form a junction between autonomic nerves originating from the central nervous system and autonomic nerves innervating their target organs in the periphery. There are two subtypes, sympathetic ganglion and parasympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001805#autonomic-ganglion
+   :name: autonomic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001805
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -2486,8 +2604,8 @@ basalGanglion
 
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/basalGanglion
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Basal ganglion' is a brain gray matter and nuclear complex of neuraxis. It is part of the collection of basal ganglia.
-   :description: An individual member of a collection of basal ganglia. Basal ganglia are subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum[NIF,modified].
+   :definition: Is a brain gray matter and nuclear complex of neuraxis. Is part of the collection of basal ganglia. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002420) ('is_a' and 'relationship')]
+   :description: An individual member of a collection of basal ganglia. Basal ganglia are subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002420)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729164
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002420#basal-ganglion
    :name: basal ganglion
@@ -3162,6 +3280,23 @@ capsuleOfRedNucleus
 
 ------------
 
+cardiacGanglion
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cardiacGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014463)]
+   :description: Any of the parasympathetic ganglia of the cardiac plexus between the arch of the aorta and the bifurcation of the pulmonary artery. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014463)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014463#cardiac-ganglion
+   :name: cardiac ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014463
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 caudalAnteriorCingulateCortex
 -----------------------------
 
@@ -3257,6 +3392,23 @@ caudalCerebellarTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000174#caudal-cerebellar-tract
    :name: caudal cerebellar tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000174
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+caudalGanglionicEminence
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalGanglionicEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004026) ('is_a' and 'relationship')]
+   :description: The caudally located, distinct elevation of a transient proliferating cell mass of the fetal subventricular zone, located adjacent to the lateral ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004026)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004026#caudal-ganglionic-eminence
+   :name: caudal ganglionic eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004026
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3399,6 +3551,23 @@ caudateputamen
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005383#caudoputamen
    :name: caudate-putamen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005383
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+celiacGanglion
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/celiacGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a prevertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002262)]
+   :description: The celiac ganglia are two large irregularly shaped masses of nerve tissue in the upper abdomen. Part of the sympathetic subdivision of the autonomic nervous system (ANS), the two celiac ganglia are the largest ganglia in the ANS, and they innervate most of the digestive tract. They have the appearance of lymph glands and are placed on either side of the midline in front of the crura of the diaphragm, close to the suprarenal glands (also called adrenal glands). The ganglion on the right side is placed behind the inferior vena cava. They are sometimes referred to as the semilunar ganglia or the solar ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002262)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002262#celiac-ganglion
+   :name: celiac ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002262
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -4796,6 +4965,56 @@ cerebrocerebellum
 
 ------------
 
+cervicalDorsalRootGanglion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002834)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002834#cervical-dorsal-root-ganglion-1
+   :name: cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002834
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalGanglion
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paravertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001991)]
+   :description: The cervical ganglia are paravertebral ganglia of the sympathetic nervous system. They consist of three paravertebral ganglia: superior cervical ganglion middle cervical ganglion inferior cervical ganglion. The inferior ganglion may be fused with the first thoracic ganglion to form a single structure, the stellate ganglion. Nerves emerging from cervical sympathetic ganglia contribute to the cardiac plexus, among other things. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001991)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001991#cervical-ganglion
+   :name: cervical ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001991
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicothoracicGanglion
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicothoracicGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002441)]
+   :description: The group of neurons formed by the fusion of the inferior cervical and first thoracic ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002441)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002441#cervicothoracic-ganglion
+   :name: cervicothoracic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002441
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 chemoarchitecturalPartOfBrain
 -----------------------------
 
@@ -5144,6 +5363,23 @@ claustrumOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002023#claustrum
    :name: claustrum of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002023
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cochlearGanglion
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cochlearGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. Is part of the vestibulocochlear ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000395) ('is_a' and 'relationship')]
+   :description: The group of nerve cell bodies that conveys auditory sensation from the organ of Corti to the hindbrain and resides on the cochlear part of the vestibulocochlear nerve (eighth cranial nerve). distributed to the hair cells of the spiral organ. The cochlear fibers arise in bipolar cells in the spiral ganglion in the modiolus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000395)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000395#cochlear-ganglion
+   :name: cochlear ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000395
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5762,6 +5998,23 @@ corticotectalTract
 
 ------------
 
+cranialGanglion
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cranialGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001714)]
+   :description: The groups of nerve cell bodies associated with the twelve cranial nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001714)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001714#cranial-ganglion-part-of-peripheral-nervous-system
+   :name: cranial ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001714
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cranialNerveII
 --------------
 
@@ -5774,6 +6027,23 @@ cranialNerveII
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000941#optic-nerve
    :name: cranial nerve II
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000941
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cranialSensoryGanglion
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cranialSensoryGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]
+   :description: The ganglion found on the root of each cranial nerve, containing the cell bodies of afferent (sensory) neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009992#cranial-sensory-ganglion
+   :name: cranial sensory ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009992
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6433,6 +6703,22 @@ dorsalAcousticStria
 
 ------------
 
+dorsalAnteriorLateralLineGanglion
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalAnteriorLateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anterior lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001312)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001312#dorsal-anterior-lateral-line-ganglion
+   :name: dorsal anterior lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001312
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsalAuditoryArea
 ------------------
 
@@ -6566,6 +6852,23 @@ dorsalHypothalamicArea
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002954#dorsal-hypothalamic-area-1
    :name: dorsal hypothalamic area
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002954
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalLateralGanglionicEminence
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalLateralGanglionicEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the lateral ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018264) ('is_a' and 'relationship')]
+   :description: The dorsal region of the lateral ganglionic eminence. The cells in this area give rise to embryonic interneuron precursors that will migrate tangentially to the olfactory bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018264)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018264#dorsal-lateral-ganglionic-eminence
+   :name: dorsal lateral ganglionic eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018264
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6835,6 +7138,23 @@ dorsalRapheNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002043#dorsal-raphe-nucleus-1
    :name: dorsal raphe nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002043
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalRootGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000044)]
+   :description: Sensory ganglia located on the dorsal spinal roots within the vertebral column. The spinal ganglion cells are pseudounipolar. The single primary branch bifurcates sending a peripheral process to carry sensory information from the periphery and a central branch which relays that information to the spinal cord or brain. (MSH) * ganglion found on the posterior root of each spinal nerve, composed of the unipolar nerve cell bodies of the sensory neurons of the nerve. (CSP) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000044)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000044#dorsal-root-ganglion-1
+   :name: dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000044
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7203,6 +7523,38 @@ ectosylvianSulcus
 
 ------------
 
+eighthCervicalDorsalRootGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/eighthCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002844)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002844#eighth-cervical-dorsal-root-ganglion-1
+   :name: eighth cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002844
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+eighthThoracicDorsalRootGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/eighthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002851)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002851#eighth-thoracic-dorsal-root-ganglion-1
+   :name: eighth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002851
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 electrosensoryLateralLineLobe
 -----------------------------
 
@@ -7215,6 +7567,22 @@ electrosensoryLateralLineLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002105#electrosensory-lateral-line-lobe
    :name: electrosensory lateral line lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002105
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+eleventhThoracicDorsalRootGanglion
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/eleventhThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002854)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002854#eleventh-thoracic-dorsal-root-ganglion-1
+   :name: eleventh thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002854
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7285,6 +7653,22 @@ endothelialBloodBrainBarrier
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000201#endothelial-blood-brain-barrier
    :name: endothelial blood brain barrier
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000201
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+entericGanglion
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/entericGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a parasympathetic ganglion. Is part of the enteric nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001809) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001809#enteric-ganglion
+   :name: enteric ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001809
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7409,6 +7793,23 @@ entorhinalCortexLayer6
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022329#entorhinal-cortex-layer-6
    :name: entorhinal cortex layer 6
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022329
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+epibranchialGanglion
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/epibranchialGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009127)]
+   :description: Cranial ganglion which develops from an epibranchial placode. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009127)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009127#epibranchial-ganglion
+   :name: epibranchial ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009127
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7621,6 +8022,22 @@ facialNerveRoot
 
 ------------
 
+facioAcousticVIIVIIIPreganglionComplex
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/facioAcousticVIIVIIIPreganglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006232) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006232#facio-acoustic-vii-viii-preganglion-complex
+   :name: facio-acoustic VII-VIII preganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006232
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 fasciculusOfBrain
 -----------------
 
@@ -7670,6 +8087,135 @@ fastigialNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002153#fastigial-nucleus-1
    :name: fastigial nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002153
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fifthCervicalDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002842)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002842#fifth-cervical-dorsal-root-ganglion-1
+   :name: fifth cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002842
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fifthLumbarDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthLumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002859)]
+   :description: The group of nerve cell bodies located on the dorsal spinal roots within the vertebral column at the level of the fifth lumbar vertebra. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002859)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002859#fifth-lumbar-dorsal-root-ganglion-1
+   :name: fifth lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002859
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fifthSacralDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthSacralDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002863)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002863#fifth-sacral-dorsal-root-ganglion-1
+   :name: fifth sacral dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002863
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fifthThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002848)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002848#fifth-thoracic-dorsal-root-ganglion-1
+   :name: fifth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002848
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+firstCervicalDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002838)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002838#first-cervical-dorsal-root-ganglion-1
+   :name: first cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002838
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+firstLumbarDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstLumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002857)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002857#first-lumbar-dorsal-root-ganglion-1
+   :name: first lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002857
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+firstSacralDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstSacralDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002860)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002860#first-sacral-dorsal-root-ganglion-1
+   :name: first sacral dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002860
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+firstThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002845)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002845#first-thoracic-dorsal-root-ganglion-1
+   :name: first thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002845
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7860,6 +8406,71 @@ fornixOfBrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000052#fornix
    :name: fornix of brain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000052
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthCervicalDorsalRootGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002841)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002841#fourth-cervical-dorsal-root-ganglion-1
+   :name: fourth cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002841
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthLumbarDorsalRootGanglion
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthLumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003943)]
+   :description: The group of nerve cell bodies located on the dorsal spinal roots within the vertebral column at the level of the fourth lumbar vertebra. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003943)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003943#forth-lumbar-dorsal-root-ganglion
+   :name: fourth lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003943
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthSacralSpinalGanglion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthSacralSpinalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007713)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007713#forth-sacral-dorsal-root-ganglion
+   :name: fourth sacral spinal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007713
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthThoracicSpinalGanglion
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthThoracicSpinalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007712)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007712#fourth-thoracic-dorsal-root-ganglion
+   :name: fourth thoracic spinal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007712
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8253,6 +8864,56 @@ futureMyelencephalon
 
 ------------
 
+ganglionicEminence
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ganglionicEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004023) ('is_a' and 'relationship')]
+   :description: The transient proliferative population of neurons that expands exponentially during late prenatal development; it is a continuous germinal zone distinct from the ventricular zone that surrounds the brain ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004023)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004023#ganglionic-eminence
+   :name: ganglionic eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004023
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+gasserianGanglion
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gasserianGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3011045)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3011045#gasserian-ganglion
+   :name: gasserian ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3011045
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+gastropodCerebralGanglion
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gastropodCerebralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008942)]
+   :description: The cerebral ganglia are primarily sensual centres, that compute information from the eyes as well as from the tactile and position sensors (statocystes). Besides coordination they also serve the locational memory of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008942)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008942#gastropod-cerebral-ganglion
+   :name: gastropod cerebral ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008942
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 gelatinousLayerOfStatoconialMembrane
 ------------------------------------
 
@@ -8264,6 +8925,23 @@ gelatinousLayerOfStatoconialMembrane
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016568#gelatinous-layer-of-statoconial-membrane
    :name: gelatinous layer of statoconial membrane
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016568
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+geniculateGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/geniculateGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sensory ganglion and epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001700)]
+   :description: The group of sensory neuron cell bodies associated with the facial nerve (seventh cranial nerve) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001700)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001700#geniculate-ganglion
+   :name: geniculate ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001700
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8322,6 +9000,39 @@ globusPallidus
 
 ------------
 
+glossopharyngealGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001701)]
+   :description: The group of neuron cell bodies associated with the ninth cranial nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001701)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001701#glossopharyngeal-ganglion
+   :name: glossopharyngeal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001701
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+glossopharyngealIXPreganglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealIXPreganglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006243) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006243#glossopharyngeal-ix-preganglion
+   :name: glossopharyngeal IX preganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006243
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 glossopharyngealLobe
 --------------------
 
@@ -8368,6 +9079,38 @@ glossopharyngealNerveRoot
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019310#glossopharyngeal-nerve-root-1
    :name: glossopharyngeal nerve root
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019310
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+glossopharyngealVagusIXXGanglionComplex
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealVagusIXXGanglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013500)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013500#glossopharyngeal-vagus-ix-x-ganglion-complex
+   :name: glossopharyngeal-vagus IX-X ganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013500
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+glossopharyngealVagusIXXPreganglionComplex
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/glossopharyngealVagusIXXPreganglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013499) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013499#glossopharyngeal-vagus-ix-x-preganglion-complex
+   :name: glossopharyngeal-vagus IX-X preganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013499
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9375,6 +10118,23 @@ inferiorCerebralVein
 
 ------------
 
+inferiorCervicalGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorCervicalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002440)]
+   :description: The inferior cervical ganglion is situated between the base of the transverse process of the last cervical vertebra and the neck of the first rib, on the medial side of the costocervical artery. Its form is irregular; it is larger in size than the middle cervical ganglion, and is frequently fused with the first thoracic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002440)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002440#inferior-cervical-ganglion
+   :name: inferior cervical ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002440
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 inferiorColliculus
 ------------------
 
@@ -9423,6 +10183,23 @@ inferiorFrontalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002761#inferior-frontal-sulcus-1
    :name: inferior frontal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002761
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorGlossopharyngealIXGanglion
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorGlossopharyngealIXGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a glossopharyngeal ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005360)]
+   :description: The lower group of sensory neuron cell bodies associated with the glossopharyngeal nerve. It is situated in a depression in the lower border of the petrous portion of the temporal bone. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005360)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005360#inferior-glossopharyngeal-ix-ganglion
+   :name: inferior glossopharyngeal IX ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005360
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9491,6 +10268,23 @@ inferiorLongitudinalFasciculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034743#inferior-longitudinal-fasciculus
    :name: inferior longitudinal fasciculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034743
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorMesentericGanglion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorMesentericGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a mesenteric ganglion. Is part of the inferior mesenteric nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005453) ('is_a' and 'relationship')]
+   :description: A ganglion located near where the inferior mesenteric artery branches from the abdominal aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005453)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005453#inferior-mesenteric-ganglion
+   :name: inferior mesenteric ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005453
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9610,6 +10404,22 @@ inferiorParietalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026723#inferior-parietal-sulcus-1
    :name: inferior parietal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026723
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorPartOfVestibularGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorPartOfVestibularGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the vestibular ganglion. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002826)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002826#inferior-part-of-vestibular-ganglion-1
+   :name: inferior part of vestibular ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002826
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9759,6 +10569,23 @@ inferiorTransverseFrontopolarGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024183#inferior-transverse-frontopolar-gyrus-1
    :name: inferior transverse frontopolar gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024183
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorVagusXGanglion
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorVagusXGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]
+   :description: The large group of sensory neuron cell bodies, anterior to the jugular vein, associated with the vagus nerve (tenth cranial nerve) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005363#inferior-vagus-x-ganglion
+   :name: inferior vagus X ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005363
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10637,6 +11464,23 @@ lateralForebrainBundleTelencephalon
 
 ------------
 
+lateralGanglionicEminence
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGanglionicEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004025) ('is_a' and 'relationship')]
+   :description: A distinct elevation of a transient proliferating cell mass of the fetal subventricular zone; this mass contributes most of its cells to the striatum; however, neocortex, thalamus, septum and olfactory bulb neurons are also partly derived from the LGE. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004025)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004025#lateral-ganglionic-eminence
+   :name: lateral ganglionic eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004025
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralGeniculateBody
 ---------------------
 
@@ -10756,6 +11600,23 @@ lateralLemniscus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002953#lateral-lemniscus-1
    :name: lateral lemniscus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002953
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralLineGanglion
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000120)]
+   :description: Ganglion that develops from a cranial ectodermal placode and contains sensory neurons that innervate a lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000120)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000120#lateral-line-ganglion
+   :name: lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000120
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11887,6 +12748,23 @@ lowerRhombicLip
 
 ------------
 
+lumbarDorsalRootGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002836)]
+   :description: The group of nerve cell bodies located on the dorsal spinal roots within the vertebral column at the level of the lumbar vertebrae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002836)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002836#lumbar-dorsal-root-ganglion-1
+   :name: lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002836
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lunateSulcus
 ------------
 
@@ -11989,6 +12867,23 @@ magnocellularPreopticNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000248#magnocellular-preoptic-nucleus
    :name: magnocellular preoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000248
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+mainCiliaryGanglion
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mainCiliaryGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion and ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002058)]
+   :description: A parasympathetic ganglion located in the posterior orbit that contains preganglionic nerves and postganglionic neurons of the oculomotor nerve, connects to the Edinger-Westphal nucleus via the oculomotor nerve and the eye muscles via the short ciliary nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002058)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002058#main-ciliary-ganglion
+   :name: main ciliary ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002058
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12239,6 +13134,22 @@ matrixPartOfTailOfCaudateNucleus
 
 ------------
 
+maxillomandibularPartOfTrigeminalGanglionComplex
+------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/maxillomandibularPartOfTrigeminalGanglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. Is part of the trigeminal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035601) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035601#maxillomandibular-part-of-trigeminal-ganglion-complex
+   :name: maxillomandibular part of trigeminal ganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035601
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialAccessoryOlive
 --------------------
 
@@ -12355,6 +13266,23 @@ medialForebrainBundleTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000910#medial-forebrain-bundle-telencephalon
    :name: medial forebrain bundle telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000910
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialGanglionicEminence
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/medialGanglionicEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004024) ('is_a' and 'relationship')]
+   :description: A distinct elevation of a transient proliferating cell mass of the fetal subventricular zone; this mass contributes most of its cells to the neocortex; however, hippocampal neurons, thalamus, septum and olfactory bulb neurons are also partly derived from the MGE. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004024)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004024#medial-ganglionic-eminence
+   :name: medial ganglionic eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004024
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13243,6 +14171,22 @@ mesencephalicTractOfTrigeminalNerve
 
 ------------
 
+mesentericGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/mesentericGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a prevertebral ganglion. Is part of the mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035769) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035769#mesenteric-ganglion
+   :name: mesenteric ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035769
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 metathalamus
 ------------
 
@@ -13457,6 +14401,23 @@ middleCerebellarPeduncle
 
 ------------
 
+middleCervicalGanglion
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/middleCervicalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001990)]
+   :description: The small ganglion located at the level of the cricoid cartilage of the laryngeal wall. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001990)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001990#middle-cervical-ganglion
+   :name: middle cervical ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001990
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 middleFrontalGyrus
 ------------------
 
@@ -13502,6 +14463,23 @@ middleGrayLayerOfSuperiorColliculus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006788#middle-gray-layer-of-superior-colliculus
    :name: middle gray layer of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006788
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+middleLateralLineGanglion
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/middleLateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001483)]
+   :description: The middle lateral line ganglion develops from a cranial ectodermal placode and contains sensory neurons that innervate the middle lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001483)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001483#middle-lateral-line-ganglion
+   :name: middle lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001483
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13900,6 +14878,22 @@ nigrostriatalTract
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014169#nigrostriatal-tract-1
    :name: nigrostriatal tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014169
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ninthThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ninthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002852)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002852#ninth-thoracic-dorsal-root-ganglion-1
+   :name: ninth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002852
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15095,6 +16089,23 @@ orbitofrontalCortex
 
 ------------
 
+oticGanglion
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/oticGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a glossopharyngeal ganglion and parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003963)]
+   :description: The ganglion that supplies nerve fibers to the parotid gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003963)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003963#otic-ganglion
+   :name: otic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003963
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 otolithOrgan
 ------------
 
@@ -15492,6 +16503,23 @@ parasubiculum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004683#parasubiculum-1
    :name: parasubiculum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004683
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+parasympatheticGanglion
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parasympatheticGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic ganglion. Is part of the parasympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001808) ('is_a' and 'relationship')]
+   :description: Ganglion containing neurons that receive innervation from parasympathetic neurons in the central nervous system and subserves parasympathetic functions through innervation of smooth muscle, cardiac muscle and glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001808)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001808#parasympathetic-ganglion
+   :name: parasympathetic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001808
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15994,6 +17022,23 @@ paravermisPartsOfTheCerebellarCortex
 
 ------------
 
+paravertebralGanglion
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/paravertebralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sympathetic ganglion and trunk ganglion. Is part of the sympathetic trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807) ('is_a' and 'relationship')]
+   :description: Trunk ganglion which is part of a bilaterally paired set of sympathetic ganglia located anterior and lateral to the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001807#paravertebral-ganglion
+   :name: paravertebral ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001807
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 parietalCortex
 --------------
 
@@ -16007,6 +17052,23 @@ parietalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016530#parietal-cortex
    :name: parietal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016530
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+parietalGanglion
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/parietalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008940)]
+   :description: A lateral ganglion that innervates pallial cavity, gills and skin of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008940)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008940#parietal-ganglion
+   :name: parietal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008940
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16209,6 +17271,23 @@ parvocellularPartOfRedNucleus
 
 ------------
 
+pedalGanglion
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pedalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008939)]
+   :description: The pedal ganglia mainly are necessary for coordination of locomotion of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008939)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008939#pedal-ganglion
+   :name: pedal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008939
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 peduncleOfDiencephalon
 ----------------------
 
@@ -16238,6 +17317,22 @@ pedunculopontineTegmentalNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002142#pedunculopontine-tegmental-nucleus-1
    :name: pedunculopontine tegmental nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002142
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pelvicGanglion
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pelvicGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a prevertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016508)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016508#pelvic-ganglion
+   :name: pelvic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016508
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16664,6 +17759,23 @@ planumPolare
 
 ------------
 
+pleuralGanglion
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pleuralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008941)]
+   :description: A knot of nerves in The pallial cavity that innervates the mantle of a snail. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008941)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008941#pleural-ganglion
+   :name: pleural ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008941
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 pons
 ----
 
@@ -17012,6 +18124,23 @@ posteriorHypothalamicRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002770#posterior-hypothalamic-region-1
    :name: posterior hypothalamic region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002770
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+posteriorLateralLineGanglion
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/posteriorLateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001314)]
+   :description: The posterior lateral line ganglion develops from a cranial ectodermal placode and contains sensory neurons that innervate the posterior lateral line system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001314)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001314#posterior-lateral-line-ganglion
+   :name: posterior lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001314
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17592,6 +18721,57 @@ posteroventralCochlearNucleus
 
 ------------
 
+postganglionicAutonomicFiber
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postganglionicAutonomicFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trigeminal nerve fibers. Is part of the autonomic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011924) ('is_a' and 'relationship')]
+   :description: Nerve fibers which project from cell bodies of autonomic ganglia to synapses on target organs. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011924)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011924#postganglionic-autonomic-fiber
+   :name: postganglionic autonomic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011924
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+postganglionicParasympatheticFiber
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postganglionicParasympatheticFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a postganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011929) ('is_a' and 'relationship')]
+   :description: A cholinergic axonal fiber projecting from a parasympathetic ganglion to an effector organ. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011929)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011929#postganglionic-parasympathetic-fiber
+   :name: postganglionic parasympathetic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011929
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+postganglionicSympatheticFiber
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/postganglionicSympatheticFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a postganglionic autonomic fiber. Is part of the sympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011926) ('is_a' and 'relationship')]
+   :description: A noradrenergic or adrenergic axonal fiber projecting from a sympathetic ganglion to an effector organ. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011926)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011926#postganglionic-sympathetic-fiber
+   :name: postganglionic sympathetic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011926
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 postlateralSulcus
 -----------------
 
@@ -17866,6 +19046,57 @@ prefrontalCortex
 
 ------------
 
+preganglionicAutonomicFiber
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preganglionicAutonomicFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a trigeminal nerve fibers. Is part of the autonomic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011925) ('is_a' and 'relationship')]
+   :description: Nerve fibers which project from the central nervous system to autonomic ganglia. In the sympathetic division most preganglionic fibers originate with neurons in the intermediolateral column of the spinal cord, exit via ventral roots from upper thoracic through lower lumbar segments, and project to the paravertebral ganglia; there they either terminate in synapses or continue through the splanchnic nerves to the prevertebral ganglia. In the parasympathetic division the fibers originate in neurons of the brain stem and sacral spinal cord. In both divisions the principal transmitter is acetylcholine but peptide cotransmitters may also be released. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011925)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011925#preganglionic-autonomic-fiber
+   :name: preganglionic autonomic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011925
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+preganglionicParasympatheticFiber
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preganglionicParasympatheticFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a preganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011930) ('is_a' and 'relationship')]
+   :description: A cholinergic axonal fibers projecting from the CNS to a parasympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011930)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011930#preganglionic-parasympathetic-fiber
+   :name: preganglionic parasympathetic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011930
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+preganglionicSympatheticFiber
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/preganglionicSympatheticFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a preganglionic autonomic fiber. Is part of the sympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011927) ('is_a' and 'relationship')]
+   :description: A cholinergic axonal fiber projecting from the CNS to a sympathetic ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011927)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011927#preganglionic-sympathetic-fiber
+   :name: preganglionic sympathetic fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011927
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 premammillaryNucleus
 --------------------
 
@@ -18089,6 +19320,23 @@ pretectalRegion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001944#pretectal-region-1
    :name: pretectal region
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001944
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+prevertebralGanglion
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/prevertebralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003964)]
+   :description: The sympathetic ganglia located in front of the vertebral column and are associated with the major branches of the abdominal aorta; these include the celiac, aorticorenal, superior and inferior mesenteric ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003964)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003964#prevertebral-ganglion
+   :name: prevertebral ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003964
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18553,6 +19801,22 @@ principalSulcus
 
 ------------
 
+profundalPartOfTrigeminalGanglionComplex
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/profundalPartOfTrigeminalGanglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. Is part of the trigeminal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035599) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035599#profundal-part-of-trigeminal-ganglion-complex
+   :name: profundal part of trigeminal ganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035599
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 proisocortex
 ------------
 
@@ -18565,6 +19829,23 @@ proisocortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014951#proisocortex
    :name: proisocortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014951
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pterygopalatineGanglion
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/pterygopalatineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003962)]
+   :description: The small parasympathetic ganglion that supplies nerve fibers to the lacrimal, nasal, palatine and pharyngeal glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003962)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003962#pterygopalatine-ganglion
+   :name: pterygopalatine ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003962
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20056,6 +21337,22 @@ rubrospinalTract
 
 ------------
 
+sacralDorsalRootGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002837)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002837#sacral-dorsal-root-ganglion-1
+   :name: sacral dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002837
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sagittalSulcus
 --------------
 
@@ -20068,6 +21365,70 @@ sagittalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034968#sagittal-sulcus
    :name: sagittal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034968
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondCervicalDorsalRootGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002839)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002839#second-cervical-dorsal-root-ganglion-1
+   :name: second cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002839
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondLumbarDorsalRootGanglion
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondLumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002856)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002856#second-lumbar-dorsal-root-ganglion-1
+   :name: second lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002856
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondSacralDorsalRootGanglion
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondSacralDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002861)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002861#second-sacral-dorsal-root-ganglion-1
+   :name: second sacral dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002861
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondThoracicDorsalRootGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002846)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002846#second-thoracic-dorsal-root-ganglion-1
+   :name: second thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002846
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20260,6 +21621,23 @@ sensoryDissociationArea
 
 ------------
 
+sensoryGanglion
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sensoryGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]
+   :description: The clusters of neurons in the somatic peripheral nervous system which contain the cell bodies of sensory nerve axons, interneurons and non-neuronal supporting cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001800#sensory-ganglion
+   :name: sensory ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001800
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 septalNuclearComplex
 --------------------
 
@@ -20367,6 +21745,38 @@ septumPellucidum
 
 ------------
 
+seventhCervicalDorsalRootGanglion
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/seventhCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002843)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002843#seventh-cervical-dorsal-root-ganglion-1
+   :name: seventh cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002843
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+seventhThoracicDorsalRootGanglion
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/seventhThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002850)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002850#seventh-thoracic-dorsal-root-ganglion-1
+   :name: seventh thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002850
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 shellOfNucleusAccumbens
 -----------------------
 
@@ -20380,6 +21790,38 @@ shellOfNucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012171#shell-of-nucleus-accumbens-1
    :name: shell of nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012171
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sixthCervicalDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sixthCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007711)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007711#sixth-cervical-dorsal-root-ganglion-1
+   :name: sixth cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007711
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sixthThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sixthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002849)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002849#sixth-thoracic-dorsal-root-ganglion-1
+   :name: sixth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002849
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21776,6 +23218,40 @@ sublentiformNucleus
 
 ------------
 
+sublingualGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sublingualGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005407)]
+   :description: The small parasympathetic ganglion found anterior to the submandibular gland that provides postsynaptic fibers to the sublingual gland. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005407)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005407#sublingual-ganglion
+   :name: sublingual ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005407
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+submandibularGanglion
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/submandibularGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002059)]
+   :description: The ganglion associated with the lingual nerve that provides postsynaptic fibers to the submandibular and sublingual glands. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002059)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002059#submandibular-ganglion
+   :name: submandibular ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002059
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 submedialNucleusOfThalamus
 --------------------------
 
@@ -22172,6 +23648,23 @@ superiorCerebralVein
 
 ------------
 
+superiorCervicalGanglion
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorCervicalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001989)]
+   :description: Trunk ganglion which is bilaterally paired and located at the anterior end of the sympathetic ganglion chain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001989)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001989#superior-cervical-ganglion
+   :name: superior cervical ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001989
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 superiorColliculus
 ------------------
 
@@ -22242,6 +23735,23 @@ superiorFrontalSulcus
 
 ------------
 
+superiorGlossopharyngealIXGanglion
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorGlossopharyngealIXGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a glossopharyngeal ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005361)]
+   :description: The upper ganglion of the glossopharyngeal nerve. is situated in the upper part of the groove in which the glossopharyngeal nerve is lodged during its passage through the jugular foramen. It is very small, and is usually regarded as a detached portion of the inferior ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005361)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005361#superior-glossopharyngeal-ix-ganglion
+   :name: superior glossopharyngeal IX ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005361
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 superiorLateralOccipitalCortex
 ------------------------------
 
@@ -22271,6 +23781,23 @@ superiorMedullaryVelum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002659#superior-medullary-velum-1
    :name: superior medullary velum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002659
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorMesentericGanglion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorMesentericGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a mesenteric ganglion. Is part of the superior mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005479) ('is_a' and 'relationship')]
+   :description: A ganglion in the upper part of the superior mesenteric plexus that is the synapsing point for one of the pre- and post-synaptic nerves of the sympathetic division of the autonomous nervous system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005479)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005479#superior-mesenteric-ganglion
+   :name: superior mesenteric ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005479
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22341,6 +23868,23 @@ superiorParietalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026724#superior-parietal-sulcus-1
    :name: superior parietal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026724
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorPartOfVestibularGanglion
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorPartOfVestibularGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the vestibular ganglion. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002825)]
+   :description: The part of the vestibular ganglion that receives fibers from the maculae of the utricle and the sacculae and the ampullae of the anterior and lateral semicircular ducts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002825)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002825#superior-part-of-vestibular-ganglion-1
+   :name: superior part of vestibular ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002825
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22509,6 +24053,23 @@ superiorTransverseFrontopolarGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024201#superior-transverse-frontopolar-gyrus-1
    :name: superior transverse frontopolar gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024201
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+superiorVagusXGanglion
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/superiorVagusXGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005364)]
+   :description: The upper ganglion of the vagus nerve located at the jugular foramen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005364)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005364#superior-vagus-x-ganglion
+   :name: superior vagus X ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005364
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22751,6 +24312,23 @@ suprasylvianSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013593#suprasylvian-sulcus
    :name: suprasylvian sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013593
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sympatheticGanglion
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sympatheticGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an autonomic ganglion. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806) ('is_a' and 'relationship')]
+   :description: A ganglion of the sympathetic nervous system. Examples: paravertebral and the prevertebral ganglia, which include the sympathetic chain ganglia, the superior, middle, and inferior cervical ganglia, and the aorticorenal, celiac, and stellate ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001806#sympathetic-ganglion
+   :name: sympathetic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001806
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23168,6 +24746,22 @@ temporoparietalJunction
 
 ------------
 
+tenthThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tenthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002853)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002853#tenth-thoracic-dorsal-root-ganglion-1
+   :name: tenth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002853
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 thalamicComplex
 ---------------
 
@@ -23216,6 +24810,70 @@ thalamicReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001903#thalamic-reticular-nucleus-1
    :name: thalamic reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001903
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thirdCervicalDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdCervicalDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002840)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002840#third-cervical-dorsal-root-ganglion-1
+   :name: third cervical dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002840
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thirdLumbarDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdLumbarDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002858)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002858#third-lumbar-dorsal-root-ganglion-1
+   :name: third lumbar dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002858
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thirdSacralDorsalRootGanglion
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdSacralDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002862)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002862#third-sacral-dorsal-root-ganglion-1
+   :name: third sacral dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002862
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thirdThoracicDorsalRootGanglion
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002847)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002847#third-thoracic-dorsal-root-ganglion-1
+   :name: third thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002847
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23285,6 +24943,40 @@ thirdVentricleEpendyma
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004642#third-ventricle-ependyma
    :name: third ventricle ependyma
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004642
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicDorsalRootGanglion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal root ganglion and thoracic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]
+   :description: A dorsal root ganglion that is part of a thorax. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002835#thoracic-dorsal-root-ganglion-1
+   :name: thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002835
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicGanglion
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paravertebral ganglion. Is part of the thoracic sympathetic nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000961) ('is_a' and 'relationship')]
+   :description: The thoracic ganglia are paravertebral ganglia. The thoracic portion of the sympathetic trunk typically has 12 thoracic ganglia. Emerging from the ganglia are thoracic splancic nerves (the cardiopulmonary, the greater, lesser, and least splanchic nerves) that help provide sympathetic innervation to abdominal structures. Also, the ganglia of the thoracic sympathetic trunk have both white and gray rami communicantes. The white rami carry sympathetic fibers arising in the spinal cord into the sympathetic trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000961)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000961#thoracic-ganglion
+   :name: thoracic ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000961
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23530,6 +25222,23 @@ triangularSeptalNucleus
 
 ------------
 
+trigeminalGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trigeminalGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001675)]
+   :description: The cranial ganglion that is associated with and extends fibers into the trigeminal nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001675)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001675#trigeminal-ganglion
+   :name: trigeminal ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001675
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 trigeminalNerveFibers
 ---------------------
 
@@ -23596,6 +25305,23 @@ trochlearNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002722#trochlear-nucleus-1
    :name: trochlear nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002722
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkGanglion
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/trunkGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007134)]
+   :description: Ganglion which is located in the trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007134)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007134#trunk-ganglion
+   :name: trunk ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007134
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23686,6 +25412,22 @@ tuberomammillaryNucleusVentralPart
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014594#tuberomammillary-nucleus-ventral-part-1
    :name: tuberomammillary nucleus ventral part
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014594
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+twelfthThoracicDorsalRootGanglion
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/twelfthThoracicDorsalRootGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002855)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002855#twelfth-thoracic-dorsal-root-ganglion-1
+   :name: twelfth thoracic dorsal root ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002855
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23842,6 +25584,70 @@ upperRhombicLip
 
 ------------
 
+vagalGanglion1
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalGanglion1
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001302)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001302#vagal-ganglion-1
+   :name: vagal ganglion 1
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001302
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagalGanglion2
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalGanglion2
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001303)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001303#vagal-ganglion-2
+   :name: vagal ganglion 2
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001303
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagalGanglion3
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalGanglion3
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001304)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001304#vagal-ganglion-3
+   :name: vagal ganglion 3
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001304
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagalGanglion4
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagalGanglion4
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001305)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001305#vagal-ganglion-4
+   :name: vagal ganglion 4
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001305
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vagalLobe
 ---------
 
@@ -23871,6 +25677,23 @@ vagalNerveFiberBundle
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006116#vagal-nerve-fiber-bundle-1
    :name: vagal nerve fiber bundle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006116
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vagusXGanglion
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vagusXGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005362)]
+   :description: The group of sensory neuron cell bodies associated with the vagus nerve. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005362)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005362#vagus-x-ganglion
+   :name: vagus X ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005362
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24027,6 +25850,22 @@ ventralAmygdalofugalProjection
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002745#ventral-amygdalofugal-projection-1
    :name: ventral amygdalofugal projection
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002745
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralAnteriorLateralLineGanglion
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralAnteriorLateralLineGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anterior lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001313)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001313#ventral-anterior-lateral-line-ganglion
+   :name: ventral anterior lateral line ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001313
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24613,6 +26452,23 @@ vermisOfTheFlocculonodularLobeOfTheCerebellum
 
 ------------
 
+vertebralGanglion
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vertebralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paravertebral ganglion. Is part of the cervical ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408) ('is_a' and 'relationship')]
+   :description: Any of a group of sympathetic ganglia which form two chains extending from the base of the skull to the coccyx along the sides of the spinal column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000408#vertebral-ganglion
+   :name: vertebral ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000408
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 verticalLimbOfTheDiagonalBand
 -----------------------------
 
@@ -24644,6 +26500,23 @@ vessel
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000055#vessel
    :name: vessel
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000055
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vestibularGanglion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibularGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion, sensory ganglion, ganglion of peripheral nervous system and vestibular organ. Is part of the vestibulocochlear ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002824) ('is_a' and 'relationship')]
+   :description: The ganglion of the vestibular nerve. It contains the cell bodies of the bipolar primary afferent neurons whose peripheral processes form synaptic contact with hair cells of the vestibular sensory end organs. Distributed to the maculae of the utricle and saccule and to the ampullary crests of the semicircular ducts. The vestibular fibers arise in bipolar cells in the vestibular ganglion in the internal acoustic meatus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002824)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002824#vestibular-ganglion-1
+   :name: vestibular ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002824
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24684,6 +26557,22 @@ vestibularOrgan
 
 ------------
 
+vestibuloCochlearVIIIGanglionComplex
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibuloCochlearVIIIGanglionComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013498)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013498#vestibulo-cochlear-viii-ganglion-complex
+   :name: vestibulo-cochlear VIII ganglion complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013498
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 vestibulocerebellarTract
 ------------------------
 
@@ -24715,6 +26604,23 @@ vestibulocerebellum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014642#vestibulocerebellum
    :name: vestibulocerebellum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014642
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vestibulocochlearGanglion
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vestibulocochlearGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002827)]
+   :description: The group of neuron cell bodies associated with the eighth cranial nerve during embryogenesis; splits in later development to form the cochlear and vestibular ganglia. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002827)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002827#auditory-ganglion
+   :name: vestibulocochlear ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002827
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
