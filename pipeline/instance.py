@@ -136,7 +136,9 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if type(value) == str:
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif type(value) == str:
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif type(value) == List:
                         if all(isinstance(item, str) for item in value):
@@ -178,7 +180,9 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if isinstance(value, (str, int, float)):
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif isinstance(value, (str, int, float)):
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif isinstance(value, Dict) and "@id" in value.keys():
                         doc.field(name=prop, value=self._build_single_instance_link(value), indent=field_list_indent)
@@ -225,7 +229,9 @@ class InstancesDocBuilder(object):
                 field_list_indent = 3
                 doc.newline()
                 for prop, value in sorted(instance_data.items()):
-                    if isinstance(value, (str, int, float)):
+                    if prop == "@context":
+                        doc.field(name=prop, value=f"@vocab: <{value['@vocab']}>", indent=field_list_indent)
+                    elif isinstance(value, (str, int, float)):
                         doc.field(name=prop, value=str(value), indent=field_list_indent)
                     elif isinstance(value, Dict):
                         if prop == "digitalIdentifier":
