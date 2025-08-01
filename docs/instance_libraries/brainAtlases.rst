@@ -138,6 +138,27 @@ JBA
 
 ------------
 
+MarmosetNMA
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/MarmosetNMA
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :abbreviation: MarmosetNMA
+   :description: The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.
+   :fullName: Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas
+   :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/MarmosetNMA.html>`_
+   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/brainAtlasVersions/MarmosetNMA.html>`_
+   :homepage: https://www.marmosetbrain.org/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_018367](https://scicrunch.org/resolver/SCR_018367), and cite the publication of the version of the template you have used.
+   :shortName: Marmoset Nencki-Monash Atlas
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <BrainAtlases library_>`_
+
+------------
+
 PW-RBSC-cor
 -----------
 
