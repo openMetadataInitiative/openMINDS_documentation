@@ -103,6 +103,45 @@ MNI-ICBM152
 
 ------------
 
+MarmosetNMT
+-----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MarmosetNMT
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
+   :abbreviation: MarmosetNMT
+   :description: Stereotactic coordinate space of the coronal plane generated using computational average of histology sections.
+   :fullName: The Marmoset Nencki-Monash Template in Stereotaxic Coordinates
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/MarmosetNMT.html>`_
+   :homepage: https://www.marmosetbrain.org/nencki_monash_template
+   :howToCite: Please refer to the template by its RRID:SCR_018367, and cite the publication of the version of the template you have used.
+   :shortName: Marmoset Nencki-Monash Template
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
+P-MarmosetBSC-corT
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/P-MarmosetBSC-corT
+   :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
+   :abbreviation: P-MarmosetBSC-corT
+   :description: Stereotactic coordinate space of the coronal plane.
+   :fullName: Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/commonCoordinateSpaceVersions/P-MarmosetBSC-corT.html>`_
+   :homepage: http://www.neura.edu.au/research/themes/paxinos-group
+   :shortName: Paxinos et al. Stereotaxic Coronal Template (Marmoset Brain)
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
 PW-RBSC-corT
 ------------
 
