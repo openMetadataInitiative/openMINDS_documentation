@@ -49,6 +49,7 @@ Terminologies
 - `MolecularEntity <terminologies/molecularEntity.html>`_
 - `MRIPulseSequence <terminologies/MRIPulseSequence.html>`_
 - `MRIWeighting <terminologies/MRIWeighting.html>`_
+- `MRSpatialEncoding <terminologies/MRSpatialEncoding.html>`_
 - `OlfactoryStimulusType <terminologies/olfactoryStimulusType.html>`_
 - `OperatingDevice <terminologies/operatingDevice.html>`_
 - `OperatingSystem <terminologies/operatingSystem.html>`_
@@ -130,6 +131,7 @@ Terminologies
    terminologies/molecularEntity
    terminologies/MRIPulseSequence
    terminologies/MRIWeighting
+   terminologies/MRSpatialEncoding
    terminologies/olfactoryStimulusType
    terminologies/operatingDevice
    terminologies/operatingSystem

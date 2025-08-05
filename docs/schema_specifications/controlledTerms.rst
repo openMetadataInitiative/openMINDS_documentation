@@ -51,6 +51,7 @@ ControlledTerms
 - `MRAcquisitionType <controlledTerms/MRAcquisitionType.html>`_
 - `MRIPulseSequence <controlledTerms/MRIPulseSequence.html>`_
 - `MRIWeighting <controlledTerms/MRIWeighting.html>`_
+- `MRSpatialEncoding <controlledTerms/MRSpatialEncoding.html>`_
 - `OlfactoryStimulusType <controlledTerms/olfactoryStimulusType.html>`_
 - `OperatingDevice <controlledTerms/operatingDevice.html>`_
 - `OperatingSystem <controlledTerms/operatingSystem.html>`_
@@ -135,6 +136,7 @@ ControlledTerms
    controlledTerms/MRAcquisitionType
    controlledTerms/MRIPulseSequence
    controlledTerms/MRIWeighting
+   controlledTerms/MRSpatialEncoding
    controlledTerms/olfactoryStimulusType
    controlledTerms/operatingDevice
    controlledTerms/operatingSystem
