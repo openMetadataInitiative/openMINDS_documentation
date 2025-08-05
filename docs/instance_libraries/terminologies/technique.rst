@@ -1101,6 +1101,7 @@ highFieldFunctionalMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/highFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 3 Tesla (or higher but below 7 Tesla).
    :name: high-field functional magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -1114,7 +1115,22 @@ highFieldMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/highFieldMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: Any medical imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: high-field magnetic resonance imaging
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+highFieldStructuralMagneticResonanceImaging
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/highFieldStructuralMagneticResonanceImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that typically uses a magnetic field strength of 3 Tesla (or higher but below 7 Tesla) to generate images with static information of the scanned body.
+   :name: high-field structural magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
@@ -2536,7 +2552,7 @@ ultraHighFieldFunctionalMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldFunctionalMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: 'Ultra high-field functional magnetic resonance imaging' comprises all functional MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
+   :definition: A magnetic resonance imaging technique that generates multiple images over time of some physiological processes of a specimen typically employing a magnetic field strength of 7 Tesla (or higher).
    :name: ultra high-field functional magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -2550,7 +2566,7 @@ ultraHighFieldMagneticResonanceImaging
 
    :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldMagneticResonanceImaging
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
-   :definition: 'Ultra high-field magnetic resonance imaging' comprises all structural MRI techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
+   :definition: Any medical imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images of a specimen based on the principle of nuclear magnetic resonance.
    :name: ultra high-field magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
@@ -2566,6 +2582,20 @@ ultraHighFieldMagneticResonanceSpectroscopy
    :@type: https://openminds.ebrains.eu/controlledTerms/Technique
    :definition: 'Ultra high-field magnetic resonance spectroscopy' comprises all MRS techniques conducted with a MRI scanner with a magnetic field strength equal or above 7 Tesla.
    :name: ultra high-field magnetic resonance spectroscopy
+
+`BACK TO TOP <Terminologies: Technique library_>`_
+
+------------
+
+ultraHighFieldStructuralMagneticResonanceImaging
+------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/technique/ultraHighFieldStructuralMagneticResonanceImaging
+   :@type: https://openminds.ebrains.eu/controlledTerms/Technique
+   :definition: A magnetic resonance imaging technique that typically uses a magnetic field strength of 7 Tesla (or higher) to generate images with static information of the scanned body.
+   :name: ultra high-field structural magnetic resonance imaging
 
 `BACK TO TOP <Terminologies: Technique library_>`_
 
