@@ -1676,6 +1676,21 @@ application_vnd.ilastik.project+hdf5
 
 ------------
 
+application_vnd.illumina.annotated-sequence+fastq
+-------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.illumina.annotated-sequence+fastq
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores with a systematic identifier assigned by the Illumina software.
+   :name: application/vnd.illumina.annotated-sequence+fastq
+   :specification: https://en.wikipedia.org/wiki/FASTQ_format
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.imacon
 ----------------------
 
@@ -3539,6 +3554,21 @@ application_vnd.seiko
 
 ------------
 
+application_vnd.sequencereadarchive.annotated-sequence+fastq
+------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sequencereadarchive.annotated-sequence+fastq
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores often including a description added by the Sequence Read Archive.
+   :name: application/vnd.sequencereadarchive.annotated-sequence+fastq
+   :specification: https://en.wikipedia.org/wiki/FASTQ_format
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.siemens.ecat7
 -----------------------------
 
@@ -5258,6 +5288,21 @@ text_x-cml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-cml+xml
    :specification: http://www.xml-cml.org/schema/schema3/schema.xsd
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+text_x-fastq
+------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-fastq
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores.
+   :name: text/x-fastq
+   :specification: https://en.wikipedia.org/wiki/FASTQ_format
 
 `BACK TO TOP <ContentTypes library_>`_
 
