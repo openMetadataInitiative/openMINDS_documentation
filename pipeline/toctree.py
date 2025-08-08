@@ -2,6 +2,7 @@ import os.path
 from typing import List
 
 from rstcloth import RstCloth
+from pipeline.utils import count_instances
 
 def create_toc_tree_page(version:str, relative_path:List[str]):
     target_file = os.path.join("target", f"{version}/docs/{'/'.join(relative_path)}.rst")
@@ -29,10 +30,12 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
                     create_toc_tree_page(version, new_relative_path)
 
         if heading == "Instance libraries":
-            doc.note(content="The instance libraries are continuously extended and optimized. You can "
-                             "request the registration of new instances or corrections\/extensions  of existing "
-                             "instances by raising an issue on `openMINDS_instances "
-                             "<https://github.com/openMetadataInitiative/openMINDS_documentation/issues>`_.")
+            instances_count = count_instances(version)
+            doc.note(content=["The instance libraries are continuously extended and optimized.",
+            "You can request the registration of new instances or corrections\/extensions of existing",
+            "instances by raising an issue on `openMINDS_instances <https://github.com/HumanBrainProject/openMINDS_instances/issues>`_",
+            "",
+            f"The {version} version of openMINDS contains {instances_count} metadata instances in total. The "])
 
         for link in links:
             doc.content(link)
