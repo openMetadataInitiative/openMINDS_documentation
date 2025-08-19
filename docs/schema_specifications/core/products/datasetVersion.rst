@@ -71,7 +71,7 @@ Specific set of defined activities (or their absence) that should be performed (
 
    :semantic name: https://openminds.ebrains.eu/vocab/behavioralTask
    :value type: | linked object array \(1-N\) of type
-                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/behavioralTask.html>`_
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/behavioralTask.html>`_
    :instructions: Add one or several behavioral tasks that were performed in this dataset version.
 
 `BACK TO TOP <DatasetVersion_>`_

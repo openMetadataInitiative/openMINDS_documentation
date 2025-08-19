@@ -2,7 +2,6 @@
 Research
 ########
 
-- `BehavioralTask <research/behavioralTask.html>`_
 - `NumericalParameter <research/numericalParameter.html>`_
 - `ParameterSet <research/parameterSet.html>`_
 - `ParameterSetting <research/parameterSetting.html>`_
@@ -20,7 +19,6 @@ Research
 
 .. toctree::
 
-   research/behavioralTask
    research/numericalParameter
    research/parameterSet
    research/parameterSetting
