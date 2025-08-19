@@ -47,7 +47,7 @@ biophysics
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/biophysics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
-   :definition: 'Biophysics' covers any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]
+   :definition: Any experimental approach that is traditionally used in physics, but applied and modified to study biological phenomena. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Biophysics)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0793772
    :name: biophysics
 
@@ -332,7 +332,7 @@ genetics
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/genetics
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
-   :definition: Experimental approach that measures or manipulates some aspect of the genetic material of an organism.
+   :definition: Any experimental approach that measures or manipulates some aspect of the genetic material of an organism.
    :name: genetics
 
 `BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
@@ -527,6 +527,20 @@ optogenetics
 
 ------------
 
+pathology
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/experimentalApproach/pathology
+   :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
+   :definition: Any experimental approach that aims to identify or classify the causes and effects of diseases, disorders, injuries, or other abnormal biology.
+   :name: pathology
+
+`BACK TO TOP <Terminologies: ExperimentalApproach library_>`_
+
+------------
+
 pharmacology
 ------------
 
@@ -534,7 +548,7 @@ pharmacology
 
    :@id: https://openminds.ebrains.eu/instances/experimentalApproach/pharmacology
    :@type: https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach
-   :definition: 'Pharmacology' is an experimental approach in which the composition, properties, functions, sources, synthesis and design of drugs (any artificial, natural, or endogenous molecule) and their biochemical or physiological effect (normal or abnormal) on a cell, tissue, organ, or organism are studied. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Pharmacology)]
+   :definition: Any experimental approach in which the composition, properties, functions, sources, synthesis and design of drugs (any artificial, natural, or endogenous molecule) and their biochemical or physiological effect (normal or abnormal) on a cell, tissue, organ, or organism are studied. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Pharmacology)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108784
    :name: pharmacology
    :preferredOntologyIdentifier: http://edamontology.org/topic_0202
