@@ -4673,6 +4673,52 @@ application_zip
 
 ------------
 
+chemical_vnd.wwpdb.pdb-v3.30+plain
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdb-v3.30+plain
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A textual file format describing the three-dimensional structures of molecules held in the [Protein Data Bank](https://www.rcsb.org/).
+   :name: chemical/vnd.wwpdb.pdb-v3.30+plain
+   :specification: https://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+chemical_vnd.wwpdb.pdbml.v5+xml
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdbml.v5+xml
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.
+   :name: chemical/vnd.wwpdb.pdbml.v5+xml
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/xml
+   :specification: https://pdbml.wwpdb.org/
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+chemical_vnd.wwpdb.pdbx-mmcif.v5+plain
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdbx-mmcif.v5+plain
+   :@type: https://openminds.ebrains.eu/core/ContentType
+   :description: A standard text file format for representing macromolecular structure data, developed by the International Union of Crystallography (IUCr) and the Protein Data Bank (PDB). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Macromolecular_Crystallographic_Information_File)]
+   :name: chemical/vnd.wwpdb.pdbx-mmcif.v5+plain
+   :specification: https://mmcif.wwpdb.org/docs/user-guide/guide.html
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 image_bmp
 ---------
 
