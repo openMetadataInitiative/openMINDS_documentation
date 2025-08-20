@@ -82,7 +82,7 @@ commandLineInterface
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/softwareFeature/commandlineInterface
+   :@id: https://openminds.ebrains.eu/instances/softwareFeature/commandLineInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
    :name: command line interface

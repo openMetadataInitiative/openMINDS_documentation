@@ -948,7 +948,7 @@ egtazicAcid
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/egtazicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
    :description: EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
@@ -1310,7 +1310,7 @@ halothane
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/halothane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
    :name: halothane

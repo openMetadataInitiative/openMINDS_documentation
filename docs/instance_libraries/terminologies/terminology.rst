@@ -301,7 +301,7 @@ cranialWindowConstructionType
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
+   :@id: https://openminds.ebrains.eu/instances/terminology/cranialWindowConstructionType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The construction type of a cranial window.
    :name: cranial window construction type
@@ -315,7 +315,7 @@ cranialWindowReinforcementType
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
+   :@id: https://openminds.ebrains.eu/instances/terminology/cranialWindowReinforcementType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The reinforcement type of a cranial window.
    :name: cranial window reinforcement type
