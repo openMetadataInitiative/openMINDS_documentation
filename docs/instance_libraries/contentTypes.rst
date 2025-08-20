@@ -2107,6 +2107,22 @@ application_vnd.localizoom.lz
 
 ------------
 
+application_vnd.locare+json
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.locare+json
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).
+   :name: application/vnd.locare+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
+   :specification: https://github.com/blixilla/LocareJSON
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.ls-dyna
 -----------------------
 
