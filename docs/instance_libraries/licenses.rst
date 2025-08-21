@@ -481,7 +481,7 @@ youtube
    :@id: https://openminds.ebrains.eu/instances/licenses/youtube
    :@type: https://openminds.ebrains.eu/core/License
    :fullName: Standard YouTube License
-   :legalCode: https://www.youtube.com/static?template=terms
+   :legalCode: https://www.youtube.com/t/terms
    :shortName: youtube
 
 `BACK TO TOP <Licenses library_>`_
