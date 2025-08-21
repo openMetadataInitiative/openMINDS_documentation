@@ -473,3 +473,18 @@ MPL-2.0
 
 ------------
 
+youtube
+-------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/licenses/youtube
+   :@type: https://openminds.ebrains.eu/core/License
+   :fullName: Standard YouTube License
+   :legalCode: https://www.youtube.com/static?template=terms
+   :shortName: youtube
+
+`BACK TO TOP <Licenses library_>`_
+
+------------
+
