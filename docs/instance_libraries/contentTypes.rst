@@ -3702,6 +3702,23 @@ application_vnd.spikeglx.system
 
 ------------
 
+application_vnd.spikeinterface.probeinterface+json
+--------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.spikeinterface.probeinterface+json
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version.
+   :displayLabel: probeinterface JSON
+   :name: application/vnd.spikeinterface.probeinterface+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
+   :specification: https://raw.githubusercontent.com/SpikeInterface/probeinterface/main/src/probeinterface/schema/probe.json.schema
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.spm
 -------------------
 
