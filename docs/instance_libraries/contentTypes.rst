@@ -2467,6 +2467,38 @@ application_vnd.neo.ascii.spiketrain
 
 ------------
 
+application_vnd.nest-desktop.model.v4+json
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-desktop.model.v4+json
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: A JSON file containing a computational model specification (version 4) for NEST Desktop
+   :displayLabel: NEST Desktop model (v4)
+   :name: application/vnd.nest-desktop.model.v4+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
+application_vnd.nest-desktop.project.v4+json
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.nest-desktop.project.v4+json
+   :@type: https://openminds.om-i.org/types/ContentType
+   :description: A JSON file containing a project configuration (version 4) for NEST Desktop
+   :displayLabel: NEST Desktop project configuration (v4)
+   :name: application/vnd.nest-desktop.project.v4+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
+
+`BACK TO TOP <ContentTypes library_>`_
+
+------------
+
 application_vnd.nest-simulator+python
 -------------------------------------
 
