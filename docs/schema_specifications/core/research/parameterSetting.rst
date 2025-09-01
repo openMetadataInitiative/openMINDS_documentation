@@ -71,7 +71,7 @@ Reference to what or whom something or someone bears significance.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relevantFor
    :value type: | linked object of type
-                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/behavioralTask.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/technique.html>`_
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/behavioralTask.html>`_ or `Technique <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/technique.html>`_
    :instructions: Add the technique or behavioral task where this parameter setting is used in.
 
 `BACK TO TOP <ParameterSetting_>`_
