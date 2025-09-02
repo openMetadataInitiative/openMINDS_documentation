@@ -2279,6 +2279,23 @@ arachnoidBarrierLayer
 
 ------------
 
+arachnoidMater
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]
+   :description: A think avascular meningeal layer, between the pia mater and the dural mater. It is separated from the pia mater by the subarachnoid space. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002362#arachnoid-mater
+   :name: arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002362
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 archicortex
 -----------
 
@@ -2915,6 +2932,23 @@ brachiumOfSuperiorColliculus
 
 ------------
 
+brainArachnoidMater
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an arachnoid mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]
+   :description: An arachnoid mater that surrounds a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005397#brain-arachnoid-mater
+   :name: brain arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005397
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 brainBloodVessel
 ----------------
 
@@ -2961,6 +2995,23 @@ brainCoronalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013596#brain-coronal-sulcus
    :name: brain coronal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013596
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+brainDuraMater
+--------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a dura mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002092)]
+   :description: The fibrous membrane forming the outer of the three coverings that surrounds the brain within the cranial cavity; consists of two layers including the periosteal layer and the meningeal layer. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002092)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002092#brain-dura-mater
+   :name: brain dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002092
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3049,6 +3100,23 @@ brainMeninx
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx
    :name: brain meninx
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003547
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+brainPiaMater
+-------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pia mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003549)]
+   :description: The fibrous membrane forming the innermost of the three coverings that surrounds the brain within the cranial cavity that is firmly attached to the glial capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003549)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003549#brain-pia-mater
+   :name: brain pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003549
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -6750,6 +6818,40 @@ diencephalon
 
 ------------
 
+diencephalonArachnoidMater
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of diencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]
+   :description: An arachnoid mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003558#diencephalon-arachnoid-mater
+   :name: diencephalon arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003558
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+diencephalonDuraMater
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of diencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003564)]
+   :description: A dura mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003564)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003564#diencephalon-dura-mater
+   :name: diencephalon dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003564
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 diencephalonMantleLayer
 -----------------------
 
@@ -6761,6 +6863,23 @@ diencephalonMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009580#diencephalon-mantle-layer
    :name: diencephalon mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009580
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+diencephalonPiaMater
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of diencephalon and forebrain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003553)]
+   :description: A pia mater that is part of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003553)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003553#diencephalon-pia-mater
+   :name: diencephalon pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003553
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7603,6 +7722,23 @@ dorsomedialNucleusOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001934#dorsomedial-nucleus-of-hypothalamus-1
    :name: dorsomedial nucleus of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001934
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+duraMater
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/duraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002363)]
+   :description: Thick, fibrous meningeal covering surrounding the brain and spinal cord. It is the outermost of the three meningeal coverings. It consists of two layers: the periosteal dura linking the inner surface of the skull and the meningeal dura that lies above the arachnoid dural membrane. The meningeal layer draws away from the periosteal layer and certain locations to form the dural reflections. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002363)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002363#dura-mater-1
+   :name: dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002363
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8528,6 +8664,40 @@ forebrain
 
 ------------
 
+forebrainArachnoidMater
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an arachnoid mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003556)]
+   :description: An arachnoid mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003556)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003556#forebrain-arachnoid-mater
+   :name: forebrain arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003556
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+forebrainDuraMater
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain dura mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003561)]
+   :description: A dura mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003561)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003561#forebrain-dura-mater
+   :name: forebrain dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003561
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 forebrainIpsilateralFiberTracts
 -------------------------------
 
@@ -8539,6 +8709,23 @@ forebrainIpsilateralFiberTracts
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022247#forebrain-ipsilateral-fiber-tracts
    :name: forebrain ipsilateral fiber tracts
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022247
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+forebrainPiaMater
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a forebrain meninges and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003550)]
+   :description: A pia mater that is part of a forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003550)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003550#forebrain-pia-mater
+   :name: forebrain pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003550
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -9867,6 +10054,23 @@ hindbrain
 
 ------------
 
+hindbrainArachnoidMater
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an arachnoid mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003559)]
+   :description: An arachnoid mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003559)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003559#hindbrain-arachnoid-mater
+   :name: hindbrain arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003559
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 hindbrainCommissure
 -------------------
 
@@ -9902,6 +10106,23 @@ hindbrainCorticalIntermediateZone
 
 ------------
 
+hindbrainDuraMater
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain dura mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]
+   :description: A dura mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003565#hindbrain-dura-mater
+   :name: hindbrain dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003565
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 hindbrainMarginalLayer
 ----------------------
 
@@ -9932,6 +10153,23 @@ hindbrainNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009662#hindbrain-nucleus
    :name: hindbrain nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009662
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hindbrainPiaMater
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of hindbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003554)]
+   :description: A pia mater that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003554)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003554#hindbrain-pia-mater
+   :name: hindbrain pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003554
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14488,6 +14726,23 @@ medullaryReticularFormation
 
 ------------
 
+meningealDuraMater
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meningealDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010506)]
+   :description: The inner layer of the dura mater surrounding the brain. It is mostly fused with the outer layer, the endocranium that is adherent to the inner aspect of the cranial bones. These two layers form the dura mater. The latter covers and protects the brain and the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010506)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010506#meningeal-dura-mater
+   :name: meningeal dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010506
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 meninxOfDiencephalon
 --------------------
 
@@ -14663,6 +14918,23 @@ midbrain
 
 ------------
 
+midbrainArachnoidMater
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an arachnoid mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003557)]
+   :description: An arachnoid mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003557)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003557#midbrain-arachnoid-mater
+   :name: midbrain arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003557
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 midbrainCerebralAqueduct
 ------------------------
 
@@ -14681,6 +14953,23 @@ midbrainCerebralAqueduct
 
 ------------
 
+midbrainDuraMater
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brain dura mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003562)]
+   :description: A dura mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003562)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003562#midbrain-dura-mater
+   :name: midbrain dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003562
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 midbrainMantleLayer
 -------------------
 
@@ -14692,6 +14981,23 @@ midbrainMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009581#midbrain-mantle-layer
    :name: midbrain mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009581
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+midbrainPiaMater
+----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of midbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]
+   :description: A pia mater that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003551#midbrain-pia-mater
+   :name: midbrain pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003551
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18069,6 +18375,23 @@ periolivaryNucleus
 
 ------------
 
+periostealDuraMater
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periostealDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of dura mater. Is part of the brain dura mater. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010505) ('is_a' and 'relationship')]
+   :description: The outermost of the two layers of the cranial dura mater which normally always adheres to the periosteum of the bones of the cranial vault. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010505)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010505#periosteal-dura-mater
+   :name: periosteal dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010505
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 peripeduncularNucleus
 ---------------------
 
@@ -18168,6 +18491,23 @@ periventricularWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014932#periventricular-white-matter
    :name: periventricular white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014932
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+piaMater
+--------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]
+   :description: The innermost layer of the leptomeninges, consisting of a delicate membrane closely covering the surface of the brain and spinal cord,and lying under the arachnoid membrane. The pia, unlike the arachnoid, extends into the sulci in gyrencephalic animals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002361#pia-mater
+   :name: pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002361
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22725,6 +23065,23 @@ sommersSector
 
 ------------
 
+spinalCordArachnoidMater
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an arachnoid mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003560)]
+   :description: An arachnoid mater that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003560)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003560#spinal-cord-arachnoid-mater
+   :name: spinal cord arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003560
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalCordMantleLayer
 ---------------------
 
@@ -22736,6 +23093,23 @@ spinalCordMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009583#spinal-cord-mantle-layer
    :name: spinal cord mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009583
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordPiaMater
+------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pia mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003555)]
+   :description: A pia mater that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003555)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003555#spinal-cord-pia-mater
+   :name: spinal cord pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003555
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22769,6 +23143,23 @@ spinalCordVentricularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034710#spinal-cord-ventricular-layer
    :name: spinal cord ventricular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034710
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalDuraMater
+---------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a dura mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002093)]
+   :description: A dura mater that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002093)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002093#spinal-dura-mater
+   :name: spinal dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002093
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25430,6 +25821,57 @@ telencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001893#telencephalon-1
    :name: telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001893
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+telencephalonArachnoidMater
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonArachnoidMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of telencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005400)]
+   :description: An arachnoid mater that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005400)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005400#telencephalon-arachnoid-mater
+   :name: telencephalon arachnoid mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005400
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+telencephalonDuraMater
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonDuraMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of telencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003563)]
+   :description: A dura mater that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003563)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003563#telencephalon-dura-mater
+   :name: telencephalon dura mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003563
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+telencephalonPiaMater
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonPiaMater
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx of telencephalon and forebrain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003552)]
+   :description: A pia mater that is part of a telencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003552)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003552#telencephalon-pia-mater
+   :name: telencephalon pia mater
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003552
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
