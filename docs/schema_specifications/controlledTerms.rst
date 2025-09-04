@@ -48,7 +48,6 @@ ControlledTerms
 - `ModelAbstractionLevel <controlledTerms/modelAbstractionLevel.html>`_
 - `ModelScope <controlledTerms/modelScope.html>`_
 - `MolecularEntity <controlledTerms/molecularEntity.html>`_
-- `MRAcquisitionType <controlledTerms/MRAcquisitionType.html>`_
 - `MRIPulseSequence <controlledTerms/MRIPulseSequence.html>`_
 - `MRIWeighting <controlledTerms/MRIWeighting.html>`_
 - `MRSpatialEncoding <controlledTerms/MRSpatialEncoding.html>`_
@@ -133,7 +132,6 @@ ControlledTerms
    controlledTerms/modelAbstractionLevel
    controlledTerms/modelScope
    controlledTerms/molecularEntity
-   controlledTerms/MRAcquisitionType
    controlledTerms/MRIPulseSequence
    controlledTerms/MRIWeighting
    controlledTerms/MRSpatialEncoding
