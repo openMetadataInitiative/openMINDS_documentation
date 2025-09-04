@@ -2,8 +2,6 @@
 Miscellaneous
 #############
 
-- `DigitalIdentifier <miscellaneous/digitalIdentifier.html>`_
-- `DigitalIdentifierSchema <miscellaneous/digitalIdentifierSchema.html>`_
 - `DOI <miscellaneous/DOI.html>`_
 - `Funding <miscellaneous/funding.html>`_
 - `GRIDID <miscellaneous/GRIDID.html>`_
@@ -17,8 +15,6 @@ Miscellaneous
 
 .. toctree::
 
-   miscellaneous/digitalIdentifier
-   miscellaneous/digitalIdentifierSchema
    miscellaneous/DOI
    miscellaneous/funding
    miscellaneous/GRIDID

@@ -7,7 +7,6 @@ Data
 - `Copyright <data/copyright.html>`_
 - `File <data/file.html>`_
 - `FileBundle <data/fileBundle.html>`_
-- `FileInstance <data/fileInstance.html>`_
 - `FilePathPattern <data/filePathPattern.html>`_
 - `FileRepository <data/fileRepository.html>`_
 - `FileRepositoryStructure <data/fileRepositoryStructure.html>`_
@@ -22,7 +21,6 @@ Data
    data/copyright
    data/file
    data/fileBundle
-   data/fileInstance
    data/filePathPattern
    data/fileRepository
    data/fileRepositoryStructure
