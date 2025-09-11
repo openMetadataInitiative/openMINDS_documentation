@@ -136,7 +136,7 @@ Multi-Image-OSd
    :@id: https://openminds.om-i.org/instances/service/Multi-Image-OSd
    :@type: https://openminds.om-i.org/types/Service
    :definition: Web application for viewing of series of high-resolution 2D images.
-   :description: Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd
+   :description: Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd. This service is not supported anymore and has been replaced by 'SeriesZoom'. [edited 2025-09-11]
    :name: Multi-Image-OSd
 
 `BACK TO TOP <Terminologies: Service library_>`_
@@ -182,6 +182,21 @@ Neurosift
    :@type: https://openminds.om-i.org/types/Service
    :definition: Neurosift is a browser-based tool designed for the visualization of neuroscience data with a focus on NWB (Neurodata Without Borders) files.
    :name: Neurosift
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+SeriesZoom
+----------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/service/SeriesZoom
+   :@type: https://openminds.om-i.org/types/Service
+   :definition: Web application for viewing of series of high-resolution 2D images.
+   :description: SeriesZoom allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/SeriesZoom.
+   :name: SeriesZoom
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
