@@ -23,6 +23,22 @@ berghiaStephanieae
 
 ------------
 
+bosTaurus
+---------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/species/bosTaurus
+   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :definition: Cattle (Bos taurus) are large, domesticated, bovid ungulates widely kept as livestock.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101393
+   :name: Bos taurus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 callithrixJacchus
 -----------------
 
