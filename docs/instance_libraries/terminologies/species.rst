@@ -181,6 +181,21 @@ macacaMulatta
 
 ------------
 
+merionesUnguiculatus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.om-i.org/instances/species/merionesUnguiculatus
+   :@type: https://openminds.om-i.org/types/Species
+   :definition: The Mongolian gerbil, also referred to as the Mongolian jird (Meriones unguiculatus), is a rodent belonging to the subfamily Gerbillinae. [Wikipedia]
+   :name: Meriones unguiculatus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10047
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 monodelphisDomestica
 --------------------
 
