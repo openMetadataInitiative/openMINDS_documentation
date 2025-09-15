@@ -99,6 +99,22 @@ chlorocebusPygerythrus
 
 ------------
 
+cricetulusGriseus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@id: https://openminds.ebrains.eu/instances/species/cricetulusGriseus
+   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :definition: The Chinese hamster (Cricetulus griseus or Cricetulus aureus) is a rodent in the genus Cricetulus of the subfamily Cricetidae.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102635
+   :name: Cricetulus griseus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10029
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 danioRerio
 ----------
 
