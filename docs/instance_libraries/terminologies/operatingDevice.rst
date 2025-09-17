@@ -13,6 +13,7 @@ desktop
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/desktop
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: desktop
@@ -27,6 +28,7 @@ embeddedSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/embeddedSystem
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: embedded system
@@ -41,6 +43,7 @@ highPerformanceComputer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: high-performance computer
@@ -55,6 +58,7 @@ mobile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/mobile
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: mobile
@@ -69,6 +73,7 @@ neuromorphicComputer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/neuromorphicComputer
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
@@ -84,6 +89,7 @@ server
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/server
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: server
@@ -98,6 +104,7 @@ web
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/operatingDevice/web
    :@type: https://openminds.om-i.org/types/OperatingDevice
    :name: web

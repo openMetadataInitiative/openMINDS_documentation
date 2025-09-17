@@ -13,6 +13,7 @@ WHSSDatlas_v1.01
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v1.01
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
@@ -35,6 +36,7 @@ WHSSDatlas_v2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v2
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
@@ -57,6 +59,7 @@ WHSSDatlas_v3.01
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3.01
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
@@ -78,6 +81,7 @@ WHSSDatlas_v3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v3
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas
@@ -100,6 +104,7 @@ WHSSDatlas_v4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/WHSSDatlas_v4
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: WHSSDatlas

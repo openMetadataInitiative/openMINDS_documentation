@@ -13,6 +13,7 @@ cardiovascularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/cardiovascularSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: 'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.
@@ -30,6 +31,7 @@ centralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/centralNervousSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.
@@ -48,6 +50,7 @@ cholinergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/cholinergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.
@@ -65,6 +68,7 @@ digestiveSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/digestiveSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.
@@ -82,6 +86,7 @@ gabaergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/gabaergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.
@@ -99,6 +104,7 @@ glutamatergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/glutamatergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The glutamatergic system is composed of any molecule, protein, cell, tissue or organ that is related to glutamate (when in the role of a neurotransmitter).
@@ -115,6 +121,7 @@ musculoskeletalSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/musculoskeletalSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.
@@ -133,6 +140,7 @@ noradrenergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/noradrenergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).
@@ -150,6 +158,7 @@ serotonergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/serotonergicSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.
@@ -167,6 +176,7 @@ vascularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/organismSystem/vascularSystem
    :@type: https://openminds.om-i.org/types/OrganismSystem
    :definition: The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.

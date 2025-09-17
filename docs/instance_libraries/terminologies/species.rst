@@ -13,6 +13,7 @@ berghiaStephanieae
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/berghiaStephanieae
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Berghia stephanieae* belongs to the family of *aeolidiidae* (family of sea slugs, shell-less marine gastropod molluscs).
@@ -28,6 +29,7 @@ bosTaurus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/bosTaurus
    :@type: https://openminds.om-i.org/types/Species
    :definition: Cattle (Bos taurus) are large, domesticated, bovid ungulates widely kept as livestock.
@@ -44,6 +46,7 @@ callithrixJacchus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/callithrixJacchus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).
@@ -59,6 +62,7 @@ cervusElaphus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/cervusElaphus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Cervus elaphus* (red deer) belongs to the family of *cervidae* (deers).
@@ -74,6 +78,7 @@ chlorocebusAethiopsSabaeus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/chlorocebusAethiopsSabaeus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Chlorocebus aethiops sabaeus* (green monkey) belongs to the family of *cercopithecidae* (old world monkeys).
@@ -89,6 +94,7 @@ chlorocebusPygerythrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/chlorocebusPygerythrus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Chlorocebus pygerythrus* (vervet marmoset) belongs to the family of *cercopithecidae* (old world monkeys).
@@ -104,6 +110,7 @@ cricetulusGriseus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/cricetulusGriseus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The Chinese hamster (Cricetulus griseus or Cricetulus aureus) is a rodent in the genus Cricetulus of the subfamily Cricetidae.
@@ -120,6 +127,7 @@ danioRerio
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/danioRerio
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).
@@ -137,6 +145,7 @@ felisCatus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/felisCatus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.
@@ -153,6 +162,7 @@ homoSapiens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/homoSapiens
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).
@@ -170,6 +180,7 @@ macacaFascicularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/macacaFascicularis
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).
@@ -186,6 +197,7 @@ macacaFuscata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/macacaFuscata
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).
@@ -202,6 +214,7 @@ macacaMulatta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/macacaMulatta
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).
@@ -218,6 +231,7 @@ merionesUnguiculatus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/merionesUnguiculatus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The Mongolian gerbil, also referred to as the Mongolian jird (Meriones unguiculatus), is a rodent belonging to the subfamily Gerbillinae. [Wikipedia]
@@ -233,6 +247,7 @@ monodelphisDomestica
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/monodelphisDomestica
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Monodelphis domestica* (gray short-tailed opossum) belongs to the family of *didelphidae* (American possums).
@@ -248,6 +263,7 @@ musMusculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/musMusculus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).
@@ -265,6 +281,7 @@ mustelaPutorius
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/mustelaPutorius
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius* (European polecat) belongs to the family of *mustelidae* (mustelids).
@@ -280,6 +297,7 @@ mustelaPutoriusFuro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/mustelaPutoriusFuro
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).
@@ -296,6 +314,7 @@ ovisAries
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/ovisAries
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).
@@ -311,6 +330,7 @@ quiscalusMexicanus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/quiscalusMexicanus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Quiscalus mexicanus* (great-tailed grackle) belongs to the family of *Icteridae* (New World blackbirds, orioles and allies) of the order *Passeriformes* (song birds).
@@ -327,6 +347,7 @@ rattusNorvegicus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/rattusNorvegicus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).
@@ -344,6 +365,7 @@ susScrofaDomesticus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/susScrofaDomesticus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Sus scrofa domesticus* (domestic pig) belongs to the family of suidae (suids).
@@ -361,6 +383,7 @@ trachemysScriptaElegans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/species/trachemysScriptaElegans
    :@type: https://openminds.om-i.org/types/Species
    :definition: The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae ([Wikipedia](https://en.wikipedia.org/wiki/Red-eared_slider)).

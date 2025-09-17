@@ -13,6 +13,7 @@ EUCompliant+
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/ethicsAssessment/EUCompliant+
    :@type: https://openminds.om-i.org/types/EthicsAssessment
    :definition: Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative.
@@ -28,6 +29,7 @@ EUCompliant
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/ethicsAssessment/EUCompliant
    :@type: https://openminds.om-i.org/types/EthicsAssessment
    :definition: Data are ethically approved in compliance with EU law. No additional ethics assessment was made by the data sharing initiative.
@@ -43,6 +45,7 @@ notRequired
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/ethicsAssessment/notRequired
    :@type: https://openminds.om-i.org/types/EthicsAssessment
    :definition: An ethics assessment is 'not required' when no ethics approval was needed to conduct the study.

@@ -13,6 +13,7 @@ BigBrain_2015
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/BigBrain_2015
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: BigBrain

@@ -13,6 +13,7 @@ P-MarmosetBSC-corT_v2012-Interaural-LSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/P-MarmosetBSC-corT_v2012-Interaural-LSA
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: P-MarmosetBSC-corT

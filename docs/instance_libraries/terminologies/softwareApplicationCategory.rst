@@ -13,6 +13,7 @@ application
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/application
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: application
@@ -27,6 +28,7 @@ library
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/library
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: library
@@ -41,6 +43,7 @@ middleware
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/middleware
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: middleware
@@ -55,6 +58,7 @@ module
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/module
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: module
@@ -69,6 +73,7 @@ notebook
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/notebook
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: notebook
@@ -83,6 +88,7 @@ plugin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/softwareApplicationCategory/plugin
    :@type: https://openminds.om-i.org/types/SoftwareApplicationCategory
    :name: plugin

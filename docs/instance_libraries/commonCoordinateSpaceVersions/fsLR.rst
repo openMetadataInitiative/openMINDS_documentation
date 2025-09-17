@@ -13,6 +13,7 @@ fsLR_164k
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_164k
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR
@@ -30,6 +31,7 @@ fsLR_32k
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsLR_32k
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsLR

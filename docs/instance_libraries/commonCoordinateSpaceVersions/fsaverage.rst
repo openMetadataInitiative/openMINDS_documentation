@@ -13,6 +13,7 @@ fsaverage_3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_3
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
@@ -30,6 +31,7 @@ fsaverage_4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_4
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
@@ -47,6 +49,7 @@ fsaverage_5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_5
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
@@ -64,6 +67,7 @@ fsaverage_6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_6
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage
@@ -81,6 +85,7 @@ fsaverage_7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/fsaverage_7
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: fsaverage

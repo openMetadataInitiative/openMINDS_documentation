@@ -13,6 +13,7 @@ SwansonSRB_v1992
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/SwansonSRB_v1992
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: SwansonSRB

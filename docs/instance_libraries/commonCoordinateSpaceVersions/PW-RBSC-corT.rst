@@ -13,6 +13,7 @@ PW-RBSC-corT_v2004-Bregma-LIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-LIA
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: PW-RBSC-corT
@@ -33,6 +34,7 @@ PW-RBSC-corT_v2004-Bregma-RIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Bregma-RIA
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: PW-RBSC-corT
@@ -53,6 +55,7 @@ PW-RBSC-corT_v2004-Interaural-LSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-LSA
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: PW-RBSC-corT
@@ -73,6 +76,7 @@ PW-RBSC-corT_v2004-Interaural-RSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/PW-RBSC-corT_v2004-Interaural-RSA
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: PW-RBSC-corT

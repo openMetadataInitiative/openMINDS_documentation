@@ -13,6 +13,7 @@ AMBA_CCFv3-2015
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/AMBA_CCFv3-2015
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: AMBA
@@ -30,6 +31,7 @@ AMBA_CCFv3-2017
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/AMBA_CCFv3-2017
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: AMBA

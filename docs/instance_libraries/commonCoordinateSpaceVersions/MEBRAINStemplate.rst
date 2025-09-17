@@ -13,6 +13,7 @@ MEBRAINStemplate_v1.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MEBRAINStemplate_v1.0
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: MEBRAINStemplate
