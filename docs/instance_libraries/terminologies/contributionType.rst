@@ -13,6 +13,7 @@ coordination
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/coordination
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: coordination
@@ -26,6 +27,7 @@ dataCollection
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/dataCollection
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: data collection
@@ -39,6 +41,7 @@ dataManagement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/dataManagement
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: data management
@@ -52,6 +55,7 @@ dataProcessing
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/dataProcessing
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: data processing
@@ -65,6 +69,7 @@ informationTechnologySupport
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/informationTechnologySupport
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: information technology support
@@ -78,6 +83,7 @@ laboratoryAssistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/laboratoryAssistance
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: laboratory assistance
@@ -91,6 +97,7 @@ marketing
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/marketing
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: marketing
@@ -104,6 +111,7 @@ metadataManagement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/contributionType/metadataManagement
    :@type: https://openminds.om-i.org/types/ContributionType
    :name: metadata management

@@ -13,6 +13,7 @@ AMB-CCF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/AMB-CCF
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: AMB CCF
@@ -32,6 +33,7 @@ BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/BigBrain
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: BigBrain
@@ -51,6 +53,7 @@ MEBRAINStemplate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MEBRAINStemplate
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: MEBRAINStemplate
@@ -69,6 +72,7 @@ MNI-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-Colin27
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: MNI-Colin27
@@ -89,6 +93,7 @@ MNI-ICBM152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MNI-ICBM152
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: ICBM152
@@ -108,6 +113,7 @@ MarmosetNMT
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/MarmosetNMT
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: MarmosetNMT
@@ -128,6 +134,7 @@ P-MarmosetBSC-corT
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/P-MarmosetBSC-corT
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: P-MarmosetBSC-corT
@@ -147,6 +154,7 @@ PW-RBSC-corT
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/PW-RBSC-corT
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: PW-RBSC-corT
@@ -165,6 +173,7 @@ SwansonSRB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/SwansonSRB
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: SwansonSRB
@@ -183,6 +192,7 @@ WHSSD
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/WHSSD
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: WHSSD
@@ -202,6 +212,7 @@ fsLR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/fsLR
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: fsLR
@@ -220,6 +231,7 @@ fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpace/fsaverage
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpace
    :abbreviation: fsaverage

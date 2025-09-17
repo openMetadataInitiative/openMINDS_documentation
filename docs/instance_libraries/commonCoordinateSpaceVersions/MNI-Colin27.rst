@@ -13,6 +13,7 @@ MNI-Colin27_1998
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_1998
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: MNI-Colin27
@@ -31,6 +32,7 @@ MNI-Colin27_2008
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/commonCoordinateSpaceVersion/MNI-Colin27_2008
    :@type: https://openminds.om-i.org/types/CommonCoordinateSpaceVersion
    :abbreviation: MNI-Colin27

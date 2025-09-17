@@ -13,6 +13,7 @@ PW-RBSC-cor_6th-ed-Bregma-LIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-LIA
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
@@ -34,6 +35,7 @@ PW-RBSC-cor_6th-ed-Bregma-RIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Bregma-RIA
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
@@ -55,6 +57,7 @@ PW-RBSC-cor_6th-ed-Interaural-LSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-LSA
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor
@@ -76,6 +79,7 @@ PW-RBSC-cor_6th-ed-Interaural-RSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/brainAtlasVersion/PW-RBSC-cor_6th-ed-Interaural-RSA
    :@type: https://openminds.om-i.org/types/BrainAtlasVersion
    :abbreviation: PW-RBSC-cor

@@ -13,6 +13,7 @@ CTscanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/CTscanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'CT scanner' is an x-ray machine that creates and combines serial two-dimensional x-ray images (sections) with the aid of a computer to generate cross-sectional views and/or three-dimensional images of internal body structures (e.g., bones, blood vessels or soft tissues).
@@ -27,6 +28,7 @@ MRIscanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/MRIscanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.
@@ -43,6 +45,7 @@ closedBoreMRIScanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/closedBoreMRIScanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: 'Closed-bore MRI scanners' are high-field scanners which feature a magnet surrounding the patient creating a capsule-like space (standard or wide) where the patient lies on.
@@ -57,6 +60,7 @@ electronicAmplifier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/electronicAmplifier
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: An 'electronic amplifier' is a device that increases the power (voltage or current) of a time-varying signal.
@@ -73,6 +77,7 @@ microscope
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/microscope
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.
@@ -89,6 +94,7 @@ microtome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/microtome
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'microtome' is a mechanical instrument with a steel, glass or diamond blade used to cut (typically) biological specimens into very thin segments for further treatment and ultimately microscopic or histologic examination.
@@ -105,6 +111,7 @@ openBoreMRIScanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/openBoreMRIScanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: 'Open-bore MRI scanners' are low-field scanners which have a magnetic top and bottom, but are otherwise open, increasing patient's comfort and unobstructed view of the scanning area.
@@ -119,6 +126,7 @@ standardBoreMRIScanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/standardBoreMRIScanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'standard-bore MRI scanner' is a closed high-field scanner which features a magnet surrounding the patient creating a capsule-like space where the patient lies on.
@@ -133,6 +141,7 @@ vibratingMicrotome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/vibratingMicrotome
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments for further treatment and ultimately microscopic or histologic examination.
@@ -148,6 +157,7 @@ wideBoreMRIScanner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/deviceType/wideBoreMRIScanner
    :@type: https://openminds.om-i.org/types/DeviceType
    :definition: A 'wide-bore MRI scanner' is a closed high-field scanner which features a widened bore compared to the standard-bore MRI scanner.

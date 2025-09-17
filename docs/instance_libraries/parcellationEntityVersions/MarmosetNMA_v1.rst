@@ -13,6 +13,7 @@ MarmosetNMA_v1_agranularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_agranularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AI
@@ -32,6 +33,7 @@ MarmosetNMA_v1_amygdalopiriformTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_amygdalopiriformTransitionArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APir
@@ -51,6 +53,7 @@ MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_anteriorIntraparietalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AIP
@@ -70,6 +73,7 @@ MarmosetNMA_v1_area10OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area10OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A10
@@ -89,6 +93,7 @@ MarmosetNMA_v1_area11OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area11OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A11
@@ -108,6 +113,7 @@ MarmosetNMA_v1_area13OfCortexLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area13OfCortexLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A13L
@@ -128,6 +134,7 @@ MarmosetNMA_v1_area13OfCortexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area13OfCortexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A13M
@@ -148,6 +155,7 @@ MarmosetNMA_v1_area13aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area13aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A13a
@@ -167,6 +175,7 @@ MarmosetNMA_v1_area13bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area13bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A13b
@@ -186,6 +195,7 @@ MarmosetNMA_v1_area14OfCortexCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area14OfCortexCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A14C
@@ -206,6 +216,7 @@ MarmosetNMA_v1_area14OfCortexRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area14OfCortexRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A14R
@@ -226,6 +237,7 @@ MarmosetNMA_v1_area19OfCortexDorsointermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area19OfCortexDorsointermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A19DI
@@ -246,6 +258,7 @@ MarmosetNMA_v1_area19OfCortexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area19OfCortexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A19M
@@ -266,6 +279,7 @@ MarmosetNMA_v1_area23OfCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area23OfCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A23V
@@ -286,6 +300,7 @@ MarmosetNMA_v1_area23aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area23aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A23a
@@ -305,6 +320,7 @@ MarmosetNMA_v1_area23bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area23bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A23b
@@ -324,6 +340,7 @@ MarmosetNMA_v1_area23cOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area23cOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A23c
@@ -343,6 +360,7 @@ MarmosetNMA_v1_area24aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area24aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A24a
@@ -362,6 +380,7 @@ MarmosetNMA_v1_area24bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area24bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A24b
@@ -381,6 +400,7 @@ MarmosetNMA_v1_area24cOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area24cOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A24c
@@ -400,6 +420,7 @@ MarmosetNMA_v1_area24dOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area24dOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A24d
@@ -419,6 +440,7 @@ MarmosetNMA_v1_area25OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area25OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A25
@@ -438,6 +460,7 @@ MarmosetNMA_v1_area29a-cOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area29a-cOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A29a-c
@@ -457,6 +480,7 @@ MarmosetNMA_v1_area29dOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area29dOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A29d
@@ -476,6 +500,7 @@ MarmosetNMA_v1_area30OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area30OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A30
@@ -495,6 +520,7 @@ MarmosetNMA_v1_area31OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area31OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A31
@@ -514,6 +540,7 @@ MarmosetNMA_v1_area32OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area32OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A32
@@ -533,6 +560,7 @@ MarmosetNMA_v1_area32OfCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area32OfCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A32V
@@ -553,6 +581,7 @@ MarmosetNMA_v1_area35OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area35OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A35
@@ -572,6 +601,7 @@ MarmosetNMA_v1_area36OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area36OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A36
@@ -591,6 +621,7 @@ MarmosetNMA_v1_area3aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area3aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A3a
@@ -610,6 +641,7 @@ MarmosetNMA_v1_area3bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area3bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A3b
@@ -629,6 +661,7 @@ MarmosetNMA_v1_area45OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area45OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A45
@@ -648,6 +681,7 @@ MarmosetNMA_v1_area46OfCortexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A46D
@@ -668,6 +702,7 @@ MarmosetNMA_v1_area46OfCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area46OfCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A46V
@@ -688,6 +723,7 @@ MarmosetNMA_v1_area47OfCortexLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A47L(12L)
@@ -708,6 +744,7 @@ MarmosetNMA_v1_area47OfCortexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A47M(12M)
@@ -728,6 +765,7 @@ MarmosetNMA_v1_area47OfCortexOrbitalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area47OfCortexOrbitalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A47O(12O)
@@ -748,6 +786,7 @@ MarmosetNMA_v1_area4OfCortexPartC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartC
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A4c
@@ -768,6 +807,7 @@ MarmosetNMA_v1_area4OfCortexPartsAAndB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area4OfCortexPartsAAndB
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A4ab
@@ -788,6 +828,7 @@ MarmosetNMA_v1_area6OfCortexDorsocaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexDorsocaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A6DC
@@ -808,6 +849,7 @@ MarmosetNMA_v1_area6OfCortexDorsorostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexDorsorostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A6DR
@@ -828,6 +870,7 @@ MarmosetNMA_v1_area6OfCortexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A6M
@@ -848,6 +891,7 @@ MarmosetNMA_v1_area6OfCortexVentralPartA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexVentralPartA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A6Va
@@ -868,6 +912,7 @@ MarmosetNMA_v1_area6OfCortexVentralPartB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area6OfCortexVentralPartB
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A6Vb
@@ -888,6 +933,7 @@ MarmosetNMA_v1_area8OfCortexCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area8OfCortexCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A8C
@@ -908,6 +954,7 @@ MarmosetNMA_v1_area8aOfCortexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area8aOfCortexDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A8aD
@@ -928,6 +975,7 @@ MarmosetNMA_v1_area8aOfCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area8aOfCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A8aV
@@ -948,6 +996,7 @@ MarmosetNMA_v1_area8bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area8bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A8b
@@ -967,6 +1016,7 @@ MarmosetNMA_v1_area9OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_area9OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A9
@@ -986,6 +1036,7 @@ MarmosetNMA_v1_areas1And2OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_areas1And2OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A1/2
@@ -1005,6 +1056,7 @@ MarmosetNMA_v1_auditoryCortexAnterolateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexAnterolateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuAL
@@ -1025,6 +1077,7 @@ MarmosetNMA_v1_auditoryCortexCaudalParabeltArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudalParabeltArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuCPB
@@ -1045,6 +1098,7 @@ MarmosetNMA_v1_auditoryCortexCaudolateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudolateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuCL
@@ -1065,6 +1119,7 @@ MarmosetNMA_v1_auditoryCortexCaudomedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexCaudomedialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuCM
@@ -1085,6 +1140,7 @@ MarmosetNMA_v1_auditoryCortexMiddleLateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexMiddleLateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuML
@@ -1105,6 +1161,7 @@ MarmosetNMA_v1_auditoryCortexPrimaryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexPrimaryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuA1
@@ -1125,6 +1182,7 @@ MarmosetNMA_v1_auditoryCortexRostralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuR
@@ -1145,6 +1203,7 @@ MarmosetNMA_v1_auditoryCortexRostralParabelt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostralParabelt
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuRPB
@@ -1165,6 +1224,7 @@ MarmosetNMA_v1_auditoryCortexRostromedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostromedialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuRM
@@ -1185,6 +1245,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporal
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuRT
@@ -1205,6 +1266,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalLateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuRTL
@@ -1225,6 +1287,7 @@ MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_auditoryCortexRostrotemporalMedialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuRTM
@@ -1245,6 +1308,7 @@ MarmosetNMA_v1_dysgranularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_dysgranularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DI
@@ -1264,6 +1328,7 @@ MarmosetNMA_v1_entorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_entorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ent
@@ -1283,6 +1348,7 @@ MarmosetNMA_v1_fundusOfSuperiorTemporalSulcusAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_fundusOfSuperiorTemporalSulcusAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: FST
@@ -1302,6 +1368,7 @@ MarmosetNMA_v1_granularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_granularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GI
@@ -1321,6 +1388,7 @@ MarmosetNMA_v1_gustatoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_gustatoryCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Gu
@@ -1340,6 +1408,7 @@ MarmosetNMA_v1_insularProisocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_insularProisocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPro
@@ -1359,6 +1428,7 @@ MarmosetNMA_v1_lateralIntraparietalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_lateralIntraparietalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LIP
@@ -1378,6 +1448,7 @@ MarmosetNMA_v1_medialIntraparietalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_medialIntraparietalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MIP
@@ -1397,6 +1468,7 @@ MarmosetNMA_v1_medialSuperiorTemporalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_medialSuperiorTemporalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MST
@@ -1416,6 +1488,7 @@ MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_occipito-parietalTransitionalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OPt
@@ -1435,6 +1508,7 @@ MarmosetNMA_v1_orbitalPeriallocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_orbitalPeriallocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OPAl
@@ -1454,6 +1528,7 @@ MarmosetNMA_v1_orbitalProisocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_orbitalProisocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OPro
@@ -1473,6 +1548,7 @@ MarmosetNMA_v1_parainsularCortexLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaIL
@@ -1493,6 +1569,7 @@ MarmosetNMA_v1_parainsularCortexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parainsularCortexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaIM
@@ -1513,6 +1590,7 @@ MarmosetNMA_v1_parietalAreaPE
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPE
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PE
@@ -1532,6 +1610,7 @@ MarmosetNMA_v1_parietalAreaPECaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPECaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PEC
@@ -1552,6 +1631,7 @@ MarmosetNMA_v1_parietalAreaPF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPF
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PF
@@ -1571,6 +1651,7 @@ MarmosetNMA_v1_parietalAreaPFG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPFG
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PFG
@@ -1590,6 +1671,7 @@ MarmosetNMA_v1_parietalAreaPG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPG
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PG
@@ -1609,6 +1691,7 @@ MarmosetNMA_v1_parietalAreaPGMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreaPGMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PGM
@@ -1629,6 +1712,7 @@ MarmosetNMA_v1_parietalAreasPGaAndIPa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_parietalAreasPGaAndIPa
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PGa/IPa(FSTv)
@@ -1648,6 +1732,7 @@ MarmosetNMA_v1_piriformCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_piriformCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pir
@@ -1667,6 +1752,7 @@ MarmosetNMA_v1_primaryVisualCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_primaryVisualCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V1
@@ -1686,6 +1772,7 @@ MarmosetNMA_v1_proisocorticalMotorRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_proisocorticalMotorRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ProM(PrCO)
@@ -1705,6 +1792,7 @@ MarmosetNMA_v1_prostriateArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_prostriateArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ProSt
@@ -1724,6 +1812,7 @@ MarmosetNMA_v1_retroinsularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_retroinsularArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ReI
@@ -1743,6 +1832,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S2E
@@ -1763,6 +1853,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexInternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S2I
@@ -1783,6 +1874,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexParietalRostralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexParietalRostralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S2PR
@@ -1803,6 +1895,7 @@ MarmosetNMA_v1_secondarySomatosensoryCortexParietalVentralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_secondarySomatosensoryCortexParietalVentralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S2PV
@@ -1823,6 +1916,7 @@ MarmosetNMA_v1_superiorTemporalRostralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_superiorTemporalRostralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STR
@@ -1842,6 +1936,7 @@ MarmosetNMA_v1_temporalAreaTE1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTE1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TE1
@@ -1861,6 +1956,7 @@ MarmosetNMA_v1_temporalAreaTE2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTE2
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TE2
@@ -1880,6 +1976,7 @@ MarmosetNMA_v1_temporalAreaTE3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTE3
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TE3
@@ -1899,6 +1996,7 @@ MarmosetNMA_v1_temporalAreaTEOccipitalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTEOccipitalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TEO
@@ -1919,6 +2017,7 @@ MarmosetNMA_v1_temporalAreaTF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTF
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TF
@@ -1938,6 +2037,7 @@ MarmosetNMA_v1_temporalAreaTFOccipitalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTFOccipitalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TFO
@@ -1958,6 +2058,7 @@ MarmosetNMA_v1_temporalAreaTH
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTH
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TH
@@ -1977,6 +2078,7 @@ MarmosetNMA_v1_temporalAreaTL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTL
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TL
@@ -1996,6 +2098,7 @@ MarmosetNMA_v1_temporalAreaTLOccipitalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalAreaTLOccipitalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TLO
@@ -2016,6 +2119,7 @@ MarmosetNMA_v1_temporalProisocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporalProisocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TPro
@@ -2035,6 +2139,7 @@ MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporo-parieto-occipitalAssociationArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TPO(STP)
@@ -2054,6 +2159,7 @@ MarmosetNMA_v1_temporoparietalTransitionalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporoparietalTransitionalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TPt
@@ -2073,6 +2179,7 @@ MarmosetNMA_v1_temporopolarProisocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_temporopolarProisocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TPPro
@@ -2092,6 +2199,7 @@ MarmosetNMA_v1_ventralIntraparietalAreaOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_ventralIntraparietalAreaOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VIP
@@ -2111,6 +2219,7 @@ MarmosetNMA_v1_visualArea2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea2
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V2
@@ -2130,6 +2239,7 @@ MarmosetNMA_v1_visualArea3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea3
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V3(VLP)
@@ -2149,6 +2259,7 @@ MarmosetNMA_v1_visualArea3A
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea3A
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V3A(DA)
@@ -2168,6 +2279,7 @@ MarmosetNMA_v1_visualArea4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea4
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V4(VLA)
@@ -2187,6 +2299,7 @@ MarmosetNMA_v1_visualArea4TransitionalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea4TransitionalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V4T(MTC)
@@ -2207,6 +2320,7 @@ MarmosetNMA_v1_visualArea5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea5
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V5(MT)
@@ -2226,6 +2340,7 @@ MarmosetNMA_v1_visualArea6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea6
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V6(DM)
@@ -2245,6 +2360,7 @@ MarmosetNMA_v1_visualArea6A
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/parcellationEntityVersion/MarmosetNMA_v1_visualArea6A
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V6A(PPM)

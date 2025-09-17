@@ -13,6 +13,7 @@ frequencyEncoding
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/MRSpatialEncoding/frequencyEncoding
    :@type: https://openminds.om-i.org/types/MRSpatialEncoding
    :definition: Gradients establish a direct relationship between frequency and spatial position, a process referred to as frequency encoding.
@@ -28,6 +29,7 @@ frequencyPhaseEncoding
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/MRSpatialEncoding/frequencyPhaseEncoding
    :@type: https://openminds.om-i.org/types/MRSpatialEncoding
    :definition: Using frequency encoding and phase encoding in conjunction together to acquire 2D magnetic resonance images.
@@ -43,6 +45,7 @@ frequencyPhasePhaseEncoding
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/MRSpatialEncoding/frequencyPhasePhaseEncoding
    :@type: https://openminds.om-i.org/types/MRSpatialEncoding
    :definition: 3D MRI imaging is a technique that acquires volumetric data by using frequency encoding and two phase encoding steps, eliminating the need for slice selection and enabling high-resolution, multi-plane image reconstruction.
@@ -58,6 +61,7 @@ phaseEncoding
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/MRSpatialEncoding/phaseEncoding
    :@type: https://openminds.om-i.org/types/MRSpatialEncoding
    :definition: Gradients establish a direct relationship between phase and spatial position, a process referred to as phase encoding.
