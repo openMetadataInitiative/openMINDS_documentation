@@ -12,8 +12,6 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
-    'IPython.sphinxext.ipython_console_highlighting',
-    'IPython.sphinxext.ipython_directive',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
