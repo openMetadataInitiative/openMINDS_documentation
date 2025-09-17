@@ -13,6 +13,7 @@ desktop
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/desktop
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: desktop
@@ -27,6 +28,7 @@ embeddedSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: embedded system
@@ -41,6 +43,7 @@ highPerformanceComputer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/highPerformanceComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: high-performance computer
@@ -55,6 +58,7 @@ mobile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/mobile
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: mobile
@@ -69,6 +73,7 @@ neuromorphicComputer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/neuromorphicComputer
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :definition: Very-large-scale integration (VLSI) systems containing electronic circuits used to mimic neuro-biological architectures present in the nervous system.
@@ -84,6 +89,7 @@ server
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/server
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: server
@@ -98,6 +104,7 @@ web
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingDevice/web
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingDevice
    :name: web

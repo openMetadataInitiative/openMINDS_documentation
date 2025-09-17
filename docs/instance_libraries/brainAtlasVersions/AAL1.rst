@@ -13,6 +13,7 @@ AAL1_SPM12-v4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/AAL1_SPM12-v4
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: AAL1

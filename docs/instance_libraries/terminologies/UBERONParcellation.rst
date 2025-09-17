@@ -13,6 +13,7 @@ A10DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A10DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036005)]
@@ -29,6 +30,7 @@ A11DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A11DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036006)]
@@ -45,6 +47,7 @@ A12DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A12DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036009)]
@@ -61,6 +64,7 @@ A13DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A13DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. Is part of the zona incerta. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036007) ('is_a' and 'relationship')]
@@ -78,6 +82,7 @@ A14DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A14DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036001)]
@@ -94,6 +99,7 @@ A15DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A15DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036002)]
@@ -110,6 +116,7 @@ A16DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A16DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036008)]
@@ -126,6 +133,7 @@ A17DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A17DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036004)]
@@ -142,6 +150,7 @@ A8DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A8DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036000)]
@@ -158,6 +167,7 @@ A9DopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/A9DopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036003)]
@@ -174,6 +184,7 @@ AaqDopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/AaqDopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036010)]
@@ -190,6 +201,7 @@ AmmonsHorn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/AmmonsHorn
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the limbic system, the hippocampal formation and the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001954) ('is_a' and 'relationship')]
@@ -208,6 +220,7 @@ CA1Alveus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1Alveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA1 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014570) ('is_a' and 'relationship')]
@@ -226,6 +239,7 @@ CA1FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003881)]
@@ -244,6 +258,7 @@ CA1StratumLacunosumMoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA1 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014557) ('is_a' and 'relationship')]
@@ -262,6 +277,7 @@ CA1StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumOriens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA1 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014552) ('is_a' and 'relationship')]
@@ -280,6 +296,7 @@ CA1StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA1 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014554) ('is_a' and 'relationship')]
@@ -298,6 +315,7 @@ CA2FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003882)]
@@ -316,6 +334,7 @@ CA2StratumLacunosumMoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumLacunosumMoleculare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA2 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014558) ('is_a' and 'relationship')]
@@ -333,6 +352,7 @@ CA2StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumOriens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA2 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014551) ('is_a' and 'relationship')]
@@ -350,6 +370,7 @@ CA2StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA2StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA2 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014555) ('is_a' and 'relationship')]
@@ -368,6 +389,7 @@ CA3Alveus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3Alveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA3 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014571) ('is_a' and 'relationship')]
@@ -386,6 +408,7 @@ CA3FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003883)]
@@ -404,6 +427,7 @@ CA3StratumLacunosumMoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumLacunosumMoleculare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA3 field. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014559) ('is_a' and 'relationship')]
@@ -421,6 +445,7 @@ CA3StratumLucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumLucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the CA3 field of hippocampus and the hippocampus stratum lucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014560) ('is_a' and 'relationship')]
@@ -438,6 +463,7 @@ CA3StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumOriens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA3 field. Is part of the hippocampus stratum oriens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014553) ('is_a' and 'relationship')]
@@ -455,6 +481,7 @@ CA3StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA3StratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA3 field. Is part of the hippocampus stratum radiatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014556) ('is_a' and 'relationship')]
@@ -473,6 +500,7 @@ CA4FieldOfHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/CA4FieldOfHippocampus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hippocampal field. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003884)]
@@ -490,6 +518,7 @@ GruenebergGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/GruenebergGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013208)]
@@ -507,6 +536,7 @@ HenlesFiberLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/HenlesFiberLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system cell part layer. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8000005) ('is_a' and 'relationship')]
@@ -523,6 +553,7 @@ P1AreaOfPalliumMyxiniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P1AreaOfPalliumMyxiniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014751) ('is_a' and 'relationship')]
@@ -540,6 +571,7 @@ P2AreaOfPalliumMyxiniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P2AreaOfPalliumMyxiniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014752) ('is_a' and 'relationship')]
@@ -557,6 +589,7 @@ P3AreaOfPalliumMyxiniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P3AreaOfPalliumMyxiniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014753) ('is_a' and 'relationship')]
@@ -574,6 +607,7 @@ P4AreaOfPalliumMyxiniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P4AreaOfPalliumMyxiniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014754) ('is_a' and 'relationship')]
@@ -591,6 +625,7 @@ P5AreaOfPalliumMyxiniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/P5AreaOfPalliumMyxiniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014755) ('is_a' and 'relationship')]
@@ -608,6 +643,7 @@ PurkinjeCellLayerCorpusCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/PurkinjeCellLayerCorpusCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the corpus cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002240)]
@@ -624,6 +660,7 @@ PurkinjeCellLayerOfCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/PurkinjeCellLayerOfCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002979)]
@@ -641,6 +678,7 @@ PurkinjeCellLayerValvulaCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/PurkinjeCellLayerValvulaCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002241)]
@@ -657,6 +695,7 @@ abdominalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/abdominalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a trunk ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009758)]
@@ -674,6 +713,7 @@ abdominalGanglionOfVisceralHump
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/abdominalGanglionOfVisceralHump
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008964)]
@@ -691,6 +731,7 @@ abducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Abducens nucleus' is a cranial nerve nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pons.
@@ -709,6 +750,7 @@ accessoryAbducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryAbducensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Accessory abducens nucleus' is a nucleus of pontine reticular formation.
@@ -727,6 +769,7 @@ accessoryBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
@@ -744,6 +787,7 @@ accessoryCiliaryGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCiliaryGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035776)]
@@ -761,6 +805,7 @@ accessoryCuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryCuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Accessory cuneate nucleus' is a nucleus of medulla oblongata.
@@ -779,6 +824,7 @@ accessoryMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Accessory medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the medial globus pallidus.
@@ -797,6 +843,7 @@ accessoryNerveFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Accessory nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
@@ -815,6 +862,7 @@ accessoryNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A nerve root that is part of a accessory XI nerve.
@@ -833,6 +881,7 @@ accessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004069) ('is_a' and 'relationship')]
@@ -850,6 +899,7 @@ accessoryOlfactoryBulbExternalPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbExternalPlexiformLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. Is part of the accessory olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019289) ('is_a' and 'relationship')]
@@ -866,6 +916,7 @@ accessoryOlfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster. Is part of the accessory olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007631) ('is_a' and 'relationship')]
@@ -882,6 +933,7 @@ accessoryOlfactoryBulbGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. Is part of the accessory olfactory bulb and the olfactory bulb granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015244) ('is_a' and 'relationship')]
@@ -898,6 +950,7 @@ accessoryOlfactoryBulbInternalPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbInternalPlexiformLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. Is part of the accessory olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019290) ('is_a' and 'relationship')]
@@ -914,6 +967,7 @@ accessoryOlfactoryBulbMitralCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOlfactoryBulbMitralCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. Is part of the accessory olfactory bulb and the olfactory bulb mitral cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015432) ('is_a' and 'relationship')]
@@ -930,6 +984,7 @@ accessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryOpticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the optic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035595) ('is_a' and 'relationship')]
@@ -946,6 +1001,7 @@ acousticoFacialVIIVIIIGanglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/acousticoFacialVIIVIIIGanglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012175)]
@@ -962,6 +1018,7 @@ adenohypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Adenohypophysis' is part of the pituitary gland.
@@ -980,6 +1037,7 @@ aggregateRegionalPartOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Aggregate regional part of brain' is an anatomical entity. It is part of the brain.
@@ -998,6 +1056,7 @@ agranularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/agranularInsularCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the insular cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034893) ('is_a' and 'relationship')]
@@ -1015,6 +1074,7 @@ alarCentralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alarCentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003013)]
@@ -1033,6 +1093,7 @@ allocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/allocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014734) ('is_a' and 'relationship')]
@@ -1051,6 +1112,7 @@ alveusOfCA2Field
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alveusOfCA2Field
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA2 field. Is part of the hippocampus alveus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035802) ('is_a' and 'relationship')]
@@ -1068,6 +1130,7 @@ ambientGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ambientGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the uncus of parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036164) ('is_a' and 'relationship')]
@@ -1085,6 +1148,7 @@ amiculumOfDentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Amiculum of dentate nucleus' is a white matter of metencephalon and amiculum. It is part of the dentate nucleus.
@@ -1103,6 +1167,7 @@ amygdala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.
@@ -1121,6 +1186,7 @@ amygdalohippocampalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalohippocampalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034673) ('is_a' and 'relationship')]
@@ -1138,6 +1204,7 @@ amygdalohippocampalAreaMagnocellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalohippocampalAreaMagnocellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035027) ('is_a' and 'relationship')]
@@ -1154,6 +1221,7 @@ amygdalohippocampalAreaParvocellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalohippocampalAreaParvocellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035028) ('is_a' and 'relationship')]
@@ -1170,6 +1238,7 @@ amygdalohippocampalTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalohippocampalTransitionArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the amygdalohippocampal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035026) ('is_a' and 'relationship')]
@@ -1186,6 +1255,7 @@ amygdalopiriformTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdalopiriformTransitionArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034989) ('is_a' and 'relationship')]
@@ -1202,6 +1272,7 @@ angularGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/angularGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002686) ('is_a' and 'relationship')]
@@ -1220,6 +1291,7 @@ angularSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/angularSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus and sulcus of parietal lobe. Is part of the angular gyrus and the superior temporal sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026725) ('is_a' and 'relationship')]
@@ -1237,6 +1309,7 @@ annectantGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/annectantGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026137)]
@@ -1254,6 +1327,7 @@ ansaLenticularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ansa lenticularis' is a diencephalic white matter. It is part of the ventral thalamus.
@@ -1272,6 +1346,7 @@ ansiformLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005348)]
@@ -1289,6 +1364,7 @@ ansiformLobuleCrusI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an ansiform lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005976)]
@@ -1306,6 +1382,7 @@ ansiformLobuleCrusII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an ansiform lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005977)]
@@ -1323,6 +1400,7 @@ ansoparamedianFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansoparamedianFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014468)]
@@ -1340,6 +1418,7 @@ anteriorAmygdaloidArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002890) ('is_a' and 'relationship')]
@@ -1357,6 +1436,7 @@ anteriorAscendingLimbOfLateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorAscendingLimbOfLateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002670) ('is_a' and 'relationship')]
@@ -1373,6 +1453,7 @@ anteriorCalcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002582)]
@@ -1390,6 +1471,7 @@ anteriorCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001672)]
@@ -1406,6 +1488,7 @@ anteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009835) ('is_a' and 'relationship')]
@@ -1424,6 +1507,7 @@ anteriorCingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the cingulate gyrus and the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002756) ('is_a' and 'relationship')]
@@ -1441,6 +1525,7 @@ anteriorColumnOfFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.
@@ -1459,6 +1544,7 @@ anteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an intercerebral commissure and ventral commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000935)]
@@ -1477,6 +1563,7 @@ anteriorCommissureAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissureAnteriorPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of telencephalon. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003039) ('is_a' and 'relationship')]
@@ -1495,6 +1582,7 @@ anteriorHorizontalLimbOfLateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHorizontalLimbOfLateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002669) ('is_a' and 'relationship')]
@@ -1511,6 +1599,7 @@ anteriorHornOfLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic ventricle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002651)]
@@ -1529,6 +1618,7 @@ anteriorHypothalamicCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002694)]
@@ -1545,6 +1635,7 @@ anteriorHypothalamicRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
@@ -1563,6 +1654,7 @@ anteriorLateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001391)]
@@ -1580,6 +1672,7 @@ anteriorLimbOfInternalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior limb of internal capsule' is a limb of internal capsule of telencephalon.
@@ -1598,6 +1691,7 @@ anteriorLobeOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLobeOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002131)]
@@ -1616,6 +1710,7 @@ anteriorMedianEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
@@ -1634,6 +1729,7 @@ anteriorMedianFissureOfSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianFissureOfSpinalCord
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035319)]
@@ -1651,6 +1747,7 @@ anteriorMedianOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior median oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -1669,6 +1766,7 @@ anteriorMesencephalicCentralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMesencephalicCentralArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005052)]
@@ -1686,6 +1784,7 @@ anteriorMiddleTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMiddleTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027113)]
@@ -1702,6 +1801,7 @@ anteriorNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior nuclear group' is a nucleus of dorsal thalamus.
@@ -1720,6 +1820,7 @@ anteriorNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus' is a preoptic nucleus.
@@ -1738,6 +1839,7 @@ anteriorNucleusOfHypothalamusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusCentralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus central part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
@@ -1756,6 +1858,7 @@ anteriorNucleusOfHypothalamusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusDorsalPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus dorsal part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
@@ -1774,6 +1877,7 @@ anteriorNucleusOfHypothalamusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNucleusOfHypothalamusPosteriorPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior nucleus of hypothalamus posterior part' is a regional part of brain. It is part of the anterior nucleus of hypothalamus.
@@ -1792,6 +1896,7 @@ anteriorOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002906)]
@@ -1808,6 +1913,7 @@ anteriorOlfactoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOlfactoryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior olfactory nucleus' is a telencephalic nucleus. It is part of the olfactory cortex.
@@ -1826,6 +1932,7 @@ anteriorOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022244)]
@@ -1842,6 +1949,7 @@ anteriorParacentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParacentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paracentral gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007191)]
@@ -1858,6 +1966,7 @@ anteriorParahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022383) ('is_a' and 'relationship')]
@@ -1875,6 +1984,7 @@ anteriorParietoOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParietoOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the parieto-occipital sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025829) ('is_a' and 'relationship')]
@@ -1892,6 +2002,7 @@ anteriorParolfactorySulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorParolfactorySulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002919)]
@@ -1908,6 +2019,7 @@ anteriorPerforatedSubstance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior perforated substance' is a regional part of brain. It is part of the telencephalon.
@@ -1926,6 +2038,7 @@ anteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterior pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
@@ -1944,6 +2057,7 @@ anteriorQuadrangularLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003015)]
@@ -1961,6 +2075,7 @@ anteriorSegmentOfParacentralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSegmentOfParacentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the frontal lobe and the paracentral lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035932) ('is_a' and 'relationship')]
@@ -1977,6 +2092,7 @@ anteriorSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the medulla oblongata and the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002987) ('is_a' and 'relationship')]
@@ -1994,6 +2110,7 @@ anteriorSubcentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSubcentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002672)]
@@ -2010,6 +2127,7 @@ anteriorSuperiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorSuperiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the superior frontal sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027716) ('is_a' and 'relationship')]
@@ -2026,6 +2144,7 @@ anteriorTemporalFusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTemporalFusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the fusiform gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022396) ('is_a' and 'relationship')]
@@ -2042,6 +2161,7 @@ anteriorThalamicRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'anterior thalamic radiation' is a white matter fibre bundle. It is part of the thalamic complex.
@@ -2060,6 +2180,7 @@ anteriorTransverseTemporalArea41
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalArea41
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006095)]
@@ -2077,6 +2198,7 @@ anteriorTransverseTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorTransverseTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a transverse gyrus of Heschl. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002773)]
@@ -2095,6 +2217,7 @@ anterodorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
@@ -2113,6 +2236,7 @@ anterodorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anterodorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
@@ -2131,6 +2255,7 @@ anterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterolateralVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035894) ('is_a' and 'relationship')]
@@ -2147,6 +2272,7 @@ anterolateralVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anterolateralVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the anterolateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035908) ('is_a' and 'relationship')]
@@ -2163,6 +2289,7 @@ anteromedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
@@ -2181,6 +2308,7 @@ anteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035893) ('is_a' and 'relationship')]
@@ -2197,6 +2325,7 @@ anteromedialVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the anteromedial visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035913) ('is_a' and 'relationship')]
@@ -2213,6 +2342,7 @@ anteroventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
@@ -2231,6 +2361,7 @@ anteroventralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anteroventral nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.
@@ -2249,6 +2380,7 @@ anteroventralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteroventralPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Anteroventral preoptic nucleus' is a preoptic nucleus.
@@ -2267,6 +2399,7 @@ arachnoidBarrierLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidBarrierLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the endothelial blood brain barrier and the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000437)]
@@ -2284,6 +2417,7 @@ arachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002362)]
@@ -2301,6 +2435,7 @@ archicortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/archicortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an allocortex. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002961) ('is_a' and 'relationship')]
@@ -2317,6 +2452,7 @@ arcopallium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Arcopallium' is a regional part of brain. It is part of the pallium.
@@ -2335,6 +2471,7 @@ arcuateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition:
@@ -2353,6 +2490,7 @@ arcuateNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Arcuate nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and intermediate hypothalamic region.
@@ -2371,6 +2509,7 @@ arcuateNucleusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Arcuate nucleus of medulla' is a nucleus of medulla oblongata.
@@ -2389,6 +2528,7 @@ arcuateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034671) ('is_a' and 'relationship')]
@@ -2406,6 +2546,7 @@ areaPostrema
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaPostrema
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sensory circumventricular organ. Is part of the medulla oblongata and the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002162) ('is_a' and 'relationship')]
@@ -2424,6 +2565,7 @@ areaXOfBasalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nucleus of brain. Is part of the basal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035807) ('is_a' and 'relationship')]
@@ -2442,6 +2584,7 @@ areaXOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
@@ -2460,6 +2603,7 @@ arthropodOpticLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arthropodOpticLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.
@@ -2478,6 +2622,7 @@ associationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/associationCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a functional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035015)]
@@ -2495,6 +2640,7 @@ auditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex and the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001393) ('is_a' and 'relationship')]
@@ -2513,6 +2659,7 @@ autonomicGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/autonomicGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion of peripheral nervous system. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001805) ('is_a' and 'relationship')]
@@ -2530,6 +2677,7 @@ autonomicNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/autonomicNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002410) ('is_a' and 'relationship')]
@@ -2547,6 +2695,7 @@ axonTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/axonTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuron projection bundle and central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001018)]
@@ -2564,6 +2713,7 @@ banksOfSuperiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/banksOfSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the superior temporal sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028622) ('is_a' and 'relationship')]
@@ -2582,6 +2732,7 @@ barrelCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/barrelCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a functional part of brain. Is part of the primary somatosensory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010415) ('is_a' and 'relationship')]
@@ -2600,6 +2751,7 @@ basalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
@@ -2618,6 +2770,7 @@ basalForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basal forebrain' is a regional part of brain. It is part of the forebrain.
@@ -2636,6 +2789,7 @@ basalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain gray matter and nuclear complex of neuraxis. Is part of the collection of basal ganglia. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002420) ('is_a' and 'relationship')]
@@ -2654,6 +2808,7 @@ basalNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basal nuclear complex' is a nuclear complex of neuraxis and gray matter of forebrain. It is part of the basal forebrain.
@@ -2672,6 +2827,7 @@ basalNucleusOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNucleusOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basal nucleus of telencephalon' is a telencephalic nucleus. It is part of the substantia innominata.
@@ -2690,6 +2846,7 @@ basalPartOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basal part of pons' is a regional part of brain. It is part of the pons.
@@ -2708,6 +2865,7 @@ basalPlateMetencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPlateMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube basal plate. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005239)]
@@ -2724,6 +2882,7 @@ basalVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a deep cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035530)]
@@ -2741,6 +2900,7 @@ basolateralAmygdaloidNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Basolateral amygdaloid nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
@@ -2759,6 +2919,7 @@ bedNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bedNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Bed nucleus of stria terminalis' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -2777,6 +2938,7 @@ bloodBrainBarrier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodBrainBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000120) ('is_a' and 'relationship')]
@@ -2794,6 +2956,7 @@ bloodCerebrospinalFluidBarrier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodCerebrospinalFluidBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the choroid plexus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003210)]
@@ -2812,6 +2975,7 @@ bloodNerveBarrier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bloodNerveBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003209) ('is_a' and 'relationship')]
@@ -2829,6 +2993,7 @@ bodyOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Body of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
@@ -2847,6 +3012,7 @@ bodyOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.
@@ -2865,6 +3031,7 @@ bodyOfFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Body of fornix' is a central nervous system cell part cluster. It is part of the fornix of brain.
@@ -2883,6 +3050,7 @@ bodyOfLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic ventricle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002655)]
@@ -2901,6 +3069,7 @@ brachiumOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brachium of inferior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the inferior colliculus and white matter.
@@ -2919,6 +3088,7 @@ brachiumOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brachium of superior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of superior colliculus.
@@ -2937,6 +3107,7 @@ brainArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an arachnoid mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005397)]
@@ -2954,6 +3125,7 @@ brainBloodVessel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the vasculature of brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003499)]
@@ -2972,6 +3144,7 @@ brainCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system commissure and tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005970)]
@@ -2989,6 +3162,7 @@ brainCoronalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainCoronalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013596)]
@@ -3005,6 +3179,7 @@ brainDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dura mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002092)]
@@ -3022,6 +3197,7 @@ brainEndothelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brain endothelium' is part of the brain.
@@ -3040,6 +3216,7 @@ brainEpendyma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brain ependyma' is an ependyma. It is part of the brain ventricle.
@@ -3058,6 +3235,7 @@ brainGrayMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brain gray matter' is a gray matter. It is part of the brain.
@@ -3075,6 +3253,7 @@ brainMarginalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brain marginal zone' is an anatomical entity. It is part of the brain.
@@ -3093,6 +3272,7 @@ brainMeninx
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brain meninx' is a meninx. It is part of the brain.
@@ -3110,6 +3290,7 @@ brainPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a pia mater and brain meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003549)]
@@ -3127,6 +3308,7 @@ brainVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ventricle/choroid plexus and ventricle of nervous system. Is part of the ventricular system of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004086) ('is_a' and 'relationship')]
@@ -3145,6 +3327,7 @@ brainVentricleChoroidPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainVentricleChoroidPlexus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003947)]
@@ -3163,6 +3346,7 @@ brainWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003544) ('is_a' and 'relationship')]
@@ -3181,6 +3365,7 @@ brainstem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Brainstem' is a regional part of brain.
@@ -3199,6 +3384,7 @@ brainstemAndSpinalWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstemAndSpinalWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000318)]
@@ -3216,6 +3402,7 @@ brainstemWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstemWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain white matter. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014891) ('is_a' and 'relationship')]
@@ -3233,6 +3420,7 @@ calcarAvisOfTheLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarAvisOfTheLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the telencephalic ventricle and the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035970) ('is_a' and 'relationship')]
@@ -3250,6 +3438,7 @@ calcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002586) ('is_a' and 'relationship')]
@@ -3268,6 +3457,7 @@ calcarineSulcusDorsal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcusDorsal
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the calcarine sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028395) ('is_a' and 'relationship')]
@@ -3284,6 +3474,7 @@ calcarineSulcusVentral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcusVentral
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the calcarine sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028396) ('is_a' and 'relationship')]
@@ -3300,6 +3491,7 @@ calcifiedStructureOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Calcified structure of brain' is part of the brain.
@@ -3317,6 +3509,7 @@ callosalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/callosalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002920)]
@@ -3334,6 +3527,7 @@ capsuleOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.
@@ -3352,6 +3546,7 @@ capsuleOfRedNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Capsule of red nucleus' is a brainstem white matter and white matter of midbrain. It is part of the red nucleus.
@@ -3370,6 +3565,7 @@ cardiacGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cardiacGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014463)]
@@ -3387,6 +3583,7 @@ caudalAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028715) ('is_a' and 'relationship')]
@@ -3405,6 +3602,7 @@ caudalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034780) ('is_a' and 'relationship')]
@@ -3421,6 +3619,7 @@ caudalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034781) ('is_a' and 'relationship')]
@@ -3437,6 +3636,7 @@ caudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034782) ('is_a' and 'relationship')]
@@ -3453,6 +3653,7 @@ caudalCentralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCentralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudal central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -3471,6 +3672,7 @@ caudalCerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalCerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebellum. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000174) ('is_a' and 'relationship')]
@@ -3487,6 +3689,7 @@ caudalGanglionicEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalGanglionicEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004026) ('is_a' and 'relationship')]
@@ -3504,6 +3707,7 @@ caudalMesencephaloCerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMesencephaloCerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000479) ('is_a' and 'relationship')]
@@ -3520,6 +3724,7 @@ caudalMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. Is part of the middle frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006445) ('is_a' and 'relationship')]
@@ -3538,6 +3743,7 @@ caudalPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudal part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
@@ -3556,6 +3762,7 @@ caudalPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudal part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
@@ -3574,6 +3781,7 @@ caudalPartOfVentralPosterolateralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPartOfVentralPosterolateralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudal part of ventral posterolateral nucleus of thalamus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
@@ -3592,6 +3800,7 @@ caudalPontineReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudalPontineReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudal pontine reticular nucleus' is a nucleus of pontine reticular formation.
@@ -3610,6 +3819,7 @@ caudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudate nucleus' is a telencephalic nucleus. It is part of the caudate-putamen.
@@ -3628,6 +3838,7 @@ caudateputamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Caudate-putamen' is a central nervous system cell part cluster. It is part of the dorsal striatum.
@@ -3646,6 +3857,7 @@ celiacGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/celiacGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a prevertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002262)]
@@ -3663,6 +3875,7 @@ centralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central amygdaloid nucleus' is a telencephalic nucleus. It is part of the amygdala.
@@ -3681,6 +3894,7 @@ centralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005020)]
@@ -3698,6 +3912,7 @@ centralCervicalSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralCervicalSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023983) ('is_a' and 'relationship')]
@@ -3716,6 +3931,7 @@ centralDorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central dorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
@@ -3734,6 +3950,7 @@ centralGraySubstanceOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central gray substance of medulla' is a gray matter of hindbrain and central gray substance. It is part of the medulla oblongata.
@@ -3752,6 +3969,7 @@ centralGraySubstanceOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central gray substance of midbrain' is a gray matter of midbrain and central gray substance. It is part of the midbrain tegmentum.
@@ -3770,6 +3988,7 @@ centralGraySubstanceOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralGraySubstanceOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central gray substance of pons' is a gray matter of hindbrain and central gray substance. It is part of the pontine reticular formation.
@@ -3788,6 +4007,7 @@ centralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central lateral nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
@@ -3806,6 +4026,7 @@ centralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum anterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003021) ('is_a' and 'relationship')]
@@ -3824,6 +4045,7 @@ centralMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralMedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central medial nucleus' is a nucleus of dorsal thalamus. It is part of the rostral intralaminar nuclear group.
@@ -3842,6 +4064,7 @@ centralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
@@ -3859,6 +4082,7 @@ centralNervousSystemCellPartCluster
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNervousSystemCellPartCluster
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011215) ('is_a' and 'relationship')]
@@ -3876,6 +4100,7 @@ centralNervousSystemGrayMatterLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNervousSystemGrayMatterLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system cell part layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016548)]
@@ -3893,6 +4118,7 @@ centralNervousSystemWhiteMatterLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNervousSystemWhiteMatterLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system cell part layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016549)]
@@ -3910,6 +4136,7 @@ centralNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
@@ -3928,6 +4155,7 @@ centralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Central oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -3946,6 +4174,7 @@ centralRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_8000004) ('is_a' and 'relationship')]
@@ -3962,6 +4191,7 @@ centralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002916) ('is_a' and 'relationship')]
@@ -3980,6 +4210,7 @@ centralSulcusOfInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralSulcusOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and occipital sulcus. Is part of the intralingual sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035925) ('is_a' and 'relationship')]
@@ -3996,6 +4227,7 @@ centralTegmentalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009643)]
@@ -4013,6 +4245,7 @@ centralTegmentalTractOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the midbrain tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002585) ('is_a' and 'relationship')]
@@ -4030,6 +4263,7 @@ centralTegmentalTractOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the pontine tegmentum and the central tegmental tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002783) ('is_a' and 'relationship')]
@@ -4047,6 +4281,7 @@ centromedianNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/centromedianNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Centromedian nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
@@ -4065,6 +4300,7 @@ cephalopodOpticLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cephalopodOpticLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a visual processing part of nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006796) ('is_a' and 'relationship')]
@@ -4083,6 +4319,7 @@ cerebellarCentralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCentralArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005021)]
@@ -4100,6 +4337,7 @@ cerebellarCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system commissure. Is part of the white matter of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006847) ('is_a' and 'relationship')]
@@ -4117,6 +4355,7 @@ cerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter of hindbrain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002129) ('is_a' and 'relationship')]
@@ -4135,6 +4374,7 @@ cerebellarCrest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCrest
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the medial octavolateralis nucleus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000636)]
@@ -4151,6 +4391,7 @@ cerebellarGlomerulus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarGlomerulus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural glomerulus. Is part of the granular layer of cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011915) ('is_a' and 'relationship')]
@@ -4168,6 +4409,7 @@ cerebellarHemisphere
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002245)]
@@ -4185,6 +4427,7 @@ cerebellarLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and central nervous system gray matter layer. Is part of the cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004130) ('is_a' and 'relationship')]
@@ -4203,6 +4446,7 @@ cerebellarNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002130) ('is_a' and 'relationship')]
@@ -4221,6 +4465,7 @@ cerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a peduncle of neuraxis and brainstem white matter. Is part of the cerebellar peduncular complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007416) ('is_a' and 'relationship')]
@@ -4238,6 +4483,7 @@ cerebellarPeduncularComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPeduncularComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the white matter of cerebellum and the brainstem white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002474) ('is_a' and 'relationship')]
@@ -4255,6 +4501,7 @@ cerebellarPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the cerebellum. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004008)]
@@ -4273,6 +4520,7 @@ cerebellarVermis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004720)]
@@ -4291,6 +4539,7 @@ cerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002037) ('is_a' and 'relationship')]
@@ -4309,6 +4558,7 @@ cerebellumAnteriorVermis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumAnteriorVermis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar vermis. Is part of the anterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003941) ('is_a' and 'relationship')]
@@ -4326,6 +4576,7 @@ cerebellumExternalGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumExternalGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a granular layer of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008829)]
@@ -4343,6 +4594,7 @@ cerebellumFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid fissure. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003980) ('is_a' and 'relationship')]
@@ -4361,6 +4613,7 @@ cerebellumGloboseNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.
@@ -4379,6 +4632,7 @@ cerebellumHemisphereLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphereLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum lobule. Is part of the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004003) ('is_a' and 'relationship')]
@@ -4396,6 +4650,7 @@ cerebellumHemisphericLobuleII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023998)]
@@ -4412,6 +4667,7 @@ cerebellumHemisphericLobuleIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023999)]
@@ -4428,6 +4684,7 @@ cerebellumHemisphericLobuleIV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleIV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024000)]
@@ -4444,6 +4701,7 @@ cerebellumHemisphericLobuleV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar anterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024001)]
@@ -4460,6 +4718,7 @@ cerebellumHemisphericLobuleVII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleVII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024003)]
@@ -4476,6 +4735,7 @@ cerebellumHemisphericLobuleX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumHemisphericLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024009)]
@@ -4493,6 +4753,7 @@ cerebellumIntermediateZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the spinocerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004006) ('is_a' and 'relationship')]
@@ -4511,6 +4772,7 @@ cerebellumInternalGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInternalGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a granular layer of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008830)]
@@ -4527,6 +4789,7 @@ cerebellumInterpositusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumInterpositusNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cerebellum interpositus nucleus' is a nucleus of cerebellar nuclear complex.
@@ -4545,6 +4808,7 @@ cerebellumLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005293)]
@@ -4562,6 +4826,7 @@ cerebellumLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004004)]
@@ -4579,6 +4844,7 @@ cerebellumMarginalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hindbrain marginal layer. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034708) ('is_a' and 'relationship')]
@@ -4596,6 +4862,7 @@ cerebellumPosteriorVermis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumPosteriorVermis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar vermis. Is part of the posterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004009) ('is_a' and 'relationship')]
@@ -4613,6 +4880,7 @@ cerebellumVasculature
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a vasculature of central nervous system. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006694) ('is_a' and 'relationship')]
@@ -4631,6 +4899,7 @@ cerebellumVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar layer. Is part of the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015828) ('is_a' and 'relationship')]
@@ -4647,6 +4916,7 @@ cerebellumVermisCulmen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisCulmen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum anterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007763) ('is_a' and 'relationship')]
@@ -4665,6 +4935,7 @@ cerebellumVermisLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum lobule. Is part of the cerebellar vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004070) ('is_a' and 'relationship')]
@@ -4683,6 +4954,7 @@ cerebellumVermisLobuleI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum anterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004074) ('is_a' and 'relationship')]
@@ -4700,6 +4972,7 @@ cerebellumVermisLobuleII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the central lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004075) ('is_a' and 'relationship')]
@@ -4716,6 +4989,7 @@ cerebellumVermisLobuleIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the central lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004076) ('is_a' and 'relationship')]
@@ -4732,6 +5006,7 @@ cerebellumVermisLobuleIV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004077) ('is_a' and 'relationship')]
@@ -4748,6 +5023,7 @@ cerebellumVermisLobuleIX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleIX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004078) ('is_a' and 'relationship')]
@@ -4766,6 +5042,7 @@ cerebellumVermisLobuleV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004079) ('is_a' and 'relationship')]
@@ -4782,6 +5059,7 @@ cerebellumVermisLobuleVI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004080) ('is_a' and 'relationship')]
@@ -4798,6 +5076,7 @@ cerebellumVermisLobuleVII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004081) ('is_a' and 'relationship')]
@@ -4814,6 +5093,7 @@ cerebellumVermisLobuleVIIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIA
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule VII. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005345)]
@@ -4831,6 +5111,7 @@ cerebellumVermisLobuleVIIAf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIAf
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036044) ('is_a' and 'relationship')]
@@ -4847,6 +5128,7 @@ cerebellumVermisLobuleVIIAt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIAt
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036065) ('is_a' and 'relationship')]
@@ -4863,6 +5145,7 @@ cerebellumVermisLobuleVIIB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIIB
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule VII. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005346)]
@@ -4879,6 +5162,7 @@ cerebellumVermisLobuleVIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleVIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004082) ('is_a' and 'relationship')]
@@ -4895,6 +5179,7 @@ cerebellumVermisLobuleX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004083) ('is_a' and 'relationship')]
@@ -4912,6 +5197,7 @@ cerebralBloodVessel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain blood vessel. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016565) ('is_a' and 'relationship')]
@@ -4930,6 +5216,7 @@ cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and central nervous system gray matter layer. Is part of the pallium and the cerebral hemisphere gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000956) ('is_a' and 'relationship')]
@@ -4948,6 +5235,7 @@ cerebralCortexMarginalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. Is part of the brain marginal zone. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014935) ('is_a' and 'relationship')]
@@ -4966,6 +5254,7 @@ cerebralCortexNeuropil
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexNeuropil
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuropil. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013693) ('is_a' and 'relationship')]
@@ -4983,6 +5272,7 @@ cerebralCortexSubventricularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexSubventricularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014940)]
@@ -4999,6 +5289,7 @@ cerebralCortexVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortexVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014936)]
@@ -5015,6 +5306,7 @@ cerebralCrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.
@@ -5033,6 +5325,7 @@ cerebralHemisphere
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cerebral hemisphere' is part of the telencephalon.
@@ -5051,6 +5344,7 @@ cerebralHemisphereWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of telencephalon. Is part of the cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002437) ('is_a' and 'relationship')]
@@ -5069,6 +5363,7 @@ cerebralPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cerebral peduncle' is a peduncle of neuraxis and white matter of midbrain.
@@ -5087,6 +5382,7 @@ cerebralSubcortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000454)]
@@ -5105,6 +5401,7 @@ cerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain blood vessel. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001663) ('is_a' and 'relationship')]
@@ -5122,6 +5419,7 @@ cerebrocerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cerebrocerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014644) ('is_a' and 'relationship')]
@@ -5139,6 +5437,7 @@ cervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002834)]
@@ -5155,6 +5454,7 @@ cervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cervicalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001991)]
@@ -5172,6 +5472,7 @@ cervicothoracicGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cervicothoracicGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002441)]
@@ -5189,6 +5490,7 @@ chemoarchitecturalPartOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Chemoarchitectural part of brain' is a regional part of brain.
@@ -5207,6 +5509,7 @@ chemoarchitecturalPartOfStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.
@@ -5224,6 +5527,7 @@ chemosensoryOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemosensoryOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000005) ('is_a' and 'relationship')]
@@ -5240,6 +5544,7 @@ choroidPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Choroid plexus' is a brain ventricle/choroid plexus and vasculature of central nervous system. It is part of the brain ventricle and tela choroidea.
@@ -5258,6 +5563,7 @@ choroidPlexusCorporaArenacea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusCorporaArenacea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Choroid plexus corpora arenacea' is a calcified structure of brain. It is part of the choroid plexus.
@@ -5276,6 +5582,7 @@ choroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Choroid plexus epithelium' is part of the choroid plexus.
@@ -5294,6 +5601,7 @@ choroidPlexusOfFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus and cerebellum vasculature. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002290) ('is_a' and 'relationship')]
@@ -5312,6 +5620,7 @@ choroidPlexusOfLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002307) ('is_a' and 'relationship')]
@@ -5330,6 +5639,7 @@ choroidPlexusOfTectalVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfTectalVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus. Is part of the midbrain cerebral aqueduct. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007299) ('is_a' and 'relationship')]
@@ -5347,6 +5657,7 @@ choroidPlexusOfThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002288) ('is_a' and 'relationship')]
@@ -5365,6 +5676,7 @@ choroidPlexusStroma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Choroid plexus stroma' is part of the choroid plexus.
@@ -5383,6 +5695,7 @@ cingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the limbic cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003027) ('is_a' and 'relationship')]
@@ -5401,6 +5714,7 @@ cingulateCortexCingulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateCortexCingulum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cingulum of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022428) ('is_a' and 'relationship')]
@@ -5417,6 +5731,7 @@ cingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002967) ('is_a' and 'relationship')]
@@ -5435,6 +5750,7 @@ cingulateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002710)]
@@ -5453,6 +5769,7 @@ cingulumOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cingulum of brain' is a tract of brain. It is part of the brain white matter.
@@ -5471,6 +5788,7 @@ circuitPartOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circuitPartOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024914) ('is_a' and 'relationship')]
@@ -5488,6 +5806,7 @@ circularSulcusOfInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circularSulcusOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a marginal sulcus. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002713) ('is_a' and 'relationship')]
@@ -5506,6 +5825,7 @@ circumventricularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/circumventricularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005408)]
@@ -5524,6 +5844,7 @@ claustralAmygdaloidArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustralAmygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. Is part of the amygdala and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002729) ('is_a' and 'relationship')]
@@ -5541,6 +5862,7 @@ claustrumOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Claustrum of brain' is a basal ganglion and cerebral hemisphere gray matter. It is part of the pallium and basal nuclear complex.
@@ -5559,6 +5881,7 @@ clivusOfFoveaCentralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/clivusOfFoveaCentralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the fovea centralis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002823) ('is_a' and 'relationship')]
@@ -5575,6 +5898,7 @@ cochlearGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. Is part of the vestibulocochlear ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000395) ('is_a' and 'relationship')]
@@ -5592,6 +5916,7 @@ cochlearNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cochlearNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cochlear nuclear complex' is a gray matter of hindbrain. It is part of the medulla oblongata.
@@ -5610,6 +5935,7 @@ collateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002716)]
@@ -5628,6 +5954,7 @@ collectionOfBasalGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Collection of basal ganglia' is an aggregate regional part of brain. It is part of the cerebral subcortex.
@@ -5645,6 +5972,7 @@ commissuraRostralParsDorsalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuraRostralParsDorsalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000638) ('is_a' and 'relationship')]
@@ -5662,6 +5990,7 @@ commissuraRostralParsVentralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuraRostralParsVentralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000185) ('is_a' and 'relationship')]
@@ -5679,6 +6008,7 @@ commissuralNucleusOfTheSolitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfTheSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Commissural nucleus of the solitary tract' is a nucleus of solitary tract.
@@ -5697,6 +6027,7 @@ commissuralNucleusOfVagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissuralNucleusOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Commissural nucleus of vagus nerve' is a nucleus of medulla oblongata and vagus nerve nucleus.
@@ -5715,6 +6046,7 @@ commissureOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain commissure and tract of diencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011590)]
@@ -5732,6 +6064,7 @@ commissureOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain commissure. Is part of the inferior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003028) ('is_a' and 'relationship')]
@@ -5749,6 +6082,7 @@ commissureOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain commissure. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002583) ('is_a' and 'relationship')]
@@ -5766,6 +6100,7 @@ commissureOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/commissureOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain commissure. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019294) ('is_a' and 'relationship')]
@@ -5782,6 +6117,7 @@ compositePartSpanningMultipleBaseRegionalPartsOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Composite part spanning multiple base regional parts of brain' is an anatomical entity. It is part of the brain.
@@ -5800,6 +6136,7 @@ copulaPyramidis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/copulaPyramidis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Copula pyramidis' is a cerebellum hemisphere lobule.
@@ -5818,6 +6155,7 @@ coreOfNucleusAccumbens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Core of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
@@ -5836,6 +6174,7 @@ coronaRadiataOfNeuraxis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/coronaRadiataOfNeuraxis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Corona radiata of neuraxis' is a cerebral hemisphere white matter.
@@ -5854,6 +6193,7 @@ corpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition:
@@ -5872,6 +6212,7 @@ corpusStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Corpus striatum' is a regional part of brain. It is part of the basal ganglion.
@@ -5890,6 +6231,7 @@ cortexOfCerebralLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cortexOfCerebralLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. Is part of the neocortex and the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016529) ('is_a' and 'relationship')]
@@ -5907,6 +6249,7 @@ corticalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cortical amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
@@ -5925,6 +6268,7 @@ corticalIntermediateZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004040)]
@@ -5942,6 +6286,7 @@ corticalLayerI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005390)]
@@ -5960,6 +6305,7 @@ corticalLayerII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005391)]
@@ -5978,6 +6324,7 @@ corticalLayerIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005392)]
@@ -5996,6 +6343,7 @@ corticalLayerIV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerIV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005393)]
@@ -6014,6 +6362,7 @@ corticalLayerV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005394)]
@@ -6032,6 +6381,7 @@ corticalLayerVI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerVI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005395)]
@@ -6050,6 +6400,7 @@ corticalPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005343)]
@@ -6067,6 +6418,7 @@ corticalPreplate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalPreplate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034711)]
@@ -6084,6 +6436,7 @@ corticalSubplate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticalSubplate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of developing cerebral cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004035)]
@@ -6101,6 +6454,7 @@ corticobulbarAndCorticospinalTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticobulbarAndCorticospinalTracts
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036224) ('is_a' and 'relationship')]
@@ -6118,6 +6472,7 @@ corticobulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticobulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of telencephalon and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022272) ('is_a' and 'relationship')]
@@ -6135,6 +6490,7 @@ corticomedialNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006108) ('is_a' and 'relationship')]
@@ -6153,6 +6509,7 @@ corticopontineFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticopontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022271) ('is_a' and 'relationship')]
@@ -6170,6 +6527,7 @@ corticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the motor system and the corticobulbar and corticospinal tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002707) ('is_a' and 'relationship')]
@@ -6188,6 +6546,7 @@ corticotectalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/corticotectalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002556) ('is_a' and 'relationship')]
@@ -6205,6 +6564,7 @@ cranialGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001714)]
@@ -6222,6 +6582,7 @@ cranialNerveII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'cranial nerve II' is comprised of retinal ganglion cell axons running posterior medially towards the optic chiasm, at which some of the axons cross the midline and after which the structure is termed the optic tract.
@@ -6239,6 +6600,7 @@ cranialSensoryGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cranialSensoryGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009992)]
@@ -6256,6 +6618,7 @@ crossedTectoBulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/crossedTectoBulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tectobulbar tract. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000335) ('is_a' and 'relationship')]
@@ -6272,6 +6635,7 @@ cruciateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cruciateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013590)]
@@ -6289,6 +6653,7 @@ cuneateFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneateFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cuneate fasciculus of medulla' is a cuneate fasciculus, fasciculus of brain and tract of brain. It is part of the medulla oblongata.
@@ -6307,6 +6672,7 @@ cuneiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Cuneiform nucleus' is a nucleus of midbrain reticular formation.
@@ -6325,6 +6691,7 @@ cuneocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002640) ('is_a' and 'relationship')]
@@ -6343,6 +6710,7 @@ cuneusCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006092)]
@@ -6361,6 +6729,7 @@ cytoarchitecturalPartOfDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitecturalPartOfDentateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023564)]
@@ -6378,6 +6747,7 @@ cytoarchitectureOfEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cytoarchitectureOfEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0030649) ('is_a' and 'relationship')]
@@ -6394,6 +6764,7 @@ decussationOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural decussation. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007425) ('is_a' and 'relationship')]
@@ -6411,6 +6782,7 @@ decussationOfSuperiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural decussation. Is part of the midbrain tegmentum and the superior cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002588) ('is_a' and 'relationship')]
@@ -6429,6 +6801,7 @@ decussationOfTrochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfTrochlearNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Decussation of trochlear nerve' is a neural decussation. It is part of the pontine tegmentum.
@@ -6447,6 +6820,7 @@ deepCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016564)]
@@ -6464,6 +6838,7 @@ deepGrayLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepGrayLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter layer of superior colliculus and deep layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006789)]
@@ -6480,6 +6855,7 @@ deepLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006793)]
@@ -6497,6 +6873,7 @@ deepMiddleCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepMiddleCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. Is part of the basal vein. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035532) ('is_a' and 'relationship')]
@@ -6514,6 +6891,7 @@ deepWhiteLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/deepWhiteLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of superior colliculus and deep layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006790)]
@@ -6531,6 +6909,7 @@ densocellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/densocellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Densocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
@@ -6549,6 +6928,7 @@ dentateGyrusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005381)]
@@ -6567,6 +6947,7 @@ dentateGyrusGranuleCellLayerInnerBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayerInnerBlade
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022348) ('is_a' and 'relationship')]
@@ -6583,6 +6964,7 @@ dentateGyrusGranuleCellLayerOuterBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayerOuterBlade
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus granule cell layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022349) ('is_a' and 'relationship')]
@@ -6599,6 +6981,7 @@ dentateGyrusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004679)]
@@ -6617,6 +7000,7 @@ dentateGyrusMolecularLayerInner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayerInner
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022347) ('is_a' and 'relationship')]
@@ -6634,6 +7018,7 @@ dentateGyrusMolecularLayerMiddle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayerMiddle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. Is part of the dentate gyrus molecular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022346) ('is_a' and 'relationship')]
@@ -6650,6 +7035,7 @@ dentateGyrusOfHippocampalFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusOfHippocampalFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001885) ('is_a' and 'relationship')]
@@ -6668,6 +7054,7 @@ dentateGyrusPolymorphicLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusPolymorphicLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002928)]
@@ -6685,6 +7072,7 @@ dentateGyrusPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusPyramidalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dentate gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002929)]
@@ -6701,6 +7089,7 @@ dentateGyrusSubgranularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusSubgranularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the dentate gyrus of hippocampal formation. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009952)]
@@ -6718,6 +7107,7 @@ dentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dentate nucleus' is a nucleus of cerebellar nuclear complex.
@@ -6736,6 +7126,7 @@ dentatothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dentatothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002594) ('is_a' and 'relationship')]
@@ -6754,6 +7145,7 @@ diagonalBandOfBroca
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Diagonal band of Broca' is a neuron projection bundle and central nervous system cell part cluster. It is part of the cerebral hemisphere white matter.
@@ -6772,6 +7164,7 @@ diagonalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002675)]
@@ -6788,6 +7181,7 @@ diencephalicWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalicWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of forebrain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003931) ('is_a' and 'relationship')]
@@ -6805,6 +7199,7 @@ diencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001894) ('is_a' and 'relationship')]
@@ -6823,6 +7218,7 @@ diencephalonArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of diencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003558)]
@@ -6840,6 +7236,7 @@ diencephalonDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of diencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003564)]
@@ -6857,6 +7254,7 @@ diencephalonMantleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonMantleLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube mantle layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009580)]
@@ -6873,6 +7271,7 @@ diencephalonPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of diencephalon and forebrain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003553)]
@@ -6890,6 +7289,7 @@ diencephalonSubarachnoidSpace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalonSubarachnoidSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid space. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005218) ('is_a' and 'relationship')]
@@ -6907,6 +7307,7 @@ diffuseReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/diffuseReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Diffuse reticular nucleus' is a parabrachial nucleus.
@@ -6925,6 +7326,7 @@ dorsalAccessoryInferiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal accessory inferior olivary nucleus' is an inferior olivary nucleus.
@@ -6943,6 +7345,7 @@ dorsalAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
@@ -6961,6 +7364,7 @@ dorsalAnteriorLateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAnteriorLateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anterior lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001312)]
@@ -6977,6 +7381,7 @@ dorsalAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAuditoryArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035885) ('is_a' and 'relationship')]
@@ -6993,6 +7398,7 @@ dorsalAuditoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAuditoryAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the dorsal auditory area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035917) ('is_a' and 'relationship')]
@@ -7009,6 +7415,7 @@ dorsalCapOfKooy
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCapOfKooy
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal cap of Kooy' is a regional part of brain. It is part of the inferior olivary complex.
@@ -7027,6 +7434,7 @@ dorsalCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035151)]
@@ -7043,6 +7451,7 @@ dorsalCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal cochlear nucleus' is a cochlear nucleus.
@@ -7061,6 +7470,7 @@ dorsalColumnNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalColumnNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal column nucleus' is a nucleus of medulla oblongata. It is part of the dorsal column-medial lemniscus pathway.
@@ -7079,6 +7489,7 @@ dorsalExternalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalExternalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
@@ -7097,6 +7508,7 @@ dorsalHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002954) ('is_a' and 'relationship')]
@@ -7115,6 +7527,7 @@ dorsalLateralGanglionicEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLateralGanglionicEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the lateral ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018264) ('is_a' and 'relationship')]
@@ -7132,6 +7545,7 @@ dorsalLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus' is a fasciculus of brain.
@@ -7150,6 +7564,7 @@ dorsalLongitudinalFasciculusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of hypothalamus' is a fasciculus of brain. It is part of the lateral hypothalamic area and dorsal longitudinal fasciculus.
@@ -7168,6 +7583,7 @@ dorsalLongitudinalFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of medulla' is a fasciculus of brain. It is part of the medulla oblongata.
@@ -7186,6 +7602,7 @@ dorsalLongitudinalFasciculusOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum and dorsal longitudinal fasciculus.
@@ -7204,6 +7621,7 @@ dorsalLongitudinalFasciculusOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal longitudinal fasciculus of pons' is a fasciculus of brain. It is part of the pons and dorsal longitudinal fasciculus.
@@ -7222,6 +7640,7 @@ dorsalLongitudinalVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005031)]
@@ -7239,6 +7658,7 @@ dorsalMotorNucleusOfVagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalMotorNucleusOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal motor nucleus of vagus nerve' is a nucleus of medulla oblongata and motor nucleus of vagal nerve.
@@ -7257,6 +7677,7 @@ dorsalNucleusOfLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal nucleus of lateral lemniscus' is a nucleus of lateral lemniscus.
@@ -7275,6 +7696,7 @@ dorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
@@ -7293,6 +7715,7 @@ dorsalNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal nucleus of trapezoid body' is a nucleus of trapezoid body.
@@ -7311,6 +7734,7 @@ dorsalOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -7329,6 +7753,7 @@ dorsalPallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus.
@@ -7347,6 +7772,7 @@ dorsalParamedianReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalParamedianReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal paramedian reticular nucleus' is a nucleus of medulla oblongata. It is part of the paramedian medullary reticular complex.
@@ -7365,6 +7791,7 @@ dorsalPlusVentralThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPlusVentralThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal plus ventral thalamus' is a regional part of brain. It is part of the thalamic complex.
@@ -7383,6 +7810,7 @@ dorsalRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.
@@ -7401,6 +7829,7 @@ dorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000044)]
@@ -7418,6 +7847,7 @@ dorsalSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -7436,6 +7866,7 @@ dorsalStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal striatum' is a gray matter of telencephalon. It is part of the striatum.
@@ -7454,6 +7885,7 @@ dorsalTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalDecussation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal tegmental decussation' is a neural decussation. It is part of the midbrain tegmentum.
@@ -7471,6 +7903,7 @@ dorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -7489,6 +7922,7 @@ dorsalTegmentalNucleusParsDorsalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsDorsalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus pars dorsalis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
@@ -7507,6 +7941,7 @@ dorsalTegmentalNucleusParsVentralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTegmentalNucleusParsVentralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsal tegmental nucleus pars ventralis' is a regional part of brain. It is part of the dorsal tegmental nucleus.
@@ -7525,6 +7960,7 @@ dorsalTelencephalicCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTelencephalicCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005340)]
@@ -7542,6 +7978,7 @@ dorsalTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002797) ('is_a' and 'relationship')]
@@ -7560,6 +7997,7 @@ dorsalZoneOfMedialEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalZoneOfMedialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the medial entorhinal cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018262)]
@@ -7576,6 +8014,7 @@ dorsolateralFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsolateral fasciculus of medulla' is a tract of brain. It is part of the medulla oblongata.
@@ -7594,6 +8033,7 @@ dorsolateralPrefrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009834) ('is_a' and 'relationship')]
@@ -7612,6 +8052,7 @@ dorsolateralPrefrontalCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer I. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035153) ('is_a' and 'relationship')]
@@ -7629,6 +8070,7 @@ dorsolateralPrefrontalCortexLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer II. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035154) ('is_a' and 'relationship')]
@@ -7646,6 +8088,7 @@ dorsolateralPrefrontalCortexLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer III. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035155) ('is_a' and 'relationship')]
@@ -7663,6 +8106,7 @@ dorsolateralPrefrontalCortexLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer IV. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035156) ('is_a' and 'relationship')]
@@ -7680,6 +8124,7 @@ dorsolateralPrefrontalCortexLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer V. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035157) ('is_a' and 'relationship')]
@@ -7697,6 +8142,7 @@ dorsolateralPrefrontalCortexLayer6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsolateralPrefrontalCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical layer VI. Is part of the dorsolateral prefrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035158) ('is_a' and 'relationship')]
@@ -7714,6 +8160,7 @@ dorsomedialNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Dorsomedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
@@ -7732,6 +8179,7 @@ duraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/duraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002363)]
@@ -7749,6 +8197,7 @@ duraMaterLymphVessel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/duraMaterLymphVessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035608)]
@@ -7766,6 +8215,7 @@ ectocalcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ectocalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025104)]
@@ -7782,6 +8232,7 @@ ectosylvianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ectosylvianSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013594)]
@@ -7798,6 +8249,7 @@ eighthCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/eighthCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002844)]
@@ -7814,6 +8266,7 @@ eighthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/eighthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002851)]
@@ -7830,6 +8283,7 @@ electrosensoryLateralLineLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/electrosensoryLateralLineLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hindbrain nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002105)]
@@ -7847,6 +8301,7 @@ eleventhThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/eleventhThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002854)]
@@ -7863,6 +8318,7 @@ emboliformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Emboliform nucleus' is a cerebellum interpositus nucleus.
@@ -7881,6 +8337,7 @@ embryonicIntraretinalSpace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/embryonicIntraretinalSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006253) ('is_a' and 'relationship')]
@@ -7898,6 +8355,7 @@ endohypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endohypothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005343)]
@@ -7915,6 +8373,7 @@ endopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endopiriformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: An elongated nucleus consisting largely of multipolar spiny cells lying deep to the piriform cortex.  According to Price (1990;  pp. 979-998 in The Human Nervous System, G. Paxinos, (Ed.), Academic Press, San Diego), it is part of the claustrum.
@@ -7933,6 +8392,7 @@ endothelialBloodBrainBarrier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/endothelialBloodBrainBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a blood brain barrier. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000201)]
@@ -7950,6 +8410,7 @@ entericGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entericGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parasympathetic ganglion. Is part of the enteric nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001809) ('is_a' and 'relationship')]
@@ -7966,6 +8427,7 @@ entericNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entericNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the autonomic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002005)]
@@ -7983,6 +8445,7 @@ entorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the parahippocampal gyrus and the piriform cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002728)]
@@ -8001,6 +8464,7 @@ entorhinalCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022336) ('is_a' and 'relationship')]
@@ -8018,6 +8482,7 @@ entorhinalCortexLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022337) ('is_a' and 'relationship')]
@@ -8036,6 +8501,7 @@ entorhinalCortexLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022327) ('is_a' and 'relationship')]
@@ -8054,6 +8520,7 @@ entorhinalCortexLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022323) ('is_a' and 'relationship')]
@@ -8071,6 +8538,7 @@ entorhinalCortexLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022325) ('is_a' and 'relationship')]
@@ -8089,6 +8557,7 @@ entorhinalCortexLayer6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022329) ('is_a' and 'relationship')]
@@ -8107,6 +8576,7 @@ epibranchialGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epibranchialGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009127)]
@@ -8124,6 +8594,7 @@ epiphysealTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epiphysealTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034714)]
@@ -8141,6 +8612,7 @@ epithalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Epithalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
@@ -8159,6 +8631,7 @@ epithalamusMantleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamusMantleLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube mantle layer. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013159) ('is_a' and 'relationship')]
@@ -8175,6 +8648,7 @@ epithalamusVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamusVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube ventricular layer. Is part of the epithalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013160) ('is_a' and 'relationship')]
@@ -8191,6 +8665,7 @@ externalCapsuleOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalCapsuleOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004545)]
@@ -8209,6 +8684,7 @@ externalCellularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalCellularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000352)]
@@ -8225,6 +8701,7 @@ externalNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/externalNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'External nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
@@ -8243,6 +8720,7 @@ extrapyramidalTractSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extrapyramidalTractSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the motor system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035803) ('is_a' and 'relationship')]
@@ -8260,6 +8738,7 @@ extrastriateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extrastriateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an aggregate regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014370) ('is_a' and 'relationship')]
@@ -8278,6 +8757,7 @@ extremeCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/extremeCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Extreme capsule' is a cerebral hemisphere white matter.
@@ -8296,6 +8776,7 @@ facialLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000512)]
@@ -8312,6 +8793,7 @@ facialMotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Nucleus located in the pontine tegmentum containing motor neurons that innervate the muscles of the face. Some neurons that project to the cerebellum have also been identified in some species.
@@ -8330,6 +8812,7 @@ facialNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facialNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Facial nerve root' is a root of cranial nerve. It is part of the metencephalon.
@@ -8348,6 +8831,7 @@ facioAcousticVIIVIIIPreganglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/facioAcousticVIIVIIIPreganglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006232) ('is_a' and 'relationship')]
@@ -8364,6 +8848,7 @@ fasciculusOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciculusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Fasciculus of brain' is a nerve fasciculus and central nervous system cell part cluster. It is part of the brain and white matter.
@@ -8382,6 +8867,7 @@ fasciolarGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fasciolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the limbic lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002601)]
@@ -8400,6 +8886,7 @@ fastigialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Fastigial nucleus' is a nucleus of cerebellar nuclear complex.
@@ -8418,6 +8905,7 @@ fifthCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fifthCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002842)]
@@ -8434,6 +8922,7 @@ fifthLumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fifthLumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002859)]
@@ -8451,6 +8940,7 @@ fifthSacralDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fifthSacralDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002863)]
@@ -8467,6 +8957,7 @@ fifthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fifthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002848)]
@@ -8483,6 +8974,7 @@ firstCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/firstCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002838)]
@@ -8499,6 +8991,7 @@ firstLumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/firstLumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002857)]
@@ -8515,6 +9008,7 @@ firstSacralDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/firstSacralDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002860)]
@@ -8531,6 +9025,7 @@ firstThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/firstThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002845)]
@@ -8547,6 +9042,7 @@ flocculonodularLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum lobe. Is part of the vestibulocerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003012) ('is_a' and 'relationship')]
@@ -8565,6 +9061,7 @@ flocculonodularLobeHemispherePortion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobeHemispherePortion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the flocculonodular lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027331) ('is_a' and 'relationship')]
@@ -8582,6 +9079,7 @@ flocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Flocculus' is a flocculonodular lobe, hemisphere portion.
@@ -8600,6 +9098,7 @@ floorPlateOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/floorPlateOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003309) ('is_a' and 'relationship')]
@@ -8617,6 +9116,7 @@ floorPlateOfMetencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/floorPlateOfMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003310) ('is_a' and 'relationship')]
@@ -8634,6 +9134,7 @@ floorPlateOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/floorPlateOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003308) ('is_a' and 'relationship')]
@@ -8651,6 +9152,7 @@ forebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Forebrain' is a regional part of brain.
@@ -8669,6 +9171,7 @@ forebrainArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an arachnoid mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003556)]
@@ -8686,6 +9189,7 @@ forebrainDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain dura mater and forebrain meninges. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003561)]
@@ -8703,6 +9207,7 @@ forebrainIpsilateralFiberTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainIpsilateralFiberTracts
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fasciculus of brain. Is part of the white matter of forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022247) ('is_a' and 'relationship')]
@@ -8719,6 +9224,7 @@ forebrainPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a forebrain meninges and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003550)]
@@ -8736,6 +9242,7 @@ forebrainVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the forebrain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015829) ('is_a' and 'relationship')]
@@ -8752,6 +9259,7 @@ forebrainmidbrainBoundary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Forebrain-midbrain boundary' is part of the brain.
@@ -8770,6 +9278,7 @@ fornixOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Fornix of brain' is a tract of brain. It is part of the hippocampal formation.
@@ -8788,6 +9297,7 @@ fourthCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002841)]
@@ -8804,6 +9314,7 @@ fourthLumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthLumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003943)]
@@ -8821,6 +9332,7 @@ fourthSacralSpinalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthSacralSpinalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007713)]
@@ -8837,6 +9349,7 @@ fourthThoracicSpinalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthThoracicSpinalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007712)]
@@ -8853,6 +9366,7 @@ fourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ventricle. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002422) ('is_a' and 'relationship')]
@@ -8871,6 +9385,7 @@ fourthVentricleAperture
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the fourth ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004668)]
@@ -8889,6 +9404,7 @@ fourthVentricleChoroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus epithelium. Is part of the choroid plexus of fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004276) ('is_a' and 'relationship')]
@@ -8907,6 +9423,7 @@ fourthVentricleChoroidPlexusStroma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus stroma. Is part of the choroid plexus of fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006340) ('is_a' and 'relationship')]
@@ -8925,6 +9442,7 @@ fourthVentricleEpendyma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ependyma. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004644) ('is_a' and 'relationship')]
@@ -8943,6 +9461,7 @@ fourthVentricleLateralAperture
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleLateralAperture
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003992)]
@@ -8960,6 +9479,7 @@ fourthVentricleMedianAperture
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleMedianAperture
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fourth ventricle aperture. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003991)]
@@ -8977,6 +9497,7 @@ foveaCentralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/foveaCentralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001786)]
@@ -8994,6 +9515,7 @@ foveolaOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/foveolaOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the fovea centralis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018107)]
@@ -9011,6 +9533,7 @@ frontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001870) ('is_a' and 'relationship')]
@@ -9029,6 +9552,7 @@ frontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015593) ('is_a' and 'relationship')]
@@ -9046,6 +9570,7 @@ frontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016525)]
@@ -9064,6 +9589,7 @@ frontalOperculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Frontal operculum' is a regional part of brain. It is part of the operculum of brain.
@@ -9082,6 +9608,7 @@ frontalPole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalPole
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Frontal pole' is a pole of cerebral hemisphere. It is part of the frontal lobe.
@@ -9100,6 +9627,7 @@ frontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014639) ('is_a' and 'relationship')]
@@ -9117,6 +9645,7 @@ frontoOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontoOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus and frontal gyrus. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009836) ('is_a' and 'relationship')]
@@ -9134,6 +9663,7 @@ frontoOrbitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontoOrbitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002799) ('is_a' and 'relationship')]
@@ -9150,6 +9680,7 @@ frontomarginalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/frontomarginalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014544) ('is_a' and 'relationship')]
@@ -9167,6 +9698,7 @@ functionalPartOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/functionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Functional part of brain' is a regional part of brain.
@@ -9185,6 +9717,7 @@ fundusStriati
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fundusStriati
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Fundus striati' is a regional part of brain. It is part of the ventral striatum.
@@ -9203,6 +9736,7 @@ fusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/fusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002766) ('is_a' and 'relationship')]
@@ -9221,6 +9755,7 @@ futureHindbrainMeninx
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureHindbrainMeninx
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Future hindbrain meninx' is a future meninx. It is part of the hindbrain.
@@ -9239,6 +9774,7 @@ futureMetencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Future metencephalon' is part of the hindbrain.
@@ -9257,6 +9793,7 @@ futureMyelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/futureMyelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Future myelencephalon' is part of the hindbrain.
@@ -9275,6 +9812,7 @@ ganglionOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003339) ('is_a' and 'relationship')]
@@ -9292,6 +9830,7 @@ ganglionOfPeripheralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionOfPeripheralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003338) ('is_a' and 'relationship')]
@@ -9308,6 +9847,7 @@ ganglionPartOfPeripheralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionPartOfPeripheralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024940) ('is_a' and 'relationship')]
@@ -9325,6 +9865,7 @@ ganglionicEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionicEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004023) ('is_a' and 'relationship')]
@@ -9342,6 +9883,7 @@ ganglionicLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ganglionicLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001792) ('is_a' and 'relationship')]
@@ -9359,6 +9901,7 @@ gasserianGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gasserianGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3011045)]
@@ -9375,6 +9918,7 @@ gastropodCerebralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gastropodCerebralGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008942)]
@@ -9392,6 +9936,7 @@ gelatinousLayerOfStatoconialMembrane
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gelatinousLayerOfStatoconialMembrane
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the statoconial membrane. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016568)]
@@ -9408,6 +9953,7 @@ geniculateGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/geniculateGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sensory ganglion and epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001700)]
@@ -9425,6 +9971,7 @@ genuOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/genuOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Genu of corpus callosum' is a regional part of brain. It is part of the corpus callosum.
@@ -9443,6 +9990,7 @@ glialBloodBrainBarrier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glialBloodBrainBarrier
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a blood brain barrier. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000202)]
@@ -9460,6 +10008,7 @@ globusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/globusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Globus pallidus' is a telencephalic nucleus. It is part of the cerebral hemisphere and pallidum.
@@ -9478,6 +10027,7 @@ glossopharyngealGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001701)]
@@ -9495,6 +10045,7 @@ glossopharyngealIXPreganglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealIXPreganglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006243) ('is_a' and 'relationship')]
@@ -9511,6 +10062,7 @@ glossopharyngealLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000517) ('is_a' and 'relationship')]
@@ -9527,6 +10079,7 @@ glossopharyngealNerveFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Glossopharyngeal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
@@ -9545,6 +10098,7 @@ glossopharyngealNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Glossopharyngeal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
@@ -9562,6 +10116,7 @@ glossopharyngealVagusIXXGanglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealVagusIXXGanglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013500)]
@@ -9578,6 +10133,7 @@ glossopharyngealVagusIXXPreganglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealVagusIXXPreganglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the cranial ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013499) ('is_a' and 'relationship')]
@@ -9594,6 +10150,7 @@ glymphaticSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/glymphaticSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity and anatomical system. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036145) ('is_a' and 'relationship')]
@@ -9611,6 +10168,7 @@ gracileFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Gracile fasciculus' is a nerve fasciculus and central nervous system cell part cluster. It is part of the white matter and dorsal column-medial lemniscus pathway.
@@ -9629,6 +10187,7 @@ gracileFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gracileFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Gracile fasciculus of medulla' is a gracile fasciculus and fasciculus of brain. It is part of the medulla oblongata.
@@ -9647,6 +10206,7 @@ granularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/granularInsularCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the insular cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034892) ('is_a' and 'relationship')]
@@ -9664,6 +10224,7 @@ granularLayerCorpusCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/granularLayerCorpusCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the corpus cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000358)]
@@ -9680,6 +10241,7 @@ granularLayerOfCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/granularLayerOfCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002956)]
@@ -9697,6 +10259,7 @@ granularLayerValvulaCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/granularLayerValvulaCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000766)]
@@ -9713,6 +10276,7 @@ grayMatterLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of superior colliculus and central nervous system gray matter layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006785)]
@@ -9730,6 +10294,7 @@ grayMatterOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter of forebrain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019269) ('is_a' and 'relationship')]
@@ -9746,6 +10311,7 @@ grayMatterOfHindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Gray matter of hindbrain' is a brain gray matter. It is part of the hindbrain.
@@ -9763,6 +10329,7 @@ grayMatterOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grayMatterOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter of forebrain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011300) ('is_a' and 'relationship')]
@@ -9780,6 +10347,7 @@ greatCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/greatCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006666)]
@@ -9797,6 +10365,7 @@ grossAnatomicalPartsOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Gross anatomical parts of the cerebellum' is a regional part of brain. It is part of the cerebellum.
@@ -9814,6 +10383,7 @@ gustatoryOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gustatoryOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a chemosensory organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003212)]
@@ -9831,6 +10401,7 @@ gyrusRectus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/gyrusRectus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004671) ('is_a' and 'relationship')]
@@ -9849,6 +10420,7 @@ habenula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Habenula' is a regional part of brain. It is part of the epithalamus.
@@ -9867,6 +10439,7 @@ habenularCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenularCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ventral commissure, commissure of diencephalon and thalamic fiber tract. Is part of the habenula and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001909) ('is_a' and 'relationship')]
@@ -9885,6 +10458,7 @@ habenuloInterpeduncularTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002138)]
@@ -9902,6 +10476,7 @@ habenuloInterpeduncularTractOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTractOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fasciculus of brain. Is part of the habenulo-interpeduncular tract and the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022649) ('is_a' and 'relationship')]
@@ -9919,6 +10494,7 @@ habenuloInterpeduncularTractOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/habenuloInterpeduncularTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a fasciculus of brain. Is part of the midbrain tegmentum, the habenulo-interpeduncular tract and the white matter of midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023740) ('is_a' and 'relationship')]
@@ -9936,6 +10512,7 @@ headOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/headOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Head of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
@@ -9954,6 +10531,7 @@ hemispherePartOfCerebellarAnteriorLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hemispherePartOfCerebellarAnteriorLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the anterior lobe of cerebellum and the cerebellar hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014647) ('is_a' and 'relationship')]
@@ -9971,6 +10549,7 @@ hemispherePartOfCerebellarPosteriorLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hemispherePartOfCerebellarPosteriorLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellar hemisphere and the posterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014648) ('is_a' and 'relationship')]
@@ -9988,6 +10567,7 @@ hemisphericLobuleVIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hemisphericLobuleVIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006121)]
@@ -10005,6 +10585,7 @@ hilumOfDentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilumOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hilum of dentate nucleus' is a hilum of neuraxis. It is part of the dentate nucleus.
@@ -10023,6 +10604,7 @@ hilusOfDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. Is part of the dentate gyrus of hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002136) ('is_a' and 'relationship')]
@@ -10041,6 +10623,7 @@ hindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hindbrain' is a regional part of brain.
@@ -10059,6 +10642,7 @@ hindbrainArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an arachnoid mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003559)]
@@ -10076,6 +10660,7 @@ hindbrainCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain commissure. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034763) ('is_a' and 'relationship')]
@@ -10094,6 +10679,7 @@ hindbrainCorticalIntermediateZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortical intermediate zone. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034994) ('is_a' and 'relationship')]
@@ -10111,6 +10697,7 @@ hindbrainDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain dura mater and meninx of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003565)]
@@ -10128,6 +10715,7 @@ hindbrainMarginalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainMarginalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034709) ('is_a' and 'relationship')]
@@ -10145,6 +10733,7 @@ hindbrainNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hindbrain nucleus' is a nucleus of brain. It is part of the hindbrain.
@@ -10163,6 +10752,7 @@ hindbrainPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of hindbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003554)]
@@ -10180,6 +10770,7 @@ hindbrainSubarachnoidSpace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainSubarachnoidSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hindbrain subarachnoid space' is a subarachnoid space. It is part of the hindbrain.
@@ -10197,6 +10788,7 @@ hindbrainVenousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainVenousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the hindbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005720)]
@@ -10215,6 +10807,7 @@ hippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dorsal telencephalic commissure. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000908) ('is_a' and 'relationship')]
@@ -10233,6 +10826,7 @@ hippocampalField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalField
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003876) ('is_a' and 'relationship')]
@@ -10250,6 +10844,7 @@ hippocampalFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002421) ('is_a' and 'relationship')]
@@ -10268,6 +10863,7 @@ hippocampalFormationOfGP94
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormationOfGP94
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023862)]
@@ -10285,6 +10881,7 @@ hippocampalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002899)]
@@ -10302,6 +10899,7 @@ hippocampusAlveus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and central nervous system white matter layer. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007639) ('is_a' and 'relationship')]
@@ -10320,6 +10918,7 @@ hippocampusCortexCingulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusCortexCingulum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cingulum of brain. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022430) ('is_a' and 'relationship')]
@@ -10336,6 +10935,7 @@ hippocampusFimbria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusFimbria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster. Is part of the fornix of brain, the Ammon's horn and the white matter of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002310) ('is_a' and 'relationship')]
@@ -10354,6 +10954,7 @@ hippocampusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005367)]
@@ -10370,6 +10971,7 @@ hippocampusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusMolecularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005368) ('is_a' and 'relationship')]
@@ -10387,6 +10989,7 @@ hippocampusPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusPyramidalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002313)]
@@ -10404,6 +11007,7 @@ hippocampusStratumLacunosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumLacunosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the hippocampus stratum lacunosum moleculare. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005370) ('is_a' and 'relationship')]
@@ -10421,6 +11025,7 @@ hippocampusStratumLacunosumMoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumLacunosumMoleculare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the Ammon's horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007640) ('is_a' and 'relationship')]
@@ -10438,6 +11043,7 @@ hippocampusStratumLucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumLucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007637)]
@@ -10455,6 +11061,7 @@ hippocampusStratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumOriens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005371)]
@@ -10472,6 +11079,7 @@ hippocampusStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusStratumRadiatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005372)]
@@ -10489,6 +11097,7 @@ horizontalFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002815)]
@@ -10506,6 +11115,7 @@ horizontalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Horizontal limb of the diagonal band' is a subdivision of diagonal band.
@@ -10524,6 +11134,7 @@ hyaloidArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hyaloidArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain blood vessel. Is part of the optic stalk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002270) ('is_a' and 'relationship')]
@@ -10541,6 +11152,7 @@ hypoglossalNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hypoglossal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.
@@ -10559,6 +11171,7 @@ hypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/hypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Hypothalamus' is a regional part of brain. It is part of the limbic system and thalamic complex.
@@ -10577,6 +11190,7 @@ induseumGriseum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/induseumGriseum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Induseum griseum' is a white matter of limbic lobe and stria of telencephalon. It is part of the hippocampal formation and supracallosal gyrus.
@@ -10595,6 +11209,7 @@ inferiorCalcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025103)]
@@ -10611,6 +11226,7 @@ inferiorCentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Inferior central nucleus' is a nucleus of pontine reticular formation.
@@ -10629,6 +11245,7 @@ inferiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar peduncle and white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002163)]
@@ -10647,6 +11264,7 @@ inferiorCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001664)]
@@ -10664,6 +11282,7 @@ inferiorCervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCervicalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002440)]
@@ -10681,6 +11300,7 @@ inferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Inferior colliculus' is a regional part of brain. It is part of the corpora quadrigemina.
@@ -10699,6 +11319,7 @@ inferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002998)]
@@ -10717,6 +11338,7 @@ inferiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002761)]
@@ -10734,6 +11356,7 @@ inferiorGlossopharyngealIXGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorGlossopharyngealIXGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a glossopharyngeal ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005360)]
@@ -10751,6 +11374,7 @@ inferiorHornOfTheLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorHornOfTheLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the telencephalic ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006091)]
@@ -10769,6 +11393,7 @@ inferiorLateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022367) ('is_a' and 'relationship')]
@@ -10785,6 +11410,7 @@ inferiorLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the dorsal zone of median tuberal portion of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000165) ('is_a' and 'relationship')]
@@ -10801,6 +11427,7 @@ inferiorLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition:
@@ -10819,6 +11446,7 @@ inferiorMesentericGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorMesentericGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a mesenteric ganglion. Is part of the inferior mesenteric nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005453) ('is_a' and 'relationship')]
@@ -10836,6 +11464,7 @@ inferiorOccipitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014608)]
@@ -10853,6 +11482,7 @@ inferiorOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025102)]
@@ -10869,6 +11499,7 @@ inferiorOccipitofrontalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition:
@@ -10887,6 +11518,7 @@ inferiorOlivaryCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hindbrain commissure. Is part of the medulla oblongata and the brainstem white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015250) ('is_a' and 'relationship')]
@@ -10903,6 +11535,7 @@ inferiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Inferior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the olivary body.
@@ -10921,6 +11554,7 @@ inferiorParietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the parietal lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006088)]
@@ -10939,6 +11573,7 @@ inferiorParietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026723)]
@@ -10955,6 +11590,7 @@ inferiorPartOfVestibularGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorPartOfVestibularGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the vestibular ganglion. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002826)]
@@ -10971,6 +11607,7 @@ inferiorPostcentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorPostcentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002914)]
@@ -10987,6 +11624,7 @@ inferiorPrecentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorPrecentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal sulcus. Is part of the precentral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002764) ('is_a' and 'relationship')]
@@ -11003,6 +11641,7 @@ inferiorRamusOfArcuateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRamusOfArcuateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the arcuate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026382) ('is_a' and 'relationship')]
@@ -11019,6 +11658,7 @@ inferiorRostralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the rostral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019278) ('is_a' and 'relationship')]
@@ -11036,6 +11676,7 @@ inferiorRostralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorRostralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002767)]
@@ -11052,6 +11693,7 @@ inferiorSagittalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorSagittalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sagittal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026760)]
@@ -11068,6 +11710,7 @@ inferiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002751) ('is_a' and 'relationship')]
@@ -11086,6 +11729,7 @@ inferiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002969)]
@@ -11103,6 +11747,7 @@ inferiorTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the transverse frontopolar gyri complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024183) ('is_a' and 'relationship')]
@@ -11120,6 +11765,7 @@ inferiorVagusXGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVagusXGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005363)]
@@ -11137,6 +11783,7 @@ inferiorVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Inferior vestibular nucleus' is a vestibular nucleus.
@@ -11155,6 +11802,7 @@ infundibularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/infundibularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011358) ('is_a' and 'relationship')]
@@ -11171,6 +11819,7 @@ infundibularRecessOf3rdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/infundibularRecessOf3rdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the third ventricle and the future neurohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006250)]
@@ -11188,6 +11837,7 @@ innerLimitingLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/innerLimitingLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a limiting membrane of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001794)]
@@ -11205,6 +11855,7 @@ innerNuclearLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/innerNuclearLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001791) ('is_a' and 'relationship')]
@@ -11222,6 +11873,7 @@ innerPlexiformLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/innerPlexiformLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001795) ('is_a' and 'relationship')]
@@ -11239,6 +11891,7 @@ insectProtocerebrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Insect protocerebrum' is a segmental subdivision of nervous system. It is part of the insect supraesophageal ganglion.
@@ -11256,6 +11909,7 @@ insectSupraesophagealGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insectSupraesophagealGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Insect supraesophageal ganglion' is a ganglion of central nervous system. It is part of the brain.
@@ -11273,6 +11927,7 @@ insula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.
@@ -11291,6 +11946,7 @@ insularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/insularCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034891) ('is_a' and 'relationship')]
@@ -11307,6 +11963,7 @@ interanterodorsalNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interanterodorsalNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Interanterodorsal nucleus of the thalamus' is a regional part of brain. It is part of the anterior nuclear group.
@@ -11325,6 +11982,7 @@ intercalatedAmygdaloidNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intercalatedAmygdaloidNuclei
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intercalated amygdaloid nuclei' is a telencephalic nucleus. It is part of the amygdala.
@@ -11343,6 +12001,7 @@ intercerebralCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intercerebralCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of telencephalon. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002473) ('is_a' and 'relationship')]
@@ -11360,6 +12019,7 @@ intergeniculateLeafletOfTheLateralGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intergeniculate leaflet of the lateral geniculate complex' is a regional part of brain. It is part of the lateral geniculate body.
@@ -11378,6 +12038,7 @@ intermediateAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intermediate acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
@@ -11396,6 +12057,7 @@ intermediateFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026719) ('is_a' and 'relationship')]
@@ -11412,6 +12074,7 @@ intermediateHypothalamicRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intermediate hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
@@ -11430,6 +12093,7 @@ intermediateLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006792)]
@@ -11447,6 +12111,7 @@ intermediateOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intermediate oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -11464,6 +12129,7 @@ intermediateOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002644)]
@@ -11481,6 +12147,7 @@ intermediatePartOfHypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePartOfHypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intermediate part of hypophysis' is a regional part of brain. It is part of the adenohypophysis.
@@ -11499,6 +12166,7 @@ intermediatePeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intermediate periventricular nucleus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
@@ -11517,6 +12185,7 @@ internalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Internal arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of medulla oblongata.
@@ -11535,6 +12204,7 @@ internalCapsuleOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCapsuleOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001887)]
@@ -11553,6 +12223,7 @@ internalCellularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCellularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000573)]
@@ -11569,6 +12240,7 @@ internalCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035152)]
@@ -11586,6 +12258,7 @@ internalMedullaryLaminaOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Internal medullary lamina of thalamus' is a medullary lamina of thalamus.
@@ -11604,6 +12277,7 @@ interpeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Interpeduncular nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -11622,6 +12296,7 @@ interpolarPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interpolarPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Interpolar part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
@@ -11640,6 +12315,7 @@ interstitialNucleusOfCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -11658,6 +12334,7 @@ interthalamicAdhesion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interthalamicAdhesion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Interthalamic adhesion' is a nervous system commissure.
@@ -11676,6 +12353,7 @@ intraculminateFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intraculminateFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. Is part of the cerebellum vermis culmen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035922) ('is_a' and 'relationship')]
@@ -11693,6 +12371,7 @@ intralaminarNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Intralaminar nuclear group' is a nucleus of dorsal thalamus.
@@ -11711,6 +12390,7 @@ intralingualSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intralingualSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and occipital sulcus. Is part of the lingual gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002905) ('is_a' and 'relationship')]
@@ -11728,6 +12408,7 @@ intraparietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002913)]
@@ -11746,6 +12427,7 @@ islaMagnaOfCalleja
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islaMagnaOfCalleja
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.
@@ -11764,6 +12446,7 @@ islandOfCalleja
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.
@@ -11782,6 +12465,7 @@ islandsOfCallejaOfOlfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/islandsOfCallejaOfOlfactoryTubercle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the island of Calleja and the olfactory tubercle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023867) ('is_a' and 'relationship')]
@@ -11800,6 +12484,7 @@ isthmusOfCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027061) ('is_a' and 'relationship')]
@@ -11816,6 +12501,7 @@ isthmusOfCingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/isthmusOfCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the cingulate gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002738)]
@@ -11834,6 +12520,7 @@ juxtarestiformBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/juxtarestiformBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Juxtarestiform body' is a white matter of medulla oblongata. It is part of the inferior cerebellar peduncle.
@@ -11852,6 +12539,7 @@ koniocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/koniocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013589) ('is_a' and 'relationship')]
@@ -11869,6 +12557,7 @@ laminaOfSeptumPellucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/laminaOfSeptumPellucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lamina of septum pellucidum' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the septum pellucidum.
@@ -11887,6 +12576,7 @@ lateralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
@@ -11905,6 +12595,7 @@ lateralAmygdaloidNucleusDorsolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, dorsolateral part' is a regional part of brain.
@@ -11923,6 +12614,7 @@ lateralAmygdaloidNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, ventrolateral part' is a regional part of brain.
@@ -11941,6 +12633,7 @@ lateralAmygdaloidNucleusVentromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.
@@ -11959,6 +12652,7 @@ lateralCervicalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral cervical nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
@@ -11977,6 +12671,7 @@ lateralCorticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCorticospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the medulla oblongata and the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002589) ('is_a' and 'relationship')]
@@ -11994,6 +12689,7 @@ lateralEminenceOfFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the fourth ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034672)]
@@ -12011,6 +12707,7 @@ lateralEminenceOfHypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral eminence of hypophysis' is part of the pituitary gland.
@@ -12028,6 +12725,7 @@ lateralEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the insula, the entorhinal cortex and the secondary olfactory cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007225)]
@@ -12045,6 +12743,7 @@ lateralForebrainBundleTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralForebrainBundleTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic tracts. Is part of the lateral forebrain bundle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000779) ('is_a' and 'relationship')]
@@ -12061,6 +12760,7 @@ lateralGanglionicEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGanglionicEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004025) ('is_a' and 'relationship')]
@@ -12078,6 +12778,7 @@ lateralGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.
@@ -12096,6 +12797,7 @@ lateralGlobusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
@@ -12114,6 +12816,7 @@ lateralHabenularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral habenular nucleus' is a habenular nucleus.
@@ -12132,6 +12835,7 @@ lateralHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002430) ('is_a' and 'relationship')]
@@ -12150,6 +12854,7 @@ lateralHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral hypothalamic nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
@@ -12168,6 +12873,7 @@ lateralInferiorLimitingSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralInferiorLimitingSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002737)]
@@ -12184,6 +12890,7 @@ lateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral lemniscus' is a nervous system lemniscus.
@@ -12202,6 +12909,7 @@ lateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000120)]
@@ -12219,6 +12927,7 @@ lateralMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
@@ -12237,6 +12946,7 @@ lateralMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
@@ -12255,6 +12965,7 @@ lateralNuclearGroupOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral nuclear group of thalamus' is a nucleus of dorsal thalamus.
@@ -12273,6 +12984,7 @@ lateralNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
@@ -12291,6 +13003,7 @@ lateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006114) ('is_a' and 'relationship')]
@@ -12309,6 +13022,7 @@ lateralOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002904)]
@@ -12326,6 +13040,7 @@ lateralOlfactoryStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory tract linking bulb to ipsilateral dorsal telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001888)]
@@ -12344,6 +13059,7 @@ lateralOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022716) ('is_a' and 'relationship')]
@@ -12362,6 +13078,7 @@ lateralOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002564)]
@@ -12379,6 +13096,7 @@ lateralOrbitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOrbitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026384) ('is_a' and 'relationship')]
@@ -12395,6 +13113,7 @@ lateralParabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
@@ -12413,6 +13132,7 @@ lateralParagigantocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral paragigantocellular nucleus' is a paragigantocellular nucleus.
@@ -12431,6 +13151,7 @@ lateralPartOfBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
@@ -12449,6 +13170,7 @@ lateralPartOfMedialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
@@ -12467,6 +13189,7 @@ lateralPericuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral pericuneate nucleus' is a nucleus of medulla oblongata.
@@ -12485,6 +13208,7 @@ lateralPesLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPesLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral pes lemniscus' is a nervous system lemniscus. It is part of the midbrain tegmentum.
@@ -12503,6 +13227,7 @@ lateralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral preoptic nucleus' is a hypothalamic nucleus. It is part of the lateral zone of hypothalamus.
@@ -12521,6 +13246,7 @@ lateralPulvinarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
@@ -12539,6 +13265,7 @@ lateralRecessOfFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007656) ('is_a' and 'relationship')]
@@ -12557,6 +13284,7 @@ lateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral reticular nucleus' is a nucleus of medulla oblongata. It is part of the lateral medullary reticular complex.
@@ -12575,6 +13303,7 @@ lateralSeptalComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral septal complex' is a septal nuclear complex. It is part of the striatum.
@@ -12593,6 +13322,7 @@ lateralSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.
@@ -12611,6 +13341,7 @@ lateralSpinalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral spinal nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
@@ -12629,6 +13360,7 @@ lateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002721) ('is_a' and 'relationship')]
@@ -12647,6 +13379,7 @@ lateralSuperiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
@@ -12665,6 +13398,7 @@ lateralTuberalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral tuberal nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
@@ -12683,6 +13417,7 @@ lateralVentricleChoroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVentricleChoroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus epithelium. Is part of the choroid plexus of lateral ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004274) ('is_a' and 'relationship')]
@@ -12700,6 +13435,7 @@ lateralVentricleChoroidPlexusStroma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVentricleChoroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus stroma. Is part of the choroid plexus of lateral ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006338) ('is_a' and 'relationship')]
@@ -12717,6 +13453,7 @@ lateralVentricleEpendyma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVentricleEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ependyma. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004643) ('is_a' and 'relationship')]
@@ -12734,6 +13471,7 @@ lateralVentricleSubependymalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVentricleSubependymalLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the telencephalic ventricle and the postnatal subventricular zone. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010404)]
@@ -12751,6 +13489,7 @@ lateralVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lateral vestibular nucleus' is a vestibular nucleus.
@@ -12769,6 +13508,7 @@ lateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035895) ('is_a' and 'relationship')]
@@ -12785,6 +13525,7 @@ lateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035915) ('is_a' and 'relationship')]
@@ -12801,6 +13542,7 @@ lateralVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035916) ('is_a' and 'relationship')]
@@ -12817,6 +13559,7 @@ lateralVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035918) ('is_a' and 'relationship')]
@@ -12833,6 +13576,7 @@ layerOfCA1Field
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfCA1Field
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035786) ('is_a' and 'relationship')]
@@ -12849,6 +13593,7 @@ layerOfCA2Field
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfCA2Field
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035787) ('is_a' and 'relationship')]
@@ -12865,6 +13610,7 @@ layerOfCA3Field
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfCA3Field
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampus. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035788) ('is_a' and 'relationship')]
@@ -12881,6 +13627,7 @@ layerOfDevelopingCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfDevelopingCerebralCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014950) ('is_a' and 'relationship')]
@@ -12897,6 +13644,7 @@ layerOfLateralGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfLateralGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the lateral geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013605) ('is_a' and 'relationship')]
@@ -12913,6 +13661,7 @@ layerOfNeocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfNeocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002301) ('is_a' and 'relationship')]
@@ -12930,6 +13679,7 @@ layerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/layerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006783) ('is_a' and 'relationship')]
@@ -12947,6 +13697,7 @@ leftAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftAuditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an auditory cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009898)]
@@ -12964,6 +13715,7 @@ leftFrontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftFrontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal cortex. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002811) ('is_a' and 'relationship')]
@@ -12981,6 +13733,7 @@ leftHemisphereOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftHemisphereOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014889)]
@@ -12998,6 +13751,7 @@ leftLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic ventricle. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013161) ('is_a' and 'relationship')]
@@ -13015,6 +13769,7 @@ leftLimbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftLimbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a limbic lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002804) ('is_a' and 'relationship')]
@@ -13032,6 +13787,7 @@ leftOccipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002806) ('is_a' and 'relationship')]
@@ -13049,6 +13805,7 @@ leftParietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parietal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002802) ('is_a' and 'relationship')]
@@ -13066,6 +13823,7 @@ leftTemporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftTemporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal lobe. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002808) ('is_a' and 'relationship')]
@@ -13083,6 +13841,7 @@ lenticularFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lenticular fasciculus' is a ventral thalamic fasciculus.
@@ -13101,6 +13860,7 @@ lentiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.
@@ -13119,6 +13879,7 @@ limbOfInternalCapsuleOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbOfInternalCapsuleOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. Is part of the internal capsule of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014525) ('is_a' and 'relationship')]
@@ -13135,6 +13896,7 @@ limbicCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016542) ('is_a' and 'relationship')]
@@ -13151,6 +13913,7 @@ limbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002600)]
@@ -13169,6 +13932,7 @@ limbicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limbicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the forebrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000349)]
@@ -13186,6 +13950,7 @@ limenOfInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Limen of insula' is a gyrus. It is part of the insula.
@@ -13204,6 +13969,7 @@ limitansNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Limitans nucleus' is a nucleus of brain.
@@ -13222,6 +13988,7 @@ limitingMembraneOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limitingMembraneOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007619) ('is_a' and 'relationship')]
@@ -13238,6 +14005,7 @@ linearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -13255,6 +14023,7 @@ lingualGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lingualGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002943)]
@@ -13273,6 +14042,7 @@ lobeOfCerebralHemisphere
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobeOfCerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the cerebral hemisphere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016526)]
@@ -13291,6 +14061,7 @@ lobuleSimplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lobuleSimplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule and hemisphere part of cerebellar posterior lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005350)]
@@ -13307,6 +14078,7 @@ locusCeruleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
@@ -13325,6 +14097,7 @@ longitudinalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002921)]
@@ -13342,6 +14115,7 @@ longitudinalPontineFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Longitudinal pontine fibers' is a tract of brain. It is part of the basal part of pons.
@@ -13360,6 +14134,7 @@ lowerRhombicLip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Lower rhombic lip' is a regional part of brain. It is part of the rhombic lip.
@@ -13378,6 +14153,7 @@ lumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002836)]
@@ -13395,6 +14171,7 @@ lumenOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lumenOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002561) ('is_a' and 'relationship')]
@@ -13412,6 +14189,7 @@ lunateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lunateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002903)]
@@ -13429,6 +14207,7 @@ magnocellularNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Magnocellular nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
@@ -13447,6 +14226,7 @@ magnocellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Magnocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
@@ -13465,6 +14245,7 @@ magnocellularPartOfRedNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
@@ -13483,6 +14264,7 @@ magnocellularPartOfVentralAnteriorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Magnocellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
@@ -13501,6 +14283,7 @@ magnocellularPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Magnocellular preoptic nucleus' is a preoptic nucleus.
@@ -13519,6 +14302,7 @@ mainCiliaryGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mainCiliaryGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion and ganglion of ciliary nerve. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002058)]
@@ -13536,6 +14320,7 @@ mainOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mainOlfactoryBulb
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009951) ('is_a' and 'relationship')]
@@ -13553,6 +14338,7 @@ mammillaryBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.
@@ -13571,6 +14357,7 @@ mammillaryPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mammillary peduncle' is a peduncle of diencephalon. It is part of the posterior hypothalamic region.
@@ -13589,6 +14376,7 @@ mammillotectalAxonalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillotectalAxonalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006697) ('is_a' and 'relationship')]
@@ -13606,6 +14394,7 @@ mammillotegmentalAxonalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillotegmentalAxonalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006698) ('is_a' and 'relationship')]
@@ -13623,6 +14412,7 @@ mammillothalamicAxonalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicAxonalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the diencephalic white matter and the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006696) ('is_a' and 'relationship')]
@@ -13640,6 +14430,7 @@ mammillothalamicTractOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillothalamicTractOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the mammillary axonal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002990) ('is_a' and 'relationship')]
@@ -13658,6 +14449,7 @@ marginalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/marginalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. Is part of the cingulate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002912) ('is_a' and 'relationship')]
@@ -13675,6 +14467,7 @@ marginalVenousSinus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/marginalVenousSinus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017637)]
@@ -13692,6 +14485,7 @@ matrixCompartment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Matrix compartment' is a chemoarchitectural part of striatum.
@@ -13710,6 +14504,7 @@ matrixCompartmentOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Matrix compartment of caudate nucleus' is a matrix compartment. It is part of the caudate nucleus.
@@ -13728,6 +14523,7 @@ matrixCompartmentOfPutamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.
@@ -13745,6 +14541,7 @@ matrixPartOfHeadOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.
@@ -13763,6 +14560,7 @@ matrixPartOfTailOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Matrix part of tail of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the tail of caudate nucleus.
@@ -13781,6 +14579,7 @@ maxillomandibularPartOfTrigeminalGanglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maxillomandibularPartOfTrigeminalGanglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. Is part of the trigeminal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035601) ('is_a' and 'relationship')]
@@ -13797,6 +14596,7 @@ medialAccessoryOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
@@ -13815,6 +14615,7 @@ medialAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
@@ -13832,6 +14633,7 @@ medialCaudalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialCaudalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the vestibulolateralis lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000388) ('is_a' and 'relationship')]
@@ -13848,6 +14650,7 @@ medialDorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial dorsal nucleus of thalamus' is a nucleus of dorsal thalamus.
@@ -13866,6 +14669,7 @@ medialEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the entorhinal cortex and the secondary olfactory cortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007224)]
@@ -13884,6 +14688,7 @@ medialForebrainBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial forebrain bundle' is a fasciculus of brain. It is part of the hypothalamus.
@@ -13902,6 +14707,7 @@ medialForebrainBundleTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundleTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a diencephalic white matter and telencephalic tracts. Is part of the medial forebrain bundle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000910) ('is_a' and 'relationship')]
@@ -13918,6 +14724,7 @@ medialGanglionicEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGanglionicEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the ganglionic eminence. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004024) ('is_a' and 'relationship')]
@@ -13935,6 +14742,7 @@ medialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial geniculate body' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the metathalamus.
@@ -13953,6 +14761,7 @@ medialGlobusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
@@ -13971,6 +14780,7 @@ medialLemniscusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial lemniscus of medulla' is a nervous system lemniscus. It is part of the medulla oblongata and medial lemniscus.
@@ -13989,6 +14799,7 @@ medialLemniscusOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial lemniscus of midbrain' is a nervous system lemniscus. It is part of the midbrain tegmentum, cerebral peduncle and medial lemniscus.
@@ -14007,6 +14818,7 @@ medialLemniscusOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial lemniscus of pons' is a nervous system lemniscus. It is part of the medial lemniscus and pontine tegmentum.
@@ -14025,6 +14837,7 @@ medialLongitudinalCatecholaminergicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalCatecholaminergicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005341)]
@@ -14041,6 +14854,7 @@ medialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial longitudinal fasciculus' is a fasciculus of brain.
@@ -14059,6 +14873,7 @@ medialLongitudinalFasciculusOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a medulla [Automatically generated definition].
@@ -14077,6 +14892,7 @@ medialLongitudinalFasciculusOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a midbrain [Automatically generated definition].
@@ -14095,6 +14911,7 @@ medialLongitudinalFasciculusOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A medial longitudinal fasciculus that is part of a pons [Automatically generated definition].
@@ -14113,6 +14930,7 @@ medialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
@@ -14131,6 +14949,7 @@ medialMedullaryLaminaOfGlobusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
@@ -14149,6 +14968,7 @@ medialNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
@@ -14167,6 +14987,7 @@ medialNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the primary superior olive.
@@ -14185,6 +15006,7 @@ medialOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -14203,6 +15025,7 @@ medialOlfactoryGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002599)]
@@ -14220,6 +15043,7 @@ medialOlfactoryStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOlfactoryStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a stria of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034734)]
@@ -14237,6 +15061,7 @@ medialOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the orbitofrontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022352) ('is_a' and 'relationship')]
@@ -14255,6 +15080,7 @@ medialOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002570)]
@@ -14272,6 +15098,7 @@ medialOrbitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOrbitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026391) ('is_a' and 'relationship')]
@@ -14288,6 +15115,7 @@ medialParabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
@@ -14306,6 +15134,7 @@ medialPartOfBasalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
@@ -14324,6 +15153,7 @@ medialPartOfMedialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
@@ -14342,6 +15172,7 @@ medialPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
@@ -14360,6 +15191,7 @@ medialPericuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial pericuneate nucleus' is a nucleus of medulla oblongata.
@@ -14378,6 +15210,7 @@ medialPesLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial pes lemniscus' is a brainstem white matter and white matter of midbrain. It is part of the midbrain tegmentum.
@@ -14396,6 +15229,7 @@ medialPrecentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPrecentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026721) ('is_a' and 'relationship')]
@@ -14413,6 +15247,7 @@ medialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial preoptic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial preoptic region.
@@ -14431,6 +15266,7 @@ medialPulvinarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
@@ -14449,6 +15285,7 @@ medialSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial septal nucleus' is a telencephalic nucleus. It is part of the medial septal complex.
@@ -14467,6 +15304,7 @@ medialSubnucleusOfSolitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial subnucleus of solitary tract' is a nucleus of solitary tract.
@@ -14485,6 +15323,7 @@ medialSuperiorOlivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
@@ -14503,6 +15342,7 @@ medialTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the transverse frontopolar gyri complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024193) ('is_a' and 'relationship')]
@@ -14520,6 +15360,7 @@ medialVentralTegmentalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVentralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023865) ('is_a' and 'relationship')]
@@ -14537,6 +15378,7 @@ medialVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medial vestibular nucleus' is a vestibular nucleus.
@@ -14555,6 +15397,7 @@ medianEminenceOfNeurohypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Median eminence of neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the neurohypophysis.
@@ -14572,6 +15415,7 @@ medianPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Median preoptic nucleus' is a preoptic nucleus.
@@ -14590,6 +15434,7 @@ medianRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A large cell serotonergic raphe nucleus in the upper pons and lower mesencephalon that is part of the reticular formation
@@ -14608,6 +15453,7 @@ medullaOblongata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medulla oblongata' is part of the brainstem and myelencephalon.
@@ -14626,6 +15472,7 @@ medullaOblongataAnteriorMedianFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongataAnteriorMedianFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003989) ('is_a' and 'relationship')]
@@ -14643,6 +15490,7 @@ medullaOblongataSulcusLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongataSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009576)]
@@ -14660,6 +15508,7 @@ medullaReticulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaReticulospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004173)]
@@ -14677,6 +15526,7 @@ medullaryAnteriorHorn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medullary anterior horn' is a gray matter of hindbrain. It is part of the medulla oblongata.
@@ -14695,6 +15545,7 @@ medullaryRapheNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.
@@ -14713,6 +15564,7 @@ medullaryReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.
@@ -14731,6 +15583,7 @@ meningealDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meningealDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010506)]
@@ -14748,6 +15601,7 @@ meninxOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a forebrain meninges. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003290) ('is_a' and 'relationship')]
@@ -14765,6 +15619,7 @@ meninxOfHindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.
@@ -14782,6 +15637,7 @@ meninxOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a forebrain meninges. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003289) ('is_a' and 'relationship')]
@@ -14799,6 +15655,7 @@ mesencephalicNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mesencephalic nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -14817,6 +15674,7 @@ mesencephalicTractOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicTractOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mesencephalic tract of trigeminal nerve' is a tract of brain. It is part of the midbrain tegmentum.
@@ -14835,6 +15693,7 @@ mesentericGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mesentericGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a prevertebral ganglion. Is part of the mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035769) ('is_a' and 'relationship')]
@@ -14851,6 +15710,7 @@ metathalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Metathalamus' is a nucleus of dorsal thalamus.
@@ -14869,6 +15729,7 @@ metencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a segmental subdivision of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001895)]
@@ -14887,6 +15748,7 @@ metencephalonSulcusLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the future metencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009577)]
@@ -14905,6 +15767,7 @@ midbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain' is a regional part of brain.
@@ -14923,6 +15786,7 @@ midbrainArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an arachnoid mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003557)]
@@ -14940,6 +15804,7 @@ midbrainCerebralAqueduct
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain cerebral aqueduct' is a brain ventricle. It is part of the midbrain.
@@ -14958,6 +15823,7 @@ midbrainDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain dura mater and meninx of midbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003562)]
@@ -14975,6 +15841,7 @@ midbrainMantleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainMantleLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube mantle layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009581)]
@@ -14991,6 +15858,7 @@ midbrainPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of midbrain and brain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003551)]
@@ -15008,6 +15876,7 @@ midbrainRapheNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.
@@ -15026,6 +15895,7 @@ midbrainReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain reticular formation' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum and reticular formation.
@@ -15044,6 +15914,7 @@ midbrainTectum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain tectum' is a regional part of brain. It is part of the midbrain.
@@ -15062,6 +15933,7 @@ midbrainTegmentum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain tegmentum' is a regional part of brain. It is part of the midbrain and brainstem.
@@ -15080,6 +15952,7 @@ midbrainhindbrainBoundary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainhindbrainBoundary
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midbrain-hindbrain boundary' is part of the brain.
@@ -15098,6 +15971,7 @@ middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar peduncle and white matter of pons. Is part of the basal part of pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002152) ('is_a' and 'relationship')]
@@ -15116,6 +15990,7 @@ middleCervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleCervicalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001990)]
@@ -15133,6 +16008,7 @@ middleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002702)]
@@ -15151,6 +16027,7 @@ middleFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014618)]
@@ -15167,6 +16044,7 @@ middleGrayLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleGrayLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter layer of superior colliculus and intermediate layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006788)]
@@ -15183,6 +16061,7 @@ middleLateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleLateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001483)]
@@ -15200,6 +16079,7 @@ middleMesencephalicCentralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleMesencephalicCentralArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005078)]
@@ -15217,6 +16097,7 @@ middleTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002771) ('is_a' and 'relationship')]
@@ -15235,6 +16116,7 @@ middleTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014689)]
@@ -15252,6 +16134,7 @@ middleWhiteLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/middleWhiteLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of superior colliculus and intermediate layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006787)]
@@ -15268,6 +16151,7 @@ midlineNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Midline nuclear group' is a nucleus of dorsal thalamus.
@@ -15286,6 +16170,7 @@ molecularLayerCorpusCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/molecularLayerCorpusCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the corpus cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000394)]
@@ -15302,6 +16187,7 @@ molecularLayerOfCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/molecularLayerOfCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002974)]
@@ -15319,6 +16205,7 @@ molecularLayerValvulaCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/molecularLayerValvulaCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the valvula cerebelli. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000913)]
@@ -15335,6 +16222,7 @@ motorNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Motor nucleus of trigeminal nerve' is a trigeminal nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
@@ -15353,6 +16241,7 @@ motorRootOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Motor root of trigeminal nerve' is a trigeminal nerve root.
@@ -15371,6 +16260,7 @@ motorSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/motorSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025525)]
@@ -15388,6 +16278,7 @@ mushroomBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Mushroom body' is a material entity and anatomical entity. It is part of the brain.
@@ -15406,6 +16297,7 @@ myelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a segmental subdivision of hindbrain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005290)]
@@ -15423,6 +16315,7 @@ myelencephalonBasalPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonBasalPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube basal plate. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009579)]
@@ -15439,6 +16332,7 @@ myelencephalonSulcusLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/myelencephalonSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the future myelencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009578)]
@@ -15457,6 +16351,7 @@ nasoFrontalVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nasoFrontalVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004689)]
@@ -15474,6 +16369,7 @@ neocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001950) ('is_a' and 'relationship')]
@@ -15492,6 +16388,7 @@ neodentatePartOfDentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Neodentate part of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
@@ -15510,6 +16407,7 @@ nervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity and anatomical system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001016)]
@@ -15527,6 +16425,7 @@ nervousSystemCellPartLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nervousSystemCellPartLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022303) ('is_a' and 'relationship')]
@@ -15544,6 +16443,7 @@ nervousSystemCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nervousSystemCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001020)]
@@ -15561,6 +16461,7 @@ nervousSystemLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nervousSystemLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003001) ('is_a' and 'relationship')]
@@ -15578,6 +16479,7 @@ neuralLobeOfNeurohypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003217) ('is_a' and 'relationship')]
@@ -15596,6 +16498,7 @@ neuralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Neural nucleus' is a central nervous system cell part cluster.
@@ -15614,6 +16517,7 @@ neuralSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023879) ('is_a' and 'relationship')]
@@ -15631,6 +16535,7 @@ neuralTubeMantleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeMantleLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a differentiating neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004061)]
@@ -15648,6 +16553,7 @@ neuralTubeVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralTubeVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a proliferating neuroepithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004060)]
@@ -15665,6 +16571,7 @@ neurohypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the pituitary gland.
@@ -15683,6 +16590,7 @@ nigrostriatalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nigrostriatalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014169)]
@@ -15700,6 +16608,7 @@ ninthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ninthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002852)]
@@ -15716,6 +16625,7 @@ nucleusAccumbens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus accumbens' is a telencephalic nucleus. It is part of the limbic system, cerebral hemisphere and ventral striatum.
@@ -15734,6 +16644,7 @@ nucleusAmbiguus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus ambiguus' is a nucleus of medulla oblongata and vagus nerve nucleus.
@@ -15752,6 +16663,7 @@ nucleusIncertus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus incertus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
@@ -15770,6 +16682,7 @@ nucleusIntercalatus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus intercalatus' is a nucleus of medulla oblongata.
@@ -15788,6 +16701,7 @@ nucleusOfAnteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of anterior commissure' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -15805,6 +16719,7 @@ nucleusOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of brain' is a neural nucleus. It is part of the brain gray matter.
@@ -15823,6 +16738,7 @@ nucleusOfCerebellarNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of cerebellar nuclear complex' is a hindbrain nucleus. It is part of the cerebellar nuclear complex.
@@ -15841,6 +16757,7 @@ nucleusOfDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.
@@ -15859,6 +16776,7 @@ nucleusOfLateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of lateral olfactory tract' is a telencephalic nucleus. It is part of the olfactory cortex.
@@ -15876,6 +16794,7 @@ nucleusOfMedialEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of medial eminence' is a nucleus of brain.
@@ -15894,6 +16813,7 @@ nucleusOfOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.
@@ -15912,6 +16832,7 @@ nucleusOfPosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -15930,6 +16851,7 @@ nucleusOfSolitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [WP,unvetted].
@@ -15948,6 +16870,7 @@ nucleusOfTheBrachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of the brachium of the inferior colliculus' is a regional part of brain. It is part of the midbrain tectum.
@@ -15966,6 +16889,7 @@ nucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus of trapezoid body' is a nucleus of superior olivary complex.
@@ -15984,6 +16908,7 @@ nucleusPrepositus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus prepositus' is a nucleus of medulla oblongata. It is part of the pons.
@@ -16002,6 +16927,7 @@ nucleusRaphePallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Nucleus raphe pallidus' is a nucleus of medulla oblongata. It is part of the medullary raphe nuclear complex.
@@ -16020,6 +16946,7 @@ nucleusSubceruleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :description: 'Nucleus subceruleus' is a nucleus of brain.
@@ -16037,6 +16964,7 @@ occipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016540) ('is_a' and 'relationship')]
@@ -16054,6 +16982,7 @@ occipitalFusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalFusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the fusiform gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022364) ('is_a' and 'relationship')]
@@ -16070,6 +16999,7 @@ occipitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014640) ('is_a' and 'relationship')]
@@ -16088,6 +17018,7 @@ occipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002021)]
@@ -16106,6 +17037,7 @@ occipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019303) ('is_a' and 'relationship')]
@@ -16122,6 +17054,7 @@ occipitotemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002693)]
@@ -16139,6 +17072,7 @@ oculomotorNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oculomotor nerve root' is a root of cranial nerve. It is part of the midbrain tegmentum.
@@ -16157,6 +17091,7 @@ oculomotorNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oculomotor nuclear complex' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum.
@@ -16175,6 +17110,7 @@ olfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002264) ('is_a' and 'relationship')]
@@ -16193,6 +17129,7 @@ olfactoryBulbExternalPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbExternalPlexiformLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb plexiform layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005376)]
@@ -16210,6 +17147,7 @@ olfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005377)]
@@ -16227,6 +17165,7 @@ olfactoryBulbGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005378)]
@@ -16245,6 +17184,7 @@ olfactoryBulbInternalPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbInternalPlexiformLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb plexiform layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005379)]
@@ -16261,6 +17201,7 @@ olfactoryBulbLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004001) ('is_a' and 'relationship')]
@@ -16277,6 +17218,7 @@ olfactoryBulbMainGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMainGlomerularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb glomerular layer. Is part of the main olfactory bulb. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023934) ('is_a' and 'relationship')]
@@ -16295,6 +17237,7 @@ olfactoryBulbMitralCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbMitralCellLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004186)]
@@ -16313,6 +17256,7 @@ olfactoryBulbOuterNerveLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbOuterNerveLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Olfactory bulb outer nerve layer' is an olfactory bulb layer.
@@ -16331,6 +17275,7 @@ olfactoryBulbPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbPlexiformLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009950)]
@@ -16347,6 +17292,7 @@ olfactoryBulbSubependymalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbSubependymalZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory bulb layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005380)]
@@ -16364,6 +17310,7 @@ olfactoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex and the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002894) ('is_a' and 'relationship')]
@@ -16382,6 +17329,7 @@ olfactoryCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortexLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022317) ('is_a' and 'relationship')]
@@ -16399,6 +17347,7 @@ olfactoryCortexLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortexLayer2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022318) ('is_a' and 'relationship')]
@@ -16416,6 +17365,7 @@ olfactoryCortexLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryCortexLayer3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035044) ('is_a' and 'relationship')]
@@ -16433,6 +17383,7 @@ olfactoryEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022453) ('is_a' and 'relationship')]
@@ -16451,6 +17402,7 @@ olfactoryEpithelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sensory epithelium. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001997) ('is_a' and 'relationship')]
@@ -16468,6 +17420,7 @@ olfactoryGlomerulus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryGlomerulus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural glomerulus. Is part of the olfactory bulb glomerular layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005387) ('is_a' and 'relationship')]
@@ -16485,6 +17438,7 @@ olfactoryLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005366)]
@@ -16502,6 +17456,7 @@ olfactoryPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryPathway
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013201) ('is_a' and 'relationship')]
@@ -16519,6 +17474,7 @@ olfactorySulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactorySulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002772)]
@@ -16536,6 +17492,7 @@ olfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002265) ('is_a' and 'relationship')]
@@ -16554,6 +17511,7 @@ olfactoryTractLinkingBulbToIpsilateralDorsalTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTractLinkingBulbToIpsilateralDorsalTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034730)]
@@ -16570,6 +17528,7 @@ olfactoryTractLinkingBulbToIpsilateralVentralTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTractLinkingBulbToIpsilateralVentralTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an olfactory tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000238)]
@@ -16586,6 +17545,7 @@ olfactoryTrigone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTrigone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002922) ('is_a' and 'relationship')]
@@ -16604,6 +17564,7 @@ olfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTubercle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic nucleus. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001883) ('is_a' and 'relationship')]
@@ -16622,6 +17583,7 @@ olivaryPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Olivary pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
@@ -16640,6 +17602,7 @@ olivocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olivocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002752) ('is_a' and 'relationship')]
@@ -16657,6 +17620,7 @@ opercularPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the inferior frontal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002980)]
@@ -16675,6 +17639,7 @@ opticChiasma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Optic chiasma' is a decussation of diencephalon.
@@ -16693,6 +17658,7 @@ opticRecessOfThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticRecessOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002287) ('is_a' and 'relationship')]
@@ -16711,6 +17677,7 @@ opticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001908) ('is_a' and 'relationship')]
@@ -16729,6 +17696,7 @@ oralPartOfSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oral part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
@@ -16747,6 +17715,7 @@ oralPartOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oral part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
@@ -16765,6 +17734,7 @@ oralPartOfVentralPosterolateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oral part of ventral posterolateral nucleus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
@@ -16783,6 +17753,7 @@ oralPontineReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oral pontine reticular nucleus' is a nucleus of pontine reticular formation.
@@ -16801,6 +17772,7 @@ oralPulvinarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
@@ -16819,6 +17791,7 @@ orbitalGyriComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyriComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022695) ('is_a' and 'relationship')]
@@ -16836,6 +17809,7 @@ orbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007193) ('is_a' and 'relationship')]
@@ -16853,6 +17827,7 @@ orbitalPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. Is part of the inferior frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002624) ('is_a' and 'relationship')]
@@ -16871,6 +17846,7 @@ orbitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002595) ('is_a' and 'relationship')]
@@ -16888,6 +17864,7 @@ orbitofrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. Is part of the limbic system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004167) ('is_a' and 'relationship')]
@@ -16906,6 +17883,7 @@ oticGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oticGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a glossopharyngeal ganglion and parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003963)]
@@ -16923,6 +17901,7 @@ otolithOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/otolithOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a vestibular organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002518)]
@@ -16940,6 +17919,7 @@ outerLimitingLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/outerLimitingLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a limiting membrane of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001788)]
@@ -16957,6 +17937,7 @@ outerNuclearLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/outerNuclearLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001789) ('is_a' and 'relationship')]
@@ -16974,6 +17955,7 @@ outerPlexiformLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/outerPlexiformLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001790) ('is_a' and 'relationship')]
@@ -16991,6 +17973,7 @@ ovalNucleusOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Oval nucleus of stria terminalis' is a telencephalic nucleus. It is part of the anterior division of bed nuclei of stria terminalis.
@@ -17009,6 +17992,7 @@ pairedVenousDuralSinus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pairedVenousDuralSinus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017635)]
@@ -17025,6 +18009,7 @@ paleocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an allocortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014735)]
@@ -17043,6 +18028,7 @@ paleodentateOfDentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paleodentate of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
@@ -17061,6 +18047,7 @@ pallidotegmentalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pallidotegmental fasciculus' is a tract of brain. It is part of the midbrain tegmentum.
@@ -17079,6 +18066,7 @@ pallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pallidum' is a brain gray matter. It is part of the basal ganglion.
@@ -17097,6 +18085,7 @@ pallium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pallium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pallium' is a regional part of brain. It is part of the telencephalon.
@@ -17115,6 +18104,7 @@ parabigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parabigeminal nucleus' is a nucleus of midbrain tectum.
@@ -17133,6 +18123,7 @@ parabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parabrachial nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons.
@@ -17151,6 +18142,7 @@ parabrachialPigmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parabrachial pigmental nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the ventral tegmental area.
@@ -17169,6 +18161,7 @@ paracentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007190)]
@@ -17185,6 +18178,7 @@ paracentralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035933) ('is_a' and 'relationship')]
@@ -17203,6 +18197,7 @@ paracentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002598)]
@@ -17220,6 +18215,7 @@ paracingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex and the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022398) ('is_a' and 'relationship')]
@@ -17236,6 +18232,7 @@ paraflocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraflocculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :description: 'Paraflocculus' is a cerebellum hemisphere lobule and flocculonodular lobe, hemisphere portion.
@@ -17253,6 +18250,7 @@ parafovealPartOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parafovealPartOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018104)]
@@ -17270,6 +18268,7 @@ parahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the limbic system, the temporal lobe and the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002973) ('is_a' and 'relationship')]
@@ -17288,6 +18287,7 @@ paralaminarPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paralaminarPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paralaminar part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
@@ -17306,6 +18306,7 @@ paramedianLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum vermis lobule. Is part of the cerebellum posterior vermis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005349) ('is_a' and 'relationship')]
@@ -17323,6 +18324,7 @@ paramedianReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paramedianReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paramedian reticular nucleus' is a nucleus of medulla oblongata.
@@ -17341,6 +18343,7 @@ parapinealOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parapinealOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the pineal complex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015241)]
@@ -17357,6 +18360,7 @@ parasolitaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasolitaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parasolitary nucleus' is a nucleus of medulla oblongata.
@@ -17375,6 +18379,7 @@ parasubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parasubiculum' is a regional part of brain. It is part of the hippocampal formation.
@@ -17393,6 +18398,7 @@ parasympatheticGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasympatheticGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an autonomic ganglion. Is part of the parasympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001808) ('is_a' and 'relationship')]
@@ -17410,6 +18416,7 @@ parasympatheticNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parasympatheticNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the autonomic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000011)]
@@ -17427,6 +18434,7 @@ paratenialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paratenial nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
@@ -17445,6 +18453,7 @@ paraterminalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a supracallosal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002603)]
@@ -17463,6 +18472,7 @@ paraventricularNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
@@ -17481,6 +18491,7 @@ paraventricularNucleusOfTheHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a hypothalamic nucleus. Is part of the periventricular zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001930) ('is_a' and 'relationship')]
@@ -17499,6 +18510,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
@@ -17517,6 +18529,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionFornicealPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - forniceal part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
@@ -17535,6 +18548,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPar
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionLateralParvicellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
@@ -17553,6 +18567,7 @@ paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusDescendingDivisionMedialParvicellularPartVentralZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus descending division.
@@ -17571,6 +18586,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
@@ -17589,6 +18605,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionAnteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
@@ -17607,6 +18624,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionMedialMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - medial magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
@@ -17625,6 +18643,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part' is a regional part of brain. It is part of the paraventricular nucleus of the hypothalamus magnocellular division.
@@ -17643,6 +18662,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part lateral zone' is a regional part of brain.
@@ -17661,6 +18681,7 @@ paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellul
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part medial zone' is a regional part of brain.
@@ -17679,6 +18700,7 @@ paraventricularNucleusOfTheHypothalamusParvicellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularNucleusOfTheHypothalamusParvicellularDivision
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Paraventricular nucleus of the hypothalamus parvicellular division' is a regional part of brain. It is part of the paraventricular nucleus of hypothalamus.
@@ -17697,6 +18719,7 @@ paraventricularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paraventricularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a diencephalic nucleus. Is part of the caudal tuberculum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000475) ('is_a' and 'relationship')]
@@ -17713,6 +18736,7 @@ paravermicLobuleII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028918)]
@@ -17729,6 +18753,7 @@ paravermicLobuleIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028919)]
@@ -17745,6 +18770,7 @@ paravermicLobuleIV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028920)]
@@ -17761,6 +18787,7 @@ paravermicLobuleIX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleIX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028921)]
@@ -17777,6 +18804,7 @@ paravermicLobuleV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleV
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028922)]
@@ -17793,6 +18821,7 @@ paravermicLobuleVI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVI
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028923)]
@@ -17809,6 +18838,7 @@ paravermicLobuleVII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028924)]
@@ -17825,6 +18855,7 @@ paravermicLobuleVIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleVIII
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0028925)]
@@ -17841,6 +18872,7 @@ paravermicLobuleX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis lobule area and flocculonodular lobe, hemisphere portion. Is part of the flocculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036043) ('is_a' and 'relationship')]
@@ -17858,6 +18890,7 @@ paravermisLobuleArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisLobuleArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. Is part of the paravermis parts of the cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027285) ('is_a' and 'relationship')]
@@ -17875,6 +18908,7 @@ paravermisOfTheAnteriorLobeOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisOfTheAnteriorLobeOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis parts of the cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027310)]
@@ -17891,6 +18925,7 @@ paravermisOfThePosteriorLobeOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisOfThePosteriorLobeOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravermis parts of the cerebellar cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027309)]
@@ -17907,6 +18942,7 @@ paravermisPartsOfTheCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of cerebellar cortex. Is part of the cerebellum intermediate zone. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025677) ('is_a' and 'relationship')]
@@ -17924,6 +18960,7 @@ paravertebralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paravertebralGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sympathetic ganglion and trunk ganglion. Is part of the sympathetic trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001807) ('is_a' and 'relationship')]
@@ -17941,6 +18978,7 @@ parenchymaOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parenchymaOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005158)]
@@ -17958,6 +18996,7 @@ parietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016530) ('is_a' and 'relationship')]
@@ -17976,6 +19015,7 @@ parietalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008940)]
@@ -17993,6 +19033,7 @@ parietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001872)]
@@ -18011,6 +19052,7 @@ parietalOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietalOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the pineal complex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004869)]
@@ -18028,6 +19070,7 @@ parietoOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parietoOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002695)]
@@ -18046,6 +19089,7 @@ parsDistalisOfAdenohypophysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsDistalisOfAdenohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pars distalis of adenohypophysis' is part of the adenohypophysis.
@@ -18064,6 +19108,7 @@ parsIntercerebralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsIntercerebralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pars intercerebralis' is a central nervous system cell part cluster. It is part of the brain.
@@ -18082,6 +19127,7 @@ parsPostremaOfVentralLateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parsPostremaOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pars postrema of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
@@ -18100,6 +19146,7 @@ parvicellularPartOfMedialDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parvicellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus and medial dorsal nucleus of thalamus.
@@ -18118,6 +19165,7 @@ parvicellularPartOfVentralAnteriorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parvicellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
@@ -18136,6 +19184,7 @@ parvicellularPartOfVentralPosteromedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralPosteromedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parvicellular part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
@@ -18154,6 +19203,7 @@ parvocellularOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parvocellular oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -18172,6 +19222,7 @@ parvocellularPartOfRedNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
@@ -18190,6 +19241,7 @@ pedalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pedalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008939)]
@@ -18207,6 +19259,7 @@ peduncleOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peduncleOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a diencephalic white matter and peduncle of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022235)]
@@ -18223,6 +19276,7 @@ pedunculopontineTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pedunculopontineTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The pedunculopontine nucleus (PPN) (or pedunculopontine tegmental nucleus, PPTN) is located in the brainstem, caudal to the substantia nigra and adjacent to the superior cerebellar peduncle. It is composed by a wide variety of neurochemical cell types, including cholinergic, glutamatergic and GABAergic cells. In the classical sense, the PPN is considered to be one of the main components of the reticular activating system. [WP,unvetted].
@@ -18241,6 +19295,7 @@ pelvicGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pelvicGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a prevertebral ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016508)]
@@ -18257,6 +19312,7 @@ periallocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periallocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014736) ('is_a' and 'relationship')]
@@ -18274,6 +19330,7 @@ periamygdaloidArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002656) ('is_a' and 'relationship')]
@@ -18291,6 +19348,7 @@ periamygdaloidCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periamygdaloidCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex and the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014537) ('is_a' and 'relationship')]
@@ -18309,6 +19367,7 @@ pericalcarineCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022534) ('is_a' and 'relationship')]
@@ -18327,6 +19386,7 @@ pericentralNucleusOfInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pericentralNucleusOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pericentral nucleus of inferior colliculus' is a nucleus of midbrain tectum. It is part of the inferior colliculus.
@@ -18345,6 +19405,7 @@ perifovealPartOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/perifovealPartOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018105)]
@@ -18362,6 +19423,7 @@ periolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periolivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Periolivary nucleus' is a nucleus of superior olivary complex.
@@ -18380,6 +19442,7 @@ periostealDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periostealDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of dura mater. Is part of the brain dura mater. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010505) ('is_a' and 'relationship')]
@@ -18397,6 +19460,7 @@ peripeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Peripeduncular nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -18415,6 +19479,7 @@ peripheralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peripheralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000010) ('is_a' and 'relationship')]
@@ -18432,6 +19497,7 @@ peripheralRegionOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peripheralRegionOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of nervous system. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013682) ('is_a' and 'relationship')]
@@ -18449,6 +19515,7 @@ perirhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/perirhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006083) ('is_a' and 'relationship')]
@@ -18467,6 +19534,7 @@ peritrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/peritrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Peritrigeminal nucleus' is a nucleus of medulla oblongata.
@@ -18485,6 +19553,7 @@ periventricularWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/periventricularWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014932)]
@@ -18501,6 +19570,7 @@ piaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a leptomeninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002361)]
@@ -18518,6 +19588,7 @@ pigmentedLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pigmentedLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001782)]
@@ -18535,6 +19606,7 @@ pinealBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pineal body' is a gland of diencephalon and secretory circumventricular organ. It is part of the pineal complex.
@@ -18553,6 +19625,7 @@ pinealRecessOfThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealRecessOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022283) ('is_a' and 'relationship')]
@@ -18570,6 +19643,7 @@ pinealTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pinealTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. Is part of the epiphyseal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034715) ('is_a' and 'relationship')]
@@ -18587,6 +19661,7 @@ piriformCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004725) ('is_a' and 'relationship')]
@@ -18605,6 +19680,7 @@ piriformCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014277) ('is_a' and 'relationship')]
@@ -18622,6 +19698,7 @@ piriformCortexLayer1a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023900) ('is_a' and 'relationship')]
@@ -18640,6 +19717,7 @@ piriformCortexLayer1b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer1b
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023901) ('is_a' and 'relationship')]
@@ -18658,6 +19736,7 @@ piriformCortexLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014280) ('is_a' and 'relationship')]
@@ -18675,6 +19754,7 @@ piriformCortexLayer2a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer2a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022340) ('is_a' and 'relationship')]
@@ -18692,6 +19772,7 @@ piriformCortexLayer2b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer2b
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex layer 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022341) ('is_a' and 'relationship')]
@@ -18709,6 +19790,7 @@ piriformCortexLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortexLayer3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the piriform cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014283) ('is_a' and 'relationship')]
@@ -18726,6 +19808,7 @@ pituitaryGland
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pituitary gland' is a gland of diencephalon and neuroendocrine gland.
@@ -18744,6 +19827,7 @@ pituitaryStalk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pituitary stalk' is a regional part of brain. It is part of the neurohypophysis and neurohypophysis.
@@ -18762,6 +19846,7 @@ planumPolare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/planumPolare
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Planum polare' is a regional part of brain. It is part of the superior temporal gyrus.
@@ -18780,6 +19865,7 @@ pleuralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pleuralGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008941)]
@@ -18797,6 +19883,7 @@ pons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pons' is a regional part of brain. It is part of the metencephalon and brainstem.
@@ -18815,6 +19902,7 @@ ponsReticulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ponsReticulospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004172)]
@@ -18832,6 +19920,7 @@ pontineNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pontine nuclear group' is a brainstem nucleus and hindbrain nucleus. It is part of the basal part of pons.
@@ -18850,6 +19939,7 @@ pontineRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pontine raphe nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum and raphe nuclei.
@@ -18868,6 +19958,7 @@ pontineReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pontine reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the reticular formation and pontine tegmentum.
@@ -18886,6 +19977,7 @@ pontineTegmentum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pontine tegmentum' is part of the pons.
@@ -18904,6 +19996,7 @@ pontobulbarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontobulbarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pontobulbar nucleus' is a nucleus of medulla oblongata.
@@ -18922,6 +20015,7 @@ pontocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pontocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the middle cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022421) ('is_a' and 'relationship')]
@@ -18939,6 +20033,7 @@ postcentralFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014474)]
@@ -18955,6 +20050,7 @@ postcentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002581) ('is_a' and 'relationship')]
@@ -18973,6 +20069,7 @@ postcentralSulcusOfParietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002915)]
@@ -18991,6 +20088,7 @@ postcommissuralFornixOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the fornix of brain and the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003016) ('is_a' and 'relationship')]
@@ -19009,6 +20107,7 @@ posteriorAscendingLimbOfLateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorAscendingLimbOfLateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. Is part of the lateral sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002910) ('is_a' and 'relationship')]
@@ -19026,6 +20125,7 @@ posteriorCalcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002901)]
@@ -19042,6 +20142,7 @@ posteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022353) ('is_a' and 'relationship')]
@@ -19060,6 +20161,7 @@ posteriorCingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCingulateGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the cingulate gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002740) ('is_a' and 'relationship')]
@@ -19078,6 +20180,7 @@ posteriorColumnOfFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior column of fornix' is a neuron projection bundle and central nervous system cell part cluster. It is part of the fornix of brain.
@@ -19096,6 +20199,7 @@ posteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000936) ('is_a' and 'relationship')]
@@ -19114,6 +20218,7 @@ posteriorHornLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHornLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic ventricle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004672)]
@@ -19132,6 +20237,7 @@ posteriorHypothalamicRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
@@ -19150,6 +20256,7 @@ posteriorLateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001314)]
@@ -19167,6 +20274,7 @@ posteriorLimbOfInternalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLimbOfInternalCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior limb of internal capsule' is a limb of internal capsule of telencephalon.
@@ -19185,6 +20293,7 @@ posteriorLobeOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorLobeOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004002)]
@@ -19203,6 +20312,7 @@ posteriorMedianEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMedianEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
@@ -19221,6 +20331,7 @@ posteriorMesencephalicCentralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMesencephalicCentralArtery
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central artery. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005079)]
@@ -19238,6 +20349,7 @@ posteriorMiddleTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorMiddleTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025768)]
@@ -19254,6 +20366,7 @@ posteriorNuclearComplexOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior nuclear complex of thalamus' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the dorsal thalamus.
@@ -19272,6 +20385,7 @@ posteriorNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
@@ -19290,6 +20404,7 @@ posteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the posterior nuclear complex of thalamus.
@@ -19308,6 +20423,7 @@ posteriorOrbitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorOrbitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002575)]
@@ -19325,6 +20441,7 @@ posteriorParacentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParacentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paracentral gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007192)]
@@ -19341,6 +20458,7 @@ posteriorParahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002657) ('is_a' and 'relationship')]
@@ -19359,6 +20477,7 @@ posteriorParahippocampalWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalWhiteMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of temporal lobe and white matter of limbic lobe. Is part of the posterior parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022394) ('is_a' and 'relationship')]
@@ -19375,6 +20494,7 @@ posteriorParietalAssociationAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParietalAssociationAreas
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035886) ('is_a' and 'relationship')]
@@ -19391,6 +20511,7 @@ posteriorParietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the parietal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034889) ('is_a' and 'relationship')]
@@ -19408,6 +20529,7 @@ posteriorParolfactorySulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParolfactorySulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002923)]
@@ -19424,6 +20546,7 @@ posteriorPartOfAnteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPartOfAnteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of telencephalon. Is part of the anterior commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003043) ('is_a' and 'relationship')]
@@ -19442,6 +20565,7 @@ posteriorPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterior periventricular nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
@@ -19460,6 +20584,7 @@ posteriorSegmentOfParacentralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSegmentOfParacentralLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the parietal lobe and the paracentral lobule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035934) ('is_a' and 'relationship')]
@@ -19476,6 +20601,7 @@ posteriorSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002753) ('is_a' and 'relationship')]
@@ -19493,6 +20619,7 @@ posteriorSubcentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSubcentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002909)]
@@ -19509,6 +20636,7 @@ posteriorSuperiorFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSuperiorFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002814)]
@@ -19525,6 +20653,7 @@ posteriorSuperiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorSuperiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the superior frontal sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027513) ('is_a' and 'relationship')]
@@ -19541,6 +20670,7 @@ posteriorTemporalFusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTemporalFusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the fusiform gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022397) ('is_a' and 'relationship')]
@@ -19557,6 +20687,7 @@ posteriorThalamicRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorThalamicRadiation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'posterior thalamic radiation' is a white matter fibre bundle. It is part of the radiation of thalamus.
@@ -19575,6 +20706,7 @@ posteriorTransverseTemporalArea42
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalArea42
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a Brodmann area. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006096)]
@@ -19592,6 +20724,7 @@ posteriorTransverseTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorTransverseTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a transverse gyrus of Heschl. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002774)]
@@ -19609,6 +20742,7 @@ posterodorsalNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterodorsalNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posterodorsal nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
@@ -19627,6 +20761,7 @@ posterolateralFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterolateralFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002818)]
@@ -19644,6 +20779,7 @@ posterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterolateralVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035897) ('is_a' and 'relationship')]
@@ -19660,6 +20796,7 @@ posterolateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posterolateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the posterolateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035919) ('is_a' and 'relationship')]
@@ -19676,6 +20813,7 @@ posteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteromedialVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035900) ('is_a' and 'relationship')]
@@ -19692,6 +20830,7 @@ posteromedialVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteromedialVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the posteromedial visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035914) ('is_a' and 'relationship')]
@@ -19708,6 +20847,7 @@ posteromedialVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteromedialVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the posteromedial visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035909) ('is_a' and 'relationship')]
@@ -19724,6 +20864,7 @@ posteroventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/posteroventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Posteroventral cochlear nucleus' is a cochlear nucleus. It is part of the ventral cochlear nucleus.
@@ -19742,6 +20883,7 @@ postganglionicAutonomicFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postganglionicAutonomicFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a trigeminal nerve fibers. Is part of the autonomic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011924) ('is_a' and 'relationship')]
@@ -19759,6 +20901,7 @@ postganglionicParasympatheticFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postganglionicParasympatheticFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a postganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011929) ('is_a' and 'relationship')]
@@ -19776,6 +20919,7 @@ postganglionicSympatheticFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postganglionicSympatheticFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a postganglionic autonomic fiber. Is part of the sympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011926) ('is_a' and 'relationship')]
@@ -19793,6 +20937,7 @@ postlateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postlateralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013595)]
@@ -19809,6 +20954,7 @@ postnatalSubventricularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postnatalSubventricularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Postnatal subventricular zone' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the forebrain.
@@ -19827,6 +20973,7 @@ postopticCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postopticCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of diencephalon. Is part of the diencephalic white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003936) ('is_a' and 'relationship')]
@@ -19843,6 +20990,7 @@ postrhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postrhinalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035890) ('is_a' and 'relationship')]
@@ -19859,6 +21007,7 @@ postrhinalAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postrhinalAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the postrhinal area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035911) ('is_a' and 'relationship')]
@@ -19875,6 +21024,7 @@ postsubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postsubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Postsubiculum' is a regional part of brain. It is part of the retrohippocampal region.
@@ -19893,6 +21043,7 @@ postsylvianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/postsylvianSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013591)]
@@ -19909,6 +21060,7 @@ precentralFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. Is part of the anterior lobe of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014473) ('is_a' and 'relationship')]
@@ -19926,6 +21078,7 @@ precentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002703)]
@@ -19944,6 +21097,7 @@ precentralOperculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Precentral operculum' is a regional part of brain. It is part of the operculum of brain.
@@ -19962,6 +21116,7 @@ precentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and frontal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022252)]
@@ -19979,6 +21134,7 @@ precommissuralFornixOfForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014539) ('is_a' and 'relationship')]
@@ -19997,6 +21153,7 @@ preculminateFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preculminateFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035926)]
@@ -20013,6 +21170,7 @@ precuneusCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/precuneusCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006093) ('is_a' and 'relationship')]
@@ -20031,6 +21189,7 @@ predorsalBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/predorsalBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Predorsal bundle' is a fasciculus of brain. It is part of the white matter of medulla oblongata.
@@ -20049,6 +21208,7 @@ prefrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prefrontalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000451) ('is_a' and 'relationship')]
@@ -20067,6 +21227,7 @@ preganglionicAutonomicFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preganglionicAutonomicFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a trigeminal nerve fibers. Is part of the autonomic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011925) ('is_a' and 'relationship')]
@@ -20084,6 +21245,7 @@ preganglionicParasympatheticFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preganglionicParasympatheticFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a preganglionic autonomic fiber. Is part of the parasympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011930) ('is_a' and 'relationship')]
@@ -20101,6 +21263,7 @@ preganglionicSympatheticFiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preganglionicSympatheticFiber
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a preganglionic autonomic fiber. Is part of the sympathetic nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011927) ('is_a' and 'relationship')]
@@ -20118,6 +21281,7 @@ premammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Premammillary nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.
@@ -20136,6 +21300,7 @@ premotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/premotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016634) ('is_a' and 'relationship')]
@@ -20154,6 +21319,7 @@ preoccipitalNotch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preoccipitalNotch
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Preoccipital notch' is an anatomical entity. It is part of the occipital lobe.
@@ -20172,6 +21338,7 @@ preolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preolivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Preolivary nucleus' is a nucleus of superior olivary complex.
@@ -20190,6 +21357,7 @@ preopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001928) ('is_a' and 'relationship')]
@@ -20208,6 +21376,7 @@ preopticPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Preoptic periventricular nucleus' is a preoptic nucleus.
@@ -20226,6 +21395,7 @@ preopticohypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/preopticohypothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005344)]
@@ -20242,6 +21412,7 @@ prepyramidalFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prepyramidalFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002816)]
@@ -20259,6 +21430,7 @@ prepyriformArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prepyriformArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002590) ('is_a' and 'relationship')]
@@ -20276,6 +21448,7 @@ presubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Presubiculum' is part of the hippocampal formation and parahippocampal gyrus.
@@ -20294,6 +21467,7 @@ presylvianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/presylvianSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013592)]
@@ -20310,6 +21484,7 @@ pretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pretectal nucleus' is a nucleus of brain. It is part of the pretectal region.
@@ -20328,6 +21503,7 @@ pretectalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Pretectal region' is a brain gray matter and nuclear complex of neuraxis.
@@ -20346,6 +21522,7 @@ prevertebralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/prevertebralGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003964)]
@@ -20363,6 +21540,7 @@ primaryAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryAuditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034751) ('is_a' and 'relationship')]
@@ -20380,6 +21558,7 @@ primaryFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014471)]
@@ -20397,6 +21576,7 @@ primaryMotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the frontal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001384) ('is_a' and 'relationship')]
@@ -20415,6 +21595,7 @@ primaryMotorCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortexLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the primary motor cortex and the cortical layer I. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034888) ('is_a' and 'relationship')]
@@ -20431,6 +21612,7 @@ primaryMotorCortexLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortexLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the primary motor cortex and the cortical layer V. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022315) ('is_a' and 'relationship')]
@@ -20447,6 +21629,7 @@ primaryMotorCortexLayer6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryMotorCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the primary motor cortex and the cortical layer VI. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022316) ('is_a' and 'relationship')]
@@ -20463,6 +21646,7 @@ primaryOlfactoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022469) ('is_a' and 'relationship')]
@@ -20481,6 +21665,7 @@ primaryOlfactoryFiberLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryOlfactoryFiberLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the olfactory bulb. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000267)]
@@ -20497,6 +21682,7 @@ primarySomatosensoryAreaBarrelFieldLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035873) ('is_a' and 'relationship')]
@@ -20514,6 +21700,7 @@ primarySomatosensoryAreaBarrelFieldLayer23
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer23
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035874) ('is_a' and 'relationship')]
@@ -20530,6 +21717,7 @@ primarySomatosensoryAreaBarrelFieldLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035877) ('is_a' and 'relationship')]
@@ -20547,6 +21735,7 @@ primarySomatosensoryAreaBarrelFieldLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035872) ('is_a' and 'relationship')]
@@ -20564,6 +21753,7 @@ primarySomatosensoryAreaBarrelFieldLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035876) ('is_a' and 'relationship')]
@@ -20581,6 +21771,7 @@ primarySomatosensoryAreaBarrelFieldLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryAreaBarrelFieldLayer6b
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the barrel cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035875) ('is_a' and 'relationship')]
@@ -20598,6 +21789,7 @@ primarySomatosensoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a somatosensory cortex. Is part of the parietal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008933) ('is_a' and 'relationship')]
@@ -20616,6 +21808,7 @@ primarySomatosensoryCortexLayer6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySomatosensoryCortexLayer6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of neocortex. Is part of the primary somatosensory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023859) ('is_a' and 'relationship')]
@@ -20633,6 +21826,7 @@ primarySuperiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primarySuperiorOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Primary superior olive' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the superior olivary complex.
@@ -20651,6 +21845,7 @@ primaryVisualAreaLayer23
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualAreaLayer23
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the primary visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035907) ('is_a' and 'relationship')]
@@ -20667,6 +21862,7 @@ primaryVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the primary visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035904) ('is_a' and 'relationship')]
@@ -20683,6 +21879,7 @@ primaryVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the primary visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035906) ('is_a' and 'relationship')]
@@ -20699,6 +21896,7 @@ primaryVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the primary visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035892) ('is_a' and 'relationship')]
@@ -20715,6 +21913,7 @@ primaryVisualCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/primaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a Brodmann area and functional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002436) ('is_a' and 'relationship')]
@@ -20733,6 +21932,7 @@ principalAnteriorDivisionOfSupraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalAnteriorDivisionOfSupraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Principal anterior division of supraoptic nucleus' is a regional part of brain.
@@ -20751,6 +21951,7 @@ principalPartOfVentralPosteromedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPartOfVentralPosteromedialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Principal part of ventral posteromedial nucleus' is a gray matter of diencephalon. It is part of the ventral posteromedial nucleus of thalamus.
@@ -20769,6 +21970,7 @@ principalPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Principal pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
@@ -20787,6 +21989,7 @@ principalSensoryNucleusOfTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Principal sensory nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
@@ -20805,6 +22008,7 @@ principalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/principalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025903) ('is_a' and 'relationship')]
@@ -20822,6 +22026,7 @@ profundalPartOfTrigeminalGanglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/profundalPartOfTrigeminalGanglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. Is part of the trigeminal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035599) ('is_a' and 'relationship')]
@@ -20838,6 +22043,7 @@ proisocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/proisocortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the neocortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014951) ('is_a' and 'relationship')]
@@ -20855,6 +22061,7 @@ proprioceptiveSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/proprioceptiveSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025533)]
@@ -20872,6 +22079,7 @@ pterygopalatineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pterygopalatineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003962)]
@@ -20889,6 +22097,7 @@ putamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/putamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Putamen' is a telencephalic nucleus. It is part of the cerebral hemisphere and caudate-putamen.
@@ -20907,6 +22116,7 @@ pyramidalLayerOfCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA1 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014548) ('is_a' and 'relationship')]
@@ -20925,6 +22135,7 @@ pyramidalLayerOfCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA2 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014549) ('is_a' and 'relationship')]
@@ -20943,6 +22154,7 @@ pyramidalLayerOfCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of CA3 field. Is part of the hippocampus pyramidal layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014550) ('is_a' and 'relationship')]
@@ -20960,6 +22172,7 @@ quadrangularLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/quadrangularLobule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum hemisphere lobule. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036063)]
@@ -20976,6 +22189,7 @@ radiationOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/radiationOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'radiation of thalamus' is a white matter fibre bundle. It is part of of the thalamic complex.
@@ -20994,6 +22208,7 @@ redNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Red nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -21012,6 +22227,7 @@ regionalPartOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Regional part of brain' is a regional part of nervous system. It is part of the brain.
@@ -21030,6 +22246,7 @@ regionalPartOfCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Regional part of cerebellar cortex' is a regional part of brain. It is part of the cerebellar cortex.
@@ -21047,6 +22264,7 @@ reticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticularFormation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Reticular formation' is a regional part of brain. It is part of the brainstem.
@@ -21065,6 +22283,7 @@ reticulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022943) ('is_a' and 'relationship')]
@@ -21082,6 +22301,7 @@ reticulotegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reticulotegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Reticulotegmental nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons and reticular formation.
@@ -21100,6 +22320,7 @@ retina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a photoreceptor array. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000966)]
@@ -21117,6 +22338,7 @@ retinalNeuralLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retinalNeuralLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of retina. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003902)]
@@ -21134,6 +22356,7 @@ retinalTapetumLucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retinalTapetumLucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010245)]
@@ -21151,6 +22374,7 @@ retrochiasmaticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrochiasmaticArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the medial zone of hypothalamus and the intermediate hypothalamic region. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001933)]
@@ -21168,6 +22392,7 @@ retrohippocampalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrohippocampalRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022230) ('is_a' and 'relationship')]
@@ -21184,6 +22409,7 @@ retrorubralAreaOfMidbrainReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Retrorubral area of midbrain reticular nucleus' is a regional part of brain. It is part of the nucleus of midbrain reticular formation.
@@ -21202,6 +22428,7 @@ retrosplenialGranularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrosplenialGranularCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the retrosplenial region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014918) ('is_a' and 'relationship')]
@@ -21218,6 +22445,7 @@ retrotrapezoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/retrotrapezoidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Retrotrapezoid nucleus' is a nucleus of medulla oblongata.
@@ -21236,6 +22464,7 @@ reuniensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Reuniens nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
@@ -21254,6 +22483,7 @@ rhinalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002683) ('is_a' and 'relationship')]
@@ -21272,6 +22502,7 @@ rhombicLip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rhombic lip' is part of the future metencephalon.
@@ -21290,6 +22521,7 @@ rhomboidalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhomboidalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rhomboidal nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
@@ -21308,6 +22540,7 @@ rhombomere
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neuromere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001892)]
@@ -21325,6 +22558,7 @@ rhombomere1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005499)]
@@ -21342,6 +22576,7 @@ rhombomere10
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere10
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019285)]
@@ -21358,6 +22593,7 @@ rhombomere11
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere11
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019286)]
@@ -21374,6 +22610,7 @@ rhombomere1FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere1FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005566) ('is_a' and 'relationship')]
@@ -21390,6 +22627,7 @@ rhombomere1RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere1RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005568) ('is_a' and 'relationship')]
@@ -21407,6 +22645,7 @@ rhombomere2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005569)]
@@ -21424,6 +22663,7 @@ rhombomere2FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere2FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005570) ('is_a' and 'relationship')]
@@ -21441,6 +22681,7 @@ rhombomere2RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere2RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005572) ('is_a' and 'relationship')]
@@ -21458,6 +22699,7 @@ rhombomere3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005507)]
@@ -21475,6 +22717,7 @@ rhombomere3FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere3FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005573) ('is_a' and 'relationship')]
@@ -21492,6 +22735,7 @@ rhombomere3RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere3RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005575) ('is_a' and 'relationship')]
@@ -21509,6 +22753,7 @@ rhombomere4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005511)]
@@ -21526,6 +22771,7 @@ rhombomere4FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere4FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 4. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005576) ('is_a' and 'relationship')]
@@ -21543,6 +22789,7 @@ rhombomere4RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere4RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 4. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005578) ('is_a' and 'relationship')]
@@ -21560,6 +22807,7 @@ rhombomere5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005515)]
@@ -21577,6 +22825,7 @@ rhombomere5FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere5FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 5. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005579) ('is_a' and 'relationship')]
@@ -21594,6 +22843,7 @@ rhombomere5RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere5RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 5. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005581) ('is_a' and 'relationship')]
@@ -21611,6 +22861,7 @@ rhombomere6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere6
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005519)]
@@ -21628,6 +22879,7 @@ rhombomere6FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere6FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 6. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005582) ('is_a' and 'relationship')]
@@ -21645,6 +22897,7 @@ rhombomere6RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere6RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 6. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005584) ('is_a' and 'relationship')]
@@ -21662,6 +22915,7 @@ rhombomere7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere7
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005523)]
@@ -21679,6 +22933,7 @@ rhombomere7FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere7FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 7. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005585) ('is_a' and 'relationship')]
@@ -21696,6 +22951,7 @@ rhombomere7RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere7RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 7. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005587) ('is_a' and 'relationship')]
@@ -21713,6 +22969,7 @@ rhombomere8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere8
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005527)]
@@ -21730,6 +22987,7 @@ rhombomere8FloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere8FloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere floor plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005588) ('is_a' and 'relationship')]
@@ -21747,6 +23005,7 @@ rhombomere8RoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere8RoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere roof plate. Is part of the rhombomere 8. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005590) ('is_a' and 'relationship')]
@@ -21764,6 +23023,7 @@ rhombomere9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomere9
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a rhombomere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019284)]
@@ -21780,6 +23040,7 @@ rhombomereFloorPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomereFloorPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005500)]
@@ -21796,6 +23057,7 @@ rhombomereRoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rhombomereRoofPlate
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the rhombomere. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005502)]
@@ -21812,6 +23074,7 @@ rightAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightAuditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an auditory cortex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009897)]
@@ -21829,6 +23092,7 @@ rightFrontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightFrontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal cortex. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002810) ('is_a' and 'relationship')]
@@ -21846,6 +23110,7 @@ rightHemisphereOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightHemisphereOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014890)]
@@ -21863,6 +23128,7 @@ rightLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightLateralVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a telencephalic ventricle. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013162) ('is_a' and 'relationship')]
@@ -21880,6 +23146,7 @@ rightLimbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightLimbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a limbic lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002805) ('is_a' and 'relationship')]
@@ -21897,6 +23164,7 @@ rightOccipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002807) ('is_a' and 'relationship')]
@@ -21914,6 +23182,7 @@ rightParietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parietal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002803) ('is_a' and 'relationship')]
@@ -21931,6 +23200,7 @@ rightTemporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rightTemporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal lobe. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002809) ('is_a' and 'relationship')]
@@ -21948,6 +23218,7 @@ roofPlateOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/roofPlateOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the diencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003301)]
@@ -21965,6 +23236,7 @@ roofPlateOfMetencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/roofPlateOfMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the metencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003302)]
@@ -21982,6 +23254,7 @@ roofPlateOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/roofPlateOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the telencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003300)]
@@ -21999,6 +23272,7 @@ rootOfAbducensNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Root of abducens nerve' is a root of cranial nerve. It is part of the medulla oblongata.
@@ -22017,6 +23291,7 @@ rootOfOlfactoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The initial segment of an olfactory nerve, leaving the central nervous system.
@@ -22034,6 +23309,7 @@ rootOfOpticNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A nerve root that extends_fibers_into a nerve connecting eye with brain.
@@ -22051,6 +23327,7 @@ rootOfTrochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Root of trochlear nerve' is a root of cranial nerve. It is part of the brainstem.
@@ -22069,6 +23346,7 @@ rootOfVagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfVagusNerve
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A root of cranial nerve that is part of a vagus nerve.
@@ -22086,6 +23364,7 @@ rostralAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the anterior cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022438) ('is_a' and 'relationship')]
@@ -22104,6 +23383,7 @@ rostralCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034777) ('is_a' and 'relationship')]
@@ -22120,6 +23400,7 @@ rostralCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034778) ('is_a' and 'relationship')]
@@ -22136,6 +23417,7 @@ rostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034779) ('is_a' and 'relationship')]
@@ -22152,6 +23434,7 @@ rostralCerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralCerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000643) ('is_a' and 'relationship')]
@@ -22168,6 +23451,7 @@ rostralEpiphysealTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralEpiphysealTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and cranial neuron projection bundle. Is part of the epiphyseal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034716) ('is_a' and 'relationship')]
@@ -22185,6 +23469,7 @@ rostralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019280) ('is_a' and 'relationship')]
@@ -22201,6 +23486,7 @@ rostralInterstitialNucleusOfMedialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rostral interstitial nucleus of medial longitudinal fasciculus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -22219,6 +23505,7 @@ rostralIntralaminarNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rostral intralaminar nuclear group' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
@@ -22237,6 +23524,7 @@ rostralLinearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralLinearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rostral linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the ventral tegmental area.
@@ -22255,6 +23543,7 @@ rostralMesencephaloCerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMesencephaloCerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000579) ('is_a' and 'relationship')]
@@ -22271,6 +23560,7 @@ rostralMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain and frontal gyrus. Is part of the middle frontal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006446) ('is_a' and 'relationship')]
@@ -22289,6 +23579,7 @@ rostralMigratoryStream
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rostral migratory stream' is a regional part of brain. It is part of the telencephalon.
@@ -22307,6 +23598,7 @@ rostralPortionOfTheMedialAccessoryOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Rostral portion of the medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
@@ -22325,6 +23617,7 @@ rostralSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the spinocerebellar tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023984) ('is_a' and 'relationship')]
@@ -22343,6 +23636,7 @@ rostralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025763) ('is_a' and 'relationship')]
@@ -22359,6 +23653,7 @@ rostrolateralAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrolateralAreaLayer5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the rostrolateral visual area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035920) ('is_a' and 'relationship')]
@@ -22375,6 +23670,7 @@ rostrolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrolateralVisualArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the posterior parietal association areas. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035912) ('is_a' and 'relationship')]
@@ -22391,6 +23687,7 @@ rostrumOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.
@@ -22409,6 +23706,7 @@ rubrospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/rubrospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002714) ('is_a' and 'relationship')]
@@ -22426,6 +23724,7 @@ sacralDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sacralDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002837)]
@@ -22442,6 +23741,7 @@ sagittalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sagittalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the longitudinal fissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034968) ('is_a' and 'relationship')]
@@ -22459,6 +23759,7 @@ secondCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002839)]
@@ -22475,6 +23776,7 @@ secondLumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondLumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002856)]
@@ -22491,6 +23793,7 @@ secondSacralDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondSacralDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002861)]
@@ -22507,6 +23810,7 @@ secondThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002846)]
@@ -22523,6 +23827,7 @@ secondaryAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryAuditoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034752) ('is_a' and 'relationship')]
@@ -22540,6 +23845,7 @@ secondaryFissureOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryFissureOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellum fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002817)]
@@ -22557,6 +23863,7 @@ secondaryGustatoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryGustatoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000430)]
@@ -22573,6 +23880,7 @@ secondaryOlfactoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryOlfactoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002895) ('is_a' and 'relationship')]
@@ -22591,6 +23899,7 @@ secondaryProsencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryProsencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036218) ('is_a' and 'relationship')]
@@ -22608,6 +23917,7 @@ secondarySomatosensoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a somatosensory cortex. Is part of the operculum of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008934) ('is_a' and 'relationship')]
@@ -22625,6 +23935,7 @@ secondaryVisualCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secondaryVisualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a functional part of brain. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022232) ('is_a' and 'relationship')]
@@ -22642,6 +23953,7 @@ secretoryCircumventricularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/secretoryCircumventricularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a circumventricular organ and neuroendocrine gland. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010134)]
@@ -22659,6 +23971,7 @@ segmentalSubdivisionOfHindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Segmental subdivision of hindbrain' is a segmental subdivision of nervous system. It is part of the hindbrain.
@@ -22676,6 +23989,7 @@ segmentalSubdivisionOfNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004732) ('is_a' and 'relationship')]
@@ -22693,6 +24007,7 @@ sensorimotorSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensorimotorSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025534)]
@@ -22709,6 +24024,7 @@ sensoryCircumventricularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryCircumventricularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a circumventricular organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010135)]
@@ -22726,6 +24042,7 @@ sensoryDissociationArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryDissociationArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the parietal lobe. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003938)]
@@ -22743,6 +24060,7 @@ sensoryGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001800)]
@@ -22760,6 +24078,7 @@ septalNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Septal nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the septum of telencephalon and basal forebrain.
@@ -22778,6 +24097,7 @@ septalOrganOfMasera
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septalOrganOfMasera
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the olfactory epithelium. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015246)]
@@ -22795,6 +24115,7 @@ septofimbrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septofimbrialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Septofimbrial nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -22813,6 +24134,7 @@ septohippocampalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septohippocampalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Septohippocampal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -22831,6 +24153,7 @@ septumOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000446)]
@@ -22849,6 +24172,7 @@ septumPellucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/septumPellucidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Septum pellucidum' is part of the septum of telencephalon and telencephalic ventricle.
@@ -22867,6 +24191,7 @@ seventhCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/seventhCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002843)]
@@ -22883,6 +24208,7 @@ seventhThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/seventhThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002850)]
@@ -22899,6 +24225,7 @@ shellOfNucleusAccumbens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/shellOfNucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Shell of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.
@@ -22917,6 +24244,7 @@ sixthCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sixthCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007711)]
@@ -22933,6 +24261,7 @@ sixthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sixthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002849)]
@@ -22949,6 +24278,7 @@ solitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/solitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002718) ('is_a' and 'relationship')]
@@ -22966,6 +24296,7 @@ solitaryTractNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/solitaryTractNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002126) ('is_a' and 'relationship')]
@@ -22983,6 +24314,7 @@ somaticMotorSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somaticMotorSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003945) ('is_a' and 'relationship')]
@@ -23000,6 +24332,7 @@ somaticNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somaticNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000012) ('is_a' and 'relationship')]
@@ -23017,6 +24350,7 @@ somaticSensorySystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somaticSensorySystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the somatic nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003942)]
@@ -23034,6 +24368,7 @@ somatosensoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/somatosensoryCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a functional part of brain. Is part of the postcentral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008930) ('is_a' and 'relationship')]
@@ -23052,6 +24387,7 @@ sommersSector
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sommersSector
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Sommer's sector' is a regional part of brain. It is part of the hippocampal formation.
@@ -23070,6 +24406,7 @@ spinalCordArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an arachnoid mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003560)]
@@ -23087,6 +24424,7 @@ spinalCordMantleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordMantleLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube mantle layer. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009583) ('is_a' and 'relationship')]
@@ -23103,6 +24441,7 @@ spinalCordPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a pia mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003555)]
@@ -23120,6 +24459,7 @@ spinalCordSulcusLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordSulcusLimitans
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the future spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009570)]
@@ -23137,6 +24477,7 @@ spinalCordVentricularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalCordVentricularLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a neural tube ventricular layer. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034710) ('is_a' and 'relationship')]
@@ -23153,6 +24494,7 @@ spinalDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dura mater and meninx of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002093)]
@@ -23170,6 +24512,7 @@ spinalTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014761) ('is_a' and 'relationship')]
@@ -23187,6 +24530,7 @@ spinalTrigeminalTractOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a spinal trigeminal tract. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002715) ('is_a' and 'relationship')]
@@ -23205,6 +24549,7 @@ spinalTrigeminalTractOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinalTrigeminalTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a spinal trigeminal tract. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002800) ('is_a' and 'relationship')]
@@ -23222,6 +24567,7 @@ spinoOlivaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinoOlivaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002719) ('is_a' and 'relationship')]
@@ -23239,6 +24585,7 @@ spinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005413) ('is_a' and 'relationship')]
@@ -23256,6 +24603,7 @@ spinocerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014643) ('is_a' and 'relationship')]
@@ -23274,6 +24622,7 @@ spinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007703)]
@@ -23292,6 +24641,7 @@ spinothalamicTractOfMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the medulla oblongata and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002944) ('is_a' and 'relationship')]
@@ -23310,6 +24660,7 @@ spinothalamicTractOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the midbrain tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002609) ('is_a' and 'relationship')]
@@ -23327,6 +24678,7 @@ spinothalamicTractOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the pontine tegmentum and the spinothalamic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002798) ('is_a' and 'relationship')]
@@ -23345,6 +24697,7 @@ spleniumOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition:
@@ -23363,6 +24716,7 @@ spurOfArcuateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/spurOfArcuateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the arcuate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025772) ('is_a' and 'relationship')]
@@ -23379,6 +24733,7 @@ stratumLacunosumMoleculareOfCaudalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034798) ('is_a' and 'relationship')]
@@ -23395,6 +24750,7 @@ stratumLacunosumMoleculareOfCaudalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034803) ('is_a' and 'relationship')]
@@ -23411,6 +24767,7 @@ stratumLacunosumMoleculareOfCaudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfCaudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034808) ('is_a' and 'relationship')]
@@ -23427,6 +24784,7 @@ stratumLacunosumMoleculareOfRostralCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034828) ('is_a' and 'relationship')]
@@ -23443,6 +24801,7 @@ stratumLacunosumMoleculareOfRostralCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034833) ('is_a' and 'relationship')]
@@ -23459,6 +24818,7 @@ stratumLacunosumMoleculareOfRostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfRostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034838) ('is_a' and 'relationship')]
@@ -23475,6 +24835,7 @@ stratumLacunosumMoleculareOfUncalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034858) ('is_a' and 'relationship')]
@@ -23491,6 +24852,7 @@ stratumLacunosumMoleculareOfUncalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034863) ('is_a' and 'relationship')]
@@ -23507,6 +24869,7 @@ stratumLacunosumMoleculareOfUncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLacunosumMoleculareOfUncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum lacunosum moleculare and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034868) ('is_a' and 'relationship')]
@@ -23523,6 +24886,7 @@ stratumLucidumOfCaudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLucidumOfCaudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a CA3 stratum lucidum. Is part of the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034810) ('is_a' and 'relationship')]
@@ -23539,6 +24903,7 @@ stratumLucidumOfRostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLucidumOfRostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a CA3 stratum lucidum. Is part of the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034840) ('is_a' and 'relationship')]
@@ -23555,6 +24920,7 @@ stratumLucidumOfUncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumLucidumOfUncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a CA3 stratum lucidum. Is part of the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034870) ('is_a' and 'relationship')]
@@ -23571,6 +24937,7 @@ stratumOriensOfCaudalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfCaudalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034801) ('is_a' and 'relationship')]
@@ -23587,6 +24954,7 @@ stratumOriensOfCaudalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfCaudalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034806) ('is_a' and 'relationship')]
@@ -23603,6 +24971,7 @@ stratumOriensOfCaudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfCaudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034812) ('is_a' and 'relationship')]
@@ -23619,6 +24988,7 @@ stratumOriensOfRostralCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfRostralCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034831) ('is_a' and 'relationship')]
@@ -23635,6 +25005,7 @@ stratumOriensOfRostralCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfRostralCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034836) ('is_a' and 'relationship')]
@@ -23651,6 +25022,7 @@ stratumOriensOfRostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfRostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034842) ('is_a' and 'relationship')]
@@ -23667,6 +25039,7 @@ stratumOriensOfUncalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfUncalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034861) ('is_a' and 'relationship')]
@@ -23683,6 +25056,7 @@ stratumOriensOfUncalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfUncalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034866) ('is_a' and 'relationship')]
@@ -23699,6 +25073,7 @@ stratumOriensOfUncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumOriensOfUncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum oriens and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034872) ('is_a' and 'relationship')]
@@ -23715,6 +25090,7 @@ stratumPyramidaleOfCaudalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034800) ('is_a' and 'relationship')]
@@ -23731,6 +25107,7 @@ stratumPyramidaleOfCaudalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034805) ('is_a' and 'relationship')]
@@ -23747,6 +25124,7 @@ stratumPyramidaleOfCaudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfCaudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034811) ('is_a' and 'relationship')]
@@ -23763,6 +25141,7 @@ stratumPyramidaleOfRostralCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfRostralCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034830) ('is_a' and 'relationship')]
@@ -23779,6 +25158,7 @@ stratumPyramidaleOfRostralCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfRostralCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034835) ('is_a' and 'relationship')]
@@ -23795,6 +25175,7 @@ stratumPyramidaleOfRostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfRostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034841) ('is_a' and 'relationship')]
@@ -23811,6 +25192,7 @@ stratumPyramidaleOfUncalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfUncalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034860) ('is_a' and 'relationship')]
@@ -23827,6 +25209,7 @@ stratumPyramidaleOfUncalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfUncalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034865) ('is_a' and 'relationship')]
@@ -23843,6 +25226,7 @@ stratumPyramidaleOfUncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumPyramidaleOfUncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus pyramidal layer and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034871) ('is_a' and 'relationship')]
@@ -23859,6 +25243,7 @@ stratumRadiatumOfCaudalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfCaudalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034799) ('is_a' and 'relationship')]
@@ -23875,6 +25260,7 @@ stratumRadiatumOfCaudalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfCaudalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034804) ('is_a' and 'relationship')]
@@ -23891,6 +25277,7 @@ stratumRadiatumOfCaudalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfCaudalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the caudal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034809) ('is_a' and 'relationship')]
@@ -23907,6 +25294,7 @@ stratumRadiatumOfRostralCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfRostralCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034829) ('is_a' and 'relationship')]
@@ -23923,6 +25311,7 @@ stratumRadiatumOfRostralCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfRostralCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034834) ('is_a' and 'relationship')]
@@ -23939,6 +25328,7 @@ stratumRadiatumOfRostralCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfRostralCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the rostral CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034839) ('is_a' and 'relationship')]
@@ -23955,6 +25345,7 @@ stratumRadiatumOfUncalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfUncalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA1. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034859) ('is_a' and 'relationship')]
@@ -23971,6 +25362,7 @@ stratumRadiatumOfUncalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfUncalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA2. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034864) ('is_a' and 'relationship')]
@@ -23987,6 +25379,7 @@ stratumRadiatumOfUncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumRadiatumOfUncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of hippocampal field. Is part of the hippocampus stratum radiatum and the uncal CA3. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034869) ('is_a' and 'relationship')]
@@ -24003,6 +25396,7 @@ stratumZonaleOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Stratum zonale of thalamus' is a diencephalic white matter. It is part of the dorsal plus ventral thalamus.
@@ -24021,6 +25415,7 @@ striaMedullaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaMedullaris
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Stria medullaris' is a diencephalic white matter and stria of neuraxis. It is part of the dorsal plus ventral thalamus.
@@ -24039,6 +25434,7 @@ striaOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of telencephalon and stria of neuraxis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016555)]
@@ -24056,6 +25452,7 @@ striaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Stria terminalis' is a cerebral hemisphere white matter and stria of telencephalon.
@@ -24074,6 +25471,7 @@ striatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.
@@ -24092,6 +25490,7 @@ striosomalPartOfBodyOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Striosomal part of body of caudate nucleus' is a striosomal part of caudate nucleus. It is part of the body of caudate nucleus.
@@ -24109,6 +25508,7 @@ striosomalPartOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Striosomal part of caudate nucleus' is a striosome. It is part of the caudate nucleus.
@@ -24127,6 +25527,7 @@ striosomalPartOfPutamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Striosomal part of putamen' is a striosome. It is part of the putamen.
@@ -24145,6 +25546,7 @@ subarachnoidFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the subarachnoid space. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014466) ('is_a' and 'relationship')]
@@ -24162,6 +25564,7 @@ subarachnoidSpace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Subarachnoid space' is an anatomical entity. It is part of the brain.
@@ -24180,6 +25583,7 @@ subarachnoidSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the subarachnoid space. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008334) ('is_a' and 'relationship')]
@@ -24197,6 +25601,7 @@ subbrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subbrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Subbrachial nucleus' is a nucleus of midbrain tectum.
@@ -24215,6 +25620,7 @@ subcallosalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003020)]
@@ -24233,6 +25639,7 @@ subcommissuralOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a secretory circumventricular organ. Is part of the midbrain tectum and the Reissner's fiber. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002139) ('is_a' and 'relationship')]
@@ -24251,6 +25658,7 @@ subcuneiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subcuneiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :description: 'Subcuneiform nucleus' is a nucleus of midbrain reticular formation.
@@ -24268,6 +25676,7 @@ subfascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subfascicularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Subfascicular nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.
@@ -24286,6 +25695,7 @@ subfornicalOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subfornicalOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sensory circumventricular organ. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002219) ('is_a' and 'relationship')]
@@ -24303,6 +25713,7 @@ subicularComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subicularComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Subicular complex' is a regional part of brain. It is part of the hippocampal formation.
@@ -24321,6 +25732,7 @@ subiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Subiculum' is a regional part of brain. It is part of the hippocampal formation.
@@ -24339,6 +25751,7 @@ sublaminarLayerS1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayerS1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sublaminar layers S1 or S2, sublaminar layers S1 or S2 or S5, sublaminar layers S1 or S2 or S3, sublaminar layers S1 or S3 or S4 and sublaminar layers S1 or S2 or S3 or S4. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008922)]
@@ -24356,6 +25769,7 @@ sublaminarLayerS2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayerS2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sublaminar layers S1 or S2, sublaminar layers S2 or S3, sublaminar layers S1 or S2 or S5, sublaminar layers S1 or S2 or S3, sublaminar layers S2 or S3 or S4 and sublaminar layers S1 or S2 or S3 or S4. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008923)]
@@ -24373,6 +25787,7 @@ sublaminarLayerS3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayerS3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sublaminar layers S2 or S3, sublaminar layers S3 or S4, sublaminar layers S1 or S2 or S3, sublaminar layers S2 or S3 or S4, sublaminar layers S1 or S3 or S4, sublaminar layers S3 or S4 or S5 and sublaminar layers S1 or S2 or S3 or S4. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008924)]
@@ -24390,6 +25805,7 @@ sublaminarLayerS4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayerS4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sublaminar layers S4 or S5, sublaminar layers S3 or S4, sublaminar layers S2 or S3 or S4, sublaminar layers S1 or S3 or S4, sublaminar layers S3 or S4 or S5 and sublaminar layers S1 or S2 or S3 or S4. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008925)]
@@ -24407,6 +25823,7 @@ sublaminarLayerS5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublaminarLayerS5
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sublaminar layers S4 or S5, sublaminar layers S1 or S2 or S5 and sublaminar layers S3 or S4 or S5. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008926)]
@@ -24424,6 +25841,7 @@ sublentiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Sublentiform nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
@@ -24442,6 +25860,7 @@ sublingualGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sublingualGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005407)]
@@ -24459,6 +25878,7 @@ submandibularGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/submandibularGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a parasympathetic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002059)]
@@ -24476,6 +25896,7 @@ submedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Submedial nucleus of thalamus' is a posterior nucleus of thalamus.
@@ -24494,6 +25915,7 @@ subparietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/subparietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002908)]
@@ -24510,6 +25932,7 @@ substantiaGelatinosa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaGelatinosa
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia gelatinosa' is a lamina of gray matter of spinal cord. It is part of the dorsal horn of spinal cord.
@@ -24528,6 +25951,7 @@ substantiaInnominata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia innominata' is a telencephalic nucleus. It is part of the ventral pallidum.
@@ -24546,6 +25970,7 @@ substantiaNigra
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia nigra' is a midbrain nucleus. It is part of the basal ganglion.
@@ -24564,6 +25989,7 @@ substantiaNigraParsCompacta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsCompacta
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia nigra pars compacta' is part of the substantia nigra.
@@ -24582,6 +26008,7 @@ substantiaNigraParsLateralis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia nigra pars lateralis' is a regional part of brain. It is part of the substantia nigra.
@@ -24600,6 +26027,7 @@ substantiaNigraParsReticulata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Substantia nigra pars reticulata' is part of the substantia nigra.
@@ -24618,6 +26046,7 @@ substratumOfLayerOfRetina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/substratumOfLayerOfRetina
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nervous system cell part layer. Is part of the retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008921) ('is_a' and 'relationship')]
@@ -24634,6 +26063,7 @@ sulcusLimitansOfFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009573) ('is_a' and 'relationship')]
@@ -24652,6 +26082,7 @@ sulcusOfLimbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfLimbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034674) ('is_a' and 'relationship')]
@@ -24668,6 +26099,7 @@ sulcusOfParietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusOfParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035927) ('is_a' and 'relationship')]
@@ -24684,6 +26116,7 @@ sulcusYpsiloniformis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusYpsiloniformis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the pallium. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000589)]
@@ -24700,6 +26133,7 @@ superficialCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016559)]
@@ -24717,6 +26151,7 @@ superficialFeaturePartOfOccipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023462) ('is_a' and 'relationship')]
@@ -24734,6 +26169,7 @@ superficialFeaturePartOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialFeaturePartOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024046) ('is_a' and 'relationship')]
@@ -24751,6 +26187,7 @@ superficialLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006791)]
@@ -24768,6 +26205,7 @@ superficialMiddleCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialMiddleCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral vein. Is part of the cavernous sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035231) ('is_a' and 'relationship')]
@@ -24785,6 +26223,7 @@ superficialWhiteLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superficialWhiteLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006779)]
@@ -24802,6 +26241,7 @@ superiorCalcarineSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCalcarineSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025096)]
@@ -24818,6 +26258,7 @@ superiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar peduncle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002150)]
@@ -24836,6 +26277,7 @@ superiorCerebellarPeduncleOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the midbrain tegmentum and the superior cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007707) ('is_a' and 'relationship')]
@@ -24854,6 +26296,7 @@ superiorCerebellarPeduncleOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebellarPeduncleOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the superior cerebellar peduncle and the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007709) ('is_a' and 'relationship')]
@@ -24871,6 +26314,7 @@ superiorCerebralVein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCerebralVein
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a superficial cerebral vein. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035150)]
@@ -24888,6 +26332,7 @@ superiorCervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorCervicalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001989)]
@@ -24905,6 +26350,7 @@ superiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Superior colliculus' is a regional part of brain and visual processing part of nervous system. It is part of the corpora quadrigemina.
@@ -24923,6 +26369,7 @@ superiorColliculusSuperficialGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculusSuperficialGrayLayer
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter layer of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006120)]
@@ -24940,6 +26387,7 @@ superiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a frontal gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002661)]
@@ -24958,6 +26406,7 @@ superiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002562)]
@@ -24975,6 +26424,7 @@ superiorGlossopharyngealIXGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorGlossopharyngealIXGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a glossopharyngeal ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005361)]
@@ -24992,6 +26442,7 @@ superiorLateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorLateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the lateral occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022368) ('is_a' and 'relationship')]
@@ -25008,6 +26459,7 @@ superiorMedullaryVelum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMedullaryVelum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Superior medullary velum' is a white matter of metencephalon. It is part of the cerebellum.
@@ -25026,6 +26478,7 @@ superiorMesentericGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorMesentericGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a mesenteric ganglion. Is part of the superior mesenteric plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005479) ('is_a' and 'relationship')]
@@ -25043,6 +26496,7 @@ superiorOccipitalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOccipitalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital gyrus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002948)]
@@ -25060,6 +26514,7 @@ superiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Superior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the pontine tegmentum.
@@ -25078,6 +26533,7 @@ superiorParietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the parietal lobe and the neocortex. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006094)]
@@ -25096,6 +26552,7 @@ superiorParietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026724)]
@@ -25113,6 +26570,7 @@ superiorPartOfVestibularGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorPartOfVestibularGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the vestibular ganglion. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002825)]
@@ -25130,6 +26588,7 @@ superiorPostcentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorPostcentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002907)]
@@ -25146,6 +26605,7 @@ superiorPrecentralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorPrecentralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the precentral fissure of cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002566) ('is_a' and 'relationship')]
@@ -25162,6 +26622,7 @@ superiorRamusOfArcuateSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRamusOfArcuateSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the arcuate sulcus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025883) ('is_a' and 'relationship')]
@@ -25178,6 +26639,7 @@ superiorRostralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the rostral gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019279) ('is_a' and 'relationship')]
@@ -25195,6 +26657,7 @@ superiorRostralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorRostralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002607)]
@@ -25211,6 +26674,7 @@ superiorSagittalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSagittalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sagittal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026761)]
@@ -25227,6 +26691,7 @@ superiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Superior salivatory nucleus' is a cranial nerve nucleus, salivatory nucleus and nucleus of medulla oblongata. It is part of the pontine tegmentum.
@@ -25245,6 +26710,7 @@ superiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002769) ('is_a' and 'relationship')]
@@ -25263,6 +26729,7 @@ superiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002734)]
@@ -25281,6 +26748,7 @@ superiorTransverseFrontopolarGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorTransverseFrontopolarGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the transverse frontopolar gyri complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024201) ('is_a' and 'relationship')]
@@ -25298,6 +26766,7 @@ superiorVagusXGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/superiorVagusXGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a vagus X ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005364)]
@@ -25315,6 +26784,7 @@ supplementalMotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supplementalMotorCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016636) ('is_a' and 'relationship')]
@@ -25332,6 +26802,7 @@ supracallosalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supracallosalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002665) ('is_a' and 'relationship')]
@@ -25349,6 +26820,7 @@ suprachiasmaticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial zone of hypothalamus.
@@ -25367,6 +26839,7 @@ suprachiasmaticNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus dorsomedial part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
@@ -25385,6 +26858,7 @@ suprachiasmaticNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprachiasmaticNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Suprachiasmatic nucleus ventrolateral part' is a regional part of brain. It is part of the suprachiasmatic nucleus.
@@ -25403,6 +26877,7 @@ suprageniculateNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprageniculateNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Suprageniculate nucleus of thalamus' is a nucleus of brain.
@@ -25421,6 +26896,7 @@ supramammillaryCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002991) ('is_a' and 'relationship')]
@@ -25437,6 +26913,7 @@ supramammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Supramammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
@@ -25455,6 +26932,7 @@ supramarginalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supramarginalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002688) ('is_a' and 'relationship')]
@@ -25473,6 +26951,7 @@ supraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Supraoptic nucleus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and anterior hypothalamic region.
@@ -25491,6 +26970,7 @@ supraopticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002244)]
@@ -25507,6 +26987,7 @@ supraopticohypophysialTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraopticohypophysialTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the anterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002699) ('is_a' and 'relationship')]
@@ -25523,6 +27004,7 @@ supraspinalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/supraspinalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Supraspinal nucleus' is a nucleus of medulla oblongata.
@@ -25541,6 +27023,7 @@ suprasylvianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/suprasylvianSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013593)]
@@ -25557,6 +27040,7 @@ sympatheticGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sympatheticGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an autonomic ganglion. Is part of the sympathetic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001806) ('is_a' and 'relationship')]
@@ -25574,6 +27058,7 @@ sympatheticNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sympatheticNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the autonomic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000013) ('is_a' and 'relationship')]
@@ -25591,6 +27076,7 @@ synencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/synencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000293) ('is_a' and 'relationship')]
@@ -25607,6 +27093,7 @@ taeniaTectumOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/taeniaTectumOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Taenia tectum of brain' is a white matter of limbic lobe and stria of telencephalon. It is part of the olfactory bulb and supracallosal gyrus.
@@ -25625,6 +27112,7 @@ tailOfCaudateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tail of caudate nucleus' is a gray matter of telencephalon. It is part of the caudate nucleus.
@@ -25643,6 +27131,7 @@ tectobulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectobulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002164) ('is_a' and 'relationship')]
@@ -25661,6 +27150,7 @@ tectopontineTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectopontineTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002930) ('is_a' and 'relationship')]
@@ -25678,6 +27168,7 @@ tectospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002949)]
@@ -25695,6 +27186,7 @@ tectothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tectothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the optic tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035570) ('is_a' and 'relationship')]
@@ -25711,6 +27203,7 @@ telaChoroideaOfFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfFourthVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tela choroidea. Is part of the fourth ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005287) ('is_a' and 'relationship')]
@@ -25729,6 +27222,7 @@ telaChoroideaOfTelencephalicVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfTelencephalicVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tela choroidea. Is part of the telencephalic ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005289) ('is_a' and 'relationship')]
@@ -25746,6 +27240,7 @@ telaChoroideaOfThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telaChoroideaOfThirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tela choroidea. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005288) ('is_a' and 'relationship')]
@@ -25763,6 +27258,7 @@ telencephalicDopaminergicCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicDopaminergicCellGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dopaminergic cell groups. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036011)]
@@ -25779,6 +27275,7 @@ telencephalicTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicTracts
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000597)]
@@ -25795,6 +27292,7 @@ telencephalicVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalicVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ventricle. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002285) ('is_a' and 'relationship')]
@@ -25813,6 +27311,7 @@ telencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001893) ('is_a' and 'relationship')]
@@ -25831,6 +27330,7 @@ telencephalonArachnoidMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonArachnoidMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of telencephalon and forebrain arachnoid mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005400)]
@@ -25848,6 +27348,7 @@ telencephalonDuraMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonDuraMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of telencephalon and forebrain dura mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003563)]
@@ -25865,6 +27366,7 @@ telencephalonPiaMater
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalonPiaMater
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a meninx of telencephalon and forebrain pia mater. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003552)]
@@ -25882,6 +27384,7 @@ telodiencephalicFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/telodiencephalicFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid fissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002896)]
@@ -25898,6 +27401,7 @@ temporalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cortex of cerebral lobe. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016538) ('is_a' and 'relationship')]
@@ -25916,6 +27420,7 @@ temporalCortexAssociationArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexAssociationArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an association cortex. Is part of the temporal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035013) ('is_a' and 'relationship')]
@@ -25932,6 +27437,7 @@ temporalCortexCingulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cingulum of brain. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022429) ('is_a' and 'relationship')]
@@ -25949,6 +27455,7 @@ temporalFusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalFusiformGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the fusiform gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022395) ('is_a' and 'relationship')]
@@ -25965,6 +27472,7 @@ temporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lobe of cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001871)]
@@ -25983,6 +27491,7 @@ temporalOperculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalOperculum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Temporal operculum' is a regional part of brain. It is part of the operculum of brain.
@@ -26001,6 +27510,7 @@ temporalPole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalPole
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Temporal pole' is a pole of cerebral hemisphere. It is part of the temporal lobe.
@@ -26019,6 +27529,7 @@ temporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of brain. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014687) ('is_a' and 'relationship')]
@@ -26036,6 +27547,7 @@ temporoparietalJunction
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/temporoparietalJunction
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Temporoparietal junction' is a regional part of brain. It is part of the cerebral cortex.
@@ -26054,6 +27566,7 @@ tenthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tenthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002853)]
@@ -26070,6 +27583,7 @@ thalamicComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'thalamic complex' is a nuclear complex. It is part of the 'gray matter of diencephalon'.
@@ -26088,6 +27602,7 @@ thalamicFiberTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of diencephalon. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0025261) ('is_a' and 'relationship')]
@@ -26105,6 +27620,7 @@ thalamicReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: The thalamic reticular nucleus is part of the ventral thalamus that forms a capsule around the thalamus laterally. It is separated from the thalamus by the external medullary lamina. Reticular cells are GABAergic, and have discoid dendritic arbors in the plane of the nucleus. Thalamic Reticular Nucleus is variously abbreviated TRN, RTN, NRT, and RT. [WP,unvetted].
@@ -26123,6 +27639,7 @@ thirdCervicalDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdCervicalDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cervical dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002840)]
@@ -26139,6 +27656,7 @@ thirdLumbarDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdLumbarDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a lumbar dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002858)]
@@ -26155,6 +27673,7 @@ thirdSacralDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdSacralDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sacral dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002862)]
@@ -26171,6 +27690,7 @@ thirdThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002847)]
@@ -26187,6 +27707,7 @@ thirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ventricle. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002286) ('is_a' and 'relationship')]
@@ -26205,6 +27726,7 @@ thirdVentricleChoroidPlexusEpithelium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricleChoroidPlexusEpithelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus epithelium. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004275) ('is_a' and 'relationship')]
@@ -26222,6 +27744,7 @@ thirdVentricleChoroidPlexusStroma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricleChoroidPlexusStroma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a choroid plexus stroma. Is part of the choroid plexus of third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006339) ('is_a' and 'relationship')]
@@ -26239,6 +27762,7 @@ thirdVentricleEpendyma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thirdVentricleEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain ependyma. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004642) ('is_a' and 'relationship')]
@@ -26256,6 +27780,7 @@ thoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a dorsal root ganglion and thoracic ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002835)]
@@ -26273,6 +27798,7 @@ thoracicGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thoracicGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravertebral ganglion. Is part of the thoracic sympathetic nerve trunk. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000961) ('is_a' and 'relationship')]
@@ -26290,6 +27816,7 @@ tractOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the brain and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007702) ('is_a' and 'relationship')]
@@ -26308,6 +27835,7 @@ tractOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011591) ('is_a' and 'relationship')]
@@ -26325,6 +27853,7 @@ tractOfThePostopticCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractOfThePostopticCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a diencephalic white matter. Is part of the postoptic commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001366) ('is_a' and 'relationship')]
@@ -26341,6 +27870,7 @@ tractusSacciVasculosi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tractusSacciVasculosi
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035146)]
@@ -26357,6 +27887,7 @@ transverseFrontopolarGyriComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseFrontopolarGyriComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022730) ('is_a' and 'relationship')]
@@ -26374,6 +27905,7 @@ transverseGyrusOfHeschl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseGyrusOfHeschl
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gyrus. Is part of the auditory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003939) ('is_a' and 'relationship')]
@@ -26392,6 +27924,7 @@ transverseOccipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseOccipitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an occipital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002900)]
@@ -26409,6 +27942,7 @@ transverseOrbitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseOrbitalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an orbital sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002612)]
@@ -26425,6 +27959,7 @@ transverseParietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseParietalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a sulcus of parietal lobe. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026722)]
@@ -26442,6 +27977,7 @@ transversePontineFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Transverse pontine fibers' is a tract of brain. It is part of the basal part of pons.
@@ -26460,6 +27996,7 @@ transverseTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/transverseTemporalSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus and temporal sulcus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002569)]
@@ -26476,6 +28013,7 @@ trapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Trapezoid body' is a white matter of pontine tegmentum.
@@ -26494,6 +28032,7 @@ triangularPartOfInferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularPartOfInferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the inferior frontal gyrus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002629)]
@@ -26512,6 +28051,7 @@ triangularSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/triangularSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Triangular septal nucleus' is a telencephalic nucleus. It is part of the septal nuclear complex.
@@ -26530,6 +28070,7 @@ trigeminalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion and sensory ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001675)]
@@ -26547,6 +28088,7 @@ trigeminalNerveFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A nerve fiber that is part of a trigeminal nerve.
@@ -26565,6 +28107,7 @@ trigeminalNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Trigeminal nerve root' is a root of cranial nerve. It is part of the metencephalon.
@@ -26583,6 +28126,7 @@ trigeminothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminothalamicTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004171)]
@@ -26600,6 +28144,7 @@ trochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Trochlear nucleus' is a cranial nerve nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -26618,6 +28163,7 @@ trunkGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trunkGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007134)]
@@ -26635,6 +28181,7 @@ tuberCinereum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.
@@ -26653,6 +28200,7 @@ tuberalSupraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberalSupraopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tuberal supraoptic nucleus' is a hypothalamic nucleus. It is part of the supraoptic nucleus.
@@ -26671,6 +28219,7 @@ tuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tuberomammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body and lateral hypothalamic area.
@@ -26689,6 +28238,7 @@ tuberomammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tuberomammillary nucleus dorsal part' is a regional part of brain. It is part of the tuberomammillary nucleus.
@@ -26707,6 +28257,7 @@ tuberomammillaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tuberomammillaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Tuberomammillary nucleus ventral part' is a regional part of brain. It is part of the tuberomammillary nucleus.
@@ -26725,6 +28276,7 @@ twelfthThoracicDorsalRootGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/twelfthThoracicDorsalRootGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a thoracic dorsal root ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002855)]
@@ -26741,6 +28293,7 @@ uncalCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncalCA1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA1 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034774) ('is_a' and 'relationship')]
@@ -26757,6 +28310,7 @@ uncalCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncalCA2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA2 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034775) ('is_a' and 'relationship')]
@@ -26773,6 +28327,7 @@ uncalCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncalCA3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the CA3 field of hippocampus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034776) ('is_a' and 'relationship')]
@@ -26789,6 +28344,7 @@ uncinateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Uncinate fasciculus' is a fasciculus of brain. It is part of the pontine tegmentum.
@@ -26807,6 +28363,7 @@ uncinateFasciculusOfTheForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculusOfTheForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Uncinate fasciculus of the forebrain' is a regional part of brain. It is part of the white matter of telencephalon.
@@ -26825,6 +28382,7 @@ uncrossedTectoBulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncrossedTectoBulbarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tectobulbar tract. Is part of the brainstem and spinal white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000296) ('is_a' and 'relationship')]
@@ -26841,6 +28399,7 @@ uncusOfParahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/uncusOfParahippocampalGyrus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the parahippocampal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034773) ('is_a' and 'relationship')]
@@ -26858,6 +28417,7 @@ unpairedVenousDuralSinus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/unpairedVenousDuralSinus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017640)]
@@ -26874,6 +28434,7 @@ upperRhombicLip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Upper rhombic lip' is a regional part of brain. It is part of the rhombomere 1 and rhombic lip.
@@ -26892,6 +28453,7 @@ vagalGanglion1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalGanglion1
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001302)]
@@ -26908,6 +28470,7 @@ vagalGanglion2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalGanglion2
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001303)]
@@ -26924,6 +28487,7 @@ vagalGanglion3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalGanglion3
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001304)]
@@ -26940,6 +28504,7 @@ vagalGanglion4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalGanglion4
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001305)]
@@ -26956,6 +28521,7 @@ vagalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000297)]
@@ -26972,6 +28538,7 @@ vagalNerveFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagalNerveFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Vagal nerve fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
@@ -26990,6 +28557,7 @@ vagusXGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vagusXGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an epibranchial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005362)]
@@ -27007,6 +28575,7 @@ valleculaOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/valleculaOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013166)]
@@ -27024,6 +28593,7 @@ valvulaCerebelli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Valvula cerebelli' is a regional part of brain. It is part of the cerebellum.
@@ -27042,6 +28612,7 @@ vasculatureOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a vasculature of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008998) ('is_a' and 'relationship')]
@@ -27060,6 +28631,7 @@ vasculatureOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vasculatureOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036303) ('is_a' and 'relationship')]
@@ -27076,6 +28648,7 @@ veinOfVestibularAqueduct
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/veinOfVestibularAqueduct
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the transverse sinus and the inferior petrosal sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036074)]
@@ -27093,6 +28666,7 @@ venousDuralSinus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousDuralSinus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the meningeal cluster. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005486)]
@@ -27110,6 +28684,7 @@ venousSystemOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/venousSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013146)]
@@ -27127,6 +28702,7 @@ ventralAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
@@ -27145,6 +28721,7 @@ ventralAmygdalofugalProjection
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAmygdalofugalProjection
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral amygdalofugal projection' is a tract of brain. It is part of the cerebral hemisphere white matter.
@@ -27163,6 +28740,7 @@ ventralAnteriorLateralLineGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorLateralLineGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anterior lateral line ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001313)]
@@ -27179,6 +28757,7 @@ ventralAnteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAnteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral anterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
@@ -27197,6 +28776,7 @@ ventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral cochlear nucleus' is a cochlear nucleus.
@@ -27215,6 +28795,7 @@ ventralCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a commissure of telencephalon. Is part of the ventral part of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005341) ('is_a' and 'relationship')]
@@ -27232,6 +28813,7 @@ ventralCorticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralCorticospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an axon tract. Is part of the corticospinal tract. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002760) ('is_a' and 'relationship')]
@@ -27249,6 +28831,7 @@ ventralExternalArcuateFiberBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralExternalArcuateFiberBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral external arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the medulla oblongata.
@@ -27267,6 +28850,7 @@ ventralLateralGeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralGeniculateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral lateral geniculate nucleus' is a nucleus of dorsal thalamus. It is part of the lateral geniculate body.
@@ -27285,6 +28869,7 @@ ventralLateralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral lateral nucleus of thalamus' is a nucleus of dorsal thalamus and nucleus of ventral thalamus. It is part of the ventral nuclear group.
@@ -27303,6 +28888,7 @@ ventralNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nuclear group' is a nucleus of dorsal thalamus.
@@ -27321,6 +28907,7 @@ ventralNucleusOfLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nucleus of lateral lemniscus' is a brainstem nucleus, nucleus of lateral lemniscus and hindbrain nucleus. It is part of the pontine tegmentum.
@@ -27339,6 +28926,7 @@ ventralNucleusOfMedialGeniculateBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
@@ -27357,6 +28945,7 @@ ventralNucleusOfPosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
@@ -27375,6 +28964,7 @@ ventralNucleusOfTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the periolivary nucleus.
@@ -27393,6 +28983,7 @@ ventralOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
@@ -27411,6 +29002,7 @@ ventralPallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A composite structure primarily of forebrain with arguable extension into the midbrain. It is part of the striatopallidal system, which is defined on the basis of neurochemistry and connectivity. It includes the portions of the globus pallidus and the substantia innominata located ventral to the anterior commissure; it extends into the anterior perforated substance and, in some respects, pars reticulata of the substantia nigra. Its boundary with the dorsal pallidum is indistinct in sections stained for Nissl substance (Heimer-95)
@@ -27429,6 +29021,7 @@ ventralPartOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPartOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000204) ('is_a' and 'relationship')]
@@ -27446,6 +29039,7 @@ ventralPosteriorNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.
@@ -27464,6 +29058,7 @@ ventralPosteroinferiorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteroinferiorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral posteroinferior nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
@@ -27482,6 +29077,7 @@ ventralPosterolateralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosterolateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral posterolateral nucleus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
@@ -27500,6 +29096,7 @@ ventralPosteromedialNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteromedialNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral posteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral posterior nucleus of thalamus.
@@ -27518,6 +29115,7 @@ ventralRhombencephalicCommissureMedullaOblongata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralRhombencephalicCommissureMedullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000985)]
@@ -27534,6 +29132,7 @@ ventralStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral striatum' is a gray matter of telencephalon. It is part of the striatum.
@@ -27552,6 +29151,7 @@ ventralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralSulcus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is part of the hypothalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000305)]
@@ -27568,6 +29168,7 @@ ventralTegmentalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002691) ('is_a' and 'relationship')]
@@ -27586,6 +29187,7 @@ ventralTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral tegmental decussation' is a neural decussation. It is part of the ventral tegmental area.
@@ -27603,6 +29205,7 @@ ventralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: A nucleus of brain that is part of a ventral tegmental area.
@@ -27621,6 +29224,7 @@ ventralThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventral thalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.
@@ -27639,6 +29243,7 @@ ventralTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a trigeminothalamic tract and tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002549) ('is_a' and 'relationship')]
@@ -27657,6 +29262,7 @@ ventralZoneOfMedialEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventralZoneOfMedialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the medial entorhinal cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018263) ('is_a' and 'relationship')]
@@ -27673,6 +29279,7 @@ ventricleOfNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricleOfNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005358) ('is_a' and 'relationship')]
@@ -27690,6 +29297,7 @@ ventricularSystemChoroidalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemChoroidalFissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the ventricle of nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002192) ('is_a' and 'relationship')]
@@ -27707,6 +29315,7 @@ ventricularSystemOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical system. Is part of the brain and the ventricular system of central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005282) ('is_a' and 'relationship')]
@@ -27724,6 +29333,7 @@ ventricularSystemOfCentralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfCentralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical system. Is part of the central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005281) ('is_a' and 'relationship')]
@@ -27741,6 +29351,7 @@ ventricularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventricular zone' is an anatomical entity. It is part of the brain and ventricular system of central nervous system.
@@ -27759,6 +29370,7 @@ ventrolateralSulcusOfMedullaOblongata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventrolateralSulcusOfMedullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a subarachnoid sulcus. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008335) ('is_a' and 'relationship')]
@@ -27776,6 +29388,7 @@ ventromedialNucleusOfHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ventromedialNucleusOfHypothalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Ventromedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.
@@ -27794,6 +29407,7 @@ vermisOfTheFlocculonodularLobeOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vermisOfTheFlocculonodularLobeOfTheCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebellar vermis. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024037)]
@@ -27811,6 +29425,7 @@ vertebralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vertebralGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a paravertebral ganglion. Is part of the cervical ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000408) ('is_a' and 'relationship')]
@@ -27828,6 +29443,7 @@ verticalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Vertical limb of the diagonal band' is a subdivision of diagonal band.
@@ -27846,6 +29462,7 @@ vessel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vessel
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'vessel' is an anatomical conduit.
@@ -27864,6 +29481,7 @@ vestibularGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion, sensory ganglion, ganglion of peripheral nervous system and vestibular organ. Is part of the vestibulocochlear ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002824) ('is_a' and 'relationship')]
@@ -27881,6 +29499,7 @@ vestibularNuclearComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Vestibular nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata.
@@ -27899,6 +29518,7 @@ vestibularOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularOrgan
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the somatic nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006585) ('is_a' and 'relationship')]
@@ -27916,6 +29536,7 @@ vestibuloCochlearVIIIGanglionComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibuloCochlearVIIIGanglionComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013498)]
@@ -27932,6 +29553,7 @@ vestibulocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellarTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002552) ('is_a' and 'relationship')]
@@ -27950,6 +29572,7 @@ vestibulocerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014642) ('is_a' and 'relationship')]
@@ -27968,6 +29591,7 @@ vestibulocochlearGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearGanglion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cranial ganglion. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002827)]
@@ -27985,6 +29609,7 @@ vestibulocochlearNerveRoot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Vestibulocochlear nerve root' is a root of cranial nerve. It is part of the pontine tegmentum.
@@ -28003,6 +29628,7 @@ vestibulolateralisLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulolateralisLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a regional part of brain. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000307) ('is_a' and 'relationship')]
@@ -28019,6 +29645,7 @@ vestibulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulospinalTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a tract of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002768)]
@@ -28036,6 +29663,7 @@ visualAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/visualAssociationCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an association cortex. Is part of the visual cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034750) ('is_a' and 'relationship')]
@@ -28053,6 +29681,7 @@ visualCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/visualCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a functional part of brain. Is part of the occipital cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000411) ('is_a' and 'relationship')]
@@ -28070,6 +29699,7 @@ visualProcessingPartOfNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/visualProcessingPartOfNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006794) ('is_a' and 'relationship')]
@@ -28086,6 +29716,7 @@ wallOfVentricularSystemOfBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/wallOfVentricularSystemOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a ventricle of nervous system. Is part of the ventricular system of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036661) ('is_a' and 'relationship')]
@@ -28101,6 +29732,7 @@ whiteMatterLaminaOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter lamina of neuraxis. Is part of the cerebellum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014540) ('is_a' and 'relationship')]
@@ -28119,6 +29751,7 @@ whiteMatterLaminaOfCerebralHemisphere
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfCerebralHemisphere
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter lamina of neuraxis. Is part of the cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014532) ('is_a' and 'relationship')]
@@ -28135,6 +29768,7 @@ whiteMatterLaminaOfDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfDiencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter lamina of neuraxis. Is part of the diencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014531) ('is_a' and 'relationship')]
@@ -28151,6 +29785,7 @@ whiteMatterLaminaOfNeuraxis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterLaminaOfNeuraxis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014530) ('is_a' and 'relationship')]
@@ -28167,6 +29802,7 @@ whiteMatterOfCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebellum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002317)]
@@ -28185,6 +29821,7 @@ whiteMatterOfCerebralLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfCerebralLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a cerebral hemisphere white matter. Is part of the lobe of cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016527) ('is_a' and 'relationship')]
@@ -28201,6 +29838,7 @@ whiteMatterOfForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain white matter. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019261) ('is_a' and 'relationship')]
@@ -28218,6 +29856,7 @@ whiteMatterOfFrontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfFrontalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebral lobe. Is part of the frontal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016528) ('is_a' and 'relationship')]
@@ -28235,6 +29874,7 @@ whiteMatterOfHindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain white matter. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019258) ('is_a' and 'relationship')]
@@ -28253,6 +29893,7 @@ whiteMatterOfLimbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfLimbicLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebral lobe. Is part of the limbic lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016536) ('is_a' and 'relationship')]
@@ -28270,6 +29911,7 @@ whiteMatterOfMedullaOblongata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMedullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brainstem white matter and white matter of myelencephalon. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014649) ('is_a' and 'relationship')]
@@ -28288,6 +29930,7 @@ whiteMatterOfMetencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMetencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of hindbrain. Is part of the metencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019291) ('is_a' and 'relationship')]
@@ -28304,6 +29947,7 @@ whiteMatterOfMidbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brain white matter. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016554) ('is_a' and 'relationship')]
@@ -28321,6 +29965,7 @@ whiteMatterOfMyelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfMyelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of hindbrain. Is part of the myelencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019262) ('is_a' and 'relationship')]
@@ -28338,6 +29983,7 @@ whiteMatterOfOccipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfOccipitalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebral lobe. Is part of the occipital lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016535) ('is_a' and 'relationship')]
@@ -28355,6 +30001,7 @@ whiteMatterOfParietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfParietalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebral lobe. Is part of the parietal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016531) ('is_a' and 'relationship')]
@@ -28372,6 +30019,7 @@ whiteMatterOfPons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a brainstem white matter and white matter of metencephalon. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019292) ('is_a' and 'relationship')]
@@ -28388,6 +30036,7 @@ whiteMatterOfPontineTegmentum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfPontineTegmentum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of pons. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019293) ('is_a' and 'relationship')]
@@ -28404,6 +30053,7 @@ whiteMatterOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a layer of superior colliculus and central nervous system white matter layer. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006786)]
@@ -28421,6 +30071,7 @@ whiteMatterOfTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTelencephalon
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of forebrain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011299) ('is_a' and 'relationship')]
@@ -28438,6 +30089,7 @@ whiteMatterOfTemporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTemporalLobe
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of cerebral lobe. Is part of the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016534) ('is_a' and 'relationship')]
@@ -28455,6 +30107,7 @@ whiteMatterOfTheCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a white matter of metencephalon. Is part of the cerebellar cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024045) ('is_a' and 'relationship')]
@@ -28473,6 +30126,7 @@ zonaIncerta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/zonaIncerta
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: 'Zona incerta' is a nucleus of ventral thalamus.
@@ -28491,6 +30145,7 @@ zonalLayerOfSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/zonalLayerOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
    :definition: Is a gray matter layer of superior colliculus and superficial layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006780)]

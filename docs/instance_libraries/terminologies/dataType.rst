@@ -13,6 +13,7 @@ Related schema specification: `DataType <https://openminds-documentation.readthe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A '3D computer graphic' is an associative array, defining points, lines, and/or curves in a three dimensional space, which can be rendered to raster graphic.
@@ -28,6 +29,7 @@ associativeArray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/associativeArray
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).
@@ -43,6 +45,7 @@ eventSequence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/eventSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: An 'event sequence' is a list or matrix, where elements are ordered in not equally spaced points in time.
@@ -57,6 +60,7 @@ list
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/list
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'list' is a series of ordered scalars and/or lists.
@@ -72,6 +76,7 @@ matrix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/matrix
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'matrix' is a list of lists.
@@ -87,6 +92,7 @@ rasterGraphic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/rasterGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.
@@ -102,6 +108,7 @@ scalar
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/scalar
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'scalar' represent a single value (e.g., integer, float, string, etc.).
@@ -117,6 +124,7 @@ table
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/table
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.
@@ -132,6 +140,7 @@ timeSeries
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/timeSeries
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
@@ -147,6 +156,7 @@ vectorGraphic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/vectorGraphic
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.
@@ -162,6 +172,7 @@ voxelData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/dataType/voxelData
    :@type: https://openminds.ebrains.eu/controlledTerms/DataType
    :definition: 'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.

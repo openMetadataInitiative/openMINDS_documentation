@@ -13,6 +13,7 @@ Android
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Android
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Android
@@ -27,6 +28,7 @@ Linux
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Linux
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Linux
@@ -41,6 +43,7 @@ MacOS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/MacOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: MacOS
@@ -55,6 +58,7 @@ Solaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Solaris
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Solaris
@@ -69,6 +73,7 @@ Unix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Unix
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Unix
@@ -83,6 +88,7 @@ Windows
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/Windows
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Windows
@@ -97,6 +103,7 @@ WindowsPhone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/WindowsPhone
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: Windows Phone
@@ -111,6 +118,7 @@ iOS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/iOS
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: iOS
@@ -125,6 +133,7 @@ platformIndependent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent
    :@type: https://openminds.ebrains.eu/controlledTerms/OperatingSystem
    :name: platform independent

@@ -13,6 +13,7 @@ MNI-ICBM152_linear-2001-sym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_linear-2001-sym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -31,6 +32,7 @@ MNI-ICBM152_nonlinear-2009a-asym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-asym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -49,6 +51,7 @@ MNI-ICBM152_nonlinear-2009a-sym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009a-sym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -67,6 +70,7 @@ MNI-ICBM152_nonlinear-2009b-asym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-asym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -85,6 +89,7 @@ MNI-ICBM152_nonlinear-2009b-sym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009b-sym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -103,6 +108,7 @@ MNI-ICBM152_nonlinear-2009c-asym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-asym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -121,6 +127,7 @@ MNI-ICBM152_nonlinear-2009c-sym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-2009c-sym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152
@@ -139,6 +146,7 @@ MNI-ICBM152_nonlinear-6G-sym
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/MNI-ICBM152_nonlinear-6G-sym
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: ICBM152

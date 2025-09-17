@@ -13,6 +13,7 @@ application_4-mat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_4-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/4-mat
@@ -26,6 +27,7 @@ application_5-mat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_5-mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/5-mat
@@ -39,6 +41,7 @@ application_dicom
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_dicom
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/dicom
@@ -53,6 +56,7 @@ application_gzip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_gzip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A gzip (.gz) file is a compressed archive using the GNU zip algorithm. Unlike the ZIP format, which packages multiple files along with directory structure, gzip typically compresses a single file or data stream. It uses the DEFLATE compression method for efficient lossless compression and is commonly combined with tar (as .tar.gz or .tgz) when multiple files need compression.
@@ -69,6 +73,7 @@ application_json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/json
@@ -83,6 +88,7 @@ application_ld+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_ld+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/ld+json
@@ -97,6 +103,7 @@ application_octet-stream
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_octet-stream
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/octet-stream
@@ -111,6 +118,7 @@ application_pdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_pdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/pdf
@@ -126,6 +134,7 @@ application_sbml+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_sbml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/sbml+xml
@@ -140,6 +149,7 @@ application_schema+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_schema+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/schema+json
@@ -154,6 +164,7 @@ application_vnd.3i.slidebook
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.3i.slidebook
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.3i.slidebook
@@ -167,6 +178,7 @@ application_vnd.ANTEEProbe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ANTEEProbe
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ANTEEProbe
@@ -180,6 +192,7 @@ application_vnd.abberior.imspector
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.abberior.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.abberior.imspector
@@ -194,6 +207,7 @@ application_vnd.afni
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.afni
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.afni
@@ -207,6 +221,7 @@ application_vnd.alicona
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alicona
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.alicona
@@ -220,6 +235,7 @@ application_vnd.alphaomega-eng
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.alphaomega-eng
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.alphaomega-eng
@@ -233,6 +249,7 @@ application_vnd.amiramesh
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amiramesh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.amiramesh
@@ -246,6 +263,7 @@ application_vnd.amnis-flowsight
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.amnis-flowsight
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.amnis-flowsight
@@ -259,6 +277,7 @@ application_vnd.analysisservices
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analysisservices
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analysisservices
@@ -272,6 +291,7 @@ application_vnd.analyze.analyze75
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyze75
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analyze.analyze75
@@ -285,6 +305,7 @@ application_vnd.analyze.analyzeavw
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.analyze.analyzeavw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.analyze.analyzeavw
@@ -298,6 +319,7 @@ application_vnd.andor.andorsif
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.andor.andorsif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.andor.andorsif
@@ -311,6 +333,7 @@ application_vnd.ansysfluent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ansysfluent
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ansysfluent
@@ -324,6 +347,7 @@ application_vnd.ant.eeprobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ant.eeprobe
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ant.eeprobe
@@ -337,6 +361,7 @@ application_vnd.ants.linearTransform+mat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.linearTransform+mat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ants.linearTransform+mat
@@ -350,6 +375,7 @@ application_vnd.ants.nonlinearTransform+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ants.nonlinearTransform+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ants.nonlinearTransform+hdf5
@@ -363,6 +389,7 @@ application_vnd.anywave
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.anywave
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.anywave
@@ -376,6 +403,7 @@ application_vnd.applied-precision.cellworx
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.applied-precision.cellworx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.applied-precision.cellworx
@@ -389,6 +417,7 @@ application_vnd.arbor-simulator+python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.arbor-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.arbor-simulator+python
@@ -402,6 +431,7 @@ application_vnd.asciidoc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.asciidoc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.asciidoc
@@ -415,6 +445,7 @@ application_vnd.autodesk.3ds-max.3d-studio-mesh
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.autodesk.3ds-max.3d-studio-mesh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.autodesk.3ds-max.3d-studio-mesh
@@ -428,6 +459,7 @@ application_vnd.avs.ucd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.avs.ucd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.avs.ucd
@@ -441,6 +473,7 @@ application_vnd.axograph
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.axograph
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.axograph
@@ -454,6 +487,7 @@ application_vnd.bbp.bluron
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.bluron
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bbp.bluron
@@ -467,6 +501,7 @@ application_vnd.bbp.simulation.blueconfig
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bbp.simulation.blueconfig
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bbp.simulation.blueconfig
@@ -480,6 +515,7 @@ application_vnd.bci2000
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bci2000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bci2000
@@ -493,6 +529,7 @@ application_vnd.bd-biosciences.bdpathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bd-biosciences.bdpathway
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bd-biosciences.bdpathway
@@ -506,6 +543,7 @@ application_vnd.becker-hickl.spcfifo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcfifo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.becker-hickl.spcfifo
@@ -519,6 +557,7 @@ application_vnd.becker-hickl.spcimage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.becker-hickl.spcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.becker-hickl.spcimage
@@ -532,6 +571,7 @@ application_vnd.bids.electrodesformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids.electrodesformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bids.electrodesformat
@@ -545,6 +585,7 @@ application_vnd.bids
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bids
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bids
@@ -558,6 +599,7 @@ application_vnd.bigdataviewer+h5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer+h5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bigdataviewer+h5
@@ -571,6 +613,7 @@ application_vnd.bigdataviewer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bigdataviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bigdataviewer
@@ -584,6 +627,7 @@ application_vnd.bio-rad.gel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.gel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.gel
@@ -597,6 +641,7 @@ application_vnd.bio-rad.pic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.pic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.pic
@@ -610,6 +655,7 @@ application_vnd.bio-rad.scn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bio-rad.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bio-rad.scn
@@ -623,6 +669,7 @@ application_vnd.bionetgen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bionetgen
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bionetgen
@@ -636,6 +683,7 @@ application_vnd.blackrockmicrosystems.neuralevents
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralevents
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralevents
@@ -650,6 +698,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.1
@@ -664,6 +713,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.2
@@ -678,6 +728,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.3
@@ -692,6 +743,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.4
@@ -706,6 +758,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.5
@@ -720,6 +773,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.6
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.6
@@ -734,6 +788,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.7
@@ -748,6 +803,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.8
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.8
@@ -762,6 +818,7 @@ application_vnd.blackrockmicrosystems.neuralsignals.9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.neuralsignals.9
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.neuralsignals.9
@@ -776,6 +833,7 @@ application_vnd.blackrockmicrosystems.parallelrecordings
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blackrockmicrosystems.parallelrecordings
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blackrockmicrosystems.parallelrecordings
@@ -789,6 +847,7 @@ application_vnd.blk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.blk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.blk
@@ -802,6 +861,7 @@ application_vnd.bluebrainproject.bluepyopt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bluebrainproject.bluepyopt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bluebrainproject.bluepyopt
@@ -815,6 +875,7 @@ application_vnd.brain-innovation.brainvoyager
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brain-innovation.brainvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brain-innovation.brainvoyager
@@ -828,6 +889,7 @@ application_vnd.brainnetviewer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainnetviewer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainnetviewer
@@ -841,6 +903,7 @@ application_vnd.brainproducts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainproducts
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainproducts
@@ -854,6 +917,7 @@ application_vnd.brains2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brains2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brains2
@@ -867,6 +931,7 @@ application_vnd.brainvision.binary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.binary
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.binary
@@ -880,6 +945,7 @@ application_vnd.brainvision.header
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.header
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.header
@@ -893,6 +959,7 @@ application_vnd.brainvision.marker
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.brainvision.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.brainvision.marker
@@ -906,6 +973,7 @@ application_vnd.bsc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bsc
@@ -919,6 +987,7 @@ application_vnd.bsc.paraver.configurationfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.bsc.paraver.configurationfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.bsc.paraver.configurationfile
@@ -932,6 +1001,7 @@ application_vnd.burleigh-instruments.burleigh
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.burleigh-instruments.burleigh
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.burleigh-instruments.burleigh
@@ -945,6 +1015,7 @@ application_vnd.byu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.byu
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.byu
@@ -958,6 +1029,7 @@ application_vnd.canon.canondng
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.canon.canondng
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.canon.canondng
@@ -971,6 +1043,7 @@ application_vnd.cell-sens-vsi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cell-sens-vsi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cell-sens-vsi
@@ -984,6 +1057,7 @@ application_vnd.cellh5+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cellh5+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cellh5+hdf5
@@ -997,6 +1071,7 @@ application_vnd.commonworkflowlanguage.cmdline
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.cmdline
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.commonworkflowlanguage.cmdline
@@ -1010,6 +1085,7 @@ application_vnd.commonworkflowlanguage.workflow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.commonworkflowlanguage.workflow
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.commonworkflowlanguage.workflow
@@ -1023,6 +1099,7 @@ application_vnd.connectomics-lab.connectome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.connectomics-lab.connectome
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.connectomics-lab.connectome
@@ -1036,6 +1113,7 @@ application_vnd.ctf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ctf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ctf
@@ -1049,6 +1127,7 @@ application_vnd.cytiva.deltavision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.cytiva.deltavision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.cytiva.deltavision
@@ -1062,6 +1141,7 @@ application_vnd.ebrains.image-service.deepzoom
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.deepzoom
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Microsoft Deep Zoom specifications.
@@ -1076,6 +1156,7 @@ application_vnd.ebrains.image-service.neuroglancer.precomputed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ebrains.image-service.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This content type defines a file repository produced by the EBRAINS image-service holding a collection of files that is conform with the Neuroglancer precomputed specifications.
@@ -1090,6 +1171,7 @@ application_vnd.edf+
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf+
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.edf+
@@ -1103,6 +1185,7 @@ application_vnd.edf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.edf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.edf
@@ -1116,6 +1199,7 @@ application_vnd.eeglab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.eeglab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.eeglab
@@ -1129,6 +1213,7 @@ application_vnd.egi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.egi
@@ -1142,6 +1227,7 @@ application_vnd.egi.mff
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.egi.mff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.egi.mff
@@ -1155,6 +1241,7 @@ application_vnd.elan.continuous-data
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.continuous-data
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elan.continuous-data
@@ -1168,6 +1255,7 @@ application_vnd.elan.event
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elan.event
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elan.event
@@ -1181,6 +1269,7 @@ application_vnd.elekta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elekta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elekta
@@ -1194,6 +1283,7 @@ application_vnd.elphy
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.elphy
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.elphy
@@ -1207,6 +1297,7 @@ application_vnd.enhancedswc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enhancedswc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.enhancedswc
@@ -1220,6 +1311,7 @@ application_vnd.ensight
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ensight
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ensight
@@ -1233,6 +1325,7 @@ application_vnd.enzo.amr+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.enzo.amr+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.enzo.amr+hdf5
@@ -1246,6 +1339,7 @@ application_vnd.espina.measurement+ms-excel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.measurement+ms-excel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This Excel workbook contains the exported measurements of segmented structures created in EspINA, such as volume, surface area, and other morphological parameters. Each measurement is provided in a separate worksheet.
@@ -1260,6 +1354,7 @@ application_vnd.espina.seg+zip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.seg+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.espina.seg+zip
@@ -1273,6 +1368,7 @@ application_vnd.espina.segmentation.seg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.espina.segmentation.seg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: This segmentation file format is a compressed archive providing the configuration information for a performed image segmentation.
@@ -1287,6 +1383,7 @@ application_vnd.exodusII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.exodusII
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.exodusII
@@ -1300,6 +1397,7 @@ application_vnd.faconstructor.3d-pli+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.faconstructor.3d-pli+hdf5
@@ -1313,6 +1411,7 @@ application_vnd.faconstructor.3d-pli
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.faconstructor.3d-pli
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.faconstructor.3d-pli
@@ -1326,6 +1425,7 @@ application_vnd.fei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fei
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.fei
@@ -1339,6 +1439,7 @@ application_vnd.fmri.cifti.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.fmri.cifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.fmri.cifti.2
@@ -1352,6 +1453,7 @@ application_vnd.freesurfer.annotation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer.annotation
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.freesurfer.annotation
@@ -1366,6 +1468,7 @@ application_vnd.freesurfer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.freesurfer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.freesurfer
@@ -1379,6 +1482,7 @@ application_vnd.g-node.nix+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.nix+hdf5
@@ -1392,6 +1496,7 @@ application_vnd.g-node.nix.neo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.nix.neo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.nix.neo
@@ -1405,6 +1510,7 @@ application_vnd.g-node.odml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.g-node.odml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.g-node.odml
@@ -1419,6 +1525,7 @@ application_vnd.gatan.digitalmicrograph2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gatan.digitalmicrograph2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.gatan.digitalmicrograph2
@@ -1432,6 +1539,7 @@ application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
@@ -1446,6 +1554,7 @@ application_vnd.ge-healthcare.incell.1000-2000
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.1000-2000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.incell.1000-2000
@@ -1459,6 +1568,7 @@ application_vnd.ge-healthcare.incell.3000
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.incell.3000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.incell.3000
@@ -1472,6 +1582,7 @@ application_vnd.ge-healthcare.microct
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ge-healthcare.microct
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ge-healthcare.microct
@@ -1485,6 +1596,7 @@ application_vnd.geomview.oogl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.geomview.oogl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.geomview.oogl
@@ -1498,6 +1610,7 @@ application_vnd.gifti
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.gifti
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.gifti
@@ -1511,6 +1624,7 @@ application_vnd.hamamatsu.aquacosmos
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.aquacosmos
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.aquacosmos
@@ -1524,6 +1638,7 @@ application_vnd.hamamatsu.his
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.his
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.his
@@ -1537,6 +1652,7 @@ application_vnd.hamamatsu.ndpi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.ndpi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.ndpi
@@ -1550,6 +1666,7 @@ application_vnd.hamamatsu.vms
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hamamatsu.vms
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hamamatsu.vms
@@ -1563,6 +1680,7 @@ application_vnd.hitachi.s-4800
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hitachi.s-4800
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hitachi.s-4800
@@ -1576,6 +1694,7 @@ application_vnd.hyland.brainwaredam
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaredam
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaredam
@@ -1589,6 +1708,7 @@ application_vnd.hyland.brainwaref32
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaref32
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaref32
@@ -1602,6 +1722,7 @@ application_vnd.hyland.brainwaresrc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.hyland.brainwaresrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.hyland.brainwaresrc
@@ -1615,6 +1736,7 @@ application_vnd.ics
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ics
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ics
@@ -1628,6 +1750,7 @@ application_vnd.igorpro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.igorpro
@@ -1641,6 +1764,7 @@ application_vnd.ilastik.object-features+csv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.object-features+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ilastik.object-features+csv
@@ -1655,6 +1779,7 @@ application_vnd.ilastik.object-features+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.object-features+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ilastik.object-features+hdf5
@@ -1668,6 +1793,7 @@ application_vnd.ilastik.project+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ilastik.project+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ilastik.project+hdf5
@@ -1681,6 +1807,7 @@ application_vnd.illumina.annotated-sequence+fastq
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.illumina.annotated-sequence+fastq
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores with a systematic identifier assigned by the Illumina software.
@@ -1696,6 +1823,7 @@ application_vnd.imacon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imacon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imacon
@@ -1709,6 +1837,7 @@ application_vnd.imagepro.sequence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.sequence
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagepro.sequence
@@ -1722,6 +1851,7 @@ application_vnd.imagepro.workspace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagepro.workspace
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagepro.workspace
@@ -1735,6 +1865,7 @@ application_vnd.imagic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imagic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imagic
@@ -1748,6 +1879,7 @@ application_vnd.imod
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.imod
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.imod
@@ -1761,6 +1893,7 @@ application_vnd.improvision.openlab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.improvision.openlab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.improvision.openlab
@@ -1774,6 +1907,7 @@ application_vnd.indec-biosystems.axonrawformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.indec-biosystems.axonrawformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.indec-biosystems.axonrawformat
@@ -1787,6 +1921,7 @@ application_vnd.intan.technology
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intan.technology
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intan.technology
@@ -1800,6 +1935,7 @@ application_vnd.intranat+csv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intranat+csv
@@ -1813,6 +1949,7 @@ application_vnd.intranat+txt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.intranat+txt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.intranat+txt
@@ -1826,6 +1963,7 @@ application_vnd.inveon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.inveon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.inveon
@@ -1839,6 +1977,7 @@ application_vnd.iplab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.iplab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.iplab
@@ -1852,6 +1991,7 @@ application_vnd.itk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.itk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.itk
@@ -1865,6 +2005,7 @@ application_vnd.ivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ivision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ivision
@@ -1878,6 +2019,7 @@ application_vnd.jeol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.jeol
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.jeol
@@ -1891,6 +2033,7 @@ application_vnd.keller-lab.block
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.keller-lab.block
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.keller-lab.block
@@ -1904,6 +2047,7 @@ application_vnd.khoros.viff.bitmap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.khoros.viff.bitmap
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.khoros.viff.bitmap
@@ -1917,6 +2061,7 @@ application_vnd.kitware.paraview.pvt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kitware.paraview.pvt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kitware.paraview.pvt
@@ -1930,6 +2075,7 @@ application_vnd.klustakwik
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.klustakwik
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.klustakwik
@@ -1943,6 +2089,7 @@ application_vnd.kodak.bip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kodak.bip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kodak.bip
@@ -1956,6 +2103,7 @@ application_vnd.kwik
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.kwik
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.kwik
@@ -1969,6 +2117,7 @@ application_vnd.laboratory-imaging.nikon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.laboratory-imaging.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.laboratory-imaging.nikon
@@ -1982,6 +2131,7 @@ application_vnd.lambert-instruments.flim
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lambert-instruments.flim
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.lambert-instruments.flim
@@ -1995,6 +2145,7 @@ application_vnd.lavision.imspector
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.lavision.imspector
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.lavision.imspector
@@ -2008,6 +2159,7 @@ application_vnd.leica-biosystems.aperio
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperio
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica-biosystems.aperio
@@ -2021,6 +2173,7 @@ application_vnd.leica-biosystems.aperiosvstiff
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica-biosystems.aperiosvstiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica-biosystems.aperiosvstiff
@@ -2034,6 +2187,7 @@ application_vnd.leica.las.af.lif
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.las.af.lif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.las.af.lif
@@ -2047,6 +2201,7 @@ application_vnd.leica.lcs.lei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.lcs.lei
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.lcs.lei
@@ -2060,6 +2215,7 @@ application_vnd.leica.scn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.leica.scn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.leica.scn
@@ -2073,6 +2229,7 @@ application_vnd.li-cor.l2d
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.li-cor.l2d
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.li-cor.l2d
@@ -2086,6 +2243,7 @@ application_vnd.libreoffice
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.libreoffice
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.libreoffice
@@ -2099,6 +2257,7 @@ application_vnd.localizoom.lz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.localizoom.lz
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.localizoom.lz
@@ -2112,6 +2271,7 @@ application_vnd.locare+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.locare+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).
@@ -2128,6 +2288,7 @@ application_vnd.ls-dyna
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ls-dyna
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ls-dyna
@@ -2141,6 +2302,7 @@ application_vnd.mathworks.live-script+zip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mathworks.live-script+zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mathworks.live-script+zip
@@ -2155,6 +2317,7 @@ application_vnd.mbf.neurolucida
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mbf.neurolucida
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mbf.neurolucida
@@ -2168,6 +2331,7 @@ application_vnd.mcid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mcid
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mcid
@@ -2181,6 +2345,7 @@ application_vnd.mearec
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mearec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mearec
@@ -2194,6 +2359,7 @@ application_vnd.meshview+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.meshview+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)
@@ -2209,6 +2375,7 @@ application_vnd.metamorph.stack
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metamorph.stack
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.metamorph.stack
@@ -2222,6 +2389,7 @@ application_vnd.metaxpress
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.metaxpress
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.metaxpress
@@ -2235,6 +2403,7 @@ application_vnd.micro-manager
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micro-manager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micro-manager
@@ -2248,6 +2417,7 @@ application_vnd.micromed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micromed
@@ -2261,6 +2431,7 @@ application_vnd.micromedgroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.micromedgroup
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.micromedgroup
@@ -2274,6 +2445,7 @@ application_vnd.microsoft.deepzoom.collection+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.collection+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.microsoft.deepzoom.collection+xml
@@ -2288,6 +2460,7 @@ application_vnd.microsoft.deepzoom.image+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.microsoft.deepzoom.image+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.microsoft.deepzoom.image+xml
@@ -2302,6 +2475,7 @@ application_vnd.minc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minc
@@ -2315,6 +2489,7 @@ application_vnd.minds+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minds+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minds+json
@@ -2328,6 +2503,7 @@ application_vnd.minolta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.minolta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.minolta
@@ -2341,6 +2517,7 @@ application_vnd.mitk.fiber
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mitk.fiber
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mitk.fiber
@@ -2354,6 +2531,7 @@ application_vnd.molecular-imaging
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.molecular-imaging
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.molecular-imaging
@@ -2367,6 +2545,7 @@ application_vnd.moleculardevices.axon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.moleculardevices.axon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.moleculardevices.axon
@@ -2380,6 +2559,7 @@ application_vnd.mrc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrc
@@ -2393,6 +2573,7 @@ application_vnd.mrtrix.imageformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.imageformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrtrix.imageformat
@@ -2406,6 +2587,7 @@ application_vnd.mrtrix.legacysparseformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.mrtrix.legacysparseformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.mrtrix.legacysparseformat
@@ -2419,6 +2601,7 @@ application_vnd.ms-excel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ms-excel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ms-excel
@@ -2433,6 +2616,7 @@ application_vnd.neo.ascii.image
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.image
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.image
@@ -2446,6 +2630,7 @@ application_vnd.neo.ascii.signal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.signal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.signal
@@ -2459,6 +2644,7 @@ application_vnd.neo.ascii.spiketrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neo.ascii.spiketrain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neo.ascii.spiketrain
@@ -2472,6 +2658,7 @@ application_vnd.nest-desktop.model.v4+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-desktop.model.v4+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A JSON file containing a computational model specification (version 4) for NEST Desktop
@@ -2488,6 +2675,7 @@ application_vnd.nest-desktop.project.v4+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-desktop.project.v4+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A JSON file containing a project configuration (version 4) for NEST Desktop
@@ -2504,6 +2692,7 @@ application_vnd.nest-simulator+python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest-simulator+python
@@ -2517,6 +2706,7 @@ application_vnd.nest-simulator.model+python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator.model+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest-simulator.model+python
@@ -2530,6 +2720,7 @@ application_vnd.nest-simulator.recording
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest-simulator.recording
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest-simulator.recording
@@ -2543,6 +2734,7 @@ application_vnd.nest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nest
@@ -2556,6 +2748,7 @@ application_vnd.nestml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nestml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nestml
@@ -2569,6 +2762,7 @@ application_vnd.netpbm.portableanymap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.netpbm.portableanymap
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.netpbm.portableanymap
@@ -2582,6 +2776,7 @@ application_vnd.neuralensemble
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralensemble
@@ -2595,6 +2790,7 @@ application_vnd.neuralensemble.pynn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralensemble.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralensemble.pynn
@@ -2608,6 +2804,7 @@ application_vnd.neuralynx
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuralynx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuralynx
@@ -2621,6 +2818,7 @@ application_vnd.neuroglancer.precomputed.info+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.info+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed.info+json
@@ -2635,6 +2833,7 @@ application_vnd.neuroglancer.precomputed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed
@@ -2649,6 +2848,7 @@ application_vnd.neuroglancer.precomputed.raw
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroglancer.precomputed.raw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroglancer.precomputed.raw
@@ -2663,6 +2863,7 @@ application_vnd.neuroml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroml
@@ -2676,6 +2877,7 @@ application_vnd.neuron-simulator+hoc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+hoc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron-simulator+hoc
@@ -2689,6 +2891,7 @@ application_vnd.neuron-simulator+python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron-simulator+python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron-simulator+python
@@ -2702,6 +2905,7 @@ application_vnd.neuron.mod
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuron.mod
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuron.mod
@@ -2715,6 +2919,7 @@ application_vnd.neuroscope
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroscope
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroscope
@@ -2728,6 +2933,7 @@ application_vnd.neuroshareapi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.neuroshareapi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.neuroshareapi
@@ -2741,6 +2947,7 @@ application_vnd.nexstim.nbs-system.data
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nexstim.nbs-system.data
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nexstim.nbs-system.data
@@ -2754,6 +2961,7 @@ application_vnd.nfsim
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nfsim
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nfsim
@@ -2767,6 +2975,7 @@ application_vnd.nifti.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nifti.1
@@ -2780,6 +2989,7 @@ application_vnd.nifti.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nifti.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nifti.2
@@ -2793,6 +3003,7 @@ application_vnd.nikon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon
@@ -2806,6 +3017,7 @@ application_vnd.nikon.nef
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nef
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon.nef
@@ -2819,6 +3031,7 @@ application_vnd.nikon.nis-elements
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nikon.nis-elements
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nikon.nis-elements
@@ -2832,6 +3045,7 @@ application_vnd.nineml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nineml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nineml
@@ -2845,6 +3059,7 @@ application_vnd.nrrd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nrrd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nrrd
@@ -2858,6 +3073,7 @@ application_vnd.nsdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nsdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nsdf
@@ -2871,6 +3087,7 @@ application_vnd.nutil.parameters
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.parameters
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.parameters
@@ -2884,6 +3101,7 @@ application_vnd.nutil.quantifier+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.quantifier+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.quantifier+json
@@ -2898,6 +3116,7 @@ application_vnd.nutil.results+csv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nutil.results+csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nutil.results+csv
@@ -2911,6 +3130,7 @@ application_vnd.nwb.nwbn+hdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.nwb.nwbn+hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.nwb.nwbn+hdf
@@ -2924,6 +3144,7 @@ application_vnd.olympus.cellr-apl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.cellr-apl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.cellr-apl
@@ -2937,6 +3158,7 @@ application_vnd.olympus.fluoview.fv1000
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.fluoview.fv1000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.fluoview.fv1000
@@ -2950,6 +3172,7 @@ application_vnd.olympus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus
@@ -2963,6 +3186,7 @@ application_vnd.olympus.scanr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.olympus.scanr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.olympus.scanr
@@ -2976,6 +3200,7 @@ application_vnd.ome.tiff
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ome.tiff
@@ -2989,6 +3214,7 @@ application_vnd.ome.xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ome.xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ome.xml
@@ -3002,6 +3228,7 @@ application_vnd.opendx
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.opendx
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.opendx
@@ -3015,6 +3242,7 @@ application_vnd.openephys
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openephys
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openephys
@@ -3028,6 +3256,7 @@ application_vnd.openmetadatainitiative.openminds.schema+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: openMINDS-specific schema syntax that defines properties and values of linked data, includes centrally managed vocabulary definitions, and provides configuration hints for possible adoptions.
@@ -3042,6 +3271,7 @@ application_vnd.openmetadatainitiative.openminds.schema-tpl+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openmetadatainitiative.openminds.schema-tpl+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: Simplified openMINDS-specific schema template that defines properties and values of linked data. Has to be extended with additional information to become a fully valid openMINDS schema.
@@ -3056,6 +3286,7 @@ application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
@@ -3070,6 +3301,7 @@ application_vnd.openxmlformats-officedocument.wordprocessingml.document
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.openxmlformats-officedocument.wordprocessingml.document
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -3084,6 +3316,7 @@ application_vnd.oxford-instruments.bitplaneimaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments.bitplaneimaris
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.oxford-instruments.bitplaneimaris
@@ -3097,6 +3330,7 @@ application_vnd.oxford-instruments
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.oxford-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.oxford-instruments
@@ -3110,6 +3344,7 @@ application_vnd.pco.pcoraw
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pco.pcoraw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pco.pcoraw
@@ -3123,6 +3358,7 @@ application_vnd.perkinelmer.columbus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.columbus
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.columbus
@@ -3136,6 +3372,7 @@ application_vnd.perkinelmer.densitometer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.densitometer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.densitometer
@@ -3149,6 +3386,7 @@ application_vnd.perkinelmer.evotec
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.evotec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.evotec
@@ -3162,6 +3400,7 @@ application_vnd.perkinelmer.nuance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.nuance
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.nuance
@@ -3175,6 +3414,7 @@ application_vnd.perkinelmer.operetta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.operetta
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.operetta
@@ -3188,6 +3428,7 @@ application_vnd.perkinelmer.ultraview
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.ultraview
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.ultraview
@@ -3201,6 +3442,7 @@ application_vnd.perkinelmer.vectra
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.vectra
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.vectra
@@ -3214,6 +3456,7 @@ application_vnd.perkinelmer.volocity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocity
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.volocity
@@ -3227,6 +3470,7 @@ application_vnd.perkinelmer.volocitylibraryclipping
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.perkinelmer.volocitylibraryclipping
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.perkinelmer.volocitylibraryclipping
@@ -3240,6 +3484,7 @@ application_vnd.pickle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pickle
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pickle
@@ -3253,6 +3498,7 @@ application_vnd.picoquant
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.picoquant
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.picoquant
@@ -3266,6 +3512,7 @@ application_vnd.pixar.renderman.interface-bytestream
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pixar.renderman.interface-bytestream
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pixar.renderman.interface-bytestream
@@ -3279,6 +3526,7 @@ application_vnd.plexon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plexon
@@ -3292,6 +3540,7 @@ application_vnd.plexon.neuroexplorer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plexon.neuroexplorer
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plexon.neuroexplorer
@@ -3305,6 +3554,7 @@ application_vnd.plot3d
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.plot3d
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.plot3d
@@ -3318,6 +3568,7 @@ application_vnd.pov-ray.densityfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.pov-ray.densityfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.pov-ray.densityfile
@@ -3331,6 +3582,7 @@ application_vnd.prairie-technologies
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.prairie-technologies
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.prairie-technologies
@@ -3344,6 +3596,7 @@ application_vnd.princeton-instruments
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.princeton-instruments
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.princeton-instruments
@@ -3357,6 +3610,7 @@ application_vnd.qcalign+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.qcalign+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.qcalign+json
@@ -3371,6 +3625,7 @@ application_vnd.quesant
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quesant
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quesant
@@ -3384,6 +3639,7 @@ application_vnd.quicknii+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii+json
@@ -3398,6 +3654,7 @@ application_vnd.quicknii+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii+xml
@@ -3412,6 +3669,7 @@ application_vnd.quicknii.flat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.quicknii.flat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.quicknii.flat
@@ -3425,6 +3683,7 @@ application_vnd.raw.binarysignal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.binarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.raw.binarysignal
@@ -3438,6 +3697,7 @@ application_vnd.raw.mcs
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.raw.mcs
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.raw.mcs
@@ -3451,6 +3711,7 @@ application_vnd.rawbinarysignal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rawbinarysignal
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rawbinarysignal
@@ -3464,6 +3725,7 @@ application_vnd.rhk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rhk
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rhk
@@ -3477,6 +3739,7 @@ application_vnd.rochedigitaldiagnostics.ventana
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.rochedigitaldiagnostics.ventana
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.rochedigitaldiagnostics.ventana
@@ -3490,6 +3753,7 @@ application_vnd.sbtab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sbtab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sbtab
@@ -3503,6 +3767,7 @@ application_vnd.scalasca.cube3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.scalasca.cube3
@@ -3516,6 +3781,7 @@ application_vnd.scalasca.cube4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.scalasca.cube4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.scalasca.cube4
@@ -3529,6 +3795,7 @@ application_vnd.sciunit.model
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.model
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sciunit.model
@@ -3542,6 +3809,7 @@ application_vnd.sciunit.test
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sciunit.test
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sciunit.test
@@ -3555,6 +3823,7 @@ application_vnd.score-p.filter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.filter
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.filter
@@ -3568,6 +3837,7 @@ application_vnd.score-p.log
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.log
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.log
@@ -3581,6 +3851,7 @@ application_vnd.score-p.score
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.score-p.score
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.score-p.score
@@ -3594,6 +3865,7 @@ application_vnd.seiko
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.seiko
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.seiko
@@ -3607,6 +3879,7 @@ application_vnd.sequencereadarchive.annotated-sequence+fastq
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sequencereadarchive.annotated-sequence+fastq
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores often including a description added by the Sequence Read Archive.
@@ -3622,6 +3895,7 @@ application_vnd.siemens.ecat7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.siemens.ecat7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.siemens.ecat7
@@ -3635,6 +3909,7 @@ application_vnd.sivic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sivic
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sivic
@@ -3648,6 +3923,7 @@ application_vnd.snakemake.snakefile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.snakemake.snakefile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.snakemake.snakefile
@@ -3661,6 +3937,7 @@ application_vnd.sonata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata
@@ -3674,6 +3951,7 @@ application_vnd.sonata.nest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.nest
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.nest
@@ -3687,6 +3965,7 @@ application_vnd.sonata.neuron
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.neuron
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.neuron
@@ -3700,6 +3979,7 @@ application_vnd.sonata.pynn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.sonata.pynn
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.sonata.pynn
@@ -3713,6 +3993,7 @@ application_vnd.spike2.sonpy.son
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spike2.sonpy.son
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spike2.sonpy.son
@@ -3726,6 +4007,7 @@ application_vnd.spikeglx.system
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spikeglx.system
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spikeglx.system
@@ -3739,6 +4021,7 @@ application_vnd.spikeinterface.probeinterface+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spikeinterface.probeinterface+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version.
@@ -3756,6 +4039,7 @@ application_vnd.spm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spm
@@ -3769,6 +4053,7 @@ application_vnd.spmfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.spmfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.spmfile
@@ -3782,6 +4067,7 @@ application_vnd.stimfit
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimfit
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.stimfit
@@ -3795,6 +4081,7 @@ application_vnd.stimulate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.stimulate
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.stimulate
@@ -3808,6 +4095,7 @@ application_vnd.structuredatafile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.structuredatafile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.structuredatafile
@@ -3821,6 +4109,7 @@ application_vnd.tdt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tdt
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tdt
@@ -3834,6 +4123,7 @@ application_vnd.tecplot
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tecplot
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tecplot
@@ -3847,6 +4137,7 @@ application_vnd.thermo-fisher-scientific.cellomics
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thermo-fisher-scientific.cellomics
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thermo-fisher-scientific.cellomics
@@ -3860,6 +4151,7 @@ application_vnd.thevirtualbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thevirtualbrain
@@ -3873,6 +4165,7 @@ application_vnd.thevirtualbrain.metadata+tsv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.thevirtualbrain.metadata+tsv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.thevirtualbrain.metadata+tsv
@@ -3886,6 +4179,7 @@ application_vnd.tillphotonics.tillvision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tillphotonics.tillvision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tillphotonics.tillvision
@@ -3899,6 +4193,7 @@ application_vnd.traces+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.traces+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.traces+xml
@@ -3912,6 +4207,7 @@ application_vnd.trackscalarfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackscalarfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.trackscalarfile
@@ -3925,6 +4221,7 @@ application_vnd.tracksfileformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.tracksfileformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.tracksfileformat
@@ -3938,6 +4235,7 @@ application_vnd.trackvis.trackfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.trackvis.trackfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.trackvis.trackfile
@@ -3951,6 +4249,7 @@ application_vnd.treslte
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.treslte
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.treslte
@@ -3964,6 +4263,7 @@ application_vnd.ubm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.ubm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.ubm
@@ -3977,6 +4277,7 @@ application_vnd.unicore.workflow+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unicore.workflow+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.unicore.workflow+json
@@ -3990,6 +4291,7 @@ application_vnd.unisoku
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.unisoku
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.unisoku
@@ -4003,6 +4305,7 @@ application_vnd.vaa3d.apo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.apo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.apo
@@ -4016,6 +4319,7 @@ application_vnd.vaa3d.marker
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.marker
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.marker
@@ -4029,6 +4333,7 @@ application_vnd.vaa3d.rawfile
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.rawfile
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.rawfile
@@ -4042,6 +4347,7 @@ application_vnd.vaa3d.surfaceformat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vaa3d.surfaceformat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vaa3d.surfaceformat
@@ -4055,6 +4361,7 @@ application_vnd.varianfdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.varianfdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.varianfdf
@@ -4068,6 +4375,7 @@ application_vnd.veeco
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veeco
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.veeco
@@ -4081,6 +4389,7 @@ application_vnd.veecoafm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.veecoafm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.veecoafm
@@ -4094,6 +4403,7 @@ application_vnd.vfgen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vfgen
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vfgen
@@ -4107,6 +4417,7 @@ application_vnd.vgsam
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vgsam
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vgsam
@@ -4120,6 +4431,7 @@ application_vnd.visitechinternational.xys
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visitechinternational.xys
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.visitechinternational.xys
@@ -4133,6 +4445,7 @@ application_vnd.visualign+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visualign+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.visualign+json
@@ -4147,6 +4460,7 @@ application_vnd.visualign.flat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.visualign.flat
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.visualign.flat
@@ -4160,6 +4474,7 @@ application_vnd.voluba.v1.landmarkPairs+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.landmarkPairs+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.voluba.v1.landmarkPairs+json
@@ -4173,6 +4488,7 @@ application_vnd.voluba.v1.linearTransform+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.voluba.v1.linearTransform+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.voluba.v1.linearTransform+json
@@ -4186,6 +4502,7 @@ application_vnd.volumeproperty
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.volumeproperty
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.volumeproperty
@@ -4199,6 +4516,7 @@ application_vnd.vtb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtb
@@ -4212,6 +4530,7 @@ application_vnd.vth
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vth
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vth
@@ -4225,6 +4544,7 @@ application_vnd.vthb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vthb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vthb
@@ -4238,6 +4558,7 @@ application_vnd.vti
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vti
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vti
@@ -4251,6 +4572,7 @@ application_vnd.vtm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtm
@@ -4264,6 +4586,7 @@ application_vnd.vtmb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtmb
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtmb
@@ -4277,6 +4600,7 @@ application_vnd.vtp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtp
@@ -4290,6 +4614,7 @@ application_vnd.vtr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtr
@@ -4303,6 +4628,7 @@ application_vnd.vts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vts
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vts
@@ -4316,6 +4642,7 @@ application_vnd.vtu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.vtu
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.vtu
@@ -4329,6 +4656,7 @@ application_vnd.wadsworthcenter.spider
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wadsworthcenter.spider
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wadsworthcenter.spider
@@ -4342,6 +4670,7 @@ application_vnd.watechnology.wa-top
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.watechnology.wa-top
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.watechnology.wa-top
@@ -4355,6 +4684,7 @@ application_vnd.wavefronttechnologies
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavefronttechnologies
@@ -4369,6 +4699,7 @@ application_vnd.wavefronttechnologies.mtl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavefronttechnologies.mtl
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavefronttechnologies.mtl
@@ -4383,6 +4714,7 @@ application_vnd.wavemetrics.igorpro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.wavemetrics.igorpro
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.wavemetrics.igorpro
@@ -4396,6 +4728,7 @@ application_vnd.webalign.waln+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.webalign.waln+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: WebAlign waln is a JSON-based content type containing the linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), and the actual linear image registration in the form of 3D vector triplets per image (optional).
@@ -4410,6 +4743,7 @@ application_vnd.webwarp.wwrp+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.webwarp.wwrp+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: WebWarp wwrp is a JSON-based content type containing the linear and optionally non-linear image registration information for multiple tissue section images to a standard atlas space. It contains complete metadata for a collection of deepzoom images (mandatory), their storage location (mandatory), identifier of the standard atlas space (mandatory), the linear image registration in the form of 3D vector triplets per image (optional), and the non-linear image registration in form of a list of 2D deformation vectors per image (optional).
@@ -4424,6 +4758,7 @@ application_vnd.winedr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winedr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.winedr
@@ -4437,6 +4772,7 @@ application_vnd.winwcp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.winwcp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.winwcp
@@ -4450,6 +4786,7 @@ application_vnd.woolz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.woolz
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.woolz
@@ -4463,6 +4800,7 @@ application_vnd.x-matlab-data
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.x-matlab-data
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.x-matlab-data
@@ -4476,6 +4814,7 @@ application_vnd.xdmf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.xdmf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.xdmf
@@ -4489,6 +4828,7 @@ application_vnd.yokogawa.cv7000
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.yokogawa.cv7000
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.yokogawa.cv7000
@@ -4502,6 +4842,7 @@ application_vnd.zarr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zarr
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zarr
@@ -4515,6 +4856,7 @@ application_vnd.zeiss.axio-csm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-csm
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.axio-csm
@@ -4528,6 +4870,7 @@ application_vnd.zeiss.axio-vision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.axio-vision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.axio-vision
@@ -4541,6 +4884,7 @@ application_vnd.zeiss
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss
@@ -4554,6 +4898,7 @@ application_vnd.zeiss.leo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.leo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.leo
@@ -4567,6 +4912,7 @@ application_vnd.zeiss.lsm-510
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_vnd.zeiss.lsm-510
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/vnd.zeiss.lsm-510
@@ -4580,6 +4926,7 @@ application_x-blender
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-blender
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-blender
@@ -4593,6 +4940,7 @@ application_x-font-speedo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-font-speedo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-font-speedo
@@ -4606,6 +4954,7 @@ application_x-hdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-hdf
@@ -4619,6 +4968,7 @@ application_x-ipynb+json
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-ipynb+json
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-ipynb+json
@@ -4633,6 +4983,7 @@ application_x-kseg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-kseg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-kseg
@@ -4646,6 +4997,7 @@ application_x-latex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-latex
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-latex
@@ -4659,6 +5011,7 @@ application_x-netcdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-netcdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-netcdf
@@ -4672,6 +5025,7 @@ application_x-tgif
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_x-tgif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/x-tgif
@@ -4685,6 +5039,7 @@ application_xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/xml
@@ -4699,6 +5054,7 @@ application_yaml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_yaml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/yaml
@@ -4712,6 +5068,7 @@ application_zip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/application_zip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: application/zip
@@ -4727,6 +5084,7 @@ chemical_vnd.wwpdb.pdb-v3.30+plain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdb-v3.30+plain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A textual file format describing the three-dimensional structures of molecules held in the [Protein Data Bank](https://www.rcsb.org/).
@@ -4742,6 +5100,7 @@ chemical_vnd.wwpdb.pdbml.v5+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdbml.v5+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.
@@ -4758,6 +5117,7 @@ chemical_vnd.wwpdb.pdbx-mmcif.v5+plain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/chemical_vnd.wwpdb.pdbx-mmcif.v5+plain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A standard text file format for representing macromolecular structure data, developed by the International Union of Crystallography (IUCr) and the Protein Data Bank (PDB). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Macromolecular_Crystallographic_Information_File)]
@@ -4773,6 +5133,7 @@ image_bmp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_bmp
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/bmp
@@ -4787,6 +5148,7 @@ image_gif
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_gif
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/gif
@@ -4800,6 +5162,7 @@ image_jp2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jp2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/jp2
@@ -4813,6 +5176,7 @@ image_jpeg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_jpeg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/jpeg
@@ -4826,6 +5190,7 @@ image_png
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_png
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/png
@@ -4840,6 +5205,7 @@ image_tiff.andor.abd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.andor.abd
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.andor.abd
@@ -4853,6 +5219,7 @@ image_tiff.improvision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.improvision
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.improvision
@@ -4866,6 +5233,7 @@ image_tiff.ionpath.mibi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.ionpath.mibi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.ionpath.mibi
@@ -4879,6 +5247,7 @@ image_tiff
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff
@@ -4893,6 +5262,7 @@ image_tiff.metamorph.75
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.metamorph.75
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.metamorph.75
@@ -4906,6 +5276,7 @@ image_tiff.mias
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mias
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.mias
@@ -4919,6 +5290,7 @@ image_tiff.mikroscan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.mikroscan
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.mikroscan
@@ -4932,6 +5304,7 @@ image_tiff.multichannel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multichannel
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.multichannel
@@ -4945,6 +5318,7 @@ image_tiff.multipage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.multipage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.multipage
@@ -4958,6 +5332,7 @@ image_tiff.nikon.elements
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.elements
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.nikon.elements
@@ -4971,6 +5346,7 @@ image_tiff.nikon.ez-c1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.nikon.ez-c1
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.nikon.ez-c1
@@ -4984,6 +5360,7 @@ image_tiff.olympus.fluoview
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.fluoview
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.olympus.fluoview
@@ -4997,6 +5374,7 @@ image_tiff.olympus.sis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.olympus.sis
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.olympus.sis
@@ -5010,6 +5388,7 @@ image_tiff.photoshop
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.photoshop
@@ -5023,6 +5402,7 @@ image_tiff.yokogawa.cellvoyager
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_tiff.yokogawa.cellvoyager
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/tiff.yokogawa.cellvoyager
@@ -5036,6 +5416,7 @@ image_vnd.adobe.photoshop
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.adobe.photoshop
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.adobe.photoshop
@@ -5049,6 +5430,7 @@ image_vnd.compix.simplepcihcimage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.compix.simplepcihcimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.compix.simplepcihcimage
@@ -5062,6 +5444,7 @@ image_vnd.ilastik+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik+hdf5
@@ -5075,6 +5458,7 @@ image_vnd.ilastik.pixelclassification+hdf5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+hdf5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.pixelclassification+hdf5
@@ -5088,6 +5472,7 @@ image_vnd.ilastik.pixelclassification+n5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+n5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.pixelclassification+n5
@@ -5101,6 +5486,7 @@ image_vnd.ilastik.pixelclassification+neuroglancer.precomputed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.pixelclassification+neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.pixelclassification+neuroglancer.precomputed
@@ -5114,6 +5500,7 @@ image_vnd.ilastik.segmentation+dzi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+dzi
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.segmentation+dzi
@@ -5127,6 +5514,7 @@ image_vnd.ilastik.segmentation+dzip
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+dzip
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.segmentation+dzip
@@ -5140,6 +5528,7 @@ image_vnd.ilastik.segmentation+n5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+n5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.segmentation+n5
@@ -5153,6 +5542,7 @@ image_vnd.ilastik.segmentation+neuroglancer.precomputed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.ilastik.segmentation+neuroglancer.precomputed
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.ilastik.segmentation+neuroglancer.precomputed
@@ -5166,6 +5556,7 @@ image_vnd.silicongraphicsimage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_vnd.silicongraphicsimage
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/vnd.silicongraphicsimage
@@ -5179,6 +5570,7 @@ image_x-eps
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-eps
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-eps
@@ -5192,6 +5584,7 @@ image_x-hdf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-hdf
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-hdf
@@ -5205,6 +5598,7 @@ image_x-n5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-n5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-n5
@@ -5218,6 +5612,7 @@ image_x-panasonic-rw
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-panasonic-rw
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-panasonic-rw
@@ -5231,6 +5626,7 @@ image_x-targa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/image_x-targa
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: image/x-targa
@@ -5244,6 +5640,7 @@ text_cfg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_cfg
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/cfg
@@ -5257,6 +5654,7 @@ text_csv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_csv
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/csv
@@ -5271,6 +5669,7 @@ text_html
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_html
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/html
@@ -5285,6 +5684,7 @@ text_markdown
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_markdown
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/markdown
@@ -5299,6 +5699,7 @@ text_plain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_plain
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/plain
@@ -5312,6 +5713,7 @@ text_prs.fallenstein.rst
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_prs.fallenstein.rst
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/prs.fallenstein.rst
@@ -5325,6 +5727,7 @@ text_semicolon-separated-values
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_semicolon-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/semicolon-separated-values
@@ -5338,6 +5741,7 @@ text_tab-separated-values
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_tab-separated-values
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/tab-separated-values
@@ -5352,6 +5756,7 @@ text_vnd.citation-file-format
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.citation-file-format
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: CITATION.cff files are plain text files with human- and machine-readable citation information for research products. [adapted from [Citation File Format (CFF)](https://citation-file-format.github.io/)]
@@ -5367,6 +5772,7 @@ text_vnd.fsl.bval
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.fsl.bval
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: The FSL bval format is an ASCII text file that contains a list of b-values applied during each volume acquisition. The b-values are assumed to be in s/mm^2 units. The order of entries in this file must match the order of volumes in the diffusion weighted input data (4D NIFTI file) and entries in the gradient directions text file (FSL bvec format).
@@ -5381,6 +5787,7 @@ text_vnd.fsl.bvec
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_vnd.fsl.bvec
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: The FSL bvec format is an ASCII text file that contains a list of gradient directions applied during diffusion weighted imaging. The values are listed in three rows, representing the x, y, and z axis. The order of entries in this file must match the order of volumes in the input data (4D NIFTI file).
@@ -5395,6 +5802,7 @@ text_x-cml+xml
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-cml+xml
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-cml+xml
@@ -5409,6 +5817,7 @@ text_x-fastq
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-fastq
    :@type: https://openminds.ebrains.eu/core/ContentType
    :description: A text-based format for storing both a biological sequence (usually nucleotide sequence) and its corresponding quality scores.
@@ -5424,6 +5833,7 @@ text_x-matlab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-matlab
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-matlab
@@ -5437,6 +5847,7 @@ text_x-objcsrc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-objcsrc
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-objcsrc
@@ -5450,6 +5861,7 @@ text_x-python.2.7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.2.7
@@ -5463,6 +5875,7 @@ text_x-python.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.2
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.2
@@ -5476,6 +5889,7 @@ text_x-python.3.6.5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6.5
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.6.5
@@ -5489,6 +5903,7 @@ text_x-python.3.6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.6
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.6
@@ -5502,6 +5917,7 @@ text_x-python.3.7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.7
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.7
@@ -5515,6 +5931,7 @@ text_x-python.3.8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.8
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.8
@@ -5528,6 +5945,7 @@ text_x-python.3.9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3.9
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3.9
@@ -5541,6 +5959,7 @@ text_x-python.3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python.3
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python.3
@@ -5554,6 +5973,7 @@ text_x-python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/text_x-python
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: text/x-python
@@ -5567,6 +5987,7 @@ video_mp4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_mp4
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/mp4
@@ -5581,6 +6002,7 @@ video_quicktime
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_quicktime
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/quicktime
@@ -5594,6 +6016,7 @@ video_x-msvideo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contentTypes/video_x-msvideo
    :@type: https://openminds.ebrains.eu/core/ContentType
    :name: video/x-msvideo

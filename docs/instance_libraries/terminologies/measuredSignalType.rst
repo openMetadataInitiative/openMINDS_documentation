@@ -13,6 +13,7 @@ alphaActivity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredSignalType/alphaActivity
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType
    :definition: A neural oscillation in the low frequency range (typically between 8-12 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Alpha_wave)]
@@ -29,6 +30,7 @@ betaActivity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredSignalType/betaActivity
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType
    :definition: A neural oscillation in the mid frequency range (typically between 12-30 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Beta_wave)]
@@ -45,6 +47,7 @@ gammaActivity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredSignalType/gammaActivity
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredSignalType
    :definition: A neural oscillation in the high frequency range (typically between 30-150 Hz) arising from synchronous and coherent electrical activity in the brain. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]

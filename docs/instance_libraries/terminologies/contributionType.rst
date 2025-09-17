@@ -13,6 +13,7 @@ coordination
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/coordination
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: coordination
@@ -26,6 +27,7 @@ dataCollection
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataCollection
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data collection
@@ -39,6 +41,7 @@ dataManagement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataManagement
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data management
@@ -52,6 +55,7 @@ dataProcessing
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/dataProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: data processing
@@ -65,6 +69,7 @@ informationTechnologySupport
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/informationTechnologySupport
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: information technology support
@@ -78,6 +83,7 @@ laboratoryAssistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/laboratoryAssistance
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: laboratory assistance
@@ -91,6 +97,7 @@ marketing
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/marketing
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: marketing
@@ -104,6 +111,7 @@ metadataManagement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/contributionType/metadataManagement
    :@type: https://openminds.ebrains.eu/controlledTerms/ContributionType
    :name: metadata management

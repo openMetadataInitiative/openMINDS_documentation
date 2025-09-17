@@ -13,6 +13,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DGeometryDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: 3D geometry data types
@@ -27,6 +28,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DScalarDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: 3D scalar data types
@@ -40,6 +42,7 @@ Related schema specification: `SoftwareFeature <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/3DVectorDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: 3D vector data types
@@ -53,6 +56,7 @@ applicationProgrammingInterface
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/applicationProgrammingInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :definition: A set of rules and protocols that allows different software applications to communicate with each other, enabling them to access specific functions or data.
@@ -68,6 +72,7 @@ augmentedReality
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: augmented reality
@@ -82,6 +87,7 @@ commandLineInterface
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/commandLineInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :definition: A text-based system that enables users to interact with a computer or software by entering commands, allowing them to perform specific tasks or operations.
@@ -97,6 +103,7 @@ control
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/control
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: control
@@ -111,6 +118,7 @@ dataAcquisition
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/dataAcquisition
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: data acquisition
@@ -124,6 +132,7 @@ dataProcessing
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: data processing
@@ -138,6 +147,7 @@ desktopEnvironment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/desktopEnvironment
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: desktop environment
@@ -152,6 +162,7 @@ graphDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/graphDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: graph data types
@@ -166,6 +177,7 @@ graphicalUserInterface
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/graphicalUserInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :definition: A visual system that enables users to interact with a computer or software through graphical elements like windows, icons, and menus, allowing them to perform specific tasks or operations.
@@ -181,6 +193,7 @@ heterogeneousArchitecture
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/heterogeneousArchitecture
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: heterogeneous architecture
@@ -195,6 +208,7 @@ interactiveAnalysis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/interactiveAnalysis
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: interactive analysis
@@ -208,6 +222,7 @@ matrixDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/matrixDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: matrix data types
@@ -222,6 +237,7 @@ metadataDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/metadataDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: metadata data types
@@ -236,6 +252,7 @@ mobileDevice
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/mobileDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: mobile device
@@ -250,6 +267,7 @@ modelling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/modelling
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: modelling
@@ -264,6 +282,7 @@ parallelProgramming
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/parallelProgramming
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: parallel programming
@@ -278,6 +297,7 @@ performanceMeasurement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/performanceMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: performance measurement
@@ -292,6 +312,7 @@ positionalDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/positionalDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: positional data types
@@ -306,6 +327,7 @@ presentationVisualisation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/presentationVisualisation
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: presentation visualisation
@@ -320,6 +342,7 @@ profiling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/profiling
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: profiling
@@ -334,6 +357,7 @@ provenance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/provenance
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: provenance
@@ -348,6 +372,7 @@ rasterImageDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/rasterImageDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: raster image data types
@@ -362,6 +387,7 @@ scriptingInterface
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/scriptingInterface
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: scripting interface
@@ -375,6 +401,7 @@ simulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/simulation
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: simulation
@@ -389,6 +416,7 @@ statisticalDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/statisticalDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: statistical data types
@@ -403,6 +431,7 @@ tensorDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/tensorDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: tensor data types
@@ -417,6 +446,7 @@ tiledDisplayWall
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/tiledDisplayWall
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: tiled display wall
@@ -430,6 +460,7 @@ timeSeriesDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/timeSeriesDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: time series data types
@@ -444,6 +475,7 @@ vectorImageDataTypes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/vectorImageDataTypes
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: vector image data types
@@ -458,6 +490,7 @@ virtualReality
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareFeature/virtualReality
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareFeature
    :name: virtual reality

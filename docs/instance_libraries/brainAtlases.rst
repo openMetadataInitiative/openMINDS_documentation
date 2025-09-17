@@ -13,6 +13,7 @@ AAL1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AAL1
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: AAL1
@@ -32,6 +33,7 @@ AMBA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AMBA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: AMBA
@@ -50,6 +52,7 @@ AsegAtlas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AsegAtlas
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: Aseg Atlas
@@ -68,6 +71,7 @@ BA-human
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/BA-human
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: BA-human
@@ -86,6 +90,7 @@ DKA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/DKA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: DKA
@@ -103,6 +108,7 @@ DWMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/DWMA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: DWMA
@@ -121,6 +127,7 @@ JBA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/JBA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: JBA
@@ -143,6 +150,7 @@ MarmosetNMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/MarmosetNMA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: MarmosetNMA
@@ -164,6 +172,7 @@ PW-RBSC-cor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/PW-RBSC-cor
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: PW-RBSC-cor
@@ -183,6 +192,7 @@ SWMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/SWMA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: SWMA
@@ -201,6 +211,7 @@ Schaefer-400p
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/Schaefer-400p
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: Schaefer-400p
@@ -220,6 +231,7 @@ SwansonBM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/SwansonBM
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: SwansonBM
@@ -240,6 +252,7 @@ WHSSDatlas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: WHSSDatlas

@@ -13,6 +13,7 @@ AMPL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/AMPL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: AMPL
@@ -27,6 +28,7 @@ Bash
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Bash
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Bash
@@ -41,6 +43,7 @@ C#
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C#
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: C#
@@ -55,6 +58,7 @@ C++
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C++
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: C++
@@ -69,6 +73,7 @@ C
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/C
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: C
@@ -83,6 +88,7 @@ Fortran
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Fortran
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Fortran
@@ -97,6 +103,7 @@ GLSL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/GLSL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: GLSL
@@ -111,6 +118,7 @@ HTML
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/HTML
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: HTML
@@ -125,6 +133,7 @@ IGORPro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/IGORPro
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :definition: C-like programming language of the correspondent scientific data analysis software and numerical computing environment IGOR Pro available for Windows or Mac operating systems.
@@ -139,6 +148,7 @@ Java
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Java
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Java
@@ -153,6 +163,7 @@ JavaScript
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/JavaScript
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: JavaScript
@@ -167,6 +178,7 @@ MATLAB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/MATLAB
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: MATLAB
@@ -181,6 +193,7 @@ PHP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/PHP
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: PHP
@@ -195,6 +208,7 @@ Pascal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Pascal
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Pascal
@@ -209,6 +223,7 @@ Python
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Python
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Python
@@ -223,6 +238,7 @@ R
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/R
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: R
@@ -237,6 +253,7 @@ Ruby
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Ruby
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Ruby
@@ -251,6 +268,7 @@ Scala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/Scala
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Scala
@@ -265,6 +283,7 @@ T-SQL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: T-SQL
@@ -279,6 +298,7 @@ TypeScript
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/TypeScript
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: TypeScript
@@ -293,6 +313,7 @@ shell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/programmingLanguage/shell
    :@type: https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage
    :name: Shell

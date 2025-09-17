@@ -13,6 +13,7 @@ application
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/application
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: application
@@ -27,6 +28,7 @@ library
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/library
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: library
@@ -41,6 +43,7 @@ middleware
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/middleware
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: middleware
@@ -55,6 +58,7 @@ module
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/module
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: module
@@ -69,6 +73,7 @@ notebook
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/notebook
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: notebook
@@ -83,6 +88,7 @@ plugin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin
    :@type: https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory
    :name: plugin
