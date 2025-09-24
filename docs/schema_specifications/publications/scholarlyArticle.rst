@@ -305,7 +305,7 @@ pagination
    :semantic name: https://openminds.om-i.org/props/pagination
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the page range of this scholarly article.
+   :instructions: Enter the page range of this scholarly article, expressed as two numbers separated by a dash, e.g., '435-452', or a non-page-number identifier such as used in online-only journals.
 
 `BACK TO TOP <ScholarlyArticle_>`_
 

@@ -305,7 +305,7 @@ pagination
    :semantic name: https://openminds.om-i.org/props/pagination
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the page range of this chapter.
+   :instructions: Enter the page range of this chapter, expressed as two numbers separated by a dash, e.g., '435-452'.
 
 `BACK TO TOP <Chapter_>`_
 
