@@ -140,6 +140,23 @@ danioRerio
 
 ------------
 
+drosophilaMelanogaster
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/species/drosophilaMelanogaster
+   :@type: https://openminds.om-i.org/types/Species
+   :definition: The species *Drosophila melanogaster* (fruit fly) belongs to the family of *Drosophilidae*.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103567
+   :name: Drosophila melanogaster
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 felisCatus
 ----------
 
