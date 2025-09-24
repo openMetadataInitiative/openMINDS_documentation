@@ -226,6 +226,22 @@ macacaMulatta
 
 ------------
 
+macacaNemestrina
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/species/macacaNemestrina
+   :@type: https://openminds.om-i.org/types/Species
+   :definition: The species *Macaca nemestrina* (southern pig-tailed macaque) belongs to the family of *cercopithecidae* (old world monkeys).
+   :name: Macaca nemestrina
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9545
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 merionesUnguiculatus
 --------------------
 
