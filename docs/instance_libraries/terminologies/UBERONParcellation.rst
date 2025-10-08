@@ -2598,6 +2598,24 @@ areaXOfVentralLateralNucleus
 
 ------------
 
+arterialBaroreceptor
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arterialBaroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018392)]
+   :description: Arterial baroreceptors are stretch receptors that are stimulated by distortion of the arterial wall when pressure changes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018392)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018392#arterial-baroreceptor
+   :name: arterial baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018392
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 arthropodOpticLobe
 ------------------
 
@@ -2722,6 +2740,24 @@ banksOfSuperiorTemporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0028622#banks-of-superior-temporal-sulcus-1
    :name: banks of superior temporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0028622
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+baroreceptor
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/baroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an interoceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004019)]
+   :description: The sensory nerve endings in the wall of the atria of the heart, vena cava, aortic arch and carotid sinus that are sensitive to changes in blood pressure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004019)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004019#baroreceptor
+   :name: baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004019
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3555,6 +3591,24 @@ capsuleOfRedNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002941#capsule-of-red-nucleus-1
    :name: capsule of red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002941
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cardiacBaroreceptor
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/cardiacBaroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a low-pressure baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018395)]
+   :description: A baroreceptor that located in a heart. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018395)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018395#cardiac-baroreceptor
+   :name: cardiac baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018395
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -5517,6 +5571,24 @@ chemoarchitecturalPartOfStriatum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025736#chemoarchitectural-part-of-striatum
    :name: chemoarchitectural part of striatum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025736
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+chemoreceptor
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an interoceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018391)]
+   :description: A sensory receptor that detects chemical stimulus within the body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018391)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018391#chemoreceptor
+   :name: chemoreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018391
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -8345,6 +8417,24 @@ embryonicIntraretinalSpace
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006253#embryonic-intraretinal-space
    :name: embryonic intraretinal space
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006253
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+encapsulatedTactileReceptor
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/encapsulatedTactileReceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tactile mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]
+   :description: A tacile mechanoreceptor that lacks a capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035969)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035969#encapsulated-tactile-receptor
+   :name: encapsulated tactile receptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035969
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12272,6 +12362,24 @@ internalMedullaryLaminaOfThalamus
 
 ------------
 
+interoceptor
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/interoceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018389)]
+   :description: A sensory receptor that detects stimulus within the body. Examples of stimuli that would be detected by interoceptors include blood pressure and blood oxygen level. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018389)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018389#interoceptor
+   :name: interoceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018389
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 interpeduncularNucleus
 ----------------------
 
@@ -14129,6 +14237,24 @@ longitudinalPontineFibers
 
 ------------
 
+lowPressureBaroreceptor
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lowPressureBaroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]
+   :description: Found in large systemic veins, in pulmonary vessels, and in the walls of the right atrium and ventricles of the heart (the atrial volume receptors). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018393)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018393#low-pressure-baroreceptor
+   :name: low-pressure baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018393
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lowerRhombicLip
 ---------------
 
@@ -14586,6 +14712,24 @@ maxillomandibularPartOfTrigeminalGanglionComplex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035601#maxillomandibular-part-of-trigeminal-ganglion-complex
    :name: maxillomandibular part of trigeminal ganglion complex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035601
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+mechanoreceptor
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mechanoreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012449)]
+   :description: A sensory receptor that responds to mechanical pressure or distortion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012449)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012449#mechanoreceptor
+   :name: mechanoreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012449
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16615,6 +16759,24 @@ ninthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002852#ninth-thoracic-dorsal-root-ganglion-1
    :name: ninth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002852
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nociceptor
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nociceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035017)]
+   :description: Peripheral receptors for pain. Nociceptors include receptors which are sensitive to painful mechanical stimuli, extreme heat or cold, and chemical stimuli. All nociceptors are free nerve endings. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035017)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035017#nociceptor
+   :name: nociceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035017
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19565,6 +19727,77 @@ periventricularWhiteMatter
 
 ------------
 
+photoreceptorArray
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/photoreceptorArray
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005388) ('is_a' and 'relationship')]
+   :description: An array of photoreceptors and any supporting cells found in an eye. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005388)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005388#photoreceptor-array
+   :name: photoreceptor array
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005388
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+photoreceptorInnerSegmentLayer
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/photoreceptorInnerSegmentLayer
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of retina. Is part of the photoreceptor layer of retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003925) ('is_a' and 'relationship')]
+   :description: Layer of the retina composed of the inner segments of the photoreceptor cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003925)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003925#photoreceptor-inner-segment-layer
+   :name: photoreceptor inner segment layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003925
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+photoreceptorLayerOfRetina
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/photoreceptorLayerOfRetina
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of retina. Is part of the retinal neural layer. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001787) ('is_a' and 'relationship')]
+   :description: The layer within the retina where the photoreceptor cell receptor segments reside. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001787)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001787#photoreceptor-layer-of-retina
+   :name: photoreceptor layer of retina
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001787
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+photoreceptorOuterSegmentLayer
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/photoreceptorOuterSegmentLayer
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of retina. Is part of the photoreceptor layer of retina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003926) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003926#photoreceptor-outer-segment-layer
+   :name: photoreceptor outer segment layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003926
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 piaMater
 --------
 
@@ -22092,6 +22325,24 @@ pterygopalatineGanglion
 
 ------------
 
+pulmonaryBaroreceptor
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pulmonaryBaroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a low-pressure baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018396)]
+   :description: A baroreceptor that located in a pulmonary vascular system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018396)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018396#pulmonary-baroreceptor
+   :name: pulmonary baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018396
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 putamen
 -------
 
@@ -24068,6 +24319,24 @@ sensoryGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001800#sensory-ganglion
    :name: sensory ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001800
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sensoryReceptor
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/sensoryReceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nerve ending. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012451)]
+   :description: A sensory nerve ending that responds to a stimulus in the internal or external environment of an organism. In response to stimuli the sensory receptor initiates sensory transduction by creating graded potentials or action potentials in the same cell or in an adjacent one. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0012451)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012451#sensory-receptor
+   :name: sensory receptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012451
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -27088,6 +27357,23 @@ synencephalon
 
 ------------
 
+tactileMechanoreceptor
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tactileMechanoreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035016)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035016#tactile-mechanoreceptor
+   :name: tactile mechanoreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035016
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 taeniaTectumOfBrain
 -------------------
 
@@ -27629,6 +27915,24 @@ thalamicReticularNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001903#thalamic-reticular-nucleus-1
    :name: thalamic reticular nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001903
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thermoreceptor
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/thermoreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035018)]
+   :description: Cellular receptors which mediate the sense of temperature. Thermoreceptors in vertebrates are mostly located under the skin. In mammals there are separate types of thermoreceptors for cold and for warmth and NOCICEPTORS which detect cold or heat extreme enough to cause pain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035018)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035018#thermoreceptor
+   :name: thermoreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035018
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -28412,6 +28716,24 @@ uncusOfParahippocampalGyrus
 
 ------------
 
+unencapsulatedTactileReceptor
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/unencapsulatedTactileReceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tactile mechanoreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035501)]
+   :description: Free nerve endings are widely distributed throughout the body, and are found as branches of unmyelinated, or lightly myelinated fibres grouped in bundles beneath the epithelium. As they penetrate the epithelium, they lose their myelin, and branch among the epithelial cells. Branches of one nerve may cover a wide area and overlap the territories of other nerves. The free nerve endings detect pain, touch, pressure and temperature, and are associated with C fibres. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035501)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035501#unencapsulated-tactile-receptor
+   :name: unencapsulated tactile receptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035501
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 unpairedVenousDuralSinus
 ------------------------
 
@@ -28638,6 +28960,24 @@ vasculatureOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036303#vasculature-of-central-nervous-system
    :name: vasculature of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036303
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+veinBaroreceptor
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/veinBaroreceptor
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a low-pressure baroreceptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018394)]
+   :description: A baroreceptor that located in a vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018394)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018394#vein-baroreceptor
+   :name: vein baroreceptor
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018394
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
