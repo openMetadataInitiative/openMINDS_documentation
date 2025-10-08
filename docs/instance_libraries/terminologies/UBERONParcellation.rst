@@ -2616,6 +2616,24 @@ arterialBaroreceptor
 
 ------------
 
+arthropodNeurohemalOrgan
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arthropodNeurohemalOrgan
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neuroendocrine gland. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001053)]
+   :description: A system of neurons that has the specialized function to produce and secrete hormones, and that constitutes, in whole or in part, an endocrine organ or system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001053)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001053#arthropod-neurohemal-organ
+   :name: arthropod neurohemal organ
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001053
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 arthropodOpticLobe
 ------------------
 
@@ -2624,12 +2642,30 @@ arthropodOpticLobe
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/arthropodOpticLobe
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Arthropod optic lobe' is a visual processing part of nervous system. It is part of the brain.
-   :description: A region of the adult brain that processes the visual information from the compound eyes.
+   :definition: Is a visual processing part of nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006795) ('is_a' and 'relationship')]
+   :description: A region of the adult brain that processes the visual information from the compound eyes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006795)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0732637
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006795#arthropod-optic-lobe
    :name: arthropod optic lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006795
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+arthropodSensillum
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/arthropodSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002536) ('is_a' and 'relationship')]
+   :description: Sense organ embedded in the integument and consisting of one or a cluster of sensory neurons and associated sensory structures, support cells and glial cells forming a single organised unit with a largely bona-fide boundary. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002536)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002536#arthropod-sensillum
+   :name: arthropod sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002536
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -10616,6 +10652,23 @@ headOfCaudateNucleus
 
 ------------
 
+headSensillum
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/headSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000963)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000963#head-sensillum
+   :name: head sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000963
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 hemispherePartOfCerebellarAnteriorLobe
 --------------------------------------
 
@@ -11976,6 +12029,347 @@ innerPlexiformLayerOfRetina
 
 ------------
 
+insectAdultBrain
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a brain. Is part of the insect adult central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624) ('is_a' and 'relationship')]
+   :description: Brain of the adult. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003624)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003624#adult-brain
+   :name: insect adult brain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003624
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectAdultCentralComplex
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultCentralComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect synaptic neuropil block. Is part of the insect adult protocerebrum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003632) ('is_a' and 'relationship')]
+   :description: A midline crossing complex of 4 synaptic neuropil domains of the adult brain: the ellipsoid body, the fan-shaped body, the paired noduli, and the protocerebral bridge. It is closely associated with another paired synaptic neuropil domain, the lateral complex. It lies in the middle of the brain between the pedunculi of the mushroom bodies and is bounded ventrally by the esophagus, dorsally by the pars intercerebralis and laterally by the antenno-glomerular tracts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003632)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003632#adult-central-complex
+   :name: insect adult central complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003632
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectAdultCentralNervousSystem
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultCentralNervousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system. Is part of the insect adult nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003623) ('is_a' and 'relationship')]
+   :description: Central nervous system of the adult. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003623)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003623#adult-central-nervous-system
+   :name: insect adult central nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003623
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectAdultCerebralGanglion
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultCerebralGanglion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect supraesophageal ganglion. Is part of the insect adult brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6110636) ('is_a' and 'relationship')]
+   :description: The pre-oral neuropils of the adult brain located above, around and partially below the esophagus, including the optic lobes. It excludes the gnathal ganglion. Developmentally, it comprises three fused neuromeres: protocerebrum, deutocerebrum, and tritocerebrum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6110636)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6110636#adult-cerebral-ganglion
+   :name: insect adult cerebral ganglion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6110636
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectAdultNervousSystem
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultNervousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003559)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003559#adult-nervous-system
+   :name: insect adult nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003559
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectAdultProtocerebrum
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectAdultProtocerebrum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect protocerebrum. Is part of the insect adult cerebral ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007145) ('is_a' and 'relationship')]
+   :description: Protocerebrum of the adult brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007145)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007145#adult-protocerebrum
+   :name: insect adult protocerebrum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007145
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectBolwigOrgan
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectBolwigOrgan
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect internal sensillum and insect embryonic/larval head sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005805)]
+   :description: Visual organ of the larva. It consists of a dense cluster of 12 ciliated photoreceptor neurons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005805)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6005805#bolwig-organ
+   :name: insect Bolwig organ
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005805
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectCentroPosteriorMedialSynapticNeuropilDomain
+-------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectCentroPosteriorMedialSynapticNeuropilDomain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect synaptic neuropil domain. Is part of the insect embryonic/larval protocerebrum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007070) ('is_a' and 'relationship')]
+   :description: A synaptic neuropil domain of the larval brain located posterior to the medial lobe of the mushroom body. It is separated from the centro-lateral compartment by the peduncle, and from the centro-posterior intermediate compartment by the antenno-cerebral tract to which it is connected via a branch. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007070)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007070#centro-posterior-medial-synaptic-neuropil-domain
+   :name: insect centro-posterior medial synaptic neuropil domain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007070
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectChaeta
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectChaeta
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect eo-type sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]
+   :description: A sensillum with a long, unicellular, setiform outgrowth that is strongly chitinized. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005177)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6005177#chaeta
+   :name: insect chaeta
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005177
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicBrain
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001060)]
+   :description: Brain of the embryo. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001060)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001060#insect-embryonic-brain
+   :name: insect embryonic brain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001060
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalBrain
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalBrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a brain and ganglion of central nervous system. Is part of the insect embryonic/larval central nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920) ('is_a' and 'relationship')]
+   :description: Brain of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001920)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001920#insect-embryonic-larval-brain
+   :name: insect embryonic/larval brain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001920
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalCentralNervousSystem
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalCentralNervousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system. Is part of the insect embryonic/larval nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001919) ('is_a' and 'relationship')]
+   :description: Central nervous system of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001919)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001919#embryonic-larval-central-nervous-system
+   :name: insect embryonic/larval central nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001919
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalHeadSensillum
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalHeadSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a head sensillum and insect embryonic/larval sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007242)]
+   :description: Any sensillum (UBERON:6007152) that is part of some larval head (UBERON:6001730). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007242)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007242#embryonic-larval-head-sensillum
+   :name: insect embryonic/larval head sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007242
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalNervousSystem
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalNervousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]
+   :description: Nervous system of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001911)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001911#insect-embryonic-larval-nervous-system
+   :name: insect embryonic/larval nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001911
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalProtocerebrum
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalProtocerebrum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect protocerebrum. Is part of the insect embryonic/larval brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001925) ('is_a' and 'relationship')]
+   :description: Protocerebrum of the embryo/larva. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6001925)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6001925#embryonic-larval-protocerebrum
+   :name: insect embryonic/larval protocerebrum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6001925
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEmbryonicLarvalSensillum
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEmbryonicLarvalSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007240)]
+   :description: Any sensillum (UBERON:6007152) that is part of some larva (UBERON:6001727). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007240)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007240#embryonic-larval-sensillum
+   :name: insect embryonic/larval sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007240
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectEoTypeSensillum
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectEoTypeSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an insect external sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007232)]
+   :description: Sensillum with innervated external cuticular sensory structure consisting of one or more bipolar sensory neurons, and 3 support cells: a trichogen cell which makes the external cuticular sensory structure, a thecogen cell which makes the socket that holds the base of the external sensory structure and a tormogen cell which makes the cuticular matrix (cap) at the tip of the innervating dendrite(s). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007232)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007232#eo-type-sensillum
+   :name: insect eo-type sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007232
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectExternalSensillum
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectExternalSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007231)]
+   :description: Sensillum which is embedded in the body wall and has a specific cuticular structure involved in the transduction of some sensory signal as a part. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007231)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007231#external-sensillum
+   :name: insect external sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007231
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectInternalSensillum
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectInternalSensillum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an arthropod sensillum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007233)]
+   :description: Sensillum that is internal to the animal - i.e. having no part that is part of the cuticle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6007233)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6007233#internal-sensillum
+   :name: insect internal sensillum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6007233
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 insectProtocerebrum
 -------------------
 
@@ -11984,11 +12378,30 @@ insectProtocerebrum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectProtocerebrum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Insect protocerebrum' is a segmental subdivision of nervous system. It is part of the insect supraesophageal ganglion.
-   :description: The most anterior of the segmental subdivisions of the insect CNS; thought to represent the first pre-oral segment of the brain. The protocerebrum comprises many discrete neuropil regions including the central body complex and mushroom bodies.
+   :definition: Is a segmental subdivision of nervous system. Is part of the insect supraesophageal ganglion. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003627) ('is_a' and 'relationship')]
+   :description: The most anterior of the segmental subdivisions of the insect CNS; thought to represent the first pre-oral segment of the brain. The protocerebrum comprises many discrete neuropil regions including the central body complex and mushroom bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003627)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726810
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003627#protocerebrum
    :name: insect protocerebrum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003627
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectStomatogastricNervousSystem
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectStomatogastricNervousSystem
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005096)]
+   :description: A group of small, interconnected ganglia situated posterior to and between the two brain hemispheres and associated with the pharynx, esophagus and aorta. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6005096)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6005096#stomatogastric-nervous-system
+   :name: insect stomatogastric nervous system
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6005096
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12002,11 +12415,66 @@ insectSupraesophagealGanglion
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectSupraesophagealGanglion
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Insect supraesophageal ganglion' is a ganglion of central nervous system. It is part of the brain.
-   :description: The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head.
+   :definition: Is a ganglion of central nervous system. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003626) ('is_a' and 'relationship')]
+   :description: The pre-oral neuropils of the brain located above and some of it below the esophagus, comprising three fused ganglia (protocerebrum, deutocerebrum, and tritocerebrum) in the head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6003626)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0735712
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6003626#supraesophageal-ganglion
    :name: insect supraesophageal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6003626
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectSynapticNeuropil
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectSynapticNeuropil
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the neuropil. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6040005)]
+   :description: The part of the neuropil consisting largely of synapsing neuron projections. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6040005)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6040005#synaptic-neuropil
+   :name: insect synaptic neuropil
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6040005
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectSynapticNeuropilBlock
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectSynapticNeuropilBlock
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the insect synaptic neuropil. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6041000)]
+   :description: A closely associated group of synaptic neuropil domains. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6041000)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6041000#synaptic-neuropil-block
+   :name: insect synaptic neuropil block
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6041000
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+insectSynapticNeuropilDomain
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/insectSynapticNeuropilDomain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster. Is part of the insect synaptic neuropil. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6040007) ('is_a' and 'relationship')]
+   :description: Region of synaptic neuropil whose boundaries are largely discontinuities in the density of presynaptic terminals: high density in the synaptic neuropil domain, lower or zero density outside this region. These boundaries often correspond to a boundary with glial sheath, tract neuropil or cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_6040007)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:6040007#synaptic-neuropil-domain
+   :name: insect synaptic neuropil domain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_6040007
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16425,8 +16893,8 @@ mushroomBody
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/mushroomBody
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Mushroom body' is a material entity and anatomical entity. It is part of the brain.
-   :description: Prominent lobed neuropils found in annelids and all arthropods except crustaceans. They are thought to be involved in olfactory associative learning and memory[MESH] Mushroom body neuropils are divided into calyces, pedunculus, and its subsequent lobes. In Drosophila these are the alpha, beta, and gamma lobes.
+   :definition: Is a material entity and anatomical entity. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001058) ('is_a' and 'relationship')]
+   :description: Prominent lobed neuropils found in annelids and all arthropods except crustaceans. They are thought to be involved in olfactory associative learning and memory Mushroom body neuropils are divided into calyces, pedunculus, and its subsequent lobes. In Drosophila these are the alpha, beta, and gamma lobes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001058)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724282
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001058#mushroom-body
    :name: mushroom body
