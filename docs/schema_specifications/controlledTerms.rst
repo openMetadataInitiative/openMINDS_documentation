@@ -20,11 +20,13 @@ ControlledTerms
 - `CellType <controlledTerms/cellType.html>`_
 - `ChemicalMixtureType <controlledTerms/chemicalMixtureType.html>`_
 - `Colormap <controlledTerms/colormap.html>`_
+- `CommunicationProtocol <controlledTerms/communicationProtocol.html>`_
 - `ContributionType <controlledTerms/contributionType.html>`_
 - `CranialWindowConstructionType <controlledTerms/cranialWindowConstructionType.html>`_
 - `CranialWindowReinforcementType <controlledTerms/cranialWindowReinforcementType.html>`_
 - `CriteriaQualityType <controlledTerms/criteriaQualityType.html>`_
 - `DataType <controlledTerms/dataType.html>`_
+- `DeploymentEnvironmentType <controlledTerms/deploymentEnvironmentType.html>`_
 - `DeviceType <controlledTerms/deviceType.html>`_
 - `DifferenceMeasure <controlledTerms/differenceMeasure.html>`_
 - `Disease <controlledTerms/disease.html>`_
@@ -104,11 +106,13 @@ ControlledTerms
    controlledTerms/cellType
    controlledTerms/chemicalMixtureType
    controlledTerms/colormap
+   controlledTerms/communicationProtocol
    controlledTerms/contributionType
    controlledTerms/cranialWindowConstructionType
    controlledTerms/cranialWindowReinforcementType
    controlledTerms/criteriaQualityType
    controlledTerms/dataType
+   controlledTerms/deploymentEnvironmentType
    controlledTerms/deviceType
    controlledTerms/differenceMeasure
    controlledTerms/disease
