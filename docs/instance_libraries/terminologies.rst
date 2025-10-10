@@ -25,6 +25,7 @@ Terminologies
 - `CranialWindowReinforcementType <terminologies/cranialWindowReinforcementType.html>`_
 - `CriteriaQualityType <terminologies/criteriaQualityType.html>`_
 - `DataType <terminologies/dataType.html>`_
+- `DeploymentEnvironmentType <terminologies/deploymentEnvironmentType.html>`_
 - `DeviceType <terminologies/deviceType.html>`_
 - `DifferenceMeasure <terminologies/differenceMeasure.html>`_
 - `Disease <terminologies/disease.html>`_
@@ -108,6 +109,7 @@ Terminologies
    terminologies/cranialWindowReinforcementType
    terminologies/criteriaQualityType
    terminologies/dataType
+   terminologies/deploymentEnvironmentType
    terminologies/deviceType
    terminologies/differenceMeasure
    terminologies/disease
