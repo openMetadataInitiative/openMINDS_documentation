@@ -19,6 +19,7 @@ Terminologies
 - `CellType <terminologies/cellType.html>`_
 - `ChemicalMixtureType <terminologies/chemicalMixtureType.html>`_
 - `Colormap <terminologies/colormap.html>`_
+- `CommunicationProtocol <terminologies/communicationProtocol.html>`_
 - `ContributionType <terminologies/contributionType.html>`_
 - `CranialWindowConstructionType <terminologies/cranialWindowConstructionType.html>`_
 - `CranialWindowReinforcementType <terminologies/cranialWindowReinforcementType.html>`_
@@ -101,6 +102,7 @@ Terminologies
    terminologies/cellType
    terminologies/chemicalMixtureType
    terminologies/colormap
+   terminologies/communicationProtocol
    terminologies/contributionType
    terminologies/cranialWindowConstructionType
    terminologies/cranialWindowReinforcementType

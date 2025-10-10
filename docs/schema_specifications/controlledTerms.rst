@@ -20,6 +20,7 @@ ControlledTerms
 - `CellType <controlledTerms/cellType.html>`_
 - `ChemicalMixtureType <controlledTerms/chemicalMixtureType.html>`_
 - `Colormap <controlledTerms/colormap.html>`_
+- `CommunicationInterfaceType <controlledTerms/communicationInterfaceType.html>`_
 - `CommunicationProtocol <controlledTerms/communicationProtocol.html>`_
 - `ContributionType <controlledTerms/contributionType.html>`_
 - `CranialWindowConstructionType <controlledTerms/cranialWindowConstructionType.html>`_
@@ -70,11 +71,13 @@ ControlledTerms
 - `SetupType <controlledTerms/setupType.html>`_
 - `SoftwareApplicationCategory <controlledTerms/softwareApplicationCategory.html>`_
 - `SoftwareFeature <controlledTerms/softwareFeature.html>`_
+- `SovereignState <controlledTerms/sovereignState.html>`_
 - `Species <controlledTerms/species.html>`_
 - `StimulationApproach <controlledTerms/stimulationApproach.html>`_
 - `StimulationTechnique <controlledTerms/stimulationTechnique.html>`_
 - `SubcellularEntity <controlledTerms/subcellularEntity.html>`_
 - `SubjectAttribute <controlledTerms/subjectAttribute.html>`_
+- `SupranationalBody <controlledTerms/supranationalBody.html>`_
 - `TactileStimulusType <controlledTerms/tactileStimulusType.html>`_
 - `Technique <controlledTerms/technique.html>`_
 - `Terminology <controlledTerms/terminology.html>`_
@@ -106,6 +109,7 @@ ControlledTerms
    controlledTerms/cellType
    controlledTerms/chemicalMixtureType
    controlledTerms/colormap
+   controlledTerms/communicationInterfaceType
    controlledTerms/communicationProtocol
    controlledTerms/contributionType
    controlledTerms/cranialWindowConstructionType
@@ -156,11 +160,13 @@ ControlledTerms
    controlledTerms/setupType
    controlledTerms/softwareApplicationCategory
    controlledTerms/softwareFeature
+   controlledTerms/sovereignState
    controlledTerms/species
    controlledTerms/stimulationApproach
    controlledTerms/stimulationTechnique
    controlledTerms/subcellularEntity
    controlledTerms/subjectAttribute
+   controlledTerms/supranationalBody
    controlledTerms/tactileStimulusType
    controlledTerms/technique
    controlledTerms/terminology

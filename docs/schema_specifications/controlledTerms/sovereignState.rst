@@ -1,13 +1,11 @@
-#####################
-CommunicationProtocol
-#####################
+##############
+SovereignState
+##############
 
-:Semantic name: https://openminds.om-i.org/types/CommunicationProtocol
+:Semantic name: https://openminds.om-i.org/types/SovereignState
 
-:Display as: Communication protocol
+:Display as: Sovereign state
 
-
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/latest/instance_libraries/terminologies/communicationProtocol.html>`_.
 
 ------------
 
@@ -36,7 +34,7 @@ Short, but precise statement of the meaning of a word, word group, sign or a sym
                 | formatting: text/markdown; multiline
    :instructions: Enter one sentence for defining this term.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -55,7 +53,7 @@ Longer statement or account giving the characteristics of someone or something.
                 | formatting: text/markdown; multiline
    :instructions: Enter a short text describing this term.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -74,7 +72,7 @@ Persistent identifier for a term registered in the InterLex project.
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -93,7 +91,7 @@ Persistent link to an encyclopedia entry in the Knowledge Space project.
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -112,7 +110,7 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
                 | formatting: text/plain; singleline
    :instructions: Controlled term originating from a defined terminology.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -131,7 +129,7 @@ Persistent identifier of a preferred ontological term.
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
@@ -150,7 +148,7 @@ Words or expressions used in the same language that have the same or nearly the 
                 | formatting: text/plain; singleline
    :instructions: Enter one or several synonyms (including abbreviations) for this controlled term.
 
-`BACK TO TOP <CommunicationProtocol_>`_
+`BACK TO TOP <SovereignState_>`_
 
 ------------
 
