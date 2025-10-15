@@ -3157,6 +3157,24 @@ banksOfSuperiorTemporalSulcus
 
 ------------
 
+barbelTasteBud
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/barbelTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034718)]
+   :description: A taste bud that is located on a barbel. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034718)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034718#barbel-taste-bud
+   :name: barbel taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034718
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 baroreceptor
 ------------
 
@@ -9856,6 +9874,24 @@ epithalamusVentricularLayer
 
 ------------
 
+esophagealTasteBud
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/esophagealTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034724)]
+   :description: A taste bud that is located in the esophagus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034724)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034724#esophageal-taste-bud
+   :name: esophageal taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034724
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 externalCapsuleOfTelencephalon
 ------------------------------
 
@@ -10232,6 +10268,24 @@ fifthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002848#fifth-thoracic-dorsal-root-ganglion-1
    :name: fifth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002848
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+finTasteBud
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/finTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]
+   :description: A taste bud that is located on a fin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034723)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034723#fin-taste-bud
+   :name: fin taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034723
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12090,6 +12144,24 @@ headSensillum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000963#head-sensillum
    :name: head sensillum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000963
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+headTasteBud
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/headTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]
+   :description: A taste bud that is located on the skin of the head. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034720)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034720#head-taste-bud
+   :name: head taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034720
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14116,6 +14188,24 @@ insularCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034891#insular-cortex
    :name: insular cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034891
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+integumentalTasteBud
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/integumentalTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034717)]
+   :description: A taste bud that is located external to the digestive tube, on the head or body, as found in species such as goldfish. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034717)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034717#integumental-taste-bud
+   :name: integumental taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034717
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16480,6 +16570,24 @@ lingualNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003721#lingual-nerve
    :name: lingual nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003721
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lipTasteBud
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lipTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034719)]
+   :description: A taste bud that is located on a lip. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034719)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034719#lip-taste-bud
+   :name: lip taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034719
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19166,6 +19274,24 @@ motorSystem
 
 ------------
 
+mouthRoofTasteBud
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mouthRoofTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034722)]
+   :description: A taste bud that is located on the roof of the mouth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034722)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034722#mouth-roof-taste-bud
+   :name: mouth roof taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034722
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 musculocutaneousNerve
 ---------------------
 
@@ -21021,6 +21147,24 @@ pairedVenousDuralSinus
 
 ------------
 
+palatalTasteBud
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/palatalTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a mouth roof taste bud. Is part of the gustatory epithelium of palate. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034670) ('is_a' and 'relationship')]
+   :description: A taste bud that is located on the soft palate, in the roof of the mouth. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034670)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034670#palatal-taste-bud
+   :name: palatal taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034670
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 paleocortex
 -----------
 
@@ -22577,6 +22721,24 @@ periventricularWhiteMatter
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014932#periventricular-white-matter
    :name: periventricular white matter
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014932
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+pharyngealTasteBud
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/pharyngealTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034721)]
+   :description: A taste bud that is located in the pharynx. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034721)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034721#pharyngeal-taste-bud
+   :name: pharyngeal taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034721
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30859,6 +31021,24 @@ thoracicGanglion
 
 ------------
 
+tongueTasteBud
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/tongueTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014451)]
+   :description: A taste bud that is located on the tongue, situated on a gustatory papilla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014451)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014451#tongue-taste-bud
+   :name: tongue taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014451
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 tractOfBrain
 ------------
 
@@ -31181,6 +31361,24 @@ trunkGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007134#trunk-ganglion
    :name: trunk ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007134
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+trunkTasteBud
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/trunkTasteBud
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an integumental taste bud. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034726)]
+   :description: A taste bud that is located on the skin of the trunk. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034726)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034726#trunk-taste-bud
+   :name: trunk taste bud
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034726
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
