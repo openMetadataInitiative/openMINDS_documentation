@@ -899,8 +899,8 @@ accessoryMedullaryLaminaOfGlobusPallidus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Accessory medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the medial globus pallidus.
-   :description: Thin bundle of myelinated axons that divides the medial pallidal segment into outer and inner portions (Carpenter, Core Text of Neuroanatomy, 3rd ed., 1985, pg. 303).
+   :definition: Is a white matter lamina of cerebral hemisphere. Is part of the medial globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002763) ('is_a' and 'relationship')]
+   :description: Thin bundle of myelinated axons that divides the medial pallidal segment into outer and inner portions (Carpenter, Core Text of Neuroanatomy, 3rd ed., 1985, pg. 303). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002763)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100214
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002763#accessory-medullary-lamina
    :name: accessory medullary lamina of globus pallidus
@@ -1182,8 +1182,8 @@ adenohypophysis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Adenohypophysis' is part of the pituitary gland.
-   :description: The adenohypophysis, which consists of the anterior and intermediate lobes of the pituitary gland, contains several types of endocrine cells, which secrete systemic hormones such as adenocorticotropic hormone (ACTH), GH, LH/FSH, TSH and prolactin in response to hypothalamus-derived releasing hormones (PMID:     22080957).
+   :definition: Is part of the pituitary gland. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]
+   :description: The glandular, anterior lobe of the pituitary gland. The anterior pituitary regulates several physiological processes including stress, growth, and reproduction. The anterior lobe of the hypophysis (pituitary gland). This lobe contains cells that produce prolactin, growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone and proopiomelanocortin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002196)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100315
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002196#adenohypophysis-1
    :name: adenohypophysis
@@ -1244,6 +1244,23 @@ alarCentralLobule
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003013#alar-central-lobule-1
    :name: alar central lobule
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003013
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+alarPlateMidbrain
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/alarPlateMidbrain
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the midbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001357)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001357#alar-plate-midbrain
+   :name: alar plate midbrain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001357
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1323,6 +1340,41 @@ amiculumOfDentateNucleus
 
 ------------
 
+amiculumOfInferiorOlive
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amiculumOfInferiorOlive
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of myelencephalon and amiculum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035938)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035938#amiculum-of-inferior-olive
+   :name: amiculum of inferior olive
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035938
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ampullaCaudalis
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ampullaCaudalis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360) ('is_a' and 'relationship')]
+   :description: A ventricle-like space at the end of the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011360)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011360#ampulla-caudalis
+   :name: ampulla caudalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011360
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ampullaryNerve
 --------------
 
@@ -1349,8 +1401,8 @@ amygdala
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.
-   :description: Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species.  It is usually subdivided into several groups.  Functionally, it is not considered a unitary structure (MM).
+   :definition: Is a basal ganglion and cerebral hemisphere gray matter. Is part of the limbic system and the temporal lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001876) ('is_a' and 'relationship')]
+   :description: Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species. It is usually subdivided into several groups. Functionally, it is not considered a unitary structure (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001876)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100573
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001876#amygdala-1
    :name: amygdala
@@ -1519,6 +1571,24 @@ annectantGyrus
 
 ------------
 
+ansaCervicalis
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaCervicalis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nerve. Is part of the cervical nerve plexus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005430) ('is_a' and 'relationship')]
+   :description: A loop of nerves that are part of the cervical plexus that lies superficial to the internal jugular vein in the carotid sheath. Branches from the ansa cervicalis innervate three of the four infrahyoid muscles, including the sternohyoid muscle, the sternothyroid muscle, and the omohyoid muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005430)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005430#ansa-cervicalis
+   :name: ansa cervicalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005430
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ansaLenticularis
 ----------------
 
@@ -1527,12 +1597,29 @@ ansaLenticularis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaLenticularis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Ansa lenticularis' is a diencephalic white matter. It is part of the ventral thalamus.
-   :description: White matter bundle containing part of the projection of the globus pallidus to the thalamus, forming a compact, conspicuous bundle running beneath the internal capsule and hooking around its medial edge (Nolte, The Human Brain, 6th ed., 2009, pg 659)
+   :definition: Is a diencephalic white matter. Is part of the ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009641) ('is_a' and 'relationship')]
+   :description: The ansa lenticularis (ansa lentiformis in older texts) is a part of the brain, making up the superior layer of the substantia innominata of Meynert. Its fibers, derived from the medullary lamina of the lentiform nucleus, pass medially to end in the thalamus and subthalamic region, while others are said to end in the tegmentum and red nucleus. It is classified by NeuroNames as part of the subthalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009641)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100654
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009641#ansa-lenticularis-1
    :name: ansa lenticularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009641
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ansaPeduncularis
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ansaPeduncularis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the ventral thalamus and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034896) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034896#ansa-peduncularis
+   :name: ansa peduncularis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034896
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1725,8 +1812,7 @@ anteriorColumnOfFornix
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.
-   :description:
+   :definition: Is a cerebral hemisphere white matter. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002940) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100691
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002940#anterior-column-of-fornix-1
    :name: anterior column of fornix
@@ -1769,6 +1855,23 @@ anteriorCommissureAnteriorPart
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003039#anterior-commissure-anterior-part-1
    :name: anterior commissure anterior part
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003039
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+anteriorCoronaRadiata
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCoronaRadiata
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the corona radiata of neuraxis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022425) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022425#anterior-corona-radiata
+   :name: anterior corona radiata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022425
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -1835,8 +1938,7 @@ anteriorHypothalamicRegion
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHypothalamicRegion
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
-   :description:
+   :definition: Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002550) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100710
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002550#anterior-hypothalamic-region-1
    :name: anterior hypothalamic region
@@ -1890,8 +1992,8 @@ anteriorLimbOfInternalCapsule
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorLimbOfInternalCapsule
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior limb of internal capsule' is a limb of internal capsule of telencephalon.
-   :description: Portion of internal capsule lying between the lenticular nucleus and the head of the caudate nucleus.
+   :definition: Is a limb of internal capsule of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014526)]
+   :description: Portion of internal capsule lying between the lenticular nucleus and the head of the caudate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014526)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100712
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014526#anterior-limb-of-internal-capsule-1
    :name: anterior limb of internal capsule
@@ -1920,6 +2022,24 @@ anteriorLobeOfCerebellum
 
 ------------
 
+anteriorMacula
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMacula
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the otolith organ. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000168)]
+   :description: Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own characteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000168)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000168#anterior-macula
+   :name: anterior macula
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000168
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 anteriorMedianEminence
 ----------------------
 
@@ -1928,8 +2048,7 @@ anteriorMedianEminence
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorMedianEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior median eminence' is a regional part of brain. It is part of the median eminence of neurohypophysis.
-   :description:
+   :definition: Is a regional part of brain. Is part of the median eminence of neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002648) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100714
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002648#anterior-median-eminence-1
    :name: anterior median eminence
@@ -2019,8 +2138,8 @@ anteriorNuclearGroup
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior nuclear group' is a nucleus of dorsal thalamus.
-   :description: Mostly gray regional part of anterior thalamic region, consisting of the anterior medial, anterior dorsal and anterior lateral thalamic nuclei in primates.  In rodents, it consists of anterior medial and anterior ventral divisions, with several subdivisions of each, according to Paxinos (MM: 2006-10-26)
+   :definition: Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002788)]
+   :description: Mostly gray regional part of anterior thalamic region, consisting of the anterior medial, anterior dorsal and anterior lateral thalamic nuclei in primates. In rodents, it consists of anterior medial and anterior ventral divisions, with several subdivisions of each, according to Paxinos (MM: 2006-10-26) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002788)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100718
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002788#anterior-nuclear-group-1
    :name: anterior nuclear group
@@ -2237,8 +2356,8 @@ anteriorPerforatedSubstance
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Anterior perforated substance' is a regional part of brain. It is part of the telencephalon.
-   :description: Regional part of telencephalon lying on the basal surface and bounded by the olfactory trigone rostrally, the diagonal band medially and caudally and the prepiriform cortex laterally.  It is characterized by many perforations caused by small blood vessels entering the gray matter (Meyer et al., J. Comp. Neurol 284: 405, 1989).
+   :definition: Is a regional part of brain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018141) ('is_a' and 'relationship')]
+   :description: Regional part of telencephalon lying on the basal surface and bounded by the olfactory trigone rostrally, the diagonal band medially and caudally and the prepiriform cortex laterally. It is characterized by many perforations caused by small blood vessels entering the gray matter (Meyer et al., J. Comp. Neurol 284: 405, 1989). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018141)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100738
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018141#anterior-perforated-substance-1
    :name: anterior perforated substance
@@ -2389,6 +2508,23 @@ anteriorTemporalFusiformGyrus
 
 ------------
 
+anteriorThalamicPeduncle
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicPeduncle
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of telencephalon and peduncle of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022237)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022237#anterior-thalamic-peduncle
+   :name: anterior thalamic peduncle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022237
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 anteriorThalamicRadiation
 -------------------------
 
@@ -2397,8 +2533,7 @@ anteriorThalamicRadiation
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The 'anterior thalamic radiation' is a white matter fibre bundle. It is part of the thalamic complex.
-   :description:
+   :definition: Is a radiation of cerebral hemisphere and radiation of thalamus. Is part of the anterior limb of internal capsule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034746) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728673
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034746#anterior-thalamic-radiation
    :name: anterior thalamic radiation
@@ -2663,6 +2798,23 @@ anteroventralPreopticNucleus
 
 ------------
 
+aorticPlexus
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/aorticPlexus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an autonomic nerve plexus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035772)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035772#aortic-plexus
+   :name: aortic plexus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035772
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 arachnoidBarrierLayer
 ---------------------
 
@@ -2699,6 +2851,60 @@ arachnoidMater
 
 ------------
 
+arachnoidTrabecula
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidTrabecula
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000439)]
+   :description: The arachnoid trabeculae are delicate strands of connective tissue that loosely connect the two innermost layers of the meninges -- the arachnoid mater and the pia mater. They are found within the subarachnoid space where cerebrospinal fluid is also found. Embryologically, the trabeculae are the remnants of the common precursor that forms both the arachnoid and pial layers of the meninges. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000439)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000439#arachnoid-trabecula
+   :name: arachnoid trabecula
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000439
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+arachnoidVillus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arachnoidVillus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the arachnoid mater. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013153)]
+   :description: Small protrusions of the arachnoid mater into vascular sinuses, acting as one-way pressure-sensitive valves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013153)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013153#arachnoid-villus
+   :name: arachnoid villus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013153
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+arborVitae
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arborVitae
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of cerebellum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027333)]
+   :description: The white matter contained within the cerebellum, lying deep to the granule cell layer in the cerebellar cortex, excluding the parts of the cerebellar peduncles that extend outside of the cerebellum. The deep cerebellar nuclei are embedded within the arbor vitae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027333)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027333#arbor-vitae
+   :name: arbor vitae
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027333
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 archicortex
 -----------
 
@@ -2724,8 +2930,8 @@ arcopallium
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcopallium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Arcopallium' is a regional part of brain. It is part of the pallium.
-   :description: A pallial region found in avias that partially overlap regions homologous to the amygdala of mammals.
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007350) ('is_a' and 'relationship')]
+   :description: A pallial region found in avias that partially overlap regions homologous to the amygdala of mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007350)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0100877
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007350#arcopallium
    :name: arcopallium
@@ -2743,8 +2949,8 @@ arcuateFasciculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition:
-   :description: The 'arcuate fasciculus' is a white matter fibre bundle connecting the posterior part of the temporoparietal junction with the frontal cortex in the brain. It is is a cerebral nerve fasciculus.
+   :definition: Is a cerebral nerve fasciculus. Is part of the superior longitudinal fasciculus and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035937) ('is_a' and 'relationship')]
+   :description: The arcuate fasciculus (Latin, curved bundle) is the neural pathway connecting the posterior part of the temporoparietal junction with the frontal cortex in the brain and is now considered as part of the Superior longitudinal fasciculus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035937)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731407
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035937#arcuate-fasciculus
    :name: arcuate fasciculus
@@ -2976,6 +3182,23 @@ associationCortex
 
 ------------
 
+asteriscus
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/asteriscus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an otolith. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000315)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000315#asteriscus
+   :name: asteriscus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000315
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 auditoryCortex
 --------------
 
@@ -2990,6 +3213,24 @@ auditoryCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex
    :name: auditory cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001393
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+auditoryRadiation
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/auditoryRadiation
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a radiation of cerebral hemisphere. Is part of the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022262) ('is_a' and 'relationship')]
+   :description: The acoustic radiations or auditory radiations are structures found in the brain, in the ventral cochlear pathway, a part of the auditory system. Lesions to the auditory radiations could be a cause of cortical deafness. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022262)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022262#auditory-radiation
+   :name: auditory radiation
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022262
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3231,6 +3472,24 @@ basalAmygdaloidNucleus
 
 ------------
 
+basalCistern
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalCistern
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a subarachnoid cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004047)]
+   :description: The enclosed space where the arachnoid membrane stretches between the two temporal lobes and encloses the cerebral peduncles including the structures contained in the interpeduncular fossa. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004047)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004047#basal-cistern
+   :name: basal cistern
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004047
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 basalForebrain
 --------------
 
@@ -3239,8 +3498,8 @@ basalForebrain
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalForebrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Basal forebrain' is a regional part of brain. It is part of the forebrain.
-   :description: A region of the brain consisting of ventral and rostral subcortical regions of the telencephalon, including among others, the basal ganglia, septal nuclei, amygdala, ventral pallidum, substantia innominata, and basal nucleus of Meynert.
+   :definition: Is a regional part of brain. Is part of the forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002743) ('is_a' and 'relationship')]
+   :description: A region of the brain consisting of ventral and rostral subcortical regions of the telencephalon, including among others, the basal ganglia, septal nuclei, amygdala, ventral pallidum, substantia innominata, and basal nucleus of Meynert. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002743)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101101
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002743#basal-forebrain-1
    :name: basal forebrain
@@ -3277,8 +3536,8 @@ basalNuclearComplex
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Basal nuclear complex' is a nuclear complex of neuraxis and gray matter of forebrain. It is part of the basal forebrain.
-   :description: The deep nuclei of telencephalic origin found in the basal region of the forebrain, The deep nuclei found in the basal forebrain.Large subcortical nuclear masses derived from the telencephalon and located in the basal regions of the cerebral hemispheres. (MeSH definition of Basal Ganglia in UMLS).
+   :definition: Is a nuclear complex of neuraxis and gray matter of forebrain. Is part of the basal forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098) ('is_a' and 'relationship')]
+   :description: The deep nuclei of telencephalic origin found in the basal region of the forebrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006098)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101108
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006098#basal-nuclear-complex-1
    :name: basal nuclear complex
@@ -3315,12 +3574,29 @@ basalPartOfPons
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Basal part of pons' is a regional part of brain. It is part of the pons.
-   :description: Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface.
+   :definition: Is a regional part of brain. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002567) ('is_a' and 'relationship')]
+   :description: Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002567)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101110
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1
    :name: basal part of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002567
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+basalPlateMedullaOblongata
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basalPlateMedullaOblongata
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neural tube basal plate. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005240)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005240#basal-plate-medulla-oblongata
+   :name: basal plate medulla oblongata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005240
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3361,6 +3637,24 @@ basalVein
 
 ------------
 
+basisPontis
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basisPontis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024110) ('is_a' and 'relationship')]
+   :description: The basis pontis is the anterior portion of the pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024110)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024110#basis-pontis
+   :name: basis pontis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024110
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 basolateralAmygdaloidNuclearComplex
 -----------------------------------
 
@@ -3369,8 +3663,8 @@ basolateralAmygdaloidNuclearComplex
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Basolateral amygdaloid nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.
-   :description: A set of amygdalar nuclei comprising the lateral nucleus (LA), the basal nucleus (BA), and the accessory basal nuclei (ABN). These nuclei are bordered laterally by the external capsule and medially by the central amygdalar nucleus as well as the amygdalohippocampal area. This definition refers to the rat Basolateral nuclear complex.
+   :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the amygdala. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006107) ('is_a' and 'relationship')]
+   :description: A set of amygdalar nuclei comprising the lateral nucleus (LA), the basal nucleus (BA), and the accessory basal nuclei (ABN). These nuclei are bordered laterally by the external capsule and medially by the central amygdalar nucleus as well as the amygdalohippocampal area. This definition refers to the rat Basolateral nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006107)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101128
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006107#basolateral-nuclear-complex
    :name: basolateral amygdaloid nuclear complex
@@ -3481,8 +3775,8 @@ bodyOfCorpusCallosum
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.
-   :description:
+   :definition: Is a cerebral hemisphere white matter. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015510) ('is_a' and 'relationship')]
+   :description: An area within the corpus callosum, a white matter structure within the cleft that separates the left and right cerebral hemispheres in the mammalian brain, between the genu (anterior region) and the splenium (posterior region). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015510)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728551
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015510#body-of-corpus-callosum
    :name: body of corpus callosum
@@ -3500,8 +3794,8 @@ bodyOfFornix
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Body of fornix' is a central nervous system cell part cluster. It is part of the fornix of brain.
-   :description: Part of fornix adjacent to the crura where they join together at the midline underneath the corpus callosum
+   :definition: Is a central nervous system cell part cluster. Is part of the fornix of brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004680) ('is_a' and 'relationship')]
+   :description: Part of fornix adjacent to the crura where they join together at the midline underneath the corpus callosum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004680)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101373
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004680#body-of-fornix-1
    :name: body of fornix
@@ -3556,8 +3850,8 @@ brachiumOfInferiorColliculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brachium of inferior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the inferior colliculus and white matter.
-   :description: The Brachium of inferior colliculus (or inferior brachium) carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus. [WP,unvetted].
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the inferior colliculus and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003025) ('is_a' and 'relationship')]
+   :description: The Brachium of inferior colliculus (or inferior brachium) carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003025)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101409
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003025#brachium-of-inferior-colliculus-1
    :name: brachium of inferior colliculus
@@ -3575,12 +3869,30 @@ brachiumOfSuperiorColliculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brachiumOfSuperiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brachium of superior colliculus' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of superior colliculus.
-   :description: Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus.  Contains afferents from the retina.
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of superior colliculus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580) ('is_a' and 'relationship')]
+   :description: Bundle of fibers that passes over the medial geniculate nucleus (in humans) to reach the superior colliculus. Contains afferents from the retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002580)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101410
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002580#brachium-of-superior-colliculus-1
    :name: brachium of superior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002580
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+brain
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brain
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]
+   :description: The brain is the center of the nervous system in all vertebrate, and most invertebrate, animals. Some primitive animals such as jellyfish and starfish have a decentralized nervous system without a brain, while sponges lack any nervous system at all. In vertebrates, the brain is located in the head, protected by the skull and close to the primary sensory apparatus of vision, hearing, balance, taste, and smell. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000955)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000955#brain-1
+   :name: brain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000955
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3684,8 +3996,8 @@ brainEndothelium
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain endothelium' is part of the brain.
-   :description: Vascular endothelium found in blood vessels of the blood-brain-barrier.
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013694)]
+   :description: Vascular endothelium found in blood vessels of the blood-brain-barrier. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013694)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0733041
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013694#brain-endothelium
    :name: brain endothelium
@@ -3703,8 +4015,8 @@ brainEpendyma
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainEpendyma
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain ependyma' is an ependyma. It is part of the brain ventricle.
-   :description: The ependymal cell layer that lines the brain ventricles.
+   :definition: Is an ependyma. Is part of the brain ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005357) ('is_a' and 'relationship')]
+   :description: The ependymal cell layer that lines the brain ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005357)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730349
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005357#brain-ependyma
    :name: brain ependyma
@@ -3722,7 +4034,8 @@ brainGrayMatter
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainGrayMatter
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain gray matter' is a gray matter. It is part of the brain.
+   :definition: Is a gray matter. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003528) ('is_a' and 'relationship')]
+   :description: A gray matter that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003528)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725337
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003528#brain-gray-matter
    :name: brain gray matter
@@ -3740,8 +4053,8 @@ brainMarginalZone
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMarginalZone
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain marginal zone' is an anatomical entity. It is part of the brain.
-   :description: The part of the future brain that is derived from the mantle layer of the neural tube.
+   :definition: Is an anatomical entity. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010403) ('is_a' and 'relationship')]
+   :description: The part of the future brain that is derived from the mantle layer of the neural tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010403)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0734549
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010403#brain-marginal-zone
    :name: brain marginal zone
@@ -3759,7 +4072,8 @@ brainMeninx
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainMeninx
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brain meninx' is a meninx. It is part of the brain.
+   :definition: Is a meninx. Is part of the brain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003547) ('is_a' and 'relationship')]
+   :description: A meninx that is part of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003547)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0726394
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003547#brain-meninx
    :name: brain meninx
@@ -3852,8 +4166,8 @@ brainstem
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/brainstem
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Brainstem' is a regional part of brain.
-   :description: The lower portion of the brain through which the forebrain sends information to, and receives information from, the spinal cord and peripheral nerves. Major functions located in the brainstem include those necessary for survival, e.g., breathing, heart rate, blood pressure, and arousal. (NIDA Media Guide Glossary).  Note that the definition of brainstem varies in different nomenclatures, for example, some definitions include the diencephalon.
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002298)]
+   :description: Stalk-like part of the brain that includes amongst its parts the medulla oblongata of the hindbrain and the tegmentum of the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002298)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101444
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002298#brainstem-1
    :name: brainstem
@@ -3912,6 +4226,24 @@ buccalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013646#buccal-nerve
    :name: buccal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013646
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+bulboidCorpuscle
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/bulboidCorpuscle
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a sensory receptor. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035968)]
+   :description: A receptor in the transitional zone between mucous membrane and skin. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035968)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035968#bulboid-corpuscle
+   :name: bulboid corpuscle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035968
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -3996,7 +4328,7 @@ calcifiedStructureOfBrain
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/calcifiedStructureOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Calcified structure of brain' is part of the brain.
+   :definition: Is part of the brain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0017631)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731107
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017631#calcified-structure-of-brain
    :name: calcified structure of brain
@@ -4024,6 +4356,24 @@ callosalSulcus
 
 ------------
 
+canalOfSchlemm
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/canalOfSchlemm
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]
+   :description: The vascular structure encircling the anterior chamber of the eye, through which the aqueous humor is returned to the blood circulation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004029)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004029#canal-of-schlemm
+   :name: canal of Schlemm
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004029
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 capsuleOfMedialGeniculateBody
 -----------------------------
 
@@ -4032,8 +4382,7 @@ capsuleOfMedialGeniculateBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/capsuleOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Capsule of medial geniculate body' is a diencephalic white matter. It is part of the medial geniculate body.
-   :description:
+   :definition: Is a diencephalic white matter. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002627) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101644
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002627#capsule-of-medial-geniculate-body-1
    :name: capsule of medial geniculate body
