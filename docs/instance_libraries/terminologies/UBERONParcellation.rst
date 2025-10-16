@@ -14384,8 +14384,8 @@ hypothalamus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/hypothalamus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Hypothalamus' is a regional part of brain. It is part of the limbic system and thalamic complex.
-   :description: Ventral part of the diencephalon extending from the region of the optic chiasm to the caudal border of the mammillary bodies and forming the inferior and lateral walls of the third ventricle.The ventral topographic division of the interbrain. The first adequate description of the hypothalamus as a layer of gray matter surrounding the lower half of the third ventricle (Galen, c173) was provided by Wharton (1656, see 1966 translation, p. 170). His (1893, pp. 159-162) introduced the term but assigned the preoptic region (Swanson, 1976, pp. 229-235) of the hypothalamus to the telencephalon (His, 1893b). The definition here was introduced for vertebrates by Kuhlenbeck (1927, p. 67, Ch. 9).
+   :definition: Is a regional part of brain. Is part of the limbic system and the thalamic complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001898) ('is_a' and 'relationship')]
+   :description: A specialized brain region of the ventral diencephalon arising near the end of the segmentation period; the embryonic hypothalamic region will give rise to the posterior pituitary gland as well as a number of brain nuclei. One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland (hypophysis). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001898)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105177
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001898#hypothalamus-1
    :name: hypothalamus
@@ -14403,8 +14403,8 @@ induseumGriseum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/induseumGriseum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Induseum griseum' is a white matter of limbic lobe and stria of telencephalon. It is part of the hippocampal formation and supracallosal gyrus.
-   :description: Thin layer of cortex lying on the dorsal surface of the corpus callosum.  It has been debated whether it is more related to the hippocampus or the olfactory bulb (Shipley et al., Olfactory System In Paxinos The Rat Nervous System, 2nd ed)
+   :definition: Is a white matter of limbic lobe and stria of telencephalon. Is part of the hippocampal formation and the supracallosal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015793) ('is_a' and 'relationship')]
+   :description: Thin layer of cortex lying on the dorsal surface of the corpus callosum. It has been debated whether it is more related to the hippocampus or the olfactory bulb (Shipley et al., Olfactory System In Paxinos The Rat Nervous System, 2nd ed) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015793)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105421
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015793#induseum-griseum
    :name: induseum griseum
@@ -14548,8 +14548,8 @@ inferiorColliculus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorColliculus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Inferior colliculus' is a regional part of brain. It is part of the corpora quadrigemina.
-   :description: Part of the midbrain tectum, consisting of paired predominantly gray matter elevations on the dorsal aspect of the midbrain, located caudal to the superior colliculus, dorsal to the periaqueductal gray of the cerebral aqueduct and rostral to the cerebellum.  According to Neuronames, the inferior colliculus comprises the central, pericentral and external nucleus and two predominantly white matter structures, the brachium of the inferior colliculus and the commissure of the inferior colliculus (MM).
+   :definition: Is a regional part of brain. Is part of the corpora quadrigemina. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001946) ('is_a' and 'relationship')]
+   :description: Part of the midbrain tectum, consisting of paired predominantly gray matter elevations on the dorsal aspect of the midbrain, located caudal to the superior colliculus, dorsal to the periaqueductal gray of the cerebral aqueduct and rostral to the cerebellum. According to Neuronames, the inferior colliculus comprises the central, pericentral and external nucleus and two predominantly white matter structures, the brachium of the inferior colliculus and the commissure of the inferior colliculus (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001946)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105436
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001946#inferior-colliculus-1
    :name: inferior colliculus
@@ -14693,8 +14693,7 @@ inferiorLongitudinalFasciculus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorLongitudinalFasciculus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition:
-   :description: The 'inferior longitudinal fasciculus' is a white matter fibre bundle. It is a cerebral nerve fasciculus, connecting the temporal and occipital lobe.
+   :definition: Is a cerebral nerve fasciculus. Is part of the white matter of telencephalon and the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034743) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724061
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034743#inferior-longitudinal-fasciculus
    :name: inferior longitudinal fasciculus
@@ -14783,8 +14782,7 @@ inferiorOccipitofrontalFasciculus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition:
-   :description: The 'inferior occipitofrontal fasciculus' is a white matter fibre bundle. It is the inferior part of the occipitofrontal fasciculus.
+   :definition: Is an occipitofrontal fasciculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034753)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731728
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034753#inferior-occipitofrontal-fasciculus
    :name: inferior occipitofrontal fasciculus
@@ -14819,8 +14817,8 @@ inferiorOlivaryComplex
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorOlivaryComplex
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Inferior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the olivary body.
-   :description: Largest nucleus situated in the olivary body, part of the medulla oblongata. It is closely associated with the cerebellum, but its specific function is voluntary body movements.
+   :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the olivary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002127) ('is_a' and 'relationship')]
+   :description: Largest nucleus situated in the olivary body, part of the medulla oblongata. It is closely associated with the cerebellum, but its specific function is voluntary body movements. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002127)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105448
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002127#inferior-olivary-complex-1
    :name: inferior olivary complex
@@ -14901,6 +14899,24 @@ inferiorPartOfVestibularGanglion
 
 ------------
 
+inferiorPetrosalSinus
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorPetrosalSinus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007160)]
+   :description: The inferior petrosal sinus, within the human head, is an area beneath the brain, which allows blood veins to span the area, from the center of the head downward. It drains from the cavernous sinus (beneath the brain) to the sigmoid sinuses above the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007160)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007160#inferior-petrosal-sinus
+   :name: inferior petrosal sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007160
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 inferiorPostcentralSulcus
 -------------------------
 
@@ -14952,6 +14968,23 @@ inferiorRamusOfArcuateSulcus
 
 ------------
 
+inferiorReticularFormation
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorReticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. Is part of the medial column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000523) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000523#inferior-reticular-formation
+   :name: inferior reticular formation
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000523
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 inferiorRostralGyrus
 --------------------
 
@@ -14982,6 +15015,24 @@ inferiorRostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002767#inferior-rostral-sulcus-1
    :name: inferior rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002767
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorSagittalSinus
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorSagittalSinus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sagittal sinus. Is part of the tentorial sinus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152) ('is_a' and 'relationship')]
+   :description: An intracranial venous sinus that lies in a midline location along the lower free border of the falx cerebri of the brain. The sinus receives blood from the great cerebral vein and joins the superior sagittal sinus posteriorly. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007152)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007152#inferior-sagittal-sinus
+   :name: inferior sagittal sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007152
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15036,6 +15087,23 @@ inferiorTemporalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002969#inferior-temporal-sulcus-1
    :name: inferior temporal sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002969
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+inferiorThalamicPeduncle
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/inferiorThalamicPeduncle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a peduncle of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022242)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022242#inferior-thalamic-peduncle
+   :name: inferior thalamic peduncle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022242
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15662,8 +15730,8 @@ insula
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/insula
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.
-   :description: 'Insula' is a cerebral hemisphere gray matter. It is part of the cerebral cortex.
+   :definition: Is a cerebral hemisphere gray matter. Is part of the cerebral cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022) ('is_a' and 'relationship')]
+   :description: Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002022)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105519
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002022#insula-1
    :name: insula
@@ -15790,8 +15858,7 @@ intergeniculateLeafletOfTheLateralGeniculateComplex
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/intergeniculateLeafletOfTheLateralGeniculateComplex
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Intergeniculate leaflet of the lateral geniculate complex' is a regional part of brain. It is part of the lateral geniculate body.
-   :description:
+   :definition: Is a regional part of brain. Is part of the lateral geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035975) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105563
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035975#intergeniculate-leaflet-of-the-lateral-geniculate-complex
    :name: intergeniculate leaflet of the lateral geniculate complex
@@ -15809,8 +15876,8 @@ intermediateAcousticStria
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateAcousticStria
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Intermediate acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.
-   :description: White matter structure containing axons arising from cochlear nuclear complex (Brodal, Neurological Anatomy, 3rd ed, 1985, pg 609)
+   :definition: Is a stria of neuraxis and white matter of pontine tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002952)]
+   :description: White matter structure containing axons arising from cochlear nuclear complex (Brodal, Neurological Anatomy, 3rd ed, 1985, pg 609) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002952)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105568
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002952#intermediate-acoustic-stria-1
    :name: intermediate acoustic stria
@@ -15845,8 +15912,8 @@ intermediateHypothalamicRegion
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateHypothalamicRegion
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Intermediate hypothalamic region' is a regional part of brain. It is part of the hypothalamus.
-   :description: The portion of the hypothalamus located generally internal to the region of the infundibulum.
+   :definition: Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002555) ('is_a' and 'relationship')]
+   :description: The portion of the hypothalamus located generally internal to the region of the infundibulum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002555)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105570
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002555#intermediate-hypothalamic-region-1
    :name: intermediate hypothalamic region
@@ -15918,8 +15985,7 @@ intermediatePartOfHypophysis
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediatePartOfHypophysis
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Intermediate part of hypophysis' is a regional part of brain. It is part of the adenohypophysis.
-   :description:
+   :definition: Is a regional part of brain. Is part of the adenohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023752) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105575
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023752#intermediate-part-of-hypophysis-1
    :name: intermediate part of hypophysis
@@ -15948,6 +16014,23 @@ intermediatePeriventricularNucleus
 
 ------------
 
+intermediateReticularFormation
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intermediateReticularFormation
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009776) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009776#intermediate-reticular-formation
+   :name: intermediate reticular formation
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009776
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 internalArcuateFiberBundle
 --------------------------
 
@@ -15956,8 +16039,8 @@ internalArcuateFiberBundle
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/internalArcuateFiberBundle
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Internal arcuate fiber bundle' is a neuron projection bundle and central nervous system cell part cluster. It is part of the white matter of medulla oblongata.
-   :description: Internal arcuate fibers are the axons of second-order neurons contained within the gracile and cuneate nuclei of the medulla oblongata. These fibers cross from one side of the medulla to the other to form the medial lemniscus. Part of the dorsal column-medial lemniscus system (second neuron), the internal arcuate fibers are important for relaying the sensation of fine touch and proprioception to the thalamus and ultimately to the cerebral cortex.
+   :definition: Is a neuron projection bundle and central nervous system cell part cluster. Is part of the white matter of medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006087) ('is_a' and 'relationship')]
+   :description: Internal arcuate fibers are the axons of second-order neurons contained within the gracile and cuneate nuclei of the medulla oblongata. These fibers cross from one side of the medulla to the other to form the medial lemniscus. Part of the dorsal column-medial lemniscus system (second neuron), the internal arcuate fibers are important for relaying the sensation of fine touch and proprioception to the thalamus and ultimately to the cerebral cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006087)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105582
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006087#internal-arcuate-fiber-bundle-1
    :name: internal arcuate fiber bundle
@@ -16047,8 +16130,8 @@ internalMedullaryLaminaOfThalamus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Internal medullary lamina of thalamus' is a medullary lamina of thalamus.
-   :description: Predominantly white regional part of thalamus consisting of a Y shaped bundle of fibers that runs the anterior-posterior length of thalamus and divides the thalamus into roughly three regions (MM: 2006-10-26)
+   :definition: Is a medullary lamina of thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002762)]
+   :description: Predominantly white regional part of thalamus consisting of a Y shaped bundle of fibers that runs the anterior-posterior length of thalamus and divides the thalamus into roughly three regions (MM: 2006-10-26) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002762)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105586
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002762#internal-medullary-lamina-of-thalamus-1
    :name: internal medullary lamina of thalamus
@@ -16133,6 +16216,23 @@ interstitialNucleusOfCajal
 
 ------------
 
+interstitialPartOfHyperpalliumApicale
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interstitialPartOfHyperpalliumApicale
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hyperpallium apicale. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014758) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014758#interstitial-part-of-hyperpallium-apicale
+   :name: interstitial part of hyperpallium apicale
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014758
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 interthalamicAdhesion
 ---------------------
 
@@ -16141,12 +16241,48 @@ interthalamicAdhesion
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/interthalamicAdhesion
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Interthalamic adhesion' is a nervous system commissure.
-   :description: Median gray matter mass that connects the two thalami;  present in a large percentage of humans (Heimer, L. The Human Brain and Spinal Cord, 2nd ed., 1995, pg 76n).
+   :definition: Is a nervous system commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006681)]
+   :description: The medial surface of the thalamus constitutes the upper part of the lateral wall of the third ventricle, and is connected to the corresponding surface of the opposite thalamus by a flattened gray band, the Interthalamic adhesion (massa intermedia, middle commissure, gray commissure). In non-human mammals it is a large structure. In humans this mass averages about 1 cm in length in its antero-posterior diameter. It sometimes consists of two parts and occasionally is absent. The interthalamic adhesion is found in 70-80% of humans. It is present more often in females and larger than in males by an average of 53 percent.. When absent in development, no noticeable deficit has been observed. It contains nerve cells and nerve fibers; a few of the latter may cross the middle line, but most of them pass toward the middle line and then curve lateralward on the same side. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006681)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105629
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006681#interthalamic-adhesion
    :name: interthalamic adhesion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006681
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+interveningZone
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interveningZone
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the midbrain-hindbrain boundary. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001341) ('is_a' and 'relationship')]
+   :description: A zone of delayed differentiation at the midbrainhindbrain boundary. The IZ separates midbrain from anterior hindbrain neuronal clusters and has been described in all vertebrates. Geling et al, 2003. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001341)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001341#intervening-zone
+   :name: intervening zone
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001341
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+interventricularForamenOfCNS
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/interventricularForamenOfCNS
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the ventricular system of central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
+   :description: The paired channels that connect the lateral and third ventricles and allows cerebrospinal fluid produced in the lateral ventricles to flow into the third ventricles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003993)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003993#interventricular-foramen-of-cns
+   :name: interventricular foramen of CNS
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003993
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16178,8 +16314,8 @@ intralaminarNuclearGroup
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/intralaminarNuclearGroup
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Intralaminar nuclear group' is a nucleus of dorsal thalamus.
-   :description: The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei: central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [WP,unvetted].
+   :definition: Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002733)]
+   :description: The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei: central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002733)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105651
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002733#intralaminar-nuclear-group-1
    :name: intralaminar nuclear group
@@ -16226,6 +16362,24 @@ intraparietalSulcus
 
 ------------
 
+intrinsicNeuronalCircuit
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/intrinsicNeuronalCircuit
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a circuit part of central nervous system. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]
+   :description: A neuronal circuit where all the participating neurons are bounded within a defined and limited region of the nervous system.(BB). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026547)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026547#intrinsic-neuronal-circuit-1
+   :name: intrinsic neuronal circuit
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026547
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 irisNerve
 ---------
 
@@ -16252,8 +16406,8 @@ islaMagnaOfCalleja
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/islaMagnaOfCalleja
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Isla magna of Calleja' is a regional part of brain. It is part of the island of Calleja.
-   :description: A profile (typically representing a sequence alignment) derived from a matrix of nucleotide (or amino acid) counts per position that reflects information content at each position.
+   :definition: Is a regional part of brain. Is part of the island of Calleja. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868) ('is_a' and 'relationship')]
+   :description: Regional part of telencephalon; the most prominent of the islands of Calleja located medially in the nucleus accumbens (adapted from Braininfo.org). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023868)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105729
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023868#isla-magna-of-calleja-1
    :name: isla magna of Calleja
@@ -16271,8 +16425,8 @@ islandOfCalleja
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/islandOfCalleja
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.
-   :description: Small clusters of granule cells located in the olfactory tubercle and also within the Island of Calleja magna that lies between the septum and the nucleus accumbens
+   :definition: Is a telencephalic nucleus. Is part of the cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001881) ('is_a' and 'relationship')]
+   :description: One of the seven small groups of granule cells in the polymorph layer of the olfactory tubercle and one large group, the insula magna, which lies along the border between septum, nucleus accumbens and nucleus of the diagonal band. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001881)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105730
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001881#islands-of-calleja
    :name: island of Calleja
@@ -16337,6 +16491,24 @@ isthmusOfCingulateGyrus
 
 ------------
 
+jugalRamule
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/jugalRamule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ramus mandibularis externus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010778)]
+   :description: This ramule innervates the jugal line of neuromasts and is the dorsal branch of the ramus mandibularis externus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010778)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010778#jugal-ramule
+   :name: jugal ramule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010778
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 juxtarestiformBody
 ------------------
 
@@ -16345,8 +16517,8 @@ juxtarestiformBody
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/juxtarestiformBody
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Juxtarestiform body' is a white matter of medulla oblongata. It is part of the inferior cerebellar peduncle.
-   :description: Fibers interconnecting the cerebellum and vestibular nuclei, traveling medial to the restiform body (inferior cerebellar peduncle) (Nolte, The Human Brain, 6th ed., pg 497)
+   :definition: Is a white matter of medulla oblongata. Is part of the inferior cerebellar peduncle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002592) ('is_a' and 'relationship')]
+   :description: Fibers interconnecting the cerebellum and vestibular nuclei, traveling medial to the restiform body (inferior cerebellar peduncle) (Nolte, The Human Brain, 6th ed., pg 497) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002592)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105804
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002592#juxtarestiform-body-1
    :name: juxtarestiform body
@@ -16400,12 +16572,47 @@ laminaOfSeptumPellucidum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaOfSeptumPellucidum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lamina of septum pellucidum' is a central nervous system cell part cluster and nervous system cell part layer. It is part of the septum pellucidum.
-   :description: One of two layers of both white and gray matter of the septum pellucidum. During fetal development there is a space between the two laminae called the cavum septum pellucidum which, in ninety per cent of cases, disappears during infancy.
+   :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the septum pellucidum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002742) ('is_a' and 'relationship')]
+   :description: One of two layers of both white and gray matter of the septum pellucidum. During fetal development there is a space between the two laminae called the cavum septum pellucidum which, in ninety per cent of cases, disappears during infancy. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002742)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0105979
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002742#lamina-of-septum-pellucidum-1
    :name: lamina of septum pellucidum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002742
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaTerminalisOfCerebralHemisphere
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaTerminalisOfCerebralHemisphere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter lamina of cerebral hemisphere. Is part of the cerebral hemisphere white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015117) ('is_a' and 'relationship')]
+   :description: The remnant of the lamina terminalis in the developed brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015117)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015117#lamina-terminalis-of-cerebral-hemisphere
+   :name: lamina terminalis of cerebral hemisphere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015117
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lapillus
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lapillus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an otolith. Is part of the utricle of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000530) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000530#lapillus
+   :name: lapillus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000530
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16424,6 +16631,24 @@ laryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035642#laryngeal-nerve
    :name: laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035642
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laryngeusVentralis
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laryngeusVentralis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve of head region. Is part of the ramus recurrens. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010764) ('is_a' and 'relationship')]
+   :description: A branch of the vagus nerve innervating heart, stomach, and lung muscle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010764)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010764#laryngeus-ventralis
+   :name: laryngeus ventralis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010764
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16505,6 +16730,24 @@ lateralAmygdaloidNucleusVentromedialPart
 
 ------------
 
+lateralCerebellomedullaryCistern
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralCerebellomedullaryCistern
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cerebellomedullary cistern. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004051)]
+   :description: The space between the cerebellum and the lateral aspect of the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004051)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004051#lateral-cerebellomedullary-cistern
+   :name: lateral cerebellomedullary cistern
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004051
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralCervicalNucleus
 ----------------------
 
@@ -16542,6 +16785,23 @@ lateralCorticospinalTract
 
 ------------
 
+lateralDivision
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralDivision
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the valvula cerebelli. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000532) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000532#lateral-division
+   :name: lateral division
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000532
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralEminenceOfFourthVentricle
 --------------------------------
 
@@ -16568,7 +16828,7 @@ lateralEminenceOfHypophysis
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralEminenceOfHypophysis
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral eminence of hypophysis' is part of the pituitary gland.
+   :definition: Is part of the pituitary gland. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027109)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106054
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027109#lateral-eminence-of-hypophysis-1
    :name: lateral eminence of hypophysis
@@ -16591,6 +16851,23 @@ lateralEntorhinalCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007225#lateral-entorhinal-cortex
    :name: lateral entorhinal cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007225
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralForebrainBundle
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralForebrainBundle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2007012)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2007012#lateral-forebrain-bundle
+   :name: lateral forebrain bundle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2007012
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16639,8 +16916,8 @@ lateralGeniculateBody
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGeniculateBody
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.
-   :description: The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe
+   :definition: Is a nucleus of dorsal thalamus. Is part of the metathalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001926) ('is_a' and 'relationship')]
+   :description: The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001926)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106064
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001926#lateral-geniculate-body-1
    :name: lateral geniculate body
@@ -16658,12 +16935,29 @@ lateralGlobusPallidus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGlobusPallidus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
-   :description: The more lateral of the two segments of the globus pallidus, abutting the putamen in species which have both a caudate and putamen;  the caudoputamen in other species.
+   :definition: Is a cerebral hemisphere gray matter. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002476) ('is_a' and 'relationship')]
+   :description: The more lateral of the two segments of the globus pallidus, abutting the putamen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002476)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104658
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002476#globus-pallidus-external-segment
    :name: lateral globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002476
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralGranularEminence
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralGranularEminence
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the vestibulolateralis lobe. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000187) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000187#lateral-granular-eminence
+   :name: lateral granular eminence
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000187
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16751,8 +17045,8 @@ lateralLemniscus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralLemniscus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral lemniscus' is a nervous system lemniscus.
-   :description: A fiber bundle that runs through the medulla, pons and midbrain  that arises in the cochlear nucleus and projects to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. The brainstem nuclei include the superior olive, the medial nucleus of the trapezoid body, and the dorsal nucleus of the lateral lemniscus. Fibers leaving these brainstem nuclei ascending to the inferior colliculus rejoin the lateral lemniscus. In that sense, this is not a 'lemniscus' in the true sense of the word (second order, decussated sensory axons), as there is third (and out of the lateral superior olive, fourth) order information coming out of some of these brainstem nuclei. Adapted from Wikipedia.org (MM).
+   :definition: Is a nervous system lemniscus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002953)]
+   :description: A fiber bundle that runs through the medulla, pons and midbrain that arises in the cochlear nucleus and projects to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. The brainstem nuclei include the superior olive, the medial nucleus of the trapezoid body, and the dorsal nucleus of the lateral lemniscus. Fibers leaving these brainstem nuclei ascending to the inferior colliculus rejoin the lateral lemniscus. In that sense, this is not a 'lemniscus' in the true sense of the word (second order, decussated sensory axons), as there is third (and out of the lateral superior olive, fourth) order information coming out of some of these brainstem nuclei. Adapted from Wikipedia.org (MM). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002953)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106074
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002953#lateral-lemniscus-1
    :name: lateral lemniscus
@@ -16798,6 +17092,23 @@ lateralLineNerve
 
 ------------
 
+lateralLongitudinalStria
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralLongitudinalStria
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of limbic lobe and stria of telencephalon. Is part of the supracallosal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0019283) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019283#lateral-longitudinal-stria
+   :name: lateral longitudinal stria
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019283
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralMammillaryNucleus
 ------------------------
 
@@ -16825,12 +17136,30 @@ lateralMedullaryLaminaOfGlobusPallidus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
-   :description: Thin band of myelinated fibers lying on the lateral (external) surface of the globus pallidus, external segment, separating it from the putamen.  (Carpenter, A core text of neuroanatomy, 3rd ed., 1985, pg 303).
+   :definition: Is a white matter lamina of cerebral hemisphere. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002765) ('is_a' and 'relationship')]
+   :description: The lateral medullary lamina is a thin white structure located in the basal ganglia of the primate brain. Bounded laterally by the putamen and medially by the globus pallidus, it is defined on the basis of Nissl or myelin stain ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002765)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106077
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002765#lateral-medullary-lamina
    :name: lateral medullary lamina of globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002765
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralMedullaryReticularComplex
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralMedullaryReticularComplex
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009775) ('is_a' and 'relationship')]
+   :description: A nuclear complex of the medullary reticular formation that can be divided into three subnuclei: the parvocellular, magnocellular and the subtrigeminal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009775)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009775#lateral-medullary-reticular-complex
+   :name: lateral medullary reticular complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009775
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16844,8 +17173,8 @@ lateralNuclearGroupOfThalamus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralNuclearGroupOfThalamus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral nuclear group of thalamus' is a nucleus of dorsal thalamus.
-   :description: The lateral nuclear group is a collection of nuclei on the lateral side of the thalamus. According to MeSH, it consists of the following: lateral dorsal nucleus lateral posterior nucleus pulvinar [WP,unvetted].
+   :definition: Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002736)]
+   :description: The lateral nuclear group is a collection of nuclei on the lateral side of the thalamus. According to MeSH, it consists of the following: lateral dorsal nucleus lateral posterior nucleus pulvinar. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002736)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106078
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002736#lateral-nuclear-group
    :name: lateral nuclear group of thalamus
@@ -16906,6 +17235,24 @@ lateralOccipitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002904#lateral-occipital-sulcus-1
    :name: lateral occipital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002904
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralOcellus
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralOcellus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal ocellus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003162)]
+   :description: The ocellus that is paired. The number, form, and function of the dorsal ocelli varies markedly throughout insect orders. They tend to be larger and more strongly expressed in flying insects (particularly bees, wasps, dragonflies and locusts), where they are typically found as a triplet. Two lateral ocelli are directed to the left and right of the head respectively, while a central (median) ocellus is directed frontally. In some terrestrial insects (e.g. some ants and cockroaches), only two lateral ocelli are present: the median ocellus is absent. Note that the unfortunately labelled 'lateral ocelli' here refers to the sideways facing position of the ocelli, which are of the dorsal type. They should not be confused with the lateral ocelli of some insect larvae (see stemmata). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003162)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003162#lateral-ocellus
+   :name: lateral ocellus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003162
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -16979,6 +17326,24 @@ lateralOrbitalSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026384#lateral-orbital-sulcus
    :name: lateral orbital sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026384
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralPallium
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPallium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014741) ('is_a' and 'relationship')]
+   :description: Subdivision of pallium that is located laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014741)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014741#lateral-pallium
+   :name: lateral pallium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014741
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -17087,8 +17452,7 @@ lateralPesLemniscus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralPesLemniscus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral pes lemniscus' is a nervous system lemniscus. It is part of the midbrain tegmentum.
-   :description:
+   :definition: Is a nervous system lemniscus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003010) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106094
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003010#lateral-pes-lemniscus-1
    :name: lateral pes lemniscus
@@ -17191,6 +17555,24 @@ lateralRecessOfFourthVentricle
 
 ------------
 
+lateralRecessOfThirdVetricle
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralRecessOfThirdVetricle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the third ventricle. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008902) ('is_a' and 'relationship')]
+   :description: Lateral protrusion of the third ventricle. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008902)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008902#lateral-recess-of-third-vetricle
+   :name: lateral recess of third vetricle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008902
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralReticularNucleus
 -----------------------
 
@@ -17218,8 +17600,8 @@ lateralSeptalComplex
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralSeptalComplex
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Lateral septal complex' is a septal nuclear complex. It is part of the striatum.
-   :description: The lateral septal area; largest nuclear mass in this region, plays a pivotal role in various physiological processes, such as aggression, emotion, thermoregulation, water and food intake and sexual behaviour.
+   :definition: Is a septal nuclear complex. Is part of the striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007628) ('is_a' and 'relationship')]
+   :description: The lateral septal area; largest nuclear mass in this region, plays a pivotal role in various physiological processes, such as aggression, emotion, thermoregulation, water and food intake and sexual behaviour. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007628)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0728564
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007628#lateral-septal-complex
    :name: lateral septal complex
@@ -17478,6 +17860,23 @@ lateralVisualAreaLayer6a
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035918#lateral-visual-area-layer-6a
    :name: lateral visual area, layer 6a
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035918
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralZoneOfHypothalamus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralZoneOfHypothalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the hypothalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002273)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002273#lateral-zone-of-hypothalamus
+   :name: lateral zone of hypothalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002273
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
