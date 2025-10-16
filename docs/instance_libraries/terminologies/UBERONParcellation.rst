@@ -18039,6 +18039,42 @@ leftAuditoryCortex
 
 ------------
 
+leftCerebralHemisphere
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftCerebralHemisphere
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002812)]
+   :description: A cerebral hemisphere that is in the left side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002812)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002812#left-cerebral-hemisphere-1
+   :name: left cerebral hemisphere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002812
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftDorsalThalamus
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftDorsalThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013683)]
+   :description: A dorsal thalamus that is in the left side of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013683)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013683#left-dorsal-thalamus
+   :name: left dorsal thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013683
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 leftFrontalLobe
 ---------------
 
@@ -18147,6 +18183,24 @@ leftParietalLobe
 
 ------------
 
+leftPutamen
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftPutamen
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a putamen. Is part of the left cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008884) ('is_a' and 'relationship')]
+   :description: A putamen that is part of a left cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008884)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008884#left-putamen
+   :name: left putamen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008884
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 leftRecurrentLaryngealNerve
 ---------------------------
 
@@ -18159,6 +18213,23 @@ leftRecurrentLaryngealNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011766#left-recurrent-laryngeal-nerve
    :name: left recurrent laryngeal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011766
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leftSubLobarRegion
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leftSubLobarRegion
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a sub-lobar region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024900)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024900#left-sub-lobar-region-1
+   :name: left sub-lobar region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024900
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18225,8 +18296,8 @@ lenticularFasciculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lenticular fasciculus' is a ventral thalamic fasciculus.
-   :description: The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus.
+   :definition: Is a ventral thalamic fasciculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014529)]
+   :description: The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014529)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106170
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1
    :name: lenticular fasciculus
@@ -18250,6 +18321,24 @@ lentiformNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002263#lentiform-nucleus
    :name: lentiform nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002263
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+leptomeninx
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/leptomeninx
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a meninx. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000391)]
+   :description: Pia mater or arachnoid mater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000391)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000391#leptomeninx
+   :name: leptomeninx
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000391
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18369,8 +18458,8 @@ limenOfInsula
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Limen of insula' is a gyrus. It is part of the insula.
-   :description: The anterior basal part of the insular cortex, which separates the lateral surface of the insula from the anterior perforated substance (Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 80).
+   :definition: Is a gyrus. Is part of the insula. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002724) ('is_a' and 'relationship')]
+   :description: The anterior basal part of the insular cortex, which separates the lateral surface of the insula from the anterior perforated substance (Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 80). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002724)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106266
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002724#limen-of-insula-1
    :name: limen of insula
@@ -18533,8 +18622,8 @@ locusCeruleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
-   :description: A noradrenergic nucleus in the brain stem involved with physiological responses to stress and panic; also implicated in physical dependence and withdrawal. (Adapted from Wikipedia)
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002148) ('is_a' and 'relationship')]
+   :description: The locus ceruleus is a dense cluster of neurons within the dorsorostral pons. This nucleus is the major location of neurons that release norepinephrine throughout the brain, and is responsible for physiological responses to stress and panic. Bluish region in the superior angle of the fourth ventricle floor, corresponding to melanin-like pigmented nerve cells which lie lateral to the ponto-mesencephalic central gray (griseum centrale). It is also known as nucleus pigmentosus pontis. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002148)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106335
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002148#locus-ceruleus-1
    :name: locus ceruleus
@@ -18588,8 +18677,7 @@ longitudinalPontineFibers
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/longitudinalPontineFibers
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Longitudinal pontine fibers' is a tract of brain. It is part of the basal part of pons.
-   :description:
+   :definition: Is a tract of brain. Is part of the basal part of pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002732) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106355
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002732#longitudinal-pontine-fibers-1
    :name: longitudinal pontine fibers
@@ -18679,8 +18767,8 @@ lowerRhombicLip
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lower rhombic lip' is a regional part of brain. It is part of the rhombic lip.
-   :description: Posterior portion of the rhombic lip contained within rhombomeres 2-8. Gives rise to several brainstem nuclei and choroid plexus.
+   :definition: Is a regional part of brain. Is part of the rhombic lip. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009840) ('is_a' and 'relationship')]
+   :description: Posterior portion of the rhombic lip contained within rhombomeres 2-8. Gives rise to several brainstem nuclei and choroid plexus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009840)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729564
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009840#lower-rhombic-lip
    :name: lower rhombic lip
@@ -18834,6 +18922,113 @@ lunateSulcus
 
 ------------
 
+maculaLagena
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaLagena
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the otolith organ. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000116)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000116#macula-lagena
+   :name: macula lagena
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000116
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+maculaLutea
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaLutea
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000053)]
+   :description: An oval area in the retina, usually located temporal to the posterior pole of the eye and slightly below the level of the optic disk. It is characterized by the presence of a yellow pigment diffusely permeating the inner layers, contains the fovea centralis in its center, and provides the best phototopic visual acuity. It is devoid of retinal blood vessels, except in its periphery, and receives nourishment from the choriocapillaris of the choroid. (From Cline et al., Dictionary of Visual Science, 4th ed) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000053)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000053#macula-1
+   :name: macula lutea
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000053
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+maculaLuteaProper
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaLuteaProper
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the macula lutea. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002822)]
+   :description: The part of the macula lutea that excludes the fovea. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002822)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002822#macula-lutea-proper-1
+   :name: macula lutea proper
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002822
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+maculaNeglecta
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaNeglecta
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the otolith organ. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000234)]
+   :description: Macula positioned on the floor of the utricle adjacent to the utriculosaccular foramen at the base of the common crus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000234)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000234#macula-neglecta
+   :name: macula neglecta
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000234
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+maculaOfSacculeOfMembranousLabyrinth
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaOfSacculeOfMembranousLabyrinth
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the saccule of membranous labyrinth. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002212)]
+   :description: The oval neuroepithelial sensory receptor in the anterior wall of the saccule; hair cells of the neuroepithelium support the statoconial membrane and have terminal arborizations of vestibular nerve fibers around their bodies. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002212)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002212#macula-of-saccule-of-membranous-labyrinth
+   :name: macula of saccule of membranous labyrinth
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002212
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+maculaOfUtricleOfMembranousLabyrinth
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/maculaOfUtricleOfMembranousLabyrinth
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the utricle of membranous labyrinth. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002214)]
+   :description: The neuroepithelial sensory receptor in the inferolateral wall of the utricle; hair cells of the neuroepithelium support the statoconial membrane and have terminal arborizations of vestibular nerve fibers around their bodies; normally sensitive to linear acceleration in the longitudinal axis of the body and to gravitational influences. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002214)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002214#macula-of-utricle-of-membranous-labyrinth
+   :name: macula of utricle of membranous labyrinth
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002214
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 magnocellularNucleusOfMedialGeniculateBody
 ------------------------------------------
 
@@ -18965,6 +19160,24 @@ mainOlfactoryBulb
 
 ------------
 
+mammillaryAxonalComplex
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryAxonalComplex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006695) ('is_a' and 'relationship')]
+   :description: The mammillary axonal complex is formed by the axons from the lateral, medial mammillary and the dorsal premammillary nuclei which share a branching pattern. Every neuron gives off one axonal stem that bifurcates into 2 branches. One of the branches is directed dorsally to the thalamus and another caudally to the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006695)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006695#mammillary-axonal-complex
+   :name: mammillary axonal complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006695
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 mammillaryBody
 --------------
 
@@ -18973,8 +19186,8 @@ mammillaryBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.
-   :description: One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455).
+   :definition: Is part of the medial zone of hypothalamus and the posterior hypothalamic region. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002206)]
+   :description: One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002206)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106500
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002206#mammillary-body
    :name: mammillary body
@@ -18992,12 +19205,29 @@ mammillaryPeduncle
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPeduncle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Mammillary peduncle' is a peduncle of diencephalon. It is part of the posterior hypothalamic region.
-   :description: White matter bundle in the posterior hypothalamus containing ascending afferent fibers to the mammillary bodies from the ventral and dorsal tegmental nuclei (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 671).
+   :definition: Is a peduncle of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002720) ('is_a' and 'relationship')]
+   :description: White matter bundle in the posterior hypothalamus containing ascending afferent fibers to the mammillary bodies from the ventral and dorsal tegmental nuclei (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 671). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002720)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106502
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002720#mammillary-peduncle-1
    :name: mammillary peduncle
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002720
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+mammillaryPrincepsFasciculus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryPrincepsFasciculus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a tract of diencephalon. Is part of the posterior hypothalamic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002723) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002723#mammillary-princeps-fasciculus-1
+   :name: mammillary princeps fasciculus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002723
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19174,8 +19404,8 @@ matrixCompartment
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartment
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Matrix compartment' is a chemoarchitectural part of striatum.
-   :description: The larger of two chemoarchitectural compartments identified in the neostriatum through differential staining for various biochemical markers.  It usually is identified through differentially high staining for acetylcholinesterase and calbinin D28K.
+   :definition: Is a chemoarchitectural part of striatum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027368)]
+   :description: The larger of two chemoarchitectural compartments identified in the neostriatum through differential staining for various biochemical markers. It usually is identified through differentially high staining for acetylcholinesterase and calbinin D28K. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027368)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106569
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027368#matrix-compartment-1
    :name: matrix compartment
@@ -19212,7 +19442,7 @@ matrixCompartmentOfPutamen
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.
+   :definition: Is a matrix compartment. Is part of the putamen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029002) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0730490
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029002#matrix-compartment-of-putamen
    :name: matrix compartment of putamen
@@ -19321,8 +19551,8 @@ medialAccessoryOlive
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryOlive
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
-   :description: Regional part of the inferior olivary complex
+   :definition: Is a regional part of brain. Is part of the inferior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014287) ('is_a' and 'relationship')]
+   :description: Regional part of the inferior olivary complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014287)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106621
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014287#medial-accessory-olive-1
    :name: medial accessory olive
@@ -19362,6 +19592,40 @@ medialCaudalLobe
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000388#medial-caudal-lobe
    :name: medial caudal lobe
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000388
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialColumn
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialColumn
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the medullary reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000542) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000542#medial-column
+   :name: medial column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000542
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialDivision
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDivision
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the valvula cerebelli. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000280) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000280#medial-division
+   :name: medial division
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000280
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19413,8 +19677,8 @@ medialForebrainBundle
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial forebrain bundle' is a fasciculus of brain. It is part of the hypothalamus.
-   :description: The Medial forebrain bundle (MFB), is a complex bundle of axons coming from the basal olfactory regions, the periamygdaloid region, and the septal nuclei, and passing to the lateral hypothalamus, with some carrying on into the tegmentum. It contains both ascending and descending fibers. It also represents a part of the mesolimbic pathway, carrying information between the ventral tegmentum and the nucleus accumbens. It is commonly accepted that the MFB is a part of the reward system, involved in the integration of reward and pleasure. Electrical stimulation of the medial forebrain bundle is believed to cause sensations of pleasure. This hypothesis is based upon intracranial self-stimulation (ICSS) studies. Animals will work for MFB ICSS, and humans report that MFB ICSS is intensely pleasurable. This is most likely because the medial forebrain bundle carries information from the ventral tegmental area (VTA) to the nucleus accumbens (nAcc or Acb). The nAcc is a recognized reward center, and activation of the pathway from the VTA to the nAcc is believed to be rewarding, which is why it is sometimes referred to as the hedonic highway. [WP,unvetted].
+   :definition: Is a fasciculus of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001910) ('is_a' and 'relationship')]
+   :description: The Medial forebrain bundle (MFB), is a complex bundle of axons coming from the basal olfactory regions, the periamygdaloid region, and the septal nuclei, and passing to the lateral hypothalamus, with some carrying on into the tegmentum. It contains both ascending and descending fibers. It also represents a part of the mesolimbic pathway, carrying information between the ventral tegmentum and the nucleus accumbens. It is commonly accepted that the MFB is a part of the reward system, involved in the integration of reward and pleasure. Electrical stimulation of the medial forebrain bundle is believed to cause sensations of pleasure. This hypothesis is based upon intracranial self-stimulation (ICSS) studies. Animals will work for MFB ICSS, and humans report that MFB ICSS is intensely pleasurable. This is most likely because the medial forebrain bundle carries information from the ventral tegmental area (VTA) to the nucleus accumbens (nAcc or Acb). The nAcc is a recognized reward center, and activation of the pathway from the VTA to the nAcc is believed to be rewarding, which is why it is sometimes referred to as the hedonic highway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001910)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106640
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001910#medial-forebrain-bundle-1
    :name: medial forebrain bundle
@@ -19467,8 +19731,8 @@ medialGeniculateBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial geniculate body' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the metathalamus.
-   :description: Nuclear complex of the thalamus situated on the caudal, subpial aspect of the thalamus (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 622).
+   :definition: Is a nuclear complex of neuraxis and gray matter of diencephalon. Is part of the metathalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001927) ('is_a' and 'relationship')]
+   :description: Nuclear complex of the thalamus situated on the caudal, subpial aspect of the thalamus (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 622). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001927)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106641
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001927#medial-geniculate-body-1
    :name: medial geniculate body
@@ -19486,12 +19750,30 @@ medialGlobusPallidus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.
-   :description: The more medial segment of the globus pallidus.
+   :definition: Is a cerebral hemisphere gray matter. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002477) ('is_a' and 'relationship')]
+   :description: The more medial segment of the globus pallidus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002477)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0104660
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002477#globus-pallidus-internal-segment
    :name: medial globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002477
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialLemniscus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nervous system lemniscus. Is part of the brainstem and the dorsal column-medial lemniscus pathway. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003002) ('is_a' and 'relationship')]
+   :description: Fiber tract arising predominantly from neurons in the nucleus gracilis and nucleus cuneatus in the medulla, projecting to thalamus. Fibers cross in the decussation of the medial lemniscus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003002)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003002#medial-lemniscus-1
+   :name: medial lemniscus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003002
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19505,8 +19787,8 @@ medialLemniscusOfMedulla
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial lemniscus of medulla' is a nervous system lemniscus. It is part of the medulla oblongata and medial lemniscus.
-   :description: Part of medial lemniscus located within the medulla
+   :definition: Is a nervous system lemniscus. Is part of the medulla oblongata and the medial lemniscus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002748) ('is_a' and 'relationship')]
+   :description: Part of medial lemniscus located within the medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002748)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106652
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002748#medial-lemniscus-of-medulla-1
    :name: medial lemniscus of medulla
@@ -19524,8 +19806,8 @@ medialLemniscusOfMidbrain
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial lemniscus of midbrain' is a nervous system lemniscus. It is part of the midbrain tegmentum, cerebral peduncle and medial lemniscus.
-   :description: Part of medial lemniscus located within the midbrain
+   :definition: Is a nervous system lemniscus. Is part of the midbrain tegmentum, the cerebral peduncle and the medial lemniscus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002658) ('is_a' and 'relationship')]
+   :description: Part of medial lemniscus located within the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002658)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106653
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002658#medial-lemniscus-of-midbrain-1
    :name: medial lemniscus of midbrain
@@ -19543,8 +19825,8 @@ medialLemniscusOfPons
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial lemniscus of pons' is a nervous system lemniscus. It is part of the medial lemniscus and pontine tegmentum.
-   :description: Part of medial lemniscus located within the pons
+   :definition: Is a nervous system lemniscus. Is part of the medial lemniscus and the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002958) ('is_a' and 'relationship')]
+   :description: Part of medial lemniscus located within the pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002958)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106654
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002958#medial-lemniscus-of-pons-1
    :name: medial lemniscus of pons
@@ -19579,8 +19861,8 @@ medialLongitudinalFasciculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial longitudinal fasciculus' is a fasciculus of brain.
-   :description: Fiber bundle running longitudinally along the midline in the midbrain, pons and medulla, containing fibers that interconnect the cranial nerve nuclei controlling eye movements (Heimer, L. The Human Brain, 2nd ed., 1995, pg. 245)
+   :definition: Is a fasciculus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002309)]
+   :description: The medial longitudinal fasciculus (MLF) is a pair of crossed fiber tracts, one on each side of the brainstem. These bundles of axons are situated near the midline of the brainstem and are composed of both ascending and descending fibers that arise from a number of sources and terminate in different areas. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002309)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106655
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002309#medial-longitudinal-fasciculus
    :name: medial longitudinal fasciculus
@@ -19598,8 +19880,8 @@ medialLongitudinalFasciculusOfMedulla
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMedulla
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: A medial longitudinal fasciculus that is part of a medulla [Automatically generated definition].
-   :description: 'Medial longitudinal fasciculus of medulla' is a medial longitudinal fasciculus. It is part of the medulla oblongata.
+   :definition: Is a medial longitudinal fasciculus. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002750) ('is_a' and 'relationship')]
+   :description: A medial longitudinal fasciculus that is part of a medulla. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002750)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106656
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002750#medial-longitudinal-fasciculus-of-medulla-1
    :name: medial longitudinal fasciculus of medulla
@@ -19617,8 +19899,8 @@ medialLongitudinalFasciculusOfMidbrain
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: A medial longitudinal fasciculus that is part of a midbrain [Automatically generated definition].
-   :description: 'Medial longitudinal fasciculus of midbrain' is a medial longitudinal fasciculus. It is part of the midbrain tegmentum.
+   :definition: Is a medial longitudinal fasciculus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002660) ('is_a' and 'relationship')]
+   :description: A medial longitudinal fasciculus that is part of a midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002660)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106657
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002660#medial-longitudinal-fasciculus-of-midbrain-1
    :name: medial longitudinal fasciculus of midbrain
@@ -19636,12 +19918,29 @@ medialLongitudinalFasciculusOfPons
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: A medial longitudinal fasciculus that is part of a pons [Automatically generated definition].
-   :description: 'Medial longitudinal fasciculus of pons' is a medial longitudinal fasciculus. It is part of the pons.
+   :definition: Is a medial longitudinal fasciculus. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002794) ('is_a' and 'relationship')]
+   :description: A medial longitudinal fasciculus that is part of a pons. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002794)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106659
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002794#medial-longitudinal-fasciculus-of-pons-1
    :name: medial longitudinal fasciculus of pons
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002794
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialLongitudinalStria
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalStria
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter of limbic lobe and stria of telencephalon. Is part of the supracallosal gyrus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022234) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022234#medial-longitudinal-stria
+   :name: medial longitudinal stria
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022234
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19674,8 +19973,8 @@ medialMedullaryLaminaOfGlobusPallidus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.
-   :description: Thin sheet of white matter dividing the external and internal segments of the globus pallidus in primates
+   :definition: Is a white matter lamina of cerebral hemisphere. Is part of the globus pallidus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002727) ('is_a' and 'relationship')]
+   :description: Thin sheet of white matter dividing the external and internal segments of the globus pallidus in primates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002727)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106664
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002727#medial-medullary-lamina
    :name: medial medullary lamina of globus pallidus
@@ -19849,6 +20148,24 @@ medialOrbitalSulcus
 
 ------------
 
+medialPallium
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPallium
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014738) ('is_a' and 'relationship')]
+   :description: Subdivision of pallium that is located is the medial position in vertebrates with an evaginated brain and in the distal position in vertebrates with an everted brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014738)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014738#medial-pallium
+   :name: medial pallium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014738
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialParabrachialNucleus
 -------------------------
 
@@ -19952,8 +20269,7 @@ medialPesLemniscus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPesLemniscus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial pes lemniscus' is a brainstem white matter and white matter of midbrain. It is part of the midbrain tegmentum.
-   :description:
+   :definition: Is a brainstem white matter and white matter of midbrain. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002662) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106682
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002662#medial-pes-lemniscus-1
    :name: medial pes lemniscus
@@ -20018,6 +20334,23 @@ medialPreopticNucleus
 
 ------------
 
+medialPreopticRegion
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticRegion
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the preoptic area and the medial zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007769) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007769#medial-preoptic-region
+   :name: medial preoptic region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007769
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialPulvinarNucleus
 ---------------------
 
@@ -20032,6 +20365,24 @@ medialPulvinarNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1
    :name: medial pulvinar nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002638
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialSeptalComplex
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalComplex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a septal nuclear complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007629)]
+   :description: A septal nuclear complex that consists of the nucleus of the diagonal bands and the septal medial nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007629)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007629#medial-septal-complex
+   :name: medial septal complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007629
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20149,6 +20500,23 @@ medialVestibularNucleus
 
 ------------
 
+medialZoneOfHypothalamus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialZoneOfHypothalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the hypothalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002272)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002272#medial-zone-of-hypothalamus
+   :name: medial zone of hypothalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002272
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medianEminenceOfNeurohypophysis
 -------------------------------
 
@@ -20157,9 +20525,10 @@ medianEminenceOfNeurohypophysis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Median eminence of neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the neurohypophysis.
-   :description: Elevation on the ventral surface of the brain located at the zone of attachment between the hypothalamic floor and the hypophysis (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg. 446).
+   :definition: Is a gland of diencephalon and secretory circumventricular organ. Is part of the neurohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002197) ('is_a' and 'relationship')]
+   :description: Elevation on the ventral surface of the brain located at the zone of attachment between the hypothalamic floor and the hypophysis (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg. 446). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002197)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106712
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002197#median-eminence
    :name: median eminence of neurohypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002197
 
@@ -20180,6 +20549,24 @@ medianNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001148#median-nerve
    :name: median nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001148
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medianParsIntermedia
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianParsIntermedia
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010541)]
+   :description: Region of the adenohypophysis which secretes melanophore-stimulating hormone, affecting the integumentary chromatophores. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010541)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010541#median-pars-intermedia
+   :name: median pars intermedia
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010541
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20223,6 +20610,24 @@ medianRapheNucleus
 
 ------------
 
+medianTuberalPortion
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianTuberalPortion
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000392) ('is_a' and 'relationship')]
+   :description: Multi-tissue structure which is part of the hypothalamus and consists of caudal and ventral zones, and is separated from the dorsal hypothalamic zone by a deep ventral sulcus. From Neuroanatomy of the Zebrafish Brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000392)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000392#median-tuberal-portion
+   :name: median tuberal portion
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000392
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medullaOblongata
 ----------------
 
@@ -20231,8 +20636,8 @@ medullaOblongata
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medulla oblongata' is part of the brainstem and myelencephalon.
-   :description: The lower portion of the hindbrain and brainstem located between the pons and spinal cord. This structure contains several descending and ascending tracts, lower cranial nerve nuclei, a significant proportion of the reticular system of the brainstem and other structures (adapted from NCI Thesaurus).The topographic division of the cerebrospinal axis between pons and spinal cord. It was clearly described and illustrated for macrodissected adult humans by Piccolomini (1586, pp. 265, 269; his intracranial medulla oblongata), while the term medulla was used by Winslow (1733, Sect. X, p. 42) and Haller (1747, see translation by Mihles, 1754, pp. 287, 286), and more recently in the classic textbooks of for example Mettler (1948, p. 76) and Carpenter (1976, p. 60).
+   :definition: Is part of the brainstem and the myelencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001896)]
+   :description: Organ component of neuraxis that has as its parts the medullary reticular formation, inferior olivary complex and cochlear nuclear complex, among other structures. The medulla oblongata lies directly above the spinal cord and controls vital autonomic functions such as digestion, breathing and the control of heart rate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001896)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106736
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001896#medulla-oblongata-1
    :name: medulla oblongata
@@ -20304,12 +20709,29 @@ medullaryAnteriorHorn
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryAnteriorHorn
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medullary anterior horn' is a gray matter of hindbrain. It is part of the medulla oblongata.
-   :description:
+   :definition: Is a gray matter of hindbrain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023378) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106740
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023378#medullary-anterior-horn-1
    :name: medullary anterior horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023378
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medullaryLaminaOfThalamus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryLaminaOfThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a white matter lamina of diencephalon. Is part of the thalamic complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014533) ('is_a' and 'relationship')]
+   :description: Medullary laminae of thalamus are layers of myelinated fibres that appear on cross sections of the thalamus. They also are commonly referred to as laminae medullares thalami or medullary layers of thalamus. The specific layers are: Lamina medullaris lateralis (external medullary lamina) - separates ventral and lateral thalamus from the subthalamus and thalamic reticular nucleus; Lamina medullaris medialis (internal medullary lamina) - positioned between the dorsomedial and ventral nuclei of thalamus, encloses the intralaminar nuclei (centromedian nucleus, paracentral, and central lateral) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014533)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014533#medullary-lamina-of-thalamus
+   :name: medullary lamina of thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014533
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20323,8 +20745,7 @@ medullaryRapheNuclearComplex
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.
-   :description:
+   :definition: Is a nuclear complex of neuraxis and gray matter of hindbrain. Is part of the medulla oblongata and the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002692) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106743
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1
    :name: medullary raphe nuclear complex
