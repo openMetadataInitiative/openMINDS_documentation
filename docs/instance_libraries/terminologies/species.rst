@@ -41,6 +41,23 @@ bosTaurus
 
 ------------
 
+caenorhabditisElegans
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/species/caenorhabditisElegans
+   :@type: https://openminds.ebrains.eu/controlledTerms/Species
+   :definition: The species *Caenorhabditis elegans* (C. elegans) belongs to the family of *rhabditidae* (roundworms).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101548
+   :name: Caenorhabditis elegans
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
+
+`BACK TO TOP <Terminologies: Species library_>`_
+
+------------
+
 callithrixJacchus
 -----------------
 
