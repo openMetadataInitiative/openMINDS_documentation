@@ -611,6 +611,23 @@ anterogradeTracer
 
 ------------
 
+barium
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/barium
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Barium (Ba) is a chemical element with atomic number 56 and belongs to the alkaline earth metals.[adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]
+   :description: Barium is a chemical element; it has symbol Ba and atomic number 56. It is the fifth element in group 2; and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]
+   :name: barium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37133
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 biomarker
 ---------
 
@@ -1242,6 +1259,25 @@ gabazine
 
 ------------
 
+gadolinium
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/gadolinium
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Gadolinium (Gd) is a chemical element with atomic number 64 and belongs to the rare-earth metals. [paraphrased from (https://en.wikipedia.org/wiki/Gadolinium)]
+   :description: Gadolinium is a chemical element; it has symbol Gd and atomic number 64. It is a silvery-white metal when oxidation is removed. Gadolinium is a malleable and ductile rare-earth element. It reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare earths because of their similar chemical properties. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Gadolinium)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0782820
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:35729#gadolinium-molecular-entity
+   :name: gadolinium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_35729
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 galanin
 -------
 
@@ -1445,6 +1481,24 @@ intrabody
    :@type: https://openminds.om-i.org/types/MolecularEntity
    :definition: An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.
    :name: intrabody
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+iodine
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/iodine
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Iodine (I) is a chemical element with atomic number 53 and belongs to the halogens. [paraphrased from Wikipedia (https://en.wikipedia.org/wiki/Iodine)]
+   :description: Iodine is a chemical element; it has symbol I and atomic number 53. The heaviest of the stable halogens, it exists at standard conditions as a semi-lustrous, non-metallic solid that melts to form a deep violet liquid at 114 °C (237 °F), and boils to a violet gas at 184 °C (363 °F). [adapted from Wikipedia (https://en.wikipedia.org/wiki/Iodine)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:24860#iodine-molecular-entity
+   :name: iodine
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24860
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -2195,6 +2249,23 @@ water
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15377#water
    :name: water
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15377
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+xenon
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/molecularEntity/xenon
+   :@type: https://openminds.om-i.org/types/MolecularEntity
+   :definition: Xenon (Xe) is a chemical element with atomic number 54 and belongs to the noble gases. [paraphrased from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]
+   :description: Xenon is a chemical element; it has symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]
+   :name: xenon
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_36910
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
