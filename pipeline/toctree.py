@@ -28,12 +28,11 @@ def create_toc_tree_page(version:str, relative_path:List[str]):
                     new_relative_path.extend(relative_path)
                     new_relative_path.append(sub_dir)
                     create_toc_tree_page(version, new_relative_path)
-
         if heading == "Instance libraries":
             instances_count = count_instances(version)
             doc.note(content=["The instance libraries are continuously extended and optimized.",
             "You can request the registration of new instances or corrections\/extensions of existing",
-            "instances by raising an issue on `openMINDS_instances <https://github.com/HumanBrainProject/openMINDS_instances/issues>`_",
+            "instances by raising an issue on `openMINDS_instances <https://github.com/openMetadataInitiative/openMINDS_instances/issues>`_",
             "",
             f"The {version} version of openMINDS contains {instances_count} metadata instances in total."])
 
