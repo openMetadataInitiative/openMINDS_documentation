@@ -762,6 +762,24 @@ PurkinjeCellLayerValvulaCerebelli
 
 ------------
 
+ReissnersFiber
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ReissnersFiber
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011357)]
+   :description: An acellular strand that runs from subcommissural organ caudally through the ventricular system and central canal to the ampulla caudalis. Develops from glycoproteins secreted into CSF. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011357)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011357#reissner-s-fiber
+   :name: Reissner's fiber
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011357
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 abdomenNerve
 ------------
 
@@ -29652,6 +29670,24 @@ ramusSupraotic
 
 ------------
 
+ramusVentral
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ramusVentral
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a posterior lateral line nerve (PLLN). [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010804)]
+   :description: This ramus leaves the postotic ganglionic complex together with the third branchial ramus of X. This ramule innervates the ventral line of neuromasts. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_3010804)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:3010804#ramus-ventral
+   :name: ramus ventral
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_3010804
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 redNucleus
 ----------
 
@@ -29708,6 +29744,40 @@ regionalPartOfCerebellarCortex
 
 ------------
 
+remnantOfLumenOfRathkesPouch
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/remnantOfLumenOfRathkesPouch
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the adenohypophysis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009975) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009975#remnant-of-lumen-of-rathke-s-pouch
+   :name: remnant of lumen of Rathke's pouch
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009975
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+remnantOfRathkesPouch
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/remnantOfRathkesPouch
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the adenohypophysis. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006377)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006377#remnant-of-rathke-s-pouch
+   :name: remnant of Rathke's pouch
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006377
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 reticularFormation
 ------------------
 
@@ -29716,8 +29786,8 @@ reticularFormation
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/reticularFormation
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Reticular formation' is a regional part of brain. It is part of the brainstem.
-   :description: A composite substructure of the brainstem that consists of the midbrain reticular formation, the pontine reticular formation and the medullary reticular formation ( Carpenter-1983 ).
+   :definition: Is a regional part of brain. Is part of the brainstem. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002275) ('is_a' and 'relationship')]
+   :description: A composite substructure of the brainstem that consists of the midbrain reticular formation, the pontine reticular formation and the medullary reticular formation ( Carpenter-1983 ). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002275)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0109987
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002275#reticular-formation
    :name: reticular formation
@@ -29853,6 +29923,23 @@ retrohippocampalRegion
 
 ------------
 
+retrolenticularPartOfInternalCapsule
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrolenticularPartOfInternalCapsule
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the posterior limb of internal capsule. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034749) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034749#retrolenticular-part-of-internal-capsule
+   :name: retrolenticular part of internal capsule
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034749
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 retrorubralAreaOfMidbrainReticularNucleus
 -----------------------------------------
 
@@ -29884,6 +29971,24 @@ retrosplenialGranularCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014918#retrosplenial-granular-cortex
    :name: retrosplenial granular cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014918
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+retrosplenialRegion
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retrosplenialRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the cingulate cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013531) ('is_a' and 'relationship')]
+   :description: The retrosplenial region is a brain area and part of the cingulate cortex. It is defined by Brodmann area 26, Brodmann area 29 and the Brodmann area 30. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013531)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013531#retrosplenial-region
+   :name: retrosplenial region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013531
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -29954,8 +30059,8 @@ rhombicLip
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/rhombicLip
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Rhombic lip' is part of the future metencephalon.
-   :description: The posterior section of the developing metencephalon recognized transiently within the vertebrate embryo; the rhombic lip extends posteriorly from the roof of the fourth ventricle to dorsal neuroepithelial cell and can be divided into eight structural units based on rhombomeres 1-8 (r1-r8), recognized at early stages of hindbrain development; producing granule cells and five brainstem nuclei, the rhombic lip plays an important role in developing a complex cerebellar neural system.
+   :definition: Is part of the future metencephalon. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006215)]
+   :description: The posterior section of the developing metencephalon recognized transiently within the vertebrate embryo; the rhombic lip extends posteriorly from the roof of the fourth ventricle to dorsal neuroepithelial cell and can be divided into eight structural units based on rhombomeres 1-8 (r1-r8), recognized at early stages of hindbrain development; producing granule cells and five brainstem nuclei, the rhombic lip plays an important role in developing a complex cerebellar neural system. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006215)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727583
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006215#rhombic-lip
    :name: rhombic lip
@@ -30536,6 +30641,42 @@ rightAuditoryCortex
 
 ------------
 
+rightCerebralHemisphere
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightCerebralHemisphere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cerebral hemisphere. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002813)]
+   :description: A cerebral hemisphere that is in the right side of a brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002813)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002813#right-cerebral-hemisphere-1
+   :name: right cerebral hemisphere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002813
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightDorsalThalamus
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightDorsalThalamus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013684)]
+   :description: A dorsal thalamus that is in the right side of a diencephalon. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013684)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013684#right-dorsal-thalamus
+   :name: right dorsal thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013684
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightFrontalLobe
 ----------------
 
@@ -30644,6 +30785,41 @@ rightParietalLobe
 
 ------------
 
+rightPutamen
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightPutamen
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a putamen. Is part of the right cerebral hemisphere. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008885) ('is_a' and 'relationship')]
+   :description: A putamen that is part of a right cerebral hemisphere. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008885)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008885#right-putamen
+   :name: right putamen
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008885
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rightSubLobarRegion
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rightSubLobarRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sub-lobar region. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024901)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024901#right-sub-lobar-region-1
+   :name: right sub-lobar region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024901
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rightTemporalLobe
 -----------------
 
@@ -30680,6 +30856,24 @@ roofPlateOfDiencephalon
 
 ------------
 
+roofPlateOfMedullaOblongata
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/roofPlateOfMedullaOblongata
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the medulla oblongata. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003303)]
+   :description: A roof plate that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003303)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003303#roof-plate-of-medulla-oblongata
+   :name: roof plate of medulla oblongata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003303
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 roofPlateOfMetencephalon
 ------------------------
 
@@ -30693,6 +30887,24 @@ roofPlateOfMetencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003302#roof-plate-of-metencephalon
    :name: roof plate of metencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003302
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+roofPlateOfMidbrain
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/roofPlateOfMidbrain
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the midbrain. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003299)]
+   :description: The mesencephalic roof plate, including the caudal and rostral part of the midbrain roof. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003299)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003299#roof-plate-of-midbrain
+   :name: roof plate of midbrain
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003299
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -30865,8 +31077,7 @@ rostralIntralaminarNuclearGroup
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralIntralaminarNuclearGroup
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Rostral intralaminar nuclear group' is a nucleus of dorsal thalamus. It is part of the intralaminar nuclear group.
-   :description:
+   :definition: Is a nucleus of dorsal thalamus. Is part of the intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002965) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110211
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002965#rostral-intralaminar-nuclei
    :name: rostral intralaminar nuclear group
@@ -30939,8 +31150,8 @@ rostralMigratoryStream
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralMigratoryStream
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Rostral migratory stream' is a regional part of brain. It is part of the telencephalon.
-   :description: Unique telencephalic subventricular zones that extend from the lateral ventricles into the olfactory bulbs. Newly produced GABAergic interneurons migrate along the RMS and settle in the bulb.
+   :definition: Is a regional part of brain. Is part of the telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008881) ('is_a' and 'relationship')]
+   :description: Unique telencephalic subventricular zones that extend from the lateral ventricles into the olfactory bulbs. Newly produced GABAergic interneurons migrate along the RMS and settle in the bulb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008881)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110216
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008881#rostral-migratory-stream-1
    :name: rostral migratory stream
@@ -30958,8 +31169,7 @@ rostralPortionOfTheMedialAccessoryOlive
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralPortionOfTheMedialAccessoryOlive
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Rostral portion of the medial accessory olive' is a regional part of brain. It is part of the inferior olivary complex.
-   :description:
+   :definition: Is a regional part of brain. Is part of the inferior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0024043) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110220
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024043#rostral-portion-of-the-medial-accessory-olive-1
    :name: rostral portion of the medial accessory olive
@@ -31000,6 +31210,24 @@ rostralSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025763#rostral-sulcus-1
    :name: rostral sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025763
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+rostralVentrolateralMedulla
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostralVentrolateralMedulla
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005807) ('is_a' and 'relationship')]
+   :description: Control of blood pressure is crucially dependent on the integrity of a small region of the brainstem called the ventrolateral medulla. Within this part of the brain are the cells that control the heart, blood vessels, swallowing, breathing and many other functions of the body that are not noticed at a conscious level; such unconscious activities are known as 'Autonomic'. One of these regions is the Rostral Ventrolateral Medulla (RVLM) is also known as the pressor area of the medulla (medulla pressor). It receives inhibitory GABAergic input from the caudal ventrolateral medulla (CVLM). The RVLM is the primary regulator of the sympathetic nervous system, sending excitatory fibers (catecholaminergic) to the sympathetic preganglionic neurons in the spinal cord, via reticulospinal tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005807)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005807#rostral-ventrolateral-medulla
+   :name: rostral ventrolateral medulla
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005807
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31047,8 +31275,8 @@ rostrumOfCorpusCallosum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/rostrumOfCorpusCallosum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.
-   :description:
+   :definition: Is a cerebral hemisphere white matter. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015703) ('is_a' and 'relationship')]
+   :description: The part of the corpus callosum that projects posteriorly and inferiorly from the anteriormost genu. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015703)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0731510
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015703#rostrum-of-corpus-callosum
    :name: rostrum of corpus callosum
@@ -31076,6 +31304,59 @@ rubrospinalTract
 
 ------------
 
+sacculeOfMembranousLabyrinth
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacculeOfMembranousLabyrinth
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an otolith organ. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001854)]
+   :description: The smaller of the two otolith organs in the vestibule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001854)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001854#saccule-of-membranous-labyrinth
+   :name: saccule of membranous labyrinth
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001854
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+saccusDorsalis
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/saccusDorsalis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the epithalamus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000582)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000582#saccus-dorsalis
+   :name: saccus dorsalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000582
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+saccusVasculosus
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/saccusVasculosus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a circumventricular organ. Is part of the hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034943) ('is_a' and 'relationship')]
+   :description: A circumventricular organ of the hypothalamus of many jawed fishes, protruding from the caudal infundibular wall. It is a vascularized neuroepithelium that consists of coronet cells, cerebrospinal fluid-contacting neurons and supporting cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034943)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034943#saccus-vasculosus
+   :name: saccus vasculosus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034943
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sacralDorsalRootGanglion
 ------------------------
 
@@ -31088,6 +31369,58 @@ sacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002837#sacral-dorsal-root-ganglion-1
    :name: sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002837
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sagitta
+-------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sagitta
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an otolith. Is part of the saccule of membranous labyrinth. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000676) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000676#sagitta
+   :name: sagitta
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000676
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sagittalSinus
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sagittalSinus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an unpaired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]
+   :description: Either the inferior or superior sagittal sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015704)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015704#sagittal-sinus
+   :name: sagittal sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015704
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sagittalStratum
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sagittalStratum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a tract of brain. Is part of the forebrain ipsilateral fiber tracts. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035931) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035931#sagittal-stratum
+   :name: sagittal stratum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035931
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31232,6 +31565,24 @@ secondaryGustatoryTract
 
 ------------
 
+secondaryMuscleSpindle
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondaryMuscleSpindle
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a muscle spindle. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004011)]
+   :description: The sensory organ in muscle; involved in the stretch reflex and not sensitive to stretch velocity. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004011)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004011#secondary-muscle-spindle
+   :name: secondary muscle spindle
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004011
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 secondaryOlfactoryCortex
 ------------------------
 
@@ -31331,7 +31682,8 @@ segmentalSubdivisionOfHindbrain
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Segmental subdivision of hindbrain' is a segmental subdivision of nervous system. It is part of the hindbrain.
+   :definition: Is a segmental subdivision of nervous system. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004733) ('is_a' and 'relationship')]
+   :description: An organ subunit that is part of a hindbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004733)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0729200
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004733#segmental-subdivision-of-hindbrain
    :name: segmental subdivision of hindbrain
@@ -31412,6 +31764,24 @@ sensoryDissociationArea
 
 ------------
 
+sensoryEpithelium
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sensoryEpithelium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006934) ('is_a' and 'relationship')]
+   :description: Simple columnar epithelium made up of cells specialized to serve as sensory cells for the reception of external stimuli, as the sensory cells of the cochlea, vestibule, nasal mucosa, and tongue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006934)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006934#sensory-epithelium
+   :name: sensory epithelium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006934
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sensoryGanglion
 ---------------
 
@@ -31456,8 +31826,8 @@ septalNuclearComplex
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/septalNuclearComplex
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Septal nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the septum of telencephalon and basal forebrain.
-   :description: Collection of nerve cells in the medial forebrain lying generally in front of the anterior commissure (Maryann Martone).
+   :definition: Is a cerebral hemisphere gray matter and nuclear complex of neuraxis. Is part of the septum of telencephalon and the basal forebrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002663) ('is_a' and 'relationship')]
+   :description: Collection of nerve cells in the medial forebrain lying generally in front of the anterior commissure (Maryann Martone). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002663)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110508
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002663#septal-nuclear-complex-1
    :name: septal nuclear complex
@@ -31550,8 +31920,8 @@ septumPellucidum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/septumPellucidum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Septum pellucidum' is part of the septum of telencephalon and telencephalic ventricle.
-   :description: A triangular double membrane, consisting of glial cells and fibers (Heimer, 1996) separating the anterior horns of the lateral ventricles of the brain. It is situated in the median plane and bounded by the corpus callosum and the body and columns of the fornix.
+   :definition: Is part of the septum of telencephalon and the telencephalic ventricle. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004714)]
+   :description: A triangular double membrane, consisting of glial cells and fibers (Heimer, 1996) separating the anterior horns of the lateral ventricles of the brain. It is situated in the median plane and bounded by the corpus callosum and the body and columns of the fornix. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004714)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110509
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004714#septal-pellucidum
    :name: septum pellucidum
@@ -31595,6 +31965,24 @@ seventhThoracicDorsalRootGanglion
 
 ------------
 
+sheathOfSchwann
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sheathOfSchwann
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the peripheral nervous system. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001031) ('is_a' and 'relationship')]
+   :description: The outermost nucleated cytoplasmic layer of Schwann cells that surrounds the axon of the neuron. It forms the outermost layer of the nerve fiber in the peripheral nervous system. The neurolemma is underlain by the basal lamina (referred to as the medullary sheath in the included illustrations. In CNS, axons are myelinated by oligodendrocytes, thus lack neurolemma. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001031)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001031#sheath-of-schwann
+   :name: sheath of Schwann
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001031
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 shellOfNucleusAccumbens
 -----------------------
 
@@ -31609,6 +31997,24 @@ shellOfNucleusAccumbens
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0012171#shell-of-nucleus-accumbens-1
    :name: shell of nucleus accumbens
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0012171
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sigmoidSinus
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sigmoidSinus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]
+   :description: A portion of the lateral venous sinus, bulging prominently into the mastoid cavity, that serves as a principal conduit by which blood leaves the cranium. The sigmoid is drained by the internal jugular vein. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005475)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005475#sigmoid-sinus
+   :name: sigmoid sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005475
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31763,14 +32169,32 @@ sommersSector
 .. admonition:: metadata sheet
 
    :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sommersSector
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/SommersSector
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Sommer's sector' is a regional part of brain. It is part of the hippocampal formation.
-   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995)
+   :definition: Is a regional part of brain. Is part of the hippocampal formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932) ('is_a' and 'relationship')]
+   :description: Part of hippocampal formation comprising area CA1 and the subiculum (pg 425, Heimer, L. The human brain and spinal cord, Springer-Verlag, 1995) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023932)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110759
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023932#sommer-s-sector-1
    :name: Sommer's sector
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023932
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sphenoparietalSinus
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sphenoparietalSinus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a paired venous dural sinus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035338)]
+   :description: The cavernous sinus receives the superior ophthalmic vein through the superior orbital fissure, some of the cerebral veins, and also the small sphenoparietal sinus, which courses along the under surface of the small wing of the sphenoid. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035338)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035338#sphenoparietal-sinus
+   :name: sphenoparietal sinus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035338
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -31877,6 +32301,24 @@ spinalDuraMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002093#spinal-dura-mater
    :name: spinal dura mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002093
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalNeuromere
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalNeuromere
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neuromere. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014777) ('is_a' and 'relationship')]
+   :description: A neuromere that is part of the presumptive spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014777)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014777#spinal-neuromere
+   :name: spinal neuromere
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014777
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32075,8 +32517,8 @@ spleniumOfTheCorpusCallosum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/spleniumOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition:
-   :description: The 'splenium of the corpus callosum' is a white matter fibre bundle. It is represents the posterior end of the corpus callosum.
+   :definition: Is a cerebral hemisphere white matter. Is part of the corpus callosum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015708) ('is_a' and 'relationship')]
+   :description: The posterior end of the corpus callosum. It overlaps the tela chorioidea of the third ventricle and the mid-brain, and ends in a thick, convex, free border. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015708)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0724356
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015708#splenium-of-the-corpus-callosum
    :name: splenium of the corpus callosum
@@ -32098,6 +32540,58 @@ spurOfArcuateSulcus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025772#spur-of-arcuate-sulcus-1
    :name: spur of arcuate sulcus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025772
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+statoacousticEpithelium
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/statoacousticEpithelium
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sensory epithelium. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009969)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009969#statoacoustic-epithelium
+   :name: statoacoustic epithelium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009969
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+statoconialMembrane
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/statoconialMembrane
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the otolith organ. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016567)]
+   :description: An acellular membrane in the vestibular labyrinth that is composed of the otoconial layer, gelatinous layer, and a subcupular meshwork. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016567)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016567#statoconial-membrane
+   :name: statoconial membrane
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016567
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumFibrosumEtGriseumSuperficiale
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumFibrosumEtGriseumSuperficiale
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the superior colliculus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001347)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001347#stratum-fibrosum-et-griseum-superficiale
+   :name: stratum fibrosum et griseum superficiale
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001347
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32256,6 +32750,24 @@ stratumLacunosumMoleculareOfUncalCA3
 
 ------------
 
+stratumLemnisciOfSuperiorColliculus
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumLemnisciOfSuperiorColliculus
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter layer of superior colliculus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006782)]
+   :description: Composite layer of the superior colliculus lying deep to the stratum opticum, that can be further subdivided into fiber and cell rich layers (Brodal, Neurological Anatomy, 2nd ed., 1981, pg 544) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006782)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006782#stratum-lemnisci-of-superior-colliculus
+   :name: stratum lemnisci of superior colliculus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006782
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 stratumLucidumOfCaudalCA3
 -------------------------
 
@@ -32302,6 +32814,40 @@ stratumLucidumOfUncalCA3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034870#stratum-lucidum-of-uncal-ca3
    :name: stratum lucidum of uncal CA3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034870
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumMarginale
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumMarginale
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the superior colliculus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001348)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001348#stratum-marginale
+   :name: stratum marginale
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001348
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumOpticum
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumOpticum
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the superior colliculus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001349)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001349#stratum-opticum
+   :name: stratum opticum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001349
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32455,6 +33001,23 @@ stratumOriensOfUncalCA3
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034872#stratum-oriens-of-uncal-ca3
    :name: stratum oriens of uncal CA3
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034872
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+stratumPeriventriculare
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumPeriventriculare
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the superior colliculus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001352)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001352#stratum-periventriculare
+   :name: stratum periventriculare
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001352
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32774,8 +33337,8 @@ stratumZonaleOfThalamus
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/stratumZonaleOfThalamus
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Stratum zonale of thalamus' is a diencephalic white matter. It is part of the dorsal plus ventral thalamus.
-   :description: The thalamus consists chiefly of gray substance, but its upper surface is covered by a layer of white substance, named the stratum zonale.
+   :definition: Is a diencephalic white matter. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002801) ('is_a' and 'relationship')]
+   :description: The thalamus consists chiefly of gray substance, but its upper surface is covered by a layer of white substance, named the stratum zonale. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002801)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111083
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002801#stratum-zonale-of-thalamus-1
    :name: stratum zonale of thalamus
@@ -32793,12 +33356,29 @@ striaMedullaris
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/striaMedullaris
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Stria medullaris' is a diencephalic white matter and stria of neuraxis. It is part of the dorsal plus ventral thalamus.
-   :description: White matter pathway located in the superior wall of the third ventricle along the dorsal-medial margin of the diencephalon; contains axons that interconnect the anterior hypothalamus and septal nuclei in the medial basal forebrain with the habenula, a component of the epithalamus. (http://www.sylvius.com/index/s/stria_medullaris.html)]]
+   :definition: Is a diencephalic white matter and stria of neuraxis. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006086) ('is_a' and 'relationship')]
+   :description: The major afferent track to the habenula from the telencephalon (particularly in the septal side) in all vertebrates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006086)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111089
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006086#stria-medullaris-1
    :name: stria medullaris
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006086
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+striaOfNeuraxis
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striaOfNeuraxis
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013199)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013199#stria-of-neuraxis
+   :name: stria of neuraxis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013199
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -32830,8 +33410,8 @@ striaTerminalis
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/striaTerminalis
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Stria terminalis' is a cerebral hemisphere white matter and stria of telencephalon.
-   :description: White matter structure in the brain consisting of fibers running along the lateral margin of the ventricular surface of the thalamus. The stria terminalis covers the thalamostriate vein, marking a line of separation between the thalamus and the caudate nucleus as seen upon gross dissection of the ventricles of the brain, viewed from the superior aspect. The stria terminalis extends from the region of the interventricular foramen to the temporal horn of the lateral ventricle, carrying fibers from the amygdala to the septal, hypothalamic, and thalamic areas of the brain. It also carries fibers projecting from these areas back to the amygdala. (http://en.wikipedia.org/wiki/Stria_terminalis)]]
+   :definition: Is a cerebral hemisphere white matter and stria of telencephalon. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003029)]
+   :description: White matter structure in the brain consisting of fibers running along the lateral margin of the ventricular surface of the thalamus. The stria terminalis covers the thalamostriate vein, marking a line of separation between the thalamus and the caudate nucleus as seen upon gross dissection of the ventricles of the brain, viewed from the superior aspect. The stria terminalis extends from the region of the interventricular foramen to the temporal horn of the lateral ventricle, carrying fibers from the amygdala to the septal, hypothalamic, and thalamic areas of the brain. It also carries fibers projecting from these areas back to the amygdala. (Wikipedia:Stria_terminalis) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003029)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111091
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003029#stria-terminalis-1
    :name: stria terminalis
@@ -32849,8 +33429,8 @@ striatum
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/striatum
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Striatum' is a gray matter of telencephalon. It is part of the ventral part of telencephalon, corpus striatum and basal nuclear complex.
-   :description: * Externally Sourced Definition: A region of the brain consisting of the phylogenetically newer part of the Corpus_striatum (Caudate_nucleus and Putamen).
+   :definition: Is a gray matter of telencephalon. Is part of the ventral part of telencephalon, the corpus striatum and the basal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435) ('is_a' and 'relationship')]
+   :description: A region of the forebrain consisting of the caudate nucleus, putamen and fundus striati. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002435)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111098
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002435#striatum
    :name: striatum
@@ -32905,12 +33485,29 @@ striosomalPartOfPutamen
    :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/UBERONParcellation/striosomalPartOfPutamen
    :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'Striosomal part of putamen' is a striosome. It is part of the putamen.
-   :description:
+   :definition: Is a striosome. Is part of the putamen. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029005) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111109
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029005#striosomal-part-of-putamen-1
    :name: striosomal part of putamen
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0029005
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+striosome
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/striosome
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a chemoarchitectural part of striatum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027371)]
+   :description: One of two compartments identified in the neostriatum, particularly the caudate nucleus, on the basis of differential staining for several biochemical markers such as acetylcholinesterase and calbindin. In individual sections, the striosomes appear as small patches of differentially high or low staining activity. In three dimensions, they form a 3D labyrinth extending throughout the caudate nucleus and in the putamen. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027371)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027371#striosome
+   :name: striosome
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027371
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
