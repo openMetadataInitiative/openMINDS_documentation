@@ -5421,6 +5421,42 @@ centralRetina
 
 ------------
 
+centralRetinalArtery
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralRetinalArtery
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a retina blood vessel. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]
+   :description: The central retinal artery (retinal artery) branches off the ophthalmic artery, running inferior to the optic nerve within its dural sheath to the eyeball. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001620)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001620#central-retinal-artery
+   :name: central retinal artery
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001620
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+centralRetinalVein
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralRetinalVein
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the cavernous sinus. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001673)]
+   :description: The central retinal vein (retinal vein) is a short vein that runs through the optic nerve and drains blood from the capillaries of the retina into the larger veins outside the eye. The anatomy of the veins of the orbit of the eye varies between individuals, and in some the central retinal vein drains into the superior ophthalmic vein, and in some it drains directly into the cavernous sinus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001673)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001673#central-retinal-vein
+   :name: central retinal vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001673
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 centralSulcus
 -------------
 
@@ -30350,6 +30386,24 @@ retina
 
 ------------
 
+retinaBloodVessel
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/retinaBloodVessel
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the vasculature of retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]
+   :description: A blood vessel that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003501)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003501#retina-blood-vessel
+   :name: retina blood vessel
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003501
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 retinalNeuralLayer
 ------------------
 
@@ -37610,6 +37664,23 @@ triangularSeptalNucleus
 
 ------------
 
+tributaryOfCentralRetinalVein
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tributaryOfCentralRetinalVein
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central retinal vein. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036300)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036300#tributary-of-central-retinal-vein
+   :name: tributary of central retinal vein
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036300
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 trigeminalGanglion
 ------------------
 
@@ -38196,6 +38267,24 @@ vasculatureOfCentralNervousSystem
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036303#vasculature-of-central-nervous-system
    :name: vasculature of central nervous system
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036303
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+vasculatureOfRetina
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vasculatureOfRetina
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the retina. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]
+   :description: A vasculature that is part of a retina. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004864)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004864#vasculature-of-retina
+   :name: vasculature of retina
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004864
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39179,25 +39268,6 @@ verticalLimbOfTheDiagonalBand
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006124#vertical-limb-of-the-diagonal-band-1
    :name: vertical limb of the diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006124
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-vessel
-------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.om-i.org/props/>
-   :@id: https://openminds.om-i.org/instances/UBERONParcellation/vessel
-   :@type: https://openminds.om-i.org/types/UBERONParcellation
-   :definition: 'vessel' is an anatomical conduit.
-   :description: A tubular structure that contains, conveys body fluid, such as blood or lymph.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0731576
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000055#vessel
-   :name: vessel
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000055
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
