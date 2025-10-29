@@ -18145,8 +18145,8 @@ lateralAmygdaloidNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.
-   :description: The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, PMID: 16242399).
+   :definition: Is a telencephalic nucleus. Is part of the basolateral amygdaloid nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002886) ('is_a' and 'relationship')]
+   :description: The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, http://www.ncbi.nlm.nih.gov/pubmed/ 16242399). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002886)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106043
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002886#lateral-amygdaloid-nucleus-1
    :name: lateral amygdaloid nucleus
@@ -18164,8 +18164,7 @@ lateralAmygdaloidNucleusDorsolateralPart
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral amygdaloid nucleus, dorsolateral part' is a regional part of brain.
-   :description:
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023415)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106044
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023415#lateral-amygdaloid-nucleus-dorsolateral-part-1
    :name: lateral amygdaloid nucleus, dorsolateral part
@@ -18183,8 +18182,7 @@ lateralAmygdaloidNucleusVentrolateralPart
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral amygdaloid nucleus, ventrolateral part' is a regional part of brain.
-   :description:
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023416)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106045
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023416#lateral-amygdaloid-nucleus-ventrolateral-part-1
    :name: lateral amygdaloid nucleus, ventrolateral part
@@ -18202,8 +18200,7 @@ lateralAmygdaloidNucleusVentromedialPart
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleusVentromedialPart
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral amygdaloid nucleus, ventromedial part' is a regional part of brain.
-   :description:
+   :definition: Is a regional part of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023417)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106046
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023417#lateral-amygdaloid-nucleus-ventromedial-part-1
    :name: lateral amygdaloid nucleus, ventromedial part
@@ -18239,8 +18236,8 @@ lateralCervicalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralCervicalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral cervical nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
-   :description: A diffusely arranged nucleus located in the dorsal portions of the lateral funiculus at about cervical levels C1-C3; synaptic station for the spinocervicothalamic tract.
+   :definition: Is a nucleus of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002176) ('is_a' and 'relationship')]
+   :description: A diffusely arranged nucleus located in the dorsal portions of the lateral funiculus at about cervical levels C1-C3; synaptic station for the spinocervicothalamic tract. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002176)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106050
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002176#lateral-cervical-nucleus
    :name: lateral cervical nucleus
@@ -18285,6 +18282,24 @@ lateralDivision
 
 ------------
 
+lateralDorsalNucleus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralDorsalNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of dorsal thalamus. Is part of the lateral nuclear group of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002984) ('is_a' and 'relationship')]
+   :description: The lateral dorsal nucleus is a nucleus of the thalamus. It acts in concert with the anterior nuclei of thalamus. It receives significant input from several subdivisions of visual cortex, and has a primary output to parietal cortex on the dorsolateral cortical convexity, giving it access to limbic forebrain nuclei important for emotion and behavior functions. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002984)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002984#lateral-dorsal-nucleus-1
+   :name: lateral dorsal nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002984
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralEminenceOfFourthVentricle
 --------------------------------
 
@@ -18316,6 +18331,23 @@ lateralEminenceOfHypophysis
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027109#lateral-eminence-of-hypophysis-1
    :name: lateral eminence of hypophysis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0027109
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralEntopeduncularNucleus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEntopeduncularNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a telencephalic nucleus. Is part of the ventral part of telencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000176) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000176#lateral-entopeduncular-nucleus
+   :name: lateral entopeduncular nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000176
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18410,6 +18442,24 @@ lateralGeniculateBody
 
 ------------
 
+lateralGeniculateNucleusParvocellularLayer
+------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateNucleusParvocellularLayer
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of lateral geniculate body. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022319)]
+   :description: Layer of the lateral geniculate nucleus characterized by small cells (adapted from Wikipedia: https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022319)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022319#lateral-geniculate-nucleus-parvocellular-layer
+   :name: lateral geniculate nucleus parvocellular layer
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022319
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralGlobusPallidus
 ---------------------
 
@@ -18454,8 +18504,7 @@ lateralHabenularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral habenular nucleus' is a habenular nucleus.
-   :description:
+   :definition: Is a habenular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001941)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106068
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001941#lateral-habenular-nucleus-1
    :name: lateral habenular nucleus
@@ -18492,8 +18541,8 @@ lateralHypothalamicNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral hypothalamic nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
-   :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating.
+   :definition: Is a hypothalamic nucleus. Is part of the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001937) ('is_a' and 'relationship')]
+   :description: The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001937)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106071
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001937#lateral-hypothalamic-nucleus-1
    :name: lateral hypothalamic nucleus
@@ -18575,6 +18624,23 @@ lateralLineNerve
 
 ------------
 
+lateralLineSensoryNucleus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralLineSensoryNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000381)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000381#lateral-line-sensory-nucleus
+   :name: lateral line sensory nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000381
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralLongitudinalStria
 ------------------------
 
@@ -18600,8 +18666,7 @@ lateralMammillaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
-   :description:
+   :definition: Is a hypothalamic nucleus. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001938) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106075
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001938#lateral-mammillary-nucleus-1
    :name: lateral mammillary nucleus
@@ -18675,12 +18740,29 @@ lateralNucleusOfStriaTerminalis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
-   :description:
+   :definition: Is a telencephalic nucleus. Is part of the bed nucleus of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034894) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106079
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034894#lateral-nucleus-of-stria-terminalis
    :name: lateral nucleus of stria terminalis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034894
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralNucleusOfTrapezoidBody
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralNucleusOfTrapezoidBody
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of superior olivary complex. Is part of the trapezoid body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016843) ('is_a' and 'relationship')]
+   :description: One of two potential parts of the trapezoid nucleus. Separated by an indistinct boundary, the other is the medial trapezoid nucleus ( Crosby-1962 ). The existence of the trapezoid nucleus in the human is disputed ( Bazwinsky-2003 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016843)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016843#lateral-nucleus-of-trapezoid-body
+   :name: lateral nucleus of trapezoid body
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016843
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18840,8 +18922,8 @@ lateralParabrachialNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
-   :description: The lateral parabrachial nucleus induces thirst by stimulating the median preoptic nucleus. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].
+   :definition: Is a parabrachial nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003007) ('is_a' and 'relationship')]
+   :description: The lateral parabrachial nucleus induces thirst by stimulating the median preoptic nucleus. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003007)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106086
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003007#lateral-parabrachial-nucleus-1
    :name: lateral parabrachial nucleus
@@ -18859,8 +18941,7 @@ lateralParagigantocellularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParagigantocellularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral paragigantocellular nucleus' is a paragigantocellular nucleus.
-   :description: Nucleus located in the rostral ventrolateral medulla.  The PGL was originally identified by cytoarchitectural criteria in the human medulla (Olszewski and Baxter, 1954). In humans, the PGL is located in the ventrolateral quadrant of the rostral medullary tegmentum between the nucleus subtrigeminalis caudally, trapezoid body and the superior olive rostrally, nucleus gigantocellularis medially, spinothalamic tract fibers laterally, inferior olive ventrally, and the nucleus ambiguous dorsally (Olszewski and Baxter, 1954). In the rat, the PGL has been further subdivided into retrofacial PGL (caudal to the facial nucleus), and more rostrally located juxtafacial PGL (medial to the facial nucleus), based upon different connectivity.
+   :definition: Is a paragigantocellular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016824)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106087
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016824#lateral-paragigantocellular-nucleus
    :name: lateral paragigantocellular nucleus
@@ -18878,8 +18959,7 @@ lateralPartOfBasalAmygdaloidNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
-   :description:
+   :definition: Is a cerebral hemisphere gray matter. Is part of the basal amygdaloid nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002888) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106089
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002888#lateral-part-of-basal-amygdaloid-nucleus-1
    :name: lateral part of basal amygdaloid nucleus
@@ -18897,12 +18977,28 @@ lateralPartOfMedialMammillaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the medial mammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002664) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106090
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002664#lateral-part-of-medial-mammillary-nucleus-1
    :name: lateral part of medial mammillary nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002664
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralPartOfMediodorsalNucleusOfTheThalamus
+--------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPartOfMediodorsalNucleusOfTheThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a gray matter of diencephalon. Is part of the medial dorsal nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035114) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035114#lateral-part-of-mediodorsal-nucleus-of-the-thalamus
+   :name: lateral part of mediodorsal nucleus of the thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035114
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18916,12 +19012,29 @@ lateralPericuneateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral pericuneate nucleus' is a nucleus of medulla oblongata.
-   :description:
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002874)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106093
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002874#lateral-pericuneate-nucleus-1
    :name: lateral pericuneate nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002874
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralPeriolivaryNucleus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPeriolivaryNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a periolivary nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016637)]
+   :description: Lateral component of the periolivary nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016637)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016637#lateral-periolivary-nucleus
+   :name: lateral periolivary nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016637
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18963,6 +19076,41 @@ lateralPlantarNerve
 
 ------------
 
+lateralPosteriorNucleusOfThalamus
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPosteriorNucleusOfThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of dorsal thalamus. Is part of the lateral nuclear group of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002983) ('is_a' and 'relationship')]
+   :description: The lateral posterior nucleus is a nucleus of the thalamus. It acts in concert with the pulvinar. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002983)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002983#lateral-posterior-nucleus
+   :name: lateral posterior nucleus of thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002983
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralPreglomerularNucleus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreglomerularNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a preglomerular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000209)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000209#lateral-preglomerular-nucleus
+   :name: lateral preglomerular nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000209
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lateralPreopticNucleus
 ----------------------
 
@@ -18971,8 +19119,8 @@ lateralPreopticNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral preoptic nucleus' is a hypothalamic nucleus. It is part of the lateral zone of hypothalamus.
-   :description: The lateral preoptic nucleus is lateral to the medial preoptic nucleus. It also mediates non-REM sleep onset.[WP,unvetted].
+   :definition: Is a hypothalamic nucleus. Is part of the lateral zone of hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001931) ('is_a' and 'relationship')]
+   :description: The lateral preoptic nucleus is lateral to the medial preoptic nucleus. It also mediates non-REM sleep onset. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001931)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106098
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001931#lateral-preoptic-nucleus-1
    :name: lateral preoptic nucleus
@@ -19008,8 +19156,7 @@ lateralPulvinarNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
-   :description:
+   :definition: Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002636) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106099
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002636#lateral-pulvinar-nucleus-1
    :name: lateral pulvinar nucleus
@@ -19064,8 +19211,8 @@ lateralReticularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral reticular nucleus' is a nucleus of medulla oblongata. It is part of the lateral medullary reticular complex.
-   :description: A nucleus of the lateral medullary nuclear complex.
+   :definition: Is a nucleus of medulla oblongata. Is part of the lateral medullary reticular complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002154) ('is_a' and 'relationship')]
+   :description: A nucleus of the lateral medullary nuclear complex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002154)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106100
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002154#lateral-reticular-nucleus-1
    :name: lateral reticular nucleus
@@ -19102,8 +19249,8 @@ lateralSeptalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral septal nucleus' is a telencephalic nucleus. It is part of the lateral septal complex.
-   :description: Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus.  The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981).
+   :definition: Is a telencephalic nucleus. Is part of the lateral septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667) ('is_a' and 'relationship')]
+   :description: Regional part of the septal nuclei, lying dorsal and slightly lateral to the medial septal nucleus. The lateral septum receives the bulk of projections of areas projecting to the septal nuclei (Adapted from Brodal, 1981). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002667)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106106
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002667#lateral-septal-nucleus-1
    :name: lateral septal nucleus
@@ -19121,12 +19268,28 @@ lateralSpinalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpinalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral spinal nucleus' is a nucleus of spinal cord. It is part of the dorsal horn of spinal cord.
-   :description:
+   :definition: Is a nucleus of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035024) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106113
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035024#lateral-spinal-nucleus
    :name: lateral spinal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035024
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralSpiriformNucleus
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSpiriformNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035591)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035591#lateral-spiriform-nucleus
+   :name: lateral spiriform nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035591
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19159,8 +19322,8 @@ lateralSuperiorOlivaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
-   :description: One of two recognized nuclei comprising the superior olive.  The lateral superior olivary nucleus is much less prominent in humans than in many rodents and carnivores.  In the latter species, it is frequently described as S- or V-shaped.
+   :definition: Is a nucleus of superior olivary complex. Is part of the primary superior olive. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002779) ('is_a' and 'relationship')]
+   :description: One of two recognized nuclei comprising the superior olive. The lateral superior olivary nucleus is much less prominent in humans than in many rodents and carnivores. In the latter species, it is frequently described as S- or V-shaped. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002779)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106117
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002779#lateral-superior-olivary-nucleus-1
    :name: lateral superior olivary nucleus
@@ -19178,8 +19341,8 @@ lateralTuberalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralTuberalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral tuberal nucleus' is a hypothalamic nucleus. It is part of the lateral hypothalamic area.
-   :description: Nerve cell nuclei situated ventrally in the intermediate hypothalamic region, mainly in the lateral hypothalamic area.
+   :definition: Is a hypothalamic nucleus. Is part of the lateral hypothalamic area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000435) ('is_a' and 'relationship')]
+   :description: Nerve cell nuclei situated ventrally in the intermediate hypothalamic region, mainly in the lateral hypothalamic area. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000435)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106124
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000435#lateral-tuberal-nuclear-complex
    :name: lateral tuberal nucleus
@@ -19269,8 +19432,8 @@ lateralVestibularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lateralVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lateral vestibular nucleus' is a vestibular nucleus.
-   :description: One of the nuclei comprising the vestibular nuclear complex. In some mammals, e.g., primates, it is further subdivided into subnuclei.  It therefore differs in appearance and topology in different mammals.
+   :definition: Is a vestibular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007230)]
+   :description: One of the nuclei comprising the vestibular nuclear complex. In some mammals, e.g., primates, it is further subdivided into subnuclei. It therefore differs in appearance and topology in different mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007230)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106126
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007230#lateral-vestibular-nucleus
    :name: lateral vestibular nucleus
@@ -19360,6 +19523,24 @@ lateralZoneOfHypothalamus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002273#lateral-zone-of-hypothalamus
    :name: lateral zone of hypothalamus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002273
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laterodorsalTegmentalNucleus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/laterodorsalTegmentalNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and nucleus of midbrain tegmentum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002267)]
+   :description: The laterodorsal tegmental nucleus (or lateroposterior tegmental nucleus) is a nucleus situated in the brainstem, spanning the midbrain tegmentum and the pontine tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002267)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002267#laterodorsal-tegmental-nucleus
+   :name: laterodorsal tegmental nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002267
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -19798,8 +19979,8 @@ lentiformNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.
-   :description: The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. It is a large, cone-shaped mass of gray matter just lateral to the internal capsule. [WP,unvetted].
+   :definition: Is a telencephalic nucleus. Is part of the ventral striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002263) ('is_a' and 'relationship')]
+   :description: The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. It is a large, cone-shaped mass of gray matter just lateral to the internal capsule. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002263)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0725892
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002263#lentiform-nucleus
    :name: lentiform nucleus
@@ -19960,8 +20141,7 @@ limitansNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/limitansNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Limitans nucleus' is a nucleus of brain.
-   :description:
+   :definition: Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003026)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106267
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003026#limitans-nucleus-1
    :name: limitans nucleus
@@ -19996,7 +20176,7 @@ linearNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/linearNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Linear nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002557) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106275
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002557#linear-nucleus-1
    :name: linear nucleus
@@ -20512,6 +20692,23 @@ maculaOfUtricleOfMembranousLabyrinth
 
 ------------
 
+magnocellularLayerOfDorsalNucleusOfLateralGeniculateBody
+--------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularLayerOfDorsalNucleusOfLateralGeniculateBody
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a layer of lateral geniculate body. Is part of the dorsal lateral geniculate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013606) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013606#magnocellular-layer-of-dorsal-nucleus-of-lateral-geniculate-body
+   :name: magnocellular layer of dorsal nucleus of lateral geniculate body
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013606
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 magnocellularNucleusOfMedialGeniculateBody
 ------------------------------------------
 
@@ -20520,12 +20717,45 @@ magnocellularNucleusOfMedialGeniculateBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfMedialGeniculateBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Magnocellular nucleus of medial geniculate body' is a nucleus of dorsal thalamus. It is part of the medial geniculate body.
-   :description:
+   :definition: Is a nucleus of dorsal thalamus. Is part of the medial geniculate body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002759) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106472
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002759#magnocellular-nucleus-of-medial-geniculate-body-1
    :name: magnocellular nucleus of medial geniculate body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002759
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+magnocellularNucleusOfStriaTerminalis
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularNucleusOfStriaTerminalis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a telencephalic nucleus. Is part of the anterior division of bed nuclei of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007627) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007627#magnocellular-nucleus-of-stria-terminalis
+   :name: magnocellular nucleus of stria terminalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007627
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+magnocellularOctavalNucleus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularOctavalNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an octaval nerve sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000540)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000540#magnocellular-octaval-nucleus
+   :name: magnocellular octaval nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000540
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20539,8 +20769,7 @@ magnocellularPartOfMedialDorsalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Magnocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the medial dorsal nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002647) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106473
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002647#magnocellular-part-of-medial-dorsal-nucleus-1
    :name: magnocellular part of medial dorsal nucleus
@@ -20558,8 +20787,8 @@ magnocellularPartOfRedNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.
-   :description: Caudal region of the red nucleus located in the midbrain, containing mostly large cell bodies.
+   :definition: Is a gray matter of midbrain. Is part of the red nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002936) ('is_a' and 'relationship')]
+   :description: The magnocellular red nucleus (RNm) is located in the rostral midbrain and is involved in motor coordination. Together with the parvocellular red nucleus, it makes up the red nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002936)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106474
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002936#magnocellular-part-of-red-nucleus-1
    :name: magnocellular part of red nucleus
@@ -20577,8 +20806,7 @@ magnocellularPartOfVentralAnteriorNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfVentralAnteriorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Magnocellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the ventral anterior nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002935) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106475
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002935#magnocellular-part-of-ventral-anterior-nucleus-1
    :name: magnocellular part of ventral anterior nucleus
@@ -20596,12 +20824,29 @@ magnocellularPreopticNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Magnocellular preoptic nucleus' is a preoptic nucleus.
-   :description:
+   :definition: Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000248)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106476
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000248#magnocellular-preoptic-nucleus
    :name: magnocellular preoptic nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000248
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+magnocellularSuperficialPretectalNucleus
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularSuperficialPretectalNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic nucleus and superficial pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035563)]
+   :description: A nucleus that is part of the superficial pretectum and is characterized by large widely scattered cells. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035563)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035563#magnocellular-superficial-pretectal-nucleus
+   :name: magnocellular superficial pretectal nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035563
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20906,8 +21151,8 @@ matrixCompartmentOfCaudateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Matrix compartment of caudate nucleus' is a matrix compartment. It is part of the caudate nucleus.
-   :description: Matrix compartment located in the caudate nucleus
+   :definition: Is a matrix compartment. Is part of the caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029001) ('is_a' and 'relationship')]
+   :description: Matrix compartment located in the caudate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029001)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106568
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029001#matrix-compartment-of-caudate-nucleus-1
    :name: matrix compartment of caudate nucleus
@@ -20943,8 +21188,8 @@ matrixPartOfHeadOfCaudateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.
-   :description: Matrix compartment located in the head of the caudate nucleus
+   :definition: Is a matrix compartment of caudate nucleus. Is part of the head of caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027245) ('is_a' and 'relationship')]
+   :description: Matrix compartment located in the head of the caudate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027245)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106571
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027245#matrix-part-of-head-of-caudate-nucleus-1
    :name: matrix part of head of caudate nucleus
@@ -20962,8 +21207,8 @@ matrixPartOfTailOfCaudateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Matrix part of tail of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the tail of caudate nucleus.
-   :description: Matrix compartment located in the tail of the caudate nucleus
+   :definition: Is a matrix compartment of caudate nucleus. Is part of the tail of caudate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027246) ('is_a' and 'relationship')]
+   :description: Matrix compartment located in the tail of the caudate nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0027246)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106572
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0027246#matrix-part-of-tail-of-caudate-nucleus-1
    :name: matrix part of tail of caudate nucleus
@@ -21026,6 +21271,41 @@ mechanoreceptor
 
 ------------
 
+medialAccessoryInferiorOlivaryNucleus
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryInferiorOlivaryNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an inferior olivary nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002159)]
+   :description: The inferior olivary nucleus that lies between the primary olivary nucleus and the pyramid, and forms a curved lamina, the concavity of which is directed laterally. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002159)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002159#medial-accessory-inferior-olivary-nucleus
+   :name: medial accessory inferior olivary nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002159
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialAccessoryNucleusOfOpticTract
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAccessoryNucleusOfOpticTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is an accessory nucleus of optic tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013601)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013601#medial-accessory-nucleus-of-optic-tract
+   :name: medial accessory nucleus of optic tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0013601
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialAccessoryOlive
 --------------------
 
@@ -21053,7 +21333,7 @@ medialAmygdaloidNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.
+   :definition: Is a telencephalic nucleus. Is part of the corticomedial nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002892) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736076
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002892#medial-amygdaloid-nucleus-1
    :name: medial amygdaloid nucleus
@@ -21122,8 +21402,8 @@ medialDorsalNucleusOfThalamus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial dorsal nucleus of thalamus' is a nucleus of dorsal thalamus.
-   :description: The medial dorsal nucleus (or dorsomedial nucleus of thalamus) is a large nucleus in the thalamus. It receives inputs from the Pre-Frontal Cortex and the Limbic System and in turn relays them to the Pre-Frontal Association Cortex. As a result, it plays a crucial role in attention, planning, organization, abstract thinking, multi-tasking and active memory. The connections of the medial dorsal nucleus have even been used to delineate the prefrontal cortex of the GÃ¶ttingen minipig brain. By stereology the number of brain cells in the region has been estimated to around 6.43 million neurons in the adult human brain and 36.3 million glial cells, and with the newborn having quite different numbers: around 11.2 million neurons and 10.6 million glial cells. Lesions of the medial dorsal nucleus have been associated with Wernicke's encephalopathy [WP,unvetted].
+   :definition: Is a nucleus of dorsal thalamus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002739)]
+   :description: The medial dorsal nucleus (or dorsomedial nucleus of thalamus) is a large nucleus in the thalamus. It receives inputs from the Pre-Frontal Cortex and the Limbic System and in turn relays them to the Pre-Frontal Association Cortex. As a result, it plays a crucial role in attention, planning, organization, abstract thinking, multi-tasking and active memory. The connections of the medial dorsal nucleus have even been used to delineate the prefrontal cortex of the Göttingen minipig brain. By stereology the number of brain cells in the region has been estimated to around 6.43 million neurons in the adult human brain and 36.3 million glial cells, and with the newborn having quite different numbers: around 11.2 million neurons and 10.6 million glial cells. Lesions of the medial dorsal nucleus have been associated with Wernicke's encephalopathy. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002739)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106636
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002739#medial-dorsal-nucleus
    :name: medial dorsal nucleus of thalamus
@@ -21188,6 +21468,40 @@ medialForebrainBundleTelencephalon
 
 ------------
 
+medialFunicularNucleusMedullaOblongata
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialFunicularNucleusMedullaOblongata
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000389)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000389#medial-funicular-nucleus-medulla-oblongata
+   :name: medial funicular nucleus medulla oblongata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000389
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialFunicularNucleusTrigeminalNuclei
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialFunicularNucleusTrigeminalNuclei
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a trigeminal sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000997)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000997#medial-funicular-nucleus-trigeminal-nuclei
+   :name: medial funicular nucleus trigeminal nuclei
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000997
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialGanglionicEminence
 ------------------------
 
@@ -21239,6 +21553,24 @@ medialGlobusPallidus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002477#globus-pallidus-internal-segment
    :name: medial globus pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002477
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialHabenularNucleus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialHabenularNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a habenular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001942)]
+   :description: The habenular nuclei comprise a small group of nuclei that are part of the epithalamus of the diencephalon, situated at the posterior end of the thalamus, on its upper surface. The habenular nuclei are typically divided into: lateral habenular nucleus medial habenular nucleus The pineal gland is attached to the brain in this region. Nerve impulses from the habenular nuclei are transmitted to the septal nuclei via the stria medullaris, which is found on the medial surface of the thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001942)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001942#medial-habenular-nucleus-1
+   :name: medial habenular nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001942
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21437,8 +21769,7 @@ medialMammillaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.
-   :description:
+   :definition: Is a hypothalamic nucleus. Is part of the mammillary body. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001939) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106660
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001939#medial-mammillary-nucleus-1
    :name: medial mammillary nucleus
@@ -21484,6 +21815,23 @@ medialMotorNucleusOfVagalNerve
 
 ------------
 
+medialNucleusOfSolitaryTract
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfSolitaryTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009052)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009052#medial-nucleus-of-solitary-tract
+   :name: medial nucleus of solitary tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009052
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialNucleusOfStriaTerminalis
 ------------------------------
 
@@ -21492,8 +21840,7 @@ medialNucleusOfStriaTerminalis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial nucleus of stria terminalis' is a telencephalic nucleus. It is part of the bed nucleus of stria terminalis.
-   :description:
+   :definition: Is a telencephalic nucleus. Is part of the bed nucleus of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034895) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106667
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034895#medial-nucleus-of-stria-terminalis
    :name: medial nucleus of stria terminalis
@@ -21511,12 +21858,30 @@ medialNucleusOfTrapezoidBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialNucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial nucleus of trapezoid body' is a nucleus of trapezoid body. It is part of the primary superior olive.
-   :description: Nucleus in the pontine tegmentum of most mammals that receives projections from the ventral cochlear nucleus via the large specialized synapse, the Calyx of Held.  It is not clear whether a well defined nucleus is present in humans, although humans may possess scattered cells with similar input.
+   :definition: Is a nucleus of trapezoid body. Is part of the primary superior olive. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002833) ('is_a' and 'relationship')]
+   :description: Nucleus in the pontine tegmentum of most mammals that receives projections from the ventral cochlear nucleus via the large specialized synapse, the Calyx of Held. It is not clear whether a well defined nucleus is present in humans, although humans may possess scattered cells with similar input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002833)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106669
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002833#medial-nucleus-of-trapezoid-body-1
    :name: medial nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002833
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialOctavolateralisNucleus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOctavolateralisNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a lateral line sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000291)]
+   :description: Lateral line sensory nucleus located in the cerebellum that processes sensory input from the lateral line. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000291)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000291#medial-octavolateralis-nucleus
+   :name: medial octavolateralis nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000291
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21530,8 +21895,7 @@ medialOculomotorNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialOculomotorNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.
-   :description:
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the oculomotor nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002975) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106670
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002975#medial-oculomotor-nucleus-1
    :name: medial oculomotor nucleus
@@ -21657,8 +22021,8 @@ medialParabrachialNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.
-   :description: The Medial parabrachial nucleus is a nucleus of the pons which constitutes part of the pneumotaxic center. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].
+   :definition: Is a parabrachial nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002918) ('is_a' and 'relationship')]
+   :description: The Medial parabrachial nucleus is a nucleus of the pons which constitutes part of the pneumotaxic center. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002918)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106675
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002918#medial-parabrachial-nucleus-1
    :name: medial parabrachial nucleus
@@ -21676,8 +22040,7 @@ medialPartOfBasalAmygdaloidNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.
-   :description:
+   :definition: Is a cerebral hemisphere gray matter. Is part of the basal amygdaloid nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002889) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106676
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002889#medial-part-of-basal-amygdaloid-nucleus-1
    :name: medial part of basal amygdaloid nucleus
@@ -21695,8 +22058,7 @@ medialPartOfMedialMammillaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfMedialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial part of medial mammillary nucleus' is a gray matter of diencephalon. It is part of the medial mammillary nucleus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the medial mammillary nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002632) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106677
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002632#medial-part-of-medial-mammillary-nucleus-1
    :name: medial part of medial mammillary nucleus
@@ -21714,8 +22076,7 @@ medialPartOfVentralLateralNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002614) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106680
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002614#medial-part-of-ventral-lateral-nucleus-1
    :name: medial part of ventral lateral nucleus
@@ -21733,8 +22094,7 @@ medialPericuneateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPericuneateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial pericuneate nucleus' is a nucleus of medulla oblongata.
-   :description:
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002875)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106681
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002875#medial-pericuneate-nucleus-1
    :name: medial pericuneate nucleus
@@ -21798,6 +22158,23 @@ medialPrecentralSulcus
 
 ------------
 
+medialPreglomerularNucleus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreglomerularNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a preglomerular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000390)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000390#medial-preglomerular-nucleus
+   :name: medial preglomerular nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000390
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialPreopticNucleus
 ---------------------
 
@@ -21806,8 +22183,8 @@ medialPreopticNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial preoptic nucleus' is a hypothalamic nucleus and preoptic nucleus. It is part of the medial preoptic region.
-   :description: The medial preoptic nucleus is bounded laterally by the lateral preoptic nucleus, and medially by the preoptic periventricular nucleus. It releases gonadotropin-releasing hormone, controls copulation in males, and is larger in males than in females.[WP,unvetted].
+   :definition: Is a hypothalamic nucleus and preoptic nucleus. Is part of the medial preoptic region. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002035) ('is_a' and 'relationship')]
+   :description: The medial preoptic nucleus is bounded laterally by the lateral preoptic nucleus, and medially by the preoptic periventricular nucleus. It releases gonadotropin-releasing hormone, controls copulation in males, and is larger in males than in females. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002035)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106687
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002035#medial-preoptic-nucleus-1
    :name: medial preoptic nucleus
@@ -21834,6 +22211,23 @@ medialPreopticRegion
 
 ------------
 
+medialPretectalNucleus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPretectalNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of midbrain tectum and pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0034910)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034910#medial-pretectal-nucleus
+   :name: medial pretectal nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034910
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 medialPulvinarNucleus
 ---------------------
 
@@ -21842,8 +22236,7 @@ medialPulvinarNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
-   :description:
+   :definition: Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002638) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106695
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002638#medial-pulvinar-nucleus-1
    :name: medial pulvinar nucleus
@@ -21879,12 +22272,29 @@ medialSeptalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial septal nucleus' is a telencephalic nucleus. It is part of the medial septal complex.
-   :description: Cells lying generally in front of Regional_part_of_septal_nuclei, lying ventral to and slightly medial to the lateral septal nucleus.  Neurons in this nucleus give rise to the bulk of efferents from the septal nuclei.  A major projection from the medial septal nucleus terminates in the hippocampal formation (Adapted from Brodal, 1981).
+   :definition: Is a telencephalic nucleus. Is part of the medial septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001877) ('is_a' and 'relationship')]
+   :description: Cells lying generally in front of Regional part of septal nuclei, lying ventral to and slightly medial to the lateral septal nucleus. Neurons in this nucleus give rise to the bulk of efferents from the septal nuclei. A major projection from the medial septal nucleus terminates in the hippocampal formation (Adapted from Brodal, 1981). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001877)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106697
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001877#medial-septal-nucleus-1
    :name: medial septal nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001877
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medialSpiriformNucleus
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSpiriformNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035592)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035592#medial-spiriform-nucleus
+   :name: medial spiriform nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035592
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -21898,8 +22308,7 @@ medialSubnucleusOfSolitaryTract
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSubnucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial subnucleus of solitary tract' is a nucleus of solitary tract.
-   :description:
+   :definition: Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0023390)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106701
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023390#medial-subnucleus-of-solitary-tract-1
    :name: medial subnucleus of solitary tract
@@ -21917,8 +22326,8 @@ medialSuperiorOlivaryNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialSuperiorOlivaryNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial superior olivary nucleus' is a nucleus of superior olivary complex. It is part of the primary superior olive.
-   :description: One of two subnuclei of the superior olive located within the caudal pontine tegmentum.  Appears as a parasagittal row of transversely oriented bipolar neurons in transverse sections of human, with elongated somata in humans and other primates and large caliber dendrites.
+   :definition: Is a nucleus of superior olivary complex. Is part of the primary superior olive. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002782) ('is_a' and 'relationship')]
+   :description: One of two subnuclei of the superior olive located within the caudal pontine tegmentum. Appears as a parasagittal row of transversely oriented bipolar neurons in transverse sections of human, with elongated somata in humans and other primates and large caliber dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002782)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106704
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002782#medial-superior-olivary-nucleus-1
    :name: medial superior olivary nucleus
@@ -21972,8 +22381,8 @@ medialVestibularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medialVestibularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Medial vestibular nucleus' is a vestibular nucleus.
-   :description: The medial vestibular nucleus is one of the vestibular nuclei. It is located in the medulla oblongata. Lateral vestibulo-spinal tract (lateral vestibular nucleus 'Deiters')- via ventrolateral medulla and spinal cord to ventral funiculus (lumbo-sacral segments). Ipsilaterally for posture Medial vestibulo-spinal tract (medial, lateral, inferior, vestibular nuclei), bilateral projection via descending medial longitudinal fasciculus to cervical segments. DESCENDING MLF. Bilaterally for head/neck/eye movements [WP,unvetted].
+   :definition: Is a vestibular nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001722)]
+   :description: The medial vestibular nucleus is one of the vestibular nuclei. It is located in the medulla oblongata. Lateral vestibulo-spinal tract (lateral vestibular nucleus 'Deiters')- via ventrolateral medulla and spinal cord to ventral funiculus (lumbo-sacral segments). Ipsilaterally for posture Medial vestibulo-spinal tract (medial, lateral, inferior, vestibular nuclei), bilateral projection via descending medial longitudinal fasciculus to cervical segments. DESCENDING MLF. Bilaterally for head/neck/eye movements. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001722)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106710
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001722#medial-vestibular-nucleus
    :name: medial vestibular nucleus
@@ -22063,8 +22472,8 @@ medianPreopticNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianPreopticNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Median preoptic nucleus' is a preoptic nucleus.
-   :description: The median preoptic nucleus is located along the midline in a position significantly dorsal to the other 3 preoptic nuclei, at least in the macaca fascicularis brain. It wraps around the top (dorsal), front, and bottom (ventral) surfaces of the anterior commissure. The median preoptic nucleus generates thirst. Drinking decreases noradrenaline release in the median preoptic nucleus.
+   :definition: Is a preoptic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002625)]
+   :description: The median preoptic nucleus is located along the midline in a position significantly dorsal to the other 3 preoptic nuclei, at least in the macaca fascicularis brain. It wraps around the top (dorsal), front, and bottom (ventral) surfaces of the anterior commissure. The median preoptic nucleus generates thirst. Drinking decreases noradrenaline release in the median preoptic nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002625)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106717
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002625#median-preoptic-nucleus-1
    :name: median preoptic nucleus
@@ -22082,8 +22491,8 @@ medianRapheNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medianRapheNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: A large cell serotonergic raphe nucleus in the upper pons and lower mesencephalon that is part of the reticular formation
-   :description: 'Median raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.
+   :definition: Is a nucleus of midbrain reticular formation. Is part of the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003004) ('is_a' and 'relationship')]
+   :description: The median raphe nucleus (or superior central nucleus) is composed of polygonal, fusiform and pyriform neurons and exists rostral to the nucleus raphe pontis. One trait of the MRN is its inhibition by lysergic acid diethylamide and psilocin, two serotonin antagonist hallucinogens. The inactivation of the nucleus centralis superior via LSD produces a dose dependent inactivation in the MRN, but not in the raphe pallidus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003004)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111276
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003004#superior-central-nucleus
    :name: median raphe nucleus
@@ -22197,6 +22606,24 @@ medullaryAnteriorHorn
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023378#medullary-anterior-horn-1
    :name: medullary anterior horn
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023378
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+medullaryCommandNucleus
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryCommandNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a regional part of brain. Is part of the hindbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002107) ('is_a' and 'relationship')]
+   :description: Anatomical structure that consists of two neuron types: pacemaker cells and relay cells. The medullary command nucleus commands the timing of the electric organ discharge. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2002107)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2002107#medullary-command-nucleus
+   :name: medullary command nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2002107
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22744,6 +23171,24 @@ midbrainNeuromere
 
 ------------
 
+midbrainNucleus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of brain. Is part of the midbrain. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009661) ('is_a' and 'relationship')]
+   :description: Nucleus located in the midbrain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009661)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009661#midbrain-nucleus
+   :name: midbrain nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009661
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 midbrainPiaMater
 ----------------
 
@@ -22770,8 +23215,8 @@ midbrainRapheNuclei
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainRapheNuclei
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Midbrain raphe nuclei' is a regional part of brain. It is part of the midbrain tegmentum and raphe nuclei.
-   :description: Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe.
+   :definition: Is a regional part of brain. Is part of the midbrain tegmentum and the raphe nuclei. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007412) ('is_a' and 'relationship')]
+   :description: Midline nuclei found in the midbrain, includes the dorsal raphe nucleus and the rostral linear nucleus of raphe. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007412)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0106941
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007412#midbrain-raphe-nuclei-1
    :name: midbrain raphe nuclei
@@ -23157,6 +23602,23 @@ molecularLayerOfCerebellarCortex
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002974#molecular-layer-of-cerebellar-cortex
    :name: molecular layer of cerebellar cortex
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002974
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+molecularLayerOfDorsalCochlearNucleus
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/molecularLayerOfDorsalCochlearNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the dorsal cochlear nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0022326) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022326#molecular-layer-of-dorsal-cochlear-nucleus
+   :name: molecular layer of dorsal cochlear nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022326
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -23583,8 +24045,7 @@ neodentatePartOfDentateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neodentatePartOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Neodentate part of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
-   :description:
+   :definition: Is a gray matter of hindbrain. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002747) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107392
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002747#neodentate-part-of-dentate-nucleus-1
    :name: neodentate part of dentate nucleus
@@ -23747,8 +24208,8 @@ neuralNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/neuralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Neural nucleus' is a central nervous system cell part cluster.
-   :description: A spatially aggregated collection of nerve cell bodies in the CNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections, and including nearby cells that share the same cell type, chemical phenotype, and connections. (CUMBO)
+   :definition: Is a central nervous system cell part cluster. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000125)]
+   :description: A spatially aggregated collection of nerve cell bodies in the CNS, consisting of one or more subpopulations that share cell type, chemical phenotype, and connections, and including nearby cells that share the same cell type, chemical phenotype, and connections. (CUMBO) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0000125)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107752
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000125#nucleus-of-cns
    :name: neural nucleus
@@ -24108,8 +24569,8 @@ nucleusAccumbens
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus accumbens' is a telencephalic nucleus. It is part of the limbic system, cerebral hemisphere and ventral striatum.
-   :description: A region of the brain consisting of a collection of neurons located in the forebrain ventral to the caudate and putamen. (caudoputamen in rodent) and continuous with these structures. There is no distinct boundary between the nucleus accumbens and the caudate/putamen, but in rodents, it can be identified by its lack of traversing fiber bundles in comparison to the dorsal striatum. Its principle neuron is the medium spiny neuron. Together with the neostriatum (caudate nucleus and putamen), the nucleus accumbens forms the striatum.
+   :definition: Is a telencephalic nucleus. Is part of the limbic system, the cerebral hemisphere and the ventral striatum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001882) ('is_a' and 'relationship')]
+   :description: A region of the brain consisting of a collection of neurons located in the forebrain ventral to the caudate and putamen. (caudoputamen in rodent) and continuous with these structures. There is no distinct boundary between the nucleus accumbens and the caudate/putamen, but in rodents, it can be identified by its lack of traversing fiber bundles in comparison to the dorsal striatum. Its principle neuron is the medium spiny neuron. Together with the neostriatum (caudate nucleus and putamen), the nucleus accumbens forms the striatum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001882)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107736
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001882#nucleus-accumbens-1
    :name: nucleus accumbens
@@ -24127,12 +24588,64 @@ nucleusAmbiguus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAmbiguus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus ambiguus' is a nucleus of medulla oblongata and vagus nerve nucleus.
-   :description: A region of histologically disparate cells located just dorsal to the inferior olivary nucleus in the lateral portion of the upper medulla. It receives upper motor neuron innervation directly via the corticobulbar tract This nucleus gives rise to the efferent motor fibers of the vagus nerve terminating in the laryngeal and pharyngeal muscles, as well as to the efferent motor fibers of the glossopharyngeal nerve (CN IX) terminating in the stylopharyngeus. [WP,unvetted].
+   :definition: Is a nucleus of medulla oblongata and vagus nerve nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001719)]
+   :description: A region of histologically disparate cells located just dorsal to the inferior olivary nucleus in the lateral portion of the upper medulla. It receives upper motor neuron innervation directly via the corticobulbar tract This nucleus gives rise to the efferent motor fibers of the vagus nerve terminating in the laryngeal and pharyngeal muscles, as well as to the efferent motor fibers of the glossopharyngeal nerve (CN IX) terminating in the stylopharyngeus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001719)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107738
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001719#nucleus-ambiguus-1
    :name: nucleus ambiguus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001719
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusCircularisOfPretectum
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusCircularisOfPretectum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035593)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035593#nucleus-circularis-of-pretectum
+   :name: nucleus circularis of pretectum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035593
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusGeniculatusOfPretectum
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusGeniculatusOfPretectum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035580)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035580#nucleus-geniculatus-of-pretectum
+   :name: nucleus geniculatus of pretectum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035580
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusHOfVentralTegmentum
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusHOfVentralTegmentum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014645) ('is_a' and 'relationship')]
+   :description: A nucleus present in the ventral tegmentum of squalomorph sharks. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014645)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014645#nucleus-h-of-ventral-tegmentum
+   :name: nucleus H of ventral tegmentum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014645
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24146,8 +24659,8 @@ nucleusIncertus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIncertus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus incertus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.
-   :description: Distinct cell group in caudoventral regions of the pontine periventricular gray, adjacent to the ventromedial border of the caudal dorsal tegmental nucleus.
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035973) ('is_a' and 'relationship')]
+   :description: Distinct cell group in caudoventral regions of the pontine periventricular gray, adjacent to the ventromedial border of the caudal dorsal tegmental nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035973)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107746
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035973#nucleus-incertus
    :name: nucleus incertus
@@ -24165,12 +24678,150 @@ nucleusIntercalatus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIntercalatus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus intercalatus' is a nucleus of medulla oblongata.
-   :description:
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002876)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107749
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002876#nucleus-intercalatus-1
    :name: nucleus intercalatus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002876
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusInterstitioPretectalisSubpretectalis
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusInterstitioPretectalisSubpretectalis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. Is part of the subpretectal complex of Aves. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035590) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035590#nucleus-interstitio-pretectalis-subpretectalis
+   :name: nucleus interstitio-pretectalis-subpretectalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035590
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusIsthmi
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIsthmi
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000398)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000398#nucleus-isthmi
+   :name: nucleus isthmi
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000398
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusIsthmoOpticus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusIsthmoOpticus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a telencephalic nucleus. Is part of the pallium. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007351) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007351#nucleus-isthmo-opticus
+   :name: nucleus isthmo-opticus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007351
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusKOfVentralTegmentum
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusKOfVentralTegmentum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014646) ('is_a' and 'relationship')]
+   :description: A nucleus present in the ventral tegmentum of skates. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014646)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014646#nucleus-k-of-ventral-tegmentum
+   :name: nucleus K of ventral tegmentum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014646
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusLateralisValvulae
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusLateralisValvulae
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000551)]
+   :description: Hindbrain nucleus in the tegmental region of rhombomere 1. The cells of the nucleus are granular and lie at the ventral border of the cerebellum and brain stem. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000551)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000551#nucleus-lateralis-valvulae
+   :name: nucleus lateralis valvulae
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000551
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusLentiformisMesencephaliAves
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusLentiformisMesencephaliAves
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035586)]
+   :description: A pretectal nucleus in Aves that receives heavy retinal input and is hypothesized to be homologous to the nucleus of the optic tract of Mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035586)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035586#nucleus-lentiformis-mesencephali-aves
+   :name: nucleus lentiformis mesencephali (Aves)
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035586
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusLentiformisOfPretectum
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusLentiformisOfPretectum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035581)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035581#nucleus-lentiformis-of-pretectum
+   :name: nucleus lentiformis of pretectum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035581
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusLentiformisThalamus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusLentiformisThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035583)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035583#nucleus-lentiformis-thalamus
+   :name: nucleus lentiformis thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035583
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24184,11 +24835,29 @@ nucleusOfAnteriorCommissure
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of anterior commissure' is a telencephalic nucleus. It is part of the septal nuclear complex.
+   :definition: Is a telencephalic nucleus. Is part of the septal nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002933) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107751
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002933#nucleus-of-anterior-commissure-1
    :name: nucleus of anterior commissure
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002933
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfBischoff
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBischoff
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a dorsal column nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018236)]
+   :description: A midline nucleus of the dorsal motor column found in animals with a prominent tail, including alligator, some birds, kangaroo, rat, shrew, great anteater. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018236)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018236#nucleus-of-bischoff
+   :name: nucleus of Bischoff
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018236
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24202,8 +24871,8 @@ nucleusOfBrain
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of brain' is a neural nucleus. It is part of the brain gray matter.
-   :description: A neural nucleus that is part of the brain.
+   :definition: Is a neural nucleus. Is part of the brain gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002308) ('is_a' and 'relationship')]
+   :description: A neural nucleus that is part of the brain. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002308)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0736730
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002308#nucleus-of-brain
    :name: nucleus of brain
@@ -24221,8 +24890,8 @@ nucleusOfCerebellarNuclearComplex
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of cerebellar nuclear complex' is a hindbrain nucleus. It is part of the cerebellar nuclear complex.
-   :description: Four accumulations of gray substance embedded in the white substance of the cerebellum, comprising the nucleus dentatus, nucleus emboliformis, nucleus globosus, and nucleus fastigii.
+   :definition: Is a hindbrain nucleus. Is part of the cerebellar nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008995) ('is_a' and 'relationship')]
+   :description: Four accumulations of gray substance embedded in the white substance of the cerebellum, comprising the nucleus dentatus, nucleus emboliformis, nucleus globosus, and nucleus fastigii. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008995)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0727858
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008995#nucleus-of-cerebellar-nuclear-complex
    :name: nucleus of cerebellar nuclear complex
@@ -24240,12 +24909,48 @@ nucleusOfDiagonalBand
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.
-   :description: A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala.
+   :definition: Is a telencephalic nucleus. Is part of the medial septal complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879) ('is_a' and 'relationship')]
+   :description: A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001879)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107755
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001879#nucleus-of-diagonal-band-1
    :name: nucleus of diagonal band
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001879
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfDorsalThalamus
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDorsalThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of thalamus. Is part of the dorsal thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233) ('is_a' and 'relationship')]
+   :description: A nucleus of brain that is part of a dorsal thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015233)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015233#nucleus-of-dorsal-thalamus
+   :name: nucleus of dorsal thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015233
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfLateralLemniscus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralLemniscus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006840)]
+   :description: Groups of cells situated largely within the fiber bundles of the lateral lemniscus. Two nuclei are usually distinguished: a ventral group and a dorsal group (Brodal, Neurological Anatomy, 3rd ed., 1981, pg. 619). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006840)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006840#nucleus-of-lateral-lemniscus
+   :name: nucleus of lateral lemniscus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006840
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24259,7 +24964,7 @@ nucleusOfLateralOlfactoryTract
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of lateral olfactory tract' is a telencephalic nucleus. It is part of the olfactory cortex.
+   :definition: Is a telencephalic nucleus. Is part of the olfactory cortex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002893) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107757
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002893#nucleus-of-lateral-olfactory-tract-1
    :name: nucleus of lateral olfactory tract
@@ -24277,12 +24982,100 @@ nucleusOfMedialEminence
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialEminence
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of medial eminence' is a nucleus of brain.
-   :description:
+   :definition: Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002997)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107758
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002997#nucleus-of-medial-eminence-1
    :name: nucleus of medial eminence
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002997
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfMedialLongitudinalFasciculusOfMedulla
+----------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedialLongitudinalFasciculusOfMedulla
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000815)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000815#nucleus-of-medial-longitudinal-fasciculus-of-medulla
+   :name: nucleus of medial longitudinal fasciculus of medulla
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000815
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfMedullaOblongata
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMedullaOblongata
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the medulla oblongata. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007635) ('is_a' and 'relationship')]
+   :description: A neural nucleus that is part of a medulla oblongata. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007635)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007635#nucleus-of-medulla-oblongata
+   :name: nucleus of medulla oblongata
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007635
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfMidbrainReticularFormation
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMidbrainReticularFormation
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007415) ('is_a' and 'relationship')]
+   :description: A nucleus of midbrain tegmentum that is part of a midbrain reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007415)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007415#nucleus-of-midbrain-reticular-formation
+   :name: nucleus of midbrain reticular formation
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007415
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfMidbrainTectum
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMidbrainTectum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a midbrain nucleus. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011214) ('is_a' and 'relationship')]
+   :description: A neural nucleus that is part of a midbrain tectum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011214)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011214#nucleus-of-midbrain-tectum
+   :name: nucleus of midbrain tectum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011214
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfMidbrainTegmentum
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfMidbrainTegmentum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neural nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007414)]
+   :description: A nucleus of brain that spans a midbrain tegmentum. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007414)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007414#nucleus-of-midbrain-tegmentum
+   :name: nucleus of midbrain tegmentum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007414
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24296,12 +25089,30 @@ nucleusOfOpticTract
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfOpticTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of optic tract' is a nucleus of midbrain tectum and pretectal nucleus.
-   :description: Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system.  In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G.  The rat nervous system, 1995, pg. 862).
+   :definition: Is a nucleus of midbrain tectum and pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002996)]
+   :description: Predominantly gray matter structure consisting of large multipoloar cells lying aong axons of the brachium of the superior colliculus, lyaing adjaent to the dorsal terminal nucleus of the accessory optic system. In several species, cells of this nucleus receive input from the contralateral retina (Sefton and Dreher in Paxinos, G. The rat nervous system, 1995, pg. 862). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002996)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107759
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002996#nucleus-of-optic-tract-1
    :name: nucleus of optic tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002996
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfPontineReticularFormation
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPontineReticularFormation
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the pontine reticular formation. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007413) ('is_a' and 'relationship')]
+   :description: A nucleus of brain that is part of a pontine reticular formation. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007413)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007413#nucleus-of-pontine-reticular-formation
+   :name: nucleus of pontine reticular formation
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007413
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24315,8 +25126,7 @@ nucleusOfPosteriorCommissure
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.
-   :description:
+   :definition: Is a brainstem nucleus and midbrain nucleus. Is part of the midbrain tegmentum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002711) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107760
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002711#nucleus-of-posterior-commissure-1
    :name: nucleus of posterior commissure
@@ -24334,12 +25144,66 @@ nucleusOfSolitaryTract
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [WP,unvetted].
-   :description: 'Nucleus of solitary tract' is a nucleus of medulla oblongata and vagus nerve nucleus. It is part of the solitary tract nuclear complex.
+   :definition: Is a nucleus of medulla oblongata and vagus nerve nucleus. Is part of the solitary tract nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009050) ('is_a' and 'relationship')]
+   :description: A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009050)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0110729
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009050#solitary-nucleus
    :name: nucleus of solitary tract
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009050
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfSpinalCord
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSpinalCord
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neural nucleus. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011777) ('is_a' and 'relationship')]
+   :description: A neural nucleus that is part of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011777)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011777#nucleus-of-spinal-cord
+   :name: nucleus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011777
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfSuperiorOlivaryComplex
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSuperiorOlivaryComplex
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the superior olivary complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247) ('is_a' and 'relationship')]
+   :description: Any of the nuclei that comprise the superior olivary complex (superior olive). This includes both the primary nuclei such as the lateral and medial nuclei, as well as periolivary nuclei. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007247)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007247#nucleus-of-superior-olivary-complex
+   :name: nucleus of superior olivary complex
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007247
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfThalamus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic nucleus. Is part of the dorsal plus ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007692) ('is_a' and 'relationship')]
+   :description: A nucleus of brain that is part of a thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007692)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007692#nucleus-of-thalamus
+   :name: nucleus of thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007692
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24353,12 +25217,115 @@ nucleusOfTheBrachiumOfTheInferiorColliculus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of the brachium of the inferior colliculus' is a regional part of brain. It is part of the midbrain tectum.
-   :description:
+   :definition: Is a regional part of brain. Is part of the midbrain tectum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036012) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107764
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036012#nucleus-of-the-brachium-of-the-inferior-colliculus
    :name: nucleus of the brachium of the inferior colliculus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036012
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfTheBulbocavernosus
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheBulbocavernosus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of spinal cord. Is part of the ventral horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018545) ('is_a' and 'relationship')]
+   :description: A cluster of motoneurons located in the anterior gray column of lumbar segments 5 and 6 of the spinal cord in the rat. Functionally it belongs to the somatic motoneuron pools of the subcortical motor system ( Swanson-2004 ) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0018545)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018545#nucleus-of-the-bulbocavernosus
+   :name: nucleus of the bulbocavernosus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018545
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfTheDescendingRoot
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheDescendingRoot
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a trigeminal sensory nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000245)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000245#nucleus-of-the-descending-root
+   :name: nucleus of the descending root
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000245
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfTheLateralRecess
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheLateralRecess
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. Is part of the caudal periventricular hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005339) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005339#nucleus-of-the-lateral-recess
+   :name: nucleus of the lateral recess
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005339
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfTheMedialLongitudinalFasciculusSynencephalon
+-----------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheMedialLongitudinalFasciculusSynencephalon
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic nucleus. Is part of the synencephalon. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000941) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000941#nucleus-of-the-medial-longitudinal-fasciculus-synencephalon
+   :name: nucleus of the medial longitudinal fasciculus synencephalon
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000941
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfThePosteriorRecess
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfThePosteriorRecess
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. Is part of the caudal periventricular hypothalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2005340) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005340#nucleus-of-the-posterior-recess
+   :name: nucleus of the posterior recess
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005340
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfTheTractOfThePostopticCommissure
+-----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTheTractOfThePostopticCommissure
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001340)]
+   :description: The nucleus containing the cell bodies of neurons whose axons form the postoptic commissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2001340)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2001340#nucleus-of-the-tract-of-the-postoptic-commissure
+   :name: nucleus of the tract of the postoptic commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2001340
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24372,12 +25339,83 @@ nucleusOfTrapezoidBody
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfTrapezoidBody
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus of trapezoid body' is a nucleus of superior olivary complex.
-   :description: A nucleus embedded within the fibers of the trapezoid body.
+   :definition: Is a nucleus of superior olivary complex. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007633)]
+   :description: A nucleus embedded within the fibers of the trapezoid body. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007633)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0111919
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007633#trapezoid-nuclear-complex
    :name: nucleus of trapezoid body
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007633
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusOfVentralThalamus
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfVentralThalamus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of thalamus. Is part of the ventral thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015234) ('is_a' and 'relationship')]
+   :description: A nucleus of brain that is part of a ventral thalamus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0015234)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015234#nucleus-of-ventral-thalamus
+   :name: nucleus of ventral thalamus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015234
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusPosteriodorsalisOfPretectum
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPosteriodorsalisOfPretectum
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035582)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035582#nucleus-posteriodorsalis-of-pretectum
+   :name: nucleus posteriodorsalis of pretectum
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035582
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusPraetectalisProfundus
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPraetectalisProfundus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035572)]
+   :description: A neural nucleus of the pretectal region that lies lateral to the posterior commissure and gives rise to widespread projections. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035572)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035572#nucleus-praetectalis-profundus
+   :name: nucleus praetectalis profundus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035572
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusPreopticus
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPreopticus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014665)]
+   :description: The nucleus preopticus (NPO) of the hypothalamus of common carp, is a homolog of the paraventricular nucleus of mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014665)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014665#nucleus-preopticus
+   :name: nucleus preopticus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014665
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24391,12 +25429,84 @@ nucleusPrepositus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPrepositus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus prepositus' is a nucleus of medulla oblongata. It is part of the pons.
-   :description:
+   :definition: Is a nucleus of medulla oblongata. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002160) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107787
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002160#nucleus-prepositus-1
    :name: nucleus prepositus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002160
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusPretectalisDiffusus
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPretectalisDiffusus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035587)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035587#nucleus-pretectalis-diffusus
+   :name: nucleus pretectalis diffusus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035587
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusPropriusOfSpinalCord
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusPropriusOfSpinalCord
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016610) ('is_a' and 'relationship')]
+   :description: The Nucleus proprius is a layer of the spinal cord adjacent to the substantia gelatinosa. Nucleus proprius constitutes the bulk of the dorsal horn and receives inputs from the dorsal root ganglions that carry sensory information, such as light touch, as well as pain and temperature information. Cells in this nucleus project to deeper laminae of the spinal cord, to the posterior column nuclei, and to other supraspinal relay centers including the midbrain, thalamus, and hypothalamus. Rexed laminae III, IV, and V make up the nucleus propius Nucleus proprius (NP), along with nucleus dorsalis (ND) are involved in sensing fine touch and proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016610)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016610#nucleus-proprius-of-spinal-cord
+   :name: nucleus proprius of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016610
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRapheMagnus
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRapheMagnus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. Is part of the medullary raphe nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002156) ('is_a' and 'relationship')]
+   :description: The nucleus raphe magnus, located directly rostral to the raphe obscurus, is afferently stimulated from axons in the spinal cord and cerebellum. This makes the magnus a likely candidate for part of the motor system; however, it seems to participate in the endogenous analgesia system. The magnus receives descending afferents from the periaqueductal gray, the paraventricular hypothalamic nucleus, central nucleus of the amygdala, lateral hypothalamic area, parvocellular reticular nucleus and the prelimbic, infralimbic, medial and lateral precentral cortices. All of these brain areas influence the main function of the raphe magnus. The main function of the magnus is mostly pain mediation; in fact it sends projections to the dorsal horn of the spinal cord to directly inhibit pain. The periaquiductal gray, the epicenter of analgesia, sends efferent connections to the nucleus raphe magnus in when it is stimulated by opiates (endogenous or otherwise). Electrical stimulation of the PAG produces analgesia, as well as administration of morphine to the PAG or n.r. magnus. The antinociceptic effects of electrical stimulation of the PAG can be blocked by administering naloxone, an opiate antagonist, to the n.r. magnus. All of this seems to indicate that the magnus is part of the endogenous opiate system, and acts to inhibit pain in the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002156)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107791
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002156#nucleus-raphe-magnus-1
+   :name: nucleus raphe magnus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002156
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRapheObscurus
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRapheObscurus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of medulla oblongata. Is part of the medullary raphe nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002684) ('is_a' and 'relationship')]
+   :description: The raphe obscurus projects to the cerebellar lobes VI and VII and to crus II along with the nucleus raphe pontis. This so called obscure nucleus has also been implicated in the modulation of the hypoglossal nerve. It has been observed that the ablation of this nucleus causes a change in the firing pattern in the XII nerve. In addition, the raphe obscurus mediates expiration via the inhibitory effect of serotonin and depresses periodic synaptic potentials. It has also been shown that this nucleus stimulates gastrointestinal motor function; microinjections of 5-HT into the n.r. obscurus increase gastric movement. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002684)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107793
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002684#nucleus-raphe-obscurus-1
+   :name: nucleus raphe obscurus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002684
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24410,12 +25520,98 @@ nucleusRaphePallidus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRaphePallidus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Nucleus raphe pallidus' is a nucleus of medulla oblongata. It is part of the medullary raphe nuclear complex.
-   :description: The nucleus raphe pallidus receives afferent connections from the periaqueductal gray, the paraventricular hypothalamic nucleus, central nucleus of the amygdala, lateral hypothalamic area, and parvocellular reticular nucleus. Also, the pallidus receives afferents from the medial preoptic area, median preoptic nucleus and lateral paragigantocellular reticular nuclei . The pallidus has recently been shown to be involved in the activation of a fever as an immunoreaction. It has been implied that the preoptic area is constantly inhibiting the raphe pallidus, especially the rostral portion, with GABA. When the preoptic area receives immune signals from the body, the inhibition stops and the rostral portion of the raphe pallidus excites the intermediolateral cell column, which induces a fever . The raphe pallidus has also been known to mediate the tachycardia response, an extremely high heart rate known to be incited by emotional or psychological stress. Microinjections of a GABA-a antagonist into the raphe pallidus, induces an increased heart rate. Conversely, microinjections of muscimol, a GABA-a agonist, inhibit tachycardia in rats under air-stress stimuli. In both of these cases, GABA is mediating two different sympathetic responses, so clearly the nucleus raphe pallidus is a far more a complex nucleus than previously thought. [WP,unvetted].
+   :definition: Is a nucleus of medulla oblongata. Is part of the medullary raphe nuclear complex. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002157) ('is_a' and 'relationship')]
+   :description: The nucleus raphe pallidus receives afferent connections from the periaqueductal gray, the paraventricular hypothalamic nucleus, central nucleus of the amygdala, lateral hypothalamic area, and parvocellular reticular nucleus. Also, the pallidus receives afferents from the medial preoptic area, median preoptic nucleus and lateral paragigantocellular reticular nuclei. The pallidus has recently been shown to be involved in the activation of a fever as an immunoreaction. It has been implied that the preoptic area is constantly inhibiting the raphe pallidus, especially the rostral portion, with GABA. When the preoptic area receives immune signals from the body, the inhibition stops and the rostral portion of the raphe pallidus excites the intermediolateral cell column, which induces a fever. The raphe pallidus has also been known to mediate the tachycardia response, an extremely high heart rate known to be incited by emotional or psychological stress. Microinjections of a GABA-a antagonist into the raphe pallidus, induces an increased heart rate. Conversely, microinjections of muscimol, a GABA-a agonist, inhibit tachycardia in rats under air-stress stimuli. In both of these cases, GABA is mediating two different sympathetic responses, so clearly the nucleus raphe pallidus is a far more a complex nucleus than previously thought. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002157)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107795
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002157#nucleus-raphe-pallidus-1
    :name: nucleus raphe pallidus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002157
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRecessus
+---------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRecessus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036177)]
+   :description: The fish catecholamines originate in two large aggregations of neurons: the nucleus recessus lateralis (NRL) and the nucleus recessus posterioris (NRP). The nuclei were found in the hypothalamus of numerous species, e.g., the gold fish, eel, and roach. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0036177)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0036177#nucleus-recessus
+   :name: nucleus recessus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0036177
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRecessusLateralis
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRecessusLateralis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus recessus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014663)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014663#nucleus-recessus-lateralis
+   :name: nucleus recessus lateralis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014663
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRecessusPosterioris
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRecessusPosterioris
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus recessus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014664)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014664#nucleus-recessus-posterioris
+   :name: nucleus recessus posterioris
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014664
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusRecessusPreopticus
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusRecessusPreopticus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a hypothalamic nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014666)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014666#nucleus-recessus-preopticus
+   :name: nucleus recessus preopticus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014666
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusSacciVasculosi
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSacciVasculosi
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a neural nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035145)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035145#nucleus-sacci-vasculosi
+   :name: nucleus sacci vasculosi
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035145
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -24429,11 +25625,45 @@ nucleusSubceruleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubceruleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :description: 'Nucleus subceruleus' is a nucleus of brain.
+   :definition: Is a nucleus of brain. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002587)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107801
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002587#nucleus-subceruleus-1
    :name: nucleus subceruleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002587
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusSubglomerulosis
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubglomerulosis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a diencephalic nucleus. Is part of the caudal tuberculum. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_2000397) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000397#nucleus-subglomerulosis
+   :name: nucleus subglomerulosis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000397
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+nucleusSubpretectalis
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusSubpretectalis
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a pretectal nucleus. Is part of the subpretectal complex of Aves. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035589) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035589#nucleus-subpretectalis
+   :name: nucleus subpretectalis
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035589
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -25100,8 +26330,8 @@ olivaryPretectalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Olivary pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.
-   :description: Small distinct nucleus in the pretectum of mammals involved in the pupillary light reflect.  In rats, it is an olive shaped (anterior) nucleus lying ventral to the brachium of the superior colliculus (Paxinos, The rat nervous system, 2nd ed, 1995, pg. 862).  Physiologically, it is identified by neurons sensitive to luminance changes.
+   :definition: Is a nucleus of midbrain tectum and pretectal nucleus. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002565)]
+   :description: Small distinct nucleus in the pretectum of mammals involved in the pupillary light reflect. In rats, it is an olive shaped (anterior) nucleus lying ventral to the brachium of the superior colliculus (Paxinos, The rat nervous system, 2nd ed, 1995, pg. 862). Physiologically, it is identified by neurons sensitive to luminance changes. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002565)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0107998
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002565#olivary-pretectal-nucleus-1
    :name: olivary pretectal nucleus
@@ -25339,8 +26569,7 @@ oralPartOfSpinalTrigeminalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oral part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.
-   :description:
+   :definition: Is a gray matter of hindbrain. Is part of the spinal nucleus of trigeminal nerve. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002591) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108080
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002591#oral-part-of-spinal-trigeminal-nucleus-1
    :name: oral part of spinal trigeminal nucleus
@@ -25358,8 +26587,7 @@ oralPartOfVentralLateralNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oral part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the ventral lateral nucleus of thalamus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002978) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108081
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002978#oral-part-of-ventral-lateral-nucleus-1
    :name: oral part of ventral lateral nucleus
@@ -25377,8 +26605,7 @@ oralPartOfVentralPosterolateralNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralPosterolateralNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oral part of ventral posterolateral nucleus' is a gray matter of diencephalon. It is part of the ventral posterolateral nucleus.
-   :description:
+   :definition: Is a gray matter of diencephalon. Is part of the ventral posterolateral nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003019) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108082
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003019#oral-part-of-ventral-posterolateral-nucleus-1
    :name: oral part of ventral posterolateral nucleus
@@ -25396,8 +26623,8 @@ oralPontineReticularNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPontineReticularNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oral pontine reticular nucleus' is a nucleus of pontine reticular formation.
-   :description: The oral pontine reticular nucleus is delineated from its caudal brother, with which it shares its first three names. This nucleus tapers into the lower mesencephalic reticular formation and contains sporadic giant cells. Different populations of the pontis oralis have displayed discharge patterns which coordinate with phasic movements to and from paradoxical sleep. From this information it has been implied that the n.r. pontis oralis is involved in the mediation of changing to and from REM sleep. [WP,unvetted].
+   :definition: Is a nucleus of pontine reticular formation. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002999)]
+   :description: The oral pontine reticular nucleus is delineated from its caudal brother, with which it shares its first three names. This nucleus tapers into the lower mesencephalic reticular formation and contains sporadic giant cells. Different populations of the pontis oralis have displayed discharge patterns which coordinate with phasic movements to and from paradoxical sleep. From this information it has been implied that the n.r. pontis oralis is involved in the mediation of changing to and from REM sleep. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002999)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108083
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002999#oral-pontine-reticular-nucleus-1
    :name: oral pontine reticular nucleus
@@ -25415,8 +26642,7 @@ oralPulvinarNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/oralPulvinarNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oral pulvinar nucleus' is a nucleus of dorsal thalamus. It is part of the pulvinar nucleus.
-   :description:
+   :definition: Is a nucleus of dorsal thalamus. Is part of the pulvinar nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002641) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108084
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002641#oral-pulvinar-nucleus-1
    :name: oral pulvinar nucleus
@@ -25687,8 +26913,7 @@ ovalNucleusOfStriaTerminalis
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/ovalNucleusOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Oval nucleus of stria terminalis' is a telencephalic nucleus. It is part of the anterior division of bed nuclei of stria terminalis.
-   :description: Part of bed nucleus of stria terminalis, comprising a distinct, large, egg-shaped collection of neurons that, together with the juxtacapsular (Ju) and rhomboid (Rh) nuclei, encompass the anterolateral area of the BST (Ju and Swanson, 1989)
+   :definition: Is a telencephalic nucleus. Is part of the anterior division of bed nuclei of stria terminalis. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0011176) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101173
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011176#bed-nuclei-of-the-stria-terminalis-oval-nucleus-1
    :name: oval nucleus of stria terminalis
@@ -25760,8 +26985,7 @@ paleodentateOfDentateNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Paleodentate of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.
-   :description:
+   :definition: Is a gray matter of hindbrain. Is part of the dentate nucleus. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006743) ('is_a' and 'relationship')]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108372
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006743#paleodentate-of-dentate-nucleus-1
    :name: paleodentate of dentate nucleus
@@ -25835,8 +27059,8 @@ parabigeminalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Parabigeminal nucleus' is a nucleus of midbrain tectum.
-   :description: Cholinergic cell group that is located ventral to the brachium of the inferior colliculus (in rat) and has reciprocal connectivity with the superior colliculus (Adapted from Paxinos, The rat central nervous system, 2nd ed, 1995, pg 865
+   :definition: Is a nucleus of midbrain tectum. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002140)]
+   :description: Cholinergic cell group that is located ventral to the brachium of the inferior colliculus (in rat) and has reciprocal connectivity with the superior colliculus (Adapted from Paxinos, The rat central nervous system, 2nd ed, 1995, pg 865. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002140)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108414
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002140#parabigeminal-nucleus-1
    :name: parabigeminal nucleus
@@ -25854,8 +27078,8 @@ parabrachialNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Parabrachial nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pons.
-   :description: A nucleus of the parabrachial area, which in the human brain is a horseshoe-shaped strip of gray matter comprising the KÃ¶lliker-Fuse nucleus, the lateral parabrachial nucleus and the medial parabrachial nucleus.
+   :definition: Is a brainstem nucleus and hindbrain nucleus. Is part of the pons. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007634) ('is_a' and 'relationship')]
+   :description: A nucleus of the parabrachial area, which in the human brain is a horseshoe-shaped strip of gray matter comprising the Kölliker-Fuse nucleus, the lateral parabrachial nucleus and the medial parabrachial nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007634)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108416
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007634#parabrachial-nucleus
    :name: parabrachial nucleus
@@ -25873,8 +27097,8 @@ parabrachialPigmentalNucleus
    :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/parabrachialPigmentalNucleus
    :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Parabrachial pigmental nucleus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the ventral tegmental area.
-   :description: Nucleus identified in the medial ventral tegmental area that borders the red nucleus and superior cerebellar peduncle dorsally, the medial lemniscus laterally, the subtantia nigra pars compacta and paranigral nucleus ventrally and the rostral linear nucleus and interfascicular nucleus medially.  Generally, the largest nucleus in the ventral tegmental area, occupying an average of 50% of the total volume as measured in rat, cat, monkey and human.
+   :definition: Is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. Is part of the ventral tegmental area. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013738) ('is_a' and 'relationship')]
+   :description: Nucleus identified in the medial ventral tegmental area that borders the red nucleus and superior cerebellar peduncle dorsally, the medial lemniscus laterally, the subtantia nigra pars compacta and paranigral nucleus ventrally and the rostral linear nucleus and interfascicular nucleus medially. Generally, the largest nucleus in the ventral tegmental area, occupying an average of 50% of the total volume as measured in rat, cat, monkey and human. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0013738)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0108428
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0013738#parabrachial-pigmented-nucleus
    :name: parabrachial pigmental nucleus
@@ -25920,6 +27144,24 @@ paracentralLobule
 
 ------------
 
+paracentralNucleus
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracentralNucleus
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of dorsal thalamus. Is part of the rostral intralaminar nuclear group. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001924) ('is_a' and 'relationship')]
+   :description: One of the intralaminar nuclei of the thalamus, located medial to the central lateral nucleus. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001924)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001924#paracentral-nucleus-1
+   :name: paracentral nucleus
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001924
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 paracentralSulcus
 -----------------
 
@@ -25950,6 +27192,23 @@ paracingulateGyrus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022398#paracingulate-gyrus
    :name: paracingulate gyrus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022398
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+paracommissuralNucleusOfSolitaryTract
+-------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/paracommissuralNucleusOfSolitaryTract
+   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
+   :definition: Is a nucleus of solitary tract. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0035575)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0035575#paracommissural-nucleus-of-solitary-tract
+   :name: paracommissural nucleus of solitary tract
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0035575
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
