@@ -232,6 +232,149 @@ BarringtonsNucleus
 
 ------------
 
+C1SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C1SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]
+   :description: The segment of the spinal cord that corresponds to the first cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006469)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006469#first-cervical-spinal-cord-segment
+   :name: C1 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006469
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C2SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C2SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006489)]
+   :description: The segment of the spinal cord that corresponds to the second cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006489)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006489#second-cervical-spinal-cord-segment
+   :name: C2 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006489
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C3SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C3SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006488)]
+   :description: The segment of the spinal cord that corresponds to the third cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006488)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006488#third-cervical-spinal-cord-segment
+   :name: C3 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006488
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C4SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C4SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006490)]
+   :description: The segment of the spinal cord that corresponds to the fourth cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006490)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006490#forth-cervical-spinal-cord-segment
+   :name: C4 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006490
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C5SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C5SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006491)]
+   :description: The segment of the spinal cord that corresponds to the fifth cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006491)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006491#fifth-cervical-spinal-cord-segment
+   :name: C5 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006491
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C6SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C6SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006492)]
+   :description: The segment of the spinal cord that corresponds to the sixth cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006492)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006492#sixth-cervical-spinal-cord-segment
+   :name: C6 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006492
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C7SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C7SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006493)]
+   :description: The segment of the spinal cord that corresponds to the seventh cervical vertebra in most mammals. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006493)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006493#seventh-cervical-spinal-cord-segment
+   :name: C7 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006493
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+C8SegmentOfCervicalSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/C8SegmentOfCervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006470)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006469#eighth-cervical-spinal-cord-segment
+   :name: C8 segment of cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006470
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 CA1Alveus
 ---------
 
@@ -3052,6 +3195,74 @@ aorticPlexus
 
 ------------
 
+apexOfCervicalSpinalCordDorsalHorn
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/apexOfCervicalSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the cervical spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014622) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014622#apex-of-cervical-spinal-cord-dorsal-horn-1
+   :name: apex of cervical spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014622
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+apexOfLumbarSpinalCordDorsalHorn
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/apexOfLumbarSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the lumbar spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014632) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014632#apex-of-lumbar-spinal-cord-dorsal-horn-1
+   :name: apex of lumbar spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014632
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+apexOfSpinalCordDorsalHorn
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/apexOfSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004678)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004678#apex-of-spinal-cord-dorsal-horn-1
+   :name: apex of spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004678
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+apexOfThoracicSpinalCordDorsalHorn
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/apexOfThoracicSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the thoracic spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014611) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014611#apex-of-thoracic-spinal-cord-dorsal-horn-1
+   :name: apex of thoracic spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014611
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 arachnoidBarrierLayer
 ---------------------
 
@@ -5227,6 +5438,24 @@ caudalRootOfAbducensNerve
 
 ------------
 
+caudalSegmentOfSpinalCord
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/caudalSegmentOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]
+   :description: A spinal cord segment that adjacent to a caudal region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005845)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005845#caudal-segment-of-spinal-cord
+   :name: caudal segment of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005845
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 caudalTuberalNucleus
 --------------------
 
@@ -5420,6 +5649,24 @@ centralArtery
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2005020#central-artery
    :name: central artery
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2005020
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+centralCanalOfSpinalCord
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/centralCanalOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the spinal cord and the ventricular system of central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002291)]
+   :description: Spinal cord structure that is part of the ventricular system and is filled with cerebral-spinal fluid and runs the length of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002291)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002291#spinal-cord-central-canal
+   :name: central canal of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002291
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -7295,6 +7542,203 @@ cervicalNervePlexus
 
 ------------
 
+cervicalSpinalCord
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]
+   :description: A spinal cord segment that adjacent to a cervical region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002726)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002726#cervical-spinal-cord-1
+   :name: cervical spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002726
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordDorsalColumn
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord dorsal column. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005841) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord dorsal column that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005841)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005841#cervical-spinal-cord-dorsal-column-1
+   :name: cervical spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005841
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordDorsalHorn
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal horn of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014620) ('is_a' and 'relationship')]
+   :description: A dorsal horn of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014620)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014620#cervical-spinal-cord-dorsal-horn-1
+   :name: cervical spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014620
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordGrayCommissure
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordGrayCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cervical spinal cord gray matter and dorsal gray commissure of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029626)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029626#cervical-spinal-cord-gray-commissure-1
+   :name: cervical spinal cord gray commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0029626
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordGrayMatter
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordGrayMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014613) ('is_a' and 'relationship')]
+   :description: A gray matter of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014613)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014613#cervical-spinal-cord-gray-matter-1
+   :name: cervical spinal cord gray matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014613
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordLateralColumn
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord lateral column. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005849) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord lateral column that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005849)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005849#cervical-spinal-cord-lateral-column-1
+   :name: cervical spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005849
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordLateralHorn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordLateralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord lateral horn. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014619) ('is_a' and 'relationship')]
+   :description: A spinal cord lateral horn that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014619)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014619#cervical-spinal-cord-lateral-horn-1
+   :name: cervical spinal cord lateral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014619
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordVentralColumn
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord ventral column. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005854) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord ventral column that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005854)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005854#cervical-spinal-cord-ventral-column-1
+   :name: cervical spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005854
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordVentralCommissure
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordVentralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord ventral commissure. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007836) ('is_a' and 'relationship')]
+   :description: A spinal cord ventral commissure that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007836)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007836#cervical-spinal-cord-ventral-commissure-1
+   :name: cervical spinal cord ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007836
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordVentralHorn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordVentralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ventral horn of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014621) ('is_a' and 'relationship')]
+   :description: A ventral horn of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014621)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014621#cervical-spinal-cord-ventral-horn-1
+   :name: cervical spinal cord ventral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014621
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+cervicalSpinalCordWhiteMatter
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cervicalSpinalCordWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of spinal cord. Is part of the cervical spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014614) ('is_a' and 'relationship')]
+   :description: A white matter of spinal cord that is part of a cervical spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014614)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014614#cervical-spinal-cord-white-matter-1
+   :name: cervical spinal cord white matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014614
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cervicalSympatheticNerveTrunk
 -----------------------------
 
@@ -9066,6 +9510,24 @@ cuneateFasciculusOfMedulla
 
 ------------
 
+cuneateFasciculusOfSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/cuneateFasciculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a cuneate fasciculus, fasciculus of spinal cord and tract of spinal cord. Is part of the spinal cord dorsal column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005835) ('is_a' and 'relationship')]
+   :description: An axon tract in the spinal cord which primarily transmits information from the forelimb and trunk. It is part of the posterior column-medial lemniscus pathway. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005835)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005835#cuneate-fasciculus-of-spinal-cord
+   :name: cuneate fasciculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005835
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 cuneateNucleus
 --------------
 
@@ -10268,6 +10730,60 @@ dorsalExternalArcuateFiberBundle
 
 ------------
 
+dorsalFuniculusOfSpinalCord
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalFuniculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a funiculus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002258)]
+   :description: The white substance of the spinal cord lying on either side between the posterior median sulcus and the dorsal root. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002258)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002258#dorsal-funiculus-of-spinal-cord
+   :name: dorsal funiculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002258
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalGrayCommissureOfSpinalCord
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalGrayCommissureOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the spinal cord gray commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014631) ('is_a' and 'relationship')]
+   :description: The part of the gray commissure in the spinal central gray posterior to the central canal of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014631)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014631#spinal-cord-posterior-gray-commissure
+   :name: dorsal gray commissure of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014631
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalHornOfSpinalCord
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalHornOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002256) ('is_a' and 'relationship')]
+   :description: The pronounced, dorsolaterally oriented ridge of grey matter in each lateral half of the spinal cord. the dorsal (more towards the back) grey matter of the spinal cord. It receives several types of sensory information from the body, including light touch, proprioception, and vibration. This information is sent from receptors of the skin, bones, and joints through sensory neurons whose cell bodies lie in the dorsal root ganglion. The dorsal region of the mature spinal cord contains neurons that process and relay sensory input. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002256)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002256#spinal-cord-dorsal-horn
+   :name: dorsal horn of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002256
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 dorsalHypothalamicArea
 ----------------------
 
@@ -10896,6 +11412,24 @@ dorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000044#dorsal-root-ganglion-1
    :name: dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000044
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+dorsalRootOfSpinalCord
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/dorsalRootOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002261)]
+   :description: The dorsal roots contain afferent sensory axons. The dorsal roots of each side continue outwards, along the way forming a dorsal root ganglion (also called a spinal ganglion). [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002261)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002261#dorsal-root-of-spinal-cord
+   :name: dorsal root of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002261
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -11648,6 +12182,23 @@ eighthThoracicDorsalRootGanglion
 
 ------------
 
+eighthThoracicSpinalCordSegment
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/eighthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006456)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006456#eighth-thoracic-spinal-cord-segment-1
+   :name: eighth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006456
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 electromotorDivisionOfOculomotorNuclearComplex
 ----------------------------------------------
 
@@ -11696,6 +12247,23 @@ eleventhThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002854#eleventh-thoracic-dorsal-root-ganglion-1
    :name: eleventh thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002854
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+eleventhThoracicSpinalCordSegment
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/eleventhThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006467)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006467#eleventh-thoracic-spinal-cord-segment-1
+   :name: eleventh thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006467
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12643,6 +13211,24 @@ fasciculusOfBrain
 
 ------------
 
+fasciculusOfSpinalCord
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fasciculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nerve fasciculus and central nervous system cell part cluster. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005837) ('is_a' and 'relationship')]
+   :description: A fascicle that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005837)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005837#fasciculus-of-spinal-cord
+   :name: fasciculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005837
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 fasciolarGyrus
 --------------
 
@@ -12752,6 +13338,23 @@ fifthLumbarDorsalRootGanglion
 
 ------------
 
+fifthLumbarSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthLumbarSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006447)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006447#fifth-lumbar-spinal-cord-segment-1
+   :name: fifth lumbar spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006447
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 fifthSacralDorsalRootGanglion
 -----------------------------
 
@@ -12769,6 +13372,23 @@ fifthSacralDorsalRootGanglion
 
 ------------
 
+fifthSacralSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthSacralSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006464)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006464#fifth-sacral-spinal-cord-segment-1
+   :name: fifth sacral spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006464
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 fifthThoracicDorsalRootGanglion
 -------------------------------
 
@@ -12781,6 +13401,23 @@ fifthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002848#fifth-thoracic-dorsal-root-ganglion-1
    :name: fifth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002848
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fifthThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fifthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006453)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006453#fifth-thoracic-spinal-cord-segment-1
+   :name: fifth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006453
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12838,6 +13475,23 @@ firstLumbarDorsalRootGanglion
 
 ------------
 
+firstLumbarSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstLumbarSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006448)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006448#first-lumbar-spinal-cord-segment-1
+   :name: first lumbar spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006448
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 firstSacralDorsalRootGanglion
 -----------------------------
 
@@ -12855,6 +13509,23 @@ firstSacralDorsalRootGanglion
 
 ------------
 
+firstSacralSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstSacralSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006460)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006460#first-sacral-spinal-cord-segment-1
+   :name: first sacral spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006460
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 firstThoracicDorsalRootGanglion
 -------------------------------
 
@@ -12867,6 +13538,23 @@ firstThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002845#first-thoracic-dorsal-root-ganglion-1
    :name: first thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002845
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+firstThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/firstThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006457)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006457#first-thoracic-spinal-cord-segment-1
+   :name: first thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006457
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -12977,6 +13665,24 @@ floorPlateOfTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003308#floor-plate-of-telencephalon
    :name: floor plate of telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003308
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+floorPlateSpinalCordRegion
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/floorPlateSpinalCordRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a regional part of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005723)]
+   :description: A multi-tissue structure that is part of a spinal cord and is part of a floor plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005723)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005723#floor-plate-spinal-cord-region
+   :name: floor plate spinal cord region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005723
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13180,6 +13886,40 @@ fourthLumbarDorsalRootGanglion
 
 ------------
 
+fourthLumbarSpinalCordSegment
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthLumbarSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006451)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006451#forth-lumbar-spinal-cord-segment
+   :name: fourth lumbar spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006451
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthSacralSpinalCordSegment
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthSacralSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006463)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006463#forth-sacral-spinal-cord-segment
+   :name: fourth sacral spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006463
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 fourthSacralSpinalGanglion
 --------------------------
 
@@ -13192,6 +13932,23 @@ fourthSacralSpinalGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007713#forth-sacral-dorsal-root-ganglion
    :name: fourth sacral spinal ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007713
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+fourthThoracicSpinalCordSegment
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/fourthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006452)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006452#forth-thoracic-spinal-cord-segment
+   :name: fourth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006452
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -13597,6 +14354,24 @@ fundusStriati
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014605#fundus-striati-1
    :name: fundus striati
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014605
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+funiculusOfSpinalCord
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/funiculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a funiculus of neuraxis. Is part of the white matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006127) ('is_a' and 'relationship')]
+   :description: A funiculus of neuraxis that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006127)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006127#funiculus-of-spinal-cord
+   :name: funiculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006127
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -14354,6 +15129,24 @@ gracileFasciculusOfMedulla
 
 ------------
 
+gracileFasciculusOfSpinalCord
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/gracileFasciculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gracile fasciculus and fasciculus of spinal cord. Is part of the spinal cord dorsal column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005826) ('is_a' and 'relationship')]
+   :description: A gracile fasciculus that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005826)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005826#gracile-fasciculus-of-spinal-cord
+   :name: gracile fasciculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005826
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 gracileNucleus
 --------------
 
@@ -14507,6 +15300,24 @@ grayMatterOfHindbrain
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019263#gray-matter-of-hindbrain
    :name: gray matter of hindbrain
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019263
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+grayMatterOfSpinalCord
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/grayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002315) ('is_a' and 'relationship')]
+   :description: The ridge-shaped grey matter of the spinal cord that extends longitudunally through the center of each half of the spinal cord, and are largely or entirely composed of nerve cell bodies and their dendrites and some supportive tissue. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002315)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002315#gray-matter-of-spinal-cord
+   :name: gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002315
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15054,6 +15865,24 @@ hindbrainPiaMater
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003554#hindbrain-pia-mater
    :name: hindbrain pia mater
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003554
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+hindbrainSpinalCordBoundary
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/hindbrainSpinalCordBoundary
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]
+   :description: An anatomical boundary that adjacent to a hindbrain and adjacent to a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005076)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005076#hindbrain-spinal-cord-boundary
+   :name: hindbrain-spinal cord boundary
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005076
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18030,6 +18859,92 @@ lacrimalNerve
 
 ------------
 
+laminaIIIOfGrayMatterOfSpinalCord
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaIIIOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016574) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016574#lamina-iii-of-gray-matter-of-spinal-cord
+   :name: lamina III of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016574
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaIOfGrayMatterOfSpinalCord
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaIOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118) ('is_a' and 'relationship')]
+   :description: Cytoarchitectural part of spinal cord gray matter. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006118)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006118#lamina-i-of-gray-matter-of-spinal-cord
+   :name: lamina I of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006118
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaIVOfGrayMatterOfSpinalCord
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaIVOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016575) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016575#lamina-iv-of-gray-matter-of-spinal-cord
+   :name: lamina IV of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016575
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaIXOfGrayMatterOfSpinalCord
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaIXOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the ventral horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016580) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016580#lamina-ix-of-gray-matter-of-spinal-cord
+   :name: lamina IX of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016580
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaOfGrayMatterOfSpinalCord
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster and nervous system cell part layer. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016570) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016570#lamina-of-gray-matter-of-spinal-cord
+   :name: lamina of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016570
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 laminaOfSeptumPellucidum
 ------------------------
 
@@ -18062,6 +18977,76 @@ laminaTerminalisOfCerebralHemisphere
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0015117#lamina-terminalis-of-cerebral-hemisphere
    :name: lamina terminalis of cerebral hemisphere
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0015117
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaVIIIOfGrayMatterOfSpinalCord
+----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaVIIIOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the ventral commissural nucleus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016579) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016579#lamina-viii-of-gray-matter-of-spinal-cord
+   :name: lamina VIII of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016579
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaVIIOfGrayMatterOfSpinalCord
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaVIIOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the ventral horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016578) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016578#lamina-vii-of-gray-matter-of-spinal-cord
+   :name: lamina VII of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016578
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaVIOfGrayMatterOfSpinalCord
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaVIOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the dorsal horn of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016577) ('is_a' and 'relationship')]
+   :description: Spinal lamina VI is a lamina of the spinal cord. It is also known as the base of the posterior horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016577)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016577#lamina-vi-of-gray-matter-of-spinal-cord
+   :name: lamina VI of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016577
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+laminaVOfGrayMatterOfSpinalCord
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/laminaVOfGrayMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. Is part of the nucleus proprius of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016576) ('is_a' and 'relationship')]
+   :description: Spinal lamina V is a lamina of the spinal cord. It is also known as the neck of the posterior horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016576)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016576#lamina-v-of-gray-matter-of-spinal-cord
+   :name: lamina V of gray matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016576
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -18400,6 +19385,24 @@ lateralForebrainBundleTelencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000779#lateral-forebrain-bundle-telencephalon
    :name: lateral forebrain bundle telencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000779
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lateralFuniculusOfSpinalCord
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lateralFuniculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a funiculus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002179)]
+   :description: The lateral mass of fibers on either side of the spinal cord, between the anterolateral and posterolateral sulci. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002179)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002179#lateral-funiculus-of-spinal-cord
+   :name: lateral funiculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002179
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -20441,6 +21444,24 @@ lowerRhombicLip
 
 ------------
 
+lumbarDivisionOfSpinalCordCentralCanal
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarDivisionOfSpinalCordCentralCanal
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014543)]
+   :description: Part of central canal lying within the lumbar spinal cord. It is continuous rostrally with the central canal of the thoracic spinal cord and caudally with the central canal of the sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014543)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014543#lumbar-spinal-cord-central-canal
+   :name: lumbar division of spinal cord central canal
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014543
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lumbarDorsalRootGanglion
 ------------------------
 
@@ -20495,6 +21516,198 @@ lumbarNervePlexus
 
 ------------
 
+lumbarSpinalCord
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002792)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002792#lumbar-spinal-cord-1
+   :name: lumbar spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002792
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordDorsalColumn
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord dorsal column. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005842) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord dorsal column that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005842)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005842#lumbar-spinal-cord-dorsal-column-1
+   :name: lumbar spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005842
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordDorsalHorn
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal horn of spinal cord. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014638) ('is_a' and 'relationship')]
+   :description: A dorsal horn of spinal cord that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014638)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014638#lumbar-spinal-cord-dorsal-horn-1
+   :name: lumbar spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014638
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordGrayCommissure
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordGrayCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal gray commissure of spinal cord and lumbar spinal cord gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0033483)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0033483#lumbar-spinal-cord-gray-commissure-1
+   :name: lumbar spinal cord gray commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0033483
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordGrayMatter
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordGrayMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029636) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029636#lumbar-spinal-cord-gray-matter-1
+   :name: lumbar spinal cord gray matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0029636
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordLateralColumn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord lateral column. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005850) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord lateral column that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005850)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005850#lumbar-spinal-cord-lateral-column-1
+   :name: lumbar spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005850
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordLateralHorn
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordLateralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord lateral horn. Is part of the lumbar spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0031906) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0031906#lumbar-spinal-cord-lateral-horn-1
+   :name: lumbar spinal cord lateral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0031906
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordVentralColumn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord ventral column. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005855) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord ventral column that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005855)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005855#lumbar-spinal-cord-ventral-column-1
+   :name: lumbar spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005855
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordVentralCommissure
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordVentralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord ventral commissure. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007834) ('is_a' and 'relationship')]
+   :description: A spinal cord ventral commissure that is part of a lumbar spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007834)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007834#lumbar-spinal-cord-ventral-commissure-1
+   :name: lumbar spinal cord ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007834
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordVentralHorn
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordVentralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ventral horn of spinal cord. Is part of the lumbar spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0030276) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0030276#lumbar-spinal-cord-ventral-horn-1
+   :name: lumbar spinal cord ventral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0030276
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumbarSpinalCordWhiteMatter
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumbarSpinalCordWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of spinal cord. Is part of the lumbar spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026386) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026386#lumbar-spinal-cord-white-matter
+   :name: lumbar spinal cord white matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026386
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 lumbarSplanchnicNerve
 ---------------------
 
@@ -20544,6 +21757,24 @@ lumbosacralNervePlexus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001815#lumbosacral-nerve-plexus
    :name: lumbosacral nerve plexus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001815
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+lumenOfCentralCanalOfSpinalCord
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/lumenOfCentralCanalOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an anatomical entity. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009572) ('is_a' and 'relationship')]
+   :description: A cerebrospinal fluid-filled space that runs longitudinally through the length of the entire spinal cord. The central canal is contiguous with the ventricular system of the brain. The central canal represents the adult remainder of the neural tube. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0009572)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009572#lumen-of-central-canal-of-spinal-cord
+   :name: lumen of central canal of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009572
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -22829,6 +24060,24 @@ meninxOfMidbrain
 
 ------------
 
+meninxOfSpinalCord
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/meninxOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a meninx. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292) ('is_a' and 'relationship')]
+   :description: A meninx that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003292)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003292#meninx-of-spinal-cord
+   :name: meninx of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003292
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 meninxOfTelencephalon
 ---------------------
 
@@ -24502,6 +25751,23 @@ ninthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002852#ninth-thoracic-dorsal-root-ganglion-1
    :name: ninth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002852
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ninthThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ninthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006465)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006465#ninth-thoracic-spinal-cord-segment-1
+   :name: ninth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006465
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34147,6 +35413,24 @@ roofPlateOfTelencephalon
 
 ------------
 
+roofPlateSpinalCordRegion
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/roofPlateSpinalCordRegion
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005724)]
+   :description: A tissue that is part of a spinal cord and is part of a roof plate. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005724)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005724#roof-plate-spinal-cord-region
+   :name: roof plate spinal cord region
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005724
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 rostralAnteriorCingulateCortex
 ------------------------------
 
@@ -34662,6 +35946,24 @@ saccusVasculosus
 
 ------------
 
+sacralDivisionOfSpinalCordCentralCanal
+--------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralDivisionOfSpinalCordCentralCanal
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014547)]
+   :description: Part of spinal cord central canal contained in the sacral spinal cord. It is continuous rostrally with the spinal cord central canal of the lumbar cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014547)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014547#sacral-division-of-spinal-cord-central-canal
+   :name: sacral division of spinal cord central canal
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014547
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sacralDorsalRootGanglion
 ------------------------
 
@@ -34674,6 +35976,198 @@ sacralDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002837#sacral-dorsal-root-ganglion-1
    :name: sacral dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002837
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCord
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005843)]
+   :description: A spinal cord segment that adjacent to a sacral region. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005843)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005843#sacral-spinal-cord-1
+   :name: sacral spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005843
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordDorsalColumn
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord dorsal column. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005840) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord dorsal column that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005840)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005840#sacral-spinal-cord-dorsal-column-1
+   :name: sacral spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005840
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordDorsalHorn
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal horn of spinal cord. Is part of the sacral spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0033939) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0033939#sacral-spinal-cord-dorsal-horn-1
+   :name: sacral spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0033939
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordGrayCommissure
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordGrayCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal gray commissure of spinal cord and sacral spinal cord gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0031111)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0031111#sacral-spinal-cord-gray-commissure-1
+   :name: sacral spinal cord gray commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0031111
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordGrayMatter
+--------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordGrayMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029503) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029503#sacral-spinal-cord-gray-matter-1
+   :name: sacral spinal cord gray matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0029503
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordLateralColumn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord lateral column. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005848) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord lateral column that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005848)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005848#sacral-spinal-cord-lateral-column-1
+   :name: sacral spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005848
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordLateralHorn
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordLateralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord lateral horn. Is part of the sacral spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0029538) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0029538#sacral-spinal-cord-lateral-horn-1
+   :name: sacral spinal cord lateral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0029538
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordVentralColumn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord ventral column. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005853) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord ventral column that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005853)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005853#sacral-spinal-cord-ventral-column-1
+   :name: sacral spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005853
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordVentralCommissure
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordVentralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord ventral commissure. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007835) ('is_a' and 'relationship')]
+   :description: A spinal cord ventral commissure that is part of a sacral spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007835)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007835#sacral-spinal-cord-ventral-commissure-1
+   :name: sacral spinal cord ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007835
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordVentralHorn
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordVentralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ventral horn of spinal cord. Is part of the sacral spinal cord gray matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0032748) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0032748#sacral-spinal-cord-ventral-horn-1
+   :name: sacral spinal cord ventral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0032748
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sacralSpinalCordWhiteMatter
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sacralSpinalCordWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of spinal cord. Is part of the sacral spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026246) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026246#sacral-spinal-cord-white-matter-1
+   :name: sacral spinal cord white matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026246
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34818,6 +36312,23 @@ secondLumbarDorsalRootGanglion
 
 ------------
 
+secondLumbarSpinalCordSegment
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondLumbarSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006450)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006450#second-lumbar-spinal-cord-segment-1
+   :name: second lumbar spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006450
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 secondSacralDorsalRootGanglion
 ------------------------------
 
@@ -34835,6 +36346,23 @@ secondSacralDorsalRootGanglion
 
 ------------
 
+secondSacralSpinalCordSegment
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondSacralSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006461)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006461#second-sacral-spinal-cord-segment-1
+   :name: second sacral spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006461
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 secondThoracicDorsalRootGanglion
 --------------------------------
 
@@ -34847,6 +36375,23 @@ secondThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002846#second-thoracic-dorsal-root-ganglion-1
    :name: second thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002846
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+secondThoracicSpinalCordSegment
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/secondThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006458)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006458#second-thoracic-spinal-cord-segment-1
+   :name: second thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006458
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35356,6 +36901,23 @@ seventhThoracicDorsalRootGanglion
 
 ------------
 
+seventhThoracicSpinalCordSegment
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/seventhThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006455)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006455#seventh-thoracic-spinal-cord-segment-1
+   :name: seventh thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006455
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 sheathOfSchwann
 ---------------
 
@@ -35440,6 +37002,23 @@ sixthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002849#sixth-thoracic-dorsal-root-ganglion-1
    :name: sixth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002849
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+sixthThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/sixthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006454)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006454#sixth-thoracic-spinal-cord-segment-1
+   :name: sixth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006454
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35591,6 +37170,42 @@ sphenoparietalSinus
 
 ------------
 
+spinalCord
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]
+   :description: Part of the central nervous system located in the vertebral canal continuous with and caudal to the brain; demarcated from brain by plane of foramen magnum. It is composed of an inner core of gray matter in which nerve cells predominate, and an outer layer of white matter in which myelinated nerve fibers predominate, and surrounds the central canal. (CUMBO) [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002240)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002240#spinal-cord-1
+   :name: spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002240
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordAlarPlate
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordAlarPlate
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a neural tube alar plate. Is part of the future spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004063) ('is_a' and 'relationship')]
+   :description: The region of the mantle layer of the neural tube that lies dorsal to the sulcus limitans and contains primarily sensory neurons and interneurons involved in communication of sensory impulses; the alar plate develops into the dorsal horn in the grey matter of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004063)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004063#spinal-cord-alar-plate
+   :name: spinal cord alar plate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004063
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalCordArachnoidMater
 ------------------------
 
@@ -35609,6 +37224,166 @@ spinalCordArachnoidMater
 
 ------------
 
+spinalCordColumn
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a central nervous system cell part cluster. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016550) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016550#spinal-cord-column
+   :name: spinal cord column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016550
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordCommissure
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a nervous system commissure and tract of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008882)]
+   :description: The nerve fiber tracts that span the midline of the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0008882)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0008882#spinal-cord-commissure
+   :name: spinal cord commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0008882
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordDorsalColumn
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the dorsal funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005373) ('is_a' and 'relationship')]
+   :description: The wedge-shaped fiber bundle of white matter in the dorsomedial side of the spinal cord that is made up of the fasciculus gracilis and fasciculus cuneatus; it is part of the ascending posterior column-medial lemniscus pathway that is important for well-localized fine touch and conscious proprioception. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005373)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005373#spinal-cord-dorsal-column
+   :name: spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005373
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordDorsalWhiteCommissure
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordDorsalWhiteCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord white commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007840)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007840#spinal-cord-dorsal-white-commissure
+   :name: spinal cord dorsal white commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007840
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordEpendyma
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordEpendyma
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an ependyma. Is part of the central canal of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005359) ('is_a' and 'relationship')]
+   :description: The ependymal cell layer that lines the spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005359)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005359#spinal-cord-ependyma
+   :name: spinal cord ependyma
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005359
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordGrayCommissure
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordGrayCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lamina of gray matter of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]
+   :description: The band of grey substance spanning the midline of the spinal cord that surrounds the central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004677)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004677#spinal-cord-gray-commissure-1
+   :name: spinal cord gray commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004677
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordLateralColumn
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the lateral funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005374) ('is_a' and 'relationship')]
+   :description: The region of white matter of the spinal cord that is located between the dorsal and ventral spinal roots. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005374)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005374#spinal-cord-lateral-column
+   :name: spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005374
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordLateralHorn
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordLateralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676) ('is_a' and 'relationship')]
+   :description: A triangular field that is a lateralward projection of the postero-lateral part of the anterior column. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004676)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004676#spinal-cord-lateral-horn-1
+   :name: spinal cord lateral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004676
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordLateralMotorColumn
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordLateralMotorColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord motor column and spinal cord lateral column. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010405)]
+   :description: Column of motor neurons which innervate muscles in the limb; motor neurons in the lateral motor column are further organized into pools, each of which innervates a specific muscle in the limb. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0010405)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010405#spinal-cord-lateral-motor-column
+   :name: spinal cord lateral motor column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010405
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalCordMantleLayer
 ---------------------
 
@@ -35621,6 +37396,42 @@ spinalCordMantleLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0009583#spinal-cord-mantle-layer
    :name: spinal cord mantle layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0009583
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordMedialMotorColumn
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordMedialMotorColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord motor column. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004059)]
+   :description: The subclasses of motor neurons which project their axons to axial muscles that lie close to the vertebral column; motor neurons in the lateral subdivision of the MMC project their axons to body wall muscles. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004059)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004059#spinal-cord-medial-motor-column
+   :name: spinal cord medial motor column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004059
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordMotorColumn
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordMotorColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003990)]
+   :description: The subclasses of motor neurons which are organized into longitudinally oriented columns that occupy distinct and, in some cases, discontinuous domains along the rostrocaudal axis of the spinal cord; motor neurons within a single column send their axons to a common peripheral target. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003990)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003990#spinal-cord-motor-column
+   :name: spinal cord motor column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003990
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -35679,6 +37490,42 @@ spinalCordSulcusLimitans
 
 ------------
 
+spinalCordVentralColumn
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the ventral funiculus of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005375) ('is_a' and 'relationship')]
+   :description: The area of white matter of the spinal cord located on either side of the ventral (anterior) medial fissure. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005375)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005375#spinal-cord-ventral-column
+   :name: spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005375
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordVentralCommissure
+---------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordVentralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord white commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004170)]
+   :description: The band of nerve fibers which cross the midline of the spinal cord ventral to the central canal and posterior grey commissure. The anterior (or ventral) white commissure, also known as the alba anterior medullae spinalis, is a bundle of nerve fibers which cross the midline of the spinal cord just anterior to the gray commissure. A N4 fibers and C fibers carrying pain sensation in the spinothalamic tract contribute to this commissure, as do fibers of the anterior corticospinal tract, which carry motor signals from the primary motor cortex. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0004170)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0004170#spinal-cord-ventral-commissure
+   :name: spinal cord ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0004170
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 spinalCordVentricularLayer
 --------------------------
 
@@ -35691,6 +37538,23 @@ spinalCordVentricularLayer
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0034710#spinal-cord-ventricular-layer
    :name: spinal cord ventricular layer
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0034710
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+spinalCordWhiteCommissure
+-------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/spinalCordWhiteCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord commissure. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007838)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007838#spinal-cord-white-commissure
+   :name: spinal cord white commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007838
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -37137,6 +39001,75 @@ subdivisionOfDiagonalBand
 
 ------------
 
+subdivisionOfSpinalCordCentralCanal
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subdivisionOfSpinalCordCentralCanal
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is part of the central canal of spinal cord. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014538)]
+   :description: A subdivision of the central canal of the spinal cord along its anterior-posterior axis. This is typically subdivided into cervical, thoracic, lumbar and sacral segments. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014538)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014538#regional-part-of-spinal-cord-central-canal
+   :name: subdivision of spinal cord central canal
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014538
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+subdivisionOfSpinalCordDorsalColumn
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subdivisionOfSpinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the spinal cord dorsal column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006079) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006079#subdivision-of-spinal-cord-dorsal-column
+   :name: subdivision of spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006079
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+subdivisionOfSpinalCordLateralColumn
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subdivisionOfSpinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the spinal cord lateral column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006078) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006078#subdivision-of-spinal-cord-lateral-column
+   :name: subdivision of spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006078
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+subdivisionOfSpinalCordVentralColumn
+------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/subdivisionOfSpinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the spinal cord ventral column. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0016551) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0016551#subdivision-of-spinal-cord-ventral-column
+   :name: subdivision of spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0016551
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 subduralSpace
 -------------
 
@@ -37512,6 +39445,60 @@ substantiaGelatinosa
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002181#substantia-gelatinosa-of-spinal-cord-dorsal-horn
    :name: substantia gelatinosa
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002181
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+substantiaGelatinosaOfCervicalSpinalCordDorsalHorn
+--------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaGelatinosaOfCervicalSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a substantia gelatinosa. Is part of the cervical spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014623) ('is_a' and 'relationship')]
+   :description: A substantia gelatinosa that is part of a cervical spinal cord dorsal horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014623)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014623#substantia-gelatinosa-of-cervical-spinal-cord-dorsal-horn-1
+   :name: substantia gelatinosa of cervical spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014623
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+substantiaGelatinosaOfLumbarSpinalCordDorsalHorn
+------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaGelatinosaOfLumbarSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a substantia gelatinosa. Is part of the lumbar spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014633) ('is_a' and 'relationship')]
+   :description: A substantia gelatinosa that is part of a lumbar spinal cord dorsal horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014633)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014633#substantia-gelatinosa-of-lumbar-spinal-cord-dorsal-horn-1
+   :name: substantia gelatinosa of lumbar spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014633
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+substantiaGelatinosaOfThoracicSpinalCordDorsalHorn
+--------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/substantiaGelatinosaOfThoracicSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a substantia gelatinosa. Is part of the thoracic spinal cord dorsal horn. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014612) ('is_a' and 'relationship')]
+   :description: Substantia gelatinosa of thoracic spinal cord posterior horn. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014612)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014612#substantia-gelatinosa-of-thoracic-spinal-cord-dorsal-horn-1
+   :name: substantia gelatinosa of thoracic spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014612
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39688,6 +41675,23 @@ tenthThoracicDorsalRootGanglion
 
 ------------
 
+tenthThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tenthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006466)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006466#tenth-thoracic-spinal-cord-segment-1
+   :name: tenth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006466
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 tentorialSinus
 --------------
 
@@ -39849,6 +41853,23 @@ thirdLumbarDorsalRootGanglion
 
 ------------
 
+thirdLumbarSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdLumbarSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a lumbar subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006449)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006449#third-lumbar-spinal-cord-segment-1
+   :name: third lumbar spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006449
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 thirdSacralDorsalRootGanglion
 -----------------------------
 
@@ -39866,6 +41887,23 @@ thirdSacralDorsalRootGanglion
 
 ------------
 
+thirdSacralSpinalCordSegment
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdSacralSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a sacral subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006462)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006462#third-sacral-spinal-cord-segment-1
+   :name: third sacral spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006462
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 thirdThoracicDorsalRootGanglion
 -------------------------------
 
@@ -39878,6 +41916,23 @@ thirdThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002847#third-thoracic-dorsal-root-ganglion-1
    :name: third thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002847
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thirdThoracicSpinalCordSegment
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thirdThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006459)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006459#third-thoracic-spinal-cord-segment-1
+   :name: third thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006459
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -39956,6 +42011,24 @@ thirdVentricleEpendyma
 
 ------------
 
+thoracicDivisionOfSpinalCordCentralCanal
+----------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicDivisionOfSpinalCordCentralCanal
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord central canal. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]
+   :description: Part of spinal cord central canal contained in the thoracic spinal cord. It is continuous rostrally with the cervical spinal cord central canal and caudally with the lumbar spinal cord central canal. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014541)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014541#thoracic-spinal-cord-central-canal
+   :name: thoracic division of spinal cord central canal
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014541
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 thoracicDorsalRootGanglion
 --------------------------
 
@@ -39987,6 +42060,203 @@ thoracicGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0000961#thoracic-ganglion
    :name: thoracic ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000961
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCord
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord segment. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]
+   :description: The thoracic nerves are the spinal nerves emerging from the thoracic vertebrae. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0003038)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0003038#thoracic-spinal-cord
+   :name: thoracic spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0003038
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordDorsalColumn
+------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordDorsalColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord dorsal column. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005839) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord dorsal column that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005839)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005839#thoracic-spinal-cord-dorsal-column-1
+   :name: thoracic spinal cord dorsal column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005839
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordDorsalHorn
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordDorsalHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal horn of spinal cord. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014609) ('is_a' and 'relationship')]
+   :description: A dorsal horn of spinal cord that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014609)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014609#thoracic-spinal-cord-dorsal-horn-1
+   :name: thoracic spinal cord dorsal horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014609
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordGrayCommissure
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordGrayCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a dorsal gray commissure of spinal cord and thoracic spinal cord gray matter. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0026293)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0026293#thoracic-spinal-cord-gray-commissure-1
+   :name: thoracic spinal cord gray commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0026293
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordGrayMatter
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordGrayMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014636) ('is_a' and 'relationship')]
+   :description: A gray matter of spinal cord that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014636)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014636#thoracic-spinal-cord-gray-matter-1
+   :name: thoracic spinal cord gray matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014636
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordLateralColumn
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordLateralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord lateral column. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005847) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord lateral column that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005847)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005847#thoracic-spinal-cord-lateral-column-1
+   :name: thoracic spinal cord lateral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005847
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordLateralHorn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordLateralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord lateral horn. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014607) ('is_a' and 'relationship')]
+   :description: A spinal cord lateral horn that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014607)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014607#thoracic-spinal-cord-lateral-horn-1
+   :name: thoracic spinal cord lateral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014607
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordVentralColumn
+-------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordVentralColumn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a subdivision of spinal cord ventral column. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005852) ('is_a' and 'relationship')]
+   :description: A subdivision of spinal cord ventral column that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0005852)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0005852#thoracic-spinal-cord-ventral-column-1
+   :name: thoracic spinal cord ventral column
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0005852
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordVentralCommissure
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordVentralCommissure
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord ventral commissure. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007837) ('is_a' and 'relationship')]
+   :description: A spinal cord ventral commissure that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007837)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007837#thoracic-spinal-cord-ventral-commissure-1
+   :name: thoracic spinal cord ventral commissure
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007837
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordVentralHorn
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordVentralHorn
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a ventral horn of spinal cord. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014610) ('is_a' and 'relationship')]
+   :description: A ventral horn of spinal cord that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014610)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014610#thoracic-spinal-cord-ventral-horn-1
+   :name: thoracic spinal cord ventral horn
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014610
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+thoracicSpinalCordWhiteMatter
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/thoracicSpinalCordWhiteMatter
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter of spinal cord. Is part of the thoracic spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014637) ('is_a' and 'relationship')]
+   :description: A white matter of spinal cord that is part of a thoracic spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014637)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014637#thoracic-spinal-cord-white-matter-1
+   :name: thoracic spinal cord white matter
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014637
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40042,6 +42312,24 @@ tractOfDiencephalon
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0011591#tract-of-diencephalon
    :name: tract of diencephalon
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0011591
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+tractOfSpinalCord
+-----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/tractOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is an axon tract. Is part of the spinal cord and the white matter. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007699) ('is_a' and 'relationship')]
+   :description: An axon tract that is part of a spinal cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0007699)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0007699#tract-of-spinal-cord
+   :name: tract of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0007699
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -40529,6 +42817,23 @@ twelfthThoracicDorsalRootGanglion
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002855#twelfth-thoracic-dorsal-root-ganglion-1
    :name: twelfth thoracic dorsal root ganglion
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002855
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+twelfthThoracicSpinalCordSegment
+--------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/twelfthThoracicSpinalCordSegment
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a thoracic subsegment of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0006468)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0006468#twelfth-thoracic-spinal-cord-segment-1
+   :name: twelfth thoracic spinal cord segment
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0006468
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -41161,6 +43466,59 @@ ventralExternalArcuateFiberBundle
 
 ------------
 
+ventralFuniculusOfSpinalCord
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralFuniculusOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a funiculus of spinal cord. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002180)]
+   :description: The white substance of the spinal cord lying on either side between the ventral median fissure and the ventral roots of the spinal nerves. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002180)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002180#ventral-funiculus-of-spinal-cord
+   :name: ventral funiculus of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002180
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralGrayCommissureOfSpinalCord
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralGrayCommissureOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a gray matter of spinal cord. Is part of the spinal cord gray commissure. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0014630) ('is_a' and 'relationship')]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0014630#spinal-cord-anterior-gray-commissure
+   :name: ventral gray commissure of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0014630
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralHornOfSpinalCord
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralHornOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal cord column. Is part of the gray matter of spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257) ('is_a' and 'relationship')]
+   :description: The ventral grey column of the spinal cord. The neurons of the ventral region of the mature spinal cord participate in motor output. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002257)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002257#spinal-cord-ventral-horn
+   :name: ventral horn of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002257
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
 ventralIntermediateNucleusOfThalamus
 ------------------------------------
 
@@ -41503,6 +43861,24 @@ ventralRhombencephalicCommissureMedullaOblongata
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:2000985#ventral-rhombencephalic-commissure-medulla-oblongata
    :name: ventral rhombencephalic commissure medulla oblongata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_2000985
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+ventralRootOfSpinalCord
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/ventralRootOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a spinal nerve root. [auto-generated from 'is_a' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002260)]
+   :description: The ventral roots contain efferent motor axons. Similar to the dorsal roots, the ventral roots continue out from the spinal column, and meet and mix with their corresponding dorsal nerve root at a point after the ganglion. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002260)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002260#ventral-root-of-spinal-cord
+   :name: ventral root of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002260
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -42472,6 +44848,24 @@ whiteMatterOfPontineTegmentum
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0019293#predominantly-white-regional-part-of-pontine-tegmentum
    :name: white matter of pontine tegmentum
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0019293
+
+`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
+
+------------
+
+whiteMatterOfSpinalCord
+-----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/UBERONParcellation/whiteMatterOfSpinalCord
+   :@type: https://openminds.om-i.org/types/UBERONParcellation
+   :definition: Is a white matter. Is part of the spinal cord. [auto-generated from properties of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002318) ('is_a' and 'relationship')]
+   :description: The regions of the spinal cord that are largely or entirely composed of myelinated nerve cell axons and contain few or no neural cell bodies or dendrites. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0002318)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002318#white-matter-of-spinal-cord
+   :name: white matter of spinal cord
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002318
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
