@@ -1497,25 +1497,6 @@ adenohypophysis
 
 ------------
 
-aggregateRegionalPartOfBrain
-----------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/aggregateRegionalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Aggregate regional part of brain' is an anatomical entity. It is part of the brain.
-   :description: A regional part of brain consisting of multiple brain regions that are not related through a simple volummetric part of hierarchy, e.g., basal ganglia.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100410
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0010009#aggregate-regional-part-of-brain-1
-   :name: aggregate regional part of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0010009
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
 agranularInsularCortex
 ----------------------
 
@@ -7793,43 +7774,6 @@ cervicothoracicGanglion
 
 ------------
 
-chemoarchitecturalPartOfBrain
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Chemoarchitectural part of brain' is a regional part of brain.
-   :description: Regional part of an anatomical region that is revealed by the use of a stain that reveals chemoarchitecture.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102072
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0024090#chemoarchitectural-part
-   :name: chemoarchitectural part of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0024090
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-chemoarchitecturalPartOfStriatum
---------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/chemoarchitecturalPartOfStriatum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102073
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0025736#chemoarchitectural-part-of-striatum
-   :name: chemoarchitectural part of striatum
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0025736
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
 chemoreceptor
 -------------
 
@@ -8736,25 +8680,6 @@ communicatingBranchOfSpinalNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0017642#communicating-branch-of-spinal-nerve
    :name: communicating branch of spinal nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0017642
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-compositePartSpanningMultipleBaseRegionalPartsOfBrain
------------------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Composite part spanning multiple base regional parts of brain' is an anatomical entity. It is part of the brain.
-   :description:
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102438
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0022776#composite-part-spanning-multiple-base-regional-parts-of-brain-1
-   :name: composite part spanning multiple base regional parts of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0022776
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -15424,24 +15349,6 @@ greaterSplanchnicNerve
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0018680#greater-splanchnic-nerve
    :name: greater splanchnic nerve
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0018680
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-grossAnatomicalPartsOfTheCerebellum
------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/grossAnatomicalPartsOfTheCerebellum
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Gross anatomical parts of the cerebellum' is a regional part of brain. It is part of the cerebellum.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104796
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0023836#gross-anatomical-parts-of-the-cerebellum-1
-   :name: gross anatomical parts of the cerebellum
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0023836
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
@@ -34980,43 +34887,6 @@ redNucleus
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001947#red-nucleus-1
    :name: red nucleus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0001947
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-regionalPartOfBrain
--------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfBrain
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Regional part of brain' is a regional part of nervous system. It is part of the brain.
-   :description: Anatomical divisions of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0109835
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002616#regional-part-of-brain-1
-   :name: regional part of brain
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002616
-
-`BACK TO TOP <Terminologies: UBERONParcellation library_>`_
-
-------------
-
-regionalPartOfCerebellarCortex
-------------------------------
-
-.. admonition:: metadata sheet
-
-   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
-   :@id: https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex
-   :@type: https://openminds.ebrains.eu/controlledTerms/UBERONParcellation
-   :definition: 'Regional part of cerebellar cortex' is a regional part of brain. It is part of the cerebellar cortex.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0109837
-   :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0002749#regional-part-of-cerebellar-cortex-1
-   :name: regional part of cerebellar cortex
-   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0002749
 
 `BACK TO TOP <Terminologies: UBERONParcellation library_>`_
 
